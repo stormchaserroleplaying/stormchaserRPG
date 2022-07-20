@@ -23,7 +23,7 @@ Enjoy your games!
   
   A Stormchaser Roleplaying Publication<br>
   
-  <a href="https://stormchaser-roleplaying.github.io/">stormchaserroleplaying.github.io</a><br>
+  <a href="https://stormchaser-roleplaying.github.io/">stormchaser-roleplaying.github.io</a><br>
   
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   

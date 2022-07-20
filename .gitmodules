@@ -1,0 +1,18 @@
+[submodule "docs/00_Introduction"]
+	path = docs/00_Introduction
+	url = https://github.com/stormchaserRPG/00_Introduction
+[submodule "docs/01_StepbyStepCharacters"]
+	path = docs/01_StepbyStepCharacters
+	url = https://github.com/stormchaserRPG/01_StepbyStepCharacters
+[submodule "docs/02_Species"]
+	path = docs/02_Species
+	url = https://github.com/stormchaserRPG/02_Species
+[submodule "docs/03_Classes"]
+	path = docs/03_Classes
+	url = https://github.com/stormchaserRPG/03_Classes
+[submodule "docs/04_PersonalityandBackgrounds"]
+	path = docs/04_PersonalityandBackgrounds
+	url = https://github.com/stormchaserRPG/04_PersonalityandBackgrounds
+[submodule "docs/05_Equipment"]
+	path = docs/05_Equipment
+	url = https://github.com/stormchaserRPG/05_Equipment

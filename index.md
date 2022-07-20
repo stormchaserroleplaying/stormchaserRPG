@@ -11,9 +11,7 @@ Though inspired by many popular RPGs, including *Dungeons and Dragons 3rd Editio
 
 Within these pages, you will find a revised and refined version of the [first edition of SC5e](https://www.gmbinder.com/share/-MjzjZBb7BG23h6HaK7J "SC5e Legacy Index") that I wrote from 2018 to 2021. These legacy rules originally grew out of my work with Apostol Apostolov on [Grit and Glory](https://www.gmbinder.com/share/-LDHolQY2FURKf-8xCT3) and popularised SC5e amongst players looking for a darker and more realistic d20 experience. However, the cost of this realism was that some of these rules required games masters and players to remember many intricate details, which could be easily forgotten and slowed down play.
 
-This new system aims to solve these problems, providing the same visceral feeling in an easier-to-use package. Additionally, the gameplay will be optimised for asynchronous play-by-post, by eliminating unnecessary feedback loops wherever possible. This is an ongoing process and a changelog itemising the updates is posted regularly on the [community discord](https://discord.gg/HX9EK4A "Stormchaser Roleplaying on Discord"). 
-
-If you've benefited from these rules and find yourself using them regularly, please also consider subscribing to [Stormchaser Roleplaying on Patreon](https://www.patreon.com/stormchaserroleplaying).
+This new system aims to solve these problems, providing the same visceral feeling in an easier-to-use package. Additionally, the gameplay will be optimised for asynchronous play-by-post, by eliminating unnecessary feedback loops wherever possible. This is an ongoing process and a changelog itemising the updates is posted regularly on the [community discord](https://discord.gg/HX9EK4A "Stormchaser Roleplaying on Discord").
 
 Enjoy your games!
 
@@ -25,7 +23,7 @@ Enjoy your games!
   
   A Stormchaser Roleplaying Publication<br>
   
-  <a href="https://stormchaserroleplaying.github.io/">stormchaserroleplaying.github.io</a><br>
+  <a href="https://stormchaser-roleplaying.github.io/">stormchaserroleplaying.github.io</a><br>
   
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   

@@ -12,6 +12,8 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
+## Benefits
 Each background provides a character with a feature, 6 character points, a background feat and a package of starting equipment. A background feat may be a species feat, a skill feat, a tool feat, or other feat marked ᴮᴳ. If you use the optional rule from chapter 5 to spend coin on gear, you do not receive the starting equipment from your background.
 
+## Suggested Characteristics
 A background also contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.

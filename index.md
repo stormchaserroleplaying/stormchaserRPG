@@ -3,7 +3,7 @@ title: Welcome!
 nav_order: 1
 ---
 
-The Stormchaser Roleplaying Game (formerly 'SC5e') has come a long way since it's inception. Over the last three years, what began as a few house rules for a personal game has bloomed into an expansive compendium that makes up a full system overhaul.
+The Stormchaser Roleplaying Game (formerly 'SC5e') has come a long way since it's inception. What began in 2018 as a few house rules for a personal campaign has bloomed into an expansive compendium of rules that makes up a lone standing roleplaying game.
 
 I've taken great pleasure in writing and playtesting this game, but it wouldn't be where it is today without my faithful players and patrons. Throughout the development process, members of the [Stormchaser Roleplaying community](https://discord.gg/HX9EK4A "Stormchaser Roleplaying on Discord") have contributed both their ideas and their time to brainstorming, reviewing, proof-reading and trialling the contents. I'd like to take this opportunity to thank everyone involved.
 
@@ -23,7 +23,7 @@ Enjoy your games!
   
   A Stormchaser Roleplaying Publication<br>
   
-  <a href="https://stormchaser-roleplaying.github.io/">stormchaser-roleplaying.github.io</a><br>
+  <a href="https://stormchaserroleplaying.com/stormchaserRPG/">www.stormchaserroleplaying.com/stormchaserRPG</a><br>
   
   <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
   
@@ -33,9 +33,7 @@ Enjoy your games!
 
 <p align="center">
   
-  Stormchaser<br>
-  
-  A d20 Roleplaying Game<br>
+  The Stormchaser Roleplaying Game<br>
   
   Copyright ©2021 Stormchaser Roleplaying<br>
   

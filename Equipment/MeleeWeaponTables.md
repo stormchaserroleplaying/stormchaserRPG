@@ -2,7 +2,7 @@
 title: Melee Weapon Tables
 parent: Weapons
 grand_parent: Equipment
-nav_order: 1
+nav_order: 2
 ---
 
 # Melee Weapon Tables

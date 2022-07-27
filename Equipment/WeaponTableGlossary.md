@@ -30,8 +30,6 @@ When a melee attack with a cleave weapon reduces a creature to 0 hit points, any
 ### Close
 If the target of an attack with a close weapon is grappled, double the number of weapon dice rolled for the attack's damage.
 
-The close weapon property includes the effects of the finesse and light weapon properties.
-
 ### Concealed
 Weapons with the Concealed property can be hidden from plain sight until wielded or used. You can use your Dexterity (Sleight of Hand) skill to hide the weapon.
 
@@ -49,8 +47,6 @@ Exotic weapons are only considered martial weapons for a specific species. A cha
 
 ### Finesse
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. If your Strength is less than the **Str/Dex** entry of the weapon, then you suffer disadvantage on your attack rolls with the weapon when using Dexterity in this way.
-
-The light and close properties include the finesse property.
 
 ### Grappling
 When you hit with a melee or thrown attack using a weapon with the Grappling property, you can spend your bonus action to attempt to grapple them. Make an attack roll vs the target's passive Dexterity (Acrobatics) skill. If you succeed, your weapon grapples the target. Other weapon properties (restrain, preventing, etc.) include this property and modify the grapple.
@@ -98,8 +94,6 @@ Whilst your weapon is grappling the target (see Grappling weapon property) and y
 Light weapons are small and easy to handle, making them ideal for use when fighting with two weapons (see the rules for two-weapon fighting in chapter 9).
 
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer disadvantage on their attack roll, if they are proficient with the weapon.
-
-The light weapon property includes the effects of the finesse weapon property. The close weapon property includes the effects of the light weapon property.
 
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer disadvantage.

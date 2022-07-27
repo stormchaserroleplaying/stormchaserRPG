@@ -12,16 +12,16 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Hatchet | 3 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Concealed, light, thrown (30/90) |
-| Handaxe | 5 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Light, thrown (20/60) |
+| Hatchet | 3 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Concealed, finesse, light, thrown (30/90) |
+| Handaxe | 5 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown (20/60) |
 | Archer's Axe | 7 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | — |
 
 ##### Martial Axes
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Boarding Axe | 6 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, hooked, light
-| Dwarven Maulaxe | 25 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, exotic, hooked, light, sunder 1, thrown (20/60) |
+| Boarding Axe | 6 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, finesse, hooked, light
+| Dwarven Maulaxe | 25 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, exotic, finesse, hooked, light, sunder 1, thrown (20/60) |
 | Battleaxe | 10 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, versatile |
 | Longaxe | 10 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, trip, two-handed |
 | Greataxe | 30 gp | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 13 | Brutal 1, cleave, two-handed, unwieldy |
@@ -32,19 +32,19 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Stiletto | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ½ lb. | 5 | Brutal 1, close, concealed |
-| Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, thrown (20/60) |
-| Sickle | 1 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Hooked, light |
-| Smallsword | 10 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 7 | Light |
+| Stiletto | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ½ lb. | 5 | Brutal 1, close, concealed, finesse, light |
+| Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, finesse, light, thrown (20/60) |
+| Sickle | 1 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, hooked, light |
+| Smallsword | 10 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 7 | Finesse, light |
 | Arming Sword | 10 gp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | — |
 
 ##### Martial Blades
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Swordbreaker | 12 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Close, disarm, parry |
-| Scimitar | 15 gp| 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Light, mounted, parry |
-| Shortsword | 10 gp | 2d3 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Light, parry |
+| Swordbreaker | 12 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Close, disarm, finesse, light, parry |
+| Scimitar | 15 gp| 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, light, mounted, parry |
+| Shortsword | 10 gp | 2d3 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, light, parry |
 | Falchion | 15 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Critical, parry |
 | Cavalry Sabre | 15 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 9 | Mounted, parry |
 | Rapier | 20 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 9 | Critical, finesse, parry |
@@ -62,8 +62,8 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Light Hammer | 2 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | 5 | Light, thrown (20/60) |
-| Light Mace | 5 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 7 | Light |
+| Light Hammer | 2 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | 5 | Finesse, light, thrown (20/60) |
+| Light Mace | 5 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 7 | Finesse, light |
 | Club | 1 sp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 3 lb. | 7 | Non-lethal |
 | Heavy Mace | 12 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 4 lb. | 9 | — |
 | Greatclub | 2 sp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 8 lb. | 11 | Non-lethal, two-handed, unwieldy |
@@ -72,8 +72,8 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Light Pick | 4 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 7 | Brutal 2, light, mounted, sunder 2 |
-| Sap | 1 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 7 | Close, concealed, non-lethal |
+| Light Pick | 4 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 7 | Brutal 2, finesse, light, mounted, sunder 2 |
+| Sap | 1 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 7 | Close, concealed, finesse, light, non-lethal |
 | Warpick | 8 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 3 lb. | 9 | Brutal 2, mounted, sunder 2, versatile |
 | Morningstar | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 3 lb. | 9 | Sharp 1, sunder 1, vicious |
 | Warhammer | 12 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 11 | Brutal 1, sunder 2, versatile |
@@ -85,22 +85,22 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Lasso | 1 sp | — | 5 lb. | 9 | Break, finesse, restrain (body/legs), tangle, thrown (20/60) |
-| Whip | 1 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Disarm, finesse, non-lethal, reach, restrain (hand), tangle, trip |
+| Lasso | 1 sp | — | 5 lb. | 9 | Break, finesse, restraining (body/legs), tangle, thrown (20/60) |
+| Whip | 1 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Disarm, finesse, non-lethal, reach, restraining (hand), tangle, trip |
 | Scourge | 1 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, non-lethal, tangle |
-| Garotte | 3 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Light, suffocating, two-handed |
+| Garotte | 3 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Finesse, light, suffocating, two-handed |
 | Peasant Flail | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Two-handed |
 
 ##### Martial Flexible Weapons
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Bolas | 5 gp | — | 2 lb. | 9 | Break, finesse, reach, restrain (legs), thrown (20/60) |
-| Net | 1 gp | — | 3 lb. | 9 | Break, finesse, restrain (all/hand/legs), thrown (5/15) |
-| Spiked Whip | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 9 | Disarm, finesse, reach, restrain (hand), tangle, trip, vicious |
+| Bolas | 5 gp | — | 2 lb. | 9 | Break, finesse, reach, restraining (legs), thrown (20/60) |
+| Net | 1 gp | — | 3 lb. | 9 | Break, finesse, restraining (all/hand/legs), thrown (5/15) |
+| Spiked Whip | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 9 | Disarm, finesse, reach, restraining (hand), tangle, trip, vicious |
 | Barbed Net | 20 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 6 lb. | 9 | As the net, plus: ongoing (1), tangle, vicious |
-| Light Chain | 15 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Break, disarm, finesse, reach, restrain (hand/body/legs), tangle, trip, two-handed |
-| Spiked Chain | 25 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 10 lb. | 11 | Break, disarm, finesse, ongoing (1), reach, restrain (hand/body/legs), tangle, trip, two-handed, vicious |
+| Light Chain | 15 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Break, disarm, finesse, reach, restraining (hand/body/legs), tangle, trip, two-handed |
+| Spiked Chain | 25 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 10 lb. | 11 | Break, disarm, finesse, ongoing (1), reach, restraining (hand/body/legs), tangle, trip, two-handed, vicious |
 | Flail | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 11 | Disarm, tangle, trip, versatile, vicious |
 | Heavy Flail | 15 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 13 | Disarm, tangle, trip, two-handed, unwieldy, vicious |
 | Dorn-Dergar | 50 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 7 lb. | 15 | Disarm, exotic (dwarf), reach, tangle, trip, two-handed, unwieldy, vicious |
@@ -146,9 +146,9 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Brutal, close, concealed |
-| Glove, armoured | 2 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, non-lethal, worn |
-| Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | — | Close, vicious, worn |
-| Hook, prosthetic | 10 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Close, disarm, hooked, worn |
-| Knuckles, brass | 1 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, concealed, non-lethal, worn |
+| Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Brutal, close, concealed, finesse, light |
+| Glove, armoured | 2 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, finesse, light, non-lethal, worn |
+| Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | — | Close, finesse, light, vicious, worn |
+| Hook, prosthetic | 10 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Close, disarm, finesse, hooked, light, worn |
+| Knuckles, brass | 1 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, concealed, finesse, light, non-lethal, worn |
 | Unarmed strike | — | 1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | — | Non-lethal |

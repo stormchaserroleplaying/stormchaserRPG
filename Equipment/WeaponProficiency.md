@@ -1,6 +1,6 @@
 ---
 title: Weapon Proficiency
-parent: Armour and Shields
+parent: Weapons
 grand_parent: Equipment
 nav_order: 1
 ---

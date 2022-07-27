@@ -20,13 +20,13 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Boarding Axe | 6 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src=https://img.icons8.com/ios/12/FFFFFF/sword-filled.png> | 1 lb. | 7 | Brutal 1, disarm, hooked, light
+| Boarding Axe | 6 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, hooked, light
 | Dwarven Maulaxe | 25 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, exotic, hooked, light, sunder 1, thrown (20/60) |
 | Battleaxe | 10 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, versatile |
 | Longaxe | 10 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, trip, two-handed |
 | Greataxe | 30 gp | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 13 | Brutal 1, cleave, two-handed, unwieldy |
-| Orc Double Axe | 50 gp | 1d8 <img src=https://img.icons8.com/ios/12/FFFFFF/sword-filled.png> | 5 lb. | 15 | Brutal 1, cleave, double, exotic, hooked, two-handed, unwieldy |
-| Dwarven Urgrosh | 60 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src=https://img.icons8.com/ios/12/FFFFFF/sword-filled.png> | 5 lb. | 15 | Brace, brutal 1, disarm, double, exotic, hooked, two-handed, unwieldy |
+| Orc Double Axe | 50 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 5 lb. | 15 | Brutal 1, cleave, double, exotic, hooked, two-handed, unwieldy |
+| Dwarven Urgrosh | 60 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 5 lb. | 15 | Brace, brutal 1, disarm, double, exotic, hooked, two-handed, unwieldy |
 
 ##### Simple Blades
 
@@ -134,7 +134,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 | Glaive | 8 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 6 lb. | 11 | Brutal 1, cleave, reach, two-handed, unwieldy |
 | Pike | 5 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 10 lb. | 11 | Brace, brutal 1, long, sharp 1, two-handed, unwieldy |
 | Guisarme | 9 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 6 lb. | 11 | Brace, brutal 1, hooked, long, trip, two-handed, unwieldy |
-| Pollaxe | 5 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src=https://img.icons8.com/ios/12/FFFFFF/sword-filled.png> | 4 lb. | 11 | Brace, brutal 1, sharp 1, two-handed |
+| Pollaxe | 5 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 4 lb. | 11 | Brace, brutal 1, sharp 1, two-handed |
 | Halberd | 10 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 8 lb. | 11 | Brace, brutal 1, long, sharp 1, two-handed, unwieldy |
 | Great Trident | 15 gp | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 4 lb. | 13 | Brace, disarm, long, sharp 1, two-handed, unwieldy |
 | Longhammer | 15 gp | 2d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 5 lb. | 13 | Brutal 1, long, sharp 1, sunder 1, two-handed, unwieldy |

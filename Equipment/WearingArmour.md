@@ -42,6 +42,7 @@ When doffing armour or when donning medium armour, if a character has help, then
 | Heavy torso | 2 minutes | 1 minute |	2 minutes |
 
 ##### Donning and Doffing Shields
+
 | Category & Piece | Don | Remove |
 |:----------------:|:---:|:------:|
 | Medium shield | 1 bonus action | 1 object interaction |

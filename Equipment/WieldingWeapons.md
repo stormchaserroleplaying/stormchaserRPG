@@ -12,14 +12,15 @@ Sometimes you must roll to contend with an enemy's weapon skill score. A creatur
 
 <center>
 
-**Weapon Skill = 10 + Proficiency + Strength Modifier (or Dexterity Modifier, if wielding a Finesse weapon)**
+<strong>Weapon Skill = 10 + Proficiency + Strength Modifier (or Dexterity Modifier, if wielding a Finesse weapon)</strong>
 
 </center>
 
 ## Blocking With A Weapon
 A weapon can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon against the threat. Your weapon takes the damage that the attack would deal to you (see Chapter 8) and you benefit from advantage on the Strength defence check.
 
-## Melee Weapon Equivalencies
+##### Melee Weapon Equivalencies
+
 | Base Weapon | Alternative Names or Flavour |
 |:-----------:|:----------------------------:|
 | Arming Sword | Niuweidao, Spatha |

@@ -63,8 +63,3 @@ The armour tables show the cost, weight and other properties of the common types
 | Gauntlet, locked | Disadvantage to disarm locked weapon, action to remove | +5 lbs. | +8 gp |
 | Shield spikes | Increase damage die size by one step, remove non-lethal | +5 lbs. | +10 gp |
 | Shield, throwing | Thrown (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, 20/60) | — | +50 gp |
-
-> ### Equipment Sizes
-> A burly half-orc won't fit in a halfling's leather armour, and a gnome would be swallowed up in a cloud giant's elegant robe. Similarly, a suit of plate armour made for one human might not fit another without significant alterations and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
-> 
-> When adventurers find armour, clothing and similar items that are made to be worn, they might need to visit an armoursmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The GM can either roll 1d4×10 or determine the increase in cost based on the extent of the alterations required.

@@ -37,9 +37,9 @@ Often the action of an adventure takes place in the imagination of the players a
 ## Game Dice
 The game uses polyhedral dice with different numbers of sides. You can find dice like these in game stores and in many bookstores.
 
-In these rules, the different dice are referred to by the letter d followed by the number of sides: d4, d6, d8, d1O, d12 and d20. For instance, a d6 is a six-sided die (the typical cube that many games use).
+In these rules, the different dice are referred to by the letter d followed by the number of sides: d4, d6, d8, d10, d12 and d20. For instance, a d6 is a six-sided die (the typical cube that many games use).
 
-Percentile dice, or d100, work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from O to 9. One die (designated before you roll) gives the tens digit and the other gives the ones digit. For example, if you roll a 7 and a 1, the number rolled is 71. Two Os represent 100. Some ten-sided dice are numbered in tens (00, 10, 20 and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71 and 00 and 0 is 100.
+Percentile dice, or d100, work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from 0 to 9. One die (designated before you roll) gives the tens digit and the other gives the ones digit. For example, if you roll a 7 and a 1, the number rolled is 71. Two Os represent 100. Some ten-sided dice are numbered in tens (00, 10, 20 and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71 and 00 and 0 is 100.
 
 When you need to roll dice, the rules tell you how many dice to roll of a certain type, as well as what modifiers to add. For example, "3d8+5" means that you roll three eight-sided dice, add them together and add 5 to the total.
 

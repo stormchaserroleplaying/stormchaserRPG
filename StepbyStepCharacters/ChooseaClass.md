@@ -26,7 +26,7 @@ Record your character's hit points on your character sheet. Also record the type
 ## Proficiency Bonus
 A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as an instance of advantage, or a numerical bonus that is applied to a defence or other static score, such as your passive skill.
 
-When a roll is made with proficiency, then roll 2d20 and keep the higher of the two. This applies to:
+When a roll is made with proficiency, then roll with [advantage](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage.html). This applies to:
 * Attack rolls using weapons that you're proficient with
 * Attack rolls with spells that you cast
 * Ability checks using defences, skills, or tools that you're proficient in
@@ -35,4 +35,4 @@ Your proficiency bonus to defences and other static scores is +4.
 
 Your class determines your weapon proficiencies, your defence proficiencies and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional proficiencies and some species give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
 
-Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless add it only once.
+Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless benefit only once.

@@ -1,5 +1,5 @@
 ---
-title: Mounts
+title: Common Mounts
 parent: Mounts and Vehicles
 grand_parent: Equipment
 nav_order: 1

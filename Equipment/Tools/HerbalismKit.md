@@ -2,7 +2,6 @@
 title: Herbalism Kit
 parent: Tools
 grand_parent: Equipment
-nav_order: 7
 ---
 
 # Herbalism Kit

@@ -2,7 +2,6 @@
 title: Forgery Kit
 parent: Tools
 grand_parent: Equipment
-nav_order: 5
 ---
 
 # Forgery Kit

@@ -2,7 +2,6 @@
 title: Musical Instrument
 parent: Tools
 grand_parent: Equipment
-nav_order: 8
 ---
 
 # Musical Instrument

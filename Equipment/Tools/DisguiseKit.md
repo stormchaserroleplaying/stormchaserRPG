@@ -2,7 +2,6 @@
 title: Disguise Kit
 parent: Tools
 grand_parent: Equipment
-nav_order: 4
 ---
 
 # Disguise Kit

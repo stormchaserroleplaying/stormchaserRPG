@@ -2,7 +2,6 @@
 title: Artisan's Tools
 parent: Tools
 grand_parent: Equipment
-nav_order: 3
 ---
 
 # Artisan's Tools

@@ -2,7 +2,6 @@
 title: Gaming Set
 parent: Tools
 grand_parent: Equipment
-nav_order: 6
 ---
 
 # Gaming Set

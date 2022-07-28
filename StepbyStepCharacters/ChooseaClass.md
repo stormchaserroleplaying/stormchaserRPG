@@ -23,7 +23,7 @@ Your character's hit points define how tough your character is in combat and oth
 
 Record your character's hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see "Resting" in chapter 8).
 
-## Proficiency Bonus
+## Proficiency
 A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as an instance of advantage, or a numerical bonus that is applied to a defence or other static score, such as your passive skill.
 
 When a roll is made with proficiency, then roll with [advantage](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage.html). This applies to:
@@ -36,3 +36,6 @@ Your proficiency bonus to defences and other static scores is +4.
 Your class determines your weapon proficiencies, your defence proficiencies and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional proficiencies and some species give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
 
 Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless benefit only once.
+
+### Expertise
+Sometimes, a talent, feat or other feature might grant you expertise in a weapon, skill or tool that you are already proficient in. A character with expertise benefits from a second instance of advantage on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.

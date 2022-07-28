@@ -34,6 +34,7 @@ You regain hit points when you drink this potion. The number depends on the poti
 When you drink this potion, roll a d20. The effect depends on your roll, as shown on the Potion Effects table.
 
 ##### Potion Effects
+
 | d20 Roll | Potion Effect |
 |:--------:|:--------------|
 | 1 | Take 4 HD poison damage. |
@@ -71,6 +72,7 @@ A creature who tries and fails to cast a spell from a spell scroll must make a D
 |  4  | The spell's effect is contrary to its normal one, but neither harmful nor beneficial. For instance, a fireball might produce an area of harmless cold. |
 |  5  | The caster suffers a minor but bizarre effect related to the spell. Such effects last only as long as the original spell's duration, or 1d10 minutes for spells that take effect instantaneously. For example, a fireball might cause smoke to billow from the caster's ears for 1d10 minutes. |
 |  6  | The spell activates after 1d12 hours. If the caster was the intended target, the spell takes effect normally. If the caster was not the intended target, the spell goes off in the general direction of the intended target, up to the spell 's maximum range, if the target has moved away. |
+
 Scribing a spell scroll takes 1 hour for each level of the spell.
 
 ##### Spell Scroll Costs

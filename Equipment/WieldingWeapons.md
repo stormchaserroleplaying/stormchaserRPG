@@ -12,7 +12,7 @@ Sometimes you must roll to contend with an enemy's weapon skill score. A creatur
 
 <center>
 
-<strong>Weapon Skill = 10 + Proficiency + Strength Modifier (or Dexterity Modifier, if wielding a Finesse weapon)</strong>
+<strong>Weapon Skill = 10 + Proficiency + Strength Modifier<br>(or Dexterity Modifier, if wielding a Finesse weapon)</strong>
 
 </center>
 

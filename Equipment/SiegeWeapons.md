@@ -2,7 +2,7 @@
 title: Siege Weapons
 parent: Weapons
 grand_parent: Equipment
-nav_order: 1
+nav_order: 7
 ---
 
 # Siege Weapons
@@ -89,7 +89,7 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 |:----------|-----:|:--------------------:|
 | Bolt | 6 sp/lb. | Impaling |
 | Boulder | 2 sp/lb. | Crushing |
-| Stone cannonball | 2 gp/lb. | Explosive, Medieval |
+| Stone Cannonball | 2 gp/lb. | Explosive, Medieval |
 | Iron Cannonball | 8 sp/lb. | Explosive, Renaissance |
 | Burning | +50 gp | Target or area starts burning 1d6/round for rounds equal to weapon dice of attack. |
 | Shrapnel | +100 gp | +3 to hit the Dexterity defence of creatures in AoE. A miss still deals half damage. |
@@ -140,8 +140,6 @@ Size category defines how massive the weapon is. Compact weapons can be lifted w
 The Weight is represented by a number of horses required to pull a cart containing the weapon and roughly equals a US tonne (2000 pounds). Values of 1/2 or 1/3 means multiple weapon can be transported with a single cart, and is limited to weapons Large or smaller. When the value is 2 or more, a wagon capable of being pulled by several animals is needed, or the weapon must be disassembled and parts of it carried by several carts. Huge creatures (i.e. elephants) count as two horses but require special carts or platforms. 
 
 ## Siege Weapon Actions
-
-</div>
 
 ### Push/Move Weapon
 

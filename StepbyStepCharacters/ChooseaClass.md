@@ -29,8 +29,7 @@ A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as a
 When a roll is made with proficiency, then roll 2d20 and keep the higher of the two. This applies to:
 * Attack rolls using weapons that you're proficient with
 * Attack rolls with spells that you cast
-* Ability checks using skills that you're proficient in
-* Ability checks using tools that you're proficient with
+* Ability checks using defences, skills, or tools that you're proficient in
 
 Your proficiency bonus to defences and other static scores is +4.
 

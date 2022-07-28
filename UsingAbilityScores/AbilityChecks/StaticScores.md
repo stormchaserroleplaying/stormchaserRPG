@@ -2,7 +2,7 @@
 title: Static Scores
 parent: Ability Checks
 grand_parent: Using Ability Scores
-nav_order: 2
+nav_order: 3
 ---
 
 # Static Scores

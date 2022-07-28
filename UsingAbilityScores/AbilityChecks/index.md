@@ -1,6 +1,7 @@
 ---
 title: Ability Checks
 parent: Using Ability Scores
+has_children: true
 nav_order: 3
 ---
 

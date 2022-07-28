@@ -1,10 +1,10 @@
 ---
-title: Advantage, Disadvantage and Proficiency
+title: Advantage and Disadvantage
 parent: Using Ability Scores
 nav_order: 2
 ---
 
-# Advantage, Disadvantage and Proficiency
+# Advantage and Disadvantage
 Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
 If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you roll more than one additional d20. If two favourable situations grant advantage, for example, you roll two additional d20 and take the best of all three. Similarly, if two unfavourable situations grant disadvantage, you roll two additional d20 and take the *worst* of all three.
@@ -15,7 +15,7 @@ When you have advantage or disadvantage and something in the game, such as the h
 
 You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration (see chapter 4) can also give a character advantage on checks related to the character's personality, ideals, or bonds. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
-## Proficiency Bonus
-Characters have a proficiency bonus, as detailed in chapter 1. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, attack rolls and defences.
+## Proficiency
+Characters can gain a proficiency die of advantage on attack rolls and ability checks, as detailed in chapter 1. Monsters can also have this proficiency die, which is incorporated in their stat blocks. The bonus die is used in the rules on ability checks, attack rolls and defences.
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say that you can roll your proficiency bonus die when making a Wisdom check, you nevertheless add only one instance of advantage when you make the check.
+Your proficiency die can't be added to a single die roll or other number more than once. For example, if two different rules say that you can roll your proficiency bonus die when making a Wisdom check, you nevertheless add only one instance of advantage when you make the check.

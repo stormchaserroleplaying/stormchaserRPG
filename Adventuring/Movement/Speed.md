@@ -21,14 +21,14 @@ If the party is moving at a *slow* pace, they gain advantage on the check. A *fa
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
-> ### Travel Pace
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Distance travelled per...**
->
-> | Pace | Minute | Hour | Day | Effect |
-> |:----:|:------:|:----:|:---:|:------:|
-> | Fast | 400 Feet | 4 Miles | 32 Miles | Disadvantage<br>on Wisdom<br>(Perception) |
-> | Medium | 300 Feet | 3 Miles | 24 Miles | — |
-> | Slow | 200 Feet | 2 Miles | 16 Miles | Able to use stealth |
+### Travel Pace
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Distance travelled per...**
+
+| Pace | Minute | Hour | Day | Effect |
+|:----:|:------:|:----:|:---:|:------:|
+| Fast | 400 Feet | 4 Miles | 32 Miles | Disadvantage<br>on Wisdom<br>(Perception) |
+| Medium | 300 Feet | 3 Miles | 24 Miles | — |
+| Slow | 200 Feet | 2 Miles | 16 Miles | Able to use stealth |
 
 ### The Travel Route
 Come up with a travel plan then calculate its distance in miles. Break down the full distance into smaller segments by using checkpoint locations such as towns and hamlets, wayside inns, river banks and other points of interest. Break segments when terrain type changes or roads start or end as such changes affect travel speed.
@@ -146,7 +146,7 @@ During your travels, you keep an eye out for nearby sources of food and water, s
 
 Make a Wisdom (Survival) check and compare the result with the region's abundance level on the following table to determine the number of fresh rations (for 1 day) you can manage to provide, or gallons of water (8 pints) you gather.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Number of Rations / Gallons**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Number of Rations / Gallons**
 
 |Abundance|  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |
 |:--------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -393,7 +393,7 @@ If you record four or more failures in a row, you are really sick from a rare re
 ### Hunting and Gathering
 These tables help the GM to come up with quick results to player actions based on terrain and circumstances.
 
-##### Foraging - Water
+#### Foraging - Water
 When making a *Hunt & Forage* travel activity for water, you may apply the following modifiers:
 
 | Terrain | DC |
@@ -622,9 +622,11 @@ On a hit, the character takes damage appropriate for their level tier. On a miss
 
 #### Hazard Examples
 
-* **Avalanches, Rockfalls and Mudslides**<br>
-*Any Level of Hazard*<br>
-The hazard makes an attack vs the Dexterity defence of any character in the area where the it occurs. On a hit, a creature takes bludgeoning damage and is buried by the hazard, or half as much damage on a miss. The area is filled with snow, rubble or mud and becomes difficult terrain.<br>
+##### Avalanches, Rockfalls and Mudslides
+*Any Level of Hazard*
+
+The hazard makes an attack vs the Dexterity defence of any character in the area where the it occurs. On a hit, a creature takes bludgeoning damage and is buried by the hazard, or half as much damage on a miss. The area is filled with snow, rubble or mud and becomes difficult terrain.
+
 Any buried creature is considered suffocated, and it can dig through to free itself. To do so, the creature must succeed a number of Strength (Athletics) checks, as shown in the following table.
 
 | Hazard Level | Number of Checks |
@@ -633,32 +635,39 @@ Any buried creature is considered suffocated, and it can dig through to free its
 | Dangerous  | 3 |
 | Deadly | 4 |
 
-* **Blizzard**<br>
-*Setback Hazard*<br>
+##### Blizzard
+*Setback Hazard*
+
 The area affected by a blizzard is considered difficult terrain. When a creature without proper shelter is in the area affected by the blizzard for one hour, the blizzard makes an attack vs its Constitution defence. On a hit, the creature takes cold damage, or half as much damage on a miss. If a creature is wearing warm clothing, the blizzard has disadvantage on the attack roll.
 
-* **Earthquakes**<br>
-*Any Level of Hazard*<br>
-A tremor shakes the area. The earthquake makes an attack vs the Dexterity defence of each creature on the ground in that area. On a hit, the creature is knocked prone.<br>
-The hazard level is determined by the proximity to the epicentre or the intensity of the earth tremor:<br>
-**Setback.** Far from the epicentre or light earthquake.<br>
-**Dangerous.** Near the epicentre or moderate earthquake.<br>
-**Deadly.** Very close to the epicentre or severe earthquake.
+##### Earthquakes
+*Any Level of Hazard*
 
-* **Hailstorm**<br>
-*Dangerous Hazard*<br>
+A tremor shakes the area. The earthquake makes an attack vs the Dexterity defence of each creature on the ground in that area. On a hit, the creature is knocked prone.
+
+The hazard level is determined by the proximity to the epicentre or the intensity of the earth tremor:
+* **Setback.** Far from the epicentre or light earthquake.
+* **Dangerous.** Near the epicentre or moderate earthquake.
+* **Deadly.** Very close to the epicentre or severe earthquake.
+
+##### Hailstorm
+*Dangerous Hazard*
+
 Similar to a blizzard, the terrain affected by the hailstorm is considered difficult terrain. When a creature without proper shelter is in the area affected by the hailstorm for one hour, the hailstorm makes an attack vs its Constitution defence. On a hit, the creature takes cold damage, or half as much damage on a miss.
 
-* **Insect Swarm**<br>
-*Setback Hazard*<br>
+##### Insect Swarm
+*Setback Hazard*
+
 A cloud of swarming insects fills a 20-foot-radius sphere. The swarm moves 20 feet each round. When a creature enters the cloud, the cloud makes an attack vs its Constitution defence. On a hit, it takes piercing damage, or half as much damage on a miss. A creature that ends its turn in the cloud is attacked again. A creature cannot be damaged by the insect swarm if it’s wielding a torch or if it is at least 5 feet from a fire. 
 
-* **Lava**<br>
-*Deadly Hazard*<br>
+##### Lava
+*Deadly Hazard*
+
 The lava is considered difficult terrain. Any creature that enters the lava takes fire damage. A creature that ends its turn in the lava takes fire damage.
 
-* **Lightning Storms**<br>
-*Dangerous or Deadly Hazard*<br>
+##### Lightning Storms
+*Dangerous or Deadly Hazard*
+
 The GM rolls a d20 to determine if any creature is struck by lightning. This check can be made at the beginning of each turn during combat or at any time while the party is not in combat. The creatures hit by lightning are determined by the GM, and any creature in the area under total cover from above cannot take damage.
 
 | d20 | Number of Creatures |
@@ -669,28 +678,36 @@ The GM rolls a d20 to determine if any creature is struck by lightning. This che
 | 18-19 | 1d8 |
 | 20 | 1d10 |
 
-* **Magma Eruptions**<br>
-*Dangerous Hazard*<br>
+##### Magma Eruptions
+*Dangerous Hazard*
+
 Magma erupts from a point on the ground, creating a 20-foot-high, 5-foot-radius geyser. The geyser makes an attack vs the Dexterity defence of each creature in its area. On a hit, the creature takes fire damage, or half as much on a miss.
 
-* **Poison Clouds and Spores**<br>
-*Setback Hazard*<br>
+##### Poison Clouds and Spores
+*Setback Hazard*
+
 The cloud makes an attack vs the creature's Constitution defence when upon entering the cloud. On a hit, the creature takes poison damage, or half as much damage on a miss. A creature that ends its turn in the cloud is attacked again.
 
-* **Rapids**<br>
-*Setback Hazard*<br>
+##### Rapids
+*Setback Hazard*
+
 When a Large or smaller creature enters the rapids, it’s pushed 30 feet in the direction of the water flow. The rapids make an attack vs the creature's Strength defence. On a hit, the creature takes bludgeoning damage. Any creature caught by the rapids can make a Strength (Athletics) check to swim out of the rapids.
 
-* **Rogue Wave**<br>
-*Dangerous Hazard*<br>
-A large and unexpected wave that can be extremely dangerous. When a creature is hit by the rogue wave, the wave makes an attack roll vs the creature's Strength defence. On a hit, the creature takes bludgeoning damage, or half as much damage on a miss. The rogue wave, along with any creatures in it, moves in a straight line at a speed of 50 feet per turn, and any Huge or smaller creature inside the wave is attacked. The wave damage is reduced by 1d10 on each subsequent round. When the damage is reduced to 0, the wave ends.<br>
+##### Rogue Wave
+*Dangerous Hazard*
+
+A large and unexpected wave that can be extremely dangerous. When a creature is hit by the rogue wave, the wave makes an attack roll vs the creature's Strength defence. On a hit, the creature takes bludgeoning damage, or half as much damage on a miss. The rogue wave, along with any creatures in it, moves in a straight line at a speed of 50 feet per turn, and any Huge or smaller creature inside the wave is attacked. The wave damage is reduced by 1d10 on each subsequent round. When the damage is reduced to 0, the wave ends.
+
 A creature caught by the wave can move by swimming and it can make a Strength (Athletics) check to swim out of the wave.
 
-* **Sandstorms**<br>
-*Dangerous Hazard*<br>
-The sandstorm makes an attack roll vs the Constitution defence of any creature inside it. On a hit, the creature is blinded until the sandstorm ends. A creature can make a Constitution check at the end of each of its turns, ending the effect on itself on a success. The DC is equal to 10 + the sandstorm's attack bonus and if the creature is proficient in Constitution defence, then it may add its proficiency bonus to the check. A creature cannot be blinded by the sandstorm if it’s wearing goggles or something that protects its eyes.<br>
+##### Sandstorms
+*Dangerous Hazard*
+
+The sandstorm makes an attack roll vs the Constitution defence of any creature inside it. On a hit, the creature is blinded until the sandstorm ends. A creature can make a Constitution check at the end of each of its turns, ending the effect on itself on a success. The DC is equal to 10 + the sandstorm's attack bonus and if the creature is proficient in Constitution defence, then it may add its proficiency bonus to the check. A creature cannot be blinded by the sandstorm if it’s wearing goggles or something that protects its eyes.
+
 Any check that relies on sight is made with disadvantage for the duration of the sandstorm.
 
-* **Unsteady Ground**<br>
-*Setback Hazard*<br>
+##### Unsteady Ground
+*Setback Hazard*
+
 The floor in the area is considered difficult terrain. Any creature on the ground that starts moving on its turn while in the area must succeed on a Dexterity (Acrobatics) check or fall prone. If a creature uses a Dash action, it must make another check.

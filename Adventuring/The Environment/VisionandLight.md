@@ -5,7 +5,7 @@ grand_parent: Adventuring
 nav_order: 3
 ---
 
-## Vision and Light
+# Vision and Light
 The most fundamental tasks of adventuring (noticing danger, finding hidden objects, hitting an enemy in combat and targeting a spell, to name just a few) rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.

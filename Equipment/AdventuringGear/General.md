@@ -40,3 +40,6 @@ With a Healer's Kit you can also use the First Aid, Long Term Care and Resuscita
 **100 gp, 10 lb.** This Kit contains scalpels, scissors, saws, grasping forceps, and vials of alcohol. You must be proficient in Medicine to use a Surgeon's Kit. A Surgeon's Kit lets you use the First Aid action and benefit from advantage to the Wisdom (Medicine) check. Also, you can attempt the Perform Surgery and Resuscitate actions.
 
 A Surgeon's Kit can be refilled with 10 uses for 40 gold.
+
+## Trail Rations
+Hard tack, dried and cured meats, cheeses, and dried grains form the basis of traveler's rations. These rations last for 10 days before spoiling, making them valuable choices for purchase compared to fresh meats which spoil after a day.

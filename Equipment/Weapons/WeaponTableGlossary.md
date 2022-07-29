@@ -107,7 +107,7 @@ Light weapons are small and easy to handle, making them ideal for use when fight
 
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer disadvantage on their attack roll, if they are proficient with the weapon.
 
-#### Load
+### Load
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it per round, regardless of the number of attacks you can normally make.
 
 Some weapons take longer to reload and you must spend a number of attacks to reload equal to the listed value.

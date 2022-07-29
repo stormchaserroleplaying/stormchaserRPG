@@ -1,29 +1,13 @@
 ---
 title: Travel Hazards
-parent: The Environment
+parent: Movement
 grand_parent: Adventuring
-nav_order: 3
+nav_order: 4
 ---
 
 # Travel Hazards
 
-## Perils of Travel
-
-### Starvation
-Players can survive without food for 3 + Constitution Modifier Days. At the end of a day beyond that limit, you are starving and automatically suffer one level of exhaustion. Eating food resets the count of days since starvation.
-
-#### What's In A Ration?
-Hard tack, dried and cured meats, cheeses, and dried grains form the basis of traveler's rations. These rations last for 10 days before spoiling, making them valuable choices for purchase compared to fresh meats which spoil after a day.
-
-### Dehydration
-Hot weather and deserts doubles water intake need to 2 pints per travel leg. Players who can only drink half their daily water intake, must succeed on a DC 15 Constitution (Endurance) check or suffer two levels of exhaustion. If a player drinks no water for the whole day, they automatically suffer two levels of exhaustion.
-
-#### Desperate Measures
-You can quench thirst by eating raw meat or fresh plants. Each 2 pints of fresh blood or 1 pound of fresh plants counts as 1 pint of water.
-
-You can drink dirty water or blood from a carcass, it makes an attack with a +5 bonus vs your Constitution defence. On a hit, you vomit and the next sickness attack vs your Constitution defence has advantage. 
-
-### Sickness
+## Sickness
 At the end of each day of travel, sickness makes an attack with a +2 bonus vs the Constitution defence of every character. If the party is travelling in hazardous weather (arctic or winter) or terrain (jungle or swamp) or somebody in the party already suffers from a contagious disease, then the attack has advantage. Remember that camp activities such as *Rest and Recuperate* and *Tend to the Wounded* help to negate this advantage. If you fail, record the failure. If you succeed, remove all recorded failures so far.
 
 If you record two failures in a row, you come down with a minor sickness such as the common cold. More of an annoyance than anything else.

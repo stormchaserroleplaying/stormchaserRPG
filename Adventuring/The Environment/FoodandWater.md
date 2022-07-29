@@ -24,3 +24,17 @@ If the character has already gone one day without water, the character suffers t
 You can quench thirst by eating raw meat or fresh plants. Each 2 pints of fresh blood or 1 pound of fresh plants counts as 1 pint of water.
 
 You can drink dirty water or blood from a carcass, it makes an attack with a +5 bonus vs your Constitution defence. On a hit, you vomit and the next sickness attack vs your Constitution defence has advantage. 
+
+## Other Creature Sizes
+The food and water requirements above are for characters. Horses and other creatures require different quantities of food and water per day based on their size. Water needs are doubled if the weather is hot.
+
+###### Food and Water Needs
+
+| Creature Size | Food per Day | Water per Day |
+|:-------------:|:------------:|:-------------:|
+| Tiny | 1/4 pound | 1/4 gallon |
+| Small | 1 pound | 1 gallon |
+| Medium | 1 pound | 1 gallon |
+| Large | 4 pounds| 4 gallons |
+| Huge | 16 pounds | 16 gallons |
+| Gargantuan | 64 pounds | 64 gallons |

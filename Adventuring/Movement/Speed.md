@@ -22,7 +22,7 @@ If the party is moving at a *slow* pace, they gain advantage on the check. A *fa
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
 ### Travel Pace
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Distance travelled per...**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Distance travelled per...**
 
 | Pace | Minute | Hour | Day | Effect |
 |:----:|:------:|:----:|:---:|:------:|
@@ -146,7 +146,7 @@ During your travels, you keep an eye out for nearby sources of food and water, s
 
 Make a Wisdom (Survival) check and compare the result with the region's abundance level on the following table to determine the number of fresh rations (for 1 day) you can manage to provide, or gallons of water (8 pints) you gather.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Number of Rations / Gallons**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Number of Rations / Gallons**
 
 |Abundance|  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |
 |:--------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

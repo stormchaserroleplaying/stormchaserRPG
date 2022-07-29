@@ -15,7 +15,7 @@ The damage dealt by the weapon.
 
 ## Properties
 
-#### Ammunition
+### Ammunition
 A weapon that uses ammunition can only make ranged attacks if ammunition to shoot from the weapon is available. Each time that an attack is made with the weapon, one piece of ammunition is expended. Drawing the ammunition from a quiver, case, or other container is part of the attack.
 
 Some ranged weapons can be loaded with an amount of ammunition equal to a listed value. As long as there is ammunition in the weapon, it may ignore the load property.
@@ -31,7 +31,7 @@ When a hostile creature enters the reach of a brace weapon after moving 10 feet 
 ### Brutal
 A critical hit with a brutal weapons deals the listed number of additional weapon damage die.
 
-#### Caliber
+### Caliber
 Ranged weapons with the Caliber property deal additional damage when you shoot from an advantageous position. The following conditions allow you to add extra damage dice of the same damage type up to the value shown in parenthesis.
 * If your target is within 15 feet distance of you, the attack deals 1 additional damage die
 * For each 3 points by which you beat the target's Dexterity defence, the attack deals 1 additional damage die.
@@ -115,7 +115,7 @@ Some weapons take longer to reload and you must spend a number of attacks to rel
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer disadvantage.
 
-#### Misfire
+### Misfire
 Whenever you make an attack roll with a ranged weapon with the misfire property and the attack roll is equal to or lower than the weapon’s misfire value, the weapon misfires. The attack misses, and the weapon cannot be used again until you spend an action to try and clean or repair it. 
 
 To repair a firearm, you must make a successful Tinker’s Tools check (DC equal to 8 + misfire score). If your check fails, the weapon is unusable until the end of combat and may need to be mended out of combat at a quarter of the cost of the firearm (GM's discretion). Creatures who use a firearm without being proficient increase the weapon’s misfire by 1.
@@ -143,10 +143,10 @@ If you are wielding a finesse weapon and blocking an attack from a one-handed we
 
 If you are wielding an unwieldy weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 
-#### Pellets
+### Pellets
 This weapon uses free ammunition, such as stones, which do not leave a trace of the direction they were shot from unless the victim is alive to notice, or the wound is inspected with a DC 15 Intelligence (Investigation) check, or the environment is searched with a DC 20 Wisdom (Perception) check.
 
-#### Point Blank
+### Point Blank
 Ranged weapons with the Point Blank property allow for exact precision when pointing at nearby targets. Attacks with ranged weapons that have this property do not suffer disadvantage when made within 5 feet of a hostile creature.
 
 ### Reach
@@ -158,7 +158,7 @@ When you use a sharp weapon to attack a target with 4 or less DR, you ignore DR 
 ### Shield
 This two-handed weapon may be used in one hand when combined with a shield.
 
-#### Shot
+### Shot
 A ranged weapon with the shot property spreads multiple fragments in a cone at short range. Both the weapon and the ammunition must have the shot property.
 
 If the target is within the normal range increment you can select a number of secondary targets within 5 feet of the primary target up to the value in parenthesis. The primary target cannot be selected as secondary target. Secondary targets behind the primary target or behind another secondary target cannot be selected. Make one attack and damage roll to apply to all targets.
@@ -167,18 +167,18 @@ If the target is within 5 feet reach instead of selecting secondary targets, the
 
 Shot attacks with this weapon do not add your ability modifier to damage unless the modifier is negative. 
 
-#### Stock
+### Stock
 Ranged weapons with the Stock property can improve your aim when set on firm ground. 
 
 If you lay prone (but not supine) and make a ranged attack with it, you can ignore disadvantage when shooting at long range (but no further than 1000 feet), but you suffer disadvantage if you shoot at targets within close range.
 
-#### Strength
+### Strength
 Ranged weapons with the Strength property require raw strength to draw the string. You must have the minimum Strength score as listed in order to use them.
 
 ### Sunder
 When you use a sunder weapon to attack a target with hard armour or natural armour with 7 or more DR, you ignore DR equal to the value listed.
 
-#### Tall
+### Tall
 Attempting to shoot a tall weapon from horseback imparts disadvantage on the attack roll.
 
 ### Tangle
@@ -191,7 +191,7 @@ The creature wielding the weapon used to make the attack can disentangle it usin
 ### Trip
 Trip attempts made with a trip weapon are made with advantage.
 
-#### Tripod
+### Tripod
 Attempting to fire this weapon without a tripod imparts disadvantage on the attack roll.
 
 ### Thrown
@@ -244,7 +244,7 @@ Wielding a melee weapon in two hands allows you to put more strength behind your
 ### Vicious
 Vicious weapons roll their damage die twice and take the better result.
 
-#### Volley
+### Volley
 Weapons with the Volley property are less effective at close distances. Your attacks against targets that are within 30 feet from you suffer disadvantage.
 
 ### Worn

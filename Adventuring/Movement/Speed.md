@@ -19,21 +19,24 @@ If the party is moving at a *slow* pace, they gain advantage on the check. A *fa
 
 **Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
+Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+
 > ### Travel Pace
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Distance travelled per...**
+>
 > | Pace | Minute | Hour | Day | Effect |
 > |:----:|:------:|:----:|:---:|:------:|
 > | Fast | 400 Feet | 4 Miles | 32 Miles | Disadvantage<br>on Wisdom<br>(Perception) |
 > | Medium | 300 Feet | 3 Miles | 24 Miles | — |
 > | Slow | 200 Feet | 2 Miles | 16 Miles | Able to use stealth |
 
-Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
-
 ### The Travel Route
 Come up with a travel plan then calculate its distance in miles. Break down the full distance into smaller segments by using checkpoint locations such as towns and hamlets, wayside inns, river banks and other points of interest. Break segments when terrain type changes or roads start or end as such changes affect travel speed.
 
 ### The Travelling Day
 A typical day of travel consists of roughly 9 to 16 hours of activity, out of which there are 6-10 hours of actual travel. At specific times the party must rest, drink and eat.
+
+###### Daily Travel Routine
 
 | Activity | Time | Cost |
 |:--------:|:----:|:----:|
@@ -44,7 +47,7 @@ A typical day of travel consists of roughly 9 to 16 hours of activity, out of wh
 | Second travel leg | 3-5 hours | 1 pint water |
 | Rest for the night | 8 hours | — |
 
-### Daylight by Season
+#### Daylight by Season
 The amount of usable daylight vastly depends on the region and/or season you are traveling in.
 
 | Season | Sunrise | Sunset | Time Traveling |
@@ -52,13 +55,6 @@ The amount of usable daylight vastly depends on the region and/or season you are
 | Summer | 4 am | 20 pm | 16 hours |
 | Spring/Autumn | 6 am | 18 pm | 12 hours |
 | Winter | 8 am | 16 pm | 8 hours |
-
-### Travel Paces and Activities
-| Pace | Travel Speed  | Favoured | Associated | Hindered | Forbidden |
-|:-----|:--------------|:-------:|:----------:|:--------:|:---------:|
-| *Fast* | 4 mph | ——— | ——— | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak |
-| *Normal* | 3 mph | ——— | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak | ——— |
-| *Slow* | 2 mph | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak | ——— | ——— |
 
 ### Determine Terrain Difficulty
 For each travel day, the GM determines the terrain type and calculates how much distance will be crossed without any larger disruptions (such as combat or a detour to explore unexpected locations).
@@ -93,7 +89,15 @@ Players must choose a heading and a travel pace (fast, normal or slow) and how l
 
 If you travel by horse or carriage and you cross *easy* (DC 5) or *moderate* (DC 10) terrain, refer to the Mounted Travel rules for each mount's speed and distance. If you choose to gallop by horse and you cross *easy* (DC 5) terrain, you can use fast pace and increase distance traveled by 33%. If you cross *difficult* terrain (DC 15 or higher), you can only use slow pace and decrease distance traveled by 33%.
 
-### Decide Travel Activities
+###### Travel Paces and Activities
+
+| Pace | Travel Speed  | Favoured | Associated | Hindered | Forbidden |
+|:-----|:--------------|:--------:|:----------:|:--------:|:---------:|
+| Fast | 4 mph | ——— | ——— | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak |
+| Normal | 3 mph | ——— | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak | ——— |
+| Slow | 2 mph | Keep Watch, Navigate, Scout, Track, Trailblaze | Draw Map, Hunt/Forage, Sneak | ——— | ——— |
+
+### Choose Travel Activities
 In each travel leg, a character may carry out one activity of their choice. Some activities allow several players to work as a group. Your chosen pace of travel affects how easy it is to do things during your daily travel legs. 
 
 **Favoured Activities.** Favored activities may be made with advantage when traveling at this pace.
@@ -115,7 +119,8 @@ In each travel leg, a character may carry out one activity of their choice. Some
 Each activity has an associated ability check you will make to determine your success or failure during the travel leg. If a player fails their check, they still suffer the consequences.
 
 #### Draw a Map <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Intelligence (Cartographer's tools)<br>
+**Skill:** Intelligence (Cartographer's tools)
+
 While your companions keep watch, hunt for food and guide the party, you focus on documenting your journey. Drawing a map won't help you on your journey forward, but might prove useful once you try to find your way back. Good maps are also a highly sought-after commodity.
 
 Make an Intelligence (Cartographer's tools) check against the Navigation DC.
@@ -135,15 +140,13 @@ Once you have reached your destination, divide the number of successful cartogra
 |  0   |  *Wasted Effort* |
 
 #### Hunt/Forage <img src="https://img.icons8.com/ios/20/FFFFFF/poison-filled.png">
-**Skill:** Wisdom (Survival)<br>
+**Skill:** Wisdom (Survival)
+
 During your travels, you keep an eye out for nearby sources of food and water, such as roots, fruits, small game, and hidden springs. You must pick one: either plants, game or water. 
 
 Make a Wisdom (Survival) check and compare the result with the region's abundance level on the following table to determine the number of fresh rations (for 1 day) you can manage to provide, or gallons of water (8 pints) you gather.
 
-<div style='margin-bottom: -6px; margin-left: 105px;'>
-
---------- **Number of Rations / Gallons** ---------
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Number of Rations / Gallons**
 
 |Abundance|  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |
 |:--------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -153,7 +156,8 @@ Make a Wisdom (Survival) check and compare the result with the region's abundanc
 | Barren  | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 |
 
 #### Keep Watch
-**Skill:** Wisdom (Perception)<br>
+**Skill:** Wisdom (Perception)
+
 You keep your eyes peeled and your ears open for any sign of approaching danger, as well as signs of close by pursuers.
 
 Make a Wisdom (Perception) check. If you roll 7 or less, you take 8 as your result. The GM determines the DC for any threat or other suspicious activity along your path and compares it to the result of all watching players. 
@@ -161,7 +165,8 @@ Make a Wisdom (Perception) check. If you roll 7 or less, you take 8 as your resu
 If you travel at a *Fast Pace*, you do not benefit from the minimum result of 8 on your Keep Watch die roll. 
 
 #### Navigate <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Intelligence (Navigator's tools) or Wisdom (Survival)<br>
+**Skill:** Intelligence (Navigator's tools) or Wisdom (Survival)
+
 More often than not, a location of interest for a group of adventurers is not situated along a well trodden path, but hidden in the wilds behind obscure hints and directions.
 
 If you wish to find your way through the wilds towards a specific location, you need to make a Navigation check at the Navigation DC. The Navigation DC is additionally modified by the information you possess to reach your destination:
@@ -180,19 +185,22 @@ If your navigation check fails by 5 or more, you have made a mistake. Your trave
 If you rolled a total of 5 or lower, you got lost. Depending on the nature of your surroundings, getting lost might entail additional complications and dangers.
 
 #### Scout <img src="https://img.icons8.com/ios/20/FFFFFF/poison-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/napping-filled.png">
-**Skill:** Intelligence (Investigation)<br>
+**Skill:** Intelligence (Investigation)
+
 If your travel information is rather vague, or you are simply curious to see what else there is to see, you can scout ahead of the group. Make an Intelligence (Investigation) check. The GM determines the DC for any noticeable things in the vicinity.
 
 You might find such things as creatures waiting in ambush, favorable paths, or hidden locations.
 
 #### Sneak
-**Skill:** Dexterity (Stealth)<br>
+**Skill:** Dexterity (Stealth)
+
 Sometimes you need to move quietly for a while to avert the eyes and ears of nearby enemies or to cover your tracks and take detours to shake off possible pursuers. Doing so does not require the whole party to perform the Sneak activity, as the party members that do so, can try to keep everyone else as stealthy as possible.
 
 Add the Dexterity (Stealth) check results of all sneaking party members together and divide the sum by the number of players in the group (rounding down). This is the final and effective result for the group's efforts.
 
 #### Track <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Wisdom (Survival)<br>
+**Skill:** Wisdom (Survival)
+
 Sometimes you don't try to find a specific location, but follow or chase another creature or group. Instead of the Navigation activity, make a Wisdom (Survival) check against the terrain DC to find and follow the tracks of your quarry. If your quarry is trying to cover their tracks, use the higher of their Sneak result or the terrain DC.
 
 If your check fails by less than 5, you are having trouble following your quarry. Your travel speed is halved (rounded down) for this travel leg.
@@ -204,7 +212,8 @@ If you rolled a total of 5 or lower, you got lost. Depending on the nature of yo
 A different use for the Track activity is to read the tracks your group crosses during their travel, in order to glean what kind of creatures are roaming nearby. Make a Wisdom (Survival) check. The GM determines the DC for any possible tracks you might find and to which creatures they might belong.
 
 #### Trailblaze <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/napping-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Strength (Athletics)<br>
+**Skill:** Strength (Athletics)
+
 Traveling through difficult terrain slows you significantly. You can help your companions by clearing a clear path for them to follow. Make a Strength (Athletics) check against the terrain DC. If you succeed, the terrain's travel speed penalty is reduced by 1 mile per hour (to a minimum of 0).
 
 If you succeed by 5 or more, the terrain's travel speed penalty is reduced by 2 miles per hour instead.
@@ -259,15 +268,18 @@ Once a party sets down to rest, players can choose one or more of the following 
 You may always expend hit dice to regain lost hit points, but you can take a special camp activity to accelerate your recovery (*Tend to the Wounded*).
 
 #### Attune Magic Item <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png">
-**Skill:** none<br>
+**Skill:** none
+
 Attuning to one magical item takes time and concentration. You must have identified the item's magical properties before you can attune to it.
 
 #### Camouflage Camp <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Dexterity (Stealth)<br>
+**Skill:** Dexterity (Stealth)
+
 You can gather and use natural materials like rocks or foliage to hide your campsite. A successful DC 15 Dexterity (Stealth) check adds the *Hidden* property to your campsite if it doesn't have it. 
 
 #### Cook Hearty Meal <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Wisdom (Cook's utensils)<br>
+**Skill:** Wisdom (Cook's utensils)
+
 A good night's rest is not guaranteed when camping in the wilds and a fine cooked meal can go a long way to remedy this fact. Make a DC 15 Wisdom (Cook's utensils) check. <br>You need one fresh ration of food for every person that will partake of the meal, as well as a reasonable amount of seasoning. If you provide at least 50% more fresh rations than necessary, you gain advantage on this check. If you can only provide half the required amount of rations (but not less), you gain disadvantage.
 
 If you succeed, each person partaking of your meal regains a quarter of their maximum hit dice (rounded down, min 1). If you fail, the meal is edible, but not refreshing. If you rolled a total of 5 or lower, the whole meal is spoiled and its rations are wasted.
@@ -275,41 +287,48 @@ If you succeed, each person partaking of your meal regains a quarter of their ma
 You can only benefit from one hearty meal per long rest.
 
 #### Fortify Camp <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Strength (Athletics)<br>
+**Skill:** Strength (Athletics)
+
 You can use wooden spikes or large boulders to barricade your campsite or dig a ditch and build ramparts. A successful DC 15 Strength (Athletics) check adds the *Defendable* property to your campsite if it doesn't already have it. 
 
 #### Hunt/Forage <img src="https://img.icons8.com/ios/20/FFFFFF/poison-filled.png">
-**Skill:** Wisdom (Survival)<br>
+**Skill:** Wisdom (Survival)
+
 Gather food and water or hunt local game.  This is the same action as the *Hunt & Forage* travel activity. However, since you are not traveling at this point, you may make the corresponding Wisdom (Survival) check with advantage.
 
 #### Keep Watch
-**Skill:** Wisdom (Perception)<br>
+**Skill:** Wisdom (Perception)
+
 A long rest requires at least 6 hours of sleep and 2 hours of light activity. Depending on the size of the traveling party, you are advised to take shifts keeping watch whilst the others try to gain some sleep. Make a Wisdom (Perception) check. If your result is 7 or lower, you can take 8 instead. Players who perform one of the other camp activities (i.e. not sleeping or keeping watch) do not benefit from a minimum of 8 on the roll.
 
 The GM determines the DC for any threat or approaching danger (hostile creatures or natural phenomena) and compares it to all Wisdom (Perception) results. On a success, the watchers are able to wake and warn the rest of the party, and prevent being surprised.
 
 #### Set up Traps <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Wisdom (Survival)<br>
+**Skill:** Wisdom (Survival)
+
 You can set a number of small traps like caltrops, slings, and small pits around your camp. Make a Wisdom (Survival) check. The DC to find these traps with an Intelligence (Investigation) or Wisdom (Perception) check is equal to the result of your Wisdom (Survival) check. The attack bonus of their effects is equal to the result of your Wisdom (Survival) check minus 10. 
 
 #### Rest and Recuperate
-**Skill:** Wisdom (Medicine)<br>
+**Skill:** Wisdom (Medicine)
+
 You take your time to catch your breath properly, eat and drink, and dress your wounds. Make a DC 15 Wisdom (Medicine) check. If you succeed, treat any hit dice rolled to determine the hit points you regain as having rolled their maximum value during this rest. If you suffer from a sickness or disease, it has disadvantage to attack you during your long rest.
 
 #### Tend to the Wounded <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png">
-**Skill:** Wisdom (Medicine)<br>
+**Skill:** Wisdom (Medicine)
+
 You go around camp, making sure that the wounds of up to six creatures other than yourself are properly cleaned and dressed. Make a DC 15 Wisdom (Medicine) check for each patient, in order to assess the wounds and properly dress them. This consumes one use of a healer's kit per creature tended to.
 
 If you succeed, your patient can treat any hit dice rolled to determine the hit points that they regain as having rolled their maximum value, during this rest. If your patient suffers from a sickness or disease, it has disadvantage to attack them during their long rest. 
 
 #### Train <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png">
-**Skill:** Varies<br>
+**Skill:** Varies
+
 You dedicate time to training and self-improvement. This might be spell research, practicing a skill, subskill or language, or any other training activity that can normally be performed during downtime. If you succeed at the appropriate check, you gain two hours of progress towards your goal.
 
 ### Mounted Travel
 Using mounts or vehicles (such as carts and wagons) you can significantly shorten travel time, up to maximum distance per travel leg using normal pace.
 
-##### Travel Pace of Mounts
+###### Travel Pace of Mounts
 
 | Pace | Cost | Speed | Max.Distance| Capacity |
 |:-----|:-----|:-----:|:-----------:|---------:|
@@ -327,7 +346,7 @@ Using mounts or vehicles (such as carts and wagons) you can significantly shorte
 
 Animals need feed (per day) or can find some themselves with a Wisdom (Survival) check at a DC based on the *Hunt & Forage* table for 1 Ration. Animals who hunger or thirst for longer than 2 days suffer one level of Exhaustion per day at the end of their long rest. 
 
-##### Feed Costs (per day)
+###### Feed Costs (per day)
 
 | Type | Cost | Weight 
 |:------|:---------------|:------|
@@ -338,7 +357,8 @@ Animals need feed (per day) or can find some themselves with a Wisdom (Survival)
 Mounts can pull five times their typical carrying capacity minus the weight of the vehicle. Mounts pulling carts or wearing armour may not travel more than two travel legs in a row without rest and suffer a disadvantage to the Forced March check. Travel groups that use wagons have access to the Drive Wagon travel activity, below.
 
 #### Drive Wagon <img src="https://img.icons8.com/ios/20/FFFFFF/watch-your-step-filled.png"> <img src="https://img.icons8.com/ios/20/FFFFFF/west-direction-filled.png">
-**Skill:** Intelligence (Vehicle proficiency) or Dexterity (Animal Handling)<br>
+**Skill:** Intelligence (Vehicle proficiency) or Dexterity (Animal Handling)
+
 You stay at the front of the wagon, maintaining a steady pace for the animals and avoiding road obstacles that slow down or damage the carriage. Make a Dexterity (Animal Handling) check against the Navigation DC. Increase the DC by 5 if you are traveling off-road, without a clear trail or road. 
 
 If your check succeeds by 5 or more, you may increase the travel pace by 1 mile per hour for the rest of the travel leg.
@@ -350,13 +370,13 @@ If your check fails by 10 or more or is a critical failure, a cart wheel breaks.
 #### Starvation
 Players can survive without food for 3 + Constitution Modifier Days. At the end of a day beyond that limit, you are starving and automatically suffer one level of exhaustion. Eating food resets the count of days since starvation.
 
-#### What's In A Ration?
+##### What's In A Ration?
 Hard tack, dried and cured meats, cheeses, and dried grains form the basis of traveler's rations. These rations last for 10 days before spoiling, making them valuable choices for purchase compared to fresh meats which spoil after a day.
 
 #### Dehydration
 Hot weather and deserts doubles water intake need to 2 pints per travel leg. Players who can only drink half their daily water intake, must succeed on a DC 15 Constitution (Endurance) check or suffer two levels of exhaustion. If a player drinks no water for the whole day, they automatically suffer two levels of exhaustion.
 
-#### Desperate Measures
+##### Desperate Measures
 You can quench thirst by eating raw meat or fresh plants. Each 2 pints of fresh blood or 1 pound of fresh plants counts as 1 pint of water.
 
 You can drink dirty water or blood from a carcass, it makes an attack with a +5 bonus vs your Constitution defence. On a hit, you vomit and the next sickness attack vs your Constitution defence has advantage. 
@@ -371,52 +391,9 @@ If you record three failures in a row, you get sick from a regional sickness suc
 If you record four or more failures in a row, you are really sick from a rare regional disease such as plague or dengue fever. While sickened, you suffer one permanent level of exhaustion until you recover. GMs may impose other risks, including death.
 
 ### Hunting and Gathering
-These tables help the GM come up with quick results to player actions based on terrain and circumstances.
+These tables help the GM to come up with quick results to player actions based on terrain and circumstances.
 
-#### Foraging - Plants
-When making a *Hunt & Forage* travel activity for plants, if your result beats the DC you find a specific type of plant food.
-
-##### Plains
-
-| Type | Summer/Spring | Autumn | Winter |
-|:-----|:-------------:|:------:|:------:|
-| Fruit/Berries | 12 | 15 | N/A |
-| Mushrooms/Edible Plants | 10 | 12 | N/A |
-| Nuts/Roots | 10 | 11 | 15 |
-
-##### Forest
-
-| Type | Summer/Spring | Autumn | Winter |
-|:-----|:-------------:|:------:|:------:|
-| Fruit/Berries | 10 | 15 | N/A |
-| Mushrooms/Edible Plants | 5 | 10 | N/A |
-| Nuts/Roots | 10 | 12 | 15 |
-
-##### Jungle/Swamp
-
-| Type | Summer/Spring | Autumn | Winter |
-|:-----|:-------------:|:------:|:------:|
-| Fruit/Berries | 12 | 15 | N/A |
-| Mushrooms/Edible Plants | 10 | 12 | N/A |
-| Nuts/Roots | 11 | 11 | 15 |
-
-##### Hills/Mountain Base
-
-| Type | Summer/Spring | Autumn | Winter |
-|:-----|:-------------:|:------:|:------:|
-| Fruit/Berries | 13 | 16 | N/A |
-| Mushrooms/Edible Plants | 10 | 12 | N/A |
-| Nuts/Roots | 11 | 11 | 15 |
-
-##### Tundra/Sub-Arctic/Mountain Peak
-
-| Type | Summer/Spring | Autumn | Winter |
-|:-----|:-------------:|:------:|:------:|
-| Fruit/Berries | N/A | N/A | N/A |
-| Mushrooms/Edible Moss | 15 | 20 | N/A |
-| Roots | 15 | 17 | 20 |
-
-#### Foraging - Water
+##### Foraging - Water
 When making a *Hunt & Forage* travel activity for water, you may apply the following modifiers:
 
 | Terrain | DC |
@@ -431,15 +408,53 @@ When making a *Hunt & Forage* travel activity for water, you may apply the follo
 | Major River within 10 miles | -5 DC |
 | Recent Rainfall | -5 DC |
 
+#### Foraging - Plants
+When making a *Hunt & Forage* travel activity for plants, if your result beats the DC you find a specific type of plant food.
+
+###### Plains
+
+| Type | Summer/Spring | Autumn | Winter |
+|:-----|:-------------:|:------:|:------:|
+| Fruit/Berries | 12 | 15 | N/A |
+| Mushrooms/Edible Plants | 10 | 12 | N/A |
+| Nuts/Roots | 10 | 11 | 15 |
+
+###### Forest
+
+| Type | Summer/Spring | Autumn | Winter |
+|:-----|:-------------:|:------:|:------:|
+| Fruit/Berries | 10 | 15 | N/A |
+| Mushrooms/Edible Plants | 5 | 10 | N/A |
+| Nuts/Roots | 10 | 12 | 15 |
+
+###### Jungle/Swamp
+
+| Type | Summer/Spring | Autumn | Winter |
+|:-----|:-------------:|:------:|:------:|
+| Fruit/Berries | 12 | 15 | N/A |
+| Mushrooms/Edible Plants | 10 | 12 | N/A |
+| Nuts/Roots | 11 | 11 | 15 |
+
+###### Hills/Mountain Base
+
+| Type | Summer/Spring | Autumn | Winter |
+|:-----|:-------------:|:------:|:------:|
+| Fruit/Berries | 13 | 16 | N/A |
+| Mushrooms/Edible Plants | 10 | 12 | N/A |
+| Nuts/Roots | 11 | 11 | 15 |
+
+###### Tundra/Sub-Arctic/Mountain Peak
+
+| Type | Summer/Spring | Autumn | Winter |
+|:-----|:-------------:|:------:|:------:|
+| Fruit/Berries | N/A | N/A | N/A |
+| Mushrooms/Edible Moss | 15 | 20 | N/A |
+| Roots | 15 | 17 | 20 |
+
 #### Hunting
 When making a *Hunt & Forage* travel activity for a game, the GM may let the players roleplay actual hunting. If they choose to, use the following tables to identify, track and kill the prey. Make a Wisdom (Perception) check against the Track DC, and then an Attack Roll against the Kill DC to take down each individual prey with the appropriate weapon (usually, a ranged weapon). You have advantage on one of the Attack rolls if you beat the Track DC by 5 or more prior making the killing shot.
 
-Each terrain table has 17 safe encounters and 3 combat encounters with *Monster Manual* page references. In combat encounters, players can withdraw or must fight the creature. Depending on how dangerous your environment is, you may change safe encounters into appropriate combat encounters. 
-
-#### Fishing
-Fishing is a time-consuming activity that requires a whole travel leg (3-5 hours) to be spent near the bank of a river or a lake. For every travel leg spent fishing, the player rolls a DC 12 Survival check. If successful, the GM rolls on the following table. 
-
-Subtract 5 from the result (minimum 1) if fishing in a River, or subtract 10 from the result (minimum 1) if fishing in a Pool or a Small Lake. 
+Each terrain table has 17 safe encounters and 3 combat encounters. In combat encounters, players can withdraw or must fight the creature. Depending on how dangerous your environment is, you may change safe encounters into appropriate combat encounters. 
 
 ###### Plains
 
@@ -536,6 +551,11 @@ Subtract 5 from the result (minimum 1) if fishing in a River, or subtract 10 fro
 | 19 | 1 Saber-Toothed Tiger | 15 | Combat | 40+1d10 |
 | 20 | 1 Giant ape | 11 | Combat | 50+1d10 |
 
+#### Fishing
+Fishing is a time-consuming activity that requires a whole travel leg (3-5 hours) to be spent near the bank of a river or a lake. For every travel leg spent fishing, the player rolls a DC 12 Survival check. If successful, the GM rolls on the following table. 
+
+Subtract 5 from the result (minimum 1) if fishing in a River, or subtract 10 from the result (minimum 1) if fishing in a Pool or a Small Lake. 
+
 ###### Freshwater
 
 | 1d20 | Fish Type | Meat (lbs) |
@@ -583,7 +603,7 @@ The following rules let the GM quickly design and resolve blizzards, hailstorms,
 
 On a hit, the character takes damage appropriate for their level tier. On a miss, they take half of that damage. On a critical hit, follow the rules for a critical hit with an attack. On a critical miss, they take no damage. 
 
-##### Hazard Attack Bonuses
+###### Hazard Attack Bonuses
 
 | Hazard Danger Level | Attack Bonus |
 |:--------------------|:------------:|
@@ -591,7 +611,7 @@ On a hit, the character takes damage appropriate for their level tier. On a miss
 | Dangerous | +6 to +8 |
 | Deadly | +9 to +12 |
 
-##### Damage Severity by Level
+###### Damage Severity by Level
 
 | Character Level | Setback | Dangerous | Deadly |
 |:---------------:|:-------:|:---------:|:------:|

@@ -14,15 +14,7 @@ Your character's **background** describes where they came from, their original o
 A background gives your character a background feature (a general benefit), a background feat and a number of character points, as described below.
 
 ## Character Points
-When creating a character, you gain 6 character points from your background and a number of additional character points equal to:
-
-<center>
-
-  <strong>your proficiency modifier + your Intelligence modifier</strong>
-
-</center>
-
-These points are spent as described in the Character Point Costs table.
+When creating a character, you gain 6 character points from your background and a number of additional character points equal to your Intelligence modifier. These points are spent as described in the Character Point Costs table:
 
 ##### Character Point Costs
 

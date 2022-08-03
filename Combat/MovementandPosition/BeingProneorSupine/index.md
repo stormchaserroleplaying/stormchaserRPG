@@ -29,6 +29,6 @@ If you fail, then you must succeed at a defence check vs the weapon skill (10 + 
 > 
 > <center>
 > 
-> <strong>Weapon Skill = 10 + Proficiency + Strength Modifier (or Dexterity modifier, if wielding a finesse weapon)</strong>
+> <strong>Weapon Skill = 10 + Proficiency + Strength Modifier<br>(or Dexterity modifier, if wielding a finesse weapon)</strong>
 > 
 > </center>

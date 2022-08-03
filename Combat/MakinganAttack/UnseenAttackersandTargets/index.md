@@ -1,6 +1,6 @@
 ---
 title: Unseen Attackers and Targets
-parent: Actions in Combat
+parent: Making an Attack
 grand_parent: Combat
 nav_order: 2
 ---

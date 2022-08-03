@@ -1,7 +1,6 @@
 ---
 title: Underwater Combat
-parent: Actions in Combat
-grand_parent: Combat
+parent: Combat
 nav_order: 8
 ---
 

@@ -11,7 +11,7 @@ You lived in seclusion (either in a sheltered community such as a monastery, or 
 A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, a herbalism kit and 5 gp.
 
 ## Life of Seclusion
-What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
+What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your GM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
 
 | d8 | Life of Seclusion |
 |:--:|:------------------|

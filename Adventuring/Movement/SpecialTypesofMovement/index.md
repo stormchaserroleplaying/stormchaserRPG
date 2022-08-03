@@ -9,7 +9,7 @@ nav_order: 2
 Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
 
 ## Climbing, Swimming, and Crawling
-Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you’re climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the DM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+Each foot of movement costs 1 extra foot (2 extra feet in difficult terrain) when you’re climbing, swimming, or crawling. You ignore this extra cost if you have a climbing speed and use it to climb, or a swimming speed and use it to swim. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 
 ## Jumping
 Your Strength determines how far you can jump.

@@ -44,21 +44,23 @@ You must pick Strength and Constitution as two of your species ability score inc
 #### Frost Born
 You have resistance to cold damage.
 
-## A Broad Spectrum
+## Description
+
+### A Broad Spectrum
 With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from 5 feet to a little over 6 feet tall and weigh from 125 to 250 pounds. Human skin shades range from nearly black to very pale, and hair colors from black to blond (curly, kinky, or straight); males might sport facial hair that is sparse or thick. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages. Humans reach adulthood in their late teens and rarely live even a single century.
 
-## Variety in All Things
+### Variety in All Things
 Humans are the most adaptable and ambitious people among the common races. They have widely varying tastes, morals, and customs in the many different lands where they have settled. When they settle, though, they stay: they build cities to last for the ages, and great kingdoms that can persist for long centuries. An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present, making them well suited to the adventuring life, but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
 
-## Lasting Institutions
+### Lasting Institutions
 Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death’s clutches) they achieve it by ensuring that they will be remembered when they are gone.
 
 Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of non-humans compared to the proportion of humans who live in nonhuman lands.
 
-## Exemplars of Ambition
+### Exemplars of Ambition
 Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
 
-> ### Everyone's Second-Best Friends
+> #### Everyone's Second-Best Friends
 > Just as readily as they mix with each other, humans mingle with members of other races. They get along with almost everyone, though they might not be close to many. Humans serve as ambassadors, diplomats, magistrates, merchants, and functionaries of all kinds.
 > 
 > **Dwarves.** "They're stout folk, stalwart friends, and true to their word. Their greed for gold is their downfall, though."
@@ -67,5 +69,5 @@ Humans who seek adventure are the most daring and ambitious members of a daring 
 > 
 > **Halflings.** "It’s hard to beat a meal in a halfling home, as long as you don't crack your head on the ceiling. Good food and good stories in front of a nice, warm fire. If halflings had a shred of ambition, they might really amount to something."
 
-## Human Names and Ethnicities
+### Human Names and Ethnicities
 Having so much more variety than other cultures, humans as a whole have no typical names. Some human parents give their children names from other languages, such as Dwarvish or Elvish (pronounced more or less correctly), but most parents give names that are linked to their region’s culture or to the naming traditions of their ancestors. The material culture and physical characteristics of humans can change wildly from region to region.

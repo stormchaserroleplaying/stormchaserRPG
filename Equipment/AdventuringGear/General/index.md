@@ -2,7 +2,7 @@
 title: General
 parent: Adventuring Gear
 grand_parent: Equipment
-nav_order: 1
+nav_order: 2
 ---
 
 # General

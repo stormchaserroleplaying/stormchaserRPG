@@ -2,7 +2,7 @@
 title: Poisons
 parent: Adventuring Gear
 grand_parent: Equipment
-nav_order: 2
+nav_order: 3
 ---
 
 # Poisons

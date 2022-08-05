@@ -130,16 +130,18 @@ If a mounted weapon is two-handed, then it may be wielded in one hand when mount
 ### Non-Lethal
 Non-lethal weapons are designed to incapacitate a target without killing it. Weapons with this property deal their full damage when dealing non-lethal damage.
 
+### Opportunistic
+Defence checks to avoid being hit by an opportunity attack made with an opportunistic weapon are made at disadvantage.
+
 ### Parry
-When wielding a parry weapon, you may add your proficiency modifier to your Strength defence vs melee attacks, if you are not already proficient in Strength defence. Your proficiency bonus to Strength defence vs melee attacks is limited by your weapon's size (see table below).
+When wielding a parry weapon, you gain a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
 
-| Weapon Size | Maximum Bonus to Strength Defence |
-|:-----------:|:---------------------------------:|
-| Light | +1 |
-| One-Handed | +3 |
-| Two-Handed | +6 |
+| Weapon Wielded In | Maximum Bonus to Strength Defence |
+|:-----------------:|:---------------------------------:|
+| One Hand | +1 |
+| Two Hands | +2 |
 
-If you are wielding a finesse weapon and blocking an attack from a one-handed weapon, then you may use your Dexterity to calculate your Strength defence.
+If you are wielding a finesse weapon and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 If you are wielding an unwieldy weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 

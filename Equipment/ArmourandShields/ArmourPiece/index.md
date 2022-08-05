@@ -115,16 +115,7 @@ Cloak armour pieces provide an external layer of protection.
 Head armour pieces are intended to protect your exposed head and provide coverage that helps to protect the wearer from suffering injuries.
 
 ## Shield
-A shield is made from wood and/or metal and is carried in one hand. Wielding a shield allows you to:
-
-1. Use your Strength defence to defend vs ranged attacks. Your proficiency bonus to Strength defence vs ranged attacks is limited by your shield's weight category (see table below).
-2. Add your proficiency modifier to your Strength defence vs melee and ranged attacks, if you are not already proficient in Strength defence, to a maximum value defined below:
-
-| Shield Weight | Maximum Bonus to Strength Defence |
-|:-------------:|:---------------------------------:|
-| Light | +1 |
-| Medium | +3 |
-| Heavy | +6 |
+A shield is made from wood and/or metal and is carried in one hand. Wielding a shield grants a shield bonus to Strength and Dexterity defence vs melee and ranged attacks.
 
 > ##### Blocking With A Shield
 > A shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your shield against the threat. Your shield takes the damage that the attack would deal to you (see Chapter 8)  and you benefit from advantage on the Strength defence check.

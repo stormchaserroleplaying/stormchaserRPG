@@ -46,9 +46,11 @@ It is generally considered socially acceptable to wear armour with the clothing 
 Concealed armour can be worn inconspicuously under clothing.  When only concealed armour is worn, the wearer appears unarmoured unless an observer succeeds on a DC 14 Wisdom (Perception) check. If the observer has physical contact with the wearer, this check is made with advantage.
 
 ### Cover
-When you wield a shield with the cover property, you may add double your proficiency bonus to your Strength defence. This does not stack with your proficiency bonus from your class if you are already proficient in strength defence. While wielding this shield, you suffer disadvantage on melee and ranged attacks, unless you are wielding a light weapon or a spear. Additionally, attempts to overrun or tumble through your space treat it as difficult terrain and suffer disadvantage.
+Attempts to overrun or tumble through your space while you are wielding this shield, treat your space as difficult terrain and suffer disadvantage.
 
-As an action, you can set down a shield with the cover property as stationary protection. The shield faces in a direction of your choice, and it takes an action to change its orientation. You benefit from three-quarters cover (+5 Dexterity defence) instead of the shield's bonus to Strength defence, and one adjacent ally standing behind you benefit from half-cover (+2 Dexterity defence). You get no cover from attacks that pass through other edges of your square.
+As an action, you can set down a shield with the cover property as stationary protection. The shield faces in a direction of your choice, and it takes an action to change its orientation. You benefit from three-quarters cover instead of the shield's bonus to Strength defence, and one adjacent ally standing behind you benefit from half-cover. You get no cover from attacks that pass through other edges of your square.
+
+While wielding this shield, you suffer disadvantage on melee and ranged attacks, unless you are wielding a light weapon or a spear. 
 
 ### Coverage
 When rolling on a table to determine an injury, if the result of your roll falls within the range defined by the coverage of your armour, then you may reroll and take the better result.
@@ -69,6 +71,9 @@ Noisy armour reduces your ability to move quietly, due to metal components scrap
 
 ### Non-Lethal
 Non-lethal shields are designed to incapacitate a target without killing it. Shields with this property deal their full damage when dealing non-lethal damage.
+
+### Shield
+Shields have the shield property, which grants a bonus to Strength and Dexterity defence vs melee and ranged attacks equal to the listed value.
 
 ### Shirt
 These torso armour pieces are considered to be one weight category lower when worn without other arm, head, or leg pieces. A chain torso armour piece worn alone is a chain shirt (light armour), and a plate torso armour piece worn alone is a breastplate (medium armour). When worn in this manner, the maximum possible Dexterity bonus when wearing the armour increases by 2 and the Strength requirement is reduced by 4.

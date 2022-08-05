@@ -242,7 +242,9 @@ An animal trained in air support knows the attack, bombard, and deliver tricks.
 An animal trained as a burglar knows the come, fetch, maneuver (steal), seek, and sneak tricks. You can order it to steal a specific item you point out.
 
 ###### Combat Training (DC 20)
-An animal trained to bear a rider into combat knows the tricks attack, come, defend, down, guard, and heel. Training an animal for combat riding takes 6 weeks. You may also “upgrade” an animal trained for riding to one trained for combat by spending 3 weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Many horses and riding dogs are trained in this way.
+An animal trained to bear a rider into combat knows the tricks attack, come, defend, down, guard, and heel. Training an animal for combat riding takes 6 weeks. You may also “upgrade” an animal trained for riding to one trained for combat by spending 3 weeks and making a successful DC 20 Handle Animal check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once knew. Many horses and riding dogs are trained in this way. A combat trained animal is proficient with barding.
+
+> Some predators are easier to combat train than other animals. At the DMs discretion this might only require a DC 15 check.
 
 ###### Fighting (DC 20)
 An animal trained to engage in combat knows the tricks attack, down, and stay. Training an animal for fighting takes three weeks.

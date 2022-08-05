@@ -41,3 +41,14 @@ When a creature that you can see damaged you within the last round, you may poin
 
 ## Magic Missile
 This spell strikes with perfect precision and thus ignores armour DR.
+
+## Searing Smite
+*1st Level Evocation*<br>
+**Casting Time:** 1 Bonus Action<br>
+**Range:** Self<br>
+**Components:** V<br>
+**Duration:** Concentration, up to 1 minute
+
+The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames. At the start of each of its turns until the spell ends, the target takes 1d6 fire damage. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot.

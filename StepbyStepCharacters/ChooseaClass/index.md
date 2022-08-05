@@ -33,9 +33,12 @@ When a roll is made with proficiency, then roll with [advantage](http://stormcha
 
 Your proficiency bonus to defences and other static scores is +4.
 
-Your class determines your weapon proficiencies, your defence proficiencies and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional proficiencies and some species give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
+Your class determines your weapon proficiencies, your defence proficiencies and some of your skill and tool proficiencies. (Skills are described in chapter 7, tools in chapter 5.) Your background gives you additional proficiencies and some species give you more proficiencies. Be sure to note all of these proficiencies on your character sheet.
 
 Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless benefit only once.
 
 ### Expertise
 Sometimes, a talent, feat or other feature might grant you expertise in a weapon, skill or tool that you are already proficient in. A character with expertise benefits from a second instance of advantage on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.
+
+### Overrolling
+When the exact total of a check is relevant (for example, when determining the quality of a crafted item), for every die beyond the first that makes the target DC, you gain a +1 to your final result. For every natural 20 beyond the first, you gain a +2 to your final result.

@@ -29,6 +29,6 @@ When a character is not in immediate danger or distracted, they may choose to us
 ## Taking 20
 When you have plenty of time (generally 2 minutes for a skill that can normally be performed in 1 round), you are faced with no threats or distractions, and the skill being attempted carries no penalties for failure, you can take 20. In other words, eventually you will get a 20 on 1d20 if you roll enough times. Instead of rolling 1d20 for the skill check, just calculate your result as if you had rolled a 20.
 
-Taking 20 means you are trying until you get it right, and it assumes that you fail many times before succeeding. Taking 20 takes twenty times as long as making a single check would take.
+Taking 20 means you are trying until you get it right, and it assumes that you fail many times before succeeding. Taking 20 takes twenty times as long as making a single check would take. If you are proficient in the task that you are attempting, then you can take 20 on both dice, which takes 400 times as long. If you are an expert at the task that you are attempting, then you can take 20 on all three dice, which takes 10,000 times as long.
 
 Since taking 20 assumes that the character will fail many times before succeeding, if you did attempt to take 20 on a skill that carries penalties for failure, your character would automatically incur those penalties before he or she could complete the task. Common uses of “take 20” include athletics to break an obstacle down, investigation to search, or thieves' tools to open a lock.

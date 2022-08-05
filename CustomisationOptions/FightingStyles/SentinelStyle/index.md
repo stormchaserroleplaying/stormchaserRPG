@@ -14,5 +14,5 @@ You are skilled at techniques that take advantage of every drop in any enemy's g
 ## Mastery
 You've mastered techniques to take advantage of every drop in any enemy's guard; in tight spaces you are indomitable. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:
 - Creatures within your reach provoke opportunity attacks from you even if they take the disengage action.
-- You can use a bonus action to enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you may make a number of opportunity attacks equal to your proficiency bonus.
+- You can use a bonus action to enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you may make a number of additional opportunity attacks equal to your Dexterity modifier.
 - If you end your turn having taken the dodge action, then you may make one additional opportunity attack that round.

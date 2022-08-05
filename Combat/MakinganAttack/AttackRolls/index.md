@@ -12,7 +12,7 @@ When you make an attack, your attack roll determines whether the attack hits or 
 > Sometimes, an attack might miss you when you wanted it to hit. You can choose to allow a miss to hit you (no action required). If you do so, the attacker chooses the maximum amount of damage instead of rolling.
 
 ## Modifiers to the Roll
-When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, the modifier is provided in its stat block.
+When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency. When a monster makes an attack roll, the modifier is provided in its stat block.
 
 ### Ability Modifier
 The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
@@ -20,7 +20,7 @@ The ability modifier used for a melee weapon attack is Strength, and the ability
 Some spells also require an attack roll. The ability modifier used for a spel1 attack depends on the spellcasting ability of the spel1caster, as explained in chapter 10.
 
 ### Proficiency Die
-You add your proficiency die to your attack roll when you attack using a weapon or spell with which you have proficiency.
+You also roll your proficiency die when you attack using a weapon or spell with which you have proficiency.
 
 ### Positioning
 When you attack a creature in melee from higher ground, you have advantage to hit.

@@ -22,21 +22,21 @@ You have undergone extensive physical training to gain the following benefits:
 ## Cunning Intellect
 *Prerequisite: Intelligence 20 or +2 species bonus to Intelligence*<br>
 You have the cunning of the most prolific scholars, granting the following benefits:
-* You gain proficiency in Intelligence defence. If you are already proficient in Intelligence defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Intelligence defence. If you are already proficient in Intelligence defence, then you instead gain expertise in it.
 * When you engage in the Training downtime activity, during resolution, you add your proficiency bonus to the check. If you would already add your proficiency bonus, you instead add twice your proficiency bonus.
 * Whenever you make an ability check that uses your Intelligence, you can add half your proficiency bonus (rounded down) if it doesn't already include your proficiency bonus. Additionally, if you roll lower than half your level (rounded down) on an Intelligence check, you can instead use your level for the d20 roll.
 
 ## Exalted Awareness
 *Prerequisite: Wisdom 20 or +2 species bonus to Wisdom*<br>
 You have the wisdom associated with the most renowned sages, granting the following benefits:
-* You gain proficiency in Wisdom defence. If you are already proficient in Wisdom defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Wisdom defence. If you are already proficient in Wisdom defence, then you instead gain expertise in it.
 * Creatures within 60 feet of you have disadvantage on Dexterity (Stealth) checks made to hide from you.
 * As an action, you can sense the presence of illusions and other effects designed to deceive the senses within 30 feet of you, provided that you aren't blinded or deafened. You sense that an effect is trying to trick you, but you gain no insight into what is hidden or its true nature. Once you've used this feature, you must complete a short or long rest before you can use it again.
 
 ## Overwhelming Presence
 *Prerequisite: Charisma 20 or +2 species bonus to Charisma*<br>
 You have the presence of the most affluent of leaders, granting the following benefits:
-* You gain proficiency in Charisma defence. If you are already proficient in Charisma defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Charisma defence. If you are already proficient in Charisma defence, then you instead gain expertise in it.
 * While you are conscious, up to five friendly creatures within 30 feet of you who can see or hear you and who can understand you can gain a bonus to their Intelligence, Wisdom, or Charisma defence equal to your Charisma modifier. Once they've done so, they can’t do so again until they finish a short or long rest.
 * As an action, you can attempt to distract up to five creatures you can see within 30 feet of you. Make a Charisma attack roll vs the creatures' Wisdom defences. Any creature immune to being charmed is unaffected. If you or your companions are fighting a creature, you have disadvantage on the attack roll. On a hit, for the next minute, a creature has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the effect ends or until the target can no longer see or hear you. The feature ends early if you are incapacitated.
 

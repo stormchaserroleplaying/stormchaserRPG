@@ -16,4 +16,4 @@ You've mastered fighting from unseen angles, gaining an advantage over your foes
 - You can try to hide when you are lightly obscured from the creature from which you are hiding.
 - Dim light doesn't impose disadvantage on your Wisdom (Perception) checks that rely on sight.
 - When you are hidden from a creature and miss it with an unarmed strike or weapon attack, making the attack doesn't automatically reveal your position.
-- Once per turn, when you deal damage to a creature with an unarmed strike or weapon attack while hidden from it, you deal additional damage equal to your proficiency bonus.
+- Once per turn, when you deal damage to a creature with an unarmed strike or weapon attack while hidden from it, your weapon dice deal maximum damage.

@@ -7,6 +7,8 @@ nav_order: 2
 # Advantage and Disadvantage
 Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
+If you have advantage on a damage roll, you similarly roll all the dice twice and take the better result.
+
 If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you roll more than one additional d20. If two favourable situations grant advantage, for example, you roll two additional d20 and take the best of all three. Similarly, if two unfavourable situations grant disadvantage, you roll two additional d20 and take the *worst* of all three.
 
 If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is *not* true if multiple circumstances impose disadvantage and grants advantage in uneven amounts. In such a situation, one case of advantage cancels one case of disadvantage, and you are affected by whichever condition there is more of.

@@ -14,5 +14,5 @@ You are skilled at fighting and interfering with spellcasters. You gain the foll
 ## Mastery
 You've mastered fighting and interfering with spellcasters, confounding their concentration. You gain the following benefits:
 - When a creature within 30 feet of you that you can see casts a spell, they provoke an opportunity attack from you.
-- Whenever you roll vs a creature's Constitution defence to make them break their concentration, you can add your proficiency bonus to the roll.
+- Whenever you roll vs a creature's Constitution defence to make them break their concentration, you are considered to be proficient in this roll.
 - Spells cast by creatures that you can see have disadvantage to hit you if you've dealt damage to the spellcaster since the start of your last turn.

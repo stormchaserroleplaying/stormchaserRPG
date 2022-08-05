@@ -13,6 +13,6 @@ You are skilled at the art of defending yourself. While you are wearing medium o
 
 ## Mastery
 You've mastered the art of defending yourself, treating your armour as a second skin. While you are wearing medium or heavy armour with which you are proficient, you gain the following benefits:
-- Damage that you take from melee and ranged attacks is reduced by an amount equal to your proficiency bonus.
+- When you are hit by a melee or ranged attack, the damage roll has disadvantage.
 - Once per round, when a creature makes a melee attack against you while within your reach, whether the attack hits or misses, the creature must make a Strength defence check vs your passive Strength (Athletics) skill or be shoved up to 10 feet directly away from you.
 - The time that it takes for you to don and doff armour is reduced by half.

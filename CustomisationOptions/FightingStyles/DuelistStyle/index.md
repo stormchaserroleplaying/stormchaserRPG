@@ -15,5 +15,5 @@ You are skilled in the art of fighting with a single weapon. While you are wield
 ## Mastery
 You've mastered the art of fighting with a single weapon, making one weapon feel like many. While you are wielding a weapon in one hand with which you are proficient and no other weapons, you gain the following benefits:
 - When you take the Attack action, you can choose to attack with haste at the expense of accuracy. Your weapon attacks are made without the aid of your proficiency bonus, but you can use make an additional weapon attack, also without your proficiency bonus. If you would make more than one attack when you take the Attack action, only one attack is made without your proficiency bonus.
-- Each round, the first time that a creature hits you with a melee attack and the result of the attack roll exceeds your defence by less than your proficiency bonus, the attack misses you.
+- Each round, the first time that a creature hits you with a melee attack, if advantage on your defence score would cause the attack to miss, then the attack misses.
 - You have advantage on ability checks to avoid being disarmed. Attempts to disarm you suffer disadvantage.

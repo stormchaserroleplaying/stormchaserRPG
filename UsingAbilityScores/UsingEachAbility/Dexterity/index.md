@@ -67,7 +67,7 @@ In combat, most creatures stay alert for signs of danger all around, so if you c
 
 **Passive Perception.** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 4. For disadvantage, subtract 4.
 
-For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+For example, if a character has a Wisdom of 15 (a +2 modifier) and proficiency in Perception (advantage), he or she has a passive Wisdom (Perception) of 16.
 
 **What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured** as explained in Chapter 8.
 

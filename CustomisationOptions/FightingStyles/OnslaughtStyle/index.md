@@ -16,4 +16,4 @@ You've mastered using your momentum to your advantage, effectively pummeling cre
 - When a creature falls prone within 5 feet of you, it provokes an opportunity attack from you.
 - When you would have advantage on a melee weapon attack due to a creature being prone, you can reroll one of the dice once.
 - When a prone creature within 5 feet of you attempts to stand, they provoke an opportunity attack from you.
-- Once on each of your turns, if you move at least 10 feet in a straight line towards a creature before hitting it with a melee weapon attack, you deal additional damage equal to your proficiency bonus.
+- Once on each of your turns, if you move at least 10 feet in a straight line towards a creature before hitting it with a melee weapon attack, your weapon dice deal maximum damage.

@@ -37,7 +37,7 @@ You are proficient with simple axes and simple bludgeoning weapons. If your clas
 You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
 
 ## Stonecunning
-Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus
+Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
 
 ## Languages
 You can speak, read, and write Dwarven and one local human language of your choice. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.

@@ -121,7 +121,7 @@ A creature caught by the wave can move by swimming and it can make a Strength (A
 #### Sandstorms
 *Dangerous Hazard*
 
-The sandstorm makes an attack roll vs the Constitution defence of any creature inside it. On a hit, the creature is blinded until the sandstorm ends. A creature can make a Constitution check at the end of each of its turns, ending the effect on itself on a success. The DC is equal to 10 + the sandstorm's attack bonus and if the creature is proficient in Constitution defence, then it may add its proficiency bonus to the check. A creature cannot be blinded by the sandstorm if it’s wearing goggles or something that protects its eyes.
+The sandstorm makes an attack roll vs the Constitution defence of any creature inside it. On a hit, the creature is blinded until the sandstorm ends. A creature can make a Constitution defence check at the end of each of its turns, ending the effect on itself on a success. The DC is equal to 10 + the sandstorm's attack bonus. A creature cannot be blinded by the sandstorm if it’s wearing goggles or something that protects its eyes.
 
 Any check that relies on sight is made with disadvantage for the duration of the sandstorm.
 

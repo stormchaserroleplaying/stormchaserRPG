@@ -16,4 +16,4 @@ You've mastered fighting with double-bladed weapons, using both ends to devastat
 - Whenever you roll the maximum on a weapon damage die against a creature, you gain a +1 bonus to the next attack roll you make against that creature before the end of your next turn.
 - You can engage in Double-Weapon Fighting even when the weapon you are wielding lacks the light property.
 - Grasping a double weapon you are wielding in only one hand with your other hand no longer requires your object interaction.
-- Before you make a melee weapon attack, you can choose to forgo your proficiency bonus. If the attack hits, you add your proficiency bonus to the attack's damage.
+- Before you make a melee weapon attack, you can choose to forgo your proficiency bonus. If the attack hits, your weapon dice deal maximum damage.

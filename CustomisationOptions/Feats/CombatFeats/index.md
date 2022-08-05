@@ -15,7 +15,7 @@ Always on the lookout for danger, you gain the following benefits:
 ## Blinding Agility
 *Prerequisite: Dexterity 20 or +2 species bonus to Dexterity*<br>
 You have the reflexes of one who can see things before they happen, granting the following benefits:
-* You gain proficiency in Dexterity defence. If you are already proficient in Dexterity defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Dexterity defence. If you are already proficient in Dexterity defence, then you instead gain expertise in it.
 * All weapons are considered to have the finesse property for you.
 * You have advantage on defence checks to avoid opportunity attacks.
 
@@ -71,14 +71,14 @@ You gain the following benefits:
 ## Titan's Power
 *Prerequisite: Strength 20 or +2 species bonus to Strength*<br>
 You have the strength that legends tell of, granting the following benefits:
-* You gain proficiency in Strength defence. If you are already proficient in Strength defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Strength defence. If you are already proficient in Strength defence, then you instead gain expertise in it.
 * You ignore the two-handed property of weapons with which you are proficient.
 * When you miss with a melee weapon attack, the creature takes damage equal to your Strength modifier. This damage is of the same type as the weapon’s damage.
 
 ## Unnatural Resilience
 *Prerequisite: Constitution 20 or +2 species bonus to Constitution*<br>
 You have the fortitude often attributed to gods, granting the following benefits:
-* You gain proficiency in Constitution defence. If you are already proficient in Constitution defence, then you gain proficiency in another defence of your choice.
+* You gain proficiency in Constitution defence. If you are already proficient in Constitution defence, then you instead gain expertise in it.
 * Enhanced effects, such as spells or healing potions, that would restore hit points to you can’t restore an amount less than half your level + your Constitution modifier. If this amount would exceed that maximum amount of hit points that effect could restore, you instead take that effect’s maximum.
 * You can add your Constitution modifier to death saving throws you make.
 

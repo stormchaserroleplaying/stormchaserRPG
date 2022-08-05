@@ -65,6 +65,8 @@ This simple rule governs the resolution of most tasks in play. Chapter 7 provide
 ## Advantage and Disadvantage
 Sometimes, an ability check or attack roll is modified by special situations called advantage and disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll an additional d20 when you make the roll. If you have advantage, use the highest of the rolls and, if you have disadvantage, use the lower roll. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
 
+If you have advantage on a damage roll, you similarly roll all the dice twice and take the better result.
+
 More detailed rules for advantage and disadvantage are presented in chapter 7.
 
 ## Specific Beats General

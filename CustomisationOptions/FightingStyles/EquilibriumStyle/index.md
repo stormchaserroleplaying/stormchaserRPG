@@ -14,5 +14,5 @@ You are skilled at fighting without the confines of armour. While you are wearin
 ## Mastery
 You've mastered fighting without the confines of armour, treating combat as an elegant dance. While you are wearing light or no armour and not wielding a shield, you gain the following benefits:
 - When a creature misses you with a weapon attack, it provokes an opportunity attack from you. Do not add your proficiency bonus to your weapon skill for the purposes of determining the defence check DC.
-- Each round, the first time that a creature hits you with a weapon attack and the result of the attack roll exceeds your defence by less than your proficiency bonus, the attack misses you.
+- Each round, the first time that a creature hits you with a weapon attack, if advantage on your defence score would cause the attack to miss, then the attack misses.
 - Once per round, if you are disarmed you catch the weapon immediately.

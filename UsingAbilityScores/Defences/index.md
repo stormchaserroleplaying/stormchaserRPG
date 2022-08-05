@@ -9,7 +9,7 @@ Your defences represent your ability to resist spells, traps, poison, disease an
 
 You have six defence scores and each class gives proficiency in two defences. The wizard, for example, is proficient in Intelligence defence. As with skill proficiencies, proficiency in a defence lets a character add their proficiency bonus to the defence score derived from a particular ability score. Some monsters have defence proficiencies as well.
 
-If a defence check is called for, make an ability check using the named attribute. If you are proficient in the defence, you may add your proficiency bonus to the check.
+If a defence check is called for, make an ability check using the named attribute. If you are proficient in the defence, you may also roll your proficiency die.
 
 If a defence check is made to avoid being hit by an attack that would have had advantage, the defence check is made with disadvantage. This counts as the attack having advantage for the purposes of triggering abilities such as a Rogue's sneak attack. If a defence check is made to avoid being hit by an attack that would have had disadvantage, the defence check is made with advantage.
 

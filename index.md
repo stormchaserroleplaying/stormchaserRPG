@@ -16,27 +16,3 @@ This new system aims to solve these problems, providing the same visceral feelin
 Enjoy your games!
 
 — Kyle Taylor a.k.a. Stormchaser
-
----
-
-<p align="center">
-  
-  A Stormchaser Roleplaying Publication<br>
-  
-  <a href="https://stormchaserroleplaying.com/stormchaserRPG/">www.stormchaserroleplaying.com/stormchaserRPG</a><br>
-  
-  <a href="mailto:stormchaserroleplaying@gmail.com">stormchaserroleplaying@gmail.com</a><br>
-  
-  <a href="https://twitter.com/keyrelin">@Keyrelin</a> on Twitter
-  
-</p>
-
-<p align="center">
-  
-  The Stormchaser Roleplaying Game<br>
-  
-  Copyright ©2021 Stormchaser Roleplaying<br>
-  
-  All rights reserved.
-  
-</p>

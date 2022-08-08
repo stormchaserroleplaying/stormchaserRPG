@@ -145,6 +145,8 @@ If you are wielding a finesse weapon and blocking an attack from a weapon the is
 
 If you are wielding an unwieldy weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 
+If you are wielding a parry weapon in each hand, you only benefit from one weapon's parry bonus to your Strength defence vs melee attacks, unless you are trained in the dual wielding fighting style.
+
 ### Pellets
 This weapon uses free ammunition, such as stones, which do not leave a trace of the direction they were shot from unless the victim is alive to notice, or the wound is inspected with a DC 15 Intelligence (Investigation) check, or the environment is searched with a DC 20 Wisdom (Perception) check.
 

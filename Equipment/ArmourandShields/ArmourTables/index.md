@@ -21,7 +21,7 @@ The armour tables show the cost, weight and other properties of the common types
 | Fur Cloak | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, bulky, clothing | 5 lb. | 5 gp |
 | Overcoat | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">, bulky, clothing | 5 lb. | 5 gp |
 | Hide Cloak | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png">, bulky, clothing | 5 lb. | 5 gp |
-| Buckler | Shield | — | +5 | 9 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, shield 1, worn | 5 lb. | 5 gp |
+| Buckler | Shield | — | +5 | 9 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
 
 ##### Medium Armour
 

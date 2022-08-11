@@ -16,7 +16,7 @@ Melee attacks that deal slashing damage have advantage to hit targets defending 
 Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
 
 ## Unarmed Attacks
-When you are **unarmed**, you can fight in melee by making an unarmed strike, as shown in the weapon table in chapter 5. Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons.
+When you are **unarmed**, you can fight in melee by making an unarmed strike, [as shown in the simple unarmed weapon table](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/#simple-unarmed-weapons). Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons.
 
 ## Opportunity Attacks
 In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger. If you do so, you must make a defence check to avoid being hit by an opportunity attack.
@@ -34,10 +34,10 @@ Actions marked with <img src="https://img.icons8.com/material/14/FFFFFF/sword.pn
 When you make an attack that qualifies as an automatic critical hit against a defenceless target, roll a regular Attack roll against a defence of 10. If you hit, the creature takes damage equal to the total of its current stamina and is dying. If you do not hit, the creature instead loses half its current stamina. If your attack roll would critically hit a normal target, the creature dies immediately.
 
 ### Damage Weapon
-It is possible to push your weapon beyond its limits to achieve great effect, damaging it in the process. When you hit with a melee weapon, you may choose to turn the hit into a critical hit and your weapon takes the same amount damage (see Chapter 8).
+It is possible to push your weapon beyond its limits to achieve great effect, damaging it in the process. When you hit with a melee weapon, you may choose to turn the hit into a critical hit and your weapon takes the same amount damage (see [Breaking an Object](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#breaking-an-object)).
 
 > #### Blocking With An Item
-> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see Chapter 8) and you benefit from advantage on the Strength defence check.
+> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see [Breaking an Object](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#breaking-an-object)) and you benefit from advantage on the Strength defence check.
 
 ### Disarm <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's weapon skill. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. You can use your item interaction to either kick the weapon into an adjacent area (your choice) or take the item if you have a free hand, otherwise the target may use its item interaction on their turn to take it back.
@@ -65,7 +65,7 @@ Fighting dirty refers to a number of dishonourable tricks that exploit common we
 You can change one of your attacks into a dirty move from the list below. Make a Strength (Athletics) check vs your target's passive Wisdom (Insight) score. If you fail, you provoke an attack of opportunity from your opponent. If you succeed, apply the dirty move effect.
 
 #### Head Lock
-The target is grappled by you and suffocating (see Chapter 8) until the grapple is broken.
+The target is grappled by you and [suffocating](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/) until the grapple is broken.
 
 #### Eye Jab
 The target is Blinded until the end of its next turn. You may also shove the creature as part of the Dirty Trick, but at disadvantage.
@@ -98,7 +98,7 @@ While hidden from your target and all nearby targets, you can perform a grapple 
 You gag the target's mouth to prevent it from making any sound. Make a second grapple check vs your target. On a success, the target is gagged until the grapple ends. A gagged creature cannot cast spells with verbal components and its speech is muffled and difficult to understand.
 
 ##### Choke Hold
-The attacker grabs the creature by the throat and prevents it from breathing. Make a second grapple check with disadvantage. On a success, the target is gagged and suffocating until the grapple ends (see Chapter 8).
+The attacker grabs the creature by the throat and prevents it from breathing. Make a second grapple check with disadvantage. On a success, the target is gagged and [suffocating](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/) until the grapple ends.
 
 ##### Silent Takedown
 If your target is already grappled and gagged, you may attempt to strike it with a weapon with the concealed, close or light property. Make a grapple check to maintain the hold on your target. If you succeed, you can make a single special melee attack. Your target has vulnerability towards the damage dealt by that attack.
@@ -131,7 +131,7 @@ You can attempt to sunder an item held or worn by your opponent in place of a me
 
 When sundering armour, only the outermost layer is the one that gains the broken condition.
 
-If an item is magical, add +2 to its DR and +10 to its integrity for for each rarity category (see Chapter 8).
+If an item is magical, add +2 to its DR and +10 to its integrity for for each rarity category (see [Magic Item DR and Integrity](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#magic-item-dr-and-integrity)).
 
 ###### Common Armour, Shield & Weapon DR & Integrity
 

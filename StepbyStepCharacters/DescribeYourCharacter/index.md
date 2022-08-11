@@ -7,7 +7,7 @@ nav_order: 4
 # 4. Describe Your Character
 Once you know the basic game aspects of your character, it’s time to flesh them out as a person. Your character needs a name. Spend a few minutes thinking about what they look like and how they behave in general terms.
 
-Using the information in the chapter 4, you can flesh out your character’s physical appearance and personality traits. Choose your character’s **alignment** (the moral compass that guides his or her decisions) and **ideals**. Chapter 4 also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine them.
+Using the information in [Personality and Backgrounds](http://stormchaserroleplaying.com/stormchaserRPG/PersonalityandBackgrounds/), you can flesh out your character’s physical appearance and personality traits. Choose your character’s **alignment** (the moral compass that guides his or her decisions) and **ideals**. This section also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine them.
 
 Your character's **background** describes where they came from, their original occupation and their place in the world.
 

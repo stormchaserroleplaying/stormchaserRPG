@@ -69,7 +69,7 @@ In combat, most creatures stay alert for signs of danger all around, so if you c
 
 For example, if a character has a Wisdom of 15 (a +2 modifier) and proficiency in Perception (advantage), he or she has a passive Wisdom (Perception) of 16.
 
-**What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured** as explained in Chapter 8.
+**What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in [Vision and Light](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/VisionandLight/).
 
 #### Hiding While Invisible
 Whilst invisible, you may forgo your movement to gain a second instance of advantage on Dexterity (Stealth) checks to hide. If you also use your action to keep still and hold your breath, you gain a third instance of advantage. You must keep spending your action to maintain this increase.
@@ -97,4 +97,4 @@ The GM might call for a Dexterity check when you try to accomplish tasks like th
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
 ## Initiative
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in Chapter 9.
+At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in [Initiative](http://stormchaserroleplaying.com/stormchaserRPG/Combat/TheOrderofCombat/Initiative/).

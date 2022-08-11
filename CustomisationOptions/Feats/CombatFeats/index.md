@@ -25,12 +25,12 @@ Every blow that hits your enemies make you feel closer to victory, making you sh
 * Whenever a creature you can see within 30 feet is reduce to 0 hit points, you go into a fervour gaining temporary hit points equal to 1d4 + your Constitution modifier.
 
 ## Fighting Master
-You've mastered a particular style of fighting. Choose one of the fighting mastery options, detailed later in this chapter. You can take this feat multiple times.
+You've mastered a particular style of fighting. Choose [one of the fighting mastery options](http://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/). You can take this feat multiple times.
 
 ## Fighting Stylist
 You adopt a particular style of fighting as your specialty, gaining the following benefits:
 * Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-* Choose one of the fighting style options, detailed later in this chapter.
+* Choose [one of the fighting style options](http://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/).
 
 ## Heavily Armoured
 _**Prerequisite:** Proficiency with medium armour_<br>

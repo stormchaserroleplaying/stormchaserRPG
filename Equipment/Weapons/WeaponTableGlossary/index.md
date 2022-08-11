@@ -226,7 +226,7 @@ Small creatures have disadvantage on attack rolls with unwieldy weapons. An unwi
 
 Additionally, if you take the attack action with an unwieldy weapon and use all of your attacks for that round, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
 
-#### Velocity
+### Velocity
 Advanced firearms shoot projectiles at a higher velocity than all other ranged weapons. While causing less bleeding than arrows, bullets deal more trauma and are very effective at killing quickly. When rolling for damage, roll one additional weapon die then remove the die with the lowest result.
 
 When using weapons with the Velocity property the target does not benefit from any DR from armour components with the Hard property.

@@ -11,7 +11,7 @@ Not every intelligent species of the multiverse is appropriate for a player-cont
 
 Your choice of species affects many different aspects of your character. It establishes fundamental qualities that exist throughout your character’s adventuring career. When making this decision, keep in mind the kind of character you want to play. For example, a halfling could be a good choice for a sneaky rogue, a dwarf makes a tough warrior, and an elf can be a master of arcane magic.
 
-Your character's species not only affects your ability scores and traits but also provides the cues for building your character's story. Each species' description in this chapter includes information to help you roleplay a character of that species, including personality, physical appearance, features of society, and racial alignment tendencies. These details are suggestions to help you think about your character; adventurers can deviate widely from the norm for their species. It’s worthwhile to consider why your character is different, as a helpful way to think about your character’s background and personality.
+Your character's species not only affects your ability scores and traits but also provides the cues for building your character's story. Each species' description includes information to help you roleplay a character of that species, including personality, physical appearance, features of society, and racial alignment tendencies. These details are suggestions to help you think about your character; adventurers can deviate widely from the norm for their species. It’s worthwhile to consider why your character is different, as a helpful way to think about your character’s background and personality.
 
 ## Species Traits
 The description of each species includes species traits that are common to members of that species.
@@ -30,13 +30,13 @@ The age entry notes the age when a member of the species is considered an adult,
 Most species have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
 ### Size
-Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding unwieldy weapons, as explained in chapter 5.
+Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding [unwieldy weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy).
 
 ### Speed
-Your speed determines how far you can move when traveling (see Chapter 8) and fighting (see Chapter 9).
+Your speed determines how far you can move when [traveling](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/) and [fighting](http://stormchaserroleplaying.com/stormchaserRPG/Combat/MovementandPosition/).
 
 ### Languages
-By virtue of your species, your character can speak, read, and write certain languages. Chapter 4 lists the most common languages. A free choice of language is worth 1 character point.
+By virtue of your species, your character can speak, read, and write certain [languages](http://stormchaserroleplaying.com/stormchaserRPG/PersonalityandBackgrounds/CharacterDetails/#languages). A free choice of language is worth 1 character point.
 
 ### Races
 Some species have races. Members of a race have the traits of the parent species in addition to the traits specified for their race. Relationships among races vary significantly from species to species and world to world.

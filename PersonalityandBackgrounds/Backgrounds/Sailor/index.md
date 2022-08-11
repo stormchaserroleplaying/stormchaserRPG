@@ -12,7 +12,7 @@ Discuss the nature of the ship you previously sailed with your GM. Was it a merc
 What were your duties on board? Boatswain, captain, navigator, cook, or some other position? Who were the captain and first mate? Did you leave your ship on good terms with your fellows, or on the run?
 
 ## Equipment
-A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common clothes and a pouch containing 10 gp.
+A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on [the Trinkets table](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/#trinkets)), a set of common clothes and a pouch containing 10 gp.
 
 ## Feature: Ship’s Passage
 When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you’re calling in a favor, you can’t be certain of a schedule or route that will meet your every need. Your GM will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.

@@ -48,7 +48,7 @@ You have resistance to the damage type associated with your draconic ancestry.
 You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ## Prehensile Tail
-You can make unarmed strikes with your tail, which can also be equipped with special weapons (see Chapter 5).
+You can make unarmed strikes with your tail, which can also be equipped with special weapons (see [Melee Weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/)).
 
 ## Sunlight Sensitivity
 You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.

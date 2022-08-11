@@ -31,7 +31,7 @@ A creature can avoid provoking an opportunity attack by taking the Disengage act
 Actions marked with <img src="https://img.icons8.com/material/14/FFFFFF/sword.png"> replace one of your Attacks. Actions marked with <img src="https://img.icons8.com/ios-glyphs/14/FFFFFF/plus-math.png"/> can be taken as a bonus action.
 
 ### Coup de Grace <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
-When you make an attack that qualifies as an automatic critical hit against a defenceless target, roll a regular Attack roll against a defence of 10. If you hit, the creature takes damage equal to the total of its current hit points and is dying. If you do not hit, the creature instead loses half its current hit points. If your attack roll would critically hit a normal target, the creature dies immediately.
+When you make an attack that qualifies as an automatic critical hit against a defenceless target, roll a regular Attack roll against a defence of 10. If you hit, the creature takes damage equal to the total of its current stamina and is dying. If you do not hit, the creature instead loses half its current stamina. If your attack roll would critically hit a normal target, the creature dies immediately.
 
 ### Damage Weapon
 It is possible to push your weapon beyond its limits to achieve great effect, damaging it in the process. When you hit with a melee weapon, you may choose to turn the hit into a critical hit and your weapon takes the same amount damage (see Chapter 8).
@@ -127,15 +127,15 @@ If the target takes damage, the target's movement speed <br>is reduced by 10 unt
 
 ### Sunder <img src="https://img.icons8.com/material/14/FFFFFF/sword.png"> (Martial Axe or Sundering)
 
-You can attempt to sunder an item held or worn by your opponent in place of a melee attack. If your attack is successful, you deal damage to the item normally. Damage that exceeds the object's Damage Reduction is subtracted from its hit points. If an object has equal to or less than half its total hit points remaining, it gains the broken condition. If the damage you deal would reduce the object to less than 0 hit points, you can choose to destroy it. If you do not choose to destroy it, the object is left with only 1 hit point and the broken condition.
+You can attempt to sunder an item held or worn by your opponent in place of a melee attack. If your attack is successful, you deal damage to the item normally. Damage that exceeds the object's Damage Reduction is subtracted from its integrity. If an object has equal to or less than half its total integrity remaining, it gains the [broken](http://stormchaserroleplaying.com/stormchaserRPG/Conditions/Broken/) condition. If the damage you deal would reduce the object to less than 0 integrity, you can choose to [destroy](http://stormchaserroleplaying.com/stormchaserRPG/Conditions/Destroyed/) it. If you do not choose to destroy it, the object is left with only 1 integrity and the broken condition.
 
 When sundering armour, only the outermost layer is the one that gains the broken condition.
 
-If an item is magical, add +2 to its DR and +10 to its hp for for each rarity category (see Chapter 8).
+If an item is magical, add +2 to its DR and +10 to its integrity for for each rarity category (see Chapter 8).
 
-###### Common Armour, Shield & Weapon DR & hp
+###### Common Armour, Shield & Weapon DR & Integrity
 
-| Weapon or Shield | DR | hp |
+| Weapon or Shield | DR | Integrity |
 |:-----------------|---:|---:|
 | Leather/Hide Armour | 5 | Armour DR×5 |
 | Iron/Steel Armour | 10 | Armour DR×5 |
@@ -155,9 +155,9 @@ If an item is magical, add +2 to its DR and +10 to its hp for for each rarity ca
 | One-Handed Metal-Hafted Weapon | 10 | 20 |
 | Projectile Weapon | 5 | 5 |
 
-> ###### Substance DR and hp
+> ###### Substance DR and Integrity
 > 
-> | Substance | DR | hp |
+> | Substance | DR | Integrity |
 > |:----------|---:|:--:|
 > | Leather or Hide | 2 | 5/inch of thickness |
 > | Wood | 5 | 10/inch of thickness |
@@ -165,9 +165,9 @@ If an item is magical, add +2 to its DR and +10 to its hp for for each rarity ca
 > | Mithril | 15 | 30/inch of thickness |
 > | Adamantine | 20 | 40/inch of thickness |
 > 
-> ###### Magic Item DR and hp
+> ###### Magic Item DR and Integrity
 > 
-> | Magic Item Rarity | DR | hp |
+> | Magic Item Rarity | DR | Integrity |
 > |:------------------|---:|---:|
 > | Common | +2 | +10 |
 > | Uncommon | +4 | +20 |
@@ -176,7 +176,7 @@ If an item is magical, add +2 to its DR and +10 to its hp for for each rarity ca
 > | Legendary | +10 | +50 |
 > | Artifact | +12 | +60 |
 
-The hp value given is for armour and shields sized for a medium creature. Divide this number by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.
+The integrity value given is for armour and shields sized for a medium creature. Divide this number by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.
 
 ### Suppress <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
 You can keep the pressure on an enemy, making their attacks more difficult. Select an opponent and make an attack against a Dexterity defence of 10 (modified by cover). If you succeed, that opponent suffers disadvantage on its attack rolls until the start of your next turn.

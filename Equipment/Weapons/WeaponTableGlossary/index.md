@@ -37,7 +37,7 @@ Ranged weapons with the Caliber property deal additional damage when you shoot f
 * For each 3 points by which you beat the target's Dexterity defence, the attack deals 1 additional damage die.
 
 ### Cleave
-When a melee attack with a cleave weapon reduces a creature to 0 hit points, any excess damage from that attack can carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature is likewise reduced to 0 hit points, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 hit points. 
+When a melee attack with a cleave weapon reduces a creature to 0 stamina, any excess damage from that attack can carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature is likewise reduced to 0 stamina, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 stamina. 
 
 ### Close
 If the target of an attack with a close weapon is grappled, double the number of weapon dice rolled for the attack's damage.
@@ -68,11 +68,11 @@ Whilst your weapon is grappling the target, any attack with the same weapon brea
 Whilst your weapon is grappling the target and you are holding onto your weapon, you can attempt Shove a Creature action using your Attack roll instead of Strength (Athletics).
 
 #### Break
-The weapon has Strength defence and hp values and can be attacked with melee attacks as long as the weapon is grappling you (see grappling property). You may also be allowed a Strength check to break the weapon. Common breakable objects are:
+The weapon has Strength defence and integrity values and can be attacked with melee attacks as long as the weapon is grappling you (see grappling property). You may also be allowed a Strength check to break the weapon. Common breakable objects are:
 
-* **Net.** Strength defence 10 and hp 5. Immune to bludgeoning and piercing damage. Can also be broken with a DC 23 Strength check. If the Net is Barbed, you take 1d4 piercing damage breaking it.
-* **Bola or Lasso.** Strength defence 10 and hp 5. Immune to bludgeoning and piercing damage. Can also be broken with a DC 23 Strength check. 
-* **Chain.** Strength defence 10 and hp 75. Immune to piercing damage. Takes no damage from attacks dealing 10 damage or less. Can also be broken with a DC 26 Strength check. 
+* **Net.** Strength defence 10 and integrity 5. Immune to bludgeoning and piercing damage. Can also be broken with a DC 23 Strength check. If the Net is Barbed, you take 1d4 piercing damage breaking it.
+* **Bola or Lasso.** Strength defence 10 and integrity 5. Immune to bludgeoning and piercing damage. Can also be broken with a DC 23 Strength check. 
+* **Chain.** Strength defence 10 and integrity 75. Immune to piercing damage. Takes no damage from attacks dealing 10 damage or less. Can also be broken with a DC 26 Strength check. 
 
 Once broken, weapons immediately release their grapple and, unless held by you, drop to the ground.
 

@@ -12,7 +12,7 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 ##### Medieval Direct Firing Mechanical Artillery
 
-| Name | Cost | DT/HP | Aim | Range | Damage | Crew | Load | Size | Weight | 
+| Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|:----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
 | Ballista, 1-lb. | 1,960 gp | 10/50 | +10 | 750/900 | 4d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 2 | Medium | 1/2 |
 | Ballista, 2-lb. | 2,450 gp | 10/50 | +9 | 750/950 | 5d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Medium | 1/2 |
@@ -36,7 +36,7 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 ##### Medieval Indirect Firing Mechanical Artillery
 
-| Name | Cost | DT/HP | Aim | Range | Damage | Crew | Load | Size | Weight | 
+| Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|:----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
 | Petrobolos, 5-lb. | 2,900 gp | 10/75 | +9 | 750/950 | 5d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/naval-mine.png"> | 1 | 6 | Large | 1/2 |
 | Petrobolos, 40-lb. | 6,380 gp | 15/75 | +7 | 1000/1250 | 11d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/naval-mine.png"> | 2 | 18 | Huge | 3 |
@@ -54,7 +54,7 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 ##### Medieval Gunpowder Artillery
 
-| Name | Cost | DT/HP | Aim | Range | Damage | Crew | Load | Size | Weight | 
+| Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|-----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
 | Rocket, 1.2-lb. | 100 gp | —/25 | +4 | 0/2500 | 2d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 2 | Compact | — |
 | Bombard, 50-lb. | 5,850 gp | 15/75 | +1 | 250/1650 | 13d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1 |
@@ -64,7 +64,7 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 ##### Renaissance Gunpowder Artillery
 
-| Name | Cost | DT/HP | Aim | Range | Damage | Crew | Load | Size | Weight | 
+| Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|-----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
 | Rabinet, 0.6-lb. | 2,000 gp | 15/50 | +6 | 270/2550 | 5d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/5 |
 | Falconet, 1.5-lb. | 2,800 gp | 15/150 | +5 | 350/3000 | 7d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/4 |
@@ -109,7 +109,7 @@ Explosive damage is dealt by gunpowder artillery such as the cannons. Their proj
 ## Structures and Materials
 Structures made of solid material have Damage Reduction based on the material they are made from. Subtract DR from any damage dealt to them unless they are vulnerable to the damage type. Their size determines the base siege defence and the smaller the target is, the harder it is to hit.
 
-| Material | Vulnerable To... | DR | hp/foot |
+| Material | Vulnerable To... | DR | Integrity/Foot |
 |:---------|:----------------:|:--:|:-------:|
 | Wood | Explosive, Impaling | 5 | 120 |
 | Stone | Explosive, Crushing | 8 | 180 |
@@ -120,8 +120,8 @@ Structures made of solid material have Damage Reduction based on the material th
 ### Ammunition Weight
 The ammunition caliber and weight (pounds per unit) are listed at the end of the siege weapon's name. 
 
-### DT and HP
-To make a melee or ranged attack against an immobile siege weapon you must make an attack roll of 10 or better. If you hit and you deal damage higher than the Damage Threshold (DT) the siege weapon takes normal damage, otherwise it takes no damage.
+### DR and Integrity
+To make a melee or ranged attack against an immobile siege weapon you must make an attack roll of 10 or better. If you hit, subtract the siege weapon's DR from the damage and subtract the remaining damage from the siege weapon's integrity.
 
 ### Aim
 To fire a loaded siege weapon, you must make an Intelligence (Siege Weapons proficiency) skill check. Add the Aim bonus or penalty of the weapon to your roll. 
@@ -255,7 +255,7 @@ Siege weapons that deal explosive damage also cause a lot of collateral damage. 
 ## Siege Damage Injuries
 For living creatures, a siege weapon impact is almost a death warrant. Not only you may die, but the prospects of finding remains of your body or being able to resurrected it may be uncertain.
 
-If siege damage deals more than half your max hp and reduces you to 0 hit points, you suffer a siege injury. Roll on the Siege Injury table. Roll with advantage if the damage is impaling. Roll with disadvantage if the damage is explosive. 
+If siege damage deals more than half your max stamina and reduces you to 0 stamina, you suffer a siege injury. Roll on the Siege Injury table. Roll with advantage if the damage is impaling. Roll with disadvantage if the damage is explosive. 
 
 > ##### Strongholds & Followers
 > These weapons are compatible with *Strongholds & Followers* by MCDM Productions. To convert to S&F, the Power Bonus is equal to the number of dice of the weapon damage.

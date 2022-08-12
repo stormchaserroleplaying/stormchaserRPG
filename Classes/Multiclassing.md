@@ -22,9 +22,6 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Mage | Intelligence 13, Wisdom 13, or Charisma 13 |
 | Warrior |  Strength 13 or Dexterity 13 |
 
-## Experience Points
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
-
 ## Stamina and Hit Dice
 You gain the stamina from your new class as described for levels after 1st. You gain the 1st-level stamina for a class only when you are a 1st-level character.
 

@@ -7,6 +7,9 @@ nav_order: 7
 # Beyond First Level
 As your character goes on adventures and overcomes challenges, they gain experience. Eventually, this leads to an advancement in capability called **gaining a level**.
 
+## Level Advancement
+Characters advance based on when they accomplish significant story goals in the campaign. The GM tells the players when their characters gain a level.
+
 ## Class Features and Hit Dice
 When your character gains a level, their class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores. You can’t increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
 

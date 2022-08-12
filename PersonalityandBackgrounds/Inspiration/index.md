@@ -13,7 +13,7 @@ Your GM can choose to award the party inspiration for a variety of reasons. Typi
 * Working together as a team to overcome extraordinary odds, defeating difficult opponents, and progressing the story when it is not openly directed by the GM.
 * Creating a dramatic moment important to their character, or contributing to an important scene involving other player characters that advances their development.
 
-Additionally, you can reward another player for inspiration, due to good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, nominate that character for inspiration.
+Additionally, you can reward another player with inspiration for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player does something that really contributes to the story in a fun and interesting way, nominate that player for inspiration.
 
 The party can store points up to the number of players in the group.
 

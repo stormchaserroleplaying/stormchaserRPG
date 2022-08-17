@@ -143,9 +143,11 @@ When wielding a parry weapon, you gain a bonus to your Strength defence vs melee
 
 If you are wielding a finesse weapon and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
-If you are wielding an unwieldy weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
+If you are wielding an unwieldy parry weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 
 If you are wielding a parry weapon in each hand, you only benefit from one weapon's parry bonus to your Strength defence vs melee attacks, unless you are trained in the dual wielding fighting style.
+
+If you are wielding a bulky shield, than you cannot benefit from a parry bonus from a parry weapon in your other hand.
 
 ### Pellets
 This weapon uses free ammunition, such as stones, which do not leave a trace of the direction they were shot from unless the victim is alive to notice, or the wound is inspected with a DC 15 Intelligence (Investigation) check, or the environment is searched with a DC 20 Wisdom (Perception) check.

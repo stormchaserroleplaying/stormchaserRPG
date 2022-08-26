@@ -29,12 +29,13 @@ While natural creatures like wolves and bears are well known to all, there are r
 > You can use Arcana, History, Nature and Religion to identify monsters and their special powers or vulnerabilities.
 >
 > In general, the DC of such a check equals 10 + the monster’s CR. For common monsters, such as goblins, the DC of this check equals 5 + the monster’s CR. For particularly rare monsters, such as the tarrasque, the DC of this check equals 15 + the monster’s CR or more. A successful check allows you to remember a bit of useful information about that monster. For every 5 points by which your check result exceeds the DC, you recall another piece of useful information.
+> 
 > | Skill | Creature Type |
-> |:---------------|:--------------|
-> | Arcana | Aberrations, Constructs, Elementals, Monstrosities
-> | History | Dragons, Giants, Humanoids
-> | Nature | Beasts, Fey, Oozes, Plants
-> | Religion | Celestials, Fiends, Undead
+> |:------|:--------------|
+> | Arcana | Aberrations, Constructs, Elementals, Monstrosities |
+> | History | Dragons, Giants, Humanoids |
+> | Nature | Beasts, Fey, Oozes, Plants |
+> | Religion | Celestials, Fiends, Undead |
 
 ## History Subskills
 

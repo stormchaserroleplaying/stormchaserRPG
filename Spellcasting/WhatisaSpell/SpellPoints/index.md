@@ -45,7 +45,7 @@ Some spells, such as *magic missile* and *cure wounds*, are more powerful when c
 | 20th | 51 |
 
 ## Recovering Spell Points
-Finishing a long rest restores any expended spell points (see chapter 8 for the rules on resting).
+Finishing a long rest restores any expended spell points (see [the rules on resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
 
 When a spellcaster takes a breather or a short rest, they may spend their hit die to recover spell points, instead of using them to recover hit points. A spellcaster who chooses to do this rolls their spell point die and recovers that number of spell points.
 

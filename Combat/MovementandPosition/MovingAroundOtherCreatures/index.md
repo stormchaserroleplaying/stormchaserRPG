@@ -10,4 +10,4 @@ You can move through a non-hostile creature's space. However, you can only move 
 
 Whether a creature is a friend or an enemy, you can't willingly end your move in its space.
 
-If you leave a hostile creature's reach during your move, you must succeed at a defence check vs the hostile creature's weapon skill (10 + their attack bonus), or be hit by an opportunity attack, as explained later in the chapter.
+If you leave a hostile creature's reach during your move, you must succeed at a defence check vs the hostile creature's weapon skill (10 + their attack bonus), or be hit by an [opportunity attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#opportunity-attacks).

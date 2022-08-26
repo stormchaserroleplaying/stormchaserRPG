@@ -17,7 +17,7 @@ When a character makes an attack roll, the two most common modifiers to the roll
 ### Ability Modifier
 The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule.
 
-Some spells also require an attack roll. The ability modifier used for a spel1 attack depends on the spellcasting ability of the spel1caster, as explained in chapter 10.
+Some spells also require an attack roll. The ability modifier used for a spel1 attack depends on the spellcasting ability of the spel1caster.
 
 ### Proficiency Die
 You also roll your proficiency die when you attack using a weapon or spell with which you have proficiency.
@@ -30,6 +30,6 @@ When you attack a creature smaller than your mount that is on foot, you get the 
 ## Rolling 1 or 20
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
 
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's defence. In addition, the attack is a critical hit, as explained later in this chapter.
+If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's defence. In addition, the attack is a [critical hit](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#critical-hits).
 
 If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's defence.

@@ -118,4 +118,4 @@ Head armour pieces are intended to protect your exposed head and provide coverag
 A shield is made from wood and/or metal and is carried in one hand. Wielding a shield grants a shield bonus to Strength and Dexterity defence vs melee and ranged attacks.
 
 > ##### Blocking With A Shield
-> A shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your shield against the threat. Your shield takes the damage that the attack would deal to you (see Chapter 8)  and you benefit from advantage on the Strength defence check.
+> A shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your shield against the threat. Your shield takes the damage that the attack would deal to you (see [Breaking an Object](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#breaking-an-object))  and you benefit from advantage on the Strength defence check.

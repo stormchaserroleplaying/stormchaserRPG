@@ -63,7 +63,7 @@ When making an attack with a finesse shield, you use your choice of your Strengt
 Hard armour is made of large, curved sections, making it vulnerable to the sunder weapon property.
 
 ### Light
-Light shields are small and easy to handle, making them ideal for use when fighting with two weapons (see the rules for two-weapon fighting in chapter 9).
+Light shields are small and easy to handle, making them ideal for use when fighting with two weapons (see [the rules for two-weapon fighting](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#two-weapon-fighting-)).
 
 The shield is able to be used just as effectively whilst you are laying on the ground or whilst you are standing. When you are prone and attack with this shield, you do not suffer disadvantage if you are proficient with the weapon.
 

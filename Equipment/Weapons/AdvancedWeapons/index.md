@@ -11,7 +11,7 @@ nav_order: 6
 You can build a double weapon with each head made of a different special material.
 
 ### Adamantine
-Adamantine is an ultra-hard metal found in extraordinary mineral veins. Items without metal parts cannot be made from adamantine. Weapons normally made of steel that are made out of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and DR 20 (see Chapters 8 and 9).
+Adamantine is an ultra-hard metal found in extraordinary mineral veins. Items without metal parts cannot be made from adamantine. Weapons normally made of steel that are made out of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and DR 20 (see [substance DR and integrity](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#substance-dr-and-integrity)).
 
 Melee weapons made of adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit. The adamantine version of a melee weapon costs 3000 gp more than the normal version.
 

@@ -119,7 +119,7 @@ Some of these languages are actually families of languages with many dialects. F
 ## Personal Characteristics
 Your character’s personality is comprised of an array of traits, mannerisms, habits, beliefs, and flaws that give a person a unique identity. Fleshing it out will help you bring them to life as you play the game. Four categories of characteristics are presented here: personality traits, ideals, bonds, and flaws. Beyond those categories, think about your character’s favorite words or phrases, tics and habitual gestures, vices and pet peeves, and whatever else you can imagine.
 
-Each background presented in this chapter includes suggested characteristics that you can use to spark your imagination. You're not bound to those options, but they're a good starting point.
+Each background presented includes suggested characteristics that you can use to spark your imagination. You're not bound to those options, but they're a good starting point.
 
 ### Personality Traits
 Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self-descriptions that are specific about what makes your character stand out. “I’m smart” is not a good trait, because it describes a lot of characters. “I’ve read every book in Candlekeep” tells you something specific about your character’s interests and disposition.
@@ -133,7 +133,7 @@ Describe one ideal that drives your character. Your ideals are the things that y
 
 Ideals might answer any of these questions: What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
 
-You can choose any ideals you like, but your character’s alignment is a good place to start defining them. Each background in this chapter includes six suggested ideals. Five of them are linked to aspects of alignment: law, chaos, good, evil, and neutrality. The last one has more to do with the particular background than with moral or ethical perspectives.
+You can choose any ideals you like, but your character’s alignment is a good place to start defining them. Each background includes six suggested ideals. Five of them are linked to aspects of alignment: law, chaos, good, evil, and neutrality. The last one has more to do with the particular background than with moral or ethical perspectives.
 
 ### Bonds
 Create one bond for your character. Bonds represent a character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals.

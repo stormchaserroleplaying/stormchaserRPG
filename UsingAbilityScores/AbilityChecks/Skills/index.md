@@ -10,7 +10,7 @@ Each ability covers a broad range of capabilities, induding skills that a charac
 
 For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
 
-The skills related to each ability score are shown in the following list. See an ability's description in the later sections of this chapter for examples of how to use a skill associated with an ability.
+The skills related to each ability score are shown in the following list. See [each ability's description](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/UsingEachAbility/) for examples of how to use a skill associated with an ability.
 * **Strength**: Athletics
 * **Dexterity**: Acrobatics, Sleight of Hand, Stealth
 * **Constitution**: Endurance

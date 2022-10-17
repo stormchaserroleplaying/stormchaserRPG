@@ -9,7 +9,7 @@ nav_order: 1
 Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation. The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
 ## Travel Pace
-While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section later in this chapter for more information).
+While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see [Activity While Traveling](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/ActivityWhileTravelling/) for more information).
 
 **Forced March.** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
 
@@ -19,7 +19,7 @@ If the party is moving at a *slow* pace, they gain advantage on the check. A *fa
 
 **Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
-Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see chapter 5), and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in [a waterborne vessel](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/MountsandVehicles/Vehicles/#waterborne-vehicles) are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
 ### Travel Pace
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Distance travelled per...**

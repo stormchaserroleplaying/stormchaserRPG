@@ -25,7 +25,7 @@ Mounts other than those listed here are available in the world, but they are rar
 
 ## Mount Equipment
 
-**Barding.** Barding is armour designed to protect an animal's head, neck, chest, and body. Any type of armour shown on the Armour table in this chapter can be purchased as barding. The cost is four times the equivalent armour made for humanoids, and it weighs twice as much.
+**Barding.** Barding is armour designed to protect an animal's head, neck, chest, and body. Any type of armour shown on the Armour table can be purchased as barding. The cost is four times the equivalent armour made for humanoids, and it weighs twice as much.
 
 **Saddles.** A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
 

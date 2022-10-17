@@ -6,7 +6,7 @@ nav_order: 1
 
 # Starting Equipment
 
-When you create your character, you receive equipment based on a combination of your class and background. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the lists in this chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.
+When you create your character, you receive equipment based on a combination of your class and background. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the equipment lists. See the Starting Wealth by Class table to determine how much gold you have to spend.
 
 ##### Starting Wealth by Class
 

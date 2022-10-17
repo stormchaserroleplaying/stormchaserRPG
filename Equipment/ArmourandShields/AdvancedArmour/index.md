@@ -21,7 +21,7 @@ In the case of chain shirts, breastplates and any other armour pieces that are t
 If the dragonhide used to construct this armour comes from a dragon that had immunity to an energy type, the armour pieces also have resistance to that energy type. A piece of dragonhide armour costs double the armour piece cost + 100 gp. Alternatively, a plate torso armour piece can be constructed from dragonhide for 700 gp.
 
 ### Adamantine
-Adamantine is an ultra-hard metal found in extraordinary mineral veins. Items without metal parts cannot be made from adamantine. Armour pieces normally made of steel that are made out of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and DR 20 (see Chapters 8 and 9).
+Adamantine is an ultra-hard metal found in extraordinary mineral veins. Items without metal parts cannot be made from adamantine. Armour pieces normally made of steel that are made out of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and DR 20 (see [substance DR and integrity](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#substance-dr-and-integrity)).
 
 While wearing a suit of adamantine armour, any critical hit against you becomes a normal hit.
 

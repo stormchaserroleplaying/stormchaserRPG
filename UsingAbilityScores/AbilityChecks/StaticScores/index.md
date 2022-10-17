@@ -22,7 +22,7 @@ If the character has advantage on the check, add 4. For disadvantage, subtract 4
 
 For example. if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
-The rules on hiding in the "Dexterity" section below rely on passive checks, as do the exploration rules in chapter 8.
+The rules on hiding in the "Dexterity" section below rely on passive checks, as do the rules for [noticing threats](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/ActivityWhileTravelling/).
 
 When a character is not in immediate danger or distracted, they may choose to use their passive score. This is sometimes known as 'taking 10'. For many routine tasks, taking 10 results in an automatic success. Distractions or threats (such as combat) make it impossible for a character to take 10. In most cases, taking 10 is purely a safety measure - you know (or expect) that an average roll will succeed but fear that a poor roll might fail, so you elect to settle for the average roll (a 10). Taking 10 is especially useful in situations where a particularly high roll wouldn't help.
 

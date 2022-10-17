@@ -18,7 +18,7 @@ When an object drops to half its integrity or less, it [breaks](http://stormchas
 When attempting to break an object, you have two choices: smash it with a weapon or break it with sheer strength.
 
 ### Smashing an Object
-Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat action (see Chapter 9). Smashing an object is like sundering a weapon or shield. Generally, you can smash an object only with a bludgeoning or slashing weapon.
+Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with [the sunder combat action](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#sunder--martial-axe-or-sundering). Smashing an object is like sundering a weapon or shield. Generally, you can smash an object only with a bludgeoning or slashing weapon.
 
 #### Dexterity Defence
 Objects are easier to hit than creatures because they don't usually move, but many are tough enough to shrug off some damage from each blow. An object’s Dexterity defence is equal to 10 + its size modifier + its Dexterity modifier. Not only does an inanimate object have a Dexterity of 0 (–5 penalty to Dexterity defence), but you also have advantage to hit it with a melee weapon. If you take an action to line up a shot, then melee attacks automatically hit and attack rolls with a ranged weapon have advantage.

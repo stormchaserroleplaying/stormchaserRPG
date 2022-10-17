@@ -140,7 +140,7 @@ You might find such things as creatures waiting in ambush, favorable paths, or h
 #### Sneak
 **Skill:** Dexterity (Stealth)
 
-Sometimes you need to move quietly for a while to avert the eyes and ears of nearby enemies or to cover your tracks and take detours to shake off possible pursuers. As long as the party is not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in chapter 7 "Using Ability Scores".
+Sometimes you need to move quietly for a while to avert the eyes and ears of nearby enemies or to cover your tracks and take detours to shake off possible pursuers. As long as the party is not in the open, they can try to surprise or sneak by other creatures they encounter. See [the rules for hiding](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/UsingEachAbility/Dexterity/#hiding).
 
 Doing so does not require the whole party to perform the Sneak activity, as the party members that do so can try to keep everyone else as stealthy as possible. Add the Dexterity (Stealth) check results of all sneaking party members together and divide the sum by the number of players in the group (rounding down). This is the final and effective result for the group's efforts.
 

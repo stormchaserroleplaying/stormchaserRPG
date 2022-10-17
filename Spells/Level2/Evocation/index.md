@@ -22,7 +22,25 @@ An undead creature created within or summoned into a desecrated area gains +1 hi
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
 ## Gust of Wind
-Just as for Gust, Gust of Wind can be used to knock targets prone instead of pushing them 5 feet, similarly to the shove action.
+*2nd level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V, S, M *(A legume seed.)*<br>
+**Duration:** 1 Minute (Concentration)
+
+For the spell's duration, a line of strong wind 60 feet long and 10 feet wide blasts from the spellcaster in a direction of their choice.
+
+When the spell is cast, the spellcaster may choose one of two possible effects:
+1. Each creature hit by the spell is pushed 15 feet away from the spellcaster in a direction following the line.
+2. Each creature hit by the spell is pushed 10 feet away from the spellcaster in a direction following the line and falls prone after being moved in this way.
+
+When the spell is first case, the spellcaster makes a spell attack roll vs. the Strength defence of each creature in the line. Each creature hit is subject to the effects of the spell.
+
+Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to the spellcaster.
+
+The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
+
+As a bonus action on each of the spellcaster's turns before the spell ends, they may change the direction in which the line blasts from them.
 
 ## Moonbeam
 *2nd level Evocation*<br>

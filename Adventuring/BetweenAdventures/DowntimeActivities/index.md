@@ -19,7 +19,7 @@ If you have expertise in the tool in question, you can craft one or more items w
 
 Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 1 gp worth of effort for every hour spent helping to craft the item (2 gp with expertise).
 
-While crafting, you can maintain a modest lifestyle without having to pay 10 gp per week, or a comfortable lifestyle at half the normal cost (see chapter 5 for more information on lifestyle expenses).
+While crafting, you can maintain a modest lifestyle without having to pay 10 gp per week, or a comfortable lifestyle at half the normal cost (see [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Expenses/LifestyleExpenses/) for more information on lifestyle expenses).
 
 ### Mundane Items
 Mundane items require often require less time to craft than enchanted items. Determine the craft DC and time required to craft a mundane item using the Item Complexity, Crafting Times and DCs table.
@@ -68,7 +68,7 @@ What happens if the check fails? Well, that depends on how badly it failed. When
 For every 5 points by which the check exceed the item’s DC, the crafting time is halved. A crafting time can be halved in this way more than twice.
 
 ## Practicing a Profession
-You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 10 gp per week (see chapter 5 for more information on lifestyle expenses). This benefit lasts as long you continue to practice your profession.
+You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 10 gp per week (see [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Expenses/LifestyleExpenses/) for more information on lifestyle expenses). This benefit lasts as long you continue to practice your profession.
 
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 
@@ -86,7 +86,7 @@ The time between adventures is a great chance to perform research, gaining insig
 
 When you begin your research, the GM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The GM might also require you to make one or more ability checks, such as an Intelligence (Investigation) check to find clues pointing toward the information you seek, or a Charisma (Persuasion) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
 
-For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses (as discussed in chapter 5).
+For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses (as discussed [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Expenses/LifestyleExpenses/)).
 
 ### Spell Research
 *Adapted from [Giffyglyph's Class Compendium](https://giffyglyph.com/classcompendium/ "Giffyglyph's Class Compendium")*

@@ -12,4 +12,4 @@ On your turn, you can move a distance up to your speed. You can use as much or a
 
 Your movement can include jumping, climbing and swimming. These different modes of movement can be combined with walking, or they can constitute your entire move. However you're moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.
 
-The "Special Types of Movement" section in Chapter 8 gives the particulars for jumping, climbing, and swimming.
+The [Special Types of Movement section](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/SpecialTypesofMovement/) gives the particulars for jumping, climbing, and swimming.

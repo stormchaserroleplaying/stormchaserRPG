@@ -15,9 +15,9 @@ If circumstances cause a roll to have both advantage and disadvantage, you are c
 
 When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration (see chapter 4) can also give a character advantage on checks related to the character's personality, ideals, or bonds. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. [Inspiration](https://stormchaserroleplaying.com/stormchaserRPG/PersonalityandBackgrounds/Inspiration/) can also give a character advantage on checks related to the character's personality, ideals, or bonds. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 ## Proficiency
-Characters can gain a proficiency die of advantage on attack rolls and ability checks, as detailed in chapter 1. Monsters can also have this proficiency die, which is incorporated in their stat blocks. The bonus die is used in the rules on ability checks, attack rolls and defences.
+Characters can [gain a proficiency die of advantage](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/ChooseaClass/#proficiency) on attack rolls and ability checks, as detailed in chapter 1. Monsters can also have this proficiency die, which is incorporated in their stat blocks. The bonus die is used in the rules on ability checks, attack rolls and defences.
 
 Your proficiency die can't be added to a single die roll or other number more than once. For example, if two different rules say that you can roll your proficiency bonus die when making a Wisdom check, you nevertheless add only one instance of advantage when you make the check.

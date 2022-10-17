@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Working Together
-Some times two or more characters team up to attempt a task. The character who's leading the effort (or the one with the highest ability modifier) can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
+Some times two or more characters team up to attempt a task. The character who's leading the effort (or the one with the highest ability modifier) can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires [the Help action](https://stormchaserroleplaying.com/stormchaserRPG/Combat/ActionsinCombat/Help/).
 
 A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 

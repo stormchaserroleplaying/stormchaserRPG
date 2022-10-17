@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # How to Play
-
 This is a game about storytelling in worlds of swords and sorcery. It shares elements with childhood games of make-believe and, like those games, is driven by imagination. It's about picturing the towering castle beneath the stormy night sky and imagining how a fantasy adventurer might react to the challenges that that scene presents.  
 
 Unlike in a game of make-believe, structure is given to the stories. A way of determining the consequences of the characters' action. Players roll dice to resolve whether their attacks hit or miss, or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.
@@ -67,7 +66,7 @@ Sometimes, an ability check or attack roll is modified by special situations cal
 
 If you have advantage on a damage roll, you similarly roll all the dice twice and take the better result.
 
-More detailed rules for advantage and disadvantage are presented in chapter 7.
+More detailed rules for advantage and disadvantage can be found [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage/).
 
 ## Specific Beats General
 This game has rules that govern how the game plays. Nevertheless, many species traits, class features, spells, magical items, monster abilities and other game elements break the general rules in some way, creating an exception to how the rest of the game works. Remember this: if a specific rule contradicts a general rule, the specific rule wins.

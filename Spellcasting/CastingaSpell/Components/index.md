@@ -15,7 +15,7 @@ Most spells require the chanting of mystic words. The words themselves aren't th
 Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
 ## Material (M)
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in chapter 5, "Equipment") in place of the components specified for a spell. However, if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/AdventuringGearTable/)) in place of the components specified for a spell. However, if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 

@@ -11,4 +11,4 @@ In a city or wilderness, a scale of hours is often more appropriate. Adventurers
 
 For long journeys, a scale of days works best. Following the road from Tanem to Paragon, the adventurers spend four uneventful days before a goblin ambush interrupts their journey.
 
-In combat and other fast-paced situations, the game relies on rounds, a 6-second span of time described in chapter 9, "Combat".
+In combat and other fast-paced situations, the game relies on rounds, a 6-second span of time described as part of [the order of combat](https://stormchaserroleplaying.com/stormchaserRPG/Combat/TheOrderofCombat/).

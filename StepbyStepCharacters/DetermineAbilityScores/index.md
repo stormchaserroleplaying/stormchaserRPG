@@ -7,7 +7,7 @@ nav_order: 3
 # 3. Determine Ability Scores
 Much of what your character does in the game depends on their six abilities: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom** and **Charisma**. Each ability has a score, which is a number that you record on your character sheet.
 
-The six abilities and their use in the game are described in chapter 7. A quick reference for what qualities are measured by each ability follows below:
+The six abilities and their use in the game are described in detail [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/). A quick reference for what qualities are measured by each ability follows below:
 
 * **Strength** measures athleticism and bodily power.
 * **Dexterity** measures agility, reflexes, balance and poise.

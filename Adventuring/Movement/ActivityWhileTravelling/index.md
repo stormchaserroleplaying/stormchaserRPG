@@ -25,7 +25,7 @@ While traveling at a fast pace, characters incur an instance of disadvantage on 
 If the GM determines that the adventurers encounter other creatures while they’re traveling, it’s up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
 
 ### Surprising Foes
-If the adventurers encounter a hostile creature or group, the GM determines whether the adventurers or their foes might be surprised when combat erupts. See chapter 9 for more about surprise.
+If the adventurers encounter a hostile creature or group, the GM determines whether the adventurers or their foes might be [surprised](https://stormchaserroleplaying.com/stormchaserRPG/Combat/TheOrderofCombat/Surprise/) when combat erupts.
 
 ## Travel Leg Activities
 In each travel leg, a character may carry out one activity of their choice. Some activities allow several players to work as a group. Your chosen pace of travel affects how easy it is to do things during your daily travel legs. 

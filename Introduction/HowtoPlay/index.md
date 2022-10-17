@@ -51,7 +51,7 @@ Every character and monster in the game has capabilities defined by six **abilit
 
 Ability checks and attack rolls are the two main kinds of d20 rolls, forming the core of the rules of the game. Both follow these simple steps.
 
-**1. Roll the die and add a modifier.** Roll a d20 and add the relevant modifier. This is typically the modifier derived from one of the six ability scores and it sometimes includes a proficiency bonus to reflect a character's particular skill. (See chapter 1 for details on each ability and how to determine an ability's modifier.)
+**1. Roll the die and add a modifier.** Roll a d20 and add the relevant modifier. This is typically [the modifier derived from one of the six ability scores](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/DetermineAbilityScores/).
 
 **2. Apply circumstantial bonuses and penalties.** A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check.
 
@@ -59,7 +59,7 @@ Ability checks and attack rolls are the two main kinds of d20 rolls, forming the
 
 The target number for an ability check is called a Difficulty Class (DC). The target number for an attack roll is called a Defence (Def).
 
-This simple rule governs the resolution of most tasks in play. Chapter 7 provides more detailed rules for using the d20 in the game.
+This simple rule governs the resolution of most tasks in play. More detailed rules for using the d20 in the game can be found under [Using Ability Scores](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/).
 
 ## Advantage and Disadvantage
 Sometimes, an ability check or attack roll is modified by special situations called advantage and disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll an additional d20 when you make the roll. If you have advantage, use the highest of the rolls and, if you have disadvantage, use the lower roll. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.

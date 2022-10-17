@@ -21,7 +21,7 @@ Rising from a throw or fall in the heat of battle is difficult. To do so quickly
 
 When you stand while in melee range of hostile creatures, make a Dexterity (Acrobatics) or Strength (Athletics) ability check with a DC of 10 + 2 for each enemy for whom you are within reach. If you are supine, this DC increases by 5. If you beat the DC to stand by 5 or more, you may also choose to tumble 5 feet into unoccupied space and stand up there.
 
-If you fail, then you must succeed at a defence check vs the weapon skill (10 + their attack bonus) of each hostile creature individually. Failure results in being hit by an opportunity attack, as explained later in the chapter. If any defence check fails by 10 or more, then you are knocked supine.
+If you fail, then you must succeed at a defence check vs the weapon skill (10 + their attack bonus) of each hostile creature individually. Failure results in being hit by an [opportunity attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#opportunity-attacks). If any defence check fails by 10 or more, then you are knocked supine.
 
 > ### Weapon Skill
 > 

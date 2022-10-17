@@ -12,6 +12,6 @@ A character can spend one or more Hit Die at the end of a breather, up to half o
 
 To recover hit points, the player rolls the Hit Die and adds the character’s Constitution modifier to it. The character regains hit points equal to the total (minimum of 0).
 
-To recover spell points, the player rolls their spell point die (see chapter 10). The character regains spell points equal to the total.
+To recover spell points, the player rolls their [spell point die](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/SpellPoints/#recovering-spell-points). The character regains spell points equal to the total.
 
 The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.

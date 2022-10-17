@@ -5,7 +5,7 @@ grand_parent: Equipment
 ---
 
 # Musical Instrument
-Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in chapter 10. Each type of musical instrument requires a separate proficiency.
+Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a [spellcasting focus](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Components/#material-m). Each type of musical instrument requires a separate proficiency.
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 

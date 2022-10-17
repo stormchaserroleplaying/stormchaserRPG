@@ -12,4 +12,4 @@ a flamboyant wizard. Or you might be more interested in an unconventional charac
 
 Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice that you make. What's important is that you come to the table with a character that you're excited to play.
 
-Throughout this chapter, we use the term **character sheet** to mean whatever you use to track your character, whether it's a formal character sheet, some form of digital record, or a piece of notebook paper.
+Throughout this section, we use the term **character sheet** to mean whatever you use to track your character, whether it's a formal character sheet, some form of digital record, or a piece of notebook paper.

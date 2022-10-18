@@ -30,7 +30,7 @@ Make a spell attack vs a creature's Wisdom defence. On a hit, the creature becom
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S, M<br>
+**Components:** V, S, M *(The dust of a black ore.)*<br>
 **Duration:** 1 Round
 
 Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any other earthen substance. It will turn into constricting, hard, black metal and shrink slowly in size. A 10 foot cube of earth can be enchanted in this way. After 1 round, it will have shrunken down to the size of a pebble.
@@ -61,9 +61,7 @@ You touch a willing creature while begging them to fly halfway around the world.
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S, M*<br>
+**Components:** V, S, M *(One piece of wood no larger than 25 cu. ft.)*<br>
 **Duration:** Instantaneous
 
 *Wood shape* enables you to form one existing piece of wood into any shape that suits your purpose. While it is possible to make crude coffers, doors, and so forth, fine detail isn’t possible. There is a 30% chance that any shape that includes moving parts simply doesn't work.
-
-**-(one piece of wood no larger than 25 cu. ft.)*

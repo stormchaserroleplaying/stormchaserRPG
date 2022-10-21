@@ -24,7 +24,7 @@ For example, if a level 5 wizard with 18 intelligence casts a 3rd level *counter
 
 <center>
 
-<strong>+4 Intelligence +5 *cone of cold* spell level = +9 attack bonus</strong>
+<strong>+4 Intelligence +5 <em>cone of cold</em> spell level = +9 attack bonus</strong>
 
 </center>
 
@@ -32,7 +32,7 @@ vs a DC of:
 
 <center>
 
-<strong>10 +4 Intelligence +4 proficiency +3 *counterspell* level = DC 21</strong>
+<strong>10 +4 Intelligence +4 proficiency +3 <em>counterspell</em> level = DC 21</strong>
 
 </center>
 
@@ -52,4 +52,6 @@ The conditions must be specific. For example:
 **Components:** V, S, M *(A polished opal worth at least 1000 gp.)*<br>
 **Duration:** Instantaneous
 
-Grab the throat of a cursed or possessed creature and press a polished opal to its forehead. Pull the opal back, and the curse or entity posessing from the creature will exit it in the form of black, ichor-filled vomit. Afterwards, the creature is no longer cursed or possessed.
+Make an unarmed attack roll vs. a creature that is posessed or under the influence of a minor curse. On a hit, you grab the creature by the throat and press a polished opal to its forehead.
+
+Make a spell attack roll vs. the Charisma defence of the posessing creature, or the DC of the curse. On a hit, when you pull opal back, the curse or entity posessing the creature will exit the creature in the form of black, ichor-filled vomit. Afterwards, the creature is no longer cursed or possessed.

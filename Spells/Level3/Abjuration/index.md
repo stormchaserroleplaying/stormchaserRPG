@@ -24,7 +24,7 @@ For example, if a level 5 wizard with 18 intelligence casts a 3rd level *counter
 
 <center>
 
-**+4 Intelligence +5 *cone of cold* spell level = +9 attack bonus**
+<strong>+4 Intelligence +5 *cone of cold* spell level = +9 attack bonus</strong>
 
 </center>
 
@@ -32,7 +32,7 @@ vs a DC of:
 
 <center>
 
-**10 +4 Intelligence +4 proficiency +3 *counterspell* level = DC 21**
+<strong>10 +4 Intelligence +4 proficiency +3 *counterspell* level = DC 21</strong>
 
 </center>
 

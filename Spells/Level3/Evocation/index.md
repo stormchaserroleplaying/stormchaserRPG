@@ -13,7 +13,11 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Round
 
-Lift your hands and sing to all the seas you cannot sea. A 30 foot radius of space around you is filled with churning, crashing waves of white-crested green water. Creatures in the water begin to drown, and thus can not speak or cast spells. On a hit, they are picked up and moved to random locations, taking a number of damage dice equal to your levels at the end of every round. Thus, at 6th level, they will take 6d6 damage, and at 7th, they will take 7d6 damage. After 1 round, the waves dissipate, returning to their distant homes.
+Lift your hands and sing to all the seas you cannot sea. A 30 foot radius of space around you is filled with churning, crashing waves of white-crested green water. Creatures in the water begin [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/) and thus cannot speak or cast spells with verbal components, unless under an effect such as waterbreathing.
+
+Make a spell attack roll vs the Strength defence of each creature in the area of the spell. On a hit, they take 3d8 bludgeoning damage and are picked up and deposited prone at a location of the spellcaster's choice within the area of the spell. On a miss, the creature takes half as much damage and remains unmoved. After 1 round, the waves dissipate, returning to their distant homes.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 ## Sending
 *3rd level Evocation (Ritual)*<br>

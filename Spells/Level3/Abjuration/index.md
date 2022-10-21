@@ -49,7 +49,7 @@ The conditions must be specific. For example:
 *3rd level Abjuration (Ritual)*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S, M<br>
+**Components:** V, S, M *(A polished opal worth at least 1000 gp.)*<br>
 **Duration:** Instantaneous
 
-Grab the throat of a barbarous or possessed creature and press a polished opal to its forehead. Pull the opal back, and all evil from the creature will exit it in the form of black, ichor-filled vomit. Afterwards, if the creature was barbarous or possessed, it is no more. Likewise, if the creature was cursed, it is cursed no more.
+Grab the throat of a cursed or possessed creature and press a polished opal to its forehead. Pull the opal back, and the curse or entity posessing from the creature will exit it in the form of black, ichor-filled vomit. Afterwards, the creature is no longer cursed or possessed.

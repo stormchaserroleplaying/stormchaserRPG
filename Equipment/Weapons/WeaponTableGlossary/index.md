@@ -61,9 +61,9 @@ Exotic weapons are only considered martial weapons for a specific species. A cha
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. If your Strength is less than the **Str/Dex** entry of the weapon, then you suffer disadvantage on your attack rolls with the weapon when using Dexterity in this way.
 
 ### Grappling
-When you hit with a melee or thrown attack using a weapon with the Grappling property, you can spend your bonus action to attempt to grapple them. Make an attack roll vs the higher of the target's passive Strength (Athletics) and Dexterity (Acrobatics). If you succeed, your weapon grapples the target. Other weapon properties (restrain, preventing, etc.) include this property and modify the grapple.
+When you hit with a melee or thrown attack using a weapon with the Grappling property, you can spend your bonus action to attempt to grapple them. Make an attack roll vs the higher of the target's Strength and Dexterity defences. If you succeed, your weapon grapples the target. Other weapon properties (restrain, preventing, etc.) include this property and modify the grapple.
 
-Whilst your weapon is grappling the target, any attack with the same weapon breaks the grapple. The grapple is broken if you or the target move out of reach. The grappled enemy can also spend an action and attempt a Strength (Athletics) or Dexterity (Acrobatics) check against your Weapon Skill DC. If it succeeds, the weapon grapple is broken. If it is not grappled by a thrown weapon, the target can also break the weapon grapple if it succeeds in disarming you.
+Whilst your weapon is grappling the target, any attack with the same weapon breaks the grapple. The grapple is broken if you or the target move out of reach. The grappled enemy can also spend an action and make an unarmed attack roll versus your Weapon Skill DC. If it succeeds, the weapon grapple is broken. If it is not grappled by a thrown weapon, the target can also break the weapon grapple if it succeeds in disarming you.
 
 Whilst your weapon is grappling the target and you are holding onto your weapon, you can attempt Shove a Creature action using your Attack roll instead of Strength (Athletics).
 

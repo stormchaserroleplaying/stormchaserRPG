@@ -113,7 +113,7 @@ Armour with this rune becomes hazy black. You have advantage on Dexterity (Steal
 <br>**Level:** 3
 <br>**Price:** 2000 gp
 
-This property makes armour slippery, as though it were coated with a thin film of oil. You gain advantage on Dextarity (Acrobatics) checks to escape and squeeze.
+This property makes armour slippery, as though it were coated with a thin film of oil. You gain advantage on Dextarity (Athletics) checks to escape and squeeze.
 
 #### Glamoured
 **Usage:** Etched onto armour.

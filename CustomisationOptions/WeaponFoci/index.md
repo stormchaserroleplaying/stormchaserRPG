@@ -15,7 +15,7 @@ You master blade-type weapons. You gain the following benefits while wielding an
 ## Bludgeoning Weapon Specialist
 You master the bludgeoning-type weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
 * You gain a +1 bonus to the weapon’s attack rolls.
-* Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to knock the target prone. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability). If you win the contest, the target is knocked prone.
+* Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to knock the target prone. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), make a Strength (Athletics) check vs. the higher of the target’s Strength or Dexterity defence. On a hit, the target is knocked prone.
 * Each round, the first time that you make an opportunity attack, the target has disadvantage on their check to avoid it.
 
 ## Crossbow Specialist

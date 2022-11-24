@@ -9,8 +9,8 @@ grand_parent: Customisation Options
 ## Acrobat
 You become more nimble, gaining the following benefits:
 * Increase your Dexterity score by 1, to a maximum of 20.
-* You gain proficiency in the Acrobatics skill. If you are already proficient in it, you instead gain expertise in it.
-* As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.
+* You gain proficiency in the Athletics skill. If you are already proficient in it, you instead gain expertise in it.
+* As a bonus action, you can make a DC 15 Dexterity (Athletics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.
 
 ## Animal Handler
 You master the techniques needed to train and handle animals. You gain the following benefits:

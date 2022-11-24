@@ -116,7 +116,7 @@ Before you make an attack with a melee weapon using your Strength modifier, you 
 Using the attack action, you can make a special melee attack to either knock a creature prone or to push it away from you. If you're able to make multiple
 attacks with the Attack action, this attack replaces one of them.
 
-The target of a shove must be no more than one size larger than the attacker and must be within their reach. The attacker makes an unarmed attack roll vs the target's Strength or Dexterity defence (the target chooses the ability to use). If the target is proficient in athletics, then it is considered to be proficient in Strength defence. If the target is proficient in acrobatics, then it is considered to be proficient in Dexterity defence. If you hit, you either knock the target prone or push it 5 feet away from you.
+The target of a shove must be no more than one size larger than the attacker and must be within their reach. The attacker makes an unarmed attack roll vs the target's unarmed weapon skill.  If your target is smaller than you, you have advantage. If the target is larger than you, you have disadvantage. If you hit, you either knock the target prone or push it 5 feet away from you.
 
 Alternatively, the attacker can attempt to force a target to the side, rather than away from them. They have disadvantage on their Strength (Athletics) check when they do so. If the check is successful, they move the target 5 feet to a different space within your reach.
 

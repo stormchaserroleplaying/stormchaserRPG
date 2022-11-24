@@ -19,7 +19,7 @@ When you make a long jump, make a Strength (Athletics) check. You cover a number
 
 This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
+When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Athletics) check to land on your feet. Otherwise, you land prone.
 
 ### High Jump
 When you make a high jump, make a Strength (Athletics) check. You leap into the air a number of feet equal to the result of your Strength (Athletics) check divided by three. If you move at least 10 feet on foot immediately before the jump, you leap into the air *at least* a number of feet equal up to 3 + your Strength modifier. When you make a standing high jump, you can jump *at least* up to half that distance. Either way, each foot you clear on the jump costs a foot of movement.

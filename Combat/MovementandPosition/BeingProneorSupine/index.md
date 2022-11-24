@@ -12,14 +12,14 @@ You can **drop prone** without using any of your speed.
 
 **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
-If you are supine, then standing requires that you either succeed at a DC 10 Dexterity (Acrobatics) or Strength (Athletics) check, or you must **turn** from supine to prone, which costs 5 feet of movement.
+If you are supine, then standing requires that you either succeed at a DC 10 Athletics check, or you must **turn** from supine to prone, which costs 5 feet of movement.
 
 To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 ## Standing Up in Melee
 Rising from a throw or fall in the heat of battle is difficult. To do so quickly takes training and skill. This is an even greater challenge when under attack.
 
-When you stand while in melee range of hostile creatures, make a Dexterity (Acrobatics) or Strength (Athletics) ability check with a DC of 10 + 2 for each enemy for whom you are within reach. If you are supine, this DC increases by 5. If you beat the DC to stand by 5 or more, you may also choose to tumble 5 feet into unoccupied space and stand up there.
+When you stand while in melee range of hostile creatures, make an Athletics check with a DC of 10 + 2 for each enemy for whom you are within reach. If you are supine, this DC increases by 5. If you beat the DC to stand by 5 or more, you may also choose to tumble 5 feet into unoccupied space and stand up there.
 
 If you fail, then you must succeed at a defence check vs the weapon skill (10 + their attack bonus) of each hostile creature individually. Failure results in being hit by an [opportunity attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#opportunity-attacks). If any defence check fails by 10 or more, then you are knocked supine.
 

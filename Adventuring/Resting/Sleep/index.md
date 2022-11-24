@@ -21,6 +21,6 @@ When you finish a long rest during which you slept in medium or heavy armour, yo
 ## Going Without A Long Rest
 A long rest is never mandatory, but going without sleep does have its consequences.
 
-Whenever you end a 48-hour period without accumulating a total of 8 hours of sleep, you must succeed on a DC 10 Constitution (Endurance) check or suffer one level of exhaustion.
+Whenever you end a 48-hour period without accumulating a total of 8 hours of sleep, you must succeed on a DC 10 Constitution (Athletics) check or suffer one level of exhaustion.
 
 It becomes harder to fight off exhaustion if you stay awake for multiple days. After the first 48 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.

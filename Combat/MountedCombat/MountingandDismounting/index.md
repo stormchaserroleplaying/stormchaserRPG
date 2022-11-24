@@ -11,7 +11,7 @@ Once during your move, you can mount a creature that is within 5 feet of you or 
 A horse (not a pony) is a Large creature and thus takes up a space 10 feet (2 squares) across. For simplicity, assume that you share your mount's space during combat.
 
 ## If Your Mount Falls in Battle
-If your mount falls unconscious or is knocked prone, you automatically attempt to dismount as it falls. An attack roll with a bonus of +5 is made vs your passive Dexterity (Acrobatics) score. On a miss, you fall softly and take no damage. On a hit, you are dismounted, fall prone in a space within 5 feet of your mount and take 1d6 points of bludgeoning damage.
+If your mount falls unconscious or is knocked prone, you automatically attempt to dismount as it falls. An attack roll with a bonus of +5 is made vs your passive Dexterity (Athletics) score. On a miss, you fall softly and take no damage. On a hit, you are dismounted, fall prone in a space within 5 feet of your mount and take 1d6 points of bludgeoning damage.
 
 ## If Your Mount Is Moved Against Its Will
 If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Strength or Dexterity defence check or fall off the mount, as described above. If you're knocked prone while mounted, you must make the same check.

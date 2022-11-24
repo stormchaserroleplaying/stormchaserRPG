@@ -16,7 +16,7 @@ A character can go without food for a number of days equal to 3 + his or her Con
 A normal day of eating resets the count of days without food to zero.
 
 ## Water
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. When travelling, hot weather and deserts also double the water intake to 2 pints per travel leg. A character who drinks only half that much water must succeed on a DC 15 Constitution (Endurance) check or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+A character needs one gallon of water per day, or two gallons per day if the weather is hot. When travelling, hot weather and deserts also double the water intake to 2 pints per travel leg. A character who drinks only half that much water must succeed on a DC 15 Constitution (Athletics) check or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
 
 If the character has already gone one day without water, the character suffers two levels of exhaustion. If the character has already gone two days without water, the character suffers three levels of exhaustion.
 

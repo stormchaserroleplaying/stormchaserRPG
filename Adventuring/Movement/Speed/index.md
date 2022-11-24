@@ -13,7 +13,7 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 
 **Forced March.** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution (Endurance) check at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed check, a character suffers one level of exhaustion.
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution (Athletics) check at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed check, a character suffers one level of exhaustion.
 
 If the party is moving at a *slow* pace, they gain advantage on the check. A *fast* pace imposes disadvantage.
 

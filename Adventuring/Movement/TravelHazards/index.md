@@ -128,4 +128,4 @@ Any check that relies on sight is made with disadvantage for the duration of the
 #### Unsteady Ground
 *Setback Hazard*
 
-The floor in the area is considered difficult terrain. Any creature on the ground that starts moving on its turn while in the area must succeed on a Dexterity (Acrobatics) check or fall prone. If a creature uses a Dash action, it must make another check.
+The floor in the area is considered difficult terrain. Any creature on the ground that starts moving on its turn while in the area must succeed on a Dexterity (Athletics) check or fall prone. If a creature uses a Dash action, it must make another check.

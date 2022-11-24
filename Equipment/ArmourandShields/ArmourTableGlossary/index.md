@@ -37,7 +37,7 @@ A shield with the bashing property can be used as a weapon, rolling the damage d
 ### Bulky
 Bulky armour cannot be hidden from plain sight and may provoke use of the *heat metal* spell from hostile spellcasters. You cannot benefit from the concealed armour property while wearing bulky armour. Furthermore, if you are wearing a bulky shield you cannot make use of a weapon's parry property.
 Wearing bulky armour imposes:
-* Disadvantage on Strength (Athletics) and Dexterity (Acrobatics) checks to swim, climb, run, and similar activities. This can be avoided if your Strength score is at least 2 points higher than the armour's Strength requirement.
+* Disadvantage on Athletics checks to swim, climb, run, and similar activities. This can be avoided if your Strength score is at least 2 points higher than the armour's Strength requirement.
 * Disadvantage on initiative checks. This can be avoided if your Strength score is at least 4 points higher than the armour's Strength requirement.
 
 ### Clothing

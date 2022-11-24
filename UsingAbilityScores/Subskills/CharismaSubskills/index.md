@@ -30,7 +30,7 @@ Calling out to a goblin tribe, mimicking their war boss, and having them let pri
 Talking to barbarians, tribal creatures, and other so-called 'uncivilized' societies requires a different set of skills from playing around in a court. The Savagery skill is used in the same way that Etiquette is used in civilized places or Zeal in locations of faith.
 
 ### Interrogation
-Extracting information from a source, sometimes by force. The GM should use a character's passive Constitution or an Endurance (Pain Tolerance) score to set the DC for using this skill.
+Extracting information from a source, sometimes by force. The GM should use a character's passive Constitution (Athletics (Pain Tolerance)) score to set the DC for using this skill.
 
 ## Performance Subskills
 

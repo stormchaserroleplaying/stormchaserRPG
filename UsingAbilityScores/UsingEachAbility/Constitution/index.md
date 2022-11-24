@@ -11,8 +11,8 @@ Constitution measures health, stamina, and vital force.
 ## Constitution Checks
 A Constitution check can model any attempt to push beyond normal limits.
 
-### Endurance
-Endurance checks are made when your character needs to push their bodies beyond normal limits. Holding your breath, marching for days, going without sleep or food, and resisting the effects of alcohol are all times when one would roll an endurance check.
+### Athletics
+Athletics checks are made when your character needs to push their bodies beyond normal limits. Holding your breath, marching for days, going without sleep or food, and resisting the effects of alcohol are all times when one would roll an Athletics check.
 
 ### Other Constitution Checks
 The GM might call for a Constitution check when you try to accomplish tasks like the following:

@@ -9,22 +9,22 @@ nav_order: 2
 Dexterity measures agility, reflexes, and balance.
 
 ## Dexterity Checks
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Athletics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
 
-### Acrobatics
-Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+### Athletics
+Your Dexterity (Athletics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Athletics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
 #### Cross Narrow Surfaces/Uneven Ground
-You can use Acrobatics to cross narrow surfaces and uneven ground without falling. A successful check allows you to move at half speed across such surfaces. Use the following table to determine the base DC, which is modified by the second table below. A Dexterity (Acrobatics) check is only required to move across these surfaces if the final DC is 10 or higher.
+You can use Athletics to cross narrow surfaces and uneven ground without falling. A successful check allows you to move at half speed across such surfaces. Use the following table to determine the base DC, which is modified by the second table below. A Dexterity (Athletics) check is only required to move across these surfaces if the final DC is 10 or higher.
 
-While you are using Acrobatics in this way, melee and ranged attacks have advantage to hit you. If you take damage while using Acrobatics, you must make another check at the same DC to avoid falling or being knocked prone.
+While you are using Athletics in this way, melee and ranged attacks have advantage to hit you. If you take damage while using Athletics, you must make another check at the same DC to avoid falling or being knocked prone.
 
 #### Falling
-When you fall, a DC 15 Dexterity (Acrobatics) check allows you to ignore the first 10 feet fallen, although you still end up prone if you take damage from a fall.
+When you fall, a DC 15 Dexterity (Athletics) check allows you to ignore the first 10 feet fallen, although you still end up prone if you take damage from a fall.
 
-You can also negate damage when you fall off a mount. If you fail the Acrobatics check, you take 1d6 points of bludgeoning damage and are prone.
+You can also negate damage when you fall off a mount. If you fail the Athletics check, you take 1d6 points of bludgeoning damage and are prone.
 
-| Surface Width | Base Acrobatics DC |
+| Surface Width | Base Athletics DC |
 |:-------------:|:------------------:|
 | >3 feet wide | 0 |
 | 1–3 feet wide | 5 |
@@ -32,7 +32,7 @@ You can also negate damage when you fall off a mount. If you fail the Acrobatics
 | 2–6 inches wide | 15 |
 | &#60;2 inches wide | 20 |
 
-| Acrobatics Modifiers | DC Modifier |
+| Athletics Modifiers | DC Modifier |
 |:--------------------:|:-----------:|
 | Lightly Obstructed (gravel, sand) | +2 |
 | Severely Obstructed (cavern, rubble) | +5 |
@@ -51,7 +51,7 @@ Whenever you attempt an act of legerdemain or manual trickery, such as planting 
 #### Tying Knots
 The rules are purposely open-ended concerning mundane tasks like tying knots, but sometimes knowing how well a knot was fashioned is important in a dramatic scene when someone is trying to untie a knot or slip out of one.
 
-The creature who ties the knot makes an Intelligence (Sleight of Hand) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence (Sleight of Hand) check or to slip out of it with a Dexterity (Acrobatics) check.
+The creature who ties the knot makes an Intelligence (Sleight of Hand) check when doing so. The total of the check becomes the DC for an attempt to untie the knot with an Intelligence (Sleight of Hand) check or to slip out of it with a Dexterity (Athletics) check.
 
 This rule intentionally links Sleight of Hand with Intelligence, rather than Dexterity. This is an example of how to apply the rule for skills with different abilities.
 

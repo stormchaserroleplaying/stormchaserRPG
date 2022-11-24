@@ -7,7 +7,7 @@ nav_order: 2
 
 # Dexterity Subskills
 
-## Acrobatics Subskills
+## Athletics Subskills
 
 ### Aerobatics
 Tumbling and swimming are great for players darting around foes on the ground and underwater, but Aerobatics helps airborne players do the same. GMs should set DCs similar to those skills for flying creatures.

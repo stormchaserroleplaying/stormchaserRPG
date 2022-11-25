@@ -14,7 +14,7 @@ Your Wisdom score rises by 1.
 You are proficient with martial blades and martial bows. You treat any weapon with the word "elven" in its name or properties as a martial weapon. If your class grants proficiency with martial blades **or** martial bows, you gain 1 proficiency point. If your class grants proficiency with **both** martial blades **and** martial bows, you gain 2 proficiency points.
 
 ## Fleet of Foot
-Your base walking speed rises to 35 feet.
+Add 5 feet to your base walking speed.
 
 ## Mask of the Wild
 You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.

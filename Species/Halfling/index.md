@@ -19,7 +19,7 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
 
 ## Speed
-Your base walking speed is 25 feet.
+Subtract 5 feet from your base walking speed.
 
 ## Lucky
 When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.

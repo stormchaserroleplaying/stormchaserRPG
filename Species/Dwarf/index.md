@@ -22,7 +22,7 @@ Most dwarves are lawful, believing firmly in the benefits of a well-ordered soci
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
 ## Speed
-Your base walking speed is 25 feet. Your speed is never reduced by wearing armour.
+Subtract 5 feet from your base walking speed. However, your speed is never reduced by wearing armour.
 
 ## Darkvision
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.

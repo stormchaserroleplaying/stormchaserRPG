@@ -14,9 +14,6 @@ Kobolds have an innate inclination towards certain alignments (see table).
 ## Size
 Your size is Small.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Darkvision
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
 

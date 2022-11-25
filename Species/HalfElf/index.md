@@ -20,9 +20,6 @@ Half-elves share the chaotic bent of their elven heritage. They value both perso
 ## Size
 Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Darkvision
 Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 

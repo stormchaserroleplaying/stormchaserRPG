@@ -19,7 +19,7 @@ Gnomes mature at the same rate humans do, and most are expected to settle down i
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
 ## Speed
-Your base walking speed is 25 feet.
+Subtract 5 feet from your base walking speed.
 
 ## Darkvision
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.

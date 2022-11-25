@@ -21,9 +21,6 @@ Elves love freedom, variety, and self-expression, so they lean strongly toward t
 ## Size
 Elves range from well over 5 feet to around 6½ feet tall and have slender builds. Your size is Medium.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Low-Light Vision
 Elves can see twice as far as humans in conditions of dim light.
 

@@ -17,9 +17,6 @@ Half-orcs mature a little faster than humans, reaching adulthood around age 14. 
 ## Size
 Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Darkvision
 Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 

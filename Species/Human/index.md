@@ -20,9 +20,6 @@ Humans tend toward no particular alignment. The best and the worst are found amo
 ## Size
 Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Defiant
 Humans are known to be stubborn and often refuse to give up, even against the worst odds. You can add your proficiency die  to an attack roll or skill check after rolling. You must then finish a short or long rest before you can use this feature again.
 

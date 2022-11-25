@@ -15,9 +15,6 @@ Imbued with celestial power, most aasimar are good. Outcast aasimar are most oft
 ## Size
 Aasimar have the same range of height and weight as humans.
 
-## Speed
-Your base walking speed is 30 feet.
-
 ## Darkvision
 Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
 

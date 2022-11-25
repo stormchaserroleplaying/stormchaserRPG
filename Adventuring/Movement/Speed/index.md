@@ -8,8 +8,18 @@ nav_order: 1
 # Speed
 Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation. The following rules determine how far a character or monster can move in a minute, an hour, or a day.
 
+A character's base overland movement speed when travelling on foot is calculated as follows:
+
+<center><strong>Overland Walking Speed in Miles per Hour = Constitution Score / 3</strong></center>
+
 ## Travel Pace
-While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see [Activity While Traveling](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/ActivityWhileTravelling/) for more information).
+While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the table below. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see [Activity While Traveling](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/ActivityWhileTravelling/) for more information).
+
+| Pace | Base Overland Walking Speed |
+|:----:|:---------------------------:|
+| Fast | 4/3× |
+| Medium | 1× |
+| Slow | 2/3× |
 
 **Forced March.** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
 
@@ -20,15 +30,6 @@ If the party is moving at a *slow* pace, they gain advantage on the check. A *fa
 **Mounts and Vehicles.** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in [a waterborne vessel](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/MountsandVehicles/Vehicles/#waterborne-vehicles) are limited to the speed of the vessel, and they don't suffer penalties for a fast pace or gain benefits from a slow pace, Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
-
-### Travel Pace
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Distance travelled per...**
-
-| Pace | Minute | Hour | Day |
-|:----:|:------:|:----:|:---:|
-| Fast | 400 Feet | 4 Miles | 32 Miles |
-| Medium | 300 Feet | 3 Miles | 24 Miles |
-| Slow | 200 Feet | 2 Miles | 16 Miles |
 
 ### The Travel Route
 Come up with a travel plan then calculate its distance in miles. Break down the full distance into smaller segments by using checkpoint locations such as towns and hamlets, wayside inns, river banks and other points of interest. Break segments when terrain type changes or roads start or end as such changes affect travel speed.
@@ -96,17 +97,17 @@ Using mounts or vehicles (such as carts and wagons) you can significantly shorte
 
 | Pace | Cost | Speed | Max.Distance| Capacity |
 |:-----|:-----|:-----:|:-----------:|---------:|
-| Pony | 50 gp | 5 per hour| 18 miles| 225 lb |
-| Mastiff | 25 gp | 4 per hour| 12 miles| 195 lb |
-| Musk Ox | 30 gp | 4 per hour| 15 miles| 700 lb |
-| Donkey | 8 gp | 5 per hour| 18 miles| 420 lb |
-| Riding Horse| 75 gp | 8 per hour| 30 miles| 480 lb |
-| War Horse| 400 gp | 8 per hour| 30 miles| 540 lb |
-| Draft Horse | 50 gp | 6 per hour| 25 miles| 540 lb |
-| Mammoth | 200 gp | 4 per hour| 15 miles| 1500 lb |
-| Camel | 50 gp | 4 per hour| 15 miles| 480 lb |
-| Carriage | 100 gp | 4 per hour| 15 miles| 1500 lb |
-| Cart, wagon | 15 gp | 4 per hour| 12 miles| 480 lb |
+| Pony | 50 gp | 5 per hour | 18 miles | 225 lb |
+| Mastiff | 25 gp | 4 per hour | 12 miles | 195 lb |
+| Musk Ox | 30 gp | 4 per hour | 15 miles | 700 lb |
+| Donkey | 8 gp | 5 per hour | 18 miles | 420 lb |
+| Riding Horse| 75 gp | 8 per hour | 30 miles | 480 lb |
+| War Horse| 400 gp | 8 per hour | 30 miles | 540 lb |
+| Draft Horse | 50 gp | 6 per hour | 25 miles | 540 lb |
+| Mammoth | 200 gp | 4 per hour | 15 miles | 1500 lb |
+| Camel | 50 gp | 4 per hour | 15 miles | 480 lb |
+| Carriage | 100 gp | 4 per hour | 15 miles | 1500 lb |
+| Cart, wagon | 15 gp | 4 per hour | 12 miles | 480 lb |
 
 Animals need feed (per day) or can find some themselves with a Wisdom (Survival) check at a DC based on the *Hunt & Forage* table for 1 Ration. Animals who hunger or thirst for longer than 2 days suffer one level of Exhaustion per day at the end of their long rest. 
 

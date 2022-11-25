@@ -23,10 +23,10 @@ You regain hit points when you drink this potion. The number depends on the poti
 
 | Potion of ... | Rarity | Hit Points Restored |
 |:-------------:|:------:|:------:|:-------:|
-| Healing | Common | 2 HD |
-| Greater Healing | Uncommon | 4 HD |
-| Superior Healing | Rare | 8 HD |
-| Supreme Healing | Very Rare | 10 HD |
+| Healing | Common | 2 HD + Constitution Modifier |
+| Greater Healing | Uncommon | 4 HD + Constitution Modifier |
+| Superior Healing | Rare | 8 HD + Constitution Modifier |
+| Supreme Healing | Very Rare | 10 HD + Constitution Modifier |
 
 ## Potion of Healing, Shifty
 *Potion, common (10 gp)*

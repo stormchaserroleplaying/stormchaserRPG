@@ -21,7 +21,7 @@ Giantkin stand between 7 and 8 feet tall and weigh between 280 and 340 pounds. Y
 You have proficiency in the Athletics skill.
 
 ## Stone’s Endurance
-You can focus yourself to occasionally shrug off injury. On your turn, if you took damage in the last round, you can roll a d12 as a free action. Add your Constitution modifier to the number rolled and recover an amount of health equal to that total. If damage reduces you to 0 health, then this ability is automatically used, even if it isn't your turn. After you use Stone's Endurance, you can’t use it again until you finish a short or long rest.
+You can focus yourself to occasionally shrug off injury. On your turn, if you took damage in the last round, you can roll a d12 as a free action. Add your Constitution modifier to the number rolled and recover an amount of stamina equal to that total. If damage reduces you to 0 stamina, then this ability is automatically used, even if it isn't your turn. After you use Stone's Endurance, you can’t use it again until you finish a short or long rest.
 
 ## Powerful Build
 You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.

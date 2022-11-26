@@ -7,7 +7,7 @@ nav_order: 1
 # Choosing a Class
 Three classes are available in the *Stormchaser Roleplaying Game*. At 1st level, you must choose a class for your character. The three classes are:
 * **Expert** 
-* **Spellcaster**
+* **Mage**
 * **Warrior:**
 
 ## Multiclassing

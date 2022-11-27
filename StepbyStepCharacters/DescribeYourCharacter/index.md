@@ -16,7 +16,7 @@ A background gives your character a background feature (a general benefit), a ba
 ## Character Points
 When creating a character, you gain 6 character points from your background and a number of additional character points equal to your Intelligence modifier. These points are spent as described in the Character Point Costs table:
 
-##### Character Point Costs
+###### Character Point Costs
 
 | Benefit | Cost |
 |:-------:|:----:|

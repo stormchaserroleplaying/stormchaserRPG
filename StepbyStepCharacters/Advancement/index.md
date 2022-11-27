@@ -38,7 +38,7 @@ Character points can be spent to increase your ability scores. However,
 
 When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your 7th-level warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18 when he reaches 8th level, then his stamina maximum then increases by 4 from 68 to 72.
 
-## Wealth by Level
+## Starting Wealth
 The Starting Wealth table lists the amount of treasure that each PC is expected to have at a number of talents, in addition to their first level starting equipment from background and class.
 
 Note that this table assumes a standard fantasy game. Low-fantasy games might award only half this value, while high-fantasy games might double the value. It is assumed that some of this treasure is consumed in the course of an adventure (such as potions and scrolls) and that some of the less useful items are sold for half value so more useful gear can be purchased.

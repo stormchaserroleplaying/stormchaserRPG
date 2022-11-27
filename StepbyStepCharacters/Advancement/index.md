@@ -15,7 +15,7 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Feat | 8 |
 | Weapon Mastery | 4 |
 | Skill Mastery | 4 |
-| Increase an Ability Score by 1 (Max 20) | 4 |
+| Increase an Ability Score by 1 | 4 |
 | Weapon Expertise | 3 |
 | Skill Expertise | 3 |
 | Tool Mastery | 3 |

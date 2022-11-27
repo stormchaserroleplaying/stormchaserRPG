@@ -20,18 +20,24 @@ When creating a character, you gain 6 character points from your background and 
 
 | Benefit | Cost |
 |:-------:|:----:|
+| Talent | 12 |
 | Feat | 8 |
+| Weapon Mastery | 4 |
+| Skill Mastery | 4 |
 | Increase an Ability Score by 1 (Max 20) | 4 |
-| Skill Expertise (requires proficiency) | 3 |
+| Weapon Expertise | 3 |
+| Skill Expertise | 3 |
+| Tool Mastery | 3 |
+| Weapon Proficiency | 2 |
 | Skill Proficiency | 2 |
-| Cantrip (if available to class) | 2 |
-| Tool Expertise (requires proficiency) | 2 |
+| Tool Expertise | 2 |
+| Cantrip | 2 |
+| Subskill | 1 |
 | Tool Proficiency | 1 |
-| Subskill (requires proficiency) | 1 |
-| Weapon Group Proficiency | 1 |
 | Language Proficiency | 1 |
 
-* The same subskill may be selected multiple times to increase the level of a subskill.
+* You can’t increase an ability score above 20.
+* Expertise requires proficiency. Mastery requires expertise.
 * Proficiencies granted by your class may be sacrificed in exchange for their equivalent value, which may be redistributed to another category.
 * When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 

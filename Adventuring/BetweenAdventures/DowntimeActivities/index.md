@@ -135,28 +135,40 @@ During your experiments and adventures, you may find research notes made by othe
 When you make a research check, you can spend one research credit to add +1d4 to the result. For every additional research credit you spend, you increase the size of the die by one step (d4, d6, d8, d10, d12) to a maximum of 1d12.
 
 ## Training
-Given enough time, money, and the services of an instructor, a character can learn a language, pick up proficiency with a tool or kit, gain proficiency or even expertise in a skill, or possibly even earn a feat.
+Given enough time, money, and the services of an instructor, a character can learn a language, pick up proficiency with a tool, gain proficiency or even expertise in a skill, or possibly even earn a feat.
+
+###### Training Costs
+
+| Training | Duration | Total Cost |
+|:--------:|:--------:|:----------:|
+| Proficiency, Language, Subskill | 500 h | 250 gp | 
+| Expertise | 1000 h | 500 gp |
+| Mastery, Feat | 8,500 h | 4,250 gp |
 
 ### Resources
-Training requires you to first find a learning resource (such as a book) or a teacher who is willing and capable of teaching you. It then takes a varying amount of time and money, depending on what you're learning. Costs are paid at the beginning of each training period.
+Training requires you to first find a learning resource (such as a book) or a teacher who is capable of teaching you and willing to do so.
 
-### Language, Subskill or Weapon Group
-Learning a new language or subskill, upgrading a subskill, or training to use a new weapon group takes 400 hours and a teacher's services cost 6 sp per hour. Sufficient learning resources to study alone should cost a total of approximately 250 gp. During resolution, training in a language calls for an Intelligence check, while a subskill calls for an ability check with that subskill's governing skill and a weapon requires an attack roll with that weapon. If you are proficient in the corresponding defence, you add your proficiency bonus to the roll.
+Books and other, similar learning resources must be bought in advance, but have the advantage of allowing a character to teach themselves in their free time. It takes a number of books with a value equal to the total cost of training to provide sufficient material with which to complete the training.
 
-### Tool Proficiency
-Learning to use a new tool takes 400 hours and a teacher's services cost 1/40th of the value of the tool per hour. Sufficient learning resources to study alone should cost a total of approximately 10 times the value of the tool. During resolution, training in a new tool calls for an ability check appropriate to that tool, as determined by the GM. If you are proficient in that defence, you add your proficiency bonus to the roll.
+Personal instruction with a teacher who is able to assess the character individually and determine what would be the next step for them to develop and improve is significantly more effective. Every hour spent learning with a teacher adds two hours to the amount of time spent training. Training with a teacher typically costs 5 sp per hour.
 
-### Tool Expertise
-Gaining expertise in a tool in which you are proficient takes 800 hours and a teacher's services cost 1/40th of the value of the tool per hour. Sufficient learning resources to study alone should cost a total of approximately 20 times the value of the tool. During resolution, gaining expertise in a tool in which you are proficient requires an ability check with that tool.
+It then takes a varying amount of time and money, depending on what you are learning.
 
-### Skill Proficiency
-Learning a new skill takes 800 hours and a teacher's services cost 12 sp per hour. Sufficient learning resources to study alone should cost a total of approximately 1000 gp. During resolution, training in a new skill calls for an ability check with that skill’s governing ability score. If you are proficient in that defence, you add your proficiency bonus to the roll.
+### Proficiency, Language, or Subskill
+Learning a new tool, skill, or weapon proficiency, or a language or subskill takes 500 hours. Sufficient learning resources to study alone should cost a total of approximately 250 gp.
 
-### Skill Expertise
-Gaining expertise in a skill in which you are proficient takes 1200 hours and a teacher's services cost 25 sp per hour. Sufficient learning resources to study alone should cost a total of approximately 3000 gp. During resolution, gaining expertise in a skill in which you are proficient requires an ability check with that skill.
+During resolution:
+* Training in a language calls for an Intelligence check.
+* Training in a subskill calls for an ability check with that subskill's governing skill.
+* Training proficiency in a tool calls for an ability check appropriate to that tool, as determined by the GM.
+* Training proficiency in a skill calls for an ability check with that skill’s governing ability score.
+* Training proficiency in a weapon calls for an attack roll with strength, or with dexterity for finesse weapons.
+* Training expertise or mastery in a tool calls for an ability check with that tool.
+* Training expertise or mastery in a skill calls for an ability check with that skill.
+* Training expertise or mastery in a weapon calls for an attack roll with that weapon.
+* Training in a feat calls for an ability check appropriate to that feat, as determined by the GM.
 
-### Feat
-Learning a new feat takes 2400 hours and a teacher's services cost 5 gp per hour. Sufficient learning resources to study alone should cost a total of approximately 8000 gp. During resolution, training in a new feat calls for an ability check appropriate to that feat, as determined by the GM. If you are proficient in that defence, you add your proficiency bonus to the roll.
+If you are proficient in the corresponding defence, you make the roll with proficiency.
 
 ### Resolution
 At the end of each day, a character makes an ability check depending on their training, and then consults the Training Roll Results table. A natural 1 results in no progress for that day and a complication. A character that rolls a natural 20 may immediately roll again for that day, adding the result to the progress from the first roll.

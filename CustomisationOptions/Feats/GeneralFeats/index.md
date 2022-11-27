@@ -96,8 +96,3 @@ Quick to notice details of your environment, you gain the following benefits:
 * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 * You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks.
-
-## Practicedᴮᴳ
-You have acquired skills over your career, gaining the following benefits:
-* Increase an ability score of your choice by 1, to a maximum of 20.
-* You gain four character points to spend on skill and tool proficiencies.

@@ -146,9 +146,14 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Brutal, close, concealed, finesse, light |
 | Glove, armoured | 2 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, finesse, light, non-lethal, worn |
-| Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | — | Close, finesse, light, vicious, worn |
 | Hook, prosthetic | 10 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Close, disarm, finesse, hooked, light, worn |
 | Knuckles, brass | 1 gp | +1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | — | Close, concealed, finesse, light, non-lethal, worn |
+
+##### Martial Unarmed Weapons
+
+| Name | Cost | Damage | Weight | Str/Dex | Properties |
+|:-----|-----:|:-------|-------:|:-------:|:-----------|
+| Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | — | Brutal, close, concealed, finesse, light |
+| Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | — | Close, finesse, light, vicious, worn |
 | Unarmed strike | — | 1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | — | Non-lethal |

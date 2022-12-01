@@ -25,4 +25,4 @@ Proficiency with a weapon allows you to roll an additional die of advantage when
 | Flexible | ✓ | ✓ |
 | Muscle-Powered | ✓ | ✗ |
 | Polearms | ✓ | ✓ |
-| Unarmed | ✓ | ✗ |
+| Unarmed | ✓ | ✓ |

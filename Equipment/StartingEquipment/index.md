@@ -28,7 +28,7 @@ When you create your character, you receive equipment based on a combination of 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armour and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
 ## Advanced Characters
-The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their  starting equipment from background and class.
+The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.
 
 ##### Starting Wealth
 

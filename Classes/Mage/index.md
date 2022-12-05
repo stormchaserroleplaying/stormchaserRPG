@@ -17,5 +17,5 @@ Mages have stamina equal to 2× their Constitution score. Their stamina die is a
 **Armour:** None<br>
 **Weapons:** Simple weapons<br>
 **Tools:** None<br>
-**Defences:** Choose any 2 mental defences and 1 physical defence<br>
-**Skills:** Choose 2 from Arcana, History, Insight, Medicine and Religion
+**Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
+**Skills:** Choose 2 from Arcana, Deception, History, Insight, Intimidation, Investigation and Religion

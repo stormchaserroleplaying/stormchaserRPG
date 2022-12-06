@@ -16,9 +16,9 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 
 | Class | Ability Score Minimum |
 |:-----:|:---------------------:|
+| Disciple | Spellcasting Ability 13 |
 | Expert | Dexterity 13, Intelligence 13, Wisdom 13 or Charisma 13 |
 | Mage | Spellcasting Ability 13 |
-| Priest | Spellcasting Ability 13 |
 | Warrior |  Strength 13 or Dexterity 13 |
 
 ## Stamina Multiplier and Stamina Dice
@@ -31,11 +31,11 @@ When you gain your first talent in a class other than your initial class, you ga
 
 ###### Multiclassing Proficiencies
 
-| Class | Proficiencies gained |
-|:-----:|:---------------------:|
+| Class | Proficiencies Gained |
+|:-----:|:--------------------:|
+| Disciple | - |
 | Expert | Light armour, 3 character points |
 | Mage | - |
-| Priest | - |
 | Warrior | Increase your armour proficiency by 1 weight category, 1 martial weapon group |
 
 You don't receive the class's starting equipment.

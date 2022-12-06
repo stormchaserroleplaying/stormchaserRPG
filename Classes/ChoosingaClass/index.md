@@ -6,9 +6,9 @@ nav_order: 1
 
 # Choosing a Class
 Four classes are available in the *Stormchaser Roleplaying Game*. When you create your character, you must choose a class for them. The four classes are:
+* **Disciple**
 * **Expert** 
 * **Mage**
-* **Priest**
 * **Warrior**
 
 ## Multiclassing

@@ -1,6 +1,6 @@
 ---
 title: Cleric Talent Tree
-parent: Priest
+parent: Disciple
 grand_parent: Classes
 ---
 

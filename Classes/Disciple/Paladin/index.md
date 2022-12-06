@@ -1,6 +1,6 @@
 ---
 title: Paladin Talent Tree
-parent: Priest
+parent: Disciple
 grand_parent: Classes
 ---
 

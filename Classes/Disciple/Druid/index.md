@@ -1,6 +1,6 @@
 ---
 title: Druid Talent Tree
-parent: Priest
+parent: Disciple
 grand_parent: Classes
 ---
 

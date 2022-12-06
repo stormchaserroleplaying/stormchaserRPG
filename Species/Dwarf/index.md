@@ -28,7 +28,7 @@ Subtract 5 feet from your base walking speed. However, your speed is never reduc
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
 
 ## Dwarven Resilience
-Poison attack rolls have disadvantage to hit you. You have advantage on defence checks against poison and you have ]resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) against [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
+Poison attack rolls have disadvantage to hit you. You have advantage on defence checks against poison and you have [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) against [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
 
 ## Dwarven Combat Training
 You are proficient with simple axes and simple bludgeoning weapons. If your class grants proficiency with simple axes or simple bludgeoning weapons, you gain proficiency in martial axes or martial bludgeoning weapons, respectively. You treat any weapon with the word "dwarven" in its name or properties as a martial weapon. If your class grants proficiency with martial axes **or** martial bludgeoning weapons, you gain 1 proficiency point. If your class grants proficiency with **both** martial axes **and** martial bludgeoning weapons, you gain 2 proficiency points.

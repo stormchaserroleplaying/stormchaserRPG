@@ -16,6 +16,8 @@ Experts have stamina equal to 3× their Constitution score. Their stamina die is
 ### Proficiencies
 **Armour:** Light armour<br>
 **Weapons:** Simple weapons and choose 1 martial weapon group<br>
-**Defences:** Choose any 3
+**Tools:** Choose any 1<br>
+**Defences:** Choose any 3<br>
+**Skills:** Choose any 3 and upgrade 2 of your skill proficiencies to expertise
 
-An expert begins play with 9 additional character points to spend.
+An expert begins play with 2 additional character points to spend and may upgrade 

@@ -9,10 +9,6 @@ grand_parent: Classes
 ## Rage
 In battle, you fight with primal ferocity. You have a number of rage points equal to your Constitution score. You can spend these points to fuel various rage powers. When you spend a rage point, it is unavailable until you finish a short or long rest, at the end of which you recover all of your expended rage back.
 
-Some of your rage powers require your target to make a saving throw to resist the power's effects. The saving throw DC is calculated as follows:
-
-<center><strong>Rage save DC = 14 + your Constitution modifier</strong></center>
-
 On your turn, you can spend a rage point to enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armour:
 * You have advantage on Strength checks.
 * When you make a melee weapon attack, you deal an additional 1d4 damage. This bonus damage die increases to a d6 at 5 barbarian talents, a d8 at 9 barbarian talents, a d10 at 13 barbarian talents and a d12 at 17 barbarian talents.

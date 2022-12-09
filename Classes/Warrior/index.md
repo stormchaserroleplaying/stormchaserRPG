@@ -19,3 +19,5 @@ Warriors have stamina equal to 4× their Constitution score. Their stamina die i
 **Tools:** None<br>
 **Defences:** Choose any 2 physical defences and 1 mental defence<br>
 **Skills:** Choose 2 from Animal Handling, Athletics, Insight, Intimidation, Perception and Survival
+
+A warrior begins play with 2 talents instead of the usual 1.

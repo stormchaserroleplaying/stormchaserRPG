@@ -21,28 +21,28 @@ Some spells, such as *magic missile* and *cure wounds*, are more powerful when c
 
 ###### Spell Points
 
-| Mage Talents | Spell Points |
-|:------------:|:------------:|
-| 1st | 9 |
-| 2nd | 12 |
-| 3rd | 15 |
-| 4th | 18 |
-| 5th | 21 |
-| 6th | 24 |
-| 7th | 27 |
-| 8th | 30 |
-| 9th | 33 |
-| 10th | 36 |
-| 11th | 36 |
-| 12th | 36 |
-| 13th | 39 |
-| 14th | 39 |
-| 15th | 39 |
-| 16th | 42 |
-| 17th | 42 |
-| 18th | 42 |
-| 19th | 45 |
-| 20th | 51 |
+| Class Talents | Spell Points |
+|:-------------:|:------------:|
+| 1 | 9 |
+| 2 | 12 |
+| 3 | 15 |
+| 4 | 18 |
+| 5 | 21 |
+| 6 | 24 |
+| 7 | 27 |
+| 8 | 30 |
+| 9 | 33 |
+| 10 | 36 |
+| 11 | 36 |
+| 12 | 36 |
+| 13 | 39 |
+| 14 | 39 |
+| 15 | 39 |
+| 16 | 42 |
+| 17 | 42 |
+| 18 | 42 |
+| 19 | 45 |
+| 20 | 51 |
 
 ## Recovering Spell Points
 Finishing a long rest restores any expended spell points (see [the rules on resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
@@ -55,25 +55,25 @@ When a spellcaster takes a breather or a short rest, they may spend their hit di
 > 
 > ###### Spell Points for Short Rest Spellcasters
 > 
-> | Mage Talents | Spell Points |
-> |:------------:|:------------:|
-> | 1st | 3 |
-> | 2nd | 4 |
-> | 3rd | 5 |
-> | 4th | 6 |
-> | 5th | 7 |
-> | 6th | 8 |
-> | 7th | 9 |
-> | 8th | 10 |
-> | 9th | 11 |
-> | 10th | 12 |
-> | 11th | 12 |
-> | 12th | 12 |
-> | 13th | 13 |
-> | 14th | 13 |
-> | 15th | 13 |
-> | 16th | 14 |
-> | 17th | 14 |
-> | 18th | 14 |
-> | 19th | 15 |
-> | 20th | 17 |
+> | Class Talents | Spell Points |
+> |:-------------:|:------------:|
+> | 1 | 3 |
+> | 2 | 4 |
+> | 3 | 5 |
+> | 4 | 6 |
+> | 5 | 7 |
+> | 6 | 8 |
+> | 7 | 9 |
+> | 8 | 10 |
+> | 9 | 11 |
+> | 10 | 12 |
+> | 11 | 12 |
+> | 12 | 12 |
+> | 13 | 13 |
+> | 14 | 13 |
+> | 15 | 13 |
+> | 16 | 14 |
+> | 17 | 14 |
+> | 18 | 14 |
+> | 19 | 15 |
+> | 20 | 17 |

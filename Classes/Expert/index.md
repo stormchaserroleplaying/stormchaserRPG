@@ -20,4 +20,4 @@ Experts have stamina equal to 3× their Constitution score. Their stamina die is
 **Defences:** Choose any 3<br>
 **Skills:** Choose any 3 and upgrade 2 of your skill proficiencies to expertise
 
-An expert begins play with 2 additional character points to spend and may upgrade 
+An expert begins play with 2 additional character points to spend.

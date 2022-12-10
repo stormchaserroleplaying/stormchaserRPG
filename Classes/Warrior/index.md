@@ -15,7 +15,7 @@ Warriors have stamina equal to 4× their Constitution score. Their stamina die i
 
 ### Proficiencies
 **Armour:** Light armour, medium armour<br>
-**Weapons:** Simple weapons and choose 4 martial weapon group<br>
+**Weapons:** Simple weapons and choose 4 martial weapon groups<br>
 **Tools:** None<br>
 **Defences:** Choose any 2 physical defences and 1 mental defence<br>
 **Skills:** Choose 2 from Animal Handling, Athletics, Insight, Intimidation, Perception and Survival

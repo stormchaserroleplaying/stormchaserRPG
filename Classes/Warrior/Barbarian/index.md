@@ -36,13 +36,6 @@ Additionally, you gain an uncanny sense of when things nearby aren’t as they s
 *Prerequisite:* Rage<br>
 You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls during this turn, but attack rolls against you have advantage until your next turn.
 
-### Fighting Style
-You adopt a particular style of fighting as your specialty. Choose a [Fighting Style](https://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/). You can’t take a Fighting Style option more than once, even if you later get to choose again.
-
-### Extra Attack
-*Prerequisite:* 5 Other Warrior Talents<br>
-You can attack twice, instead of once, whenever you take the [Attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/ActionsinCombat/Attack/#attack-) action on your turn.
-
 ### Fast Movement
 *Prerequisite:* Reckless Attack<br>
 Your speed increases by 10 feet while you aren’t wearing heavy armour.
@@ -78,7 +71,7 @@ Your rage is so fierce that it ends early only if you fall unconscious or if you
 If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
 ### Primal Champion
-*Prerequisite:* Brutal Critical III and Indomitable Might<br>
+*Prerequisite:* 19 Other Barbarian Talents<br>
 You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ## Ancestral Guardian Talents
@@ -87,7 +80,7 @@ Some barbarians hail from cultures that revere their ancestors. These tribes tea
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors’ deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.
 
 ### Ancestral Protectors
-*Prerequisite:* Rage
+*Prerequisite:* Rage<br>
 Spectral warriors appear when you enter your rage. While you’re raging, the first creature that you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn’t against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
 
 ### Spirit Shield

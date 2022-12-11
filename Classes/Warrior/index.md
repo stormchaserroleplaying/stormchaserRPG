@@ -21,3 +21,10 @@ Warriors have stamina equal to 4× their Constitution score. Their stamina die i
 **Skills:** Choose 2 from Animal Handling, Athletics, Insight, Intimidation, Perception and Survival
 
 A warrior begins play with 2 talents instead of the usual 1.
+
+### Fighting Style
+You adopt a particular style of fighting as your specialty. Choose a [Fighting Style](https://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/). You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+### Extra Attack
+*Prerequisite:* 5 Other Warrior Talents<br>
+You can attack twice, instead of once, whenever you take the [Attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/ActionsinCombat/Attack/#attack-) action on your turn.

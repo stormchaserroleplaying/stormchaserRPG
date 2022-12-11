@@ -27,9 +27,9 @@ You gain the ability to use musical notes or words of power to disrupt mind-infl
 
 ### Magical Secrets
 *Prerequisite:* Jack of All Trades<br>
-You have plundered magical knowledge from a wide spectrum of disciplines. Your bard talents grant you [spell points](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/SpellPoints/) as though you were a mage and your spellcasting ability is Intelligence. Choose two cantrips or spells of a spell level that you can cast. You know these two spells.
+You have plundered magical knowledge from a wide spectrum of disciplines. Your bard talents grant you [spell points](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/SpellPoints/) as though you were a mage and your spellcasting ability is Intelligence. Choose one cantrip and two spells of a spell level that you can cast. You know these spells.
 
-You may take this talent up to three times.
+You may take this talent up to five times.
 
 ### Virtuoso
 *Prerequisite:* 19 Other Bard Talents<br>

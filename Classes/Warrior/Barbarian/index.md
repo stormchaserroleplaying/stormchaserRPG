@@ -61,7 +61,7 @@ Additionally, if you are surprised at the beginning of combat and aren’t [inca
 *Prerequisite:* Instinctive Pounce<br>
 You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
-YOu may take this talent up to three times.
+You may take this talent up to three times.
 
 ### Relentless Rage
 *Prerequisite:* Brutal Critical and Feral Instinct<br>

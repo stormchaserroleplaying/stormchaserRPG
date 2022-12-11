@@ -49,7 +49,7 @@ You learn to inspire others in battle. A creature that has a Bardic Inspiration 
 If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt.
 
 ### Extra Attack
-*Prerequisite:* Martial Valour<br>
+*Prerequisite:* Martial Valour and 4 Other Talents<br>
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Battle Magic

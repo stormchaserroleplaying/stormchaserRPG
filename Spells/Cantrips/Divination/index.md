@@ -13,9 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
-
-This spell’s dice size increases by 1 when you reach 5th level (1d6), 11th level (1d8), and 17th level (1d10).
+You touch one willing creature. Once before the spell ends, the target benefits from advantage on an ability check of its choice. The spell then ends.
 
 ## True Strike
 *Divination Cantrip*<br>

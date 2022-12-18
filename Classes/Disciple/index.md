@@ -14,7 +14,7 @@ As a disciple, you have the following class features.
 Disciples have stamina equal to 3× their Constitution score. Their stamina die is a d8.
 
 ### Proficiencies
-**Armour:** Light armour, medum armour<br>
+**Armour:** Light armour, medium armour<br>
 **Weapons:** Simple weapons<br>
 **Tools:** None<br>
 **Defences:** Wisdom, charisma and 1 physical defence<br>
@@ -27,7 +27,7 @@ See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcastin
 Choose Wisdom or Charisma as your spellcasting ability for your disciple spells. The power of your spells comes from your devotion and attunement to a higher power. You use your chosen ability whenever a disciple spell refers to your spellcasting ability. In addition, you use your the modifier of your chosen ability when making an attack roll with a disciple spell that you cast.
 
 #### Cantrips
-You know a number of cantrips of your choice from the disciple spell list equal to your spellcasting ability modifier. If you spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.
+You know a number of cantrips of your choice from the disciple spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.
 
 #### Spell Points
 The table below shows how many spell points you have to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
@@ -44,16 +44,6 @@ The table below shows how many spell points you have to cast your disciple spell
 | 8 | 30 | 4th |
 | 9 | 33 | 5th |
 | 10 | 36 | 5th |
-| 11 | 36 | 6th |
-| 12 | 36 | 6th |
-| 13 | 39 | 7th |
-| 14 | 39 | 7th |
-| 15 | 39 | 8th |
-| 16 | 42 | 8th |
-| 17 | 42 | 9th |
-| 18 | 42 | 9th |
-| 19 | 45 | 10th |
-| 20 | 51 | 10th |
 
 ### Preparing Spells
 You prepare the list of disciple spells that are available for you to cast, choosing from the disciple spell list. When you do so, choose a number of disciple spells equal to your spellcasting ability score. The spells must be of a level that you can cast.

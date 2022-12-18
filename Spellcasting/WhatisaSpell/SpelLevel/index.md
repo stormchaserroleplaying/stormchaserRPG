@@ -30,8 +30,4 @@ If you cast more than one spell of 6th level or higher without taking long rest 
 | 9th | 1d10 |
 | 10th | 1d12 |
 
-For example, if a 13th level wizard casts two 6th level spells in a day and then later the same day casts a 3rd level spell, they take 3d4 necrotic damage.
-
-From character level 19, this limitation only applies to spells of spell level 7 and higher. 6th level spells may be cast repeatedly without taking necrotic damage for overcasting.
-
-At character level 20, this limitation only applies to spells of spell level 8 and higher. 6th and 7th level spells may be cast repeatedly without taking necrotic damage for overcasting.
+For example, if a wizard casts two 6th level spells in a day and then later the same day casts a 3rd level spell, they take 3d4 necrotic damage.

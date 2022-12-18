@@ -41,13 +41,3 @@ The table below shows how many spell points you have to cast your mage spells of
 | 8 | 30 | 4th |
 | 9 | 33 | 5th |
 | 10 | 36 | 5th |
-| 11 | 36 | 6th |
-| 12 | 36 | 6th |
-| 13 | 39 | 7th |
-| 14 | 39 | 7th |
-| 15 | 39 | 8th |
-| 16 | 42 | 8th |
-| 17 | 42 | 9th |
-| 18 | 42 | 9th |
-| 19 | 45 | 10th |
-| 20 | 51 | 10th |

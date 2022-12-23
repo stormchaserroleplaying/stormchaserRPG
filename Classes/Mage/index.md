@@ -24,7 +24,7 @@ Mages have stamina equal to 2× their Constitution score. Their stamina die is a
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the mage spell list.
 
 #### Cantrips
-You know a number of cantrips of your choice from the mage spell list equal to your spellcasting ability modifier. If you spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
+You know a number of cantrips of your choice from the mage spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
 
 #### Spell Points
 The table below shows how many spell points you have to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
@@ -41,3 +41,7 @@ The table below shows how many spell points you have to cast your mage spells of
 | 8 | 30 | 4th |
 | 9 | 33 | 5th |
 | 10 | 36 | 5th |
+
+### Potent Cantrips
+*Prerequisite:* 5 Other Mage Talents<br>
+Your cantrips deal one additional die of damage.

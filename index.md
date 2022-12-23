@@ -1,6 +1,6 @@
 ---
 title: The Stormchaser RPG
-nav_order: 1
+nav_exclude: true
 ---
 
 The Stormchaser Roleplaying Game (formerly 'SC5e') has come a long way since it's inception. What began in 2018 as a few house rules for a personal campaign has bloomed into an expansive compendium of rules that makes up a lone standing roleplaying game.

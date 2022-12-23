@@ -1,7 +1,7 @@
 ---
 title: Spells
 has_children: true
-nav_order: 13
+nav_order: 12
 ---
 
 # Spells

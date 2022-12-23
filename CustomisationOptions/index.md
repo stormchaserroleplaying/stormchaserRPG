@@ -1,7 +1,7 @@
 ---
 title: Customisation Options
 has_children: true
-nav_order: 8
+nav_order: 7
 ---
 
 # Customisation Options

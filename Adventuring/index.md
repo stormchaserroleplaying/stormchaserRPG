@@ -1,7 +1,7 @@
 ---
 title: Adventuring
 has_children: true
-nav_order: 10
+nav_order: 9
 ---
 
 # Adventuring

@@ -39,7 +39,7 @@ When creating a character, you gain 6 character points from your background and 
 * You can’t increase an ability score above 20.
 * Expertise requires proficiency. Mastery requires expertise.
 * Proficiencies granted by your class may be sacrificed in exchange for their equivalent value, which may be redistributed to another category.
-* When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
+* When you permanently increase your Intelligence modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
 ## Your Character's Abilities
 Take your character’s ability scores and species into account as you flesh out their appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.

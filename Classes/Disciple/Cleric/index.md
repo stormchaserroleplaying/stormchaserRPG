@@ -71,7 +71,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ### Channel Divinity: Artisan's Blessing
 *Prerequisite:* Channel Divinity<br>
-Starting at 2nd level, you can use your Channel Divinity to create simple items.
+You can use your Channel Divinity to create simple items.
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see Chapter 5: Equipment for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
 

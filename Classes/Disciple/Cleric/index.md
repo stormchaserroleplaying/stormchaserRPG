@@ -87,7 +87,7 @@ Your mastery of the forge grants you special abilities:
 
 ### Divine Strike
 *Prerequisite:* Soul of the Forge<br>
-At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. You can take this talent a second time to increase the bonus fire damage to 2d8.
+You gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. You can take this talent a second time to increase the bonus fire damage to 2d8.
 
 ### Saint of Forge and Fire
 *Prerequisite:* Divine Strike<br>

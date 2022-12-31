@@ -17,14 +17,14 @@ Disciples have stamina equal to 3× their Constitution score. Their stamina die 
 **Armour:** Light armour, medium armour<br>
 **Weapons:** Simple weapons<br>
 **Tools:** None<br>
-**Defences:** Wisdom, charisma and 1 physical defence<br>
+**Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
 **Skills:** Choose 2 from Insight, Medicine, Persuasion and Religion
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the disciple spell list.
 
 #### Spellcasting Ability
-Choose Wisdom or Charisma as your spellcasting ability for your disciple spells. The power of your spells comes from your devotion and attunement to a higher power. You use your chosen ability whenever a disciple spell refers to your spellcasting ability. In addition, you use your the modifier of your chosen ability when making an attack roll with a disciple spell that you cast.
+Choose Intelligence, Wisdom or Charisma as your spellcasting ability for your disciple spells. The power of your spells comes from your devotion and attunement to a higher power. You use your chosen ability whenever a disciple spell refers to your spellcasting ability. In addition, you use your the modifier of your chosen ability when making an attack roll with a disciple spell that you cast.
 
 #### Cantrips
 You know a number of cantrips of your choice from the disciple spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.

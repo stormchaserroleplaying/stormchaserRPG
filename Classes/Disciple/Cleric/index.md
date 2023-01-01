@@ -45,8 +45,8 @@ You can prepare and cast 3rd level spells.
 *Prerequisite:* 3rd Level Spells and 5 Other Talents<br>
 You can prepare and cast 4th level spells.
 
-### 4th Level Spells
-*Prerequisite:* 3rd Level Spells and 7 Other Talents<br>
+### 5th Level Spells
+*Prerequisite:* 4th Level Spells and 7 Other Talents<br>
 You can prepare and cast 5th level spells.
 
 ### Divine Intervention

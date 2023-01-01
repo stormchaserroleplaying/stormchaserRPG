@@ -18,7 +18,7 @@ Spells of 6th level and above are **high-level spells**. The magic of such spell
 Each day, if you are capable of casting high-level spells, you may cast one spell of each spell level above 5th without consequences. That is, one 6th level spell, one 7th level spell, one 8th level spell, one 9th level spell and one 10th level spell.
 
 ## Overcasting
-If you cast more than one spell of 6th level or higher without taking long rest in between, the stress of casting weakens you. This is known as **overcasting**. After overcasting, each time that you cast another spell you take one die of necrotic damage per level of the spell that you are casting. The size of the damage die is determined by the level of the spell that you overcast, as described in the **Overcasting Damage** table. This damage can't be reduced or prevented in any way. When you finish a long rest you recover from the strain of overcasting and may once more cast spells without taking further damage.
+If you cast more than one spell of 6th level or higher without taking long rest in between, the stress of casting weakens you. This is known as **overcasting**. Upon overcasting and thereafter, each time that you cast a spell you take one die of necrotic damage per level of the spell that you are casting. The size of the damage die is determined by the level of the spell that you overcast, as described in the **Overcasting Damage** table. This damage can't be reduced or prevented in any way. When you finish a long rest you recover from the strain of overcasting and may once more cast spells without taking further damage.
 
 ###### Overcasting Damage
 

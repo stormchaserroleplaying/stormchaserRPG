@@ -32,18 +32,28 @@ You know a number of cantrips of your choice from the disciple spell list equal 
 #### Spell Points
 The table below shows how many spell points you have to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
 
-| Disciple Talents | Spell Points | Maximum Spell Level |
-|:----------------:|:------------:|:-------------------:|
-| 1 | 9 | 1st |
-| 2 | 12 | 1st |
-| 3 | 15 | 2nd |
-| 4 | 18 | 2nd |
-| 5 | 21 | 3rd |
-| 6 | 24 | 3rd |
-| 7 | 27 | 4th |
-| 8 | 30 | 4th |
-| 9 | 33 | 5th |
-| 10 | 36 | 5th |
+| Disciple Talents | Spell Points |
+|:----------------:|:------------:|
+| 1 | 9 |
+| 2 | 12 |
+| 3 | 15 |
+| 4 | 18 |
+| 5 | 21 |
+| 6 | 24 |
+| 7 | 27 |
+| 8 | 30 |
+| 9 | 33 |
+| 10 | 36 |
+| 11 | 36 |
+| 12 | 36 |
+| 13 | 39 |
+| 14 | 39 |
+| 15 | 39 |
+| 16 | 42 |
+| 17 | 42 |
+| 18 | 42 |
+| 19 | 45 |
+| 20 | 51 |
 
 ### Preparing Spells
 You prepare the list of disciple spells that are available for you to cast, choosing from the disciple spell list. When you do so, choose a number of disciple spells equal to your spellcasting ability score. The spells must be of a level that you can cast.

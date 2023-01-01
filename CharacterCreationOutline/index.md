@@ -1,10 +1,10 @@
 ---
-title: Step-by-Step Characters
+title: Character Creation Outline
 has_children: true
 nav_order: 2
 ---
 
-# Step-by-Step Characters
+# Character Creation Outline
 Your first step in playing an adventurer is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a species (such as human or halfling) and a class (such as warrior or mage). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your avatar in the game.
 
 Before you dive into step 1 below, think about the kind of adventurer that you want to play. You might be a courageous fighter, a skulking rogue, a fervent cleric, or

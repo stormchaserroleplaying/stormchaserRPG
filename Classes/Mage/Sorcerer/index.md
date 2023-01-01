@@ -8,8 +8,22 @@ grand_parent: Classes
 
 ## Core Talents
 
+### Arcane Savant
+You tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
+
+#### Sorcery Points
+You a number of sorcery points equal to the sorcerer talents that you have taken. You regain all spent sorcery points when you finish a long rest.
+
+#### Flexible Casting
+You can use your sorcery points to gain additional spell points, or sacrifice spell points to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
+
+##### Creating Spell Slots
+You can transform an unexpended sorcery point into one spell point as a bonus action on your turn.
+
+Any spell point that you create with this feature vanishes when you finish a long rest.
+
 ### 2nd Level Spells
-*Prerequisite:* Arcane Recovery and 1 Other Talent<br>
+*Prerequisite:* Arcane Savant I and 1 Other Talent<br>
 You can prepare and cast 2nd level spells.
 
 ### 3rd Level Spells

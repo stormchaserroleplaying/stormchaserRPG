@@ -10,7 +10,6 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 ## Core Talents
 
 ### Channel Divinity
-*Prerequisite:* 1 Other Cleric Talent<br>
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you gain additional cleric talents, as noted in the domain description.
 
 When you use your Channel Divinity, you choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect from this talent tree, your disciple spell attack roll is used.
@@ -34,8 +33,24 @@ A turned creature must spend its turns trying to move as far away from you as it
 *Prerequisite:* Channel Divinity<br>
 When an undead is hit by your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below half your number of cleric talents.
 
+### 2nd Level Spells
+*Prerequisite:* Channel Divinity and 1 Other Talent<br>
+You can prepare and cast 2nd level spells.
+
+### 3rd Level Spells
+*Prerequisite:* 2nd Level Spells and 3 Other Talents<br>
+You can prepare and cast 3rd level spells.
+
+### 4th Level Spells
+*Prerequisite:* 3rd Level Spells and 5 Other Talents<br>
+You can prepare and cast 4th level spells.
+
+### 4th Level Spells
+*Prerequisite:* 3rd Level Spells and 7 Other Talents<br>
+You can prepare and cast 5th level spells.
+
 ### Divine Intervention
-*Prerequisite:* 9 Other Cleric Talents<br>
+*Prerequisite:* 5th Level Spells<br>
 You can call on your deity to intervene on your behalf when your need is great.
 
 Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your total number of cleric talents, then your deity intervenes. The GM chooses the nature of the intervention; the effect of any disciple spell or cleric domain spell would be appropriate.
@@ -45,7 +60,7 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 If you have 20 or more cleric talents, your call for intervention succeeds automatically and no roll is required.
 
 ### Prophet
-*Prerequisite:* 19 Other Cleric Talents<br>
+*Prerequisite:* 10th Level Spells<br>
 You are the perfect servant of your God. Your Wisdom score increases by 4, and your maximum for this score also increases by 4.
 
 ## Forge Domain

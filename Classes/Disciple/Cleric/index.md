@@ -59,9 +59,29 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 
 If you have 20 or more cleric talents, your call for intervention succeeds automatically and no roll is required.
 
+### 6th Level Spells
+*Prerequisite:* 5th Level Spells and 9 Other Talents<br>
+You can prepare and cast 6th level spells.
+
+### 7th Level Spells
+*Prerequisite:* 6th Level Spells and 11 Other Talents<br>
+You can prepare and cast 7th level spells.
+
+### 8th Level Spells
+*Prerequisite:* 7th Level Spells and 13 Other Talents<br>
+You can prepare and cast 8th level spells.
+
+### 9th Level Spells
+*Prerequisite:* 8th Level Spells and 15 Other Talents<br>
+You can prepare and cast 9th level spells.
+
+### 10th Level Spells
+*Prerequisite:* 9th Level Spells and 17 Other Talents<br>
+You can prepare and cast 10th level spells.
+
 ### Prophet
-*Prerequisite:* 10th Level Spells<br>
-You are the perfect servant of your God. Your Wisdom score increases by 4, and your maximum for this score also increases by 4.
+*Prerequisite:* 19 Cleric Talents<br>
+You are the perfect servant of your God. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Forge Domain
 The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armour and powerful weapons to protect them.

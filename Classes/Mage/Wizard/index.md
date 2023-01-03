@@ -9,8 +9,13 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 ## Core Talents
 
+### Arcane Recovery
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you may choose expended spell points to recover. These spell points may have a combined value that is equal to or less than the highest level of spells that you can cast.
+
+For example, if you can cast second level spells, you can recover up to two spell points.
+
 ### 2nd Level Spells
-*Prerequisite:* Arcane Savant I and 1 Other Talent<br>
+*Prerequisite:* Arcane Recovery and 1 Other Talent<br>
 You can prepare and cast 2nd level spells.
 
 ### 3rd Level Spells

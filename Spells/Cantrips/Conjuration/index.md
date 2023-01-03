@@ -13,9 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-You hurl a bubble of acid. Choose one or two creatures that you can see within range. If you choose two, then they must be within 5 feet of each other. Make a spell attack roll vs the target's Dexterity defence. On a hit, the target takes 1d6 acid damage.
-
-This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+You hurl a bubble of acid. Choose one or two creatures that you can see within range. If you choose two, then they must be within 5 feet of each other. Make a spell attack roll vs the target's Dexterity defence. On a hit, the target takes 1d6 + your spellcasting ability modifier acid damage.
 
 ## Create Bonfire
 *Conjuration Cantrip*<br>
@@ -24,11 +22,9 @@ This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th leve
 **Components:** V, S<br>
 **Duration:** Concentration, up to 1 minute
 
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Make a spell attack roll vs the Dexterity defence of any creature in the bonfire’s space when you cast the spell. On a hit, the creature takes 1d8 fire damage. A creature must also make a Dexterity defence check when it moves into the bonfire’s space for the first time on a turn or ends its turn there. On a failure, the creature takes 1d8 fire damage.
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Make a spell attack roll vs the Dexterity defence of any creature in the bonfire’s space when you cast the spell. On a hit, the creature takes 1d8 fire damage. A creature must also make a Dexterity defence check when it moves into the bonfire’s space for the first time on a turn or ends its turn there. On a failure, the creature takes 1d8 + your spellcasting ability modifier fire damage.
 
 The bonfire ignites flammable objects in its area that aren't being worn or carried.
-
-The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ## Infestation
 **Conjuration Cantrip**<br>
@@ -37,9 +33,7 @@ The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level
 **Components:** V, S, M *(A living flea.)*<br>
 **Duration:** Instantaneous
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature that you can see within range. Make a spell attack roll vs the target's Constitution defence. On a hit, the target takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks and, if the direction rolled is blocked, the target doesn't move.
-
-The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature that you can see within range. Make a spell attack roll vs the target's Constitution defence. On a hit, the target takes 1d6 + your spellcasting ability modifier poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks and, if the direction rolled is blocked, the target doesn't move.
 
 ## Mage Hand
 *Conjuration Cantrip*<br>
@@ -54,8 +48,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
-This spell's weight limit increases by 10-pounds when you reach 5th level (20-pounds), 11th level (30-pounds), and 17th level (40-pounds).
-
 ## Poison Spray
 *Conjuration Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -63,9 +55,7 @@ This spell's weight limit increases by 10-pounds when you reach 5th level (20-po
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. Make a spell attack roll vs the creature's Constitution defence. On a hit, it takes 1d12 poison damage.
-
-This spell’s damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. Make a spell attack roll vs the creature's Constitution defence. On a hit, it takes 1d12 + your spellcasting ability modifier poison damage.
 
 ## Produce Flame
 *Conjuration Cantrip*<br>
@@ -78,8 +68,6 @@ A flickering flame appears in your hand. The flame remains there for the duratio
 
 You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 + your spellcasting ability modifier fire damage.
 
-This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-
 ## Sword Burst
 *Conjuration Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -87,6 +75,4 @@ This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th leve
 **Components:** V<br>
 **Duration:** Instantaneous
 
-You create a momentary circle of spectral blades that sweep around you. Make spell attack rolls vs all other creatures within 5 feet of you. On a hit, they take 1d6 force damage.
-
-This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+You create a momentary circle of spectral blades that sweep around you. Make spell attack rolls vs all other creatures within 5 feet of you. On a hit, they take 1d6 + your spellcasting ability modifier force damage.

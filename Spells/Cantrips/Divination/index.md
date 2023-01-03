@@ -23,5 +23,3 @@ You touch one willing creature. Once before the spell ends, the target benefits 
 **Duration:** Concentration, up to 1 round
 
 You point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
-
-This spell’s duration increases by 1 round when you reach 5th level (2 rounds), 11th level (3 rounds), and 17th level (4 rounds).

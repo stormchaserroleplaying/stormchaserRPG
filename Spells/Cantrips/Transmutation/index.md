@@ -21,8 +21,6 @@ You choose a non-magical flame that you can see within range and that fits withi
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
 
-The cube of flame that can be controlled increases by 5-feet when you reach 5th level (10-foot cube), 11th level (15-foot cube), and 17th level (20-foot cube).
-
 ## Druidcraft
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -36,8 +34,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
-The sensory effect that you can manifest increases in size by 5-feet when you reach 5th level (10-foot cube), 11th level (15-foot cube), and 17th level (20-foot cube).
-
 ## Gust
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -50,8 +46,6 @@ You seize the air and compel it to create one of the following effects at a poin
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
-The distance that a creature can be pushed increases by 5-feet when you reach 5th level (10-feet), 11th level (15-feet), and 17th level (20-feet).
-
 ## Magic Stone
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Bonus Action<br>
@@ -62,8 +56,6 @@ The distance that a creature can be pushed increases by 5-feet when you reach 5t
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
-
-This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ## Mending
 *Transmutation Cantrip*<br>
@@ -76,8 +68,6 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
 
-This size of object that can be mended increases by 1-foot when you reach 5th level (2-feet), 11th level (3-feet), and 17th level (4-feet).
-
 ## Message
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -88,8 +78,6 @@ This size of object that can be mended increases by 1-foot when you reach 5th le
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
-
-This spell's range increases by 120-feet when you reach 5th level (240-feet), 11th level (360-feet), and 17th level (480-feet).
 
 ## Mold Earth
 *Transmutation cantrip*<br>
@@ -105,8 +93,6 @@ You choose a portion of dirt or stone that you can see within range and that fit
 * If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
-
-The cube of earth that can be controlled increases by 5-feet when you reach 5th level (10-foot cube), 11th level (15-foot cube), and 17th level (20-foot cube).
 
 ## Prestidigitation
 *Transmutation Cantrip*<br>
@@ -126,8 +112,6 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-The maximum number of active effects increases by 3 when you reach 5th level (6), 11th level (9), and 17th level (12).
-
 ## Primal Savagery
 *Transmutation Cantrip*<br>
 *Casting Time:* 1 Action<br>
@@ -136,8 +120,6 @@ The maximum number of active effects increases by 3 when you reach 5th level (6)
 **Duration:** Instantaneous
 
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting ability modifier acid damage. After you make the attack, your teeth or fingernails return to normal.
-
-The spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ## Shape Water
 *Transmutation Cantrip*<br>
@@ -154,8 +136,6 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-The cube of water that can be controlled increases by 5-feet when you reach 5th level (10-foot cube), 11th level (15-foot cube), and 17th level (20-foot cube).
-
 ## Shillelagh
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Bonus Action<br>
@@ -164,8 +144,6 @@ The cube of water that can be controlled increases by 5-feet when you reach 5th 
 **Duration:** 1 Minute
 
 The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
-
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ## Thaumaturgy
 *Transmutation Cantrip*<br>
@@ -184,8 +162,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-The maximum number of active effects increases by 3 when you reach 5th level (6), 11th level (9), and 17th level (12).
-
 ## Thorn Whip
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -194,5 +170,3 @@ The maximum number of active effects increases by 3 when you reach 5th level (6)
 **Duration:** Instantaneous
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
-
-This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).

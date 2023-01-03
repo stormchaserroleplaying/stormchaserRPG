@@ -69,5 +69,5 @@ You can use a holy symbol or druidic focus (see [Adventuring Gear](https://storm
 You can cast a disciple spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
 ### Potent Cantrips
-*Prerequisite:* 5 Other Disciple Talents<br>
+*Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.

@@ -33,22 +33,6 @@ A turned creature must spend its turns trying to move as far away from you as it
 *Prerequisite:* Channel Divinity<br>
 When an undead is hit by your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below half your number of cleric talents.
 
-### 2nd Level Spells
-*Prerequisite:* Channel Divinity and 1 Other Talent<br>
-You can prepare and cast 2nd level spells.
-
-### 3rd Level Spells
-*Prerequisite:* 2nd Level Spells and 3 Other Talents<br>
-You can prepare and cast 3rd level spells.
-
-### 4th Level Spells
-*Prerequisite:* 3rd Level Spells and 5 Other Talents<br>
-You can prepare and cast 4th level spells.
-
-### 5th Level Spells
-*Prerequisite:* 4th Level Spells and 7 Other Talents<br>
-You can prepare and cast 5th level spells.
-
 ### Divine Intervention
 *Prerequisite:* 5th Level Spells<br>
 You can call on your deity to intervene on your behalf when your need is great.
@@ -59,28 +43,8 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 
 If you have 20 or more cleric talents, your call for intervention succeeds automatically and no roll is required.
 
-### 6th Level Spells
-*Prerequisite:* 5th Level Spells and 9 Other Talents<br>
-You can prepare and cast 6th level spells.
-
-### 7th Level Spells
-*Prerequisite:* 6th Level Spells and 11 Other Talents<br>
-You can prepare and cast 7th level spells.
-
-### 8th Level Spells
-*Prerequisite:* 7th Level Spells and 13 Other Talents<br>
-You can prepare and cast 8th level spells.
-
-### 9th Level Spells
-*Prerequisite:* 8th Level Spells and 15 Other Talents<br>
-You can prepare and cast 9th level spells.
-
-### 10th Level Spells
-*Prerequisite:* 9th Level Spells and 17 Other Talents<br>
-You can prepare and cast 10th level spells.
-
 ### Prophet
-*Prerequisite:* 19 Cleric Talents<br>
+*Prerequisite:* 10th Level Spells and 8 Other Cleric Talents<br>
 You are the perfect servant of your God. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Forge Domain

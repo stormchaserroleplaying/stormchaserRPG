@@ -14,38 +14,14 @@ You have learned to regain some of your magical energy by studying your spellboo
 
 For example, if you can cast second level spells, you can recover up to two spell points.
 
-### 2nd Level Spells
-*Prerequisite:* Arcane Recovery and 1 Other Talent<br>
-You can prepare and cast 2nd level spells.
+### Spell Mastery
+*Prerequisite:* 9th Level Spells and 5 Other Wizard Talents<br>
+You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-### 3rd Level Spells
-*Prerequisite:* 2nd Level Spells and 3 Other Talents<br>
-You can prepare and cast 3rd level spells.
+By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-### 4th Level Spells
-*Prerequisite:* 3rd Level Spells and 5 Other Talents<br>
-You can prepare and cast 4th level spells.
+### Signature Spells
+*Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.
 
-### 5th Level Spells
-*Prerequisite:* 4th Level Spells and 7 Other Talents<br>
-You can prepare and cast 5th level spells.
-
-### 6th Level Spells
-*Prerequisite:* 5th Level Spells and 9 Other Talents<br>
-You can prepare and cast 6th level spells.
-
-### 7th Level Spells
-*Prerequisite:* 6th Level Spells and 11 Other Talents<br>
-You can prepare and cast 7th level spells.
-
-### 8th Level Spells
-*Prerequisite:* 7th Level Spells and 13 Other Talents<br>
-You can prepare and cast 8th level spells.
-
-### 9th Level Spells
-*Prerequisite:* 8th Level Spells and 15 Other Talents<br>
-You can prepare and cast 9th level spells.
-
-### 10th Level Spells
-*Prerequisite:* 9th Level Spells and 17 Other Talents<br>
-You can prepare and cast 10th level spells.
+If you want to cast either spell at a higher level, you must expend a spell slot as normal.

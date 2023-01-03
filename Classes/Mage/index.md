@@ -53,5 +53,5 @@ The table below shows how many spell points you have to cast your mage spells of
 | 20 | 51 |
 
 ### Potent Cantrips
-*Prerequisite:* 5 Other Mage Talents<br>
+*Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.

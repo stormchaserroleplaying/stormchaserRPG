@@ -39,3 +39,6 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 ### Archmage
 *Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
 You have mastered the arcane arts. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
+
+## Arcane Traditions
+* [Bladedancing](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/Wizard/Bladedancing/)

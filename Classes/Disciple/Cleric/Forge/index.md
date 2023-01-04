@@ -7,7 +7,15 @@ grand_parent: Disciple
 # Forge Domain
 The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armour and powerful weapons to protect them.
 
-###### Forge Domain Bonus Spells Prepared
+## Domain Features
+
+### Bonus Proficiencies
+When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
+
+### Domain Spells
+As a forge cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+
+If you have a domain spell that doesn’t appear on the disciple spell list, that spell is nevertheless a disciple spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
@@ -17,15 +25,7 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 | 4th | *Fabricate, Wall of Fire* |
 | 5th | *Animate Objects, Creation* |
 
-## Bonus Proficiencies
-When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
-
-## Blessing of the Forge
-You gain the ability to imbue magic into a weapon or armour. At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
-
-Once you use this feature, you can’t use it again until you finish a long rest.
-
-## Channel Divinity: Artisan's Blessing
+### Channel Divinity: Artisan's Blessing
 *Prerequisite:* Channel Divinity<br>
 You can use your Channel Divinity to create simple items.
 
@@ -35,18 +35,21 @@ The thing you create can be something that is worth no more than 100 gp. As part
 
 The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
 
-## Soul of the Forge
-*Prerequisite:* Channel Divinity: Artisan's Blessing<br>
+## Talents
+
+### Blessing of the Forge
+You gain the ability to imbue magic into a weapon or armour. At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
+
+Once you use this feature, you can’t use it again until you finish a long rest.
+
+### Soul of the Forge
+*Prerequisite:* 3rd Level Spells and Blessing of the Forge<br>
 Your mastery of the forge grants you special abilities:
 * You gain resistance to fire damage.
 * While wearing heavy armour, you gain a +1 bonus to DR.
 
-## Divine Strike
-*Prerequisite:* Soul of the Forge<br>
-You gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 fire damage to the target. You can take this talent a second time to increase the bonus fire damage to 2d8.
-
-## Saint of Forge and Fire
-*Prerequisite:* Divine Strike<br>
+### Saint of Forge and Fire
+*Prerequisite:* 8th Level Spells and Soul of the Forge<br>
 Your blessed affinity with fire and metal becomes more powerful:
 * You gain immunity to fire damage.
 * While wearing heavy armour, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

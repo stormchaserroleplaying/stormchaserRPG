@@ -44,7 +44,7 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 If you have 20 or more cleric talents, your call for intervention succeeds automatically and no roll is required.
 
 ### Prophet
-*Prerequisite:* 10th Level Spells and 8 Other Cleric Talents<br>
+*Prerequisite:* 10th Level Spells and 6 Other Cleric Talents<br>
 You are the perfect servant of your God. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Forge Domain

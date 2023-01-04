@@ -23,5 +23,5 @@ You have a wary eye, bordering on paranoia. When you roll for initiative, you ca
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
 
-## Steady Aim
+### Steady Aim
 As a bonus action you can give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.

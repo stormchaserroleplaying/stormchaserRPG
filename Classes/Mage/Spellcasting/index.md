@@ -2,6 +2,7 @@
 title: Spellcasting Talent Tree
 parent: Mage
 grand_parent: Classes
+nav_order: 1
 ---
 
 # Spellcasting Talent Tree

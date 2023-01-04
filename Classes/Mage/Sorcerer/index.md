@@ -7,6 +7,21 @@ grand_parent: Classes
 # Sorcerer Talent Tree
 Scions of innately magical bloodlines, the chosen of deities, the spawn of monsters, pawns of fate and destiny, or simply flukes of fickle magic, sorcerers look within themselves for arcane prowess and draw forth might few mortals can imagine. Emboldened by lives ever threatening to be consumed by their innate powers, these magic-touched souls endlessly indulge in and refine their mysterious abilities, gradually learning how to harness their birthright and coax forth ever greater arcane feats. Just as varied as these innately powerful spellcasters’ abilities and inspirations are the ways in which they choose to utilise their gifts. While some seek to control their abilities through meditation and discipline, becoming masters of their fantastic birthright, others give in to their magic, letting it rule their lives with often explosive results. Regardless, sorcerers live and breathe that which other spellcasters devote their lives to mastering, and for them magic is more than a boon or a field of study; it is life itself.
 
+## Spellcasting
+
+### Spellcasting Ability
+Choose Constitution or Charisma as your spellcasting ability for your mage spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
+
+### Spells Known of 1st Level and Higher
+You know a number of mage spells equal to your spellcasting ability score. The spells must be of a level that you can cast.
+
+When your spellcasting ability score increases, you learn more mage spells of your choice. Each of these spells must be of a level that you can cast. For example, if you have the *2nd Level Spells* talent and your spellcasting ability score increases from 18 to 19, you can learn one new spell of 1st or 2nd level.
+
+Additionally, whenever you gain a sorcerer talent, you can choose one of the mage spells that you know and replace it with another spell from the mage spell list, which also must be of a level that you can cast.
+
+### Spellcasting Focus
+You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your mage spells.
+
 ## Core Talents
 
 ### Arcane Savant

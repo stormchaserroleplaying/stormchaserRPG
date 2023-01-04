@@ -52,6 +52,9 @@ The table below shows how many spell points you have to cast your mage spells of
 | 19 | 45 |
 | 20 | 51 |
 
+### Spellcasting Focus
+You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your mage spells.
+
 ### Potent Cantrips
 *Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.

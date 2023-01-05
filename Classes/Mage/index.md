@@ -29,7 +29,7 @@ You know a number of cantrips of your choice from the mage spell list equal to y
 #### Spell Points
 The table below shows how many spell points you have to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
 
-| Mage Talents | Spell Points |
+| Disciple or Mage Talents | Spell Points |
 |:------------:|:------------:|
 | 1 | 9 |
 | 2 | 12 |

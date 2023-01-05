@@ -14,7 +14,36 @@ When you take your first wizard talent, your spellcasting class feature for the 
 Choose Intelligence or Wisdom as your spellcasting ability for your mage spells. You learn your spells through dedicated study and memorization. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
 
 ### Spellbook
-You have a spellbook containing three cantrips and six 1st-level of your choice from the wizard spell list. Your spellbook is the repository of the wizard spells you know.
+You have a spellbook containing a number of cantrips equal to your spellcasting ability modifier cantrips and a number of 1st-level spells equal to 2 + your spellcasting ability modifier. These cantrips and spells must be from the mage spell list. Your spellbook is the repository of the wizard spells you know.
+
+#### Copying a Spell into the Book
+When you find a spellbook or spell scroll containing a wizard spell, you can add it to your spellbook if it is of a level for which you have spell slots and if you can spare the time to decipher and copy it. For each level of the spell, the process takes 1 hour per spell level and costs the scribing cost listed in the table below. The cost represents the fine inks that you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+| Spell Level | Scribing Time | Scribing Cost | Purchase Cost |
+|:-----------:|:-------------:|:-------------:|:-------------:|
+| Cantrip | 10 Minutes | 10 gp | 20 gp |
+| 1st | 1 hour | 20 gp | 40 gp |
+| 2nd | 2 hours | 40 gp | 80 gp |
+| 3rd | 3 hours | 80 gp | 160 gp |
+| 4th | 4 hours | 160 gp | 320 gp |
+| 5th | 5 hours | 320 gp | 640 gp |
+| 6th | 6 hours | 640 gp | 1280 gp |
+| 7th | 7 hours | 1280 gp | 2560 gp |
+| 8th | 8 hours | 2560 gp | 5120 gp |
+| 9th | 9 hours | 5120 gp | 10240 gp |
+
+#### Replacing the Book
+You can copy a spell from your own spellbook into another book (for example, if you want to make a backup copy of your spellbook). This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You only need to spend 10 minutes for each level of the copied spell. The material cost is the same.
+
+### Preparing Spells
+You prepare the list of mage spells that are available for you to cast. To do so, choose a number of mage spells of each spell level that you can cast equal to your spellcasting ability modifer.
+
+For example, if you are a mage with 3 talents, you have 15 spell points. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memorising the incantations and gestures that you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+### Learning Spells of 1st Level and Higher
+Each time that you gain the ability to cast spells of a higher spell level, you add two additional mage spells of your choice to your spellbook for free. Additionally, at this time, you may pay the scribing cost for further spells to add them to your spellbook, representing the culmination of investing in additional spell research. Each of these spells must be of a level that you can cast. On your adventures, you might find other spells that you can add to your spellbook (see above).
 
 ## Core Talents
 

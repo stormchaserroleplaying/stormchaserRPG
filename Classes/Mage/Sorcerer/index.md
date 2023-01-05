@@ -14,11 +14,11 @@ When you take your first sorcerer talent, your spellcasting class feature for th
 Choose Constitution or Charisma as your spellcasting ability for your mage spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
 
 ### Spells Known of 1st Level and Higher
-You know a number of mage spells equal to your spellcasting ability score. The spells must be of a level that you can cast.
+You know two 1st-level spells of your choice from the mage spell list.
 
-When your spellcasting ability score increases, you learn more mage spells of your choice. Each of these spells must be of a level that you can cast. For example, if you have the *2nd Level Spells* talent and your spellcasting ability score increases from 18 to 19, you can learn one new spell of 1st or 2nd level.
+Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional mage spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new spells of 1st or 2nd level.
 
-Additionally, whenever you gain a sorcerer talent, you can choose one of the mage spells that you know and replace it with another spell from the mage spell list, which also must be of a level that you can cast.
+Additionally, whenever you gain a sorcerer talent, you can choose one of the mage spells that you know and replace it with another spell from the mage spell list, which must also be of a level that you can cast.
 
 ## Core Talents
 

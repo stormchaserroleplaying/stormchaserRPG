@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-A creature you touch regains hit points equal to its hit die + your spellcasting ability modifier. This spell has no effect on undead or constructs. When rolling hit die, use the die size that the creature has the most levels with. When two die sizes are tied, take the larger.
+A creature you touch regains stamina points equal to its stamina die + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by one die for each slot level above 1st.
 

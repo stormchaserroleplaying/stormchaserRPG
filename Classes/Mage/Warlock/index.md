@@ -12,3 +12,4 @@ grand_parent: Classes
 When you take your first warlock talent, you gain the following bonus proficiencies:
 * **Armour:** Light armour
 
+## Core Talents

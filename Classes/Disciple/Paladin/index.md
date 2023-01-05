@@ -15,3 +15,9 @@ When you take your first paladin talent, you gain the following bonus proficienc
 * **Weapons:** 4 martial weapon groups
 
 ## Core Talents
+
+### Divine Health
+*Prerequisite:* 1 Other Paladin Talent<br>
+Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
+
+Additionally, the divine magic flowing through you makes you immune to disease.

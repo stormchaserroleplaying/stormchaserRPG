@@ -47,7 +47,7 @@ Some spells, such as *magic missile* and *cure wounds*, are more powerful when c
 ## Recovering Spell Points
 Finishing a long rest restores any expended spell points (see [the rules on resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
 
-When a spellcaster takes a breather or a short rest, they may spend their hit die to recover spell points, instead of using them to recover hit points. A spellcaster who chooses to do this rolls their spell point die and recovers that number of spell points.
+When a spellcaster takes a breather or a short rest, they may spend their stamina dice to recover spell points, instead of using them to recover hit points. A spellcaster who chooses to do this rolls their spell point die and recovers that number of spell points.
 
 > ## Variant: Short Rest Spell Point Recovery
 > If you wish to play a mage that normally recovers its spell points on a long rest, but you would prefer to recover your spell points on a short rest, see the **Spell Points for Short Rest Spellcasters** table below. Such classes have roughly one third as many spell points as a full caster, including expected spell point recovery via hit dice. It is expected that characters have two short rests per day.

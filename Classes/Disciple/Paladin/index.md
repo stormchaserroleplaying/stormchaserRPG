@@ -9,4 +9,9 @@ Through a select, worthy few shines the power of the divine. Called paladins, th
 
 **As long as at least half of your disciple talents are from the paladin talent tree, your stamina increases to 4× your Constitution score.**
 
+## Bonus Proficiencies
+When you take your first paladin talent, you gain the following bonus proficiencies:
+* **Armour:** Heavy armour
+* **Weapons:** 4 martial weapon groups
+
 ## Core Talents

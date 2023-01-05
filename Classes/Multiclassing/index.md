@@ -33,7 +33,7 @@ When you gain your first talent in a class other than your initial class, you ga
 
 | Class | Proficiencies Gained |
 |:-----:|:--------------------:|
-| Disciple | - |
+| Disciple | Increase your armour proficiency by 1 weight category to a maximum of medium |
 | Expert | Light armour, 3 character points |
 | Mage | - |
 | Warrior | Increase your armour proficiency by 1 weight category, 1 martial weapon group |

@@ -17,7 +17,7 @@ When you take your first paladin talent, you gain the following bonus proficienc
 ## Core Talents
 
 ### Divine Health
-*Prerequisite:* Sacred Oath<br>
+*Prerequisite:* 1 Sacred Oath Talent<br>
 Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
 
 Additionally, the divine magic flowing through you makes you immune to disease.
@@ -31,27 +31,29 @@ When you hit a creature with a melee weapon attack, you can expend spell points 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Aura of Protection
-*Prerequisite:* 2nd Level Spells and Divine Health<br>
+*Prerequisite:* 2nd Level Spells and 3 Other Paladin Talents<br>
 Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
 ### Aura of Courage
-*Prerequisite:* 3rd Level Spells and Aura of Protection<br>
+*Prerequisite:* 3rd Level Spells, Aura of Protection and 5 Other Paladin Talents<br>
 You and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
 
 ### Greater Divine Smite
-*Prerequisite:* 3rd Level Spells and Divine Smite<br>
+*Prerequisite:* 3rd Level Spells, Divine Smite and 6 Other Paladin Talents<br>
 You are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ### Cleansing Touch
-*Prerequisite:* 4th Level Spells and Divine Health<br>
+*Prerequisite:* 4th Level Spells and 8 Other Paladin Talents<br>
 You can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 ### Greater Auras
-*Prerequisite:* 5th Level Spells and Aura of Courage<br>
+*Prerequisite:* 5th Level Spells and 10 Other Paladin Talents<br>
 The range of your auras increase to 30 feet.
 
 ### Paragon
 *Prerequisite:* 5th Level Spells and 11 Other Paladin Talents<br>
 Your Strength or Dexterity (your choice) and Charisma scores increase by 2. Your maximum for these scores also increases by 2.
+
+## Sacred Oaths

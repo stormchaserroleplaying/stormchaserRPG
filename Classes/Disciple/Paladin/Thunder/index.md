@@ -32,6 +32,9 @@ If you have an oath spell that doesn’t appear on the disciple spell list, that
 ## Talents
 
 ### Oath of Thunder
+You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
+
+When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Storm Strike
 As an action, you can infuse a ranged or thrown weapon with lightning and make an attack. You create a line of lightning 5 ft wide and 60 ft long that deals 2d10 + your spellcasting ability modifier in lightning damage on a successful spell attack roll vs the target's Dexterity defence, or half that on a miss. The attack roll has advantage if the weapon attack hits.

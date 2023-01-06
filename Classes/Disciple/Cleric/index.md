@@ -13,7 +13,7 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 *Prerequisite:* 1 Other Cleric Talent<br>
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you gain additional cleric talents, as noted in the domain description.
 
-When you use your Channel Divinity, you expend 1 mana and choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect from this talent tree, your disciple spell attack roll is used.
+When you use your Channel Divinity, you expend 1 mana and choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Turn Undead
 As an action, you present your holy symbol and speak a prayer censuring the undead. Make an attack roll against each undead within 30 feet of you that can see or hear you. On a hit, the creature is turned for 1 minute or until it takes any damage.

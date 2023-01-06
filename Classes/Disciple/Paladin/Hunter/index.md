@@ -31,12 +31,15 @@ If you have an oath spell that doesn’t appear on the disciple spell list, that
 ## Talents
 
 ### Oath of the Hunter
+You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
+
+When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Hunter's Blessing
-As a bonus action, you can use your Channel Divinity to imbue your ranged weapon attacks with holy power. For the next minute you can use your Divine Smite ability when you hit a creature with a ranged weapon attack.
+As a bonus action, you can use your oath to imbue your ranged weapon attacks with holy power. For the next minute you can use your Divine Smite ability when you hit a creature with a ranged weapon attack.
 
 #### Divine Instinct
-As an action you can use your Channel Divinity to identify the telltale signs of your chosen prey. For 1 hour, you have advantage on Wisdom (Perception) or Wisdom (Survival) checks that you make to find it. Based on tracks and other traces it has left behind, you immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities. While pursuing your prey, difficult terrain doesn't slow you or your group's travel.
+As an action you can use your oath to identify the telltale signs of your chosen prey. For 1 hour, you have advantage on Wisdom (Perception) or Wisdom (Survival) checks that you make to find it. Based on tracks and other traces it has left behind, you immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities. While pursuing your prey, difficult terrain doesn't slow you or your group's travel.
 
 ### Shared Precision
 *Prerequisite:* Oath of the Hunter and Aura of Protection<br>

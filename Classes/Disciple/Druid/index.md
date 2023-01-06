@@ -10,3 +10,6 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 ## Core Talents
 
 ### Wild Shape
+
+## Druid Circles
+* [Circle of the Firethorn](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Druid/Firethorn/)

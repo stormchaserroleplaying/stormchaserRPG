@@ -57,7 +57,7 @@ Swords, axes and monsters' claws deal slashing damage. Melee attacks that deal s
 A concussive burst of sound, such as the effect of the *thunderwave* spell, deals thunder damage.
 
 ## Describing The Effects Of Damage 
-Game Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury, or knocking you unconscious.
+Game Masters describe stamina loss in different ways. When your current stamina total is half or more of your stamina maximum, you typically show no signs of injury. When you drop below half your stamina maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 stamina strikes you directly, leaving a bleeding injury, or knocking you unconscious.
 
 ## Critical Hits
 When you score a critical hit, you get a bonus to the attack's damage against the target. Roll all of the attack's damage dice and add them to the maximum possible roll for a normal attack. Then add any relevant modifiers as normal.
@@ -65,14 +65,14 @@ When you score a critical hit, you get a bonus to the attack's damage against th
 For example, if you score a critical hit with a dagger, roll 1d4+4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue's Sneak Attack feature, you add the maximum value of those dice as well.
 
 ## Massive Damage
-When a creature takes damage from a single source equal to or greater than half its hit point maximum, the attacker makes an additional attack roll with a bonus of +5 vs the creature's Constitution defence. On a hit, the creature suffers a random effect determined by a roll on the System Shock table. For example, the Constitution defence of a creature that has a hit point maximum of 30 is attacked if it takes 15 damage or more from a single source.
+When a creature takes damage from a single source equal to or greater than half its stamina maximum, the attacker makes an additional attack roll with a bonus of +5 vs the creature's Constitution defence. On a hit, the creature suffers a random effect determined by a roll on the System Shock table. For example, the Constitution defence of a creature that has a stamina maximum of 30 is attacked if it takes 15 damage or more from a single source.
 
 ###### System Shock
 
 | 1d10 | Effect |
 |:----:|:-------|
-| 1 | The creature drops to 0 hit points. |
-| 2-3 | The creature drops to 0 hit points but is stable. |
+| 1 | The creature drops to 0 stamina. |
+| 2-3 | The creature drops to 0 stamina but is stable. |
 | 4-5 | The creature is stunned until the end of its next turn. |
 | 6-7 | The creature cannot make opportunity attacks and has disadvantage on attack rolls and ability checks until the end of its next turn. |
 | 8-10 | The creature cannot make opportunity attacks until the end of its next turn. |

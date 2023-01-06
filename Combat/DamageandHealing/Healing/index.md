@@ -8,6 +8,6 @@ nav_order: 5
 # Healing
 Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. [Rest](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/) can restore a creature's stamina and magic such as a *cure wounds* spell or a *potion of healing* removes damage instantly.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
+When a creature receives healing of any kind, the stamina regained is added to its current stamina. A creature's stamina can't exceed its stamina maximum, so any stamina regained in excess of this number is lost. For example, a druid grants a ranger 8 stamina of healing. If the ranger has 50 current stamina and has a stamina maximum of 56, the ranger regains 6 stamina from the druid, not 8.
 
-A creature that has died can't regain hit points until magic such as the *revivify* spell has restored it to life.
+A creature that has died can't regain stamina until magic such as the *revivify* spell has restored it to life.

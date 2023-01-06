@@ -52,7 +52,7 @@ You regain mana when you drink this potion. The amount depends on the potion's r
 
 ###### Potions of Mana
 
-| Potion of ... | Rarity | Stamina Restored |
+| Potion of ... | Rarity | Mana Restored |
 |:-------------:|:------:|:------:|:-------:|
 | Mana | Uncommon | 2d + Spellcasting Ability Modifier |
 | Greater Mana | Rare | 4d + Spellcasting Ability Modifier |

@@ -11,7 +11,7 @@ nav_order: 6
 As a warrior, you have the following class features.
 
 ### Stamina
-Warriors have stamina equal to 4× their Constitution score. Their stamina die is a d10.
+Warriors have stamina equal to 4× their Constitution score. Their recovery die is a d10.
 
 ### Proficiencies
 **Armour:** Light armour, medium armour<br>

@@ -11,7 +11,7 @@ nav_order: 4
 As an expert, you have the following class features.
 
 ### Stamina
-Experts have stamina equal to 3× their Constitution score. Their stamina die is a d8.
+Experts have stamina equal to 3× their Constitution score. Their recovery die is a d8.
 
 ### Proficiencies
 **Armour:** Light armour<br>

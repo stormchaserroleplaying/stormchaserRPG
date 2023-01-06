@@ -11,7 +11,7 @@ nav_order: 5
 As a mage, you have the following class features.
 
 ### Stamina
-Mages have stamina equal to 2× their Constitution score. Their stamina die is a d6.
+Mages have stamina equal to 2× their Constitution score. Their recovery die is a d6.
 
 ### Proficiencies
 **Armour:** None<br>
@@ -26,11 +26,11 @@ See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcastin
 #### Cantrips
 You know a number of cantrips of your choice from the mage spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
 
-#### Spell Points
-The table below shows how many spell points you have to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
+#### Mana
+The table below shows how much mana you have to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
-| Disciple or Mage Talents | Spell Points |
-|:------------:|:------------:|
+| Disciple or Mage Talents | Mana |
+|:------------------------:|:----:|
 | 1 | 9 |
 | 2 | 12 |
 | 3 | 15 |

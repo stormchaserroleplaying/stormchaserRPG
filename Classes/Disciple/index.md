@@ -11,7 +11,7 @@ nav_order: 3
 As a disciple, you have the following class features.
 
 ### Stamina
-Disciples have stamina equal to 3× their Constitution score. Their stamina die is a d8.
+Disciples have stamina equal to 3× their Constitution score. Their recovery die is a d8.
 
 ### Proficiencies
 **Armour:** Light armour, medium armour<br>
@@ -29,11 +29,11 @@ Choose Intelligence, Wisdom or Charisma as your spellcasting ability for your di
 #### Cantrips
 You know a number of cantrips of your choice from the disciple spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.
 
-#### Spell Points
-The table below shows how many spell points you have to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend a number of spell points equal to the spell’s level. You regain all expended spell points when you finish a long rest.
+#### Mana
+The table below shows how much mana you have to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
-| Disciple or Mage Talents | Spell Points |
-|:----------------:|:------------:|
+| Disciple or Mage Talents | Mana |
+|:------------------------:|:----:|
 | 1 | 9 |
 | 2 | 12 |
 | 3 | 15 |

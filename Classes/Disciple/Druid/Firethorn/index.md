@@ -23,7 +23,7 @@ If you have a circle spell that doesn’t appear on the disciple spell list, tha
 | 5th | *Immolation, Wrath of Nature* |
 
 ### Bonus Proficiencies
-When you chose this circle, you gain proficiency with martial axes and bludgeons.
+When you choose this circle, you gain proficiency with martial axes and bludgeons.
 
 ## Talents
 
@@ -51,5 +51,5 @@ You can use this feature a number of times equal to your spellcasting ability mo
 *Prerequisite:* 7th level Spells and Burning Thorns<br>
 The fiery spirit of nature grows within you and is just below the surface, ready to provide you protection. 
 * You have immunity to fire damaage.
-* Creatures that you grapple automatically take 1d8 fire damage if you maintain the grapple at the end of your turn. Additionally, creatures that grapple you automatically take 1d8 fire damage at if they maintain they grapple at the end of their turn. 
+* Creatures that you grapple automatically take 1d8 fire damage if you maintain the grapple at the end of your turn. Additionally, creatures that grapple you automatically take 1d8 fire damage if they maintain the grapple at the end of their turn. 
 * If you drop to 0 hit points and remain unconscious, on your next turn your spirit appears as a ***fire elemental*** in an unoccupied space next to your body. This form cannot regain lost hit points and you remain in this form until your body receives healing or you fail three death saving throws. Once you use this feature, you can’t use it again until you finish a long rest.

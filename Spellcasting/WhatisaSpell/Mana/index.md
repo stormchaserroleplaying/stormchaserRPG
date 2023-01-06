@@ -1,14 +1,14 @@
 ---
-title: Spell Points
+title: Mana
 parent: What is a Spell?
 grand_parent: Spellcasting
 nav_order: 3
 ---
 
-# Spell Points
-Regardless of how many spells a caster knows or prepares, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so. Thus, the mage class's description includes a table showing how many spells of what spell level a character can use, depending how many talents they have, as quantified by a pool of spell points. For example, a mage with 3 talents has fifteen spell points.
+# Mana
+Regardless of how many spells a caster knows or prepares, they can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher-level spells are even more so. Thus, the mage and disciple class descriptions include a table showing how many spells a character can use, depending how many talents they have, as quantified by a pool of mana. For example, a mage with 3 talents has fifteen mana.
 
-The number of spell points that you have available to spend is based on your number of talents as a mage, as shown in the **Spell Points** table. Your number of talents also determines the maximum level of spell slot that you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
+The amount of mana that you have available to spend is based on your number of disciple and mage talents, as shown in the **Mana** table. Your number of talents also determines the maximum level of spell slot that you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
 When a character casts a spell, they expend a number of spell points equal to that spell's level. So when the mage from the above example casts *magic missile*, a 1st-level spell, they spend one of their fifteen spell points and have fourteen remaining. You can't reduce your spell point total to less than 0.
 
@@ -19,9 +19,9 @@ When a spellcaster casts a spell using a number of points equal to a higher leve
 
 Some spells, such as *magic missile* and *cure wounds*, are more powerful when cast at a higher level, as detailed in the spell's description.
 
-###### Spell Points
+###### Mana
 
-| Class Talents | Spell Points |
+| Disciple and Mage Talents | Mana |
 |:-------------:|:------------:|
 | 1 | 9 |
 | 2 | 12 |

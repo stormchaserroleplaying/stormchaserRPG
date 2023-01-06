@@ -21,10 +21,8 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 | Mage | Spellcasting Ability 13 |
 | Warrior |  Strength 13 or Dexterity 13 |
 
-## Stamina Multiplier and Stamina Dice
-Use the stamina multiplier of the class from which you have the most talents.
-
-Add together the Stamina Dice granted by all your classes to form your pool of Stamina Dice. If the Stamina Dice are the same die type, you can simply pool them together. If your classes give you Stamina Dice of different types, keep track of them separately.
+## Stamina Multiplier and Recovery Dice
+Use the stamina multiplier and recovery dice of the class from which you have the most talents.
 
 ## Proficiencies
 When you gain your first talent in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.

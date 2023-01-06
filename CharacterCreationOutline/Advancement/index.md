@@ -31,12 +31,8 @@ As your character goes on adventures and overcomes challenges, they gain experie
 * Expertise requires proficiency. Mastery requires expertise.
 * When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
-## Talents, Stamina and Stamina Dice
-Each time you gain a talent, you gain 1 additional Stamina Die.
-
-Character points can be spent to increase your ability scores. However, 
-
-When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your 7th-level warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18 when he reaches 8th level, then his stamina maximum then increases by 4 from 68 to 72.
+## Stamina
+Character points can be spent to increase your ability scores. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18, then his stamina maximum then increases by 4 from 68 to 72.
 
 ## Starting Wealth
 The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.

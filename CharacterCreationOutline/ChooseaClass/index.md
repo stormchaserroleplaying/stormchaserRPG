@@ -18,10 +18,10 @@ Starting off with one talent marks your character's entry into the adventuring l
 
 Record your talents on your character sheet. If you're starting with additional talents, also record these.
 
-## Stamina and Stamina Dice
+## Stamina and Recovery Dice
 Your character's stamina defines how tough your character is in combat and other dangerous situations. Your stamina is determined by your Constitution score and your class's stamina multiplier. You start with stamina equal to the product of these two numbers, as indicated in your class description. This is also your **stamina maximum**.
 
-Record your character's stamina on your character sheet. Also record the type of Stamina Die that your character uses and the number of Stamina Dice you have. After you rest, you can spend Stamina Dice to regain stamina (see [Resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
+Record your character's stamina on your character sheet. Also record the type of recovery die that your character uses. After you rest, you can spend recovery dice to regain stamina and/or mana (see [Resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
 
 ## Proficiency
 A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as an instance of advantage, or a numerical bonus that is applied to a defence or other static score, such as your passive skill.

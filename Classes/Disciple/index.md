@@ -30,39 +30,16 @@ Choose Intelligence, Wisdom or Charisma as your spellcasting ability for your di
 You know a number of cantrips of your choice from the disciple spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.
 
 #### Mana
-The table below shows how much mana you have to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
+You have 3 mana with which to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
-| Disciple or Mage Talents | Mana |
-|:------------------------:|:----:|
-| 1 | 9 |
-| 2 | 12 |
-| 3 | 15 |
-| 4 | 18 |
-| 5 | 21 |
-| 6 | 24 |
-| 7 | 27 |
-| 8 | 30 |
-| 9 | 33 |
-| 10 | 36 |
-| 11 | 36 |
-| 12 | 36 |
-| 13 | 39 |
-| 14 | 39 |
-| 15 | 39 |
-| 16 | 42 |
-| 17 | 42 |
-| 18 | 42 |
-| 19 | 45 |
-| 20 | 51 |
-
-### Preparing Spells
+#### Preparing Spells
 You prepare the list of disciple spells that are available for you to cast, choosing from the disciple spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.
 
 For example, if you are a disciple with 3 talents, you have 15 spell points. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells. If you prepare the 1st-level spell cure wounds, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of disciple spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-### Spellcasting Focus
+#### Spellcasting Focus
 You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your disciple spells.
 
 ### Potent Cantrips

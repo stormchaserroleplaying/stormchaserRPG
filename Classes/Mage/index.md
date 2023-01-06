@@ -27,30 +27,7 @@ See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcastin
 You know a number of cantrips of your choice from the mage spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
 
 #### Mana
-The table below shows how much mana you have to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
-
-| Disciple or Mage Talents | Mana |
-|:------------------------:|:----:|
-| 1 | 9 |
-| 2 | 12 |
-| 3 | 15 |
-| 4 | 18 |
-| 5 | 21 |
-| 6 | 24 |
-| 7 | 27 |
-| 8 | 30 |
-| 9 | 33 |
-| 10 | 36 |
-| 11 | 36 |
-| 12 | 36 |
-| 13 | 39 |
-| 14 | 39 |
-| 15 | 39 |
-| 16 | 42 |
-| 17 | 42 |
-| 18 | 42 |
-| 19 | 45 |
-| 20 | 51 |
+You have 3 mana with which to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
 ### Spellcasting Focus
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your mage spells.

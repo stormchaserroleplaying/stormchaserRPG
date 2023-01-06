@@ -62,3 +62,4 @@ Additionally, you can use your Wild Shape at 1st level an unlimited number of ti
 
 ## Druid Circles
 * [Circle of the Firethorn](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Druid/Firethorn/)
+* [Circle of the Menhir](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Druid/Menhir/)

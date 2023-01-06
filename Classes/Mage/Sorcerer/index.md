@@ -26,7 +26,7 @@ Additionally, whenever you gain a sorcerer talent, you can choose one of the mag
 *Prerequisite:* 1 Other Sorcerer Talent<br>
 You tap into a deep wellspring of magic within yourself. This wellspring is represented by additional spell points and the ability to create a variety of magical effects.
 
-You gain a number of additional spell points equal to the total number of sorcerer talents that you have taken.
+You gain an amount of additional mana equal to the total number of sorcerer talents that you have taken.
 
 You also gain the ability to twist your spells to suit your needs. Choose two of the following Arcane Savant options. You can use only one Arcane Savant option on a spell when you cast it, unless otherwise noted.
 

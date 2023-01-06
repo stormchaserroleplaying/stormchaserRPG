@@ -49,9 +49,9 @@ Each time that you gain the ability to cast spells of a higher spell level, you 
 
 ### Arcane Recovery
 *Prerequisite:* 1 Other Wizard Talent<br>
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you may choose expended spell points to recover. These spell points may have a combined value that is equal to or less than the highest level of spells that you can cast.
+You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you may recover expended mana equal to the highest level of spells that you can cast.
 
-For example, if you can cast second level spells, you can recover up to two spell points.
+For example, if you can cast 2nd level spells, you can recover two mana.
 
 ### Spell Mastery
 *Prerequisite:* 9th Level Spells and 5 Other Wizard Talents<br>

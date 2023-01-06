@@ -22,7 +22,7 @@ If you have a domain spell that doesn’t appear on the disciple spell list, tha
 | 4th | *Blight, Death Ward* |
 | 5th | *Antilife Shell, Raise Dead* |
 
-### Channel Divinity: Path to the Grave
+### Path to the Grave
 *Prerequisite:* Channel Divinity<br>
 You can use your Channel Divinity to mark another creature’s life force for termination.
 

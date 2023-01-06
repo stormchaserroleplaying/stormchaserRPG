@@ -25,7 +25,7 @@ If you have a domain spell that doesn’t appear on the disciple spell list, tha
 | 4th | *Fabricate, Wall of Fire* |
 | 5th | *Animate Objects, Creation* |
 
-### Channel Divinity: Artisan's Blessing
+### Artisan's Blessing
 *Prerequisite:* Channel Divinity<br>
 You can use your Channel Divinity to create simple items.
 

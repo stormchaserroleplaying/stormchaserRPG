@@ -25,7 +25,7 @@ If you have a domain spell that doesn’t appear on the disciple spell list, tha
 | 4th | *Control Water, Ice Storm* |
 | 5th | *Destructive Wave, Insect Plague* |
 
-### Channel Divinity: Destructive Wrath
+### Destructive Wrath
 *Prerequisite:* Channel Divinity<br>
 You can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 

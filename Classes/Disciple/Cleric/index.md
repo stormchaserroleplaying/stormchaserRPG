@@ -13,19 +13,9 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 *Prerequisite:* 1 Other Cleric Talent<br>
 You gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you gain additional cleric talents, as noted in the domain description.
 
-When you use your Channel Divinity, you choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect from this talent tree, your disciple spell attack roll is used.
+When you use your Channel Divinity, you expend 1 mana and choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect from this talent tree, your disciple spell attack roll is used.
 
-You can use your Channel Divinity a number of times equal to half your spellcasting ability modifier (round up). You must then finish a short or long rest to use your Channel Divinity again.
-
-| Spellcasting Ability Modifier | Channel Divinity Uses |
-|:-----------------------------:|:---------------------:|
-| Less than 3 | 1 |
-| 3 or 4 | 2 |
-| 5 | 3 |
-
-You can also expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer and regain two expended spell points.
-
-#### Channel Divinity: Turn Undead
+#### Turn Undead
 As an action, you present your holy symbol and speak a prayer censuring the undead. Make an attack roll against each undead within 30 feet of you that can see or hear you. On a hit, the creature is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.

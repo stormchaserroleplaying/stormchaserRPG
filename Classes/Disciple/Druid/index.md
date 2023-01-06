@@ -42,7 +42,7 @@ While you are transformed, the following rules apply:
 
 ### Wild Companion
 *Prerequisite:* 1 Other Druid Talent<br>
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can cast the find familiar spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can cast the *find familiar* spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to the spell level at which you cast the spell.
 

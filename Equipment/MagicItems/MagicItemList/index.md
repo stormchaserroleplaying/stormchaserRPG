@@ -17,23 +17,23 @@ If the armour normally imposes disadvantage physical ability checks, or has a St
 ## Potion of Healing
 *Potion, common*
 
-You regain hit points when you drink this potion. The number depends on the potion's rarity and your hit die, as shown in the **Potions of Healing** table. When rolling hit die, use the die size that your character has the most levels with. When two die sizes are tied, take the larger.
+You regain stamina when you drink this potion. The amount depends on the potion's rarity and your recovery die, as shown in the **Potions of Healing** table.
 
-##### Potions of Healing
+###### Potions of Healing
 
-| Potion of ... | Rarity | Hit Points Restored |
+| Potion of ... | Rarity | Stamina Restored |
 |:-------------:|:------:|:------:|:-------:|
-| Healing | Common | 2 HD + Constitution Modifier |
-| Greater Healing | Uncommon | 4 HD + Constitution Modifier |
-| Superior Healing | Rare | 8 HD + Constitution Modifier |
-| Supreme Healing | Very Rare | 10 HD + Constitution Modifier |
+| Healing | Common | 2d + Constitution Modifier |
+| Greater Healing | Uncommon | 4d + Constitution Modifier |
+| Superior Healing | Rare | 8d + Constitution Modifier |
+| Supreme Healing | Very Rare | 10d + Constitution Modifier |
 
 ## Potion of Healing, Shifty
 *Potion, common (10 gp)*
 
 When you drink this potion, roll a d20. The effect depends on your roll, as shown on the Potion Effects table.
 
-##### Potion Effects
+###### Potion Effects
 
 | d20 Roll | Potion Effect |
 |:--------:|:--------------|
@@ -44,6 +44,20 @@ When you drink this potion, roll a d20. The effect depends on your roll, as show
 | 12-16 | Heal 2 HD. |
 | 17-19 | Heal 4 HD. |
 | 20 | Heal 8 HD. |
+
+## Potion of Mana
+*Potion, uncommon*
+
+You regain mana when you drink this potion. The amount depends on the potion's rarity and your recovery die, as shown in the **Potions of Mana** table.
+
+###### Potions of Mana
+
+| Potion of ... | Rarity | Stamina Restored |
+|:-------------:|:------:|:------:|:-------:|
+| Mana | Uncommon | 2d + Spellcasting Ability Modifier |
+| Greater Mana | Rare | 4d + Spellcasting Ability Modifier |
+| Superior Mana | Very Rare | 8d + Spellcasting Ability Modifier |
+| Supreme Mana | Legendary | 10d + Spellcasting Ability Modifier |
 
 ## Scroll of Telescription
 *Scroll, uncommon.*<br>

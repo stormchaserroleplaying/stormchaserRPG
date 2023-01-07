@@ -28,9 +28,9 @@ When you choose this circle, you gain proficiency with martial axes and bludgeon
 ## Talents
 
 ### Thorn Growth
-*Prerequisite:* Wild Shape 
+*Prerequisite:* Wild Shape<br> 
 You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can cast Wild Shape to sprout these vines rather than transforming into a beast form. You gain 1d4 + 4 temporary stamina at lst level of Wild Shape and 5 additional temporary stamina for each level above 1st. While this feature is active, you gain the following benefits:
-* You have advantage on strength checks and saving throws.
+* You have advantage on strength ability checks. Creatures have disadvantage on attacks against your Strength defence, excluding melee and ranged attacks.
 * You can use a bonus action to make one attack with your thorns against a target within 5 feet of you. If the attack hits, the thorns deal piercing damage equal to 1d6 + your Strength modifier. 
 * When you grapple a creature, the target takes 1d6 piercing damage if you successfully grapple the target. 
 * You have a climbing speed equal to your walking speed.

@@ -1,5 +1,5 @@
 ---
-title: Oath of Thunder
+title: Oath of the Hunter
 parent: Paladin Talent Tree
 grand_parent: Disciple
 ---

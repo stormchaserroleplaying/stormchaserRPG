@@ -57,17 +57,17 @@ You can roll one additional weapon damage die when determining the extra damage 
 You may take this talent up to three times.
 
 ### Relentless Rage
-*Prerequisite:* Brutal Critical and Feral Instinct<br>
+*Prerequisite:* Rage and Feral Instinct<br>
 Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution defence check at the start of your next turn. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this talent after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
 ### Persistent Rage
-*Prerequisite:* Brutal Critical II and Relentless Rage<br>
+*Prerequisite:* Relentless Rage<br>
 Your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
 ### Indomitable Might
-*Prerequisite:* Brutal Critical III and Persistent Rage<br>
+*Prerequisite:* Brutal Critical III<br>
 If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
 ### Primal Champion

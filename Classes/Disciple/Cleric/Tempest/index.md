@@ -15,7 +15,7 @@ You gain proficiency with four martial weapon groups and heavy armour.
 ### Domain Spells
 As a tempest cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-If you have a domain spell that doesn’t appear on the disciple spell list, that spell is nevertheless a disciple spell for you.
+If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

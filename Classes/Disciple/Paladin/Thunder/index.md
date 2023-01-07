@@ -19,7 +19,7 @@ A paladin who takes this oath has the tenets of thunder etched deep into their m
 ### Oath Spells
 As a thunder paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-If you have an oath spell that doesn’t appear on the disciple spell list, that spell is nevertheless a disciple spell for you.
+If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

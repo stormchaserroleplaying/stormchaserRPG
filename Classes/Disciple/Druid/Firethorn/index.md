@@ -12,7 +12,7 @@ Druids who are members of the Circle of Firethorns devote themselves to being a 
 ### Circle Spells
 You learn the *Thorn Whip* cantrip. If you already know that cantrip you may learn another cantrip of your choose from the disciple spell list. Additionally, you gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-If you have a circle spell that doesn’t appear on the disciple spell list, that spell is nevertheless a disciple spell for you.
+If you have a circle spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

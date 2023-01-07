@@ -21,10 +21,10 @@ Mages have stamina equal to 2× their Constitution score. Their recovery die is 
 **Skills:** Choose 2 from Arcana, Deception, History, Insight, Intimidation, Investigation and Religion
 
 ### Spellcasting
-See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the mage spell list.
+See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the arcane spell list.
 
 #### Cantrips
-You know a number of cantrips of your choice from the mage spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
+You know a number of cantrips of your choice from the arcane spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional mage cantrips of your choice.
 
 #### Mana
 You have 3 mana with which to cast your mage spells of 1st level and higher. To cast one of these mage spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.

@@ -1,5 +1,5 @@
 ---
-title: Oath of the Hunter
+title: Oath of the Thunder
 parent: Paladin Talent Tree
 grand_parent: Disciple
 ---
@@ -9,7 +9,7 @@ The Oath of Thunder calls to paladins who wish to harness the primal power of th
 
 ## Oath Features
 
-### Tenets of the Hunter
+### Tenets of the Thunder
 A paladin who takes this oath has the tenets of thunder etched deep into their mind:
 * **Speak like Thunder.** Your voice shall be heard by all.
 * **Strike like Lightning.** Be swift, be forceful, be strong.
@@ -53,7 +53,7 @@ You and friendly creatures within 10 feet of you gain resistance to lightning an
 *Prerequisite:* Cleansing Touch and Aura of the Storm<br>
 Ranged attack rolls are made against you at disadvantage and you are immune to the paralyzed condition.
 
-### Divine Hunter
+### Thunder God
 *Prerequisite:* Greater Auras and Thunder Struck<br>
 As an action, you can mantle the powers of a tempest deity. For 1 minute, your body crackles with thunder and lightning, and your eyes glow blue, revealing the raging storm within. You gain the following benefits:
 * You are immune to lightning and thunder damage.

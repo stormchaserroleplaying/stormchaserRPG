@@ -32,7 +32,7 @@ You have plundered magical knowledge from a wide spectrum of disciplines. Your b
 You may take this talent up to five times. Each time that you take this talent, the maximum available spell level increases by 1. 
 
 ### Virtuoso
-*Prerequisite:* 15 Other Bard Talents<br>
+*Prerequisite:* 14 Other Bard Talents<br>
 You are the epitome of music and magic. Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Inspiration left, you regain a number of uses equal to your Charisma modifier.
 
 ## Bardic Colleges

@@ -17,13 +17,14 @@ When you take your first paladin talent, you gain the following bonus proficienc
 ## Core Talents
 
 ### Divine Health
-*Prerequisite:* 1 Sacred Oath Talent<br>
 Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
 
 Additionally, the divine magic flowing through you makes you immune to disease.
 
 ### Divine Smite
 *Prerequisite:* Divine Health<br>
+You can use *detect evil*, as the spell, at will. As an action, you concentrate on a single item or individual within 60 feet and determine if it is evil. Additionally, studying the target for 3 rounds determines the strength of its aura. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
+
 When you hit a creature with a melee weapon attack, you can expend spell points to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per spell point expended. The maximum number of spell points that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
 
 ### Extra Attack

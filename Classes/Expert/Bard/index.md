@@ -21,15 +21,29 @@ Additionally, you can use soothing music or oration to help revitalise your woun
 ### Jack of All Trades
 You may reroll any ability check that you make that does not benefit from proficiency, but you must take the result.
 
-### Countercharm
-*Prerequisite:* Bardic Inspiration<br>
-You gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
-
-### Magical Secrets
-*Prerequisite:* Jack of All Trades<br>
-You have plundered magical knowledge from a wide spectrum of disciplines. Your bard talents grant you [spell points](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/SpellPoints/) as though you were a mage and your spellcasting ability is Intelligence. Choose one cantrip and two spells of 1st level. You know these spells.
+Additionally, you have plundered magical knowledge from a wide spectrum of disciplines. Your bard talents grant you 3 [mana](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/Mana/) as per the mage's spellcasting feature and your spellcasting ability is Intelligence. Choose one cantrip and two spells of 1st level. You know these spells.
 
 You may take this talent up to five times. Each time that you take this talent, the maximum available spell level increases by 1. 
+
+### Jack of All Trades II
+*Prerequisite:* Jack of all Trades and 2 Other Bard Talents<br>
+Choose a second cantrip and two spells of 2nd level. You know these spells and your mana increases to 6.
+
+### Countercharm
+*Prerequisite:* Jack of all Trades II and 4 Other Bard Talents<br>
+You gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
+
+### Jack of All Trades III
+*Prerequisite:* Countercharm<br>
+Choose a third cantrip and two spells of 3rd level. You know these spells and your mana increases to 9.
+
+### Jack of All Trades IV
+*Prerequisite:* Jack of all Trades III and 8 Other Bard Talents<br>
+Choose a fourth cantrip and two spells of 4th level. You know these spells and your mana increases to 13.
+
+### Jack of All Trades V
+*Prerequisite:* Jack of all Trades IV and 11 Other Bard Talents<br>
+Choose a fifth cantrip and two spells of 5th level. You know these spells and your mana increases to 21.
 
 ### Virtuoso
 *Prerequisite:* 14 Other Bard Talents<br>

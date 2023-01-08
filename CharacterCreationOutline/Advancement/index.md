@@ -1,6 +1,6 @@
 ---
 title: Advancement
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 7
 ---
 

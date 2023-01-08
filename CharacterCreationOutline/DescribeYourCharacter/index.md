@@ -1,6 +1,6 @@
 ---
 title: 4. Describe Your Character
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 5. Choose Equipment
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 5
 ---
 

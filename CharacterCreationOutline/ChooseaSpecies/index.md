@@ -1,6 +1,6 @@
 ---
 title: 2. Choose a Species
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 2
 ---
 

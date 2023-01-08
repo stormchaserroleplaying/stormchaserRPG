@@ -1,6 +1,6 @@
 ---
 title: 1. Determine Ability Scores
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 6. Come Together
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 6
 ---
 

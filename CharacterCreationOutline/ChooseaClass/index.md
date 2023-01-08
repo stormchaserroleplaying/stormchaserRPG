@@ -1,6 +1,6 @@
 ---
 title: 3. Choose a Class
-parent: Step-by-Step Characters
+parent: Character Creation Outline
 nav_order: 3
 ---
 

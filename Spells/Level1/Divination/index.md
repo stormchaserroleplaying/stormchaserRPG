@@ -6,6 +6,21 @@ grand_parent: Spells
 
 # Divination
 
+## Detect Evil
+*1st Level Divination (Ritual)*<br>
+**Casting Time:** 1 Action<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M *(A divine focus.)*<br>
+**Duration:** Concentration, up to 10 minutes
+
+You can sense the presence of evil in a 60 foot cone in front of you. The amount of information revealed depends on how long you study a particular area or subject.
+
+* **1st Round:** Presence or absence of evil.
+* **2nd Round:** Number of evil auras (creatures, objects, or spells) in the area and the power of the most potent evil aura present.
+* **3rd Round:** The power and location of each aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
+
+If you are of good alignment and the strongest evil aura’s power is overwhelming, you are stunned for 1 round and the spell ends.
+
 ## Detect Evil and Good
 *1st Level Divination (Ritual)*<br>
 **Casting Time:** 1 Action<br>

@@ -43,5 +43,5 @@ You can rebuke a number of attacks equal to your Wisdom modifier (minimum one). 
 When you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
 ### Stormborn
-*Prerequisite:* 8th Level Spells and Thunderbolt Strike<br>
+*Prerequisite:* 9th Level Spells and Thunderbolt Strike<br>
 You have a flying speed equal to your current walking speed whenever you are not underground or indoors.

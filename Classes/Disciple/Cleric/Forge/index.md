@@ -49,7 +49,7 @@ Your mastery of the forge grants you special abilities:
 * While wearing heavy armour, you gain a +1 bonus to DR.
 
 ### Saint of Forge and Fire
-*Prerequisite:* 8th Level Spells and Soul of the Forge<br>
+*Prerequisite:* 9th Level Spells and Soul of the Forge<br>
 Your blessed affinity with fire and metal becomes more powerful:
 * You gain immunity to fire damage.
 * While wearing heavy armour, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

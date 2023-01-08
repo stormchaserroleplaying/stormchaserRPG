@@ -46,5 +46,5 @@ You gain the ability to impede death’s progress. Each round, the first time th
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Keeper of Souls
-*Prerequisite:* 8th Level Spells and Sentinel at Death's Door<br>
+*Prerequisite:* 9th Level Spells and Sentinel at Death's Door<br>
 You can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can’t do so again until the start of your next turn.

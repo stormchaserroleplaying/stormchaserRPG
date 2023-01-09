@@ -1,13 +1,13 @@
 ---
-title: Oath of the Hunter
+title: Hunter
 parent: Paladin Talent Tree
 grand_parent: Disciple
 ---
 
-# Oath of the Hunter
+# Hunter
 While all paladins are true believers, not all are the knights in shining armour with glimmering blades portrayed in legends. Some paladins prefer unconventional tactics and forms.
 
-## Oath Features
+## Branch Features
 
 ### Tenets of the Hunter
 * **Predator.** Be the hunter. Never the hunted.
@@ -15,7 +15,7 @@ While all paladins are true believers, not all are the knights in shining armour
 * **Precaution.** Strike from afar. Strike without warning.
 * **Precision.** Strike fast. Strike true.
 
-### Oath Spells
+### Bonus Spells
 As a hunter paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

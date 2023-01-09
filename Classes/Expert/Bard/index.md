@@ -49,6 +49,6 @@ Choose a fifth cantrip and two spells of 5th level. You know these spells and yo
 *Prerequisite:* 14 Other Bard Talents<br>
 You are the epitome of music and magic. Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Inspiration left, you regain a number of uses equal to your Charisma modifier.
 
-## Bardic Colleges
-* [College of Charm](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Expert/Bard/Charm/)
-* [College of Valour](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Expert/Bard/Valour/)
+## Bard Talent Tree Branches
+* [Charm](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Expert/Bard/Charm/)
+* [Valour](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Expert/Bard/Valour/)

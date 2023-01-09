@@ -1,15 +1,15 @@
 ---
-title: Grave Domain
+title: Grave
 parent: Cleric Talent Tree
 grand_parent: Disciple
 ---
 
-# Grave Domain
+# Grave
 Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
-## Domain Features
+## Branch Features
 
-### Domain Spells
+### Bonus Spells
 As a grave cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

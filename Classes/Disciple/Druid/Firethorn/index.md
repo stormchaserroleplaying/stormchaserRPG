@@ -1,15 +1,18 @@
 ---
-title: Circle of the Firethorn
+title: Firethorn
 parent: Druid Talent Tree
 grand_parent: Disciple
 ---
 
-# Circle of the Firethorn
-Druids who are members of the Circle of Firethorns devote themselves to being a true force for nature, seeking to drive back those that encroach upon, lack respect or exploit nature. These druids are not afraid to make their presence known at the front of this battle. Their ability to call upon nature and transform their body into a weapon makes them well suited for this calling. Once their foes are dispatched, they call upon the cleansing fires so that nature may reclaim its territory.
+# Firethorn
+Firethorn druids devote themselves to being a true force for nature, seeking to drive back those that encroach upon, lack respect or exploit nature. These druids are not afraid to make their presence known at the front of this battle. Their ability to call upon nature and transform their body into a weapon makes them well suited for this calling. Once their foes are dispatched, they call upon the cleansing fires so that nature may reclaim its territory.
 
-## Circle Features
+## Branch Features
 
-### Circle Spells
+### Bonus Proficiencies
+When you choose this circle, you gain proficiency with martial axes and bludgeons.
+
+### Bonus Spells
 You learn the *Thorn Whip* cantrip. If you already know that cantrip you may learn another cantrip of your choose from the disciple spell list. Additionally, you gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a circle spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
@@ -21,9 +24,6 @@ If you have a circle spell that doesn’t appear on the divine spell list, that 
 | 3rd | *Fireball, Plant Growth* |
 | 4th | *Elemental Bane, Grasping Vine* |
 | 5th | *Immolation, Wrath of Nature* |
-
-### Bonus Proficiencies
-When you choose this circle, you gain proficiency with martial axes and bludgeons.
 
 ## Talents
 

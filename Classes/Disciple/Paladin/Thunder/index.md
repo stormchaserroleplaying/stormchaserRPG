@@ -1,13 +1,13 @@
 ---
-title: Oath of the Thunder
+title: Thunder
 parent: Paladin Talent Tree
 grand_parent: Disciple
 ---
 
-# Oath of Thunder
+# Thunder
 The Oath of Thunder calls to paladins who wish to harness the primal power of the sky itself. Like a thunder storm that strikes with lightning from above, or a whirlwind of destruction that sucks up everything in its path, a Paladin who adheres to this oath becomes thunder incarnate.
 
-## Oath Features
+## Branch Features
 
 ### Tenets of the Thunder
 A paladin who takes this oath has the tenets of thunder etched deep into their mind:
@@ -16,7 +16,7 @@ A paladin who takes this oath has the tenets of thunder etched deep into their m
 * **Conduct Power.** Let your unwavering energy surge into your companions, and transform them into something greater.
 * **Be the Eye of the Storm.** Be the change you want to see.
 
-### Oath Spells
+### Bonus Spells
 As a thunder paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

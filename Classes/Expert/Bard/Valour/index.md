@@ -1,16 +1,16 @@
 ---
-title: College of Valour
+title: Valour
 parent: Bard Talent Tree
 grand_parent: Expert
 ---
 
-# College of Valour
-Bards of the College of Valour are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn’t pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
+# Valour
+Bards of valour are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn’t pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
 
-## College Features
+## Branch Features
 
 ### Bonus Proficiencies
-When you join the College of Valour, you may choose to either gain a fighting style, or gain proficiency with medium armour and 3 martial weapon groups.
+When you take your first valour talent, you may choose to either gain a fighting style, or gain proficiency with medium armour and 3 martial weapon groups.
 
 ## Talents
 

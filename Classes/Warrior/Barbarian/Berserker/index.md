@@ -1,10 +1,10 @@
 ---
-title: Path of the Berserker
+title: Berserker
 parent: Barbarian Talent Tree
 grand_parent: Warrior
 ---
 
-# Path of the Berserker
+# Berserker
 For some barbarians, rage is a means to an end, that end being violence. The path of the berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
 ## Talents

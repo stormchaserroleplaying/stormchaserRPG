@@ -85,6 +85,6 @@ If your total for a Strength check is less than your Strength score, you can use
 *Prerequisite:* 15 Other Barbarian Talents<br>
 You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-## Primal Paths
-* [Path of the Ancestral Guardian](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/AncestralGuardian/)
-* [Path of the Berseker](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/Berserker/)
+## Barbarian Talent Tree Branches
+* [Ancestral Guardian](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/AncestralGuardian/)
+* [Berseker](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/Berserker/)

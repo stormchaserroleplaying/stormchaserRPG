@@ -1,15 +1,15 @@
 ---
-title: Circle of the Menhir
+title: Menhir
 parent: Druid Talent Tree
 grand_parent: Disciple
 ---
 
-# Circle of the Menhir
+# Menhir
 Some druids study the paths of nature’s power through the nodes and ley lines that connect standing stones and megalithic circles, learning to tap into their energies.
 
-## Circle Features
+## Branch Features
 
-### Circle Spells
+### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a circle spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

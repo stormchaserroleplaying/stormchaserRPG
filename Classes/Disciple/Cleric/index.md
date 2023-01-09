@@ -58,7 +58,7 @@ Your Divine Strike damage increases to 2d8.
 *Prerequisite:* 10th Level Spells and 6 Other Cleric Talents<br>
 You are the perfect servant of your God. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
-## Divine Domains
-* [Forge Domain](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Forge/)
-* [Grave Domain](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Grave/)
-* [Tempest Domain](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Tempest/)
+## Cleric Talent Tree Branches
+* [Forge](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Forge/)
+* [Grave](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Grave/)
+* [Tempest](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Cleric/Tempest/)

@@ -1,18 +1,18 @@
 ---
-title: Tempest Domain
+title: Tempest
 parent: Cleric Talent Tree
 grand_parent: Disciple
 ---
 
-# Tempest Domain
+# Tempest
 Gods whose portfolios include the Tempest domain govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
-## Domain Features
+## Branch Features
 
 ### Bonus Proficiencies
 You gain proficiency with four martial weapon groups and heavy armour.
 
-### Domain Spells
+### Bonus Spells
 As a tempest cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

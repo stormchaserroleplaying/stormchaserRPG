@@ -1,18 +1,18 @@
 ---
-title: College of Charm
+title: Charm
 parent: Bard Talent Tree
 grand_parent: Expert
 ---
 
-## College of Charm
-While the bards who study this college may pick up more traditional arts, like music or painting, they excel the most in the art of conversation and captivation. Bards of the College of Charm spend their studies learning how read people, and how to please them. As such, most bards of this college know a little of everything, the better to entertain a wide variety of peoples and personalities. Some use their abilities for good, bringing catharsis to anyone who gives them a chance, while others use it for their own nefarious purposes; others still simply use it as a means to an end, putting their skills to use in fields where it will earn them some coin. Bards of this college are taught unique ways to bolster their party's spirits, and demoralise their enemies, above and beyond what most other colleges teach.
+# Charm
+While charm bards may pick up more traditional arts, like music or painting, they excel the most in the art of conversation and captivation. Charm bards spend their studies learning how read people, and how to please them. As such, most charm bards know a little of everything, the better to entertain a wide variety of peoples and personalities. Some use their abilities for good, bringing catharsis to anyone who gives them a chance, while others use it for their own nefarious purposes; others still simply use it as a means to an end, putting their skills to use in fields where it will earn them some coin. Charm bards are taught unique ways to bolster their party's spirits, and demoralise their enemies, above and beyond what most other colleges teach.
 
-## College Features
+## Branch Features
 
-## Bonus Proficiencies
+### Bonus Proficiencies
 When you take your first talent from the College of Charm, you gain proficiency in Deception, Insight and Persuasion. If you are already proficient in these skills, then their character point value is refunded to you to spend elsewhere.
 
-## Bonus Equipment
+### Bonus Equipment
 You have in your possession one or more trinkets from people with whom you shared a close relationship in the past. It could be a parent, relative, lover, friend, mentor, or anyone who had a strong emotional impact on your life. You use this as your focus for spellcasting.
 
 Work with your GM to determine an appropriate item or items to keep on your person. If your trinket is lost, and you do not have a replacement, you will not be able to cast spells until your are able to find a new one with enough sentimental value, at your GM's discretion.

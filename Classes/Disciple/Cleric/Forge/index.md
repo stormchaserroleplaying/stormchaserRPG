@@ -1,18 +1,18 @@
 ---
-title: Forge Domain
+title: Forge
 parent: Cleric Talent Tree
 grand_parent: Disciple
 ---
 
-# Forge Domain
+# Forge
 The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armour and powerful weapons to protect them.
 
-## Domain Features
+## Branch Features
 
 ### Bonus Proficiencies
 When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
 
-### Domain Spells
+### Bonus Spells
 As a forge cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

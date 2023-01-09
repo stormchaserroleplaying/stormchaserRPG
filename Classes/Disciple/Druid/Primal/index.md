@@ -1,15 +1,15 @@
 ---
-Title: Circle of the Primal
+Title: Primal
 parent: Druid Talent Tree
 grand_parent: Disciple
 ---
 
-# Circle of the Primal
-Those druids that have learned the ways the Primal druidism generally look to the beasts of the wild and the primordial elements for direction. Circle of the Primal druids are often found roaming their territory in the form of powerful animals, hunting and driving out trespassers. As their power grows, these druids call on the strength of the elements of earth, fire, water and wind to fuel their spells and ability to change shape.
+# Primal
+Those druids that have learned the ways of primal druidism generally look to the beasts of the wild and the primordial elements for direction. Circle of the Primal druids are often found roaming their territory in the form of powerful animals, hunting and driving out trespassers. As their power grows, these druids call on the strength of the elements of earth, fire, water and wind to fuel their spells and ability to change shape.
 
-## Circle Features
+## Branch Features
 
-### Circle Spells
+### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have an circle spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.

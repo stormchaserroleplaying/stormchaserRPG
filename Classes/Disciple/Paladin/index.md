@@ -57,6 +57,6 @@ The range of your auras increase to 30 feet.
 *Prerequisite:* 5th Level Spells and 11 Other Paladin Talents<br>
 Your Strength or Dexterity (your choice) and Charisma scores increase by 2. Your maximum for these scores also increases by 2.
 
-## Sacred Oaths
-* [Oath of the Hunter](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Hunter/)
-* [Oath of Thunder](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Thunder/)
+## Paladin Talent Tree Branches
+* [Hunter](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Hunter/)
+* [Thunder](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Thunder/)

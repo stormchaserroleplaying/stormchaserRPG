@@ -22,15 +22,14 @@ If you have an branch spell that doesn’t appear on the divine spell list, that
 | 4th | *Guardian of Nature, Stoneskin* |  
 | 5th | *Cone of Cold, Wrath of Nature* |  
 
-
 ## Talents
 
 ### Enhanced Wild Shape 
 *Prerequisite:* Wild Shape<br>
 Your devotion to the beast within allows you to become more powerful animals. Your use of Wild Shape gains the following benefits:
-	• You can use Wild Shape as a bonus action.
-	• While you are transformed by Wild Shape, you can use a bonus action to expend 1 or more mana to recover 1d8 stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
-	• You can transform into beasts with a CR maximum equal to the amount of mana expended.
+* You can use Wild Shape as a bonus action.
+* While you are transformed by Wild Shape, you can use a bonus action to expend 1 or more mana to recover 1d8 stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
+* You can transform into beasts with a CR maximum equal to the amount of mana expended.
 	
 ### Primal Strike
 *Prerequisite:* 3rd Level Spells and Improved Wild Shape<br>

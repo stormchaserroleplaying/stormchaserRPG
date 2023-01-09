@@ -12,7 +12,7 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 ## Core Talents
 
 ### Rage
-You fight with a primal ferocity; you have a number of rage points equal to your Constitution modifier. These rage points can be spent to trigger rage powers. Once you have spent a rage point, it is unavailable to you until you finish a short or long rest, at the end of which your number of rage points is reset to equal your Constitution modifer. You also gain 1 rage point whenever:
+You fight with a primal ferocity; you have a number of rage points equal to your Constitution modifier. These rage points can be spent to trigger [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/). Once you have spent a rage point, it is unavailable to you until you finish a short or long rest, at the end of which your number of rage points is reset to equal your Constitution modifer. You also gain 1 rage point whenever:
 * You hit a hostile creature with an attack for the first time that round.
 * You are hit by an attack for the first time that round.
 * You score a critical hit.
@@ -34,9 +34,9 @@ All barbarians start with the following rage power:
 > 
 > Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or been hit by an attack since then. You can also end your rage at any time (no action required).
 
-As a barbarian gains talents, they learn to use their rage in new ways. When you take your 3rd barbarian talent, you also gain a rage power. You gain another rage power for every two barbarian talents of barbarian taken after the 3rd. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once.
+As a barbarian gains talents, they learn to use their rage in new ways. When you take your 3rd barbarian talent, you also gain a [rage power](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/). You gain another [rage power](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) for every two barbarian talents of barbarian taken after the 3rd. A barbarian gains the benefits of [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once.
 
-Any barbarian who meets the powers' prerequisites can select and use rage powers. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers; for example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+Any barbarian who meets the powers' prerequisites can select and use rage powers. Totem [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) grant powers related to a theme. A barbarian cannot select from more than one group of totem [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/); for example, a barbarian who selects a beast totem [rage power](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) cannot later choose to gain any of the dragon totem [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) (any [rage power](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/RagePowers/) with "dragon totem" in its title).
 
 ### Natural Resilience
 You have innate Damage Reduction equal to your Constitution modifier. This DR does not stack with armour, but when wearing armour you may use the better of your Constitution modifier or the armour's DR.

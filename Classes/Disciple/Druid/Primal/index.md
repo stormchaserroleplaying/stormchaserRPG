@@ -1,18 +1,18 @@
 ---
-Title: Primal Branch
+Title: Circle of the Primal
 parent: Druid Talent Tree
 grand_parent: Disciple
 ---
 
-# Primal Branch
-Those druids that have learned the ways the Primal Branch of druidism generally look to the beasts of the wild and the primordial elements for direction. Primal druids are often found roaming their territory in the form of powerful animals hunting and driving out trespassers. As their power grows, these druids call on the strength of the elements of earth, fire, water and wind to fuel their spells and ability to change shape.
+# Circle of the Primal
+Those druids that have learned the ways the Primal druidism generally look to the beasts of the wild and the primordial elements for direction. Circle of the Primal druids are often found roaming their territory in the form of powerful animals, hunting and driving out trespassers. As their power grows, these druids call on the strength of the elements of earth, fire, water and wind to fuel their spells and ability to change shape.
 
-## Branch Features
+## Circle Features
 
-### Branch Spells
-You gain the following spells once you can cast spells of that level. Once you gain a branch spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+### Circle Spells
+You gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-If you have an branch spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
+If you have an circle spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
@@ -32,7 +32,7 @@ Your devotion to the beast within allows you to become more powerful animals. Yo
 * You can transform into beasts with a CR maximum equal to the amount of mana expended.
 	
 ### Primal Strike
-*Prerequisite:* 3rd Level Spells and Improved Wild Shape<br>
+*Prerequisite:* 3rd Level Spells and Enhanced Wild Shape<br>
 The claws and teeth of your beast shapes have been imbued with the divine power of nature. All attacks made while you are transformed using your Wild Shape are considered to be magical.
 
  ### Elemental Wild Shape

@@ -12,16 +12,27 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 ## Core Talents
 
 ### Rage
-In battle, you fight with primal ferocity. You have a number of rage points equal to your Constitution score. You can spend these points to fuel various rage powers. When you spend a rage point, it is unavailable until you finish a short or long rest, at the end of which you recover all of your expended rage back.
+You fight with a primal ferocity; you have a number of rage points equal to your Constitution modifier. These rage points can be spent to trigger rage powers. Once you have spent a rage point, it is unavailable to you until you finish a short or long rest, at the end of which your number of rage points is reset to equal your Constitution modifer. You also gain 1 rage point whenever:
+* You hit a hostile creature with an attack for the first time that round.
+* You are hit by an attack for the first time that round.
+* You score a critical hit.
+* You or an ally suffers a critical hit.
+* You drop below half of your stamina maximum.
+* An ally falls unconscious or dies.
 
-On your turn, you can spend a rage point to enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armour:
-* You have advantage on Strength checks.
-* When you make a melee weapon attack, you deal an additional 1d4 damage. This bonus damage die increases to a d6 at 5 barbarian talents, a d8 at 9 barbarian talents, a d10 at 13 barbarian talents and a d12 at 17 barbarian talents.
-* You have resistance to bludgeoning, piercing, and slashing damage.
+Rage points gained in these ways may exceed your rage point maximum.
 
-If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+All barbarians start with the following rage power:
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or been hit by an attack since then. You can also end your rage at any time (no action required).
+> #### Rage
+> On your turn, you can spend a rage point to enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armour:
+> * You have advantage on Strength checks.
+> * When you make a melee weapon attack, you deal an additional 1d4 damage. This bonus damage die increases to a d6 at 5 barbarian talents, a d8 at 9 barbarian talents, a d10 at 13 barbarian talents and a d12 at 17 barbarian talents.
+> * You have resistance to bludgeoning, piercing, and slashing damage.
+> 
+> If you are able to cast spells, you can’t cast them or concentrate on them while raging.
+> 
+> Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or been hit by an attack since then. You can also end your rage at any time (no action required).
 
 As a barbarian gains talents, they learn to use their rage in new ways. When you take your 3rd barbarian talent, you also gain a rage power. You gain another rage power for every two barbarian talents of barbarian taken after the 3rd. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once.
 

@@ -28,9 +28,13 @@ If you reduce the damage to 0, you can catch the missile if it is small enough f
 *Prerequisite:* Martial Arts and Dance of the Crane<br>
 Your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points equal to your Wisdom modifier.
 
-You can spend these points to fuel various chi features. You start knowing four such features: Deflect Missiles, Flurry of Blows, Patient Defense, and Step of the Wind.
+You can spend these points to fuel various chi features. You start knowing 7 such features: Deflect Missiles, Flurry of Blows, Focussed Aim, Patient Defense, Quickened Healing and Step of the Wind.
+
+If you spend 1 chi point or more as part of your action on your turn, then you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend at least 30 minutes of the rest meditating to regain your chi points.
+
+As long as you have 1 chi point remaining, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 Some of your chi features require you to make a chi attack roll versus your target's defence. This is an attack roll using your unarmed proficiency and your Wisdom bonus.
 
@@ -48,8 +52,30 @@ If you catch a missile that was shot at you, you can spend 1 chi point to make a
 #### Flurry of Blows
 Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
+#### Focussed Aim
+When you miss with an attack roll, you can spend 2 chi points to reroll your attack roll, potentially turning the miss into a hit.
+
 #### Patient Defense
 You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
 
+#### Quickened Healing
+As an action, you can spend 2 ki points and roll your recovery die. You regain an amount of stamina equal to the number rolled plus your wisdom bonus.
+
 #### Step of the Wind
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+
+### Stunning Strike
+*Prerequisite:* Chi and 4 Other Monk Talents<br>
+You can interfere with the flow of chi in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 chi point to attempt a stunning strike. If your chi attack hits the target's Constitution defence, they are stunned until the end of your next turn.
+
+### Calm in the Storm
+*Prerequisite:* Stunning Strike and 5 Other Monk Talents<br>
+Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that deals only half damage on a miss, you instead take no damage on a miss, and only half damage on a hit.
+
+Additionally, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+
+### Flying Crane
+*Prerequisite:* Calm in the Storm and 6 Other Monk Talents<br>
+When you fall, reduce any falling damage that you take by an amount equal to five times your number of monk talents.
+
+Additionally, your unarmoured speed bonus increass to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.

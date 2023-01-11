@@ -18,12 +18,6 @@ The tenets of the Oath of the Ancients have been preserved for uncounted centuri
 * **Preserve Your Own Light.** Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
 * **Be the Light.** Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
 
-A paladin who takes this oath has the tenets of thunder etched deep into their mind:
-* **Speak like Thunder.** Your voice shall be heard by all.
-* **Strike like Lightning.** Be swift, be forceful, be strong.
-* **Conduct Power.** Let your unwavering energy surge into your companions, and transform them into something greater.
-* **Be the Eye of the Storm.** Be the change you want to see.
-
 ### Bonus Spells
 As an ancients paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
@@ -53,7 +47,6 @@ As an action, you present your holy symbol, make a spell attack vs the Wisdom de
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. **((unsure if this should be changed it just removed?:: It also can't take reactions.))** For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
-
 
 ### Aura of Warding
 *Prerequisite:* Oath of the Ancients and Aura of Protection<br>

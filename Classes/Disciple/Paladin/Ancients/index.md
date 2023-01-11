@@ -5,7 +5,7 @@ grand_parent: Disciple
 ---
 
 # Ancients
-The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things — leaves, antlers, or flowers — to reflect their commitment to preserving life and light in the world.
 
 ## Branch Features
 
@@ -28,7 +28,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 | 1st | *Ensnaring Strike, Speak with Animals* |
 | 2nd | *Moonbeam, Misty Step* |
 | 3rd | *Plant Growth, Protection from Energy* |
-| 4th | *ice storm, stoneskin* |
+| 4th | *Ice storm, Stoneskin* |
 | 5th | *Commune with Nature, Tree Stride* |
 
 ## Talents
@@ -39,12 +39,12 @@ You gain the ability to channel the power of your oath, using that energy to fue
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Nature's Wrath
-As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature is restrained on a successful spell attack roll vs the target's Strength or Dexterity defence. While restrained by the vines, the creature makes a Strength or Dexterity defence check against your spell attack roll at the end of each of its turns. On a success, it frees itself and the vines vanish.
+As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature is restrained on a successful spell attack roll vs the target's Strength or Dexterity defence. While restrained by the vines, the creature makes a Strength or Dexterity defence check against your spell skill at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 #### Turn the Faithless
 As an action, you present your holy symbol, make a spell attack vs the Wisdom defence of each fey or fiend within 30 feet of you that can hear you. On a hit, the creature is turned for 1 minute or until it takes damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. **((unsure if this should be changed it just removed?:: It also can't take reactions.))** For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 

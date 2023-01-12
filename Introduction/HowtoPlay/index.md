@@ -44,16 +44,16 @@ When you need to roll dice, the rules tell you how many dice to roll of a certai
 
 The same d notation appears in the expressions "1d2", "1d3" and "1d5". To simulate the roll of 1d2, roll a d4 and divide the number rolled by 2 (round up). To simulate the roll of 1d3, roll a d6 and divide the number rolled by 2 (round up). To simulate the roll of 1d5, roll a d10 and divide the number rolled by 2 (round up).
 
-## The d20
-Does an adventurer's sword swing connect with a vampire or is it too fast and dodges the strike? Will the ogre believe an outrageous bluff? Can a character swim across a raging river? Can a character avoid the main blast of a fireball, or do they take full damage from the blaze? In cases where the outcome of an action is uncertain, the game relies on rolls of a 20-sided die, a d20, to determine success or failure.
+## The d20 Dice Pool
+Does an adventurer's sword swing connect with a vampire or is it too fast and dodges the strike? Will the ogre believe an outrageous bluff? Can a character swim across a raging river? Can a character avoid the main blast of a fireball, or do they take full damage from the blaze? In cases where the outcome of an action is uncertain, the game relies on the rolls of 20-sided dice, also knowns as d20s, to determine success or failure.
 
 Every character and monster in the game has capabilities defined by six **ability scores**. The abilities are Strength, Dexterity, Constitution, Intelligence, Wisdom and Charisma. For most characters, these typically range from 3 to 18. (Monsters might have scores as low as 1 or as high as 30.) These ability scores and the **ability modifiers** that are derived from them are the basis for almost every d20 roll that a player makes on a character's or monster's behalf.
 
 Ability checks and attack rolls are the two main kinds of d20 rolls, forming the core of the rules of the game. Both follow these simple steps.
 
-**1. Roll the die and add a modifier.** Roll a d20 and add the relevant modifier. This is typically [the modifier derived from one of the six ability scores](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/DetermineAbilityScores/).
+**1. Determine the size of the creature's dice pool.** This is generally based on skill. A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check.
 
-**2. Apply circumstantial bonuses and penalties.** A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check.
+**2. Roll the creature's pool of dice and add a modifier.** Roll one or more d20s, take the highest (or lowest) and add the relevant modifier. This is typically [the modifier derived from one of the six ability scores](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/DetermineAbilityScores/).
 
 **3. Compare the total to a target number.** If the total equals or exceeds the target number, the ability check, or attack roll is a success. Otherwise, it's a failure. The GM is usually the one who determines target numbers and tells players whether their ability checks and attack rolls succeed or fail.
 
@@ -61,8 +61,10 @@ The target number for an ability check is called a Difficulty Class (DC). The ta
 
 This simple rule governs the resolution of most tasks in play. More detailed rules for using the d20 in the game can be found under [Using Ability Scores](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/).
 
-## Advantage and Disadvantage
-Sometimes, an ability check or attack roll is modified by special situations called advantage and disadvantage. Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll an additional d20 when you make the roll. If you have advantage, use the highest of the rolls and, if you have disadvantage, use the lower roll. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+## +1d and -1d
+Sometimes, an ability check or attack roll is modified by special situations that add or remove dice from your d20 dice pool. These modifiers are referred to as +1d and -1d. +1d reflects a positive circumstance surrounding a d20 roll, while -1d reflects the opposite. A modifier of +1d adds an additional d20 to your dice pool when you make the roll benefiting from that bonus. A modifier of -1d removes a d20 from your dice pool when you make the roll suffering that penalty.
+
+If the total number of dice in your pool is positive, use the highest of the rolls and, if the total number of dice in your pool drops below 1, use the lower roll. For example, if your dice pool would be reduced to 0, roll 2d20 and take the lower of the two. If you then roll a 17 and a 5, you use the 5. If you instead have 2 dice in your pool and roll those numbers, you use the 17.
 
 If you have advantage on a damage roll, you similarly roll all the dice twice and take the better result.
 

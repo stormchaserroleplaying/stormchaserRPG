@@ -13,7 +13,6 @@ When you take your first druid talent, you learn Druidic, the secret language of
 ## Core Talents
 
 ### Wild Shape
-*Prerequisite:* 1 Other Druid Talent<br>
 You can use your action to expend 1 or more mana and magically assume the shape of a beast that you have seen before.
 
 The amount of mana expended determines the maximum CR of the beasts that you can transform into (as shown in the table below) and the maximum amount of mana that you may spend on a single wildshape is equal to the maximum level of spells that you can cast.

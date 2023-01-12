@@ -5,7 +5,7 @@ grand_parent: Disciple
 ---
 
 # Warden
- Wardens are found roaming the wilds in search of creatures - typically animals or lost fey - that are in need of their protection, be it from monsters or civilization. Though happy with the solitude of the wild, these druids may also found closer to cities and towns so that they may guide and educate those societies in how to live in balance with nature. 
+ Wardens are found roaming the wilds in search of creatures - typically animals or lost fey - that are in need of their protection, be it from monsters or civilisation. Though happy with the solitude of the wild, these druids may also found closer to cities and towns so that they may guide and educate those societies in how to live in balance with nature. 
 
 Wardens have the power to call upon the very spirits of nature to assist them in safeguarding their charges. Eventually, these druids grow in power enough to summon powerful creatures to assist them and their allies. 
 
@@ -26,7 +26,6 @@ If you have an branch spell that doesn’t appear on the divine spell list, that
 
 ### Woodland Voice
 You learn the Sylvan language. You also have a way of speaking with beasts in which they can understand you, and you can easily interpret their noises and motions. This ability does not mean any beast to speak with is friendly to you.
-
 
 ## Talents
 
@@ -54,11 +53,11 @@ Beasts and fey that you conjure are more resilient than normal. Any beast or fey
 	• The creature appears with more stamina than normal: increased stamina equal to 8 + your spellcasting modifier.
 	• The damage caused by its natural attacks or weapons are considered magical.
 
- ### Spiritual Balm
+### Spiritual Balm
 *Prerequisite:* 5th Level Spells and Empowered Allies<br>
 The aura from your Sprits of the Wild provides extra protection to those creatures that you summon. Any fey or beast that ends its turn in the aura gain stamina up to an amount equal 3 + your spellcasting modifier.
 
- ### Protect the Keeper
+### Protect the Keeper
 *Prerequisite:* 7th Level Spells and Guardian Spirit<br>
 In your last breath you call for aid from those you have protected. If you are reduced to 0 stamina or are incapacitated against your will, you gain the benefits of conjure animals as if cast using 9 mana, though requiring no concentration. Four CR 2 or lower beast appear within 20 feet of you. Their duty is to protect you from harm and attack your enemies. 
 

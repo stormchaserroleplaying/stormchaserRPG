@@ -21,8 +21,8 @@ You have the reflexes of one who can see things before they happen, granting the
 
 ## Fanaticᴮᴳ
 Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:
-* When you score a critical hit with an attack roll or reduce a creature to 0 hit points, you can make one weapon attack as a bonus action.
-* Whenever a creature you can see within 30 feet is reduce to 0 hit points, you go into a fervour gaining temporary hit points equal to 1d4 + your Constitution modifier.
+* When you score a critical hit with an attack roll or reduce a creature to 0 stamina, you can make one weapon attack as a bonus action.
+* Whenever a creature you can see within 30 feet is reduce to 0 stamina, you go into a fervour gaining temporary stamina equal to 1d4 + your Constitution modifier.
 
 ## Fighting Master
 You've mastered a particular style of fighting. Choose [one of the fighting mastery options](http://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/). You can take this feat multiple times.

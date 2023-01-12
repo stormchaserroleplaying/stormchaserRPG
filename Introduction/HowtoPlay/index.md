@@ -66,9 +66,9 @@ Sometimes, an ability check or attack roll is modified by special situations tha
 
 If the total number of dice in your pool is positive, use the highest of the rolls and, if the total number of dice in your pool drops below 1, use the lower roll. For example, if your dice pool would be reduced to 0, roll 2d20 and take the lower of the two. If you then roll a 17 and a 5, you use the 5. If you instead have 2 dice in your pool and roll those numbers, you use the 17.
 
-If you have advantage on a damage roll, you similarly roll all the dice twice and take the better result.
+If you have +1d on a damage roll, you similarly roll all the dice twice and take the better result.
 
-More detailed rules for advantage and disadvantage can be found [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage/).
+More detailed rules for +1d and -1d can be found [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage/).
 
 ## Specific Beats General
 This game has rules that govern how the game plays. Nevertheless, many species traits, class features, spells, magical items, monster abilities and other game elements break the general rules in some way, creating an exception to how the rest of the game works. Remember this: if a specific rule contradicts a general rule, the specific rule wins.

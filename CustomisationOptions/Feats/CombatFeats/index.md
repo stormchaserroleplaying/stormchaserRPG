@@ -79,7 +79,7 @@ You have the strength that legends tell of, granting the following benefits:
 *Prerequisite: Constitution 20 or +2 species bonus to Constitution*<br>
 You have the fortitude often attributed to gods, granting the following benefits:
 * You gain proficiency in Constitution defence. If you are already proficient in Constitution defence, then you instead gain expertise in it.
-* Enhanced effects, such as spells or healing potions, that would restore hit points to you can’t restore an amount less than half your level + your Constitution modifier. If this amount would exceed that maximum amount of hit points that effect could restore, you instead take that effect’s maximum.
+* Enhanced effects, such as spells or healing potions, that would restore stamina to you can’t restore an amount less than half your level + your Constitution modifier. If this amount would exceed that maximum amount of stamina that effect could restore, you instead take that effect’s maximum.
 * You can add your Constitution modifier to death saving throws you make.
 
 ## Weapon Masterᴮᴳ

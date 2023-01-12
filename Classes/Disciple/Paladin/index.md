@@ -62,7 +62,7 @@ Your Strength or Dexterity (your choice) and Charisma scores increase by 2. Your
 * [Conquest](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Conquest/)
 * [Crown](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Crown/)
 * [Devotion](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Devotion/)
-* [GLory](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/GLory/)
+* [Glory](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/GLory/)
 * [Hunter](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Hunter/)
 * [Oathbreaker](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Oathbreaker/)
 * [Redemption](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Redemption/)

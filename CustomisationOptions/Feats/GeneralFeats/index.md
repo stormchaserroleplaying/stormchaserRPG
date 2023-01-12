@@ -41,7 +41,7 @@ You have the presence of the most affluent of leaders, granting the following be
 * As an action, you can attempt to distract up to five creatures you can see within 30 feet of you. Make a Charisma attack roll vs the creatures' Wisdom defences. Any creature immune to being charmed is unaffected. If you or your companions are fighting a creature, you have disadvantage on the attack roll. On a hit, for the next minute, a creature has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the effect ends or until the target can no longer see or hear you. The feature ends early if you are incapacitated.
 
 ## The Taste of Death
-You gain strength after eating the heart of a defeated enemy. As part of a short rest, you can eat the heart of one living creature that you helped defeat within the last hour. The creature must have an edible heart. Eating the heart requires 10 minutes of tearing it free, chewing, and swallowing, after which you heal one of your own rolled Hit Die for each Hit Die of the defeated creature.
+You gain strength after eating the heart of a defeated enemy. As part of a short rest, you can eat the heart of one living creature that you helped defeat within the last hour. The creature must have an edible heart. Eating the heart requires 10 minutes of tearing it free, chewing, and swallowing, after which you heal one of your own rolled Recovery Die for each Recovery Die of the defeated creature.
 
 ## Dungeon Delverᴮᴳ
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:

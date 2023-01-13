@@ -1,7 +1,6 @@
 ---
 title: Expert
 parent: Classes
-has_children: true
 nav_order: 4
 ---
 
@@ -21,3 +20,6 @@ Experts have stamina equal to 3× their Constitution score. Their recovery die i
 **Skills:** Choose any 3 and upgrade 2 of your skill proficiencies to expertise
 
 An expert begins play with 2 additional character points to spend.
+
+# Talents
+Experts may take talents from the bard, ranger and rogue talent trees.

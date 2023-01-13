@@ -1,7 +1,6 @@
 ---
 title: Mage
 parent: Classes
-has_children: true
 nav_order: 5
 ---
 
@@ -35,3 +34,6 @@ You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplayi
 ### Potent Cantrips
 *Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.
+
+# Talents
+Disciples may take talents from the sorcerer, warlock, wizard and spellcasting talent trees.

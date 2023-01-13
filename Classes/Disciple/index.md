@@ -1,7 +1,6 @@
 ---
 title: Disciple
 parent: Classes
-has_children: true
 nav_order: 3
 ---
 
@@ -45,3 +44,6 @@ You can use a holy symbol or druidic focus (see [Adventuring Gear](https://storm
 ### Potent Cantrips
 *Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.
+
+# Talents
+Disciples may take talents from the cleric, druid, paladin and spellcasting talent trees.

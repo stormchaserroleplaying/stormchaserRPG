@@ -54,7 +54,7 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 ## Durableᴮᴳ
 Hardy and resilient, you gain the following benefits:
 * Increase your Constitution score by 1, to a maximum of 20.
-* When you roll a Recovery Die to regain Stamina, the minimum number of Stamina regain from the roll equals twice your Constitution modifier (minimum of 2).
+* When you roll a recovery die to regain stamina, the minimum amount of stamina that you regain from the roll is equal to twice your Constitution modifier (minimum of 2).
 
 ## Force of Personalityᴮᴳ
 Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will.
@@ -76,7 +76,7 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 ## Inspiring Leaderᴮᴳ
 *Prerequisite: Charisma 13 or higher*
 
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary stamina equal to your level + your Charisma modifier. A creature can’t gain temporary stamina from this feat again until it has finished a short or long rest.
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature gains temporary stamina equal to your Charisma score. A creature can’t gain temporary stamina from this feat again until it has finished a short or long rest.
 
 ## Keen Mindᴮᴳ
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.

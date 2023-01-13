@@ -71,7 +71,7 @@ Your skills at bartering have granted you the following benefits:
 ## Healerᴮᴳ
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 * When you use a healer’s kit to stabilize a dying creature, that creature also regains 1 stamina.
-* As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 stamina to it, plus additional stamina equal to the creature’s recovery die maximum. The creature can’t regain stamina from this feat again until it finishes at least a short or long rest.
+* As an action, you can spend one use of a healer’s kit to tend to a creature, restoring its stamina. The creature may roll two recovery dice and add its Constitution modifier to the result. The stamina that the creature recovers is equal to this total. The creature can’t regain stamina from this feat again until it finishes at least a short or long rest.
 
 ## Inspiring Leaderᴮᴳ
 *Prerequisite: Charisma 13 or higher*

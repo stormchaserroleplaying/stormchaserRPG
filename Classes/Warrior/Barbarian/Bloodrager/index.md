@@ -11,68 +11,50 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 
 ### Bloodcasting
 *Prerequisite:* Rage<br>
-At 3rd level, you gain the ability to cast spells and concentrate on them, even while raging. While raging, you can only cast and concentrate on your bloodrager spells; spells from other classes cannot be cast in this state.
+You gain the ability to cast spells and concentrate on them, even while raging. You may take talents from the Spellcasting talent tree, treating your barbarian talents as mage talents for the purposes of the prerequisites.
 
 #### Spellcasting Ability
-Charisma is your spellcasting ability for your sorcerer spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
-
-    Spell save DC = 8 + your proficiency bonu + your Charisma modifier
-
-    Spell attack modifier = your proficiency bonus + your Charisma modifier
+Choose Constitution or Charisma as your spellcasting ability for your mage spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever an arcane spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
 
 #### Cantrips
-You learn two cantrips of your choice from the sorcerer spell list. At 10th level you learn another sorcerer cantrip.
+You know a number of cantrips of your choice from the arcane spell list equal to your spellcasting ability modifier. If your Charisma modifier increases, then you learn additional mage cantrips of your choice.
 
-#### Spells Known
-You know a number of 1st-level sorcerer spells equal to your charisma modifier + one third of your barbarian level, rounded down (minimum of one spell). All but one of your spells must be chosen from the abjuration and evocation spells on the sorcerer spell list.<br>
-When you learn more sorcerer spells of 1st level or higher, each of these spells must also be an abjuration or evocation spell from the sorcerer spell list, and must be of a level for which you have spell slots.<br>
-The spells you learn at 6th, 12th, and 18th level can come from any school of magic.<br>
-Whenever you gain a level in this class, you can replace one of the sorcerer spells you know with another spell of your choice from the sorcerer spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 3rd, 6th, 12th, or 18th level from any school of magic.
+#### Mana
+You have 3 mana with which to cast your arcane spells of 1st level and higher. To cast one of these arcane spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
-#### Spell Slots
-The Bloodrager Spellcasting table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the arcane spell list.
+
+Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional arcane spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new spells of 1st or 2nd level.
+
+Additionally, whenever you gain a barbarian talent, you can choose one of the arcane spells that you know and replace it with another spell from the arcane spell list, which must also be of a level that you can cast.
 
 #### Spellcasting Focus
-You can use a simple or martial melee weapon as a spellcasting focus for your bloodrager spells.
-
-**Bloodrager Spellcasting**
-| Barbarian Level | Cantrips Known | 1st | 2nd | 3rd | 4th |
-|:---------------:|:--------------:|:---:|:---:|:---:|:---:|
-| 3rd | 2 | 2 | - | - | - |
-| 4th | 2 | 3 | - | - | - |
-| 5th | 2 | 3 | - | - | - |
-| 6th | 2 | 3 | - | - | - |
-| 7th | 2 | 4 | 2 | - | - |
-| 8th | 2 | 4 | 2 | - | - |
-| 9th | 2 | 4 | 2 | - | - |
-| 10th | 3 | 4 | 3 | - | - |
-| 11th | 3 | 4 | 3 | - | - |
-| 12th | 3 | 4 | 3 | - | - |
-| 13th | 3 | 4 | 3 | 2 | - |
-| 14th | 3 | 4 | 3 | 2 | - |
-| 15th | 3 | 4 | 3 | 2 | - |
-| 16th | 3 | 4 | 3 | 3 | - |
-| 17th | 3 | 4 | 3 | 3 | - |
-| 18th | 3 | 4 | 3 | 3 | - |
-| 19th | 3 | 4 | 3 | 3 | 1 |
-| 20th | 3 | 4 | 3 | 3 | 1 |
+You can use a simple or martial melee weapon as a spellcasting focus for your arcane spells.
 
 ### Bloodline
-At 3rd level, the power that lies dormant in your blood awakens.<br>
-Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.<br>
+The power that lies dormant in your blood awakens.
+
+Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.
+
 Pick one bloodline. Once made, this choice cannot be changed. Bloodline abilities, with exception of languages, can only be used when raging.
 
 #### Abyssal
-Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn't manifest in all of your kin, in those moments when you’re bloodraging, you embody its terrifying presence.<br>
-You can speak, read, and write Abyssal.<br>
-Furthermore, you grow claws while raging. These count as two light finesse weapons that deal 1d6 points of slashing damage each. At 6th level, these claws are considered magic weapons for the purpose of overcoming damage resistance. At 10th level, these claws become flaming weapons, which deal an additional 1d6 points of fire damage on a hit.<br>
-Additionally, when you rage you can choose to grow one size category larger than your base size, as Enlarge/Reduce.<br>
+Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn't manifest in all of your kin, in those moments when you’re bloodraging, you embody its terrifying presence.
+
+You can speak, read, and write Abyssal.
+
+Furthermore, you grow claws while raging. These count as two light finesse weapons that deal 1d6 points of slashing damage each. At 6th level, these claws are considered magic weapons for the purpose of overcoming damage resistance. At 10th level, these claws become flaming weapons, which deal an additional 1d6 points of fire damage on a hit.
+
+Additionally, when you rage you can choose to grow one size category larger than your base size, as Enlarge/Reduce.
 
 #### Divine
-Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being.<br>
-Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.<br>
+Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being.
+
+Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+
 In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. You may not replace this spell when you level up.<br>
-You can also speak, read and write either celestial or infernal.<br>
+You can also speak, read and write either celestial or infernal.
 
 | Affinity | Spell |
 |:--------:|:-----:|
@@ -84,13 +66,16 @@ You can also speak, read and write either celestial or infernal.<br>
 
 #### Draconic
 At some point in your family’s history, a dragon interbred with your bloodline. Now, the sublime monster’s ancient power fuels your bloodrage.<br>
-You can speak, read, and write Draconic.<br>
-Furthermore, as magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armour, your DR equals 3 + your Constitution modifier.<br>
+You can speak, read, and write Draconic.
+
+Furthermore, as magic flows through your body, it causes physical traits of your dragon ancestors to emerge. Parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armour, your DR equals 3 + your Constitution modifier.
 
 #### Elemental
-The power of the elements resides in you, and at times you can hardly control its fury. This influence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to a powerful elemental force or cataclysm.<br>
-You can speak, read, and write Primordial.<br>
-Furthermore, choose one element.<br>
+The power of the elements resides in you, and at times you can hardly control its fury. This influence comes either from an elemental outsider in your family history or from a moment when you or your ancestors were exposed to a powerful elemental force or cataclysm.
+
+You can speak, read, and write Primordial.
+
+Furthermore, choose one element.
 
 | Element | Damage Type |
 |:--------:|:-----:|
@@ -102,9 +87,11 @@ Furthermore, choose one element.<br>
 You gain resistance to damage of the associated type. In addition, whenever you start casting a spell of 1st level or higher that deals this kind of damage, magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take elemental damage equal to half your barbarian level.
 
 #### Giant
-You discover innate magical abilities within yourself that are based on your giant heritage.<br>
-You can speak, read, and write Giant.<br>
-Select one of the giant types from the Mark of the Ordning table. At 3rd level, you learn a cantrip and a 1st level spell. At 7th level, you learn a 2nd level spell. These spells are associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your sorcerer spells known.<br>
+You discover innate magical abilities within yourself that are based on your giant heritage.
+
+You can speak, read, and write Giant.
+
+Select one of the giant types from the Mark of the Ordning table. At 3rd level, you learn a cantrip and a 1st level spell. At 7th level, you learn a 2nd level spell. These spells are associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your sorcerer spells known.
 
 **Mark of the Ordning**
 | Giant | Cantrips | 1st Level Spell | 2nd Level Spell |
@@ -122,26 +109,29 @@ You have darkvision with a range of 60 feet even when not raging. If you already
 In addition, you have resistance to cold damage and your melee attacks deals an additional rage die of cold damage.<br>
 
 ### Blood Sanctuary
-At 6th level, due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have advantage on saving throws against spells that you or an ally casts.
+Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have advantage on saving throws against spells that you or an ally casts.
 
 ### Bloodrage
-Starting at 10th level, upon entering a rage, you can apply the effects of a spell you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes a spell slot, as if you had cast the spell; you must have a spell slot available to take advantage of this effect.
+Upon entering a rage, you can apply the effects of a spell you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes mana as if you had cast the spell; you must have mana available to take advantage of this effect.
 
 ### Grater Bloodline
-At 14th level, your connection to your bloodline is strengthened. You gain additional abilities when raging.
+Your connection to your bloodline is strengthened. You gain additional abilities when raging.
 
 #### Abyssal
 When you hit in melee, you can choose to use your reaction to exude a burst of hellish flames in a 10-foot radius centered on you. All creatures within 10 feet of you must make a Dexterity saving throw against your sorcerer spell save DC. Each creatures takes 2d10 + your Charisma modifier in fire damage on a failed save, or half as much damage on a successful one.
 
 #### Divine
 When you rage, you manifest a pair of spectral wings on your back, gaining a flying speed equal to your walking speed.<br>
-The affinity you chose for your the source of your divine power determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.<br>
-Additionally, as a bonus action you can emit a pulse of divine energy, casting your affinity bonus spell on all creatures adjacent to you, at the cost of a single spell slot.<br>
+The affinity you chose for your the source of your divine power determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
+
+Additionally, as a bonus action you can emit a pulse of divine energy, casting your affinity bonus spell on all creatures adjacent to you, at the cost of a single spell slot.
 
 #### Draconic
-When you rage, you sprout a pair of dragon wings from your back, gaining a flying speed equal to your walking speed.<br>
-You can't manifest your wings while wearing armour unless the armour is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.<br>
-As a bonus action, you can beat your wings. Each creature adjacent to you must succeed on a Dexterity saving throw against a DC of 8 + your proficiency modifier + your Strength modifer, or take 1 + your Strength modifier in bludgeoning damage and be knocked prone.<br>
+When you rage, you sprout a pair of dragon wings from your back, gaining a flying speed equal to your walking speed.
+
+You can't manifest your wings while wearing armour unless the armour is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+As a bonus action, you can beat your wings. Each creature adjacent to you must succeed on a Dexterity saving throw against a DC of 8 + your proficiency modifier + your Strength modifer, or take 1 + your Strength modifier in bludgeoning damage and be knocked prone.
 
 #### Elemental
 When you rage, you gain special movement based on your element.
@@ -156,9 +146,11 @@ When you rage, you gain special movement based on your element.
 Additionally, you can briefly transform your body and any possessions you are carrying into pure elemental form, allowing you to fit through gaps as small as one inch.
 
 #### Giant
-You gain the ability to channel the souls of your ancestors into your physical form.<br>
+You gain the ability to channel the souls of your ancestors into your physical form.
+
 When you rage you can increase your size by one category as Enlarge/Reduce. Additionally, each round you receive 1d12 + your Constitution modifier in temporary hit points. When you shove a smaller creature, you push it 10 ft away from you, and when you grapple a smaller creature you can use it as an improvised melee or thrown weapon, dealing bludgeoning damage equal to the creature's hit die, plus your Strength modifier. Both the creature you are using as a weapon and any creature you hit with them take this damage.
 
 #### Shadow
-You see normally in dim light and darkness, both magical and non-magical, as though it were brightly lit.<br>
+You see normally in dim light and darkness, both magical and non-magical, as though it were brightly lit.
+
 Furthermore, you gain the ability to step from one shadow into another. When you are in dim light or darkness, as a bonus action, you can magically teleport to an unoccupied space you can see that is also in dim light or darkness. You cannot use this ability if your bloodrage is the only source of dim light or darkness.

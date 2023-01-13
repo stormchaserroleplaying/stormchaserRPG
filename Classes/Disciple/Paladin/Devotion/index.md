@@ -12,11 +12,11 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 ### Tenets of Devotion 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
-* **Honesty.* Don't lie or cheat. Let your word be your promise.
-* **Courage* Never fear to act, though caution is wise.
-* **Compassion.* Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
-* **Honor.* Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
-* **Duty.* Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+* **Honesty.** Don't lie or cheat. Let your word be your promise.
+* **Courage** Never fear to act, though caution is wise.
+* **Compassion.** Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+* **Honor.** Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+* **Duty.** Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
 ### Bonus Spells
 As a devotion paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

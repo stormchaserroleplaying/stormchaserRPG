@@ -12,12 +12,11 @@ Paladins who follow the Watchers' oath are ever vigilant in spotting the influen
 ## Branch Features
 
 ### Tenets of the Watchers
-
 A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms from otherworldly threats.
 
-* **Vigilance.* The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
-* **Loyalty.* Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
-* **Discipline.* You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
+* **Vigilance.** The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
+* **Loyalty.** Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
+* **Discipline.** You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
 
 ### Bonus Spells
 As a watchers paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

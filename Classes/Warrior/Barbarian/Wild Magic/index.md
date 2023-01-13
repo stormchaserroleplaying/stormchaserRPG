@@ -1,5 +1,5 @@
 ---
-title: Wild magic
+title: Wild Magic
 parent: Barbarian Talent Tree
 grand_parent: Warrior
 ---

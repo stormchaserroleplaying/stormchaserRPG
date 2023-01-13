@@ -51,7 +51,7 @@ You are an expert in guiding and advising your companions on how to succeed in t
 
 You can cast *cure wounds* and *lesser restoration* at a range of 60-feet.
 
-In addition, when you heal another creature, you can also choose to grant it an inspiration die, which it can roll for +1d on any one ability check, attack roll, or defence that it makes.
+In addition, when you heal another creature, you can also choose to grant it an inspiration die, which it can roll for +1d on any one ability check, attack roll, or defence check that it makes.
 
 ### Divine Hunter
 *Prerequisite:* Greater Auras and Back in the Fight<br>

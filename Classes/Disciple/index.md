@@ -27,10 +27,10 @@ See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcastin
 Choose Intelligence, Wisdom or Charisma as your spellcasting ability for your disciple spells. The power of your spells comes from your devotion and attunement to a higher power. You use your chosen ability whenever a disciple spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a disciple spell that you cast.
 
 #### Cantrips
-You know a number of cantrips of your choice from the divine spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional disciple cantrips of your choice.
+You know a number of cantrips of your choice from the divine spell list equal to your spellcasting ability modifier. If your spellcasting ability modifier increases, then you learn additional divine cantrips of your choice.
 
 #### Mana
-You have 3 mana with which to cast your disciple spells of 1st level and higher. To cast one of these disciple spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
+You have 3 mana with which to cast your divine spells of 1st level and higher. To cast one of these divine spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
 #### Preparing Spells
 You prepare the list of disciple spells that are available for you to cast, choosing from the divine spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.

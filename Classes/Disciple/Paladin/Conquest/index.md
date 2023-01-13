@@ -12,7 +12,6 @@ Some of these paladins go so far as to consort with the powers of the Nine Hells
 ## Branch Features
 
 ### Tenets of Conquest
-
 A paladin who takes this oath has the tenets of conquest seared on the upper arm.
 
 * **Douse the Flame of Hope.** It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.

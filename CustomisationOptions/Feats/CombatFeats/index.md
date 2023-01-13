@@ -21,8 +21,8 @@ You have the reflexes of one who can see things before they happen, granting the
 
 ## Fanaticᴮᴳ
 Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:
-* When you score a critical hit with an attack roll or reduce a creature to 0 hit points, you can make one weapon attack as a bonus action.
-* Whenever a creature you can see within 30 feet is reduce to 0 hit points, you go into a fervour gaining temporary hit points equal to 1d4 + your Constitution modifier.
+* When you score a critical hit with an attack roll or reduce a creature to 0 stamina, you can make one weapon attack as a bonus action.
+* Whenever a creature you can see within 30 feet is reduce to 0 stamina, you go into a fervour gaining temporary stamina equal to 1d4 + your Constitution modifier.
 
 ## Fighting Master
 You've mastered a particular style of fighting. Choose [one of the fighting mastery options](http://stormchaserroleplaying.com/stormchaserRPG/CustomisationOptions/FightingStyles/). You can take this feat multiple times.
@@ -79,7 +79,7 @@ You have the strength that legends tell of, granting the following benefits:
 *Prerequisite: Constitution 20 or +2 species bonus to Constitution*<br>
 You have the fortitude often attributed to gods, granting the following benefits:
 * You gain proficiency in Constitution defence. If you are already proficient in Constitution defence, then you instead gain expertise in it.
-* Enhanced effects, such as spells or healing potions, that would restore hit points to you can’t restore an amount less than half your level + your Constitution modifier. If this amount would exceed that maximum amount of hit points that effect could restore, you instead take that effect’s maximum.
+* Enhanced effects, such as spells or healing potions, that would restore stamina to you can’t restore an amount less than half your Constitution score. If this amount would exceed the maximum amount of stamina that effect could restore, you instead take that effect’s maximum.
 * You can add your Constitution modifier to death saving throws you make.
 
 ## Weapon Masterᴮᴳ

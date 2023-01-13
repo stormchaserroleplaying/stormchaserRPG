@@ -32,6 +32,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-----------|:------:|:-----------|
+| Oath of Vengeance     | 10 | *-* |
+| Relentless Avenger    | 10 | *Oath of Vengeance and Aura of Protection* |
+| Soul of Vengeance     | 10 | *Cleansing Touch and Relentless Avenger* |
+| Avenging Angel        | 10 | *Greater Auras and Soul of Vengeance* |
+
 ### Oath of Vengeance
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
@@ -48,7 +55,7 @@ On a miss, the creature's speed is halved for 1 minute or until the creature tak
 As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you. You gain +1d on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
 
 ### Relentless Avenger
-*Prerequisite:* Oath of the Ancients and Aura of Protection<br>
+*Prerequisite:* Oath of Vengeance and Aura of Protection<br>
 Once per turn, if, within the last round, you hit a creature with an opportunity attack, you can move up to half your speed without spending movement. This movement doesn't provoke opportunity attacks.
 
 When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.

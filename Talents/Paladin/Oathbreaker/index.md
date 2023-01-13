@@ -24,6 +24,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-----------|:------:|:-----------|
+| Oath of the Breaker       | 10 | *-* |
+| Aura of Hate              | 10 | *Oath of the Breaker and Aura of Protection* |
+| Supernatural Resistance   | 10 | *Cleansing Touch and Aura of Hate* |
+| Dread Lord                | 10 | *Greater Auras and Supernatural Resistance* |
+
 ### Oath of the Breaker
 You gain the ability to channel the power of darkness itself, using that energy to fuel the following magical effects.
 

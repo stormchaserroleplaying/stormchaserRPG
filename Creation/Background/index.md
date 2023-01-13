@@ -1,10 +1,10 @@
 ---
-title: 4. Describe Your Character
+title: 3. Choose a Background
 parent: Character Creation Outline
-nav_order: 4
+nav_order: 3
 ---
 
-# 4. Describe Your Character
+# 3. Choose a Background
 Once you know the basic game aspects of your character, it’s time to flesh them out as a person. Your character needs a name. Spend a few minutes thinking about what they look like and how they behave in general terms.
 
 Using the information in [Personality and Backgrounds](http://stormchaserroleplaying.com/stormchaserRPG/PersonalityandBackgrounds/), you can flesh out your character’s physical appearance and personality traits. Choose your character’s **alignment** (the moral compass that guides his or her decisions) and **ideals**. This section also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine them.
@@ -24,7 +24,7 @@ When creating a character, you gain 6 character points from your background and 
 | Feat | 8 |
 | Weapon Mastery | 4 |
 | Skill Mastery | 4 |
-| Increase an Ability Score by 1 | 4 |
+| Increase an Attribute by 1 | 4 |
 | Weapon Expertise | 3 |
 | Skill Expertise | 3 |
 | Tool Mastery | 3 |
@@ -36,13 +36,13 @@ When creating a character, you gain 6 character points from your background and 
 | Tool Proficiency | 1 |
 | Language Proficiency | 1 |
 
-* You can’t increase an ability score above 20.
+* You can’t increase an attribute above 20.
 * Expertise requires proficiency. Mastery requires expertise.
 * Proficiencies granted by your class may be sacrificed in exchange for their equivalent value, which may be redistributed to another category.
 * When you permanently increase your Intelligence modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
-## Your Character's Abilities
-Take your character’s ability scores and species into account as you flesh out their appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
+## Your Character's Attributes
+Take your character’s attributes and species into account as you flesh out their appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
 
 For example, high Strength usually corresponds to a burly or athletic body, while a character with low Strength might be scrawny or plump.
 

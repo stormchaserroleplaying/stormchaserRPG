@@ -1,6 +1,6 @@
 ---
 title: Advancement
-parent: Character Creation Outline
+parent: Character Creation
 nav_order: 7
 ---
 
@@ -15,7 +15,7 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Feat | 8 |
 | Weapon Mastery | 4 |
 | Skill Mastery | 4 |
-| Increase an Ability Score by 1 | 4 |
+| Increase an Attribute by 1 | 4 |
 | Weapon Expertise | 3 |
 | Skill Expertise | 3 |
 | Tool Mastery | 3 |
@@ -27,12 +27,12 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Tool Proficiency | 1 |
 | Language Proficiency | 1 |
 
-* You can’t increase an ability score above 20.
+* You can’t increase an attribute above 20.
 * Expertise requires proficiency. Mastery requires expertise.
 * When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
 ## Stamina
-Character points can be spent to increase your ability scores. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18, then his stamina maximum then increases by 4 from 68 to 72.
+Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18, then his stamina maximum then increases by 4 from 68 to 72.
 
 ## Starting Wealth
 The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.

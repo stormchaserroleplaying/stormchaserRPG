@@ -1,6 +1,6 @@
 ---
 title: 2. Choose a Species
-parent: Character Creation Outline
+parent: Character Creation
 nav_order: 2
 ---
 
@@ -9,4 +9,4 @@ Every character belongs to a species, one of the many intelligent humanoid speci
 
 The species that you choose contributes to your character's identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character's species grants particular species traits, such as special senses, proficiency with certain weapons or tools, proficiency in one or more skills, or the ability to use minor spells. These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the species traits of lightfoot halflings make them exceptional rogues, and high elves tend to be powerful wizards. Sometimes playing against type can be fun, too. Half-orc paladins and mountain dwarf wizards, for example, can be unusual but memorable characters.
 
-Pick a species, applying any modifiers to your ability scores and any other racial traits. Each species lists the languages that a character of that species automatically knows.
+Pick a species, applying any modifiers to your attributes and any other species traits. Each species lists the languages that a character of that species automatically knows.

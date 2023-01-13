@@ -1,10 +1,10 @@
 ---
-title: 3. Choose a Class
-parent: Character Creation Outline
-nav_order: 3
+title: 4. Choose a Class
+parent: Character Creation
+nav_order: 4
 ---
 
-# 3. Choose a Class
+# 4. Choose a Class
 Every adventurer is a member of a class. Class broadly describes a character's vocation, what special talents they possess, and the tactics they are most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described [here](https://stormchaserroleplaying.com/stormchaserRPG/Classes/).
 
 Your character receives a number of benefits from your choice of class. Many of these benefits are **class features**. Capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of **proficiencies**: armour, weapons, skills, defences and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
@@ -26,10 +26,10 @@ Record your character's stamina on your character sheet. Also record the type of
 ## Proficiency
 A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as an instance of advantage, or a numerical bonus that is applied to a defence or other static score, such as your passive skill.
 
-When a roll is made with proficiency, then roll with [advantage](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage.html). This applies to:
+When a roll is made with proficiency, then roll with [+1d](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage.html). This applies to:
 * Attack rolls using weapons that you're proficient with
 * Attack rolls with spells that you cast
-* Ability checks using defences, skills, or tools that you're proficient in
+* Checks using defences, skills, or tools that you're proficient in
 
 Your proficiency bonus to defences and other static scores is +4.
 

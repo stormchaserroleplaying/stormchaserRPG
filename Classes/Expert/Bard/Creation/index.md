@@ -1,7 +1,7 @@
 ---
 title: Creation
-parent: Barbarian Talent Tree
-grand_parent: Warrior
+parent: Bard Talent Tree
+grand_parent: Expert
 ---
 
 # Creation

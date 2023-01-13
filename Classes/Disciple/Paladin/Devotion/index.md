@@ -9,8 +9,7 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 
 ## Branch Features
 
-### Tenets of the Devotion 
-
+### Tenets of Devotion 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
 * **Honesty.* Don't lie or cheat. Let your word be your promise.

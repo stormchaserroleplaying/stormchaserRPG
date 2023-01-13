@@ -10,7 +10,6 @@ The Oath of the Crown is sworn to the ideals of civilization, be it the spirit o
 ## Branch Features
 
 ### Tenets of the Crown
-
 The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
 
 * **Law.** The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.

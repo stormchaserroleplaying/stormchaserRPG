@@ -51,7 +51,7 @@ You and friendly creatures within 10 feet of you gain resistance to lightning an
 
 ### Thunder Struck
 *Prerequisite:* Cleansing Touch and Aura of the Storm<br>
-Ranged attack rolls are made against you have -1d and you are immune to the paralyzed condition.
+Ranged attack rolls are made against you have -1d and you are immune to the paralysed condition.
 
 ### Thunder God
 *Prerequisite:* Greater Auras and Thunder Struck<br>

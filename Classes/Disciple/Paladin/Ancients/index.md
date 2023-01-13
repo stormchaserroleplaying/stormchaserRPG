@@ -39,7 +39,7 @@ You gain the ability to channel the power of your oath, using that energy to fue
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Nature's Wrath
-As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature is restrained on a successful spell attack roll vs the target's Strength or Dexterity defence. While restrained by the vines, the creature makes a Strength or Dexterity defence check against your spell skill at the end of each of its turns. On a success, it frees itself and the vines vanish.
+As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature is restrained on a successful spell attack roll vs the target's Strength or Dexterity defence. While restrained by the vines, the creature makes a Strength or Dexterity defence against your spell skill at the end of each of its turns. On a success, it frees itself and the vines vanish.
 
 #### Turn the Faithless
 As an action, you present your holy symbol, make a spell attack vs the Wisdom defence of each fey or fiend within 30 feet of you that can hear you. On a hit, the creature is turned for 1 minute or until it takes damage.
@@ -65,7 +65,7 @@ You can assume the form of an ancient force of nature, taking on an appearance y
 Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
 
 * At the start of each of your turns, you regain 10 hit points.
-* Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.
-* Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.
+* Whenever you cast a divine spell that has a casting time of 1 action, you can cast it using your bonus action instead.
+* Enemy creatures within 10 feet of you have -1d to their defences vs your divine spells and oath powers.
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -23,7 +23,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Thunderwave, Witch Bolt* |
+| 1st | *Thunderous Smite, Thunderwave* |
 | 2nd | *Gust of Wind, Shatter* |
 | 3rd | *Call Lightning, Thunder Step* |
 | 4th | *Ice Storm, Storm Sphere* |
@@ -37,7 +37,7 @@ You gain the ability to channel the power of your oath, using that energy to fue
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Storm Strike
-As an action, you can infuse a ranged or thrown weapon with lightning and make an attack. You create a line of lightning 5 ft wide and 60 ft long that deals 2d10 + your spellcasting ability modifier in lightning damage on a successful spell attack roll vs the target's Dexterity defence, or half that on a miss. The attack roll has advantage if the weapon attack hits.
+As an action, you can infuse a ranged or thrown weapon with lightning and make an attack. You create a line of lightning 5 ft wide and 60 ft long that deals 2d10 + your spellcasting ability modifier in lightning damage on a successful spell attack roll vs the target's Dexterity defence, or half that on a miss. The attack roll has +1d if the weapon attack hits.
 
 #### Thunder Leap
 As an action, you can choose to jump up to your movement speed in any direction. When you land, lightning explodes around you. Make a spell attack vs the Dexterity defence of all creatures within a 5 foot radius. On a hit, they are knocked back 5 feet and take 2d10 + your spellcasting ability modifier in thunder damage. On a miss, they take half damage and are not knocked back.
@@ -51,7 +51,7 @@ You and friendly creatures within 10 feet of you gain resistance to lightning an
 
 ### Thunder Struck
 *Prerequisite:* Cleansing Touch and Aura of the Storm<br>
-Ranged attack rolls are made against you at disadvantage and you are immune to the paralyzed condition.
+Ranged attack rolls are made against you have -1d and you are immune to the paralysed condition.
 
 ### Thunder God
 *Prerequisite:* Greater Auras and Thunder Struck<br>

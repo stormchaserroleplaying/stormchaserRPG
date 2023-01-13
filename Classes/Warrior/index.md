@@ -29,7 +29,7 @@ Warriors earn their gold with pure physical prowess. They swing across chapels o
 
 Prior to any attack roll, a warrior can declare a martial feat, or feat for short. This feat is a dramatic combat maneuver within the scope of the current combat. For example, a warrior may try to disarm an enemy with his next attack, or trip the opponent, or smash him backward to open access to a nearby corridor. The feat does not increase damage but could have some other combat effect: pushing back an enemy, tripping or entangling it, temporarily blinding it, and so on.
 
-The warrior’s feat die determines the feat’s success. This is a d4 and can be enlarged by taking talents from the martial feat talent tree. If the feat die is a 3 or higher and the attack hits, the feat succeeds. If the feat die is a 2 or less, or the overall attack misses, the feat fails as well.
+The warrior’s feat die determines the feat’s success. This is a d4 and can be enlarged by taking talents from the martial feat talent tree. If the feat die meets a DC (typically 3, but higher at GM discretion) and the attack hits, then the feat succeeds. If the feat die is not equal to or higher than the DC, or the overall attack misses, the feat fails as well.
 
 ### Extra Attack
 *Prerequisite:* 5 Other Warrior Talents<br>

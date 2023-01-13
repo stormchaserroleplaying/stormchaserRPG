@@ -35,5 +35,5 @@ You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplayi
 *Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.
 
-# Talents
+## Talents
 Disciples may take talents from the sorcerer, warlock, wizard and spellcasting talent trees.

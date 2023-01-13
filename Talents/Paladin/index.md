@@ -2,7 +2,7 @@
 title: Paladin Talent Tree
 parent: Talents
 has_children: true
-nav_order: 10
+nav_order: 9
 ---
 
 # Paladin Talent Tree

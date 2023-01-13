@@ -45,5 +45,5 @@ You can use a holy symbol or druidic focus (see [Adventuring Gear](https://storm
 *Prerequisite:* 5 Other Disciple or Mage Talents<br>
 Your cantrips deal one additional die of damage.
 
-# Talents
+## Talents
 Disciples may take talents from the cleric, druid, paladin and spellcasting talent trees.

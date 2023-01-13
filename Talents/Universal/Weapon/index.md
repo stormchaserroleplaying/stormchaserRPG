@@ -1,7 +1,7 @@
 ---
 title: Weapon Foci
-parent: Talents
-nav_order: 3
+parent: Universal
+grand_parent: Talents
 ---
 
 # Weapon Foci

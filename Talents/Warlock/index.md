@@ -2,7 +2,7 @@
 title: Warlock Talent Tree
 parent: Talents
 has_children: true
-nav_order: 14
+nav_order: 13
 ---
 
 # Warlock Talent Tree

@@ -28,5 +28,5 @@ You adopt a particular style of fighting as your specialty. Choose a [Fighting S
 *Prerequisite:* 5 Other Warrior Talents<br>
 You can attack twice, instead of once, whenever you take the [Attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/ActionsinCombat/Attack/#attack-) action on your turn.
 
-# Talents
+## Talents
 Warriors may take talents from the barbarian, fighter, monk and martial feat talent trees.

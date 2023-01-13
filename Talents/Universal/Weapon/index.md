@@ -1,6 +1,6 @@
 ---
 title: Weapon Foci
-parent: Universal
+parent: Universal Talents
 grand_parent: Talents
 ---
 

@@ -2,7 +2,7 @@
 title: Monk Talent Tree
 parent: Talents
 has_children: true
-nav_order: 8
+nav_order: 7
 ---
 
 # Monk Talent Tree

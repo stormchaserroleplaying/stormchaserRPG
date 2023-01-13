@@ -1,7 +1,7 @@
 ---
 title: Spellcasting Talent Tree
 parent: Talents
-nav_order: 15
+nav_order: 14
 ---
 
 # Spellcasting Talent Tree

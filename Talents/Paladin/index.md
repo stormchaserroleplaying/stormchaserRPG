@@ -17,18 +17,35 @@ When you take your first paladin talent, you gain the following bonus proficienc
 
 ## Core Talents
 
-### Divine Health
-Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
+| Talent | CP | Prerequisites | Other Paladin <br> Talents Required |
+|:-----------|:------:|:-----------|:------:|
+| Divine Sense          | 10 | *-* | - |
+| Lay on Hands          | 10 | *-* | - |
+| Divine Smite          | 10 | *Divine Sense* | - |
+| Divine Health         | 10 | *Lay on Hands* | - |
+| Extra Attack          | 10 | *Divine Smite* | - |
+| Aura of Protection    | 10 | *2nd Level Spells* | 2 |
+| Aura of Courage       | 10 | *3rd Level Spells, Aura of Protection* | 5 |
+| Improved Divine Smite | 10 | *3rd Level Spells, Divine Smite* | 6 |
+| Cleansing Touch       | 10 | *4th Level Spells* | 8 |
+| Greater Auras         | 10 | *5th Level Spells* | 10 |
+| Paragon               | 10 | *5th Level Spells* | 11 |
 
-Additionally, the divine magic flowing through you makes you immune to disease.
-
-### Divine Smite
-*Prerequisite:* Divine Health<br>
+### Divine Sense
 You can use *detect evil*, as the spell, at will. As an action, you concentrate on a single item or individual within 60 feet and determine if it is evil. Additionally, studying the target for 3 rounds determines the strength of its aura. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
 
+### Lay on Hands 
+Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
+
+### Divine Smite
+*Prerequisite:* Divine Sense<br>
 When you hit a creature with a melee weapon attack, you can expend spell points to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per spell point expended. The maximum number of spell points that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
 
-### Extra Attack
+### Divine Health
+*Prerequisite:* Lay on Hands<br>
+Divine magic flowing through you and makes you immune to disease.
+
+### Extra Attack 
 *Prerequisite:* Divine Smite<br>
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 

@@ -33,7 +33,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 ## Talents
 
-### Oath of the Conquest
+| Talent | CP | Prerequisites |
+|:-----------|:------:|:-----------|
+| Oath of Conquest      | 10 | *-* |
+| Aura of Conquest      | 10 | *Oath of Conquest and Aura of Protection* |
+| Scornful Rebuke       | 10 | *Cleansing Touch and Aura of Conquest* |
+| Invincible Conqueror  | 10 | *Greater Auras and Scornful Rebuke* |
+
+### Oath of Conquest
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.

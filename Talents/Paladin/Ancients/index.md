@@ -33,6 +33,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-----------|:------:|:-----------|
+| Oath of the Ancients  | 10 | *-* |
+| Aura of Warding       | 10 | *Oath of the Ancients and Aura of Protection* |
+| Undying Sentinel      | 10 | *Cleansing Touch and Aura of Warding* |
+| Elder Champion        | 10 | *Greater Auras and Undying Sentinel* |
+
 ### Oath of the Ancients
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 

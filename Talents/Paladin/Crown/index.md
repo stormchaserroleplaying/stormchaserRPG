@@ -32,6 +32,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-----------|:------:|:-----------|
+| Oath of the Crown | 10 | *-* |
+| Divine Allegiance | 10 | *Oath of the Crown and Aura of Protection* |
+| Unyielding Spirit | 10 | *Cleansing Touch and Divine Allegiance* |
+| Exalted Champion  | 10 | *Greater Auras and Unyielding Spirit* |
+
 ### Oath of the Crown
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
@@ -51,7 +58,7 @@ Once per turn, if, within the last round, a creature took damage while within 5 
 *Prerequisite:* Cleansing Touch and Divine Allegiance<br>
 You have +1d to on defences to avoid becoming paralyzed or stunned.
 
-### Elder Champion
+### Exalted Champion
 *Prerequisite:* Greater Auras and Unyielding Spirit<br>
 Your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:
 

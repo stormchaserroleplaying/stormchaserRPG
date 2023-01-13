@@ -1,6 +1,6 @@
 ---
 title: 3. Choose a Background
-parent: Character Creation Outline
+parent: Character Creation
 nav_order: 3
 ---
 

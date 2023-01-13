@@ -1,6 +1,6 @@
 ---
 title: 6. Adventure!
-parent: Character Creation Outline
+parent: Character Creation
 nav_order: 6
 ---
 

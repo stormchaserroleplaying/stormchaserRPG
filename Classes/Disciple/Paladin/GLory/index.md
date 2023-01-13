@@ -12,10 +12,10 @@ Paladins who take the Oath of Glory believe they and their companions are destin
 ### Tenets of Glory
 The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.
 
-* **Actions over Words.* Strive to be known by glorious deeds, not words.
-* **Challenges Are but Tests.* Face hardships with courage, and encourage your allies to face them with you.
-* **Hone the Body.* Like raw stone, your body must be worked so its potential can be realized.
-* **Discipline the Soul.* You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
+* **Actions over Words.** Strive to be known by glorious deeds, not words.
+* **Challenges Are but Tests.** Face hardships with courage, and encourage your allies to face them with you.
+* **Hone the Body.** Like raw stone, your body must be worked so its potential can be realized.
+* **Discipline the Soul.** You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
 
 ### Bonus Spells
 As a glory paladin, you gain the following spells once you can cast spells of that level. Once you gain an oath spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Nature
-Your nature check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+Nature is an **Intelligence**-based skill that measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
 
 ## Subskills
 

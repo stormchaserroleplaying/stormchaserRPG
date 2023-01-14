@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Sleight of Hand
-Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a sleight of hand check. The GM might also call for a sleight of hand check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+Sleight of hand is a **Dexterity**-based skill for whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person. The GM might also call for a sleight of hand check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
 
 ## Tying Knots
 The rules are purposely open-ended concerning mundane tasks like tying knots, but sometimes knowing how well a knot was fashioned is important in a dramatic scene when someone is trying to untie a knot or slip out of one.

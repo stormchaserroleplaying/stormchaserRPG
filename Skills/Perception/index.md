@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Perception
-Your perception check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
+Perception is a **Wisdom**-based skill that lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
 
 ## Passive Perception
 Your innate ability to automatically notice important things in your surroundings without a skill roll can act as a minimum result to your Active Perception rolls. For that to happen, you must declare that you are "Alert for...", followed by descriptor of what you are actively looking for: enemies, secret doors, peculiar behaviour in a crowd, or others things. While you are Alert, if the GM requests a Perception skill check he may allow you to take a minimum value of 10 if the die roll is lower. The GM must also reveal information below the Perception DC if it matches the Alert descriptor.

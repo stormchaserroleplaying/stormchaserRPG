@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Stealth
-Make a stealth check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+Stealth is a **Dexterity**-based skill for when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
 
 ## Hiding
 The GM decides when circumstances are appropriate for hiding. When you try to hide, make a stealth check. Until you are discovered or you stop hiding, that check's total is contested by the perception check of any creature that actively searches for signs of your presence.

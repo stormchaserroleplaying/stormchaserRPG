@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # History
-Your history check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+History is an **Intelligence**-based skill that measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
 
 ## Subskills
 

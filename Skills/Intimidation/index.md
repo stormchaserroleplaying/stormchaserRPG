@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Intimidation
-When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make an intimidation check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+Intimidation is a **Charisma**-based skill for when you attempt to influence someone through overt threats, hostile actions, and physical violence. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
 ## Subskills
 

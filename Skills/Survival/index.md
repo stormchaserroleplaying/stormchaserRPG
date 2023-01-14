@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Survival
-The GM might ask you to make a survival check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
 
 ## Follow Tracks
 To find tracks or to follow them for 1 mile requires a successful Survival check. You must make another Survival check every time the tracks become difficult to follow. If you are not proficient in this skill, you can make Wisdom checks to find tracks, but you can follow them only if the DC for the task is 10 or lower. Alternatively, you can use the Perception skill to find a footprint or similar sign of a creature’s passage using the same DCs, but you can’t use Perception to follow tracks, even if someone else has already found them.

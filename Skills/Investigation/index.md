@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Investigation
-When you look around for clues and make deductions based on those clues, you make an investigation check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an investigation check.
+Investigation is an **Intelligence**-based skill for when you look around for clues and make deductions based on those clues. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an investigation check.
 
 ## Subskills
 

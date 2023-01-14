@@ -4,7 +4,7 @@ parent: Skills
 ---
 
 # Performance
-Your performance check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+Performance is a **Charisma**-based skill that determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 
 ## Subskills
 

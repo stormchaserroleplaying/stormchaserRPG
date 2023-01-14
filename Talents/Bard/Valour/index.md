@@ -14,6 +14,14 @@ When you take your first valour talent, you may choose to either gain a fighting
 
 ## Talents
 
+| Talent | CP | Prerequisites | Other Bard Talents Required |
+|:------:|:--:|:-------------:|:---------------------------:|
+| Combat Inspiration | 10 | Bardic Inspiration | - |
+| Blade Flourish | 12 | - | - |
+| Extra Attack | 10 | Combat Inspiration | 4 |
+| Battle Magic | 12 | Combat Inspiration, Jack of All Trades II | 7 |
+| Master's Flourish | 12 | Blade Flourish, Extra Attack | 8 |
+
 ### Combat Inspiration
 *Prerequisite:* Bardic Inspiration<br>
 You learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made.
@@ -32,9 +40,9 @@ You learn to perform impressive displays of martial prowess and speed. Whenever 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Battle Magic
-*Prerequisite:* Magical Secrets<br>
+*Prerequisite:* Combat Inspiration, Jack of All Trades II, and 7 Other Talents<br>
 You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 ### Master's Flourish
-*Prerequisite:* Blade Flourish, 14 Other Talents<br>
+*Prerequisite:* Blade Flourish, Extra Attack, and 8 Other Talents<br>
 Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.

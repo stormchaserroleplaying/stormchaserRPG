@@ -11,14 +11,14 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 ## Talents
 
-| Talent | CP | Prerequisites |
-|:------:|:--:|:-------------:|
-| Mote of Potential | 12 | - |
-| Performance of Creation | 12 | - |
-| Performance of Creation II | 10 | Performance of Creation |
-| Performance of Creation III | 10 | Performance of Creation II |
-| Animating Performance | 12 | Mote of Potential, Performance of Creation III |
-| Creative Crescendo | 12 | Performance of Creation III |
+| Talent | CP | Prerequisites | Bard Talents Required |
+|:------:|:--:|:-------------:|:---------------------------:|
+| Mote of Potential | 12 | - | - |
+| Performance of Creation | 12 | - | - |
+| Performance of Creation II | 10 | Performance of Creation | 4 |
+| Performance of Creation III | 10 | Performance of Creation II | 11 |
+| Animating Performance | 12 | Performance of Creation | 4 |
+| Creative Crescendo | 12 | Animating Performance | 11 |
 
 ### Mote of Potential
 Whenever you give a creature a bardic inspiration die, you can utter a note from the song of creation to create a tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable. It lasts until the bardic inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.
@@ -50,7 +50,7 @@ As an action, you can animate one large or smaller nonmagical item within 30 fee
 
 In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move on its own, but the only action that it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just dodge.
 
-When you use your bardic inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration. Once you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend 3 mana to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
+When you use your bardic inspiration feature, you can command the item as part of the same bonus action you use for bardic inspiration. Once you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend 3 mana to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
 ***((Need stat block for minion creature))***
 

@@ -13,12 +13,12 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Mote of Potential | X | - |
-| Performance of Creation | X | - |
-| Performance of Creation II | X | Performance of Creation |
-| Performance of Creation III | X | Performance of Creation II |
-| Animating Performance | X | Performance of Creation IV |
-| Creative Crescendo | X | Mote of Potential, Performance of Creation IV |
+| Mote of Potential | 12 | - |
+| Performance of Creation | 12 | - |
+| Performance of Creation II | 10 | Performance of Creation |
+| Performance of Creation III | 10 | Performance of Creation II |
+| Animating Performance | 12 | Mote of Potential, Performance of Creation III |
+| Creative Crescendo | 12 | Performance of Creation III |
 
 ### Mote of Potential
 Whenever you give a creature a bardic inspiration die, you can utter a note from the song of creation to create a tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable. It lasts until the bardic inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.

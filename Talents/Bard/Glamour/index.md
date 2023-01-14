@@ -14,7 +14,7 @@ The bards of this college are regarded with a mixture of awe and fear. Their per
 | Talent | CP | Prerequisites | Other Bard <br> Talents Required |
 |:------:|:--:|:-------------:|:--------------------------------:|
 | Mantle of Inspiration | 12 | - | 3 |
-| Enthralling Performance | X | - | 3 |
+| Enthralling Performance | 12 | - | 3 |
 | Mantle of Inspiration II | 10 | Mantle of Inspiration | 5 |
 | Mantle of Majesty | 12 | Mantle of Inspiration | 6 |
 | Mantle of Inspiration III | 10 | Mantle of Inspiration II | 10 |

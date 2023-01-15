@@ -1,8 +1,8 @@
 ---
 title: Between Adventures
-parent: Adventuring
+parent: Exploration
 has_children: true
-nav_order: 6
+nav_order: 5
 ---
 
 # Between Adventures

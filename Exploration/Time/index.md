@@ -1,6 +1,6 @@
 ---
 title: Time
-parent: Adventuring
+parent: Exploration
 nav_order: 1
 ---
 

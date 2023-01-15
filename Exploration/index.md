@@ -1,10 +1,10 @@
 ---
-title: Adventuring
+title: Exploration
 has_children: true
 nav_order: 9
 ---
 
-# Adventuring
+# Exploration
 Delving into the ancient Underway, slipping through the back alleys of Beschcadik, hacking a fresh trail through the thick jungles of Lelistrel; these are the things that adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
 
 This section covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this section, along with a discussion of the activities your character might pursue between adventures.

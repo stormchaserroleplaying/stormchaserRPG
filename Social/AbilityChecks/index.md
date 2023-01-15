@@ -1,7 +1,6 @@
 ---
 title: Ability Checks
 parent: Social Interaction
-grand_parent: Adventuring
 nav_order: 2
 ---
 

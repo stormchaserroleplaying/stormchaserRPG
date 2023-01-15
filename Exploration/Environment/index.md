@@ -1,6 +1,6 @@
 ---
 title: The Environment
-parent: Adventuring
+parent: Exploration
 has_children: true
 nav_order: 3
 ---

@@ -21,7 +21,6 @@ You can reach out to spirits to guide you and others. You learn the *[guidance](
 |:------:|:--:|:-------------:|:---------------------:|
 | Tales From Beyond | 10 | - | - |
 | Spirit Session | 10 | Tales From Beyond | 4 |
-| Spiritual Channeling | 10 | Tales From Beyond | 4 |
 | Mystical Connection | 10 | Spirit Session | 8 |
 
 ### Tales From Beyond

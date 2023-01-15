@@ -8,7 +8,11 @@ nav_order: 3
 # 3. Choose a Background
 Once you've chosen your character's species, it’s time to establish what their past looks like. Your character also needs a name. Spend a few minutes thinking about what they look like and how they behave. [Character Details](https://stormchaserroleplaying.com/stormchaserRPG/Backgrounds/CharacterDetails/) contains helpful information for fleshing out your character’s physical appearance and personality traits.
 
-Your character's [background](https://stormchaserroleplaying.com/stormchaserRPG/Backgrounds/) describes where they came from, their original occupation and their place in the world. A background gives your character a background feature and 10 character points to spend on background talents, skills, tools or languages, as described below.
+Your character's [background](https://stormchaserroleplaying.com/stormchaserRPG/Backgrounds/) describes where they came from, their original occupation and their place in the world. The mechanical benefits of a background are:
+* +2 to single mental attribute that you consider your character to have developed as a result of this background.
+* A background feature, which is a unique benefit based on your character's background.
+* A package of starting equipment that your character possesses from their previous occupation.
+* 10 character points to spend on background talents, skills, tools or languages, as described below.
 
 ## Character Points
 When creating a character, you gain 10 character points from your background and a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:

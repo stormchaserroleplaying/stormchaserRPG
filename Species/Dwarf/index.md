@@ -22,25 +22,25 @@ Most dwarves are lawful, believing firmly in the benefits of a well-ordered soci
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
 ## Speed
-Subtract 5 feet from your base walking speed. However, your speed is never reduced by wearing armour.
+Subtract 5 feet from your base walking speed. However, your speed is never modified by armour or encumbrance.
 
 ## Darkvision
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
 
-## Dwarven Resilience
-Poison attack rolls have disadvantage to hit you. You have advantage on defence checks against poison and you have [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) against [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
+## Defensive Training
+You have +1d to your defences vs attacks made by giants.
 
 ## Dwarven Combat Training
-You are proficient with simple axes and simple bludgeoning weapons. If your class grants proficiency with simple axes or simple bludgeoning weapons, you gain proficiency in martial axes or martial bludgeoning weapons, respectively. You treat any weapon with the word "dwarven" in its name or properties as a martial weapon. If your class grants proficiency with martial axes **or** martial bludgeoning weapons, you gain 1 proficiency point. If your class grants proficiency with **both** martial axes **and** martial bludgeoning weapons, you gain 2 proficiency points.
+You are proficient with simple axes and simple bludgeoning weapons. If your class grants proficiency with simple axes or simple bludgeoning weapons, you gain proficiency in martial axes or martial bludgeoning weapons, respectively. You treat any weapon with the word "dwarven" in its name or properties as a martial weapon. If your class grants proficiency with martial axes **or** martial bludgeoning weapons, you gain 2 proficiency point. If your class grants proficiency with **both** martial axes **and** martial bludgeoning weapons, you gain 4 proficiency points.
 
-## Tool Proficiency
-You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+## Dwarven Resilience
+You have +1d to your defences vs poison and [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) to [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
 
 ## Stonecunning
-Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
+Whenever you make a history check related to the origin of stonework, you are considered to have expertise in the History skill.
+
+## Tool Proficiency
+You gain proficiency with one of the following sets of artisan’s tools: smith’s tools, brewer’s supplies, or mason’s tools.
 
 ## Languages
-You can speak, read, and write Dwarven and one local human language of your choice. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
-
-## Race
-Two main races of dwarves populate the world: hill dwarves and mountain dwarves. Choose one of these races.
+You can speak, read, and write Dwarven and one other common language of your choice. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.

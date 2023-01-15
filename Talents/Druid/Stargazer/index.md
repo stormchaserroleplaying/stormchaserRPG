@@ -32,7 +32,7 @@ You have created map of your findings of the stars. Its form is determined by ro
 
 While holding the map, you have these benefits:
 * You know the *Guidance* cantrip.
-* You have a separate pool of mana from which you can draw upon to cast *Guiding Bolt*. The pool is equal to your spellcasting modifier and the maximum amount of mana that you may spend from this pool is equal to the maximum level of spells that you can cast. When you cast this spell you can use an amount of this pool up to the highest This pool is replinished when you finish a long rest.
+* You have a separate pool of mana from which you can draw upon to cast *Guiding Bolt*. The pool is equal to your spellcasting modifier and the maximum amount of mana that you may spend from this pool is equal to the maximum level of spells that you can cast. This pool is replinished when you finish a long rest.
 
 | d6 | Map Form |
 |:-----:|:------|

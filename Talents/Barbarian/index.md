@@ -87,5 +87,3 @@ If your total for a Strength check is less than your Strength score, you can use
 You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ## Barbarian Talent Tree Branches
-* [Ancestral Guardian](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/AncestralGuardian/)
-* [Berseker](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/Barbarian/Berserker/)

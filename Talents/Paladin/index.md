@@ -76,14 +76,3 @@ The range of your auras increase to 30 feet.
 Your Strength or Dexterity (your choice) and Charisma scores increase by 2. Your maximum for these scores also increases by 2.
 
 ## Paladin Talent Tree Branches
-* [Ancients](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Ancients/)
-* [Conquest](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Conquest/)
-* [Crown](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Crown/)
-* [Devotion](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Devotion/)
-* [Glory](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/GLory/)
-* [Hunter](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Hunter/)
-* [Oathbreaker](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Oathbreaker/)
-* [Redemption](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Redemption/)
-* [Thunder](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Thunder/)
-* [Vengeance](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Vengeance/)
-* [Watchers](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Disciple/Paladin/Watchers/)

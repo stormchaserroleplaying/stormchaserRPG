@@ -71,4 +71,3 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 You have mastered the arcane arts. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Wizard Talent Tree Branches
-* [Bladedancing](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/Wizard/Bladedancing/)

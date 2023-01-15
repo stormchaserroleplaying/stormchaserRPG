@@ -39,10 +39,10 @@ Your class determines your weapon proficiencies, your defence proficiencies and 
 Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless benefit only once.
 
 ### Expertise
-Sometimes, a talent, feat or other feature might grant you expertise in a weapon, skill or tool that you are already proficient in. A character with expertise benefits from a second instance of advantage on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.
+You can have expertise with a weapon, skill, tool, or defence that they are already proficient in. A character with expertise benefits from an additional +1d on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.
 
 ### Mastery
-Sometimes, a talent, feat or other feature might grant you mastery in a weapon, skill or tool that you are already an expert at. A character with mastery benefits from a third instance of advantage on their d20 roll. Additionally, passive scores that benefit from mastery increase by an additional +1, for a total of +7 together with the proficiency and expertise bonuses.
+You can be a master with a weapon, skill, tool, or defence that you are already an expert at. A character with mastery benefits from a third +1d on their d20 roll. Additionally, passive scores that benefit from mastery increase by an additional +1, for a total of +7 together with the proficiency and expertise bonuses.
 
 ### Overrolling
 When the exact total of a check is relevant (for example, when determining the quality of a crafted item), for every die beyond the first that makes the target DC, you gain a +1 to your final result. For every natural 20 beyond the first, you gain a +2 to your final result.

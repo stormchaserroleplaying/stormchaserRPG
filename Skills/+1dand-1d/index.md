@@ -18,6 +18,12 @@ When you have +1d or -1d and something in the game, such as the halfling's Lucky
 You usually gain +1d or -1d through the use of special abilities, actions, or spells. [Inspiration](https://stormchaserroleplaying.com/stormchaserRPG/PersonalityandBackgrounds/Inspiration/) can also give a character +1d on checks related to the character's personality, ideals, or bonds. The GM can also decide that circumstances influence a roll in one direction or the other and grant +1d or impose -1d as a result.
 
 ## Proficiency
-Characters can [gain a proficiency die](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/ChooseaClass/#proficiency) on attack rolls and skill checks. Monsters can also have this proficiency die, which is incorporated in their stat blocks. The bonus die is used in the rules on skill checks, attack rolls and defences.
+Characters can also have +1d due to [proficiency](https://stormchaserroleplaying.com/stormchaserRPG/StepbyStepCharacters/ChooseaClass/#proficiency) on attack rolls, skills, tools and defences. Monsters can also have this proficiency die, which is incorporated in their stat blocks. The bonus die is used in the rules on skill checks, attack rolls and defences.
 
 Your proficiency die can't be added to a single die roll or other number more than once. For example, if two different rules say that you can roll your proficiency bonus die when making a Wisdom check, you nevertheless add only one die when you make the check.
+
+## Expertise
+You can have expertise with a weapon, skill, tool, or defence that they are already proficient in. A character with expertise benefits from an additional +1d on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.
+
+## Mastery
+You can be a master with a weapon, skill, tool, or defence that you are already an expert at. A character with mastery benefits from a third +1d on their d20 roll. Additionally, passive scores that benefit from mastery increase by an additional +1, for a total of +7 together with the proficiency and expertise bonuses.

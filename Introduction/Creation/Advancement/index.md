@@ -8,25 +8,23 @@ nav_order: 7
 # Advancement
 As your character goes on adventures and overcomes challenges, they gain experience. Eventually, this leads to advancements in capability by gaining and spending character points, which can be used to purchase new abilities. Characters advance based on when they accomplish significant story goals in the campaign. The GM tells the players when their characters gain character points, which may be spent in the following ways:
 
-###### Character Point Costs
-
-| Benefit | Cost |
-|:-------:|:----:|
-| Talent | 12 |
-| Feat | 8 |
-| Weapon Mastery | 4 |
-| Skill Mastery | 4 |
-| Increase an Attribute by 1 | 4 |
+| Benefit | Character Points |
+|:-------:|:----------------:|
+| Talent | Varies |
+| Increase an Attribute by 1 | 5 |
+| Weapon Mastery | 5 |
+| Skill Mastery | 5 |
 | Weapon Expertise | 3 |
 | Skill Expertise | 3 |
 | Tool Mastery | 3 |
+| Language (Native) | 3 |
 | Weapon Proficiency | 2 |
 | Skill Proficiency | 2 |
 | Tool Expertise | 2 |
-| Cantrip | 2 |
+| Language (Accented) | 2 |
 | Subskill | 1 |
 | Tool Proficiency | 1 |
-| Language Proficiency | 1 |
+| Language (Broken) | 1 |
 
 * You can’t increase an attribute above 20.
 * Expertise requires proficiency. Mastery requires expertise.

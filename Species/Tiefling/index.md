@@ -9,7 +9,7 @@ To be greeted with stares and whispers, to suffer violence and insult on the str
 Tieflings share certain racial traits as a result of their infernal descent.
 
 ## Ability Score Increase
-Your Intelligence score increases by 1, and your Charisma score increases by 2.
+Two different physical abilities of your choice rise by 1.
 
 ## Age
 Tieflings mature at the same rate as humans but live a few years longer.

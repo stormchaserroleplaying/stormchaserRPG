@@ -6,9 +6,6 @@ has_children: true
 
 # Aasimar
 
-## Ability Score Increase
-Your Charisma score rises by 2.
-
 ## Alignment
 Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil.
 

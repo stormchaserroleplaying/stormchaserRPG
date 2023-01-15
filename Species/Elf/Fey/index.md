@@ -71,9 +71,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 | 3 | Your needs come first. In winter, all must watch out for themselves. |
 | 4 | You speak only to point out the flaws in others’ plans. |
 
-## Ability Score Increase
-Your Charisma score rises by 1.
-
 ## Fey Step
 As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can’t do so again until you finish a short or long rest.
 

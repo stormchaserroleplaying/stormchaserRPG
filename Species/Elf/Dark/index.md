@@ -9,9 +9,6 @@ Dark elves have skin that resembles charcoal or obsidian, as well as stark white
 
 Drow adventurers are rare. Check with your Game Master to see if you can play one.
 
-## Ability Score Increase
-Your Charisma score rises by 1.
-
 ## Darkvision
 Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
 

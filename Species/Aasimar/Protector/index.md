@@ -7,7 +7,7 @@ grand_parent: Species
 # Protector Aasimar
 
 ## Ability Score Increase
-Your Wisdom score rises by 1.
+Your ? score rises by 2.
 
 ## Radiant Soul
 Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.

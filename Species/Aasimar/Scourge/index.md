@@ -7,7 +7,7 @@ grand_parent: Species
 # Scourge Aasimar
 
 ## Ability Score Increase
-Your Constitution score rises by 1.
+Your Constitution score rises by 2.
 
 ## Radiant Consumption
 Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.

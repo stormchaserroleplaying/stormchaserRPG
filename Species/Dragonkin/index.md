@@ -6,7 +6,7 @@ parent: Species
 # Dragonkin
 
 ## Ability Score Increase
-Your Strength score rises by 2 and an additional attribute, determined by your draconic ancestry, rises by 1.
+Your Strength score rises by 2.
 
 ## Alignment
 Dragonkin have an innate inclination towards certain alignments (see table).
@@ -20,23 +20,23 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ## Draconic Ancestry
 You have draconic ancestry. Choose one type of dragon from the table below:
 
-| Dragon Type | Alignment | Attribute Bonus | Damage Type | Breath Weapon |
-|:-----------:|:---------:|:---------------:|:-----------:|:-------------:|
-| Gold | Lawful Good |  Charisma | Fire | 15 ft. cone (Dexterity defence) |
-| Silver | Lawful Good |  Constitution | Cold | 15 ft. cone (Constitution defence) |
-| Bronze | Lawful Good |  Wisdom | Lightning | 5 by 30 ft. line (Dexterity defence) |
-| Copper | Chaotic Good |  Dexterity | Acid | 5 by 30 ft. line (Dexterity defence) |
-| Brass | Chaotic Good | Intelligence | Fire | 5 by 30 ft. line (Dexterity defence) |
-| Red | Chaotic Evil | Charisma | Fire | 15 ft. cone (Dexterity defence) |
-| Blue | Lawful Evil | Wisdom | Lightning | 5 by 30 ft. line (Dexterity defence) |
-| Green | Lawful Evil | Intelligence | Poison | 15 ft. cone (Constitution defence) |
-| Black | Chaotic Evil | Dexterity | Acid | 5 by 30 ft. line (Dexterity defence) |
-| White | Chaotic Evil | Constitution | Cold | 15 ft. cone (Constitution defence) |
-| Amethyst | Neutral Evil | Dexterity | Necrotic | 30 ft. range, 5 ft. sphere (Con defence) |
-| Emerald | Chaotic Neutral | Charisma | Psychic | 30 ft. range, 5 ft. sphere (Con defence) |
-| Ruby | Lawful Neutral | Constitution | Thunder | 30 ft. range, 5 ft. sphere (Con defence) |
-| Sapphire | True Neutral | Wisdom | Force | 30 ft. range, 5 ft. sphere (Wis defence) |
-| Topaz | Neutral Good | Intelligence | Radiant | 30 ft. range, 5 ft. sphere (Con defence) |
+| Dragon Type | Alignment | Damage Type | Breath Weapon |
+|:-----------:|:---------:|:-----------:|:-------------:|
+| Gold | Lawful Good | Fire | 15 ft. cone (Dexterity defence) |
+| Silver | Lawful Good | Cold | 15 ft. cone (Constitution defence) |
+| Bronze | Lawful Good | Lightning | 5 by 30 ft. line (Dexterity defence) |
+| Copper | Chaotic Good | Acid | 5 by 30 ft. line (Dexterity defence) |
+| Brass | Chaotic Good | Fire | 5 by 30 ft. line (Dexterity defence) |
+| Red | Chaotic Evil | Fire | 15 ft. cone (Dexterity defence) |
+| Blue | Lawful Evil | Lightning | 5 by 30 ft. line (Dexterity defence) |
+| Green | Lawful Evil | Poison | 15 ft. cone (Constitution defence) |
+| Black | Chaotic Evil | Acid | 5 by 30 ft. line (Dexterity defence) |
+| White | Chaotic Evil | Cold | 15 ft. cone (Constitution defence) |
+| Amethyst | Neutral Evil | Necrotic | 30 ft. range, 5 ft. sphere (Con defence) |
+| Emerald | Chaotic Neutral | Psychic | 30 ft. range, 5 ft. sphere (Con defence) |
+| Ruby | Lawful Neutral | Thunder | 30 ft. range, 5 ft. sphere (Con defence) |
+| Sapphire | True Neutral | Force | 30 ft. range, 5 ft. sphere (Wis defence) |
+| Topaz | Neutral Good | Radiant | 30 ft. range, 5 ft. sphere (Con defence) |
 
 Your attribute bonus, breath weapon and damage resistance are determined by your draconic ancestry, as shown in the table above. Additionally, your draconic ancestry grants you one of the following features:
 

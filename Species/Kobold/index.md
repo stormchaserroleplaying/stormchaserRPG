@@ -6,7 +6,7 @@ parent: Species
 # Kobold
 
 ## Ability Score Increase
-Your Dexterity score rises by 2 and an additional attribute, determined by your draconic ancestry, rises by 1.
+Your Dexterity score rises by 2.
 
 ## Alignment
 Kobolds have an innate inclination towards certain alignments (see table).
@@ -20,23 +20,23 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ## Draconic Ancestry
 You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your attribute bonus and damage resistance are determined by the dragon type, as shown in the table.
 
-| Dragon Type | Alignment | Attribute Bonus | Damage Type |
-|:-----------:|:---------:|:---------------:|:-----------:|
-| Gold | Lawful Good | Charisma | Fire |
-| Silver | Lawful Good | Constitution | Cold |
-| Bronze | Lawful Good | Wisdom | Lightning |
-| Copper | Chaotic Good | Strength | Acid |
-| Brass | Chaotic Good | Intelligence | Fire |
-| Red | Chaotic Evil | Charisma | Fire |
-| Blue | Lawful Evil | Wisdom | Lightning |
-| Green | Lawful Evil | Intelligence | Poison |
-| Black | Chaotic Evil | Strength | Acid |
-| White | Chaotic Evil | Constitution | Cold |
-| Amethyst | Neutral Evil | Strength | Necrotic |
-| Emerald | Chaotic Neutral | Charisma | Psychic |
-| Ruby | Lawful Neutral | Constitution | Thunder |
-| Sapphire | True Neutral | Wisdom | Force |
-| Topaz | Neutral Good | Intelligence | Radiant |
+| Dragon Type | Alignment | Damage Type |
+|:-----------:|:---------:|:-----------:|
+| Gold | Lawful Good | Fire |
+| Silver | Lawful Good | Cold |
+| Bronze | Lawful Good | Lightning |
+| Copper | Chaotic Good | Acid |
+| Brass | Chaotic Good | Fire |
+| Red | Chaotic Evil | Fire |
+| Blue | Lawful Evil | Lightning |
+| Green | Lawful Evil | Poison |
+| Black | Chaotic Evil | Acid |
+| White | Chaotic Evil | Cold |
+| Amethyst | Neutral Evil | Necrotic |
+| Emerald | Chaotic Neutral | Psychic |
+| Ruby | Lawful Neutral | Thunder |
+| Sapphire | True Neutral | Force |
+| Topaz | Neutral Good | Radiant |
 
 ## Damage Resistance
 You have resistance to the damage type associated with your draconic ancestry.

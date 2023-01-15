@@ -8,7 +8,7 @@ grand_parent: Species
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
 
 ## Ability Score Increase
-Your Constitution score increases by 1.
+Your Constitution score increases by 2.
 
 ## Artificer’s Lore
 Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you benefit from an additional instance of advantage.

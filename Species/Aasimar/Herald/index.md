@@ -7,7 +7,7 @@ grand_parent: Species
 # Herald Aasimar
 
 ## Ability Score Increase
-Your Dexterity score rises by 1.
+Your Dexterity score rises by 2.
 
 ## Radiant Mobility
 Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and your feet to glide on waves of divine light.

@@ -7,7 +7,7 @@ grand_parent: Species
 # Fallen Aasimar
 
 ## Ability Score Increase
-Your Strength score rises by 1.
+Your Strength score rises by 2.
 
 ## Necrotic Shroud
 Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, make a proficient Charisma attack roll vs the Charisma Defence of other creatures within 10 feet of you that can see you. On a hit, they become frightened of you until the end of your next turn.

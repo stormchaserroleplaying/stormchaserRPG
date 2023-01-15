@@ -7,9 +7,6 @@ grand_parent: Species
 # Shadow Elf
 Sworn to the Raven Queen’s service, the mysterious shadow elves venture into the material plane from the shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Fey elves and shadow elves are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
 
-## Ability Score Increase
-Your Constitution score rises by 1.
-
 ## Necrotic Resistance
 You have resistance to necrotic damage.
 

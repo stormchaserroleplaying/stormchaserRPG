@@ -19,4 +19,3 @@ Each background provides a character with:
 * 10 character points to spend on background talents, skills, tools or languages, as described below.
 
 A background talent may be a species feat, a skill feat, a tool feat, or other feat marked ᴮᴳ. If you use [the optional rule to spend coin on gear](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/), you do not receive the starting equipment from your background.
-

@@ -1,7 +1,7 @@
 ---
 title: Lore
 parent: Bard Talent Tree
-grand_parent: Expert
+grand_parent: Talents
 ---
 
 # Lore

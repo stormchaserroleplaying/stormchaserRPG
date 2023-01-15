@@ -1,7 +1,7 @@
 ---
 title: Creation
 parent: Bard Talent Tree
-grand_parent: Expert
+grand_parent: Talents
 ---
 
 # Creation

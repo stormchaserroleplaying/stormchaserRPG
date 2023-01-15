@@ -35,10 +35,10 @@ Your devotion to the beast within allows you to become more powerful animals. Yo
 *Prerequisite:* 3rd Level Spells and Enhanced Wild Shape<br>
 The claws and teeth of your beast shapes have been imbued with the divine power of nature. All attacks made while you are transformed using your Wild Shape are considered to be magical.
 
- ### Elemental Wild Shape
+### Elemental Wild Shape
 *Prerequisite:* 5th Level Spells and Primal Strike<br>
 The elements of the world are now part of your being. You can use your Wild Shape to transform into elementals by expending up to 5 mana to transform into an elemental with a CR maximum equal to the amount of mana expended. 
 
- ### Mutable Body
+### Mutable Body
 *Prerequisite:* 7th Level Spells and Elemental Wild Shape<br>
 You have learned how to control your ability to change your shape in a fine detail: you can cast *Alter Self* at will. 

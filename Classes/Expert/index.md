@@ -22,4 +22,4 @@ Experts have stamina equal to 3× their Constitution score. Their recovery die i
 An expert begins play with 2 additional character points to spend.
 
 ## Talents
-Experts may take talents from the bard, ranger and rogue talent trees.
+Experts may take talents from the [bard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/), [ranger](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/), [rogue](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Rogue/), and [awareness?](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Awareness/) talent trees.

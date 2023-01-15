@@ -46,4 +46,4 @@ You can use a holy symbol or druidic focus (see [Adventuring Gear](https://storm
 Your cantrips deal one additional die of damage.
 
 ## Talents
-Disciples may take talents from the cleric, druid, paladin and spellcasting talent trees.
+Disciples may take talents from the [cleric](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Cleric/), [druid](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Druid/), [paladin](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Paladin/) and [spellcasting](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/) talent trees.

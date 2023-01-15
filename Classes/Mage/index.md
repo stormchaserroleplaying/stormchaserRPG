@@ -36,4 +36,4 @@ You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplayi
 Your cantrips deal one additional die of damage.
 
 ## Talents
-Disciples may take talents from the sorcerer, warlock, wizard and spellcasting talent trees.
+Disciples may take talents from the [sorcerer](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Sorcerer/), [warlock](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/), [wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/) and [spellcasting](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/) talent trees.

@@ -36,4 +36,4 @@ The warrior’s feat die determines the feat’s success. This is a d4 and can b
 You can attack twice, instead of once, whenever you take the [Attack](https://stormchaserroleplaying.com/stormchaserRPG/Combat/ActionsinCombat/Attack/#attack-) action on your turn.
 
 ## Talents
-Warriors may take talents from the barbarian, fighter, monk and martial feat talent trees.
+Warriors may take talents from the [barbarian](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/), [fighter](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/), [monk](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Monk/) and [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/MartialFeat/) talent trees.

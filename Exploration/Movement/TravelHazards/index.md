@@ -1,7 +1,7 @@
 ---
 title: Travel Hazards
 parent: Movement
-grand_parent: Adventuring
+grand_parent: Exploration
 nav_order: 4
 ---
 

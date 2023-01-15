@@ -1,7 +1,7 @@
 ---
 title: Long Rest
 parent: Resting
-grand_parent: Adventuring
+grand_parent: Exploration
 nav_order: 3
 ---
 

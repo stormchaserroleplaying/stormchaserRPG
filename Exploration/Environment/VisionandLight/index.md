@@ -1,7 +1,7 @@
 ---
 title: Vision and Light
 parent: The Environment
-grand_parent: Adventuring
+grand_parent: Exploration
 nav_order: 3
 ---
 

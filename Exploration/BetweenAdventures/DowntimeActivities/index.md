@@ -1,7 +1,7 @@
 ---
 title: Downtime Activities
 parent: Between Adventures
-grand_parent: Adventuring
+grand_parent: Exploration
 nav_order: 2
 ---
 

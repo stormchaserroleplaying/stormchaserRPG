@@ -60,9 +60,11 @@ A concussive burst of sound, such as the effect of the *thunderwave* spell, deal
 Game Masters describe stamina loss in different ways. When your current stamina total is half or more of your stamina maximum, you typically show no signs of injury. When you drop below half your stamina maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 stamina strikes you directly, leaving a bleeding injury, or knocking you unconscious.
 
 ## Critical Hits
-When you score a critical hit, you get a bonus to the attack's damage against the target. Roll all of the attack's damage dice and add them to the maximum possible roll for a normal attack. Then add any relevant modifiers as normal.
+When you score a critical hit, you get a bonus to the attack's damage. Roll all of the attack's damage dice twice and the total to any relevant modifiers as normal.
 
-For example, if you score a critical hit with a dagger, roll 1d4+4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue's Sneak Attack feature, you add the maximum value of those dice as well.
+For example, if you score a critical hit with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue's Sneak Attack feature, then you double those dice as well.
+
+If you have a dice pool greater than 1, then every additional natural 20 rolled increases the multiplier on your number of damage dice by 1.
 
 ## Massive Damage
 When a creature takes damage from a single source equal to or greater than half its stamina maximum, the attacker makes an additional attack roll with a bonus of +5 vs the creature's Constitution defence. On a hit, the creature suffers a random effect determined by a roll on the System Shock table. For example, the Constitution defence of a creature that has a stamina maximum of 30 is attacked if it takes 15 damage or more from a single source.

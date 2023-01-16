@@ -24,18 +24,11 @@ If you have an branch spell that doesn’t appear on the divine spell list, that
 | 4th | *Divination, Guardian of Faith* |  
 | 5th | *Legend Lore, Wall of Stone* |  
 
-
-## Talents
-
-### Summon the Stars
-You have created map of your findings of the stars. Its form is determined by rolling on the table below or by choosing one. Your map is a tiny object and can be used as a focus for casting your spells. If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest, and it destroys the previous map.
-
-While holding the map, you have these benefits:
-* You know the *Guidance* cantrip.
-* You have a separate pool of mana from which you can draw upon to cast *Guiding Bolt*. The pool is equal to your spellcasting modifier and the maximum amount of mana that you may spend from this pool is equal to the maximum level of spells that you can cast. This pool is replinished when you finish a long rest.
+### Bonus Equipment
+You have created map of your findings of the stars. Its form is determined by rolling on the table below, or by choosing one.
 
 | d6 | Map Form |
-|:-----:|:------|
+|:--:|:---------|
 | 1 | A scroll covered with depictions of constellations |   
 | 2 | A stone tablet with fine holes drilled through it |  
 | 3 | A speckled owlbear hide, tooled with raised marks |  
@@ -43,6 +36,15 @@ While holding the map, you have these benefits:
 | 5 | A crystal that projects starry patterns when placed before a light |  
 | 6 | Glass disks that depict constellations |  
 
+Your map is a tiny object and can be used as a focus for casting your spells. If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest and destroys the previous map.
+
+While holding the map, you have the following benefits:
+* You know the *guidance* cantrip.
+* You have a separate pool of mana that you can draw upon to cast *guiding bolt*. This pool is equal to your spellcasting modifier. A *guiding bolt* cast in this way can be upcast no higher than your usual maximum spell level. The pool is replinished when you finish a long rest.
+
+## Talents
+
+### Summon the Stars
 You call down the stars to grant you their power. As a bonus action, you can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While it exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, or use this talent again.

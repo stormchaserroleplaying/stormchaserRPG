@@ -39,7 +39,7 @@ Your blessed touch can revitalise and heal. You always have the [*cure wounds*](
 
 ### Divine Smite
 *Prerequisite:* Divine Sense<br>
-When you hit a creature with a melee weapon attack, you can expend spell points to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per spell point expended. The maximum number of spell points that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
+When you hit a creature with a melee weapon attack, you can expend mana to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per spell point expended. The maximum number of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
 
 ### Divine Health
 *Prerequisite:* Lay on Hands<br>

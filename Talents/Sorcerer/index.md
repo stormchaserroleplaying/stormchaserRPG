@@ -32,20 +32,20 @@ You gain an amount of additional mana equal to the total number of sorcerer tale
 You also gain the ability to twist your spells to suit your needs. Choose two of the following Arcane Savant options. You can use only one Arcane Savant option on a spell when you cast it, unless otherwise noted.
 
 #### Careful Spell
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 additional spell point and choose a number of those creatures up to your spellcasting ability modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 additional mana and choose a number of those creatures up to your spellcasting ability modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
 #### Distant Spell
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 additional spell point to double the range of the spell.
+When you cast a spell that has a range of 5 feet or greater, you can spend 1 additional mana to double the range of the spell.
 
-When you cast a spell that has a range of touch, you can spend 1 additional spell point to make the range of the spell 30 feet.
+When you cast a spell that has a range of touch, you can spend 1 additional mana to make the range of the spell 30 feet.
 
 #### Empowered Spell
-When you roll damage for a spell, you can spend 1 additional spell point to reroll a number of the damage dice up to your spellcasting ability modifier (minimum of one). You must use the new rolls.
+When you roll damage for a spell, you can spend 1 additional mana to reroll a number of the damage dice up to your spellcasting ability modifier (minimum of one). You must use the new rolls.
 
 You can use Empowered Spell even if you have already used a different Arcane Savant option during the casting of the spell.
 
 #### Extended Spell
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 additional spell point to double its duration, to a maximum duration of 24 hours.
+When you cast a spell that has a duration of 1 minute or longer, you can spend 1 additional mana to double its duration, to a maximum duration of 24 hours.
 
 #### Heightened Spell
 When you cast a spell for which you make an attack roll against a creature's defence, you can spend 3 additional mana to benefit from advantage on the attack roll vs one target of the spell.
@@ -59,19 +59,19 @@ If you make an attack roll for a spell and miss, you can spend 2 additional mana
 You can use Seeking Spell even if you have already used a different Arcane Savant option during the casting of the spell.
 
 #### Subtle Spell
-When you cast a spell, you can spend 1 additional spell point to cast it without any somatic or verbal components.
+When you cast a spell, you can spend 1 additional mana to cast it without any somatic or verbal components.
 
 #### Transmuted Spell
-When you cast a spell that deals a type of damage from the following list, you can spend 1 additional spell point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
+When you cast a spell that deals a type of damage from the following list, you can spend 1 additional mana to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
 
 #### Twinned Spell
-When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of additional mana equal to the spell's level to target a second creature in range with the same spell (1 additional spell point if the spell is a cantrip).
+When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of additional mana equal to the spell's level to target a second creature in range with the same spell (1 additional mana if the spell is a cantrip).
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are.
 
 ### Magical Guidance
 *Prerequisite:* 2nd Level Spells and 2 Other Sorcerer Talents<br>
-You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 spell point to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
+You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 mana to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
 *Prerequisite:* 5th Level Spells and 3 Other Sorcerer Talents<br>

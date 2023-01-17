@@ -8,7 +8,7 @@ nav_order: 5
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
 ## Intelligence Checks
-An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
+An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Theology skills reflect aptitude in certain kinds of Intelligence checks.
 
 The GM might call for an Intelligence check when you try to accomplish tasks like the following:
 * Communicate with a creature without using words

@@ -1,10 +1,10 @@
 ---
-title: Religion
+title: Theology 
 parent: Skills
 ---
 
-# Religion
-Religion is an **Intelligence**-based skill that measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+# Theology
+Theology is an **Intelligence**-based skill that measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
 
 ## Subskills
 

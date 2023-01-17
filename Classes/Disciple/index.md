@@ -17,7 +17,7 @@ Disciples have stamina equal to 3× their Constitution score. Their recovery die
 **Weapons:** Simple weapons<br>
 **Tools:** None<br>
 **Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
-**Skills:** Choose 2 from Insight, Medicine, Persuasion and Religion
+**Skills:** Choose 2 from Insight, Medicine, Persuasion and Theology
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the divine spell list.

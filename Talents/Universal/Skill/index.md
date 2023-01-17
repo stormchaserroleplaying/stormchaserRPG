@@ -103,9 +103,9 @@ You master wilderness lore, gaining the following benefits:
 * You learn the Alarm spell. You can cast it once per long rest.
 
 ## Theologian
-You master the theory and practice of religion, gaining the following benefits:
+You master the theory and practice of theology, gaining the following benefits:
 * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-* You gain proficiency in the Religion skill. If you are already proficient in it, you instead gain expertise in it.
+* You gain proficiency in the Theology skill. If you are already proficient in it, you instead gain expertise in it.
 * You can cast the Ceremony spell as a ritual.
 
 ## Threatening

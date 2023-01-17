@@ -11,11 +11,11 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Benefit | Character Points |
 |:-------:|:----------------:|
 | Talent | Varies |
+| Weapon Mastery | 16 |
+| Skill Mastery | 16 |
 | Increase an Attribute by 1 | 5 |
-| Weapon Mastery | 5 |
-| Skill Mastery | 5 |
-| Weapon Expertise | 3 |
-| Skill Expertise | 3 |
+| Weapon Expertise | 4 |
+| Skill Expertise | 4 |
 | Tool Mastery | 3 |
 | Language (Native) | 3 |
 | Weapon Proficiency | 2 |

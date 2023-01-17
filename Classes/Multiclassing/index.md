@@ -48,5 +48,5 @@ Each spell that you know and prepare is associated with one of your classes, and
 
 If a cantrip of yours increases in power after a certain number of talents have been learned, the increase is based on your talents from classes that can learn that cantrip.
 
-### Spell Points
-You determine your available spell points by adding together all your levels in the disciple and mage classes. Use this total to determine your spell slots by consulting the [Spell Points table](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/SpellPoints/#spell-points-1).
+### Mana
+You determine your available mana by adding together all your levels in the disciple and mage classes. Use this total to determine your spell slots by consulting the [Mana table](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/Mana/#mana-1).

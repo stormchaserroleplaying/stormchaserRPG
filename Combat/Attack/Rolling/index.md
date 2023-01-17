@@ -6,7 +6,9 @@ nav_order: 1
 ---
 
 # Attack Rolls
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Dexterity defence, the attack hits. The Dexterity defence of a character is determined at character creation, whereas the Dexterity defence of a monster is in its stat block.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll your d20 dice pool for the weapon or spell school that you are using and add the appropriate modifiers to the highest die. If the total of the roll plus modifiers equals or exceeds the target's defence, the attack hits. If more than one of the dice in your dice pool would hit, then the attack is a [critical hit](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#critical-hits).
+
+Different types of attack target different defences. The defences of a character are determined at character creation and monster defences can be found in the monster's stat block.
 
 > ## Choosing to be Hit
 > Sometimes, an attack might miss you when you wanted it to hit. You can choose to allow a miss to hit you (no action required). If you do so, the attacker chooses the maximum amount of damage instead of rolling.
@@ -21,11 +23,16 @@ Some spells also require an attack roll. The ability modifier used for a spel1 a
 
 ### Proficiency
 You also roll with +1d when you attack using a weapon or spell with which you have proficiency.
+* A creature that is trained with its weapon adds a single d20 to its dice pool, for a total of 2d20.
+* A creature that is an expert with its weapon adds 2d20 to its dice pool, for a total of 3d20.
+* A creature that is a master with its weapon adds 3d20 to its dice pool, for a total of 4d20.
 
 ### Positioning
-When you attack a creature in melee from higher ground, you have advantage to hit.
+When you attack a creature in melee from higher ground, you have +1d to hit.
 
-When you attack a creature smaller than your mount that is on foot, you get the same advantage on melee attacks for being on higher ground.
+When you attack a creature smaller than your mount that is on foot, you get the same +1d on melee attacks for being on higher ground.
+
+When you [flank](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MovementandPosition/PlayingonaGrid/#flanking) a creature in melee, you also have +1d to hit.
 
 ## Rolling 1 or 20
 Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.

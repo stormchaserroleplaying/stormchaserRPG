@@ -13,7 +13,7 @@ The skills related to each attribute are shown in the following list. See each s
 * **Strength**: Athletics
 * **Dexterity**: Athletics, Sleight of Hand, Stealth
 * **Constitution**: Athletics
-* **Intelligence**: Arcana, History, Investigation, Nature, Religion
+* **Intelligence**: Arcana, History, Investigation, Nature, Theology 
 * **Wisdom**: Animal Handling, Insight, Medicine, Perception, Survival
 * **Charisma**: Deception, Intimidation, Performance, Persuasion
 

@@ -43,7 +43,7 @@ When you hit a creature with a melee weapon attack, you can expend mana to deal 
 
 ### Divine Health
 *Prerequisite:* Lay on Hands<br>
-Divine magic flowing through you and makes you immune to disease.
+Divine magic flowing through you makes you immune to disease.
 
 ### Extra Attack 
 *Prerequisite:* Divine Smite and 4 Other Paladin Talents<br>

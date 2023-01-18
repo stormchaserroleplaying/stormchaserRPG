@@ -42,11 +42,11 @@ You don't receive the class's starting equipment.
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
 
 ### Spells Known and Prepared
-You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. For exmple, if you are a disciple/mage with 16 intelligence and 18 wisdom, then you know 3 mage cantrips and 16 mage spells. As a disciple, you know 4 disciple cantrips and 18 disciple spells.
+You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. For example, if you are a mage with a spellcasting attribute of 18 and multiclass as a disciple with a spellcasting ability of 18, then you know 4 arcane cantrips and 2 arcane spells per spell level that you can cast. As a disciple, you know 3 divine cantrips and can prepare 3 disciple spells of each spell level.
 
-Each spell that you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+Each spell that you know and prepare is associated with one of your classes. You use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
 
 If a cantrip of yours increases in power after a certain number of talents have been learned, the increase is based on your talents from classes that can learn that cantrip.
 
 ### Mana
-You determine your available mana by adding together all your levels in the disciple and mage classes. Use this total to determine your spell slots by consulting the [Mana table](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/Mana/#mana-1).
+You determine your available mana based on your highest level [spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/). 

@@ -3,11 +3,13 @@ title: Spellcasting Talent Tree
 parent: Talents
 nav_order: 14
 ---
-your ability score in the spellcasting ability must be equal or higher than 10 + the spell's level.
+
 # Spellcasting Talent Tree
 
-| Talent | CP | Prerequisites | Attribute Prereq |
-|:-----------|:------:|:-----------|:------:|
+In order to cast a spell, your spellcasting attribute must be equal to, or higher than, 10 + the spell's level.
+
+| Talent | CP | Prerequisites | Spellcasting Attribute Prerequisite |
+|:-------|:--:|:--------------|:----------------------:|
 | 2nd Level Spells  | 5 | 2 Other Disciple or Mage Talents | 12 |
 | 3rd Level Spells  | 10 | 2nd Level Spells, 2 Other Disciple or Mage Talents | 13 |
 | 4th Level Spells  | 15 | 3rd Level Spells, 4 Other Disciple or Mage Talents | 14 |

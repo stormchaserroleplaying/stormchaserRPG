@@ -12,7 +12,7 @@ Scions of innately magical bloodlines, the chosen of deities, the spawn of monst
 When you take your first sorcerer talent, your spellcasting class feature for the mage class is affected in the following ways.
 
 ### Spellcasting Ability
-Choose Constitution or Charisma as your spellcasting ability for your mage spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
+Choose Constitution or Charisma as your spellcasting ability for your arcane spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
 
 ### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice from the mage spell list.

@@ -35,9 +35,9 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
 | Oath of the Crown | 10 | *-* |
-| Divine Allegiance | 10 | *Oath of the Crown and Aura of Protection* |
-| Unyielding Spirit | 10 | *Cleansing Touch and Divine Allegiance* |
-| Exalted Champion  | 10 | *Greater Auras and Unyielding Spirit* |
+| Divine Allegiance | 20 | *Oath of the Crown and Aura of Protection* |
+| Unyielding Spirit | 65 | *Cleansing Touch and Divine Allegiance* |
+| Exalted Champion  | 100 | *Greater Auras and Unyielding Spirit* |
 
 ### Oath of the Crown
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.

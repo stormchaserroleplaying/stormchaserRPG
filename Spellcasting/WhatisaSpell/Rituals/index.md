@@ -21,6 +21,6 @@ Certain spells have a special tag: ritual. Such a spell can be cast following th
 | 9 | 90 |
 | 10 | 120 |
 
-Rituals also don't consume mana, which means the ritual version of a spell can't be cast at a higher level.
+Rituals also don't consume mana, which means that the ritual version of a spell can't be cast at a higher level.
 
 To cast a spell as a ritual, a spellcaster must have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.

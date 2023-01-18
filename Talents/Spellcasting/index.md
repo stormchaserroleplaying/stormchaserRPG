@@ -8,15 +8,15 @@ your ability score in the spellcasting ability must be equal or higher than 10 +
 
 | Talent | CP | Prerequisites | Attribute Prereq |
 |:-----------|:------:|:-----------|:------:|
-| 2nd Level Spells  | 12 | 2 Other Disciple or Mage Talents | 12 |
-| 3rd Level Spells  | 13 | 2nd Level Spells, 2 Other Disciple or Mage Talents | 13 |
-| 4th Level Spells  | 14 | 3rd Level Spells, 4 Other Disciple or Mage Talents | 14 |
-| 5th Level Spells  | 15 | 4th Level Spells, 5 Other Disciple or Mage Talents | 15 |
-| 6th Level Spells  | 16 | 5th Level Spells, 7 Other Disciple or Mage Talents | 16 |
-| 7th Level Spells  | 17 | 6th Level Spells, 8 Other Disciple or Mage Talents | 17 |
-| 8th Level Spells  | 18 | 7th Level Spells, 10 Other Disciple or Mage Talents | 18 |
-| 9th Level Spells  | 19 | 8th Level Spells, 11 Other Disciple or Mage Talents | 19 |
-| 10th Level Spells | 20 | 9th Level Spells, 13 Other Disciple or Mage Talents | 20 |
+| 2nd Level Spells  | 5 | 2 Other Disciple or Mage Talents | 12 |
+| 3rd Level Spells  | 10 | 2nd Level Spells, 2 Other Disciple or Mage Talents | 13 |
+| 4th Level Spells  | 15 | 3rd Level Spells, 4 Other Disciple or Mage Talents | 14 |
+| 5th Level Spells  | 25 | 4th Level Spells, 5 Other Disciple or Mage Talents | 15 |
+| 6th Level Spells  | 35 | 5th Level Spells, 7 Other Disciple or Mage Talents | 16 |
+| 7th Level Spells  | 50 | 6th Level Spells, 8 Other Disciple or Mage Talents | 17 |
+| 8th Level Spells  | 65 | 7th Level Spells, 10 Other Disciple or Mage Talents | 18 |
+| 9th Level Spells  | 80 | 8th Level Spells, 11 Other Disciple or Mage Talents | 19 |
+| 10th Level Spells | 100 | 9th Level Spells, 13 Other Disciple or Mage Talents | 20 |
 
 ## 2nd Level Spells
 *Prerequisite:* Spellcasting attribute of 12 or higher and 2 Other Disciple or Mage Talents<br>

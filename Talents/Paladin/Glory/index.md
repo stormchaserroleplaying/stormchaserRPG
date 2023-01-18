@@ -35,9 +35,9 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
 | Oath of Glory     | 10 | *-* |
-| Aura of Alacrity  | 10 | *Oath of the Glory and Aura of Protection* |
-| Glorious Defense  | 10 | *Cleansing Touch and Aura of Alacrity* |
-| Living Legend     | 10 | *Glorious Defense* |
+| Aura of Alacrity  | 20 | *Oath of the Glory and Aura of Protection* |
+| Glorious Defense  | 65 | *Cleansing Touch and Aura of Alacrity* |
+| Living Legend     | 100 | *Glorious Defense* |
 
 ### Oath of Glory
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.

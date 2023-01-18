@@ -59,4 +59,4 @@ You've practiced casting powers in the midst of combat, learning techniques that
 
 ## Well of Powerᴮᴳ
 A deep wellspring of magical power resides within you.
-* Increase your spell points by one per short rest, or by three per long rest.
+* Increase your mana by one per short rest, or by three per long rest.

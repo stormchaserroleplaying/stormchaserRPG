@@ -55,7 +55,7 @@ You touch a willing creature and a magical protective force surrounds it until t
 
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a three-quarters cover and you take no damage from *magic missile*.
 
-If you go the entire round without being the target of a *magic missile* or your cover being hit, you reabsorb your magical shield and recover the spell point spent to create it.
+If you go the entire round without being the target of a *magic missile* or your cover being hit, you reabsorb your magical shield and recover the mana spent to create it.
 
 ## Ward the Evil Eye
 *1st Level Abjuration*<br>

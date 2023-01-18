@@ -92,7 +92,7 @@ Using cartographer’s tools, you can create accurate maps to make travel easier
 
 **Components.** Cartographer’s tools consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.
 
-**Arcana, History, Religion.** You can use your knowledge of maps and locations to unearth more detailed information when you use these skills. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.
+**Arcana, History, Theology.** You can use your knowledge of maps and locations to unearth more detailed information when you use these skills. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.
 
 **Nature.** Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.
 
@@ -216,7 +216,7 @@ Proficiency with painter’s supplies represents your ability to paint and draw.
 
 **Components.** Painter’s supplies include an easel, canvas, paints, brushes, charcoal sticks, and a palette.
 
-**Arcana, History, Religion.** Your expertise aids you in uncovering lore of any sort that is attached to a work of art, such as the magical properties of a painting or the origins of a strange mural found in a dungeon.
+**Arcana, History, Theology.** Your expertise aids you in uncovering lore of any sort that is attached to a work of art, such as the magical properties of a painting or the origins of a strange mural found in a dungeon.
 
 **Investigation, Perception.** When you inspect a painting or a similar work of visual art, your knowledge of the practices behind creating it can grant you additional insight.
 

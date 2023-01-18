@@ -9,7 +9,7 @@ Walking in two worlds but truly belonging to neither, half-elves combine what so
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
 
 ## Ability Score Increase
-Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+Two physical attributes of your choice increase by 1.
 
 ## Age
 Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.

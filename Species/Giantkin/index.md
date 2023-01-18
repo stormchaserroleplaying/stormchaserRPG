@@ -9,7 +9,7 @@ At the highest mountain peaks, far above the slopes where trees grow and where t
 Giantkin share a number of traits in common with each other.
 
 ## Ability Score Increase
-Your Strength score increases by 2, and your Constitution score increases by 1.
+Your choice of your Strength score, or your Constitution score increases by 2.
 
 ## Age
 Giantkin have life spans comparable to humans. They enter adulthood in their late teens and usually live less than a century.

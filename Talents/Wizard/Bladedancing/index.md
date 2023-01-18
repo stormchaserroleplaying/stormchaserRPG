@@ -37,7 +37,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 
 ### Dance of Defense
 *Prerequisite:* 5th Level Spells and Extra Attack<br>
-You can direct your magic to absorb damage while your Bladesong is active. If you took damage since your last turn, you may expend spell points as a free action to reduce that damage by an amount equal to five stamina per spell point expended. The maximum number of spell points that may be used in this way in a single round is equal to the maximum spell level that you can cast. 
+You can direct your magic to absorb damage while your Bladesong is active. If you took damage since your last turn, you may expend mana as a free action to reduce that damage by an amount equal to five stamina per point of mana expended. The maximum amount of mana that may be used in this way in a single round is equal to the maximum spell level that you can cast. 
 
 ### Dance of Victory
 *Prerequisite:* 7th Level Spells and Dance of Defence<br>

@@ -9,7 +9,7 @@ Whether united under the leadership of a mighty warlock or having fought to a st
 Your half-orc character has certain traits deriving from your orc ancestry.
 
 ## Ability Score Increase
-Your Strength score increases by 2, and your Constitution score increases by 1.
+Your Strength score and your Constitution score both increase by 1.
 
 ## Age
 Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.

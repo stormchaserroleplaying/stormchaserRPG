@@ -9,7 +9,7 @@ In the reckonings of most worlds, humans are the youngest of the common races, l
 It’s hard to make generalisations about humans, but your human character has these traits.
 
 ## Ability Score Increase
-One ability score of your choice rises by 2, and two different abilities of your choice rise by 1. Alternatively, four ability scores of of your choice each rise by 1.
+Two different physical abilities of your choice rise by 1.
 
 ## Age
 Humans reach adulthood in their late teens and live less than a century.

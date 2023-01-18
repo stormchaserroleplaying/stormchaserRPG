@@ -15,7 +15,7 @@ When a character casts a spell, they expend an amount of mana equal to that spel
 Some characters and monsters have special abilities that let them cast spells without using mana. For example, a warrior who follows the Way of the Four Elements, a mage who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way.
 
 ## Casting a Spell at a Higher Level
-When a spellcaster casts a spell using an amount of mana greater than the spell's level, the spell is cast at a higher level, provided that the amount of mana does not exceed the character's maximum spell level. For example, if a mage that can cast 2nd level spells casts *magic missile* using two spell points, then that magic missile is cast at 2nd level.
+When a spellcaster casts a spell using an amount of mana greater than the spell's level, the spell is cast at a higher level, provided that the amount of mana does not exceed the character's maximum spell level. For example, if a mage that can cast 2nd level spells casts *magic missile* using two mana, then that magic missile is cast at 2nd level.
 
 Some spells, such as *magic missile* and *cure wounds*, are more powerful when cast at a higher level, as detailed in the spell's description.
 
@@ -40,10 +40,7 @@ Finishing a long rest restores any expended mana (see [the rules on resting](htt
 When a spellcaster takes a breather or a short rest, they may spend their recovery dice to recover mana, instead of using them to recover stamina. A spellcaster who chooses to do this rolls their recovery die and recovers that amount of mana.
 
 > ## Variant: Short Rest Mana Recovery
-> If you wish to play a disciple or mage that normally recovers its mana on a long rest, but you would prefer to recover your mana on a short rest, see the **Mana for Short Rest Spellcasters** table below. Such classes have roughly one third as much mana as a long rest caster, including expected spell point recovery via hit dice. It is expected that characters have two short rests per day.
->
-> 
-> ###### Mana for Short Rest Spellcasters
+> If you wish to play a disciple or mage that normally recovers its mana on a long rest, but you would prefer to recover your mana on a short rest, see the table below. Such classes have roughly one third as much mana as a long rest caster, including expected mana recovery via recovery dice. It is expected that characters have two short rests per day.
 > 
 > | Maximum Spell Level | Mana |
 > |:-------------------:|:----:|

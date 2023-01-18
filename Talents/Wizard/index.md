@@ -39,7 +39,7 @@ You can copy a spell from your own spellbook into another book (for example, if 
 ### Preparing Spells
 You prepare the list of mage spells that are available for you to cast. To do so, choose a number of mage spells of each spell level that you can cast equal to your spellcasting ability modifer.
 
-For example, if you are a mage with 3 talents, you have 15 spell points. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
+For example, if you are a mage with 3 talents, you have 15 mana. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memorising the incantations and gestures that you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 

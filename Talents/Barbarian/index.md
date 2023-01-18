@@ -28,7 +28,7 @@ All barbarians start with the following rage power:
 > #### Rage
 > On your turn, you can spend a rage point to enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armour:
 > * You have advantage on Strength checks.
-> * When you make a melee weapon attack, you deal an additional 1d4 damage. This bonus damage die increases to a d6 at 5 barbarian talents, a d8 at 8 barbarian talents, a d10 at 11 barbarian talents and a d12 at 14 barbarian talents.
+> * When you make a melee weapon attack, you deal additional damage equal to your martial feat die.
 > * You have resistance to bludgeoning, piercing, and slashing damage.
 > 
 > If you are able to cast spells, you can’t cast them or concentrate on them while raging.

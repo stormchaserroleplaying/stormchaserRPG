@@ -17,7 +17,7 @@ Disciples have stamina equal to 3× their Constitution score. Their recovery die
 **Weapons:** Simple weapons<br>
 **Tools:** None<br>
 **Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
-**Skills:** Choose 2 from Insight, Medicine, Persuasion and Religion
+**Skills:** Choose 2 from Insight, Medicine, Persuasion and Theology
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the divine spell list.
@@ -34,7 +34,7 @@ You have 3 mana with which to cast your divine spells of 1st level and higher. T
 #### Preparing Spells
 You prepare the list of disciple spells that are available for you to cast, choosing from the divine spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.
 
-For example, if you are a disciple with 3 talents, you have 15 spell points. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells. If you prepare the 1st-level spell cure wounds, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
+For example, if you are a disciple with 3 talents, you have 15 mana. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells. If you prepare the 1st-level spell cure wounds, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of disciple spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 

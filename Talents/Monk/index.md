@@ -14,9 +14,9 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and any simple melee weapons that don't have the two-handed or unwieldy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armour or wielding a shield:
-* You learn the brawling fighting style. If you already know the brawling fighting style, gain 4 character points.
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
-* You treat monk weapons as unarmed strikes. If the weapon's damage die is smaller than your unarmed strike damage die, use your unarmed strike damage die.
+* You learn the brawling fighting style. If you already know the brawling fighting style, gain 5 character points.
+* You treat monk weapons as unarmed strikes. If the weapon's damage die is smaller than your martial feat die, use your martial feat die.
 
 ### Dance of the Crane
 While you are wearing no armor and not wielding a shield, your speed increases by 10 feet and you may use your Wisdom defence in place of your Strength or Dexterity defence versus melee and ranged attacks.

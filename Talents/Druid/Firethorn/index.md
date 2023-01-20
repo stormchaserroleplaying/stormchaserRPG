@@ -28,7 +28,7 @@ If you have a circle spell that doesn’t appear on the divine spell list, that 
 ## Talents
 
 ### Thorn Growth
-*Prerequisite:* 1st Level Spells and Wild Shape<br> 
+*Prerequisite:* Wild Shape<br> 
 You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can cast expend a number of mana to sprout these vines rather. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
 * You have gain +1d Strength ability checks and on indirect attacks against your Strength defence.
 * You can use a bonus action to make one attack with your thorns against a target within 5 feet of you. If the attack hits, the thorns deal piercing damage equal to 1d6 + your Strength modifier. 

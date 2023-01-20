@@ -13,13 +13,13 @@ Many other bards hate their whisper peers, viewing them as parasites that use a 
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Psychic Blades | 10 | - | - |
-| Words of Terror | 10 | - | - |
+| Psychic Blades | 5 | - | - |
+| Words of Terror | 5 | - | - |
 | Improved Psychic Blades | 5 | Psychic Blades | 3 |
-| Mantle of Whispers | 12 | Words of Terror | 4 |
+| Mantle of Whispers | 15 | Words of Terror | 4 |
 | Improved Psychic Blades II | 5 | Improved Psychic Blades | 7 |
-| Shadow Lore | 12 | Mantle of Whispers | 10 |
-| Improved Psychic Blades III | 12 | Improved Psychic Blades II | 11 |
+| Shadow Lore | 50 | Mantle of Whispers | 10 |
+| Improved Psychic Blades III | 5 | Improved Psychic Blades II | 11 |
 
 ### Psychic Blades
 You gain the ability to make your weapon attacks magically toxic to a creature’s mind. When you hit a creature with a weapon attack, you can spend a use of your bardic inspiration to deal an additionaL 2d6 psychic damage to that target. You can do so only once per round on your turn.

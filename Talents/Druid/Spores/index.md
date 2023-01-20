@@ -30,18 +30,18 @@ If you have an branch spell that doesn’t appear on the divine spell list, that
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:------------|
-| Halo of Spores| 10 | *1 other Druid Talent* |   
-| Symbiotic Entity| 10 |  *1st Level Spells, 1 Other Druid Talent* |   
+| Halo of Spores| 10 | *Wild Shape* |   
+| Symbiotic Entity| 10 |  *Halo of Spores* |   
 | Fungal Infestation| 10 | *3rd Level Spells, Halo of Spores, Symbiotic Entity* |   
 | Spreading Spores| 10 | *5th Level Spells and Fungal Infestation* |   
 | Fungal Body | 10 | *7th Level Spells and Spreading Spores* |  
 
 ### Halo of Spores
-*Prerequisite:* 1 Other Druid Talent<br>
+*Prerequisite:* Wild Shape<br>
 You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. As a free action at the beginning of your turn, you can make an indirect spell attack versus the Constitution defense of a creature that is within 10 feet of you or a creature that entered within 10 feet of you during the last round. On a hit, the target take 1d4 necrotic damage.
 
 ### Symbiotic Entity
-*Prerequisite:* 1st Level Spells, Halo of Spores<br>
+*Prerequisite:* Halo of Spores<br>
 You gain the ability to channel magic into your spores. As an action, you can expend a number mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
 	• Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.
 	• When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.

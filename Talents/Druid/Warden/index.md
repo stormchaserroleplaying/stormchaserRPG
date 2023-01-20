@@ -30,6 +30,7 @@ You learn the Sylvan language. You also have a way of speaking with beasts in wh
 ## Talents
 
 ### Spirits of the Wild
+*Prerequisite:* Wild Shape<br>
 You summon a spirit of nature that produces an aura to assist you and your allies. As a bonus action, the spirit appears at a point that you can with within 60 feet of you. The aura of the spirit extends in a 30-foot radius from that point. Though this spirit takes on the chosen form (see list below), it is intangible and is neither a creature nor an object. 
 
 On subsequent turns, you can use a bonus action to move the spirit up to 60 feet to a point that you can see. 

@@ -45,7 +45,6 @@ While holding the map, you have the following benefits:
 ## Talents
 
 ### Summon the Stars
-*Prerequisite:* Wild Shape<br>
 You call down the stars to grant you their power. As a bonus action, you can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While it exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, use this talent again, or use your Wild Shape.

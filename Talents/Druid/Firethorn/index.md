@@ -29,13 +29,13 @@ If you have a circle spell that doesn’t appear on the divine spell list, that 
 
 ### Thorn Growth
 *Prerequisite:* Wild Shape<br> 
-You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can cast expend a number of mana to sprout these vines rather. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
-* You have gain +1d Strength ability checks and on indirect attacks against your Strength defence.
+You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
+* You benefit from +1d to your Strength defence and Strength-based skill checks.
 * You can use a bonus action to make one attack with your thorns against a target within 5 feet of you. If the attack hits, the thorns deal piercing damage equal to 1d6 + your Strength modifier. 
 * When you grapple a creature, the target takes 1d6 piercing damage if you successfully grapple the target. 
 * You have a climbing speed equal to your walking speed.
 
-These benefits last for 10 minutes, until you lose all the temporary stamina or you cast Wild Shape.
+These benefits last for 10 minutes, until you lose all the temporary stamina or use Wild Shape.
 
 ### Extra Attack
 *Prerequisite:* 3rd Level Spells and Thorn Growth<br>

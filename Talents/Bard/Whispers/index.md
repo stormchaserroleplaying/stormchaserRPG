@@ -32,11 +32,11 @@ If the attack misses, then the target has no hint that you tried to frighten it.
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ### Improved Psychic Blades
-*Prerequisite:* Psychic Blades and 2 Other Bard Talents
+*Prerequisite:* Psychic Blades and 2 Other Bard Talents<br>
 The bonus damage that you inflict with Psychic Blades increases to 3d6.
 
 ### Mantle of Whispers
-*Prerequisite:* Words of Terror and 3 Other Bard Talents
+*Prerequisite:* Words of Terror and 3 Other Bard Talents<br>
 You gain the ability to adopt a humanoid’s persona. When a humanoid dies within 30 feet of you, you magically capture its shadow. You retain this shadow until you use it or you finish a long rest.
 
 You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.
@@ -48,11 +48,11 @@ Another creature can see through this disguise by succeeding on an [insight](htt
 Once you capture a shadow with this feature, you can’t capture another one with it until you finish a short or long rest.
 
 ### Improved Psychic Blades II
-*Prerequisite:* Improved Psychic Blades and 6 Other Bard Talents
+*Prerequisite:* Improved Psychic Blades and 6 Other Bard Talents<br>
 The bonus damage that you inflict with Psychic Blades increases to 5d6.
 
 ### Shadow Lore
-*Prerequisite:* Mantle of Whispers and 9 Other Bard Talents
+*Prerequisite:* Mantle of Whispers and 9 Other Bard Talents<br>
 You gain the ability to weave dark magic into your words and tap into a creature’s deepest fears. As an action, you make a proficient Charisma attack to magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. This attack automatically misses if it doesn’t share a language with you or if the target can’t hear you. On a miss, your whisper sounds like unintelligible mumbling and has no effect.
 
 On a hit, the target is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the next 8 hours or until you or your allies attack or damage it. The target interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.
@@ -64,5 +64,5 @@ When the effect ends, the creature has no understanding of why it held you in su
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Improved Psychic Blades III
-*Prerequisite:* Psychic Blades II and 10 Other Bard Talents
+*Prerequisite:* Psychic Blades II and 10 Other Bard Talents<br>
 The bonus damage that you inflict with Psychic Blades increases to 8d6.

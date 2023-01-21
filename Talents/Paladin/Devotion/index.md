@@ -35,12 +35,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
-| Oath of Devotion  | 10 | *-* |
-| Aura of Devotion  | 20 | *Oath of Devotion and Aura of Protection* |
+| Oath of Devotion  | 5 | *-* |
+| Aura of Devotion  | 15 | *Oath of Devotion and Aura of Protection* |
 | Purity of Spirit  | 65 | *Cleansing Touch and Aura of Devotion* |
-| Holy Nimbus       | 100 | *Greater Auras and Purity of Spirit* |
+| Holy Nimbus       | 50 | *Greater Auras and Purity of Spirit* |
 
 ### Oath of Devotion
+#### 5 character points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -58,15 +59,18 @@ Make a spell attack vs the Wisdom defence of each fiend or undead that can see o
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ### Aura of Devotion
-*Prerequisite:* Oath of Devotion and Aura of Protection<br>
+#### 15 character points
+#### *Prerequisite:* Oath of Devotion and Aura of Protection
 You and friendly creatures within 10 feet of you can't be charmed while you are conscious.
 
 ### Purity of Spirit
-*Prerequisite:* Cleansing Touch and Aura of Devotion<br>
+#### 65 character points
+#### *Prerequisite:* Cleansing Touch and Aura of Devotion
 You are always under the effects of a protection from evil and good spell.
 
 ### Holy Nimbus
-*Prerequisite:* Greater Auras and Purity of Spirit<br>
+#### 50 character points
+#### *Prerequisite:* Greater Auras and Purity of Spirit
 You can emanate an aura of sunlight. As an action for 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.

@@ -14,3 +14,61 @@ When you take your first fighter talent, you gain the following bonus proficienc
 * **Weapons:** All martial weapon groups
 
 ## Core Talents
+
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Second Wind | 5 | *-* |
+| Combat Superiority | 5 | *-* |
+| Action Surge | 5 | *TBD* |
+| Indomitable | 20 | *TBD* |
+| Greater Extra Attack | 35 | *TBD* |
+| Indomitable II | 30 | *TBD* |
+| Action Surge II | 20 | *TBD* |
+| Indomitable III | 20 | *TBD* |
+| Master of Combat | 100 | *TBD* |
+
+### Second Wind 
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Combat Superiority
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Action Surge 
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Indomitable
+#### 20 character points
+#### *Prerequisite:* TBD
+
+
+### Greater Extra Attack
+#### 35 character points
+#### *Prerequisite:* TBD
+
+
+### Indomitable II
+#### 30 character points
+#### *Prerequisite:* TBD
+
+
+### Action Surge II
+#### 20 character points
+#### *Prerequisite:* TBD
+
+
+### Indomitable III
+#### 20 character points
+#### *Prerequisite:* TBD
+
+
+### Master of Combat
+#### 100 character points
+#### *Prerequisite:* TBD
+
+

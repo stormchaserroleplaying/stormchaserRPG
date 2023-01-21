@@ -34,12 +34,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
-| Oath of Glory     | 10 | *-* |
-| Aura of Alacrity  | 20 | *Oath of the Glory and Aura of Protection* |
+| Oath of Glory     | 5 | *-* |
+| Aura of Alacrity  | 15 | *Oath of the Glory and Aura of Protection* |
 | Glorious Defense  | 65 | *Cleansing Touch and Aura of Alacrity* |
-| Living Legend     | 100 | *Glorious Defense* |
+| Living Legend     | 50 | *Glorious Defense* |
 
 ### Oath of Glory
+#### 5 character points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -51,11 +52,13 @@ As a bonus action, for the next 10 minutes, you have +1d on Strength (Athletics)
 Immediately after you deal damage to a creature with a weapon attack, you can use a bonus action and distribute temporary hit points to creatures of your choice within 30 feet of you, which can include you. The total number of temporary hit points equals 2d8 + your level in this class, divided among the chosen creatures however you like.
 
 ### Aura of Alacrity
-*Prerequisite:* Oath of the Glory and Aura of Protection<br>
+#### 15 character points
+#### *Prerequisite:* Oath of the Glory and Aura of Protection
 Your walking speed increases by 10 feet. In addition, if you aren't incapacitated, the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 ### Glorious Defense
-*Prerequisite:* Cleansing Touch and Aura of Alacrity<br>
+#### 65 character points
+#### *Prerequisite:* Cleansing Touch and Aura of Alacrity
 Each round, the first time that you or another creature that you can see within 10 feet of you is hit by a melee or ranged attack roll, if the attack hits by a margin smaller than your spellcasting modifier, the attack misses. When this oath power successfully triggers, if the attacker is within your weapon's range, they must make a defence check vs your weapon skill or be hit by your melee attack.
 
 On your turn, you may specify targets that you will or will not use this power to defend. The power will only be used on allied creatures unless explicitly stated otherwise.
@@ -63,7 +66,8 @@ On your turn, you may specify targets that you will or will not use this power t
 You can use this feature a number of times equal to your spellcasting modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 ### Living Legend
-*Prerequisite:* Greater Auras and Glorious Defense<br>
+#### 50 character points
+#### *Prerequisite:* Greater Auras and Glorious Defense
 You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a bonus action, you gain the following benefits for 1 minute:
 
 * You are blessed with an otherworldly presence, gaining +1d on all Charisma checks.

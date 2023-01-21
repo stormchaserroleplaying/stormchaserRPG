@@ -48,26 +48,37 @@ Each time that you gain the ability to cast spells of a higher spell level, you 
 
 ## Core Talents
 
-### Arcane Recovery
-*Prerequisite:* 1 Other Wizard Talent<br>
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Arcane Recovery   | 5 | *1 Other Wizard Talent* |
+| Spell Mastery     | 80 | *9th Level Spells and 5 Other Wizard Talents* |
+| Signature Spells          | 50 | *10th Level Spells and 6 Other Wizard Talents* |
+| Archmage          | 50 | *10th Level Spells and 6 Other Wizard Talents* |
+
+### Arcane Recovery 
+#### 5 character points
+#### *Prerequisite:* 1 Other Wizard Talent
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you may recover expended mana equal to the highest level of spells that you can cast.
 
 For example, if you can cast 2nd level spells, you can recover two mana.
 
 ### Spell Mastery
-*Prerequisite:* 9th Level Spells and 5 Other Wizard Talents<br>
+#### 80 character points
+#### *Prerequisite:* 9th Level Spells and 5 Other Wizard Talents
 You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ### Signature Spells
-*Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
+#### 50 character points
+#### *Prerequisite:* 10th Level Spells and 6 Other Wizard Talents
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 ### Archmage
-*Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
+#### 50 character points
+#### *Prerequisite:* 10th Level Spells and 6 Other Wizard Talents
 You have mastered the arcane arts. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Wizard Talent Tree Branches

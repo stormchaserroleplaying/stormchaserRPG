@@ -14,3 +14,29 @@ When you take your first warlock talent, you gain the following bonus proficienc
 * **Armour:** Light armour
 
 ## Core Talents
+
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Eldritch Invocations  | 5 | *TBD* |
+| Pact Boon             | 5 | *TBD* |
+| Additional Invocation | 5 | *TBD* |
+| Eldritch Master       | 100 | *TBD* |
+
+### Eldritch Invocations
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Additional Invocation
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Pact Boon
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Eldritch Master
+#### 100 character points
+#### *Prerequisite:* TBD

@@ -23,8 +23,18 @@ Additionally, whenever you gain a sorcerer talent, you can choose one of the mag
 
 ## Core Talents
 
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Arcane Savant I | 5 | *1 Other Sorcerer Talent* |
+| Magical Guidance | 5 | *2nd Level Spells and 2 Other Sorcerer Talents* |
+| Arcane Savant II | 25 | *5th Level Spells and 3 Other Sorcerer Talents* |
+| Arcane Savant III | 65 | *8th Level Spells and 5 Other Sorcerer Talents* |
+| Sorcerous Restoration | ?? | *10th Level Spells and 6 Other Sorcerer Talents* |
+| Apotheosis | 100 | *-* |
+
 ### Arcane Savant
-*Prerequisite:* 1 Other Sorcerer Talent<br>
+#### 5 character points
+#### *Prerequisite:* 1 Other Sorcerer Talent
 You tap into a deep wellspring of magic within yourself. This wellspring is represented by additional mana and the ability to create a variety of magical effects.
 
 You gain an amount of additional mana equal to the total number of sorcerer talents that you have taken.
@@ -70,20 +80,26 @@ When you cast a spell that targets only one creature and doesn’t have a range 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are.
 
 ### Magical Guidance
-*Prerequisite:* 2nd Level Spells and 2 Other Sorcerer Talents<br>
+#### 5 character points
+#### *Prerequisite:* 2nd Level Spells and 2 Other Sorcerer Talents
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 mana to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
-*Prerequisite:* 5th Level Spells and 3 Other Sorcerer Talents<br>
+#### 25 character points
+#### *Prerequisite:* 5th Level Spells and 3 Other Sorcerer Talents
 Choose one additional Arcane Savant option.
 
 ### Arcane Savant III
-*Prerequisite:* 8th Level Spells and 5 Other Sorcerer Talents<br>
+#### 65 character points
+#### *Prerequisite:* 8th Level Spells and 5 Other Sorcerer Talents
 Choose one additional Arcane Savant option.
 
 ### Sorcerous Restoration
-*Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents<br>
+#### 50 character points
+#### *Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents
 You regain 4 expended mana whenever you finish a short rest.
 
 ### Apotheosis
+#### 50 character points
+#### *Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents
 Your veins flow with pure arcane power. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.

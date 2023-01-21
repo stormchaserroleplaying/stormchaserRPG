@@ -10,7 +10,23 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 
 ## Core Talents
 
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Martial Arts | 5 | *-* |
+| Dance of the Crane | 5 | *-* |
+| Chi | 5 | *-* |
+| Stunning Strike | 5 | *Chi and 4 Other Monk Talents* |
+| Calm in the Storm | 15 | *Stunning Strike and 5 Other Monk Talents* |
+| Flying Crane | 20 | *Calm in the Storm and 6 Other Monk Talents* |
+| Purity of Body | 25 | *-* |
+| Tongue of the Sun and Moon | 30 | *-* |
+| Diamond Soul | 50 | *-* |
+| Timeless Body | 65 | *-* |
+| Empty Body | 80 | *-* |
+| Empty Body | 100 | *-* |
+
 ### Martial Arts
+#### 5 character points
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and any simple melee weapons that don't have the two-handed or unwieldy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armour or wielding a shield:
@@ -19,6 +35,7 @@ You gain the following benefits while you are unarmed or wielding only monk weap
 * You treat monk weapons as unarmed strikes. If the weapon's damage die is smaller than your martial feat die, use your martial feat die.
 
 ### Dance of the Crane
+#### 5 character points
 While you are wearing no armor and not wielding a shield, your speed increases by 10 feet and you may use your Wisdom defence in place of your Strength or Dexterity defence versus melee and ranged attacks.
 
 Additionally, the first time each round that you are hit by a ranged weapon attack, you can deflect or catch the missile as a free action. When you do so, the damage that you take from the attack is reduced by 1d10 + your Dexterity modifier.
@@ -26,7 +43,8 @@ Additionally, the first time each round that you are hit by a ranged weapon atta
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
 
 ### Chi
-*Prerequisite:* Martial Arts and Dance of the Crane<br>
+#### 5 character points
+#### *Prerequisite:* Martial Arts and Dance of the Crane
 Your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points equal to your Wisdom modifier.
 
 You can spend these points to fuel various chi features. You start knowing 7 such features: Deflect Missiles, Flurry of Blows, Focussed Aim, Patient Defense, Quickened Healing and Step of the Wind.
@@ -66,17 +84,44 @@ As an action, you can spend 2 ki points and roll your recovery die. You regain a
 You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Stunning Strike
-*Prerequisite:* Chi and 4 Other Monk Talents<br>
+#### 5 character points
+#### *Prerequisite:* Chi and 4 Other Monk Talents
 You can interfere with the flow of chi in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 chi point to attempt a stunning strike. If your chi attack hits the target's Constitution defence, they are stunned until the end of your next turn.
 
 ### Calm in the Storm
-*Prerequisite:* Stunning Strike and 5 Other Monk Talents<br>
+#### 15 character points
+#### *Prerequisite:* Stunning Strike and 5 Other Monk Talents
 Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that deals only half damage on a miss, you instead take no damage on a miss, and only half damage on a hit.
 
 Additionally, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 ### Flying Crane
-*Prerequisite:* Calm in the Storm and 6 Other Monk Talents<br>
+#### 20 character points
+#### *Prerequisite:* Calm in the Storm and 6 Other Monk Talents
 When you fall, reduce any falling damage that you take by an amount equal to five times your number of monk talents.
 
 Additionally, your unarmoured speed bonus increass to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
+
+### Purity of Body
+#### 25 character points
+#### *Prerequisite:* TBD
+
+### Tongue of the Sun and Moon
+#### 30 character points
+#### *Prerequisite:* TBD
+
+### Diamond Soul
+#### 50 character points
+#### *Prerequisite:* TBD
+
+### Timeless Body
+#### 65 character points
+#### *Prerequisite:* TBD
+
+### Empty Body
+#### 80 character points
+#### *Prerequisite:* TBD
+
+### Perfect Self
+#### 100 character points
+#### *Prerequisite:* TBD

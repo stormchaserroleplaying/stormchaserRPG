@@ -34,12 +34,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
-| Oath of Vengeance     | 10 | *-* |
-| Relentless Avenger    | 20 | *Oath of Vengeance and Aura of Protection* |
+| Oath of Vengeance     | 5 | *-* |
+| Relentless Avenger    | 15 | *Oath of Vengeance and Aura of Protection* |
 | Soul of Vengeance     | 65 | *Cleansing Touch and Relentless Avenger* |
-| Avenging Angel        | 100 | *Greater Auras and Soul of Vengeance* |
+| Avenging Angel        | 50 | *Greater Auras and Soul of Vengeance* |
 
 ### Oath of Vengeance
+#### 5 character points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -55,17 +56,20 @@ On a miss, the creature's speed is halved for 1 minute or until the creature tak
 As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you. You gain +1d on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious.
 
 ### Relentless Avenger
-*Prerequisite:* Oath of Vengeance and Aura of Protection<br>
+#### 15 character points
+#### *Prerequisite:* Oath of Vengeance and Aura of Protection
 Once per turn, if, within the last round, you hit a creature with an opportunity attack, you can move up to half your speed without spending movement. This movement doesn't provoke opportunity attacks.
 
 When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks.
 
 ### Soul of Vengeance
-*Prerequisite:* Cleansing Touch and Relentless Avenger<br>
+#### 65 character points
+#### *Prerequisite:* Cleansing Touch and Relentless Avenger
 Once per round, when a creature under the effect of your Vow of Enmity makes an attack, it provokes an opportunity attack from you if it is within range.
 
 ### Avenging Angel
-*Prerequisite:* Greater Auras and Soul of Vengeance<br>
+#### 50 character points
+#### *Prerequisite:* Greater Auras and Soul of Vengeance
 You can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:
 
 * Wings sprout from your back and grant you a flying speed of 60 feet.

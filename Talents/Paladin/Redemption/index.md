@@ -36,12 +36,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
-| Oath of Redemption        | 10 | *-* |
-| Aura of the Guardian      | 20 | *ath of Redemption and Aura of Protection* |
+| Oath of Redemption        | 5 | *-* |
+| Aura of the Guardian      | 15 | *ath of Redemption and Aura of Protection* |
 | Protective Spirit         | 65 | *Cleansing Touch and Aura of the Guardian* |
-| Emissary of Redemption    | 100 | *Greater Auras and Protective Spirit* |
+| Emissary of Redemption    | 50 | *Greater Auras and Protective Spirit* |
 
 ### Oath of Redemption
+#### 5 character points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -53,15 +54,18 @@ As a bonus action, you grant yourself a +1d bonus to Charisma (Persuasion) check
 Each round, the first time a hostile creature within 30 feet of you deals damage with an attack against a creature other than you, the creature must make a Wisdom defence check against your spell skill. On a failed defence, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
 
 ### Aura of the Guardian
-*Prerequisite:* Oath of Redemption and Aura of Protection<br>
+#### 15 character points
+#### *Prerequisite:* Oath of Redemption and Aura of Protection
 If, within the last round, a creature took damage while within 10 feet of you, you can use a free action at the start of your turn to magically cause that creature not to take the damage. Instead, you take the damage. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
 
 ### Protective Spirit
-*Prerequisite:* Cleansing Touch and Aura of the Guardian<br>
+#### 65 character points
+#### *Prerequisite:* Cleansing Touch and Aura of the Guardian
 You regain hit points equal to 1d6 + your number of paladin talents if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
 ### Emissary of Redemption
-*Prerequisite:* Greater Auras and Protective Spirit<br>
+#### 50 character points
+#### *Prerequisite:* Greater Auras and Protective Spirit
 You become an avatar of peace, which gives you two benefits:
 
 * You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).

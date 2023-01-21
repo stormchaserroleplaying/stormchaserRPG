@@ -35,12 +35,13 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:-----------|
-| Oath of the Ancients  | 10 | *-* |
-| Aura of Warding       | 20 | *Oath of the Ancients and Aura of Protection* |
+| Oath of the Ancients  | 5 | *-* |
+| Aura of Warding       | 15 | *Oath of the Ancients and Aura of Protection* |
 | Undying Sentinel      | 65 | *Cleansing Touch and Aura of Warding* |
-| Elder Champion        | 100 | *Greater Auras and Undying Sentinel* |
+| Elder Champion        | 50 | *Greater Auras and Undying Sentinel* |
 
 ### Oath of the Ancients
+#### 5 character points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -56,17 +57,20 @@ A turned creature must spend its turns trying to move as far away from you as it
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 
 ### Aura of Warding
-*Prerequisite:* Oath of the Ancients and Aura of Protection<br>
+#### 15 character points
+#### *Prerequisite:* Oath of the Ancients and Aura of Protection
 You and friendly creatures within 10 feet of you have resistance to damage from spells.
 
 ### Undying Sentinel
-*Prerequisite:* Cleansing Touch and Aura of Warding<br>
+#### 65 character points
+#### *Prerequisite:* Cleansing Touch and Aura of Warding
 When you are reduced to 0 stamina and are not killed outright, you can choose to drop to 1 stamina instead. Once you use this ability, you can't use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
 
 ### Elder Champion
-*Prerequisite:* Greater Auras and Undying Sentinel<br>
+#### 50 character points
+#### *Prerequisite:* Greater Auras and Undying Sentinel
 You can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.
 
 Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:

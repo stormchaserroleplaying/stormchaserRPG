@@ -16,3 +16,65 @@ When you take your first ranger talent, you gain the following bonus proficienci
 * **Weapons:** 4 martial weapon groups
 
 ## Core Talents
+
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Favoured Enemy | 5 | *-* |
+| Natural Explorer | 5 | *-* |
+| Primeval Awareness | 5 | *-* |
+| Extra Attack | 5 | *-* |
+| Greater Favoured Enemy | 5 | *-* |
+| Fleet of Foot | 5 | *-* |
+| Hide in Plain Sight | 25 | *-* |
+| Vanish | 50 | *-* |
+| Feral Senses | 80 | *-* |
+| Foe Slayer | 100 | *-* |
+
+### Favoured Enemy
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Natural Explorer
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Primeval Awareness
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Extra Attack
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Greater Favoured Enemy
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Fleet of Foot
+#### 5 character points
+#### *Prerequisite:* TBD
+
+
+### Hide in Plain Sight
+#### 25 character points
+#### *Prerequisite:* TBD
+
+
+### Vanish
+#### 50 character points
+#### *Prerequisite:* TBD
+
+
+### Feral Senses
+#### 80 character points
+#### *Prerequisite:* TBD
+
+
+### Foe Slayer
+#### 100 character points
+#### *Prerequisite:* TBD

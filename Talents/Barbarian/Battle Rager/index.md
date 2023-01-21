@@ -14,12 +14,11 @@ Only dwarves can become Battleragers. The battlerager fills a particular niche i
 
 | Talent | CP | Prerequisites | Barbarian Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Talent | 12 | - | - |
-| Talent | 12 | - | - |
-| Talent | 12 | - | - |
-| Talent | 12 | - | - |
-| Talent | 12 | - | - |
-| Talent | 12 | - | - |
+| Battlerager Armour | 12 | - | - |
+| Reckless Abandon | 12 | Battlerager Armour | 4 |
+| Battlerager Charge | 12 | Reckless Abandon | 7 |
+| Spiked Retribution | 12 | Battlerager Charge | 10 |
+
 
 ### Battlerager Armour
 When you choose this talent, you gain the ability to use spiked armor (see the “Spiked Armor” sidebar) as a weapon.
@@ -29,13 +28,13 @@ While you are wearing spiked armor and are raging, you can use a bonus action to
 Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds, then for each round that you maintain the grapple.
 
 ### Reckless Abandon
-*Prerequisite:* X Barbarian Talents
-Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
+*Prerequisite:* Battlerager Armour and 4 Barbarian Talents
+When you use Reckless Attack while raging, you also gain temporary stamina equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
 
 ### Battlerager Charge
-*Prerequisite:* X Barbarian Talents
-Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.
+*Prerequisite:* Reckless Abandon and 7 Barbarian Talents
+You can take the Dash action as a bonus action while you are raging.
 
 ### Spiked Retribution
-*Prerequisite:* X Barbarian Talents
-Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren’t incapacitated, and are wearing spiked armor.
+*Prerequisite:* Battlerager Charge and 10 Barbarian Talents
+When a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren’t incapacitated, and are wearing spiked armor.

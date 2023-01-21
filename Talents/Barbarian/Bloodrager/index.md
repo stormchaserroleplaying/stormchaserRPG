@@ -96,6 +96,7 @@ Furthermore, choose one element.
 | Air | Lightning |
 | Fire | Fire |
 | Water | Cold |
+
 You gain resistance to damage of the associated type. In addition, whenever you start casting a spell of 1st level or higher that deals this kind of damage, magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take elemental damage equal to half your barbarian level.
 
 #### Giant
@@ -156,6 +157,7 @@ When you rage, you gain special movement based on your element.
 | Air | Flying speed equal to walking speed |
 | Fire | Double walking speed |
 | Water | Breathe underwater and swim speed equal to walking speed |
+
 Additionally, you can briefly transform your body and any possessions you are carrying into pure elemental form, allowing you to fit through gaps as small as one inch.
 
 #### Giant

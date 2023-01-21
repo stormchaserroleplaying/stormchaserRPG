@@ -28,13 +28,13 @@ While you are wearing spiked armor and are raging, you can use a bonus action to
 Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds, then for each round that you maintain the grapple.
 
 ### Reckless Abandon
-*Prerequisite:* Battlerager Armour and 4 Barbarian Talents
+*Prerequisite:* Battlerager Armour and 4 Barbarian Talents<br>
 When you use Reckless Attack while raging, you also gain temporary stamina equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
 
 ### Battlerager Charge
-*Prerequisite:* Reckless Abandon and 7 Barbarian Talents
+*Prerequisite:* Reckless Abandon and 7 Barbarian Talents<br>
 You can take the Dash action as a bonus action while you are raging.
 
 ### Spiked Retribution
-*Prerequisite:* Battlerager Charge and 10 Barbarian Talents
+*Prerequisite:* Battlerager Charge and 10 Barbarian Talents<br>
 When a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren’t incapacitated, and are wearing spiked armor.

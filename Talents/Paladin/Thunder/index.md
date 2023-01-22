@@ -32,14 +32,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of Thunder   | 5 | *-* |
+|:-------|:--:|:--------------|
+| Oath of Thunder   | 5  | - |
 | Aura of the Storm | 15 | *Oath of Thunder and Aura of Protection* |
 | Thunder Struck    | 65 | *Cleansing Touch and Aura of the Storm* |
 | Thunder God       | 50 | *Greater Auras and Thunder Struck* |
 
 ### Oath of Thunder
-#### 5 character points
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -51,7 +51,7 @@ As an action, you can infuse a ranged or thrown weapon with lightning and make a
 As an action, you can choose to jump up to your movement speed in any direction. When you land, lightning explodes around you. Make a spell attack vs the Dexterity defence of all creatures within a 5 foot radius. On a hit, they are knocked back 5 feet and take 2d10 + your spellcasting ability modifier in thunder damage. On a miss, they take half damage and are not knocked back.
 
 ### Aura of the Storm
-#### 15 character points
+#### *Cost:* 15 Character Points
 #### *Prerequisite:* Oath of Thunder and Aura of Protection
 You and friendly creatures within 10 feet of you gain resistance to lightning and thunder damage. In addition, as a bonus action, you can cause a strong wind to whirl around you until you dismiss it (no action required), causing the following effects:
 * Unprotected flames, torch-sized or smaller, are extinguished.
@@ -59,12 +59,12 @@ You and friendly creatures within 10 feet of you gain resistance to lightning an
 * It expels vapour, gas, and fog that can be dispersed by strong wind.
 
 ### Thunder Struck
-#### 65 character points
+#### *Cost:* 65 Character Points
 #### *Prerequisite:* Cleansing Touch and Aura of the Storm
 Ranged attack rolls are made against you have -1d and you are immune to the paralysed condition.
 
 ### Thunder God
-#### 50 character points
+#### *Cost:* 50 Character Points
 #### *Prerequisite:* Greater Auras and Thunder Struck
 As an action, you can mantle the powers of a tempest deity. For 1 minute, your body crackles with thunder and lightning, and your eyes glow blue, revealing the raging storm within. You gain the following benefits:
 * You are immune to lightning and thunder damage.

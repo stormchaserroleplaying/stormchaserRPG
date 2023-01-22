@@ -32,59 +32,58 @@ When you take your first paladin talent, you gain the following bonus proficienc
 | Paragon | 50 | *5th Level Spells and 13 Other Paladin Talents* | 
 
 ### Divine Sense 
-#### 5 character points
+#### *Cost:* 5 Character Points
 You can use *detect evil*, as the spell, at will. As an action, you concentrate on a single item or individual within 60 feet and determine if it is evil. Additionally, studying the target for 3 rounds determines the strength of its aura. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
 
 ### Lay on Hands
-#### 5 character points
+#### *Cost:* 5 Character Points
 Your blessed touch can revitalise and heal. You always have the [*cure wounds*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [*lesser restoration*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a bonus action.
 
 ### Divine Smite
-#### 5 character points
+#### *Cost:* 5 Character Points
 #### *Prerequisite:* Divine Sense
 When you hit a creature with a melee weapon attack, you can expend mana to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per point of mana expended. The maximum amount of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
 
 ### Divine Health
-#### 5 character points
+#### *Cost:* 5 Character Points
 #### *Prerequisite:* Lay on Hands
 Divine magic flowing through you makes you immune to disease.
 
 ### Extra Attack
-#### 10 character points
+#### *Cost:* 10 Character Points
 #### *Prerequisite:* Divine Smite and 4 Other Paladin Talents
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Aura of Protection
-#### 10 character points
+#### *Cost:* 10 Character Points
 #### *Prerequisite:* 2nd Level Spells and 6 Other Paladin Talents
 Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 
 ### Aura of Courage
-#### 25 character points
+#### *Cost:* 25 Character Points
 #### *Prerequisite:* 3rd Level Spells, Aura of Protection and 7 Other Paladin Talents
 You and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
 
 ### Greater Divine Smite
-#### 35 character points
+#### *Cost:* 35 Character Points
 #### *Prerequisite:* 3rd Level Spells, Divine Smite and 8 Other Paladin Talents
 You are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage.
 
 ### Cleansing Touch
-#### 50 character points
+#### *Cost:* 50 Character Points
 #### *Prerequisite:* 4th Level Spells, Lay on Hands and 9 Other Paladin Talents
 You can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 ### Greater Auras
-#### 80 character points
+#### *Cost:* 80 Character Points
 #### *Prerequisite:* 5th Level Spells, Aura of Courage and 11 Other Paladin Talents
 The range of your auras increase to 30 feet.
 
 ### Paragon
-#### 50 character points
+#### *Cost:* 50 Character Points
 #### *Prerequisite:* 5th Level Spells and 13 Other Paladin Talents
 Your Strength or Dexterity (your choice) and Charisma scores increase by 2. Your maximum for these scores also increases by 2.
 
 ## Paladin Talent Tree Branches
-

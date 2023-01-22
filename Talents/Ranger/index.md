@@ -5,7 +5,7 @@ has_children: true
 nav_order: 9
 ---
 
-# Ranger Talent Tree
+# Ranger Talent Tree (Expert)
 For those who relish the thrill of the hunt, there are only predators and prey. Be they scouts, trackers, or bounty hunters, rangers share much in common: unique mastery of specialized weapons, skill at stalking even the most elusive game, and the expertise to defeat a wide range of quarries. Knowledgeable, patient, and skilled hunters, these rangers hound man, beast, and monster alike, gaining insight into the way of the predator, skill in varied environments, and ever more lethal martial prowess. While some track man-eating creatures to protect the frontier, others pursue more cunning game: even fugitives among their own people.
 
 **As long as at least half of your expert talents are from the ranger talent tree, your stamina increases to 4× your Constitution score and your recovery die increases to a d10.**
@@ -19,62 +19,63 @@ When you take your first ranger talent, you gain the following bonus proficienci
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Favoured Enemy | 5 | *-* |
-| Natural Explorer | 5 | *-* |
-| Primeval Awareness | 5 | *-* |
-| Extra Attack | 5 | *-* |
-| Greater Favoured Enemy | 5 | *-* |
-| Fleet of Foot | 5 | *-* |
-| Hide in Plain Sight | 25 | *-* |
-| Vanish | 50 | *-* |
-| Feral Senses | 80 | *-* |
-| Foe Slayer | 100 | *-* |
+| Favoured Enemy | 5 | - |
+| Natural Explorer | 5 | - |
+| Primeval Awareness | 5 | *3 Ranger Talents* |
+| Extra Attack | 5 | *Primeval Awareness* |
+| Greater Favoured Enemy | 5 | *Extra Attack* |
+| Fleet of Foot | 5 | *Extra Attack* |
+| Hide in Plain Sight | 25 | *Greater Favoured Enemy and 7 Other Ranger Talents* |
+| Vanish | 50 | *Hide in Plain Sight and 10 Other Ranger Talents* |
+| Feral Senses | 80 | *Vanish and 13 Other Ranger Talents* |
+| Foe Slayer | 100 | *Feral Senses* |
 
 ### Favoured Enemy
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+Content
 
 ### Natural Explorer
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+Content
 
 ### Primeval Awareness
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* 3 Ranger Talents
+Content
 
 ### Extra Attack
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* Primeval Awareness
+Content
 
 ### Greater Favoured Enemy
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* Extra Attack
+Content
 
 ### Fleet of Foot
-#### 5 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* Extra Attack
+Content
 
 ### Hide in Plain Sight
-#### 25 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 25 Character Points
+#### *Prerequisite:* Greater Favoured Enemy and 7 Other Ranger Talents
+Content
 
 ### Vanish
-#### 50 character points
-#### *Prerequisite:* TBD
-
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* Hide in Plain Sight and 10 Other Ranger Talents
+Content
 
 ### Feral Senses
-#### 80 character points
+#### *Cost:* 80 Character Points
 #### *Prerequisite:* TBD
-
+Vanish and 13 Other Ranger Talents
 
 ### Foe Slayer
-#### 100 character points
-#### *Prerequisite:* TBD
+#### *Cost:* 100 Character Points
+#### *Prerequisite:* Feral Senses
+Content
+
+## Ranger Talent Tree Branches

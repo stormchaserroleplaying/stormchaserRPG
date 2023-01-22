@@ -34,11 +34,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of the Ancients  | 5 | *-* |
-| Aura of Warding       | 15 | *Oath of the Ancients and Aura of Protection* |
-| Undying Sentinel      | 65 | *Cleansing Touch and Aura of Warding* |
-| Elder Champion        | 50 | *Greater Auras and Undying Sentinel* |
+|:-------|:--:|:--------------|
+| Oath of the Ancients | 5  | - |
+| Aura of Warding      | 15 | *Oath of the Ancients and Aura of Protection* |
+| Undying Sentinel     | 65 | *Cleansing Touch and Aura of Warding* |
+| Elder Champion       | 50 | *Greater Auras and Undying Sentinel* |
 
 ### Oath of the Ancients
 #### *Cost:* 5 Character Points

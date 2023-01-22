@@ -34,14 +34,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of Conquest      | 5 | *-* |
-| Aura of Conquest      | 15 | *Oath of Conquest and Aura of Protection* |
-| Scornful Rebuke       | 65 | *Cleansing Touch and Aura of Conquest* |
-| Invincible Conqueror  | 50 | *Greater Auras and Scornful Rebuke* |
+|:-------|:--:|:--------------|
+| Oath of Conquest     | 5  | - |
+| Aura of Conquest     | 15 | *Oath of Conquest and Aura of Protection* |
+| Scornful Rebuke      | 65 | *Cleansing Touch and Aura of Conquest* |
+| Invincible Conqueror | 50 | *Greater Auras and Scornful Rebuke* |
 
 ### Oath of Conquest
-#### 5 character points
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -53,22 +53,21 @@ As an action, make a spell attack vs the Wisdom defence of each creature of your
 When you make an attack roll, you can use Guided Strike to gain +1d to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 
 ### Aura of Conquest
-#### 15 character points
+#### *Cost:* 15 Character Points
 #### *Prerequisite:* Oath of the Conquest and Aura of Protection
 You constantly emanate a menacing aura while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.
 
 If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
 
 ### Scornful Rebuke
-#### 65 character points
+#### *Cost:* 65 Character Points
 #### *Prerequisite:* Cleansing Touch and Aura of Conquest
 Whenever a creature hits you with an attack, that creature takes psychic damage equal to your spellcasting modifier (minimum of 1) if you're not incapacitated.
 
 ### Invincible Conqueror
-#### 50 character points
+#### *Cost:* 50 Character Points
 #### *Prerequisite:* Greater Auras and Scornful Rebuke
 You gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
-
 * You have resistance to all damage.
 * When you take the Attack action on your turn, you can make one additional attack as part of that action.
 * Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.

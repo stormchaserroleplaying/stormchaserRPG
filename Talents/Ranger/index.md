@@ -21,13 +21,13 @@ When you take your first ranger talent, you gain the following bonus proficienci
 |:-------|:--:|:--------------|
 | Favoured Enemy | 5 | - |
 | Natural Explorer | 5 | - |
-| Primeval Awareness | 5 | *3 Ranger Talents* |
+| Primeval Awareness | 5 | *2 Ranger Talents* |
 | Extra Attack | 5 | *Primeval Awareness* |
 | Greater Favoured Enemy | 5 | *Extra Attack* |
 | Fleet of Foot | 5 | *Extra Attack* |
-| Hide in Plain Sight | 25 | *Greater Favoured Enemy and 7 Other Ranger Talents* |
-| Vanish | 50 | *Hide in Plain Sight and 10 Other Ranger Talents* |
-| Feral Senses | 80 | *Vanish and 13 Other Ranger Talents* |
+| Hide in Plain Sight | 25 | *Greater Favoured Enemy and 6 Other Ranger Talents* |
+| Vanish | 50 | *Hide in Plain Sight and 9 Other Ranger Talents* |
+| Feral Senses | 80 | *Vanish and 12 Other Ranger Talents* |
 | Foe Slayer | 100 | *Feral Senses* |
 
 ### Favoured Enemy

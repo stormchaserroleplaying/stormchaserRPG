@@ -34,14 +34,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of the Watchers  | 5 | *-* |
-| Aura of the Sentinel  | 15 | *Oath of the Watchers and Aura of Protection* |
-| Vigilant Rebuke       | 65 | *Cleansing Touch and Aura of the Sentinel* |
-| Mortal Bulwark        | 50 | *Greater Auras and Vigilant Rebuke* |
+|:-------|:--:|:--------------|
+| Oath of the Watchers | 5  | - |
+| Aura of the Sentinel | 15 | *Oath of the Watchers and Aura of Protection* |
+| Vigilant Rebuke      | 65 | *Cleansing Touch and Aura of the Sentinel* |
+| Mortal Bulwark       | 50 | *Greater Auras and Vigilant Rebuke* |
 
 ### Oath of the Watchers
-#### 5 character points
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -55,17 +55,17 @@ As an action, you present your holy symbol, make a spell attack vs the Wisdom de
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can take the Dodge action.
 
 ### Aura of the Sentinel
-#### 15 character points
+#### *Cost:* 15 Character Points
 #### *Prerequisite:* Oath of the Watchers and Aura of Protection
 You emit an aura of alertness while you aren't incapacitated. When you and any creatures of your choice within 10 feet of you roll initiative, you all gain +1d to initiative.
 
 ### Vigilant Rebuke
-#### 65 character points
+#### *Cost:* 65 Character Points
 #### *Prerequisite:* Cleansing Touch and Aura of the Sentinel
 Each round, the first time that you or another creature that you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma defence, the creature that forced the defence takes 2d8 + your spellcasting modifier in force damage.
 
 ### Mortal Bulwark
-#### 50 character points
+#### *Cost:* 50 Character Points
 #### *Prerequisite:* Greater Auras and Vigilant Rebuke
 You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:
 

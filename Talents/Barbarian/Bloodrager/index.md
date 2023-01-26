@@ -23,7 +23,7 @@ You gain the ability to concentrate on spells, even while raging, as long as you
 | Greater Bloodline | 50 | Bloodrage | 11 |
 
 ### Bloodline
-#### *Cost:* 5 Character Points
+#### **Cost:** 5 Character Points
 The power that lies dormant in your blood awakens.
 
 Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.
@@ -84,9 +84,8 @@ You discover innate magical abilities within yourself that are based on your gia
 
 You can speak, read, and write Giant.
 
-Select one of the giant types from the Mark of the Ordning table. If you have the spellcasting feature, you learn a cantrip and a 1st level spell. If you can case 2nd level spells, you also learn a 2nd level spell. If you later gain such abilities, then you learn these spells at that time. The specific spells that you learn are associated with your choice, as shown in the table. These spells count as arcane spells for you, but they don't count against your number of spells known.
+Select one of the giant types from the table below. If you have the spellcasting feature, you learn a cantrip and a 1st level spell. If you can case 2nd level spells, you also learn a 2nd level spell. If you later gain such abilities, then you learn these spells at that time. The specific spells that you learn are associated with your choice, as shown in the table. These spells count as arcane spells for you, but they don't count against your number of spells known.
 
-**Mark of the Ordning**
 | Giant | Cantrips | 1st Level Spell | 2nd Level Spell |
 |:-----:|:--------:|:---------------:|:---------------:|
 | Cloud | *Minor Illusion* | *Fog Cloud* | *Invisibility* |
@@ -104,18 +103,15 @@ You have darkvision with a range of 60 feet even when not raging. If you already
 In addition, you have resistance to cold damage and your melee attacks deal an additional martial feat die of cold damage.
 
 ### Blood Sanctuary
-#### *Cost:* 10 Character Points
-#### *Prerequisite:* Bloodline and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>#### **Prerequisite:** Bloodline and 4 Other Barbarian Talents
 Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d on saving throws against spells that you or an ally casts.
 
 ### Bloodrage
-#### *Cost:* 25 Character Points
-#### *Prerequisite:* Blood Sanctuary and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>#### **Prerequisite:** Blood Sanctuary and 7 Other Barbarian Talents
 Upon entering a rage, you can apply the effects of a spell that you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes mana as if you had cast the spell; you must have mana available to take advantage of this effect.
 
 ### Greater Bloodline
-#### *Cost:* 50 Character Points
-#### *Prerequisite:* Bloodrage and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>#### **Prerequisite:** Bloodrage and 10 Other Barbarian Talents
 Your connection to your bloodline is strengthened. You gain additional abilities when raging.
 
 #### Abyssal

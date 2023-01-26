@@ -103,15 +103,15 @@ You have darkvision with a range of 60 feet even when not raging. If you already
 In addition, you have resistance to cold damage and your melee attacks deal an additional martial feat die of cold damage.
 
 ### Blood Sanctuary
-#### **Cost:** 10 Character Points<br>#### **Prerequisite:** Bloodline and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Bloodline and 4 Other Barbarian Talents
 Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d on saving throws against spells that you or an ally casts.
 
 ### Bloodrage
-#### **Cost:** 25 Character Points<br>#### **Prerequisite:** Blood Sanctuary and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Blood Sanctuary and 7 Other Barbarian Talents
 Upon entering a rage, you can apply the effects of a spell that you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes mana as if you had cast the spell; you must have mana available to take advantage of this effect.
 
 ### Greater Bloodline
-#### **Cost:** 50 Character Points<br>#### **Prerequisite:** Bloodrage and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Bloodrage and 10 Other Barbarian Talents
 Your connection to your bloodline is strengthened. You gain additional abilities when raging.
 
 #### Abyssal

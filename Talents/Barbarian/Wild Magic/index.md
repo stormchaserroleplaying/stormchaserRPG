@@ -5,10 +5,12 @@ grand_parent: Talents
 ---
 
 # Wild Magic
-Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians carry the Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
+Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Hedge, the higher planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians carry the Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
 
-## Branch Feature: Rage Power, Magic Awareness
-As an action, you can spend 1 open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you. When you sense a spell, you learn which school of magic it belongs to. Do you not need to be raging to use this feature.
+## Features
+
+### Magic Awareness
+When you take your first talent from this branch As an action, you can spend 1 open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you. When you sense a spell, you learn which school of magic it belongs to. Do you not need to be raging to use this feature.
 
 ## Talents
 
@@ -22,9 +24,8 @@ As an action, you can spend 1 open your awareness to the presence of concentrate
 ### Wild Surge
 #### *Cost:* 5 Character Points
 #### *Prerequisite:* Rage
-The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
+The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the table below tWo determine the magical effect produced.
 
-**Wild Magic**<br>
 | d8 | Effect |
 |:--:|:------:|
 | 1 | Shadowy tendrils lash around you. Make a rage attack roll against the constitution defense each creature of your choice that you can see within 30 feet of you . On a hit, the target(s) take 1d12 necrotic damage. You also gain 1d12 temporary stamina when this effect activates. |

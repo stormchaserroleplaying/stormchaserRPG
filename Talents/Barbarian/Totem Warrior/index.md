@@ -24,8 +24,7 @@ Yours is a path that seeks attunement with the natural world, giving you a kinsh
 | Totemic Attunement  | 50 | Spirit Walker and 10 Other Barbarian Talents | 11 |
 
 ### Totem Spirit
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Rage
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Rage
 When you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object (an amulet or similar adornment) that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
 
 Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
@@ -41,8 +40,7 @@ Your totem animal might be an animal related to those listed here but more appro
 **Wolf:** While you’re raging, your friends have +1d on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
 
 ### Aspect of the Beast
-#### *Cost:* 10 Character Points
-#### *Prerequisite:* Totem Spirit and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Totem Spirit and 4 Other Barbarian Talents
 You gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected for Totem Spirit or a different one.
 
 **Bear:** You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled and you have +1d on Strength checks made to push, pull, lift, or break objects.
@@ -56,13 +54,11 @@ You gain a magical benefit based on the totem animal of your choice. You can cho
 **Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/), for rules on travel pace).
 
 ### Spirit Walker
-#### *Cost:* 25 Character Points
-#### *Prerequisite:* Spirit Seeker and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Spirit Seeker and 7 Other Barbarian Talents
 You can cast the *Commune With Nature* spell, but only as a ritual. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement
-#### *Cost:* 50 Character Points
-#### *Prerequisite:* Aspect of the Beast and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Aspect of the Beast and 10 Other Barbarian Talents
 You gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.
 
 **Bear:** While you’re raging, any creature within 5 feet of you that’s hostile to you has -1d on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you, or if it can’t be frightened.

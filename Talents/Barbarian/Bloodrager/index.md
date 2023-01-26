@@ -103,6 +103,9 @@ You have darkvision with a range of 60 feet even when not raging. If you already
 In addition, you have resistance to cold damage and your melee attacks deal an additional martial feat die of cold damage.
 
 ### Blood Sanctuary
+
+<div style="margin-top:-20px;"></div>
+
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Bloodline and 4 Other Barbarian Talents
 Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d on saving throws against spells that you or an ally casts.
 

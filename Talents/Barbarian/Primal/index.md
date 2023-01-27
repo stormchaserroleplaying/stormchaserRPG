@@ -20,7 +20,7 @@ Primal barbarians draw their rage from a bestial spark burning within their soul
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 5 Character Points<br>*Prerequisite:* Rage
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Rage
 When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. Your proficiency with this weapon is trained and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.
 
 You choose the weapon’s form each time you rage:
@@ -35,7 +35,7 @@ You choose the weapon’s form each time you rage:
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 10 Character Points<br>*Prerequisite:* Form of the Beast and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Form of the Beast and 4 Other Barbarian Talents
 The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:
@@ -53,7 +53,7 @@ You gain a swimming speed equal to your walking speed and you can breathe underw
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 25 Character Points<br>*Prerequisite:* Bestial Soul and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Bestial Soul and 7 Other Barbarian Talents
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. If your attack roll exceeds the target's wisdom defense, they suffer one of the following effects (your choice):
 - The target instantly makes a melee attack against another creature of your choice that you can see. Compare the attacker's weapon skill to the defender's defence. If the attacker's weapon skill is higher, the defender takes the attacker's melee damage.
 - The target takes 2d12 psychic damage.
@@ -64,7 +64,7 @@ You can use this feature a number of times equal to constitution modifier, and y
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 50 Character Points<br>*Prerequisite:* Infectious Fury and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Infectious Fury and 10 Other Barbarian Talents
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 5 temporary stamina for each creature that accepts this feature. Until the rage ends, the chosen creatures gain 1d6 extra damage on their attacks
 
 You can use this feature a number of times equal to your constitution modifier, and you regain all expended uses when you finish a long rest.

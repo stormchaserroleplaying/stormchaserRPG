@@ -11,14 +11,14 @@ Adherents of the College of Eloquence master the art of oratory. Persuasion is r
 
 | Talent | CP | Prerequisites | Other Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------------:|
-| Silver Tongue | 12 | - | - |
-| Unsettling Words | 12 | - | - |
-| Unfailing Inspiration | 12 | Unsettling Words | 4 |
-| Universal Speech | 10 | Silver Tongue | 4 |
-| Infectious Inspiration | 14 | Unfailing Inspiration | 10 |
+| Silver Tongue | 5 | - | - |
+| Unsettling Words | 5 | - | - |
+| Unfailing Inspiration | 5 | Unsettling Words | 4 |
+| Universal Speech | 5 | Silver Tongue | 4 |
+| Infectious Inspiration | 50 | Unfailing Inspiration | 10 |
 
 ### Silver Tongue
-You are a master at saying the right thing at the right time. When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.
+You are a master at saying the right thing at the right time. When you make a deception or persuasion check, you can treat a d20 roll of 9 or lower as a 10.
 
 ### Unsettling Words
 You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a bonus action, you can expend one use of your bardic inspiration and choose one creature that you can see within 60 feet of you. Roll the bardic inspiration die and add the result to the next attack made agains the creature before the start of your next turn.

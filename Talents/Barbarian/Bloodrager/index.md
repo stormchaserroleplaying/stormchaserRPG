@@ -90,9 +90,8 @@ You discover innate magical abilities within yourself that are based on your gia
 
 You can speak, read, and write Giant.
 
-Select one of the giant types from the Mark of the Ordning table. If you have the spellcasting feature, you learn a cantrip and a 1st level spell. If you can case 2nd level spells, you also learn a 2nd level spell. If you later gain such abilities, then you learn these spells at that time. The specific spells that you learn are associated with your choice, as shown in the table. These spells count as arcane spells for you, but they don't count against your number of spells known.
+Select one of the giant types from the table below. If you have the spellcasting feature, you learn a cantrip and a 1st level spell. If you can case 2nd level spells, you also learn a 2nd level spell. If you later gain such abilities, then you learn these spells at that time. The specific spells that you learn are associated with your choice, as shown in the table. These spells count as arcane spells for you, but they don't count against your number of spells known.
 
-**Mark of the Ordning**
 | Giant | Cantrips | 1st Level Spell | 2nd Level Spell |
 |:-----:|:--------:|:---------------:|:---------------:|
 | Cloud | *Minor Illusion* | *Fog Cloud* | *Invisibility* |
@@ -114,7 +113,7 @@ In addition, you have resistance to cold damage and your melee attacks deal an a
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Bloodline and 4 Other Barbarian Talents
-Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d on saving throws against spells that you or an ally casts.
+Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d to your defences against spells that you or an ally casts.
 
 ### Bloodrage
 

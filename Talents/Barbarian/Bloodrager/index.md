@@ -10,7 +10,10 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 ## Features
 
 ### Bloodcasting
-#### *Prerequisite:* Rage and Spellcasting
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** Rage and Spellcasting
 You gain the ability to concentrate on spells, even while raging, as long as your spellcasting ability is Constitution or Charisma. You can use a simple or martial melee weapon as a spellcasting focus for your spells.
 
 ## Talents
@@ -18,9 +21,9 @@ You gain the ability to concentrate on spells, even while raging, as long as you
 | Talent | CP | Prerequisites | Barbarian Talents Required |
 |:------:|:--:|:-------------:|:--------------------------:|
 | Bloodline | 5 | - | - |
-| Blood Sanctuary | 10 | Bloodline | 5 |
-| Bloodrage | 25 | Blood Sanctuary | 8 |
-| Greater Bloodline | 50 | Bloodrage | 11 |
+| Blood Sanctuary | 10 | Bloodline and 4 other Barbarian Talents | 5 |
+| Bloodrage | 25 | Blood Sanctuary and 7 other Barbarian Talents | 8 |
+| Greater Bloodline | 50 | Bloodrage and 10 other Barbarian Talents | 11 |
 
 ### Bloodline
 

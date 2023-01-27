@@ -26,7 +26,7 @@ You gain the ability to concentrate on spells, even while raging, as long as you
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 5 Character Points
+#### **Cost:** 5 Character Points
 The power that lies dormant in your blood awakens.
 
 Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.
@@ -110,21 +110,21 @@ In addition, you have resistance to cold damage and your melee attacks deal an a
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 10 Character Points<br>*Prerequisite:* Bloodline and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Bloodline and 4 Other Barbarian Talents
 Due to the power of your blood, you can stand confidently amid the effects of spells cast by you or your allies. You have +1d on saving throws against spells that you or an ally casts.
 
 ### Bloodrage
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 25 Character Points<br>*Prerequisite:* Blood Sanctuary and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Blood Sanctuary and 7 Other Barbarian Talents
 Upon entering a rage, you can apply the effects of a spell that you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes mana as if you had cast the spell; you must have mana available to take advantage of this effect.
 
 ### Greater Bloodline
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 50 Character Points<br>*Prerequisite:* Bloodrage and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Bloodrage and 10 Other Barbarian Talents
 Your connection to your bloodline is strengthened. You gain additional abilities when raging.
 
 #### Abyssal

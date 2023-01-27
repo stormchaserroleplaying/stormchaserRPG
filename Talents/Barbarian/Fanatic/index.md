@@ -1,11 +1,11 @@
 ---
-title: Zealot
+title: Fanatic
 parent: Barbarian Talent Tree
 grand_parent: Talents
 ---
 
-# Zealot
-Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots — warriors who channel their rage into powerful displays of divine power. A variety of gods inspire their followers to embrace this path. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.
+# Fanatic
+Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are fanatics — warriors who channel their rage into powerful displays of divine power. A variety of gods inspire their followers to embrace this path. In general, the gods who inspire fanatics are deities of combat, destruction, and violence. Not all are evil, but few are good.
 
 ## Features
 

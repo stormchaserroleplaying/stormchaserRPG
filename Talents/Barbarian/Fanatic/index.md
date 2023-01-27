@@ -22,20 +22,32 @@ Once your take your first talent from this branch, your soul is marked for endle
 | Rage Beyond Death | 50 | Zealous Presence and 10 Other Barbarian Talents | 11 |
 
 ### Divine Fury
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Rage
 You can channel divine fury into your weapon strikes. While you’re raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to your martial feat die. The extra damage is necrotic or radiant; you choose the type of damage when you gain this talent.
 
 ### Fanatical Focus
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Divine Fury and 4 Other Barbarian Talents
 The divine power that fuels your rage can protect you. Each time that you rage, you gain +1d to your defences until the first time that you are hit by an attack.
 
 ### Zealous Presence
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Fanatical Focus and 7 Other Barbarian Talents
 You learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain +1d on attack rolls and defenses until the start of your next turn.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Rage Beyond Death
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Zealous Presence and 10 Other Barbarian Talents
 The divine power that fuels your rage allows you to shrug off fatal blows.
 

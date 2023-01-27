@@ -10,7 +10,10 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 ## Features
 
 ### Bloodcasting
-#### *Prerequisite:* Rage and Spellcasting
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** Rage and Spellcasting
 You gain the ability to concentrate on spells, even while raging, as long as your spellcasting ability is Constitution or Charisma. You can use a simple or martial melee weapon as a spellcasting focus for your spells.
 
 ## Talents

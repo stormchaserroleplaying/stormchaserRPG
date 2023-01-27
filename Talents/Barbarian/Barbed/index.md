@@ -23,7 +23,7 @@ In most settings, only dwarves can become barbed barbarians. They fill a particu
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 5 Character Points
+#### **Cost:** 5 Character Points
 While you are wearing spiked armour and are raging, you can use a bonus action to make one unarmed strike against a target within 5 feet of you. If the attack hits, the spikes deal piercing damage equal to your martial feat die. You use your Strength modifier for the attack and damage rolls.
 
 Additionally, when you use the Attack action to grapple a creature, if your grapple check succeeds, then the target takes piercing damage equal to your martial feat die. This damage roll recurs on each round that you maintain the grapple.
@@ -32,19 +32,19 @@ Additionally, when you use the Attack action to grapple a creature, if your grap
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 10 Character Points<br>*Prerequisite:* Barbed Armour and 4 Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Barbed Armour and 4 Barbarian Talents
 When you use Reckless Attack while raging, you also gain temporary stamina equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
 
 #### ### Bristling Charge
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 25 Character Points<br>*Prerequisite:* Reckless Abandon and 7 Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Reckless Abandon and 7 Barbarian Talents
 You can take the Dash action as a bonus action while you are raging.
 
 ### Spiked Retribution
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 50 Character Points<br>*Prerequisite:* Bristling Charge and 10 Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Bristling Charge and 10 Barbarian Talents
 When a creature within 5 feet of you hits you with a melee attack, the attacker takes piercing damage equal to your martial feat die if you are raging, aren’t incapacitated, and are wearing spiked armor.

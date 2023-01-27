@@ -22,7 +22,7 @@ Elemental storm barbarians are typically elite champions who train alongside dru
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 5 Character Points
+#### **Cost:** 5 Character Points
 You emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
 
 Your aura has an effect that activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action. Choose fire, lightning, or cold. Your aura’s effect depends on that chosen element, as detailed below.
@@ -39,7 +39,7 @@ If your aura’s effects require a saving throw, the DC equals 8 + your proficie
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 10 Character Points<br>*Prerequisite:* Storm Aura and 4 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Storm Aura and 4 Other Barbarian Talents
 The storm grants you benefits even when your aura isn’t active. The benefits are based on the environment you chose for your Storm Aura.
 
 **Fire:** You gain resistance to fire damage, and you don’t suffer the effects of extreme heat. Moreover, as an action, you can touch a flammable object that isn’t being worn or carried by anyone else and set it on fire.
@@ -52,14 +52,14 @@ The storm grants you benefits even when your aura isn’t active. The benefits a
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 25 Character Points<br>*Prerequisite:* Storm Soul and 7 Other Barbarian Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Storm Soul and 7 Other Barbarian Talents
 You learn to use your mastery of the storm to protect others. Each creature of your choice within your Storm Aura gains the damage resistance granted by the Storm Soul feature.
 
 ### Raging Storm
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 50 Character Points<br>*Prerequisite:* Shielding Storm and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Shielding Storm and 10 Other Barbarian Talents
 The power of the storm you channel grows mightier, lashing out at your foes. The effect is based on the environment you chose for your Storm Aura.
 
 **Fire:** Once per round, if a creature hit you with an attack while within your Storm Aura since the end of your last turn, then you may make a rage attack against its Dexterity defence as a free action at the start of your turn. On a hit, roll your martial feat die twice. The target takes fire damage equal to the result, or half as much damage on a miss.

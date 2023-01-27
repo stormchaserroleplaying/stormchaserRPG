@@ -17,6 +17,9 @@ For some barbarians, rage is a means to an end, that end being violence. A frenz
 | Retaliation | 50 | Intimidating Presence and 10 other Barbarian Talents | 11 |
 
 ### Battle Frenzy
+
+<div style="margin-top:-10px;"></div>
+
 #### *Prerequisite:* Rage
 You can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion.
 

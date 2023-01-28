@@ -1,7 +1,7 @@
 ---
 title: How to Play
 parent: Introduction
-nav_order: 1
+nav_order: 2
 ---
 
 # How to Play

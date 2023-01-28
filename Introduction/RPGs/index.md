@@ -1,10 +1,10 @@
 ---
-title: What is a Roleplaying Game?
+title: Roleplaying Games
 parent: Introduction
 nav_order: 3
 ---
 
-# What is a Roleplaying Game?
+# Roleplaying Games
 A roleplaying game is an interactive story where one player, the Game Master (GM), sets the scene and presents challenges, while other players take the roles of player characters (PCs) and attempt to overcome those challenges. Danger comes in the form of monsters, devious traps, and the machinations of adversarial agents, but Stormchaser also provides political schemes, puzzles, interpersonal drama, and much, much more.
 
 The game is typically played in a group of four to seven players, with one of those players serving as the group’s Game Master. The GM prepares, presents, and presides over the game’s world and story, posing challenges and playing adversaries, allies, and bystanders alike. As each scene leads into the next, each player contributes to the story, responding to situations according to the personality and abilities of their character. Dice rolls, combined with preassigned statistics, add an element of chance and determine whether characters succeed or fail at actions that they attempt.
@@ -28,9 +28,3 @@ While the other players create and control their characters, the Game Master (or
 The GM can create a new adventure, crafting a narrative, selecting monsters, and assigning treasure on their own. Alternatively, they can instead rely on a published adventure, using it as a basis for the session and modifying it as needed to accommodate their individual players and the group’s style of play. Some even run games that combine original and published content, mixed together to form a new narrative.
 
 Being the GM is a challenge, requiring you to adjudicate the rules, narrate the story, and juggle other responsibilities. But it can also be very rewarding and worth all the work required to run a good game. If it is your first time running a game, remember that the only thing that matters is that everyone has a good time, and that includes you. Everything else will come naturally with practice and patience.
-
-## Specific Beats General
-This game has rules that govern how the game plays. Nevertheless, many species traits, class features, spells, magical items, monster abilities and other game elements break the general rules in some way, creating an exception to how the rest of the game works. Remember this: if a specific rule contradicts a general rule, the specific rule wins.
-
-## Round Down
-Generally, whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater.

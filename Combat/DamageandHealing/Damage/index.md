@@ -17,8 +17,8 @@ Different attacks, damaging spells and other harmful effects deal different type
 
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
-### Acid
-The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+### Corrosive
+The acid spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal corrosive damage.
 
 ### Bludgeoning
 Blunt force attacks (hammers, falling and constriction) deal bludgeoning damage. Melee attacks that deal bludgeoning damage have advantage to hit targets defending with Strength defence and disadvantage to hit targets defending with Dexterity defence.
@@ -29,14 +29,11 @@ The infernal chill from an ice devil's spear and the frigid blast of a white dra
 ### Fire
 Red dragons breathe fire and many spells conjure flames to deal fire damage.
 
-### Force
-Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including *magic missile* and *spiritual weapon*.
+### Energy
+Energy is pure magic focused into a damaging form. Most effects that deal energy damage are spells, including *magic missile* and *spiritual weapon*.
 
-### Lightning
-A *lightning bolt* spell and a blue dragon's breath deal lightning damage. 
-
-### Necrotic
-Necrotic damage, dealt by certain undead and a spell such as *chill touch*, withers matter and even the soul.
+### Electric
+A *lightning bolt* spell and a blue dragon's breath deal electric damage. 
 
 ### Piercing
 Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage. 
@@ -44,17 +41,20 @@ Puncturing and impaling attacks, including spears and monsters' bites, deal pier
 ### Poison
 Venomous stings and the toxic gas of a green dragon's breath deal poison damage. 
 
+### Profane
+Profane damage, dealt by certain undead and a spell such as *chill touch*, withers matter and even the soul.
+
 ### Psychic
 Mental abilities such as a mind flayer's psionic blast deal psychic damage. 
 
-### Radiant
-Radiant damage, dealt by a cleric's *flame strike* spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power. 
+### Sacred
+Sacred damage, dealt by a cleric's *flame strike* spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power. 
 
 ### Slashing
 Swords, axes and monsters' claws deal slashing damage. Melee attacks that deal slashing damage have advantage to hit targets defending with Dexterity defence and disadvantage to hit targets defending with Strength defence.
 
-### Thunder
-A concussive burst of sound, such as the effect of the *thunderwave* spell, deals thunder damage.
+### Sonic
+A concussive burst of sound, such as the effect of the *thunderwave* spell, deals sonic damage.
 
 ## Describing The Effects Of Damage 
 Game Masters describe stamina loss in different ways. When your current stamina total is half or more of your stamina maximum, you typically show no signs of injury. When you drop below half your stamina maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 stamina strikes you directly, leaving a bleeding injury, or knocking you unconscious.

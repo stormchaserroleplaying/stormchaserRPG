@@ -5,6 +5,8 @@ nav_order: 1
 ---
 
 # Credits
+Many thanks to all of my dedicated patrons and the members of the Stormchaser Roleplaying discord for their playtesting, feedback and critique!
+
 * Kyle Taylor - Project Lead
 
 * Barlow - Barbarian and Bard Talent Branches, Playtesting

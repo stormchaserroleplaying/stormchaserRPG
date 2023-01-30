@@ -35,7 +35,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape
+#### **Cost:** 5 Character Points
 You become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to two times the maximum spell level that you can cast.
 
 As a bonus action, you can choose one creature that you can see within 120 feet of you and spend a number of those dice up to one-half of the maximum of the dice pool. Roll the spent dice and add them together. The target regains stamina equal to the total. The target also gains 1 temporary stamina per die spent.

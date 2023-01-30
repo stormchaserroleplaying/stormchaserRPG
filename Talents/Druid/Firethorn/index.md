@@ -38,7 +38,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape
+#### **Cost:** 5 Character Points
 You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
 * You benefit from +1d to your Strength defence and Strength-based skill checks.
 * You can use a bonus action to make one attack with your thorns against a target within 5 feet of you. If the attack hits, the thorns deal piercing damage equal to 1d6 + your Strength modifier. 

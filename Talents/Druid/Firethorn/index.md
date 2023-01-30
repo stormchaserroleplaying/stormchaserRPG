@@ -10,7 +10,7 @@ Firethorn druids devote themselves to being a true force for nature, seeking to 
 ## Branch Features
 
 ### Bonus Proficiencies
-When you choose this circle you gain proficiency with martial axes and bludgeons.
+When you take your first talent from this branch, you gain proficiency with martial axes and bludgeons.
 
 ### Bonus Spells
 You learn the *Thorn Whip* cantrip. If you already know that cantrip you may learn another cantrip of your choose from the disciple spell list. Additionally, you gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

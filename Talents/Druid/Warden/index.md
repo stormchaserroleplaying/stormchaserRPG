@@ -33,7 +33,7 @@ You learn the Sylvan language. You also have a way of speaking with beasts in wh
 |:-----------|:------:|:------------|
 | Spirits of the Wild | 5 | *1st Level Spells and Wild Shape* |   
 | Locate Hedgeway | 5 | *1st Level Spells and Spirits of the Wild* |   
-| Empowered Allies | 10 |  *33rd Level Spells and Spirits of the Wild* |   
+| Empowered Allies | 10 |  *3rd Level Spells and Spirits of the Wild* |   
 | Spiritual Balm | 25 | *5th Level Spells and Empowered Allies* |   
 | Protect the Keeper | 50 | *7th Level Spells and Spiritual Balm* |   
 

@@ -30,7 +30,7 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Halo of Spores | 5 | *1st Level Spells and Wild Shape* |   
+| Halo of Spores | 5 | - |   
 | Symbiotic Entity | 5 | *Halo of Spores* |   
 | Fungal Infestation | 10 | *3rd Level Spells and Symbiotic Entity* |   
 | Spreading Spores | 25 | *5th Level Spells and Fungal Infestation* |   
@@ -40,8 +40,7 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape
-
+#### **Cost:** 5 Character Points
 You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. As a free action at the beginning of your turn, you can make an indirect spell attack versus the Constitution defense of a creature that is within 10 feet of you or a creature that entered within 10 feet of you during the last round. On a hit, the target take 1d4 necrotic damage.
 
 ### Symbiotic Entity
@@ -49,7 +48,6 @@ You are surrounded by invisible, necrotic spores that are harmless until you unl
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Halo of Spores
-
 You gain the ability to channel magic into your spores. As an action, you can expend a number mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
 * Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.
 * When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.
@@ -61,7 +59,6 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity
-
 Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the *zombie* stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
 
 You can use this feature a number of times equal to your spellcasting modifier, and you regain all expended uses of it when you finish a long rest.
@@ -73,7 +70,6 @@ Additionally, your Halo of Spores damage die increases to 1d6.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation
-
 You gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.
 
 As a free action, at the beginning of your turn you must make an indirect spell attack against the Constitution defense of all creatures that moved into the area of these spores on their last turn. If an attack hits, the creature takes damage equal to your Halo of Spores damage.
@@ -87,7 +83,6 @@ Additionally, your Halo of Spores damage die increases to 1d8.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Spreading Spores
-
 The fungal spores in your body alter you: you can’t be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you’re incapacitated.
 
 Additionally, your Halo of Spores damage die increases to 1d10.

@@ -9,9 +9,10 @@ Medium Humanoid (Beastkin), Chaotic Evil
 
 ## Defences
 **STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
-+2 shield bonus vs. melee and ranged attacks
++2 shield bonus vs. melee and ranged attacks<br><br>
 
-**Stamina:** 22
+**Stamina:** 22<br>
+**Speed:** 35 feet
 
 ## Ability Scores
 **STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)

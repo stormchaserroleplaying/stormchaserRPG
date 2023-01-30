@@ -34,7 +34,9 @@ If you have an branch spell that doesn’t appear on the divine spell list, that
 
 
 ### Summon Wildfire Spirit
+
 <div style="margin-top:-10px;"></div>
+
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape
 
 You can summon the primal spirit bound to your soul. As an action, you can expend mana to summon your wildfire spirit. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. 
@@ -49,7 +51,9 @@ The spirit exists for 1 hour, until it is reduced to 0 hit points, until you use
 
 
 ### Enhanced Bond
+
 <div style="margin-top:-10px;"></div>
+
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon Wildfire Spirit
 
 The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
@@ -57,7 +61,9 @@ The bond with your wildfire spirit enhances your destructive and restorative spe
 In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.
 
 ### Cauterizing Flames
+
 <div style="margin-top:-10px;"></div>
+
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Enhanced Bond
 
 You gain the ability to turn death into magical flames that can heal or incinerate. When a small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. 
@@ -66,8 +72,10 @@ As a free action at the beginning of your turn, you can extinguish the spectral 
 
 You can use this talent a number of times equal to your spellcasting modifier, and you regain all expended uses when you finish a long rest.
 
-## Blazing Reival
+### Blazing Reival
+
 <div style="margin-top:-10px;"></div>
+
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Cauterizing Flame
 
 The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 stamina and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your stamina and immediately rise to your feet.

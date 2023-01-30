@@ -70,7 +70,7 @@ You can use this feature a number of times equal to your spellcasting ability mo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Burning Thorns
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Burning Thorns
 
 The fiery spirit of nature grows within you and is just below the surface, ready to provide you protection. 
 * You have immunity to fire damaage.

@@ -97,4 +97,3 @@ Once you use this talent, you can’t use it again until you finish a long rest.
 ## Other
 **Senses:**Darkvision (60 feet), Passive Perception 12<br>
 **Languages:** understands the languages you speak
-![image](https://user-images.githubusercontent.com/69066156/215394179-c2fbcc29-c8e1-45a3-a84d-4a208d38e24e.png)

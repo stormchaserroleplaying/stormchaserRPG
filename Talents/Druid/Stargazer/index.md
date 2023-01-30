@@ -45,11 +45,11 @@ While holding the map, you have the following benefits:
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:------------|
-| Summon the Stars| 5 | - |   
+|:-------|:--:|:--------------|
+| Summon the Stars | 5  | - |   
 | Wheel of Fortune | 10 |  *3rd Level Spells and Summon the Stars* |   
-| The Magician | 25 | *5th Level Spells and Wheel of Fortune* |   
-| The Moon | 50 | *7th Level Spells and The Magician* |   
+| The Magician     | 25 | *5th Level Spells and Wheel of Fortune* |   
+| The Moon         | 50 | *7th Level Spells and The Magician* |   
 
 ### Summon the Stars
 

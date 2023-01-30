@@ -78,8 +78,7 @@ Once you use this talent, you can’t use it again until you finish a long rest.
 *Small Elemental*
 
 ## Defenses
-**STR:**12, **DEX:**11, **CON:**10, **INT:**8, **WIS:**10, **CHA:**8<br>
-
+**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
 **Stamina:** 5 + 5x mana spent to summon<br>
 
 ## Ability Scores

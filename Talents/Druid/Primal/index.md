@@ -46,7 +46,7 @@ Your devotion to the beast within allows you to become more powerful animals. Yo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Enahnced Wild Shape
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Enahnced Wild Shape
 
 The claws and teeth of your beast shapes have been imbued with the divine power of nature. All attacks made while you are transformed using your Wild Shape are considered to be magical.
 

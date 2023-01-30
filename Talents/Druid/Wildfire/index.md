@@ -10,9 +10,9 @@ Wildfire druids understand that destruction is sometimes the precursor of creati
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a circle spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-If you have an branch spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
+If you have an bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

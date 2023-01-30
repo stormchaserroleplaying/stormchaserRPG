@@ -46,18 +46,16 @@ While holding the map, you have the following benefits:
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:------------|
-| Summon the Stars| 5 | *1st Level Spells and Wild Shape* |   
+| Summon the Stars| 5 | - |   
 | Wheel of Fortune | 10 |  *3rd Level Spells and Summon the Stars* |   
 | The Magician | 25 | *5th Level Spells and Wheel of Fortune* |   
 | The Moon | 50 | *7th Level Spells and The Magician* |   
-
 
 ### Summon the Stars
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape
-
+#### **Cost:** 5 Character Points
 You call down the stars to grant you their power. As a bonus action, you can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While it exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, use this talent again, or use your Wild Shape.
@@ -73,7 +71,6 @@ The constellation lasts for 10 minutes. It ends early if you dismiss it (no acti
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon the Stars
-
 Whenever you finish a long rest you seek guidance from the stars for sings of what the next day may bring. When you do so, roll a die. You gain access to the below based on whether you rolled and even or odd number on the die:
 
 **Boon (even).** As a free action on your turn you may grant a creature that you can see within 30 feet of you +1d to their next attack roll or ability check. 
@@ -87,7 +84,6 @@ You can use this talent  a number of times equal to your spellcasting modifier, 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Wheel of Fortune
-
 The constellation of The Magician represents raw power and inspiration. He is called to assist the constellation chosen by your Summon the Stars talent.  The 1d8 of The Chariot and The Empress becomes 2d8, and while The High Priestess is active you have a flying speed of 20 feet and can hover.
 
 Additionally, at the start of your turn you may change the constellation from your Summon the Stars without the need to spend mana.
@@ -97,5 +93,4 @@ Additionally, at the start of your turn you may change the constellation from yo
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and The Magician
-
 Like an eclipse, The Moon passes between you and your attacker. While your Summon the Stars is active, you gain resistance to bludgeoning, piercing and slashing damage.

@@ -1,6 +1,7 @@
 ---
 title: Skill Checks
 parent: Social Interaction
+grand_parent: Exploration
 nav_order: 2
 ---
 

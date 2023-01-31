@@ -1,6 +1,7 @@
 ---
 title: Roleplaying
 parent: Social Interaction
+grand_parent: Exploration
 nav_order: 1
 ---
 

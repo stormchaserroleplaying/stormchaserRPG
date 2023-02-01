@@ -67,3 +67,14 @@ If you go the entire round without being the target of a *magic missile* or your
 You must cover one eye in its entirety when you cast this spell. While the eye is covered, you have disadvantage on Wisdom (Perception) checks that rely on sight and on melee and ranged attack rolls.
 
 For the spell's duration, any hostile creature that attempts to target you with a spell must make a Charisma defence check. On a failure, the creature may not target you with the spell, but must instead target the creature nearest to you. This spell lasts until your eye is uncovered.
+
+## Winter's Ward
+*1st Level Abjuration*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V,S,M *(A cup of water.)*<br>
+**Duration:** 1 hour
+ 
+A protective frost surrounds you, covering you and your gear. You gain 5 temporary stamina for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+ 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary stamina and the cold damage increase by 5 for each slot.

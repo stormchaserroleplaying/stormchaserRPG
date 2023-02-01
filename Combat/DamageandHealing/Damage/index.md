@@ -21,7 +21,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 The acid spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal corrosive damage.
 
 ### Bludgeoning
-Blunt force attacks (hammers, falling and constriction) deal bludgeoning damage. Melee attacks that deal bludgeoning damage have advantage to hit targets defending with Strength defence and disadvantage to hit targets defending with Dexterity defence.
+Blunt force attacks (hammers, falling and constriction) deal bludgeoning damage. When you defend with Strength defence, you have -1d to your Strength defence vs melee attacks that deal bludgeoning damage. When you defend with Dexterity defence, you have +1d to your Dexterity defence vs melee attacks that deal bludgeoning damage.
 
 ### Cold
 The infernal chill from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage.
@@ -51,7 +51,7 @@ Mental abilities such as a mind flayer's psionic blast deal psychic damage.
 Sacred damage, dealt by a cleric's *flame strike* spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power. 
 
 ### Slashing
-Swords, axes and monsters' claws deal slashing damage. Melee attacks that deal slashing damage have advantage to hit targets defending with Dexterity defence and disadvantage to hit targets defending with Strength defence.
+Swords, axes and monsters' claws deal slashing damage. When you defend with Strength defence, you have +1d to your Strength defence vs melee attacks that deal slashing damage. When you defend with Dexterity defence, you have -1d to your Dexterity defence vs melee attacks that deal slashing damage.
 
 ### Sonic
 A concussive burst of sound, such as the effect of the *thunderwave* spell, deals sonic damage.

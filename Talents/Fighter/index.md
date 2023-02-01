@@ -50,7 +50,7 @@ You gain +1d on defence checks against effects that would cause you to be fright
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You learn two [maneuvers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) of your choice. Many maneuvers enhance an attack in some way. You may use only one maneuver per round.
+You learn two [maneuvers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) of your choice. Many maneuvers enhance an attack in some way. You may only use one maneuver per turn.
 
 As a fighter gains talents, they learn to use their combat superiority in new ways. When you take your 3rd fighter talent, you also learn a new [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/). You learn an additional [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) for every second fighter talent taken after the 3rd.
 

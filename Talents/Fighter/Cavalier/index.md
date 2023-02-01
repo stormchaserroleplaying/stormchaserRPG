@@ -68,5 +68,5 @@ You can run down your foes, whether you're mounted or not. If you move at least 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Ferocious Charger and 11 other Fighter Talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Ferocious Charger and 12 other Fighter Talents
 You respond to danger with extraordinary vigilance. In combat, you may now make one opportunity attack per turn, rather than once per round.

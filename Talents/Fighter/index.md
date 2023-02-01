@@ -18,8 +18,8 @@ When you take your first fighter talent, you gain the following bonus proficienc
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Second Wind | 5 | - |
-| Combat Superiority | 5 | - |
 | Bravery | 5 | - |
+| Combat Superiority | 5 | - |
 | Action Surge | 5 | *2 Fighter Talents* |
 | Cunning Strategist | 5 | *4 Fighter Talents* |
 | Indomitable | 20 | *6 Fighter Talents* |

@@ -22,11 +22,11 @@ Finally, mounting or dismounting a creature costs you only 5 feet of movement, r
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Maneuver Versatility I | 5 | - |
-| Know Your Enemy | 15 | Maneuver Versatility I and 4 other Fighter Talents |
-| Maneuver Adept | 25 | Know Your Enemy and 6 other Fighter Talents |
-| Maneuver Versatility II | 65 | Maneuver Adept and 9 other Fighter Talents |
-| Master of Battle | 80 | Maneuver Versatility II and 11 other Fighter Talents |
+| Unwavering Mark | 5 | - |
+| Warding Maneuver | 15 | Unwavering Mark and 4 other Fighter Talents |
+| Hold the Line | 25 | Warding Maneuver and 6 other Fighter Talents |
+| Ferocious Charger | 65 | Hold the Line and 9 other Fighter Talents |
+| Vigilant Defender | 80 | Ferocious Charger and 11 other Fighter Talents |
 
 ### Unwavering Mark
 

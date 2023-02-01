@@ -5,18 +5,14 @@ grand_parent: Talents
 ---
  
 # Land
- 
 Land druids are typically mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The wisest members preside as the chief priests of communities that serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle’s mysterious rites.
  
 ## Branch Features
- 
 
 ### Bonus Cantrip
- 
 You learn one additional cantrip from the divine spell list.
 
 ### Bonus Spells
- 
 When you choose this branch, select which terrain influences you the most: arctic, coast, desert, forest, grassland, mountain, subterranean or swamp. You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
  
 If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
@@ -93,18 +89,17 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | 4th | *Grasping Vine, Vitriolic Sphere* | 
 | 5th | *Insect Plague, Scrying*| 
  
- 
 ## Talents
  
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:------------|
-| Knowledge of the Land I    |  5 | - |  
-| Nature's Ward              |  5 | *3rd Level Spells and Knowledge of the Land I* |  
-| Knowledge of the Land II   |  5 | *3rd Level Spells and Knowledge of the Land I* |  
-| Power of the Land          | 20 | *5th Level Spells and Nature's Ward* |  
-| Knowledge of the Land III  |  5 | *5th Level Spells and Knowledge of the Land II* |  
-| Nature's Sanctuary         | 40 | *7thLevel Spells and Power of the Land* |  
-| Knowledge of the Land IV   | 10 | *7th Level Spells and Knowledge of the Land III* |  
+|:-------|:--:|:--------------|
+| Knowledge of the Land I   | 5  | - |  
+| Nature's Ward             | 5  | 3rd Level Spells and Knowledge of the Land I |
+| Knowledge of the Land II  | 5  | 3rd Level Spells and Knowledge of the Land I | 
+| Power of the Land         | 20 | 5th Level Spells and Nature's Ward |
+| Knowledge of the Land III | 5  | 5th Level Spells and Knowledge of the Land II |
+| Nature's Sanctuary        | 40 | 7thLevel Spells and Power of the Land |
+| Knowledge of the Land IV  | 10 | 7th Level Spells and Knowledge of the Land III |
  
 ### Knowledge of the Land I
  
@@ -115,7 +110,6 @@ You know how to overcome the challenges of your chosen terrain. When in your cho
 
 You can pass through non-magical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, you gain +1d to your defense against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
- 
 ### Nature's Ward
  
 <div style="margin-top:-10px;"></div>
@@ -129,16 +123,15 @@ You can’t be charmed or frightened by beasts, elementals, fey or plants, and y
  
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Knowledge of the Land I
 Select a second type of terrain to add to your Knowledge of the Land I talent.
-
  
 ### Power of the Land
- 
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 5th Level Spells and Nature's Ward
 You are able to call upon the spirits of the land to augment in your magical abilities. As part of a long rest, you can perform a ritual that allows you to change the bonus spells list you know to any of the other bonus spell lists shown above. 
 
- ### Knowledge of the Land III
+### Knowledge of the Land III
  
 <div style="margin-top:-10px;"></div>
  
@@ -154,8 +147,7 @@ Many creatures of the natural world sense your connection to nature and become h
  
 A creature is aware of this effect before it makes its attack against you.
 
-
- ### Knowledge of the Land IV
+### Knowledge of the Land IV
  
 <div style="margin-top:-10px;"></div>
  

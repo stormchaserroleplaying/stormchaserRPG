@@ -1,13 +1,13 @@
 ---
-title: Arcane Marksmen
+title: Arcane Marksman
 parent: Wizard Talent Tree
 grand_parent: Talents
 ---
 
-# Arcane Marksmen ([Wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard))
-An Arcane Marksmen studies a unique magical method of marksmenship that weaves magic into ammunition to produce supernatural effects. Often associated with the elite Arcane Archers of the elves, these marksmen learn to infuse bows, crossbows, and other types of ranged weaponry with the powers of the arcane. Over the centuries, the methods of these elven marksmen have been learned by members of other races who can also balance arcane aptitude with marksmenship.
+# Arcane Marksman ([Wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard))
+An Arcane Marksman studies a unique magical method of marksmanship that weaves magic into ammunition to produce supernatural effects. Often associated with the elite Arcane Archers of the elves, these marksmen learn to infuse bows, crossbows, and other types of ranged weaponry with the powers of the arcane. Over the centuries, the methods of these elven marksmen have been learned by members of other races who can also balance arcane aptitude with marksmanship.
 
-Arcane Marksmen stand watch over the fringes of elven domains, keep a keen eye out for trespassers of wizard academies, and use thier magic-infused ammunition to defeat the monsters of the wilds. 
+Arcane Marksmen stand watch over the fringes of elven domains, keep a keen eye out for trespassers of wizard academies, and use their magic-infused ammunition to defeat the monsters of the wilds. 
 
 ## Branch Features
 

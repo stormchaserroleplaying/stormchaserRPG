@@ -10,15 +10,21 @@ These enormous creatures resemble an immense, demonic cross between ox and goril
 Medium Fiend (Daemon), Neutral Evil
 
 ## Defences
-**STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10<br>
-**Stamina:** 132<br>
-**Damage Reduction:** 6<br>
-**Damage Vulnerabilities:** Thunder<br>
-**Damage Immunities:** Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks<br>
+**STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10
+
+**Stamina:** 132
+
+**Damage Reduction:** 6
+
+**Damage Vulnerabilities:** Thunder
+
+**Damage Immunities:** Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+
 **Condition Immunities:** Frightened, Poisoned
 
 ## Ability Scores
-**STR:** 26 (+8), **DEX:** 14 (+2), **CON:** 22 (+6), **INT:** 3 (-4), **WIS:** 11 (+0), **CHA:** 10 (+0)<br>
+**STR:** 26 (+8), **DEX:** 14 (+2), **CON:** 22 (+6), **INT:** 3 (-4), **WIS:** 11 (+0), **CHA:** 10 (+0)
+
 **Speed:** 80 feet
 
 ## Actions
@@ -36,4 +42,4 @@ Medium Fiend (Daemon), Neutral Evil
 **Siege Monster:** The gozu deals double damage to objects and structures.
 
 ## Other
-**Senses:** Darkvision (60 ft.), Passive Perception 10<br>
+**Senses:** Darkvision (60 ft.), Passive Perception 10

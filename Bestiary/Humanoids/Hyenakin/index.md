@@ -8,14 +8,16 @@ grand_parent: Bestiary
 Medium Humanoid (Beastkin), Chaotic Evil
 
 ## Defences
-**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
+**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8
 +2 shield bonus vs. melee and ranged attacks<br><br>
 
-**Stamina:** 22<br>
-**Damage Reduction:** 4, 14-16 Coverage<br>
+**Stamina:** 22
+
+**Damage Reduction:** 4, 14-16 Coverage
 
 ## Ability Scores
-**STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)<br>
+**STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)
+
 **Speed:** 35 feet
 
 ## Actions
@@ -29,5 +31,6 @@ Medium Humanoid (Beastkin), Chaotic Evil
 **Rampage:** When the gnoll reduces a creature to 0 stamina with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
 ## Other
-**Senses:** Darkvision (60 ft.), Passive Perception 10<br>
+**Senses:** Darkvision (60 ft.), Passive Perception 10
+
 **Languages:** Hyena

@@ -11,23 +11,22 @@ Those who emulate the archetypal Battle Master employ martial techniques passed 
 You gain the following features when taking your first Talent in this Branch.
 
 #### Bonus Proficiency
-You also gain proficiency with one type of artisan's tools of your choice.
+You gain proficiency with one type of artisan's tools of your choice.
 
 #### Improved Combat Superiority
 Your tactical skill in combat improves, granting bonuses to your Combat Superiority.
 
 You learn two additional [maneuvers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) of your choice. You also gain an additinal [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) for every two fighter talents of fighter taken after the 3rd.
 
-
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Maneuver Versatility I | 5 | - |
-| Know Your Enemy | 15 | Maneuver Versatility I and 4 other Fighter Talents |
-| Maneuver Adept | 25 | Know Your Enemy and 6 other Fighter Talents |
+| Maneuver Versatility I  | 5  | - |
+| Know Your Enemy         | 15 | Maneuver Versatility I and 4 other Fighter Talents |
+| Maneuver Adept          | 25 | Know Your Enemy and 6 other Fighter Talents |
 | Maneuver Versatility II | 65 | Maneuver Adept and 9 other Fighter Talents |
-| Master of Battle | 80 | Maneuver Versatility II and 11 other Fighter Talents |
+| Master of Battle        | 80 | Maneuver Versatility II and 12 other Fighter Talents |
 
 ### Maneuver Versatility I
 
@@ -42,7 +41,6 @@ You can now use two maneuvers per round. You can use only one maneuver per attac
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Maneuver Versatility I and 4 other Fighter Talents
 If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
-
 - Strength score
 - Dexterity score
 - Constitution score
@@ -57,7 +55,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Know Your Enemy and 6 other Fighter Talents
-Once per turn, if you would roll a [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) die as part of a manuever, you may gain advantage on the die.
+Once per turn, if you would roll a [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) die as part of a manuever, you may gain roll it twice and take the higher result.
 
 ### Maneuver Versatility II
 

@@ -30,6 +30,7 @@ You also choose to gain proficiency in the [Arcana](https://stormchaserroleplayi
 | Arcane Sharpshooter | 50 | *7th Level Spells and Ever-Ready Shot* |
 
 ### Arcane Missiles
+
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
@@ -46,33 +47,32 @@ Once per turn, when you fire ammunition from a ranged weapon as part of the Atta
 #### Arcane Shot Options
 The options are presented here in alphabetical order. They are all magical effects, and each one is associated with one of the schools of magic.
 
-- **Banishing Shot.** You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. <br>When you use this shot, if your attack roll exceeds the target's Charisma defence, it is banished. While banished in this way, the target's speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied. <br>If you have the Ever-Ready Shot, a target also takes 1d6 Energy damage when the attack hits it.
+- **Banishing Shot.** You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. When you use this shot, if your attack roll exceeds the target's Charisma defence, it is banished. While banished in this way, the target's speed is 0 and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied. If you have the Ever-Ready Shot, a target also takes 1d6 energy damage when the attack hits it.
 
-- **Beguiling Shot.** Your enchantment magic causes this shot to temporarily beguile its target. <br>When you use this shot, the creature hit by the attack takes an extra 2d6 psychic damage, and choose one of your allies within 30 feet of the target. If your attack roll exceeds the target's Wisdom defence, the target can't attack the chosen ally or include that ally in a harmful area of effect until the end of your next turn. The target ignores this effect if it is immune to the charmed condition. This effect also ends if the chosen ally deals any damage to the target.
+- **Beguiling Shot.** Your enchantment magic causes this shot to temporarily beguile its target. When you use this shot, the creature hit by the attack takes an extra 2d6 psychic damage. Additionally, choose one of your allies within 30 feet of the target. If your attack roll exceeds the target's Wisdom defence, the target can't attack the chosen ally or include that ally in a harmful area of effect until the end of your next turn. The target ignores this effect if it is immune to the charmed condition. This effect also ends if the chosen ally deals any damage to the target.
 
-- **Bursting Shot.** You imbue your weapon with force energy drawn from the school of evocation. <br>When you use this shot, the energy detonates immediately after the attack hits the creature. The target and all other creatures within 10 feet of it take 2d6 Energy damage each.
+- **Bursting Shot.** You imbue your weapon with magic drawn from the school of evocation. When you use this shot, the energy detonates immediately after the attack hits the creature. The target and all other creatures within 10 feet of it take 2d6 energy damage each.
 
-- **Defending Arrow.** You use abjuration magic to weave a charm that disrupts your enemy's magic. <br>A creature hit by this shot suffers disadvantage on the next attack roll it makes before the end of your next turn.
+- **Defending Arrow.** You use abjuration magic to weave a charm that disrupts your enemy's magic. A creature hit by this shot suffers -1d on the next attack roll that it makes before the end of your next turn.
 
-- **Enfeebling Shot.** You weave necromantic magic into your shot. <br>When you use this shot, the creature hit by the attack takes an extra 2d6 necrotic damage and any bludgeoning, piercing, or slashing damage dealt by the creature's attacks is halved until the end of your next turn.
+- **Enfeebling Shot.** You weave necromantic magic into your shot. When you use this shot, the creature hit by the attack takes an extra 2d6 profane damage and any bludgeoning, piercing, or slashing damage dealt by the creature's attacks is halved until the end of your next turn.
 
-- **Grasping Shot.** When this shot strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. <br>When you use this shot, the creature hit by the attack takes an extra 2d6 poison damage, its speed is reduced by 10 feet, and it takes 2d6 slashing damage if it moves 1 foot or more without teleporting. The target, or any creature that can touch it, can use its action to remove the brambles with a successful Strength (Athletics) check against your weapon skill. Otherwise, the brambles last for 1 minute or until you end it as a free action.
-<br>If you have the Ever-Ready Shot Talent, the poison damage and slashing damage both increase by 1d6.
+- **Grasping Shot.** When this shot strikes its target, conjuration magic creates grasping, poisonous brambles that wrap around the target. When you use this shot, the creature hit by the attack takes an additional 2d6 poison damage, its speed is reduced by 10 feet and it takes 2d6 slashing damage if it moves 1 foot or more without teleporting. The target, or any creature that can touch it, can use its action to remove the brambles with a successful athletics check against your weapon skill. Otherwise, the brambles last for 1 minute, or until you end it as a free action. If you have the Ever-Ready Shot Talent, the poison damage and slashing damage both increase by 1d6.
 
-- **Piercing Shot.** You use transmutation magic to give your shot an ethereal quality. <br>When you attack using this option, the attack shoots forward in a line rather than hitting a single target, which is 1 foot wide and 30 feet long, before disappearing. The shot passes harmlessly through objects and ignores cover. Compare your attack roll against each creature's Dexterity defence in that line. On a hit, a creature takes damage as if it were hit by the attack, plus an extra 1d6 piercing damage. On a miss, a target takes half as much damage.
+- **Piercing Shot.** You use transmutation magic to give your shot an ethereal quality. When you attack using this option, the attack shoots forward in a line rather than hitting a single target, which is 1 foot wide and 30 feet long, before disappearing. The shot passes harmlessly through objects and ignores cover. Compare your attack roll to the Dexterity defence of each creature in that line. On a hit, a creature takes damage as if it were hit by the attack, plus an additional 1d6 piercing damage. On a miss, a target takes half as much damage.
 
-- **Seeker Shot.** Using divination magic, you grant your shot the ability to seek out a target. <br>When you attack using this option, choose one creature you have seen in the past minute. The shot flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the shot to travel to the target, otherwise, the shot disappears after traveling as far as it can. On a hit, the target takes damage an extra 1d6 Energy damage, and you learn the target's current location. On a miss, the target takes half as much damage, and you don't learn its location.
+- **Seeker Shot.** Using divination magic, you grant your shot the ability to seek out a target. When you attack using this option, choose one creature that you have seen in the past minute. The shot flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the shot to travel to the target, it does so. Otherwise, the shot disappears after traveling as far as it can. On a hit, the target takes damage an additional 1d6 energy damage, and you learn the target's current location. On a miss, the target takes half as much damage and you don't learn its location.
 
-- **Shadow Shot.** You weave illusion magic into your shot, causing it to occlude your Shot's vision with shadows. <br>The creature hit by the attack takes an extra 2d6 psychic damage if your attack roll exceeds the target's Wisdom defence, it is unable to see anything farther than 5 feet away until the start of your next turn.
+- **Shadow Shot.** You weave illusion magic into your shot, causing it to occlude your target's vision with shadows. A creature hit by the attack takes an additional 2d6 psychic damage. If your attack roll exceeds the target's Wisdom defence, it is unable to see anything farther than 5 feet away until the start of your next turn.
 
 ### Magic Bolts
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Missiles
-As an action, you can conjure 20 nonmagical ammunition. The ammunition appears in your hand or in a container, such as a quiver, on your body. The arrows remain for 10 minutes or until you use this feature again; they then vanish.
+As an action, you can conjure 20 nonmagical ammunition. The ammunition appears in your hand or in a container, such as a quiver, on your body. The arrows remain for 10 minutes or until you use this feature again. They then vanish.
 
-You also gain the ability to infuse nonmagical ammunition with magic. Whenever you fire a piece of ammunition from a ranged weapon, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the ammunition immediately after it hits or misses its target.
+You also gain the ability to infuse non-magical ammunition with magic. Whenever you fire a piece of ammunition from a ranged weapon, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the ammunition immediately after it hits or misses its target.
 
 Additionally you gain an additional Arcane Shot of your choice, for a total of 3.
 
@@ -81,8 +81,7 @@ Additionally you gain an additional Arcane Shot of your choice, for a total of 3
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Arcane Shot Expert
-You can conjure forth a magic-infused arrow more often than before
-At the end of a breather, if you have no uses of Arcane Shot remaining, you regain one use of it.
+You can conjure forth a magic-infused arrow more often than before. At the end of a breather, if you have no uses of Arcane Shot remaining, you regain one use of it.
 
 Additionally you gain an additional Arcane Shot of your choice, for a total of 4 and the damage of your Arcane Shots increase by 1d6.
 

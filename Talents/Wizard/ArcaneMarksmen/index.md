@@ -10,6 +10,7 @@ An Arcane Marksmen studies a unique magical method of marksmenship that weaves m
 Arcane Marksmen stand watch over the fringes of elven domains, keep a keen eye out for trespassers of wizard academies, and use thier magic-infused ammunition to defeat the monsters of the wilds. 
 
 ## Branch Features
+
 You gain the following features when taking your first Talent in this Branch.
 
 ### Arcane Precision
@@ -29,7 +30,9 @@ You also choose to gain proficiency in the [Arcana](https://stormchaserroleplayi
 | Arcane Sharpshooter | 50 | *7th Level Spells and Ever-Ready Shot* |
 
 ### Arcane Missiles
-#### *Cost:* 5 Character Points
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You learn to unleash special magical effects with some of your shots. 
 
 #### Ricochet Bolt
@@ -63,8 +66,10 @@ The options are presented here in alphabetical order. They are all magical effec
 - **Shadow Shot.** You weave illusion magic into your shot, causing it to occlude your Shot's vision with shadows. <br>The creature hit by the attack takes an extra 2d6 psychic damage if your attack roll exceeds the target's Wisdom defence, it is unable to see anything farther than 5 feet away until the start of your next turn.
 
 ### Magic Bolts
-#### *Cost:* 10 Character Points
-#### *Prerequisite:* 3rd Level Spells and Arcane Missiles
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Missiles
 As an action, you can conjure 20 nonmagical ammunition. The ammunition appears in your hand or in a container, such as a quiver, on your body. The arrows remain for 10 minutes or until you use this feature again; they then vanish.
 
 You also gain the ability to infuse nonmagical ammunition with magic. Whenever you fire a piece of ammunition from a ranged weapon, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the ammunition immediately after it hits or misses its target.
@@ -72,16 +77,20 @@ You also gain the ability to infuse nonmagical ammunition with magic. Whenever y
 Additionally you gain an additional Arcane Shot of your choice, for a total of 3.
 
 ### Ever-Ready Shot
-#### *Cost:* 25 Character Points
-#### *Prerequisite:* 5th Level Spells and Arcane Shot Expert
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Arcane Shot Expert
 You can conjure forth a magic-infused arrow more often than before
 At the end of a breather, if you have no uses of Arcane Shot remaining, you regain one use of it.
 
 Additionally you gain an additional Arcane Shot of your choice, for a total of 4 and the damage of your Arcane Shots increase by 1d6.
 
 ### Arcane Sharpshooter
-#### *Cost:* 50 Character Points
-#### *Prerequisite:* 7th Level Spells and Ever-Ready Shot
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Ever-Ready Shot
 You gain two additional Arcane Shots of your choice, for a total of 6.
 
 Additionally the damage of your Arcane Shots increase by another 1d6, for a total of +2d6.

@@ -1,7 +1,8 @@
 ---
 title: Social Interaction
+parent: Exploration
 has_children: true
-nav_order: 10
+nav_order: 4
 ---
 
 # Social Interaction

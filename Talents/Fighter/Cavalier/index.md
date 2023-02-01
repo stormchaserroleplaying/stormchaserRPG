@@ -5,17 +5,16 @@ grand_parent: Talents
 ---
 
 # Cavalier
-The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
+The archetypal cavalier excels at mounted combat. Usually born among the nobility and raised at court, a cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
 ## Branch Features
-You gain the following features when taking your first Talent in this Branch.
+You gain the following features when taking your first talent in this branch.
 
 #### Bonus Proficiency
-You also gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+You also gain proficiency in one of the following skills of your choice: animal handling, history, insight, performance, or persuasion. Alternatively, you learn two languages of your choice.
 
 #### Born to the Saddle
-Your mastery as a rider becomes apparent. 
-You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.
+Your mastery as a rider becomes apparent. You have +1d on checks made to avoid falling off of your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
 

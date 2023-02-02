@@ -21,9 +21,9 @@ Work with your GM to determine an appropriate item or items to keep on your pers
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Commanding Adoration | 5 | - | - |
-| Aura of Good Will | 10 | Commanding Adoration and 4 other Bard Talents | 5 |
-| Charismatic Resolve | 25 | Aura of Good Will and 7 other Bard Talents | 8 |
+| Commanding Adoration | 5  | - | - |
+| Aura of Good Will    | 10 | Bardic Inspiration, Commanding Adoration and 2 other Bard Talents | 4 |
+| Charismatic Resolve  | 25 | Aura of Good Will and 7 other Bard Talents | 8 |
 
 ### Commanding Adoration
 
@@ -38,11 +38,10 @@ As a bonus action, you exude an aura that commands adoration from those around y
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Commanding Adoration and 4 other Bard Talents
-*Prerequisite:* Bardic Inspiration and Commanding Adoration<br>
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Bardic Inspirastion, Commanding Adoration and 2 other Bard Talents
 Your silken words and welcoming body language give others cause to trust you
 
-As a reaction, you can expend 1 use of your Bardic Inspiration to attempt to enamor your target. Your target must make a wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target becomes enamored with you, and becomes defensive against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
+As a free action, you can expend 1 use of your Bardic Inspiration to attempt to enamor your target. Make a performance check vs the target's wisdom defence. On a hit, the target is charmed by you. While charmed in this way, the target becomes enamored with you, and becomes defensive against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 
 If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
 
@@ -53,4 +52,4 @@ If a target succeeds on its saving throw, the target has no hint that you tried 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents
 Your presence alone gives your companions encouragement.
 
-As a bonus action on your turn, you can spend a Bardic Inspiration on any enemy you can see within 60 ft. Until your next turn, your companions gain advantage on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.
+As a bonus action on your turn, you can spend a Bardic Inspiration on any enemy you can see within 60 ft. Until your next turn, your companions gain +1d on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.

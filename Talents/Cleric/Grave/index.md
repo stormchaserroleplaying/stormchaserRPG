@@ -32,14 +32,12 @@ You can use your Channel Divinity to mark another creature’s life force for te
 As an action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack’s damage, and then the curse ends.
 
 ## Talents
-
-## Talents
  
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:------------|
-| Circle of Mortality | 5 | - |  
+|:-------|:--:|:--------------|
+| Circle of Mortality      | 5  | - |  
 | Sentinel at Death’s Door | 10 | 3rd Level Spells and Circle of Mortality |  
-| Keeper of Souls  | 80 | 9th Level Spells and Sentinel at Death’s Door |  
+| Keeper of Souls          | 80 | 8th Level Spells and Sentinel at Death’s Door |  
 
 ### Circle of Mortality
  
@@ -67,5 +65,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:**  9th Level Spells and Sentinel at Death's Door
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Sentinel at Death's Door
 You can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can’t do so again until the start of your next turn.

@@ -20,9 +20,9 @@ When you take your first Lore branch talent, you gain proficiency with three ski
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Cutting Words | 5 | - | - |
-| Clandestine Keeper | 10 | Jack of All Trades, Cutting Words and 3 other Bard Talents | 5 |
-| Peerless Skill | 25 | Clandestine Keeper and 7 other Bard Talents | 8 |
+| Cutting Words      | 5  | - | - |
+| Clandestine Keeper | 10 | Cutting Words and 3 other Bard Talents | 4 |
+| Peerless Skill     | 50 | Clandestine Keeper and 7 other Bard Talents | 8 |
 
 ### Cutting Words
 
@@ -30,14 +30,14 @@ When you take your first Lore branch talent, you gain proficiency with three ski
 
 #### **Cost:** 5 Character Points
 
-You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. Once per round, you may choose a target within 60 feet that you can see and roll a bardic inspiration die. The target's next attack roll, skill check, or defence check is reduced by that amount. The target is immune if it can’t hear you or if it’s immune to being charmed.
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. Once per round, you may choose a target within 60 feet that you can see. The target's next attack roll, skill check, or defence check is suffers -1d. The target is immune if it can’t hear you or if it’s immune to being charmed.
 
 ### Clandestine Keeper
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Jack of All Trades, Cutting Words and 3 other Bard Talents
-You learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don’t count against the number of bard spells you know.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Cutting Words and 3 other Bard Talents
+Write non-magical feature.
 
 ### Peerless Skill
 

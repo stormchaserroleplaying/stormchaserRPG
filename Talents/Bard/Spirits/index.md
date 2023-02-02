@@ -27,7 +27,7 @@ You can reach out to spirits to guide you and others. You learn the *[guidance](
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points
+#### **Cost:** 5 Character Points
 You reach out to spirits who tell their tales through you. While you are holding your spiritual focus, you can use a bonus action to to expend one use of your bardic inspiration roll on the table below, using your martial feat die to determine the tale that the spirits direct you to tell. You retain the tale in mind until you bestow the tale’s effect or you finish a short or long rest.
 
 You can use an action to choose one creature that you can see within 30 feet of you (this can be you) to be the target of the tale’s effect. Once you do so, you can’t bestow the tale’s effect again until you roll it again.

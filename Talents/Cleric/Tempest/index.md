@@ -37,10 +37,10 @@ When you roll lightning or thunder damage, you can use your Channel Divinity to 
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:------------|
-| Wrath of the Storm | 5 | - |  
+|:-------|:--:|:--------------|
+| Wrath of the Storm | 5  | - |  
 | Thunderbolt Strike | 10 | 3rd Level Spells and Wrath of the Storm |  
-| Stormborn | 80 | 9th Level Spells and Thunderbolt Strike |  
+| Stormborn          | 80 | 8th Level Spells and Thunderbolt Strike |  
 
 ### Wrath of the Storm
 
@@ -61,5 +61,5 @@ When you deal lightning damage to a Large or smaller creature, you can also push
 ### Stormborn
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:**  9th Level Spells and Thunderbolt Strike
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Thunderbolt Strike
 You have a flying speed equal to your current walking speed whenever you are not underground or indoors.

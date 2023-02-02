@@ -19,12 +19,26 @@ Work with your GM to determine an appropriate item or items to keep on your pers
 
 ## Talents
 
+| Talent | CP | Prerequisites | Bard Talents Required |
+|:------:|:--:|:-------------:|:---------------------:|
+| Commanding Adoration | 5 | - | - |
+| Aura of Good Will | 10 | Commanding Adoration and 4 other Bard Talents | 5 |
+| Charismatic Resolve | 25 | Aura of Good Will and 7 other Bard Talents | 8 |
+
 ### Commanding Adoration
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 It pains your opponents to fight you and your allies.
 
 As a bonus action, you exude an aura that commands adoration from those around you. For 1 minute or until you are incapacitated, any creature hostile to you that ends their turn within 30ft of you must make a Wisdom saving throw against your spell save DC or take 1d4 psychic damage. This damage increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level and 1d12 at 17th level. You can use this feature a number of times equal to your Charisma modifier, with a minimum of 1. Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Aura of Good Will
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Commanding Adoration and 4 other Bard Talents
 *Prerequisite:* Bardic Inspiration and Commanding Adoration<br>
 Your silken words and welcoming body language give others cause to trust you
 
@@ -33,7 +47,10 @@ As a reaction, you can expend 1 use of your Bardic Inspiration to attempt to ena
 If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
 
 ### Charismatic Resolve
-*Prerequisite:* Aura of Good Will<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents
 Your presence alone gives your companions encouragement.
 
 As a bonus action on your turn, you can spend a Bardic Inspiration on any enemy you can see within 60 ft. Until your next turn, your companions gain advantage on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.

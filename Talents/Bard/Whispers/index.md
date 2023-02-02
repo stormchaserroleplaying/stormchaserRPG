@@ -13,20 +13,20 @@ Many other bards hate their whisper peers, viewing them as parasites that use a 
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Psychic Blades | 5 | - | - |
-| Words of Terror | 5 | - | - |
-| Improved Psychic Blades | 8 | Psychic Blades and 3 other Bard Talents | 4 |
-| Improved Psychic Blades II | 12 | Improved Psychic Blades and 4 other Bard Talents | 5 |
-| Improved Psychic Blades III | 15 | Improved Psychic Blades II and 6 other Bard Talents | 7 |
-| Mantle of Whispers | 20 | Words of Terror and 7 other Bard Talents | 8 |
-| Shadow Lore | 40 | Mantle of Whispers and 10 other Bard Talents	 | 11 |
+| Psychic Blades     | 5  | - | - |
+| Words of Terror    | 5  | - | - |
+| Psychic Blades II  | 5  | Psychic Blades and 2 other Bard Talents | 3 |
+| Mantle of Whispers | 10 | Words of Terror and 3 other Bard Talents | 4 |
+| Psychic Blades III | 5  | Psychic Blades II and 6 other Bard Talents | 7 |
+| Shadow Lore        | 50 | Mantle of Whispers and 7 other Bard Talents | 8 |
+| Psychic Blades IV  | 5  | Psychic Blades III and 8 other Bard Talents | 9 |
 
 ### Psychic Blades
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You gain the ability to make your weapon attacks magically toxic to a creature’s mind. When you hit a creature with a weapon attack, you can spend a use of your bardic inspiration to deal an additionaL 2d6 psychic damage to that target. You can do so only once per round on your turn.
+You gain the ability to make your weapon attacks magically toxic to a creature’s mind. When you hit a creature with a weapon attack, you can spend a use of your bardic inspiration to deal an additional 2d6 psychic damage to that target. You can do so only once per round.
 
 ### Words of Terror
 
@@ -39,32 +39,18 @@ If the attack misses, then the target has no hint that you tried to frighten it.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-### Improved Psychic Blades
+### Psychic Blades II
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 8 Character Points<br>**Prerequisite:** Psychic Blades and 3 other Bard Talents
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades and 2 Other Bard Talents
 The bonus damage that you inflict with Psychic Blades increases to 3d6.
-
-### Improved Psychic Blades II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 12 Character Points<br>**Prerequisite:** Psychic Blades and 4 other Bard Talents
-The bonus damage that you inflict with Psychic Blades increases to 5d6.
-
-### Improved Psychic Blades III
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Psychic Blades and 6 other Bard Talents
-The bonus damage that you inflict with Psychic Blades increases to 8d6.
 
 ### Mantle of Whispers
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Words of Terror and 7 other Bard Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Words of Terror and 3 Other Bard Talents
 You gain the ability to adopt a humanoid’s persona. When a humanoid dies within 30 feet of you, you magically capture its shadow. You retain this shadow until you use it or you finish a long rest.
 
 You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.
@@ -75,18 +61,31 @@ Another creature can see through this disguise by succeeding on an [insight](htt
 
 Once you capture a shadow with this feature, you can’t capture another one with it until you finish a short or long rest.
 
+### Psychic Blades III
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades II and 6 Other Bard Talents
+The bonus damage that you inflict with Psychic Blades increases to 5d6.
+
 ### Shadow Lore
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 40 Character Points<br>**Prerequisite:** Mantle of Whispers and 10 other Bard Talents
-You gain the ability to weave dark magic into your words and tap into a creature’s deepest fears. As an action, you make a proficient Charisma attack to magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. This attack automatically misses if it doesn’t share a language with you or if the target can’t hear you. On a miss, your whisper sounds like unintelligible mumbling and has no effect.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Mantle of Whispers and 7 Other Bard Talents
+You gain the ability to weave dark magic into your words and tap into a creature’s deepest fears. As an action, magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. Make a performance check vs the target's wisdom defence. This check automatically fails if the target doesn’t share a language with you or if it cannot hear you. On a miss, your whisper sounds like unintelligible mumbling and has no effect.
 
-On a hit, the target is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the next 8 hours or until you or your allies attack or damage it. The target interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.
+On a hit, the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the next 8 hours, or until you or your allies attack or damage it. The target interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced that you know it.
 
-The [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.
+The [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favours and gifts that it would offer to a close friend.
 
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
+### Psychic Blades IV
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades III and 8 Other Bard Talents
+The bonus damage that you inflict with Psychic Blades increases to 8d6.

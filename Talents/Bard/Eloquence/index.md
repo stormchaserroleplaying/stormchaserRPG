@@ -13,28 +13,45 @@ Adherents of the College of Eloquence master the art of oratory. Persuasion is r
 |:------:|:--:|:-------------:|:---------------------------:|
 | Silver Tongue | 5 | - | - |
 | Unsettling Words | 5 | - | - |
-| Unfailing Inspiration | 5 | Unsettling Words | 4 |
-| Universal Speech | 5 | Silver Tongue | 4 |
-| Infectious Inspiration | 50 | Unfailing Inspiration | 10 |
+| Universal Speech | 10 | Silver Tongue and 4 other Bard Talents | 5 |
+| Unfailing Inspiration | 25 | Unsettling Words and 7 other Bard Talents | 8 |
+| Infectious Inspiration | 50 | Unfailing Inspiration and 10 other Bard Talents | 11 |
 
 ### Silver Tongue
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You are a master at saying the right thing at the right time. When you make a deception or persuasion check, you can treat a d20 roll of 9 or lower as a 10.
 
 ### Unsettling Words
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You can spin words laced with magic that unsettle a creature and cause it to doubt itself. As a bonus action, you can expend one use of your bardic inspiration and choose one creature that you can see within 60 feet of you. Roll the bardic inspiration die and add the result to the next attack made agains the creature before the start of your next turn.
 
-### Unfailing Inspiration
-*Prerequisites:* Unsettling Words and 3 Other Bard Talents<br>
-Your inspiring words are so persuasive that others feel driven to succeed. When a creature uses one of your bardic inspiration dice and the roll fails, the creature can keep the bardic inspiration die.
-
 ### Universal Speech
-*Prerequisites:* Silver Tongue and 3 Other Bard Talents<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Silver Tongue and 4 other Bard Talents
 You have gained the ability to make your speech intelligible to any creature. As an action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language that you speak, for 1 hour.
 
 Once you use this feature, you can’t use it again until you finish a long rest, unless you expend 1 mana to use it again.
 
+### Unfailing Inspiration
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Unsettling Words and 7 Bard Talents
+Your inspiring words are so persuasive that others feel driven to succeed. When a creature uses one of your bardic inspiration dice and the roll fails, the creature can keep the bardic inspiration die.
+
 ### Infectious Inspiration
-*Prerequisites:* Unfailing Inspiration and 9 Other Bard Talents<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Unfailing Inspiration and 10 other Bard Talents
 When you successfully inspire someone, the power of your eloquence can now spread to someone else. Once per round, when a creature within 60 feet of you uses one of your bardic inspiration and the roll succeeds, a different creature (other than yourself) that can hear you within 60 feet of you can receive a Bardic Inspiration die without expending any of your Bardic Inspiration uses.
 
 You can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest.

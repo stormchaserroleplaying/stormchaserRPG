@@ -68,7 +68,7 @@ Your mastery of the forge grants you special abilities:
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:**  9th Level Spells and Saint of Forge and Fire
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Saint of Forge and Fire
 Your blessed affinity with fire and metal becomes more powerful:
 * You gain immunity to fire damage.
 * While wearing heavy armour, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

@@ -15,8 +15,8 @@ Glamour bards are regarded with a mixture of awe and fear. Their performances ar
 |:------:|:--:|:-------------:|:--------------------------------:|
 | Mantle of Inspiration | 5 | - | - |
 | Enthralling Performance | 5 | - | - |
-| Mantle of Inspiration II | 8 | Mantle of Inspiration and 4 other Bard Talents | 5 |
-| Mantle of Inspiration III | 12 | Mantle of Inspiration II and 5 other Bard Talents | 5 |
+| Mantle of Inspiration II | 8 | Mantle of Inspiration and 3 other Bard Talents | 4 |
+| Mantle of Inspiration III | 12 | Mantle of Inspiration II and 4 other Bard Talents | 5 |
 | Mantle of Inspiration IV | 15 | Mantle of Inspiration III and 6 other Bard Talents | 7 |
 | Mantle of Majesty | 20 | Enthralling Performance and 7 other Bard Talents | 8 |
 | Unbreakable Majesty | 40 | Mantle of Majesty and 10 other Bard Talents | 11 |

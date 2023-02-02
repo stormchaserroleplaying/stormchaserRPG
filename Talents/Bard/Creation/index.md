@@ -66,7 +66,7 @@ When you use your bardic inspiration feature, you can command the item as part o
 
 ***((Need stat block for minion creature))***
 
-### ### Performance of Creation III
+### Performance of Creation III
 
 <div style="margin-top:-10px;"></div>
 

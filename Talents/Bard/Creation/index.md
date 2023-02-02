@@ -55,7 +55,43 @@ In combat, the item shares your initiative count, but it takes its turn immediat
 
 When you use your bardic inspiration feature, you can command the item as part of the same bonus action you use for bardic inspiration. Once you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend 3 mana to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
-***((Need stat block for minion creature))***
+> #### Dancing Item
+> Large or smaller construct
+> 
+> ##### Defences
+> **STR:** 14, **DEX:** 12, **CON:** 13, **INT:** 7, **WIS:** 10, **CHA:** 8
+> 
+> | Your Martial Feat Die | Item's Integrity |
+> |:---------------------:|:----------------:|
+> | 1d4 | 16 |
+> | 1d6 | 32 |
+> | 1d8 | 48 |
+> | 1d10 | 64 |
+> | 1d12 | 80 |
+> 
+> **Damage Reduction:** 4
+> 
+> **Damage Immunities:** Poison, Psychic
+> 
+> **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned
+> 
+> ##### Ability Scores
+> **STR:** 18 (+4), **DEX:** 14 (+2), **CON:** 16 (+3), **INT:** 4 (-3), **WIS:** 10 (+0), **CHA:** 6 (-2)
+> 
+> **Speed:** 45 feet, fly 45 feet (hover)
+> 
+> ##### Actions
+> **Slam:** *Melee Weapon Attack:* your performance skill to hit, reach 5 ft., one target that you can see. **Hit:** 1d10 + your Charisma modifier bludgeoning damage.
+> 
+> ##### Special Abilities
+> **Immutable Form:** The item is immune to any spell or effect that would alter its form.
+> 
+> **Irrepressible Dance:** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided that the item isn’t incapacitated.
+> 
+> ##### Other
+> **Senses:** Darkvision (60 ft.), Passive Perception 10
+> 
+> **Languages:** Understands the languages that you speak
 
 ### Performance of Creation II
 

@@ -12,12 +12,12 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Channel Divinity | 5 | *1 Other Cleric Talent* |
-| Destroy Undead | 5 | *2nd Level Spells and Channel Divinity* |
-| Divine Strike I | 15 | *4th Level Spells and 3 Other Cleric Talents* |
-| Divine Intervention | 25 | *5th Level Spells and 3 Other Cleric Talents* |
-| Divine Strike II | 35 | *7th Level Spells and 4 Other Cleric Talents* |
-| Prophet | 100 | *10th Level Spells and 6 Other Cleric Talents* |
+| Channel Divinity    | 5   | *1 Other Cleric Talent* |
+| Destroy Undead      | 5   | *2nd Level Spells and Channel Divinity* |
+| Divine Strike I     | 15  | *4th Level Spells and 3 Other Cleric Talents* |
+| Divine Intervention | 25  | *5th Level Spells and 3 Other Cleric Talents* |
+| Divine Strike II    | 35  | *7th Level Spells and 4 Other Cleric Talents* |
+| Prophet             | 100 | *10th Level Spells and 6 Other Cleric Talents* |
 
 ### Channel Divinity
 

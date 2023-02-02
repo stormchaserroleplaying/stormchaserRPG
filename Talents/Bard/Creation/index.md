@@ -12,13 +12,13 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 ## Talents
 
 | Talent | CP | Prerequisites | Bard Talents Required |
-|:------:|:--:|:-------------:|:---------------------------:|
-| Mote of Potential | 5 | - | - |
-| Performance of Creation | 5 | - | - |
-| Performance of Creation II | 10 | Performance of Creation and 4 other Bard Talents | 5 |
-| Animating Performance | 10 | Performance of Creation and 4 other Bard Talents | 5 |
-| Performance of Creation III | 25 | Performance of Creation II and 7 other Bard Talents | 8 |
-| Creative Crescendo | 50 | Performance of Creation II and 10 other Bard Talents | 11 |
+|:------:|:--:|:-------------:|:---------------------:|
+| Mote of Potential           | 5  | - | - |
+| Performance of Creation     | 5  | - | - |
+| Animating Performance       | 5  | Performance of Creation and 3 other Bard Talents | 4 |
+| Performance of Creation II  | 5  | Performance of Creation and 3 other Bard Talents | 4 |
+| Creative Crescendo          | 45 | Performance of Creation II and 7 other Bard Talents | 8 |
+| Performance of Creation III | 5  | Performance of Creation II and 7 other Bard Talents | 8 |
 
 ### Mote of Potential
 
@@ -44,18 +44,11 @@ As an action, you can channel the magic of the Song of Creation to create one no
 
 Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend 2 mana to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 
-### Performance of Creation II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Performance of Creation and 4 other Bard Talents
-The size of the item that you can create with your Performance of Creation increases to large.
-
 ### Animating Performance
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Performance of Creation and 4 other Bard Talents
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Performance of Creation and 3 other Bard Talents
 As an action, you can animate one large or smaller nonmagical item within 30 feet of you that isn’t being worn or carried. The animate item uses the Dancing Item stat block. The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 integrity, or until you die.
 
 In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move on its own, but the only action that it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just dodge.
@@ -64,18 +57,25 @@ When you use your bardic inspiration feature, you can command the item as part o
 
 ***((Need stat block for minion creature))***
 
-### Performance of Creation III
+### Performance of Creation II
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Performance of Creation II and 7 Bard Talents
-The size of the item that you can create with your Performance of Creation increases to huge.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Performance of Creation and 3 other Bard Talents
+The size of the item that you can create with your Performance of Creation increases to large.
 
 ### Creative Crescendo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Performance of Creation II and 10 other Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Performance of Creation II and 7 other Bard Talents
 When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be small or tiny.
 
 You are no longer limited by gp value when creating items with Performance of Creation.
+
+### Performance of Creation III
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Performance of Creation II and 7 Bard Talents
+The size of the item that you can create with your Performance of Creation increases to huge.

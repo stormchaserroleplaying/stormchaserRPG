@@ -1,5 +1,5 @@
 ---
-title: Bladedancing Tradition
+title: Bladedancer
 parent: Wizard Talent Tree
 grand_parent: Talents
 ---

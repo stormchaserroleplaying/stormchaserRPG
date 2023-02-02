@@ -7,7 +7,7 @@ grand_parent: Bestiary
 # Gozu Oni
 These enormous creatures resemble an immense, demonic cross between ox and gorilla.
 
-Medium Fiend (Daemon), Neutral Evil
+*Medium Fiend (Daemon), Neutral Evil*
 
 ## Defences
 **STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10

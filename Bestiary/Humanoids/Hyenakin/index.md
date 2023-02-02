@@ -5,7 +5,7 @@ grand_parent: Bestiary
 ---
 
 # Hyenakin
-Medium Humanoid (Beastkin), Chaotic Evil
+*Medium Humanoid (Beastkin), Chaotic Evil*
 
 ## Defences
 **STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8

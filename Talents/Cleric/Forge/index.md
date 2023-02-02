@@ -41,16 +41,16 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:------------|
-| Blessing of the Forge | 5 | - |  
-| Soul of the Forge| 10 | 3rd Level Spells and Blessing of the Forge |  
-| Saint of Forge and Fire  | 80 | 9th Level Spells and Soul of the Forge |  
+|:-------|:--:|:--------------|
+| Blessing of the Forge   | 5  | - |  
+| Soul of the Forge       | 10 | 3rd Level Spells and Blessing of the Forge |  
+| Saint of Forge and Fire | 80 | 8th Level Spells and Soul of the Forge |  
 
 ### Blessing of the Forge
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>
+#### **Cost:** 5 Character Points
 You gain the ability to imbue magic into a weapon or armour. At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
 
 Once you use this feature, you can’t use it again until you finish a long rest.

@@ -14,7 +14,7 @@ These enormous creatures resemble an immense, demonic cross between ox and goril
 
 **Stamina:** 132
 
-**Damage Reduction:** 6
+**Damage Reduction:** 6 (Natural Armour)
 
 **Damage Vulnerabilities:** Thunder
 

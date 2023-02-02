@@ -50,7 +50,7 @@ The spirit is friendly to you and your companions and obeys your commands. Stati
 > 
 > **Stamina:** 10× the mana spent to summon it
 > 
-> **Damage Reduction:** 1
+> **Damage Reduction:** 1 (Natural Armour)
 > 
 > **Damage Immunities:** Fire
 > 

@@ -13,7 +13,7 @@ grand_parent: Bestiary
 
 **Stamina:** 22
 
-**Damage Reduction:** 4, 14-16 Coverage
+**Damage Reduction:** 4, 14-16 Coverage (Hide Armour)
 
 ## Ability Scores
 **STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)

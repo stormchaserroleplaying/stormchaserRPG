@@ -35,7 +35,7 @@ You can use an action to choose one creature that you can see within 30 feet of 
 You can retain only one of these tales in mind at a time. Rolling on the table immediately ends the effect of the previous tale. If the tale requires an attack roll, make a performance check.
 
 | Martial Feat Die | Tale Told Through You |
-|:----------------:|:---------------------:|
+|:----------------:|:----------------------|
 | 1 | **Tale of the Clever Animal.** For the next 10 minutes, the target has +1d on Intelligence-, Wisdom- and Charisma-based checks. |
 | 2 | **Tale of the Renowned Duelist.** You make a performance check and treat the result as a melee attack against the target. On a hit, the target takes energy damage equal to two rolls of your martial feat die + your Charisma modifier. |
 | 3 | **Tale of the Beloved Friends.** The target and another creature of your choice the you can see within 5 feet of the first target gain temporary stamina equal to a roll of their recovery die + your Charisma modifier. |

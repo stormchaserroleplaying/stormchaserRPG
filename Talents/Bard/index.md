@@ -35,34 +35,25 @@ Additionally, you can use soothing music or oration to help revitalise your woun
 #### *Cost:* 5 Character Points
 You may reroll any ability check that you make that does not benefit from proficiency, but you must take the result.
 
-Additionally, you have plundered magical knowledge from a wide spectrum of disciplines. Your bard talents grant you 3 [mana](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/Mana/) as per the mage's spellcasting feature and your spellcasting ability is Intelligence. Choose one cantrip and two spells of 1st level. You know these spells.
+### Cutting Words
 
-You may take this talent up to five times. Each time that you take this talent, the maximum available spell level increases by 1. 
+<div style="margin-top:-10px;"></div>
 
-### Jack of All Trades II
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Jack of all Trades and 2 Other Bard Talents
-Choose a second cantrip and two spells of 2nd level. You know these spells and your mana increases to 6.
+#### **Cost:** 5 Character Points
+
+You learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. Once per round, you may choose a target within 60 feet that you can see. The target's next attack roll, skill check, or defence check is suffers -1d. The target is immune if it can’t hear you or if it’s immune to being charmed.
 
 ### Countercharm
 #### *Cost:* 15 Character Points
 #### *Prerequisite:* Jack of all Trades II and 4 Other Bard Talents
 You gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
 
-### Jack of All Trades III
-#### *Cost:* 20 Character Points
-#### *Prerequisite:* Countercharm
-Choose a third cantrip and two spells of 3rd level. You know these spells and your mana increases to 9.
+### Peerless Skill
 
-### Jack of All Trades IV
-#### *Cost:* 30 Character Points
-#### *Prerequisite:* Jack of all Trades III and 8 Other Bard Talents
-Choose a fourth cantrip and two spells of 4th level. You know these spells and your mana increases to 13.
+<div style="margin-top:-10px;"></div>
 
-### Jack of All Trades V
-#### *Cost:* 40 Character Points
-#### *Prerequisite:* Jack of all Trades IV and 11 Other Bard Talents
-Choose a fifth cantrip and two spells of 5th level. You know these spells and your mana increases to 21.
+#### **Cost:** 35 Character Points<br>**Prerequisite:** ?
+When you make a skill check, you can spend a use of your bardic inspiration die to roll with +1d. You can choose to do so after you roll the die for the skill check, but before the GM tells you whether you succeed or fail.
 
 ### Virtuoso
 #### *Cost:* 100 Character Points

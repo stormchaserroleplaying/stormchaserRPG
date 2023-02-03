@@ -6,6 +6,17 @@ grand_parent: Spells
 
 # Evocation
 
+## Corrosive Stream
+*1st Level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self (30-foot line)<br>
+**Components:** V,S,M *(A bit of rotten food.)*<br>
+**Duration:** Up to 1 minute, Concentration
+ 
+A jet of acid flows from you in a line 30 feet long and 5 feet wide in a direction you choose. Make an attack against the Dexterity defense of each creature in the line. On a hit, the creature is covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at the start of each of its turns.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
+
 ## Cure Wounds
 *1st Level Evocation*<br>
 **Casting Time:** 1 Action<br>

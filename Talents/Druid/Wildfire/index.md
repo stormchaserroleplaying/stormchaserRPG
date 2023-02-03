@@ -16,20 +16,20 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Burning Hands, Cure Wounds* |
-| 2nd | *Flaming Sphere, Scorching Ray* |
-| 3rd | *Plant Growth, Revivify* |
-| 4th | *Aura of Life, Fire Shield* |
-| 5th | *Flame Strike, Mass Cure Wounds* |
+| 1st | Burning Hands, Cure Wounds |
+| 2nd | Flaming Sphere, Scorching Ray |
+| 3rd | Plant Growth, Revivify|
+| 4th | Aura of Life, Fire Shield |
+| 5th | Flame Strike, Mass Cure Wounds |
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:------------|
-| Summon Wildfire Spirit | 5  | *1st Level Spells and Wild Shape* |   
-| Enhance Bond           | 10 | *3rd Level Spells and Summon Wildfire Spirt* |   
-| Cauterising Flame      | 25 | *5th Level Spells and Enhance Bond* |   
-| Blazing Revival        | 50 | *7th Level Spells and Cauterising Flame* |   
+| Summon Wildfire Spirit | 5  | 1st Level Spells and Wild Shape |   
+| Enhance Bond           | 10 | 3rd Level Spells and Summon Wildfire Spirt |   
+| Cauterising Flame      | 25 | 5th Level Spells and Enhance Bond |   
+| Blazing Revival        | 50 | 7th Level Spells and Cauterising Flame |   
 
 ### Summon Wildfire Spirit
 

@@ -16,20 +16,20 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Protection from Evil and Good, Sleep* |   
-| 2nd | *Prayer of Healing, Nathair's Mischief* |  
-| 3rd | *Aura of Vitality, Fear* |  
-| 4th | *Aura of Purity, Hallucinatory Terrain* |  
-| 5th | *Dispel Evil and Good, Hold Monster* |  
+| 1st | Protection from Evil and Good, Sleep |   
+| 2nd | Prayer of Healing, Nathair's Mischief |  
+| 3rd | Aura of Vitality, Fear |  
+| 4th | Aura of Purity, Hallucinatory Terrain |  
+| 5th | Dispel Evil and Good, Hold Monster |  
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Balm of the Summer Court      | 5  | - |   
-| Hearth of Moonglow and Shadow | 10 |  *3rd Level Spells and Balm of the Summer Court* |   
-| Hidden Paths                  | 25 | *5th Level Spells and Hearth of Moonglow and Shadow* |   
-| Walker in Dreams              | 50 | *7th Level Spells and Hidden Paths* |   
+| Hearth of Moonglow and Shadow | 10 | 3rd Level Spells and Balm of the Summer Court |   
+| Hidden Paths                  | 25 | 5th Level Spells and Hearth of Moonglow and Shadow |   
+| Walker in Dreams              | 50 | 7th Level Spells and Hidden Paths |   
 
 ### Balm of the Summer Court
 

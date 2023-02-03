@@ -13,7 +13,6 @@ While redeemers are idealists, they are no fools. Redeemers know that undead, de
 
 ### Tenets of Redemption
 The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
-
 * **Peace.** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
 * **Innocence.** All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
 * **Patience.** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
@@ -35,13 +34,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of Redemption        | 10 | *-* |
-| Aura of the Guardian      | 10 | *ath of Redemption and Aura of Protection* |
-| Protective Spirit         | 10 | *Cleansing Touch and Aura of the Guardian* |
-| Emissary of Redemption    | 10 | *Greater Auras and Protective Spirit* |
+|:-------|:--:|:--------------|
+| Oath of Redemption     | 5  | - |
+| Aura of the Guardian   | 15 | *ath of Redemption and Aura of Protection* |
+| Protective Spirit      | 65 | *Cleansing Touch and Aura of the Guardian* |
+| Emissary of Redemption | 50 | *Greater Auras and Protective Spirit* |
 
 ### Oath of Redemption
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -53,17 +53,19 @@ As a bonus action, you grant yourself a +1d bonus to Charisma (Persuasion) check
 Each round, the first time a hostile creature within 30 feet of you deals damage with an attack against a creature other than you, the creature must make a Wisdom defence check against your spell skill. On a failed defence, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage.
 
 ### Aura of the Guardian
-*Prerequisite:* Oath of Redemption and Aura of Protection<br>
+#### *Cost:* 15 Character Points
+#### *Prerequisite:* Oath of Redemption and Aura of Protection
 If, within the last round, a creature took damage while within 10 feet of you, you can use a free action at the start of your turn to magically cause that creature not to take the damage. Instead, you take the damage. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.
 
 ### Protective Spirit
-*Prerequisite:* Cleansing Touch and Aura of the Guardian<br>
+#### *Cost:* 65 Character Points
+#### *Prerequisite:* Cleansing Touch and Aura of the Guardian
 You regain hit points equal to 1d6 + your number of paladin talents if you end your turn in combat with fewer than half of your hit points remaining and you aren't incapacitated.
 
 ### Emissary of Redemption
-*Prerequisite:* Greater Auras and Protective Spirit<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* Greater Auras and Protective Spirit
 You become an avatar of peace, which gives you two benefits:
-
 * You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).
 * Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.
 

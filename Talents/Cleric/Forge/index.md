@@ -26,7 +26,10 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 | 5th | *Animate Objects, Creation* |
 
 ### Artisan's Blessing
-*Prerequisite:* Channel Divinity<br>
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to create simple items.
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see Chapter 5: Equipment for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
@@ -37,19 +40,35 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Blessing of the Forge   | 5  | - |  
+| Soul of the Forge       | 10 | 3rd Level Spells and Blessing of the Forge |  
+| Saint of Forge and Fire | 80 | 8th Level Spells and Soul of the Forge |  
+
 ### Blessing of the Forge
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 5 Character Points
 You gain the ability to imbue magic into a weapon or armour. At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Soul of the Forge
-*Prerequisite:* 3rd Level Spells and Blessing of the Forge<br>
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Forge
 Your mastery of the forge grants you special abilities:
 * You gain resistance to fire damage.
 * While wearing heavy armour, you gain a +1 bonus to DR.
 
 ### Saint of Forge and Fire
-*Prerequisite:* 9th Level Spells and Soul of the Forge<br>
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Saint of Forge and Fire
 Your blessed affinity with fire and metal becomes more powerful:
 * You gain immunity to fire damage.
 * While wearing heavy armour, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

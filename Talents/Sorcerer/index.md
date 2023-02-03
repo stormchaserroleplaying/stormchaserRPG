@@ -5,14 +5,14 @@ has_children: true
 nav_order: 11
 ---
 
-# Sorcerer Talent Tree
+# Sorcerer Talent Tree (Mage)
 Scions of innately magical bloodlines, the chosen of deities, the spawn of monsters, pawns of fate and destiny, or simply flukes of fickle magic, sorcerers look within themselves for arcane prowess and draw forth might few mortals can imagine. Emboldened by lives ever threatening to be consumed by their innate powers, these magic-touched souls endlessly indulge in and refine their mysterious abilities, gradually learning how to harness their birthright and coax forth ever greater arcane feats. Just as varied as these innately powerful spellcasters’ abilities and inspirations are the ways in which they choose to utilise their gifts. While some seek to control their abilities through meditation and discipline, becoming masters of their fantastic birthright, others give in to their magic, letting it rule their lives with often explosive results. Regardless, sorcerers live and breathe that which other spellcasters devote their lives to mastering, and for them magic is more than a boon or a field of study; it is life itself.
 
 ## Spellcasting
 When you take your first sorcerer talent, your spellcasting class feature for the mage class is affected in the following ways.
 
 ### Spellcasting Ability
-Choose Constitution or Charisma as your spellcasting ability for your mage spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
+Choose Constitution or Charisma as your spellcasting ability for your arcane spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
 
 ### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice from the mage spell list.
@@ -23,8 +23,18 @@ Additionally, whenever you gain a sorcerer talent, you can choose one of the mag
 
 ## Core Talents
 
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Arcane Savant I | 5 | *1 Other Sorcerer Talent* |
+| Magical Guidance | 5 | *2nd Level Spells and 2 Other Sorcerer Talents* |
+| Arcane Savant II | 25 | *5th Level Spells and 3 Other Sorcerer Talents* |
+| Arcane Savant III | 65 | *8th Level Spells and 5 Other Sorcerer Talents* |
+| Sorcerous Restoration | 50 | *10th Level Spells and 6 Other Sorcerer Talents* |
+| Apotheosis | 50 | *10th Level Spells and 6 Other Sorcerer Talents* |
+
 ### Arcane Savant
-*Prerequisite:* 1 Other Sorcerer Talent<br>
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* 1 Other Sorcerer Talent
 You tap into a deep wellspring of magic within yourself. This wellspring is represented by additional mana and the ability to create a variety of magical effects.
 
 You gain an amount of additional mana equal to the total number of sorcerer talents that you have taken.
@@ -70,20 +80,26 @@ When you cast a spell that targets only one creature and doesn’t have a range 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are.
 
 ### Magical Guidance
-*Prerequisite:* 2nd Level Spells and 2 Other Sorcerer Talents<br>
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* 2nd Level Spells and 2 Other Sorcerer Talents
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 mana to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
-*Prerequisite:* 5th Level Spells and 3 Other Sorcerer Talents<br>
+#### *Cost:* 25 Character Points
+#### *Prerequisite:* 5th Level Spells and 3 Other Sorcerer Talents
 Choose one additional Arcane Savant option.
 
 ### Arcane Savant III
-*Prerequisite:* 8th Level Spells and 5 Other Sorcerer Talents<br>
+#### *Cost:* 65 Character Points
+#### *Prerequisite:* 8th Level Spells and 5 Other Sorcerer Talents
 Choose one additional Arcane Savant option.
 
 ### Sorcerous Restoration
-*Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents
 You regain 4 expended mana whenever you finish a short rest.
 
 ### Apotheosis
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents
 Your veins flow with pure arcane power. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.

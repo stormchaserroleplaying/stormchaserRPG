@@ -48,7 +48,7 @@ When you cast a spell that targets only one creature and doesn't have a range of
 To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
 
 ## Twin Secrets
-You can concentrate on two spells simultaneously without incurring exhaustion. Whenever you take damage while you are concentrating on two spells, the attacker rolls with a bonus of the sum of the levels of both spells, or half the damage that you took, whichever number is higher, vs your Constitution defence to break your concentration. Alternatively, you can choose to stop concentrating on one spell, to retain concentration on the other.
+You can concentrate on two spells simultaneously without incurring exhaustion. Whenever you take damage while you are concentrating on two spells, the attacker rolls with a bonus of the sum of the levels of both spells, or half the damage that you took, whichever number is higher, vs your spellcasting attribute's defence to break your concentration. Alternatively, you can choose to stop concentrating on one spell, to retain concentration on the other.
 
 ## War Caster
 _**Prerequisite:** The ability to cast spells_<br>

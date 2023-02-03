@@ -26,22 +26,40 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 | 5th | *Destructive Wave, Insect Plague* |
 
 ### Destructive Wrath
-*Prerequisite:* Channel Divinity<br>
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 
 When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
 ## Talents
 
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Wrath of the Storm | 5  | - |  
+| Thunderbolt Strike | 10 | 3rd Level Spells and Wrath of the Storm |  
+| Stormborn          | 80 | 8th Level Spells and Thunderbolt Strike |  
+
 ### Wrath of the Storm
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 5 Character Points
 You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, it must make a Dexterity defence check vs your passive spellcasting attack score. If the creature fails the defence check, it takes 1d8 lightning damage and 1d8 thunder damage. If the creature succeeds at the defence check, it takes half as much damage.
 
 You can rebuke a number of attacks equal to your Wisdom modifier (minimum one). Wrath of the Storm always triggers automatically when you are hit, unless you declare on your turn that you will not use it in response to being hit by certain targets. Alternatively, you can also declare that you will only use Wrath of the Storm when hit by a specific target. You regain all expended uses when you finish a long rest.
 
 ### Thunderbolt Strike
-*Prerequisite:* 3rd Level Spells and Wrath of the Storm<br>
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Wrath of the Storm
 When you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
 ### Stormborn
-*Prerequisite:* 9th Level Spells and Thunderbolt Strike<br>
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Thunderbolt Strike
 You have a flying speed equal to your current walking speed whenever you are not underground or indoors.

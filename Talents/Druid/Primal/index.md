@@ -16,20 +16,20 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Heroism, Protection from Evil and Good* |   
-| 2nd | *Barkskin, Moonbeam* |  
-| 3rd | *Spirit Guardians, Thunder Step* |  
-| 4th | *Guardian of Nature, Stoneskin* |  
-| 5th | *Cone of Cold, Wrath of Nature* |  
+| 1st | Heroism, Protection from Evil and Good |   
+| 2nd | Barkskin, Moonbeam |  
+| 3rd | Spirit Guardians, Thunder Step |  
+| 4th | Guardian of Nature, Stoneskin |  
+| 5th | Cone of Cold, Wrath of Nature |  
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Enhanced Wild Shape  | 5  | *Wild Shape* |   
-| Primal Strike        | 10 | *3rd Level Spells and Enhanced Wild Shape* |   
-| Elemental Wild Shape | 25 | *5th Level Spells and Primal Strike* |   
-| Mutable Body         | 50 | *5th Level Spells and Elemental Wild Shape* |   
+| Enhanced Wild Shape  | 5  | Wild Shape* |   
+| Primal Strike        | 10 | 3rd Level Spells and Enhanced Wild Shape|   
+| Elemental Wild Shape | 25 | 5th Level Spells and Primal Strike |   
+| Mutable Body         | 50 | 5th Level Spells and Elemental Wild Shape |   
 
 ### Enhanced Wild Shape 
 

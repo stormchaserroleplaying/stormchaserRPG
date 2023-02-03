@@ -6,7 +6,7 @@ grand_parent: Talents
  
 # Nature
 
-Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, Chislev, Balinor, and Pan) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
+Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
 ## Branch Features
  
@@ -46,9 +46,9 @@ You can use your channel divinity to charm animals and plants. As an action, you
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Choose one additional cantrip from the divine spell list . This cantrip doesn’t count against the number of cleric cantrips you know. 
+Choose one additional cantrip from the divine spell list. This cantrip doesn’t count against the number of cleric cantrips you know. 
 
-Also, you are trained in one of the following skills of your choice: Animal Handling, Nature or Survival.
+You learn the druidic language. Also, you are trained in one of the following skills of your choice: Animal Handling, Nature or Survival.
 
 ### Dampen Elements
  

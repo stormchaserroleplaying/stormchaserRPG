@@ -18,11 +18,11 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Comprehend Languages, Guiding Bolt* |   
-| 2nd | *Augury, Enhance Ability* |  
-| 3rd | *Remove Curse, Haste* |  
-| 4th | *Divination, Guardian of Faith* |  
-| 5th | *Legend Lore, Wall of Stone* |  
+| 1st | Comprehend Languages, Guiding Bolt |   
+| 2nd | Augury, Enhance Ability |  
+| 3rd | Remove Curse, Haste |  
+| 4th | Divination, Guardian of Faith |  
+| 5th | Legend Lore, Wall of Stone |  
 
 ### Bonus Equipment
 You have created map of your findings of the stars. Its form is determined by rolling on the table below, or by choosing one.
@@ -47,9 +47,9 @@ While holding the map, you have the following benefits:
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Summon the Stars | 5  | - |   
-| Wheel of Fortune | 10 | *3rd Level Spells and Summon the Stars* |   
-| The Magician     | 25 | *5th Level Spells and Wheel of Fortune* |   
-| The Moon         | 50 | *7th Level Spells and The Magician* |   
+| Wheel of Fortune | 10 | 3rd Level Spells and Summon the Stars |   
+| The Magician     | 25 | 5th Level Spells and Wheel of Fortune |   
+| The Moon         | 50 | 7th Level Spells and The Magician |   
 
 ### Summon the Stars
 

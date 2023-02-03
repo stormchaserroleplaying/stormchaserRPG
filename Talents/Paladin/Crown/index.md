@@ -10,8 +10,7 @@ The Oath of the Crown is sworn to the ideals of civilization, be it the spirit o
 ## Branch Features
 
 ### Tenets of the Crown
-The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
-
+The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasise the following tenets.
 * **Law.** The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
 * **Loyalty.** Your word is your bond. Without loyalty, oaths and laws are meaningless.
 * **Courage.** You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
@@ -33,13 +32,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of the Crown | 10 | *-* |
-| Divine Allegiance | 20 | *Oath of the Crown and Aura of Protection* |
+|:-------|:--:|:--------------|
+| Oath of the Crown | 5  | - |
+| Divine Allegiance | 15 | *Oath of the Crown and Aura of Protection* |
 | Unyielding Spirit | 65 | *Cleansing Touch and Divine Allegiance* |
-| Exalted Champion  | 100 | *Greater Auras and Unyielding Spirit* |
+| Exalted Champion  | 50 | *Greater Auras and Unyielding Spirit* |
 
 ### Oath of the Crown
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -51,17 +51,19 @@ As a bonus action, you issue a challenge that compels other creatures to do batt
 As a bonus action, each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your spellcasting modifier (minimum of 1) if it has no more than half of its hit points.
 
 ### Divine Allegiance
-*Prerequisite:* Oath of the Crown and Aura of Protection<br>
+#### *Cost:* 15 Character Points
+#### *Prerequisite:* Oath of the Crown and Aura of Protection
 Once per turn, if, within the last round, a creature took damage while within 5 feet of you, you can use a free action at the start of your turn to magically cause that creature not to take the damage. Instead, you take the damage. This damage to you can’t be reduced or prevented in any way.
 
 ### Unyielding Spirit
-*Prerequisite:* Cleansing Touch and Divine Allegiance<br>
+#### *Cost:* 65 Character Points
+#### *Prerequisite:* Cleansing Touch and Divine Allegiance
 You have +1d to on defences to avoid becoming paralyzed or stunned.
 
 ### Exalted Champion
-*Prerequisite:* Greater Auras and Unyielding Spirit<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* Greater Auras and Unyielding Spirit
 Your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:
-
 * You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
 * Your allies have advantage on death saving throws while within 30 feet of you.
 * You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.

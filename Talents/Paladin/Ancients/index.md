@@ -34,13 +34,14 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-----------|:------:|:-----------|
-| Oath of the Ancients  | 10 | *-* |
-| Aura of Warding       | 10 | *Oath of the Ancients and Aura of Protection* |
-| Undying Sentinel      | 10 | *Cleansing Touch and Aura of Warding* |
-| Elder Champion        | 10 | *Greater Auras and Undying Sentinel* |
+|:-------|:--:|:--------------|
+| Oath of the Ancients | 5  | - |
+| Aura of Warding      | 15 | *Oath of the Ancients and Aura of Protection* |
+| Undying Sentinel     | 65 | *Cleansing Touch and Aura of Warding* |
+| Elder Champion       | 50 | *Greater Auras and Undying Sentinel* |
 
 ### Oath of the Ancients
+#### *Cost:* 5 Character Points
 You gain the ability to channel the power of your oath, using that energy to fuel the following magical effects.
 
 When you use your oath powers, you expend 1 mana and choose which effect to create. Some oath effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
@@ -56,21 +57,23 @@ A turned creature must spend its turns trying to move as far away from you as it
 If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.
 
 ### Aura of Warding
-*Prerequisite:* Oath of the Ancients and Aura of Protection<br>
+#### *Cost:* 15 Character Points
+#### *Prerequisite:* Oath of the Ancients and Aura of Protection
 You and friendly creatures within 10 feet of you have resistance to damage from spells.
 
 ### Undying Sentinel
-*Prerequisite:* Cleansing Touch and Aura of Warding<br>
+#### *Cost:* 65 Character Points
+#### *Prerequisite:* Cleansing Touch and Aura of Warding
 When you are reduced to 0 stamina and are not killed outright, you can choose to drop to 1 stamina instead. Once you use this ability, you can't use it again until you finish a long rest.
 
 Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.
 
 ### Elder Champion
-*Prerequisite:* Greater Auras and Undying Sentinel<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* Greater Auras and Undying Sentinel
 You can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane.
 
 Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
-
 * At the start of each of your turns, you regain 10 hit points.
 * Whenever you cast a divine spell that has a casting time of 1 action, you can cast it using your bonus action instead.
 * Enemy creatures within 10 feet of you have -1d to their defences vs your divine spells and oath powers.

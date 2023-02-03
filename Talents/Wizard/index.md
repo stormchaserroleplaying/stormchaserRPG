@@ -5,7 +5,7 @@ has_children: true
 nav_order: 13
 ---
 
-# Wizard Talent Tree
+# Wizard Talent Tree (Mage)
 Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible. Such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals. While some might choose a particular field of magical study and become masters of such powers, others embrace versatility, revelling in the unbounded wonders of all magic. In either case, wizards prove a cunning and potent lot, capable of smiting their foes, empowering their allies, and shaping the world to their every desire.
 
 ## Spellcasting
@@ -39,7 +39,7 @@ You can copy a spell from your own spellbook into another book (for example, if 
 ### Preparing Spells
 You prepare the list of mage spells that are available for you to cast. To do so, choose a number of mage spells of each spell level that you can cast equal to your spellcasting ability modifer.
 
-For example, if you are a mage with 3 talents, you have 15 spell points. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
+For example, if you are a mage with 3 talents, you have 15 mana. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells, chosen from your spellbook. If you prepare the 1st-level spell *magic missile*, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of mage spells requires time spent studying your spellbook and memorising the incantations and gestures that you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
@@ -48,26 +48,37 @@ Each time that you gain the ability to cast spells of a higher spell level, you 
 
 ## Core Talents
 
-### Arcane Recovery
-*Prerequisite:* 1 Other Wizard Talent<br>
+| Talent | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Arcane Recovery  | 5  | *1 Wizard Talent* |
+| Spell Mastery    | 80 | *9th Level Spells and 5 Wizard Talents* |
+| Signature Spells | 50 | *10th Level Spells and 6 Wizard Talents* |
+| Archmage         | 50 | *10th Level Spells and 6 Wizard Talents* |
+
+### Arcane Recovery 
+#### *Cost:* 5 Character Points
+#### *Prerequisite:* 1 Wizard Talent
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you may recover expended mana equal to the highest level of spells that you can cast.
 
 For example, if you can cast 2nd level spells, you can recover two mana.
 
 ### Spell Mastery
-*Prerequisite:* 9th Level Spells and 5 Other Wizard Talents<br>
+#### *Cost:* 80 Character Points
+#### *Prerequisite:* 9th Level Spells and 5 Wizard Talents
 You have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level mage spell and a 2nd-level mage spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
 ### Signature Spells
-*Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* 10th Level Spells and 6 Wizard Talents
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level mage spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 ### Archmage
-*Prerequisite:* 10th Level Spells and 6 Other Wizard Talents<br>
+#### *Cost:* 50 Character Points
+#### *Prerequisite:* 10th Level Spells and 6 Wizard Talents
 You have mastered the arcane arts. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Wizard Talent Tree Branches

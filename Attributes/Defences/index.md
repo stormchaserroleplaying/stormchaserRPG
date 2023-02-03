@@ -18,7 +18,7 @@ If a defence check is made to avoid being hit by an attack that would have had a
 
 A character's Strength defence represents their physical power. How well can they oppose a force that would physically move or bind them?
 
-When defending in melee you can choose to use your Strength defence to block an attack rather than evading it. Melee attacks that deal bludgeoning damage have advantage to hit a target defending with its Strength defence. Melee attacks that deal slashing damage have disadvantage to hit a target defending with its Strength defence.
+When defending in melee you can choose to use your Strength defence to block an attack, rather than evading it. You take -1d to your Strength defence vs melee attacks that deal bludgeoning damage and +1d to your Strength defence vs melee attacks that deal slashing damage.
 
 > ### Blocking With An Item
 > A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see [Interacting With Objects](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/)) and you benefit from advantage on the Strength defence check.
@@ -28,7 +28,7 @@ When defending in melee you can choose to use your Strength defence to block an 
 
 A character's Dexterity defence represents their physical finesse. How well can they dodge out of harm's way?
 
-In combat, most attacks target a creature's Dexterity Defence. Melee attacks that deal slashing damage have advantage to hit a target defending with its Dexterity defence. Melee attacks that deal bludgeoning damage have disadvantage to hit a target defending with its Dexterity defence.
+In combat, most attacks target a creature's Dexterity Defence. You take +1d to your Dexterity defence vs melee attacks that deal bludgeoning damage and -1d to your Dexterity defence vs melee attacks that deal slashing damage.
 
 ## Constitution Defence
 **Constitution defence: 10 + Constituion modifier**

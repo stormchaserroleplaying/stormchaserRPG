@@ -46,22 +46,29 @@ The spirit is friendly to you and your companions and obeys your commands. Stati
 > *Small Elemental*
 > 
 > ##### Defenses
-> **STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
-> **Stamina:** 10× the mana spent to summon it<br>
-> **Damage Immunities:** Fire<br>
-> **Condition Immunities:** Charmed, Frightened, Grappled, Prone, Restrained<br>
-> **Speed:** 35 feet, fly 35 feet (hover)
+> **STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8
+> 
+> **Stamina:** 10× the mana spent to summon it
+> 
+> **Damage Reduction:** 1 (Natural Armour)
+> 
+> **Damage Immunities:** Fire
+> 
+> **Condition Immunities:** Charmed, Frightened, Grappled, Prone, Restrained
 > 
 > ##### Ability Scores
 > **STR:** 10 (+0), **DEX:** 14 (+2), **CON:** 14 (+2), **INT:** 13 (+1), **WIS:**15 (+2), **CHA:** 11 (+0)
+> 
+> **Speed:** 35 feet, fly 35 feet (hover)
 > 
 > ##### Actions
 > **Flame Seed:** *Ranged Weapon Attack:* 2d20kh1 + your spellcasting modifier to hit, range 60 feet, one target you can see. *Hit:* 1d6 + your spellcasting modifier fire damage.
 > 
 > **Fiery Teleportation:** The spirit and each willing creature of your choice within 5 feet of the spirit teleport up to 15 feet to unoccupied spaces that you can see. Then, you make a spell attack vs the Dexterity defense of each creature that is within 5 feet of the space that the spirit left. On a hit, each target takes 1d6 + your spellcasting modifier in fire damage.
 > 
-> ## Other
-> **Senses:** Darkvision (60 feet), Passive Perception 12<br>
+> ##### Other
+> **Senses:** Darkvision (60 feet), Passive Perception 12
+> 
 > **Languages:** understands the languages you speak
 
 In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the spirit can take any action of its choice, not just Dodge.

@@ -1,10 +1,10 @@
 ---
-title: Bladedancing Tradition
+title: Bladedancer
 parent: Wizard Talent Tree
 grand_parent: Talents
 ---
 
-# Bladedancing Tradition
+# Bladedancer
 Bladedancers master a tradition of wizardry that incorporates swordplay and dance. Originally created by elves, this tradition has been adopted by non-elf practitioners, who honour and expand on the elven ways.
 
 In combat, a bladedancer uses a series of intricate, elegant maneuvers that fend off harm and allow the bladedancer to channel magic into devastating attacks and a cunning defense. Many who have observed a bladedancer at work remember the display as one of the more beautiful experiences in their life, a glorious dance accompanied by a singing blade.

@@ -5,15 +5,15 @@ grand_parent: Bestiary
 ---
 
 # Hyenakin
-Medium Humanoid (Beastkin), Chaotic Evil
+*Medium Humanoid (Beastkin), Chaotic Evil*
 
 ## Defences
-**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8
-+2 shield bonus vs. melee and ranged attacks<br><br>
+**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
++2 shield bonus vs. melee and ranged attacks
 
 **Stamina:** 22
 
-**Damage Reduction:** 4, 14-16 Coverage
+**Damage Reduction:** 4, 14-16 Coverage (Hide Armour)
 
 ## Ability Scores
 **STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)

@@ -10,7 +10,7 @@ Life clerics focus on the vibrant energy that sustains all life. The gods of lif
 ## Branch Features
  
 ### Bonus Proficiency
-When you choose this branch, you gain proficiency with heavy armour.
+When you take your first talent from this branch, you gain proficiency with heavy armour.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

@@ -15,14 +15,17 @@ When you take your first druid talent, you learn Druidic, the secret language of
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Wild Shape | 5 | - |
-| Wild Companion | 5 | *1 Other Druid Talent* |
-| Timeless Body | 40 | *9th Level Spells and 5 Other Druid Talents* |
-| Beast Spells | 40 | *9th Level Spells and 5 Other Druid Talents* |
-| Archdruid | 100 | *10th Level Spells and 6 Other Druid Talents* |
+| Wild Shape     | 5   | - |
+| Wild Companion | 5   | 1 Other Druid Talent* |
+| Timeless Body  | 40  | 9th Level Spells and 5 Other Druid Talents |
+| Beast Spells   | 40  | 9th Level Spells and 5 Other Druid Talents |
+| Archdruid      | 100 | 10th Level Spells and 6 Other Druid Talents |
 
 ### Wild Shape
-#### *Cost:* 5 Character Points
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You can use your action to expend 1 or more mana and magically assume the shape of a beast that you have seen before.
 
 The amount of mana expended determines the maximum CR of the beasts that you can transform into (as shown in the table below) and the maximum amount of mana that you may spend on a single wildshape is equal to the maximum level of spells that you can cast.
@@ -50,25 +53,33 @@ While you are transformed, the following rules apply:
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 ### Wild Companion
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* 1 Other Druid Talent
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Other Druid Talent
 You gain the ability to summon a spirit that assumes an animal form: as an action, you can cast the *find familiar* spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to the spell level at which you cast the spell.
 
 ### Timeless Body
-#### *Cost:* 40 Character Points
-#### *Prerequisite:* 9th Level Spells and 5 Other Druid Talents
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 40 Character Points<br>**Prerequisite:**9th Level Spells and 5 Other Druid Talents
 The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 ### Beast Spells
-#### *Cost:* 40 Character Points
-#### *Prerequisite:* 9th Level Spells and 5 Other Druid Talents
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 40 Character Points<br>**Prerequisite:**9th Level Spells and 5 Other Druid Talents
 You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren’t able to provide material components.
 
 ### Archdruid
-#### *Cost:* 100 Character Points
-#### *Prerequisite:* 10th Level Spells and 6 Other Druid Talents
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 100 Character Points<br>**Prerequisite:**10th Level Spells and 6 Other Druid Talents
 You are one with nature. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 Additionally, you can use your Wild Shape at 1st level an unlimited number of times, and you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren’t consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.

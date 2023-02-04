@@ -18,11 +18,11 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Bless, Shield of Faith* |   
-| 2nd | *Animal Messenger, Healing Spirit* |  
-| 3rd | *Beacon of Hope, Conjure Animals* |  
-| 4th | *Conjure Woodland Beings, Locate Creature* |  
-| 5th | *Dispel Evil and Good, Scrying* |  
+| 1st | Bless, Shield of Faith |   
+| 2nd | Animal Messenger, Healing Spirit |  
+| 3rd | Beacon of Hope, Conjure Animals |  
+| 4th | Conjure Woodland Beings, Locate Creature |  
+| 5th | Dispel Evil and Good, Scrying |  
 
 ### Woodland Voice
 You learn the Sylvan language. You also have a way of speaking with beasts in which they can understand you, and you can easily interpret their noises and motions. However, this ability to communicate with beasts in this manner does not mean that any beast that you speak with is friendly to you.
@@ -32,10 +32,10 @@ You learn the Sylvan language. You also have a way of speaking with beasts in wh
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Spirits of the Wild | 5  | - |   
-| Locate Hedgeway     | 5  | *Spirits of the Wild* |   
-| Empowered Allies    | 10 |  *3rd Level Spells and Spirits of the Wild* |   
-| Spiritual Balm      | 25 | *5th Level Spells and Empowered Allies* |   
-| Protect the Keeper  | 50 | *7th Level Spells and Spiritual Balm* |   
+| Locate Hedgeway     | 5  | Spirits of the Wild |   
+| Empowered Allies    | 10 | 3rd Level Spells and Spirits of the Wild |   
+| Spiritual Balm      | 25 | 5th Level Spells and Empowered Allies |   
+| Protect the Keeper  | 50 | 7th Level Spells and Spiritual Balm |   
 
 ### Spirits of the Wild
 

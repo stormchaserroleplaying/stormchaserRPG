@@ -19,20 +19,20 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Searing Smite* |
-| 2nd | *Scorching Ray, Spike Growth* |
-| 3rd | *Fireball, Plant Growth* |
-| 4th | *Elemental Bane, Grasping Vine* |
-| 5th | *Immolation, Wrath of Nature* |
+| 1st | Entangle, Searing Smite |
+| 2nd | Scorching Ray, Spike Growth |
+| 3rd | Fireball, Plant Growth |
+| 4th | Elemental Bane, Grasping Vine |
+| 5th | Immolation, Wrath of Nature |
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Thorn Growth     | 5  | - |   
-| Extra Attack     | 10 | *3rd Level Spells and Thorn Growth* |   
-| Burning Thorns   | 25 | *5th Level Spells and Extra Attack* |   
-| Scorching Spirit | 50 | *7th Level Spells and Burning Thorns* |  
+| Extra Attack     | 10 | 3rd Level Spells and Thorn Growth |   
+| Burning Thorns   | 25 | 5th Level Spells and Extra Attack |   
+| Scorching Spirit | 50 | 7th Level Spells and Burning Thorns |  
 
 ### Thorn Growth
 

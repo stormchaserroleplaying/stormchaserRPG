@@ -20,21 +20,21 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Detect Poison and Disease, Ray of Sickness* |   
-| 2nd | *Gentle Repose, Wither and Bloom* |  
-| 3rd | *Animate Dead, Gaseous Form* |  
-| 4th | *Blight, Confusion* |  
-| 5th | *Cloudkill, Contagion* |  
+| 1st | Detect Poison and Disease, Ray of Sickness |   
+| 2nd | Gentle Repose, Wither and Bloom |  
+| 3rd | Animate Dead, Gaseous Form |  
+| 4th | Blight, Confusion|  
+| 5th | Cloudkill, Contagion |  
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Halo of Spores | 5 | - |   
-| Symbiotic Entity | 5 | *Halo of Spores* |   
-| Fungal Infestation | 10 | *3rd Level Spells and Symbiotic Entity* |   
-| Spreading Spores | 25 | *5th Level Spells and Fungal Infestation* |   
-| Fungal Body | 50 | *7th Level Spells and Spreading Spores* |  
+| Halo of Spores     | 5  | - |   
+| Symbiotic Entity   | 5  | Halo of Spores |   
+| Fungal Infestation | 10 | 3rd Level Spells and Symbiotic Entity |   
+| Spreading Spores   | 25 | 5th Level Spells and Fungal Infestation |   
+| Fungal Body        | 50 | 7th Level Spells and Spreading Spores |  
 
 ### Halo of Spores
 

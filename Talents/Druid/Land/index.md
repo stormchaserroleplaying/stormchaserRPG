@@ -20,74 +20,74 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### Arctic
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Ice Knife, Winter's Ward* |
-| 2nd | *Binding Ice, Snowball Swarm* | 
-| 3rd | *Sleet Storm, Slow* | 
-| 4th | *Freedom of Movement, Ice Storm* | 
-| 5th | *Commune with Nature, Cone of Cold* | 
+| 1st | Ice Knife, Winter's Ward |
+| 2nd | Binding Ice, Snowball Swarm | 
+| 3rd | Sleet Storm, Slow | 
+| 4th | Freedom of Movement, Ice Storm | 
+| 5th | Commune with Nature, Cone of Cold | 
  
 #### Coast
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Create or Destroy Water, Fog Cloud* |  
-| 2nd | *Misty Step, Warding Wind* | 
-| 3rd | *Tidal Wave, Water Breathing* | 
-| 4th | *Control Water, Storm Sphere* | 
-| 5th | *Control Winds, Maelstrom* | 
+| 1st | Create or Destroy Water, Fog Cloud |  
+| 2nd | Misty Step, Warding Wind | 
+| 3rd | Tidal Wave, Water Breathing | 
+| 4th | Control Water, Storm Sphere | 
+| 5th | Control Winds, Maelstrom | 
  
 #### Desert
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Burning Hands, Silent Image* |  
-| 2nd | *Blur, Dust Devil* | 
-| 3rd | *Inflamed Feet, Wall of Sand* | 
-| 4th | *Blight, Hallucinatory Terrain* | 
-| 5th | *Insect Plague, Wall of Stone* | 
+| 1st | Burning Hands, Silent Image |  
+| 2nd | Blur, Dust Devil | 
+| 3rd | Inflamed Feet, Wall of Sand | 
+| 4th | Blight, Hallucinatory Terrain | 
+| 5th | Insect Plague, Wall of Stone | 
  
 #### Forest
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Faerie Fire* | 	
-| 2nd | *Animal Messenger, Moonbeam* | 
-| 3rd | *Call Lightning, Plant Growth* | 
-| 4th | *Divination, Freedom of Movement* | 
-| 5th | *Commune with Nature, Tree Stride*| 
+| 1st | Entangle, Faerie Fire | 	
+| 2nd | Animal Messenger, Moonbeam | 
+| 3rd | Call Lightning, Plant Growth | 
+| 4th | Divination, Freedom of Movement | 
+| 5th | Commune with Nature, Tree Stride| 
  
 #### Grassland
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Longstrider* |  
-| 2nd | *Invisibility, Pass without Trace* | 
-| 3rd | *Daylight, Haste* | 
-| 4th | *Divination, Freedom of Movement* | 
-| 5th | *Dream, Insect Plague*| 
+| 1st | Entangle, Longstrider |  
+| 2nd | Invisibility, Pass without Trace | 
+| 3rd | Daylight, Haste | 
+| 4th | Divination, Freedom of Movement | 
+| 5th | Dream, Insect Plague | 
  
 #### Mountain
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Earth Tremor, Jump* |  
-| 2nd | *Earthen Grasp, Spider Climb* | 
-| 3rd | *Erupting Earth, Meld into Stone* | 
-| 4th | *Stone Shape, Stoneskin* | 
-| 5th | *Control Winds, Wall of Stone*| 
+| 1st | Earth Tremor, Jump |  
+| 2nd | Earthen Grasp, Spider Climb | 
+| 3rd | Erupting Earth, Meld into Stone | 
+| 4th | Stone Shape, Stoneskin | 
+| 5th | Control Winds, Wall of Stone | 
  
 #### Subterranean
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Corrosive Stream, Lesser Darkvision* |	
-| 2nd | *Spider Climb, Web* | 
-| 3rd | *Gaseous Form, Stinking Cloud* | 
-| 4th | *Greater Invisibility, Stone Shape* | 
-| 5th | *Cloudkill, Insect Plague*| 
+| 1st | Corrosive Stream, Lesser Darkvision |	
+| 2nd | Spider Climb, Web | 
+| 3rd | Gaseous Form, Stinking Cloud | 
+| 4th | Greater Invisibility, Stone Shape | 
+| 5th | Cloudkill, Insect Plague | 
  
 #### Swamp
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Detect Poison and Disease, Ray of Sickness* |  
-| 2nd | *Darkness, Acid Arrow* | 
-| 3rd | *Water Walk, Stinking Cloud* | 
-| 4th | *Grasping Vine, Vitriolic Sphere* | 
-| 5th | *Insect Plague, Scrying*| 
+| 1st | Detect Poison and Disease, Ray of Sickness |  
+| 2nd | Darkness, Acid Arrow | 
+| 3rd | Water Walk, Stinking Cloud | 
+| 4th | Grasping Vine, Vitriolic Sphere | 
+| 5th | Insect Plague, Scrying | 
  
 ## Talents
  

@@ -12,7 +12,7 @@ These enormous creatures resemble an immense, demonic cross between ox and goril
 ## Defences
 **STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10
 
-**Stamina:** 132
+**Stamina:** 132 (d20 Recovery Die)
 
 **Damage Reduction:** 6 (Natural Armour)
 

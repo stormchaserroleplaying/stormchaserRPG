@@ -11,9 +11,9 @@ grand_parent: Bestiary
 **STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
 +2 shield bonus vs. melee and ranged attacks
 
-**Stamina:** 22
+**Stamina:** 33 (d8 Recovery Die)
 
-**Damage Reduction:** 4, 14-16 Coverage (Hide Armour)
+**Damage Reduction:** 4, **Coverage:** 14-16 (Hide Armour)
 
 ## Ability Scores
 **STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)
@@ -23,9 +23,9 @@ grand_parent: Bestiary
 ## Actions
 **Bite:** *Melee Weapon Attack:* 2d20kh1+2 to hit, reach 5 ft., one creature. *Hit:* 1d4+2 piercing damage.
 
-**Spear:** *Melee or Ranged Weapon Attack:* 2d20kh1+2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 1d6+2 piercing damage, or 1d6+3 piercing damage if used with two hands to make a melee attack.
+**Spear:** *Melee or Ranged Weapon Attack:* 2d20kh1+2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 2d3+2 piercing damage, or 2d3+3 piercing damage if used with two hands to make a melee attack ([brace](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#brace), [brutal](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#brutal) 1, [mounted](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#mounted), [sharp](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#sharp) 1, [versatile](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#versatile)).
 
-**Longbow:** *Ranged Weapon Attack:* 2d20kh1+1 to hit, range 150/600 ft., one target. *Hit:* 1d8+1 piercing damage.
+**Longbow:** *Ranged Weapon Attack:* 2d20kh1+1 to hit ([tall](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#tall), [two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed), [unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), range 150/600 ft., one target. *Hit:* 1d8+1 piercing damage ([ammunition](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#ammunition) 20, [brutal](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#brutal) 1).
 
 ## Special Abilities
 **Rampage:** When the gnoll reduces a creature to 0 stamina with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.

@@ -1,10 +1,12 @@
 ---
-title: Hyenakin
+title: Gnoll
 parent: Humanoids
 grand_parent: Bestiary
 ---
 
-# Hyenakin
+# Gnoll
+Gnolls are feral, hyena-headed humanoids that attack without warning, slaughtering their victims and devouring their flesh.
+
 *Medium Humanoid (Beastkin), Chaotic Evil*
 
 ## Defences
@@ -33,4 +35,4 @@ grand_parent: Bestiary
 ## Other
 **Senses:** Darkvision (60 ft.), Passive Perception 10
 
-**Languages:** Hyena
+**Languages:** Gnoll

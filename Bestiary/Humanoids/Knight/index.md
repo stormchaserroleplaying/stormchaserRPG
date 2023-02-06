@@ -5,6 +5,8 @@ grand_parent: Bestiary
 ---
 
 # Knight
+Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
+
 *Medium Humanoid (Any Race), Any Alignment*
 
 ## Defences
@@ -13,7 +15,8 @@ grand_parent: Bestiary
 
 **Stamina:** 56 (d10 Recovery Die)
 
-**Damage Reduction:** 9, **Coverage:** 1-16 (Plate Armour with Visor)
+**Damage Reduction:** 9, **Coverage:** 1-16 (Padded Armour, Plate Armour with Visor, [bulky](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#bulky), [hard](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#hard), [noisy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#noisy))<br>
++1 bonus to DR vs. bludgeoning damage
 
 ## Ability Scores
 **STR:** 16 (+3), **DEX:** 11 (+0), **CON:** 14 (+2), **INT:** 11 (+0), **WIS:** 11 (+0), **CHA:** 15 (+2)
@@ -23,9 +26,9 @@ grand_parent: Bestiary
 ## Actions
 **Multiattack:** The knight makes two melee attacks.
 
-**Greatsword:** *Melee Weapon Attack:* 2d20kh1+3 to hit ([unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), reach 10 ft. ([long](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#long)), one target. *Hit:* 3d4+5 slashing damage ([two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed)).
+**Greatsword:** *Melee Weapon Attack:* 2d20kh1+3 to hit ([unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), reach 10 ft. ([long](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#long)), one target. *Hit:* 3d4+5 piercing or slashing damage ([two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed)).
 
-**Greatsword Bash:** *Melee Weapon Attack:* 2d20kh1+3 to hit ([unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), reach 5 ft., one target. *Hit:* 1d4+5 slashing damage ([two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed)).
+**Greatsword Bash:** *Melee Weapon Attack:* 2d20kh1+3 to hit ([unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), reach 5 ft., one target. *Hit:* 1d4+5 bludgeoning damage ([two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed)).
 
 **Heavy Crossbow:** *Ranged Weapon Attack:* 2d20kh1+0 to hit ([two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed), [unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy)), range 100/400 ft., one target. **Hit:** 1d10 piercing damage ([ammunition](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#ammunition) 20, [load](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#load) 2).
 
@@ -35,6 +38,8 @@ grand_parent: Bestiary
 **Brave:** The knight has +1d to defences and defences checks vs fear.
 
 ## Other
+**Skills:** -1d to Athletics, Initiative and Stealth
+
 **Senses:** Passive Perception 10
 
 **Languages:** Any one language

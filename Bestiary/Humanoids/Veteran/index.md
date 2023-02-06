@@ -15,8 +15,8 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 
 **Stamina:** 56 (d10 Recovery Die)
 
-**Damage Reduction:** 7, **Coverage:** 1-2 4-16 (Padded Armour, Chain Coif, Splint Armour, [bulky](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#bulky), [hard](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#hard), [noisy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#noisy))<br>
-+1 bonus to DR vs. bludgeoning damage
+**Damage Reduction:** 7, **Coverage:** 1-2 4-16 (Padded Armour, Chain Shirt, Chain Coif, Splint Armour, [bulky](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#bulky), [hard](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#hard), [noisy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#noisy))<br>
++1 bonus to DR vs. bludgeoning and slashing damage
 
 ## Ability Scores
 **STR:** 16 (+3), **DEX:** 13 (+1), **CON:** 14 (+2), **INT:** 10 (+0), **WIS:** 11 (+0), **CHA:** 10 (+0)

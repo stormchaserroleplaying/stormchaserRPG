@@ -15,8 +15,8 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 
 **Stamina:** 56 (d10 Recovery Die)
 
-**Damage Reduction:** 9, **Coverage:** 1-16 (Padded Armour, Plate Armour with Visor, [bulky](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#bulky), [hard](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#hard), [noisy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#noisy))<br>
-+1 bonus to DR vs. bludgeoning damage
+**Damage Reduction:** 9, **Coverage:** 1-16 (Padded Armour, Chain Shirt, Plate Armour with Visor, [bulky](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#bulky), [hard](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#hard), [noisy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#noisy))<br>
++1 bonus to DR vs. bludgeoning and slashing damage
 
 ## Ability Scores
 **STR:** 16 (+3), **DEX:** 11 (+0), **CON:** 14 (+2), **INT:** 11 (+0), **WIS:** 11 (+0), **CHA:** 15 (+2)

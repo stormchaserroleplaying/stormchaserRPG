@@ -10,7 +10,7 @@ These enormous creatures resemble an immense, demonic cross between ox and goril
 *Medium Fiend (Daemon), Neutral Evil*
 
 ## Defences
-**STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10
+**STR:** 24, **DEX:** 14, **CON:** 22, **INT:** 8, **WIS:** 12, **CHA:** 12
 
 **Stamina:** 132 (d20 Recovery Die)
 

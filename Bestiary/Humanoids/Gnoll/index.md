@@ -10,7 +10,7 @@ Gnolls are feral, hyena-headed humanoids that attack without warning, slaughteri
 *Medium Humanoid (Beastkin), Chaotic Evil*
 
 ## Defences
-**STR:** 12, **DEX:** 11, **CON:** 10, **INT:** 8, **WIS:** 10, **CHA:** 8<br>
+**STR:** 14, **DEX:** 13, **CON:** 12, **INT:** 10, **WIS:** 12, **CHA:** 10<br>
 +2 shield bonus vs. melee and ranged attacks
 
 **Stamina:** 33 (d8 Recovery Die)

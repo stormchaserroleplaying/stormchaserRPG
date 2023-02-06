@@ -10,7 +10,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 *Medium Humanoid (Any Race), Any Alignment*
 
 ## Defences
-**STR:** 13, **DEX:** 11, **CON:** 12, **INT:** 10, **WIS:** 10, **CHA:** 10<br>
+**STR:** 15, **DEX:** 13, **CON:** 14, **INT:** 12, **WIS:** 12, **CHA:** 12<br>
 +1 [parry](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#parry) bonus to strength defence vs. melee attacks
 
 **Stamina:** 56 (d10 Recovery Die)

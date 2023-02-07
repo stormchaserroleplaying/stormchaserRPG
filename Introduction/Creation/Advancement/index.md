@@ -10,28 +10,32 @@ As your character goes on adventures and overcomes challenges, they gain experie
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
+| Spell School Mastery | 25 |
+| Weapon Mastery | 25 |
+| Skill Mastery | 25 |
+| Spell School Expertise | 10 |
+| Weapon Expertise | 10 |
+| Skill Expertise | 10 |
+| Tool Mastery | 10 |
+| Language (Native) | 10 |
 | Talent | From 5 |
-| Weapon Mastery | 15 |
-| Skill Mastery | 15 |
 | Increase an Attribute by 1 | From 5 |
-| Weapon Expertise | 5 |
-| Skill Expertise | 5 |
-| Tool Mastery | 3 |
-| Language (Native) | 3 |
-| Weapon Proficiency | 2 |
-| Skill Proficiency | 2 |
-| Tool Expertise | 2 |
-| Language (Accented) | 2 |
+| Learn an additional spell | From 5 |
+| Tool Expertise | 5 |
+| Language (Accented) | 5 |
+| Spell School Training | 2 |
+| Weapon Training | 2 |
+| Skill Training | 2 |
 | Subskill | 1 |
-| Tool Proficiency | 1 |
+| Tool Training | 1 |
 | Language (Broken) | 1 |
 
 * Talents costs are listed in the entry for that specific talent.
-* You cannot purchase mastery in a skill, tool, or weapon group, unless you are already an expert with that skill, tool, or weapon group. Thus the total cost to go from untrained to master is 22 points for a skill, or weapon and 6 points for a tool.
-* You cannot purchase a language at native level, unless you already speak that language at accented level. Thus the total cost to go from untrained to native is 6 points.
+* You cannot purchase mastery in a skill, tool, or weapon group, unless you are already an expert with that skill, tool, or weapon group. Thus the total cost to go from untrained to master is 37 points for a skill, or weapon group and 16 points for a tool.
+* You cannot purchase a language at native level, unless you already speak that language at accented level. Thus the total cost to go from untrained to native is 16 points.
 * You cannot increase an attribute score above 20.
-* You cannot purchase expertise in a skill, tool, or weapon group, unless you are already trained with that skill, tool, or weapon group. Thus the total cost to go from untrained to expert is 7 points for a skill, or weapon and 3 points for a tool.
-* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus the total cost to go from untrained to accented is 3 points.
+* You cannot purchase expertise in a skill, tool, or weapon group, unless you are already trained with that skill, tool, or weapon group. Thus the total cost to go from untrained to expert is 12 points for a skill, or weapon group and 6 points for a tool.
+* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus the total cost to go from untrained to accented is 6 points.
 * When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
 ## Purchasing Improved Attributes

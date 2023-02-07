@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
  
 # Trickery
-Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They’re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
+Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order amongst both gods and mortals. They’re patrons of thieves, scoundrels, gamblers, rebels and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives and flouting hollow traditions. They prefer subterfuge, pranks, deception and theft rather than direct confrontation.
 
 ## Branch Features
 
@@ -16,7 +16,7 @@ Gods of trickery are mischief-makers and instigators who stand as a constant cha
 #### **Prerequisite:** Channel Divinity
 You can use your channel divinity to create an illusory duplicate of yourself. As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
-For the duration, you can cast spells as though you were in the illusion’s space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+For the duration, you can cast spells as though you were in the illusion’s space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have +1d on attack rolls against that creature, given how distracting the illusion is to the target.
  
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -31,21 +31,20 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | 4th | Dimension Door, Polymorph | 
 | 5th | Dominate Person, Modify Memory | 
 
-
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Blessing of the Trickster | 5  | - |  
-| Cloak of Shadows  | 10 | 3rd Level Spells and Blessing of the Trickster |  
-| Improved Duplicity | 80 | 8th Level Spells and Cloak of Shadows  |  
+| Cloak of Shadows          | 10 | 3rd Level Spells and Blessing of the Trickster |  
+| Improved Duplicity        | 80 | 8th Level Spells and Cloak of Shadows  |  
 
 ### Blessing of the Trickster
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Your deity bestows the ability to move unseen. You can use your action to touch a willing creature granting +1d to Stealth checks. This blessing lasts for 1 hour or until you use this feature again.
+Your deity bestows the ability to move unseen. You can use your action to touch a willing creature, granting +1d on stealth checks. This blessing lasts for 1 hour or until you use this feature again.
 
 ### Cloak of Shadows
  

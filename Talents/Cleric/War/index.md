@@ -5,12 +5,12 @@ grand_parent: Talents
 ---
  
 # War
-War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry as well as gods of destruction and pillage and gods of conquest and domination. 
-## Branch Features
+War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry as well as gods of destruction and pillage and gods of conquest and domination.
 
+## Branch Features
  
 ### Bonus Proficiencies
-When you choose this branch, you gain proficiency with martial weapons and heavy armor.
+When you take your first talent from this branch, you gain proficiency with four martial weapon groups and heavy armour.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -53,7 +53,7 @@ You can use this feature a number of times equal to your spellcasting ability mo
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and War Priest 
-You grant the inspiration of your deity to an ally’s strikes. As a free action on your turn you can use your channel divinity to grant a creature within 30 feet of you to take 20 for their next attack, instead of rolling to hit.
+You grant the inspiration of your deity to an ally’s strikes. As a free action on your turn you can use your channel divinity to grant a creature within 30 feet of you the ability to take 20 on their next attack roll, instead of rolling to hit.
 
 ### Avatar of Battle
  

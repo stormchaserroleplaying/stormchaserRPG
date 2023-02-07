@@ -19,7 +19,7 @@ When creating a character, you gain 10 character points from your background and
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Talent | Typically 5 |
+| Talent | 5 or 10 |
 | Weapon Proficiency | 2 |
 | Skill Proficiency | 2 |
 | Tool Expertise | 2 |

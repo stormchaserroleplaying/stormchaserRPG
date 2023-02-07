@@ -18,7 +18,7 @@ You learn magical theory typical for practitioners of this elven martial traditi
 
 You gain proficiency with 1 [martial ranged weapon](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/RangedWeaponTables) group. Additionally, you can use your spellcasting ability instead of Dexterity for the attack and damage rolls made with ranged weapons.
 
-You also choose to gain proficiency in the [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana) skill. If you are already proficient in it, you instead gain expertise in it.
+You also gain proficiency in the [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana) skill. If you are already proficient in it, you instead gain expertise in it.
 
 ## Talents
 

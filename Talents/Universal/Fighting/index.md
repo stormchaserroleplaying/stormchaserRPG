@@ -35,7 +35,7 @@ You are skilled at using your weight to your advantage. You gain the following b
 
 > The damage die size increases from brawling fighting style and brawling mastery **do** apply to the damage die of natural weapons. For example, the damage die of a longtooth shifter's fangs increases from 1d6 to 1d8.
 > 
-> If you use your martial feat die for your unarmed damage die, then the increased damage die size from brawling fighting style **does not** apply. For example, a warrior with a martial feat die of 1d6, brawling fighting style and the martial arts talent from the monk talent tree deals 1d6 damage with their unarmed strikes, not 1d8.
+> If you use your martial feat die for your unarmed damage die, then the increased damage die size from brawling fighting style and brawling mastery **do not** apply. For example, a warrior with a martial feat die of 1d6, brawling fighting style and the martial arts talent from the monk talent tree deals 1d6 damage with their unarmed strikes, not 1d8.
 
 ### Mastery
 

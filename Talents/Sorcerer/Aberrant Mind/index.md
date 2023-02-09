@@ -12,7 +12,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 
 ### Aberrant Origins
 | d6 | Origin |
-|:---:|:--------:|
+|:--:|:------|
 | 1 | You were exposed to the Far Realm’s warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it. |
 | 2 | A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you. | 
 | 3 |  You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind. |  

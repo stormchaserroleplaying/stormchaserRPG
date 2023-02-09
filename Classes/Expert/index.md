@@ -13,11 +13,12 @@ As an expert, you have the following class features.
 Experts have stamina equal to 3× their Constitution score. Their recovery die is a d8.
 
 ### Proficiencies
-**Armour:** Light armour<br>
+**Perception:** Trained<br>
+**Defences:** Choose any 3 trained<br>
+**Skills:** Choose any 3 and upgrade 2 of your skill proficiencies to expertise<br>
 **Weapons:** Simple weapons and choose 1 martial weapon group<br>
-**Tools:** Choose any 1<br>
-**Defences:** Choose any 3<br>
-**Skills:** Choose any 3 and upgrade 2 of your skill proficiencies to expertise
+**Armour:** Light armour<br>
+**Tools:** Choose any 1
 
 An expert begins play with 2 additional character points to spend.
 

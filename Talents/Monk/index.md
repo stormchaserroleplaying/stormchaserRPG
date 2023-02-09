@@ -26,7 +26,10 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 | Perfect Self | 100 | *Empty Body* |
 
 ### Martial Arts
-#### *Cost:* 5 Character Points
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and simple melee weapons that don't have the two-handed or unwieldy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armour or wielding a shield:

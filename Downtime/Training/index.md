@@ -3,10 +3,8 @@ title: Training
 parent: Downtime
 ---
 
-## Training
+# Training
 Given enough time, money, and the services of an instructor, a character can learn a language, pick up proficiency with a tool, gain proficiency or even expertise in a skill, or possibly even earn a feat.
-
-###### Training Costs
 
 | Training | Duration | Total Cost |
 |:--------:|:--------:|:----------:|
@@ -20,7 +18,7 @@ Developing expertise with a tool, skill, or weapon takes 1000 hours. Sufficient 
 
 Attaining mastery with a tool, skill, or weapon, or learning a feat takes 8,500 hours. Sufficient learning resources to study alone should cost a total of approximately 4,250 gp.
 
-### Resources
+## Resources
 Training requires you to first find a learning resource (such as a book) or a teacher who is capable of teaching you and willing to do so.
 
 Books and other, similar learning resources must be bought in advance, but have the advantage of allowing a character to teach themselves in their free time. It takes a number of books with a value equal to the total cost of training to provide sufficient material with which to complete the training.
@@ -29,9 +27,8 @@ Personal instruction with a teacher who is able to assess the character individu
 
 It then takes a varying amount of time and money, depending on what you are learning.
 
-### Resolution
+## Resolution
 At the end of each day, a character makes an ability check depending on their training:
-
 * Training in a language calls for an Intelligence check.
 * Training in a subskill calls for an ability check with that subskill's governing skill.
 * Training proficiency in a tool calls for an ability check appropriate to that tool, as determined by the GM.
@@ -55,7 +52,7 @@ Afterwards, consult the Training Results table. A natural 1 results in no progre
 | 20-29 | Your training is exceptional, advancing twice as much towards completion as the time invested in training. |
 | 30 or more | Your training is masterful, advancing three times as much towards completion as the time invested in training. |
 
-### Complications
+## Complications
 Complications that arise while training typically involve the teacher. For every 200 hours spent in training, or for each failure during resolution, a character has a 10% chance of a complication. Examples of which are on the table below:
 
 | d6 | Complication |

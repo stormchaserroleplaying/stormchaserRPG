@@ -3,14 +3,14 @@ title: Researching
 parent: Downtime
 ---
 
-## Researching
+# Researching
 The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
 
 When you begin your research, the GM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The GM might also require you to make one or more ability checks, such as an Intelligence (Investigation) check to find clues pointing toward the information you seek, or a Charisma (Persuasion) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
 
 For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses (as discussed [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Expenses/LifestyleExpenses/)).
 
-### Spell Research
+## Spell Research
 *Adapted from [Giffyglyph's Class Compendium](https://giffyglyph.com/classcompendium/ "Giffyglyph's Class Compendium")*
 
 Characters who store spells in a spell book are able to learn new spells through careful study, research, and magical experimentation. By spending downtime experimenting, you can expand your spellbook with new arcane knowledge.
@@ -38,8 +38,7 @@ To perform arcane research, there are four basic steps:
 
 If you roll a 1 on your research check, your research causes an immediate, automatic complication. If you roll a natural 20 on your research check, increase your margin of success by one step. Additionally, you can increase your margin of success by one step, by making a complication check.
 
-#### Complications
-
+### Complications
 When a complication occurs, make a roll on the Spell Research Complications table:
 
 ###### Spell Research Complications
@@ -51,7 +50,7 @@ When a complication occurs, make a roll on the Spell Research Complications tabl
 | 51-80 |**Backfire:** An experiment backfired and you now suffer from a magical affliction. For example:<br>1. You have turned yourself into a frog.<br>2. Your skin turns a random color.<br>3. All of your hair falls out.<br>4. Your teeth turn sharp and black.<br>5. Your head swells to twice its normal size.<br>6. You periodically vomit up living slugs.<br>7. Your hands turn things red for 1 hour.<br>8. Your body grows a thick layer of animal fur.<br>9. Your hands are turned into crab-like pincers.<br>10. Words you speak are reversed.
 | 81-100 |**Accident:** Your research has caused an accident. You owe 1d10 x 10 gp per spell level to cover the damages.
 
-#### Research Credits
+### Research Credits
 During your experiments and adventures, you may find research notes made by other spellcasters. These research credits can help you during your studies.
 
 When you make a research check, you can spend one research credit to add +1d4 to the result. For every additional research credit you spend, you increase the size of the die by one step (d4, d6, d8, d10, d12) to a maximum of 1d12.

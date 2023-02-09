@@ -3,7 +3,7 @@ title: Recuperating
 parent: Downtime
 ---
 
-## Recuperating
+# Recuperating
 You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
 
 After three days of downtime spent recuperating, you can make a DC 15 Constitution defence check. On a successful save, you can choose one of the following results:

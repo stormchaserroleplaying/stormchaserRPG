@@ -27,12 +27,12 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 
 ### Martial Arts
 #### *Cost:* 5 Character Points
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and any simple melee weapons that don't have the two-handed or unwieldy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and simple melee weapons that don't have the two-handed or unwieldy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armour or wielding a shield:
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
+* You can roll your martial feat die in place of the normal damage of your unarmed strike or monk weapon.
 * You learn the brawling fighting style. If you already know the brawling fighting style, gain 5 character points.
-* You treat monk weapons as unarmed strikes. If the weapon's damage die is smaller than your martial feat die, use your martial feat die.
 
 ### Dance of the Crane
 #### *Cost:* 5 Character Points

@@ -103,3 +103,5 @@ You regain 4 expended mana whenever you finish a short rest.
 #### *Cost:* 50 Character Points
 #### *Prerequisite:* 10th Level Spells and 6 Other Sorcerer Talents
 Your veins flow with pure arcane power. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
+
+## Sorcerer Talent Tree Branches

@@ -127,3 +127,5 @@ You can now use your Indomitable talent three times before a long rest,
 You are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
 
 Additionally, you can attack four times, instead of once, whenever you take the Attack action on your turn.
+
+## Fighter Talent Tree Branches

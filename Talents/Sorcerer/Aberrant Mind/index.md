@@ -40,8 +40,9 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Psionic Adept       | 5  | - |  
-| Psionic Sorcery     | 10 | 3rd Level Spells and Psionic Adept |  
-| Revelation in Flesh | 50 | 7th Level Spells and Psionic Sorcery |  
+| Psionic Sorcery     | 5  | 3rd Level Spells and Psionic Adept |  
+| Psionic Defense     | 5  | 3rd Level Spells and Psionic Adept |  
+| Revelation in Flesh | 50 | 7th Level Spells, Psionic Sorcery, Psionic Defense |  
 | Warping Implosion   | 80 | 9th Level Spells and Revelation in Flesh |  
 
 ### Psionic Adept
@@ -72,7 +73,7 @@ You gain resistance to psychic damage, and you have benefit from +1d to your def
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Psionic Sorcery
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Psionic Sorcery, Psionic Defense
 You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend one or more mana to magically transform your body for 10 minutes. For each mana you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
 * You can see any invisible creature within 60 feet of you, provided it isn’t behind total cover. Your eyes also turn black or become writhing sensory tendrils.

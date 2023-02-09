@@ -13,7 +13,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 ### Aberrant Origins
 | d6 | Origin |
 |:---:|:--------:|
-| 1| You were exposed to the Far Realm’s warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it. |
+| 1 | You were exposed to the Far Realm’s warping influence. You are convinced that a tentacle is now growing on you, but no one else can see it. |
 | 2 | A psychic wind from the Astral Plane carried psionic energy to you. When you use your powers, faint motes of light sparkle around you. | 
 | 3 |  You once suffered the dominating powers of an aboleth, leaving a psychic splinter in your mind. |  
 | 4 | You were implanted with a mind flayer tadpole, but the ceremorphosis never completed. And now its psionic power is yours. When you use it, your flesh shines with a strange mucus. | 
@@ -39,10 +39,10 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Psionic Adept | 5  | - |  
-| Psionic Sorcery | 10 | 3rd Level Spells and Psionic Adept |  
-| Revelation in Flesh | 50 | 7th Level Spells and Psionic Sorcery  |  
-| Warping Implosion | 80 | 9th Level Spells and Revelation in Flesh  |  
+| Psionic Adept       | 5  | - |  
+| Psionic Sorcery     | 10 | 3rd Level Spells and Psionic Adept |  
+| Revelation in Flesh | 50 | 7th Level Spells and Psionic Sorcery |  
+| Warping Implosion   | 80 | 9th Level Spells and Revelation in Flesh |  
 
 ### Psionic Adept
 <div style="margin-top:-10px;"></div>
@@ -58,10 +58,15 @@ Additionally, new knowledge has a way of slipping into your mind. When you gain 
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Psionic Adept
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Psionic Adept
 When you cast any spell of 1st level or higher from your Bonus Spell list, you can cast it by expending mana as normal or by doubling the mana spentl. If you cast the spell by doubling the mana spent, it requires no verbal or somatic components, and it requires no material components, unless they are consumed by the spell.
 
-Additionally, your aberrant mind is strengthened. You gain resistance to psychic damage, and you have benefit from +1d to your defense against being charmed or frightened.
+### Psionic Defense
+ 
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Psionic Adept
+You gain resistance to psychic damage, and you have benefit from +1d to your defense against being charmed or frightened.
 
 ### Revelation in Flesh
  

@@ -56,15 +56,15 @@ While holding the map, you have the following benefits:
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You call down the stars to grant you their power. As a bonus action, you can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While it exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
+You call down the stars to grant you their power. Using 1 action, you can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While they exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, use this talent again, or use your Wild Shape.
 
-**The Chariot.** The brave warrior of The Chariot springs into action. As part of the bonus action when you first summon this constellation and as a bonus action on your subsequent turns while it lasts, you can make a ranged spell attack, launching a shard of a star, against one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your spellcasting modifier.
+**The Chariot.** The brave warrior of The Chariot springs into action. As part of the action when you first summon this constellation and using 1 action on your subsequent turns while it lasts, you can make a ranged spell attack, launching a shard of a star, against one creature within 60 feet of you. On a hit, the attack deals radiant damage equal to 1d8 + your spellcasting modifier.
 
 **The Empress.** The Empress brings you nurturing abundance when called. Whenever you cast a spell using mana that restores stamina to a creature, you or another creature within 30 feet of you can regain stamina equal to 1d8 + your spellcasting modifier.
 
-**The High Priestess.** The High Priestess desires to share her sacred knowledge and strength of mind. When you make an Intelligence or a Wisdom check you can treat a roll of 9 or lower on the d20 as a 10. Additionally, you gain bonus to your Constitution defense equal to you spellcasting modifier in attempts to break your concentration on a spell.
+**The High Priestess.** The High Priestess desires to share her sacred knowledge and strength of mind. When you make an Intelligence or a Wisdom check you can treat a roll of 9 or lower on the d20 as a 10. Additionally, you gain a bonus to your Constitution defense equal to you spellcasting modifier in attempts to break your concentration on a spell.
 
 ### Wheel of Fortune
 
@@ -77,7 +77,7 @@ Whenever you finish a long rest you seek guidance from the stars for sings of wh
 
 **Doom (odd).** As a free action on your turn you may grant a creature that you can see within 30 feet of you -1d to their next attack roll or ability check. 
 
-You can use this talent  a number of times equal to your spellcasting modifier, and you regain all expended uses when you finish a long rest.
+You can use this talent a number of times equal to your spellcasting modifier, and you regain all expended uses when you finish a long rest.
 
 ### The Magician
 

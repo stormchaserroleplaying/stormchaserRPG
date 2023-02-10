@@ -48,11 +48,11 @@ On subsequent turns, you can use 1 action to move the spirit up to 60 feet to a 
 
 The spirit lasts for 1 minute or until you become incapacitated. You must finish a short or long rest to use this feature again. 
 
-**Ox Spirit.** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting modifier. Additionally, when you and your allies are inside the aura, each gains +1d to their dicepool for Strength checks and Strength defense.
+**Ox Spirit.** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting ability modifier. Additionally, when you and your allies are inside the aura, each gains +1d to their dicepool for Strength checks and Strength defense.
 
 **Wolf Spirit.** The strength of hunting in a pack comes with the wolf spirit. As a free action on your turn, you can grant +1d to the dicepool of a creature's next attack against a target that is inside the aura of the spirit. Additionally, you and your allies gain +1d to your dicepool on Wisdom (Perception) checks within the aura. 
 
-**Lion Spirit.** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d to your dicepool on ability checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting modifier.
+**Lion Spirit.** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d to your dicepool on ability checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting ability modifier.
 
 ### Locate Hedgeway
 
@@ -67,7 +67,7 @@ You have learned to find a way home for lost fey creatures. Using 2 actions, you
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirits of the Wild
 Beasts and fey that you conjure are more resilient than normal. Any beast or fey summoned or created by a spell that you cast gains the following benefits:
-* The creature appears with more stamina than normal. It stamina increases by 8 + your spellcasting modifier.
+* The creature appears with more stamina than normal. It stamina increases by 8 + your spellcasting ability modifier.
 * The damage caused by its natural attacks or weapons is considered magical.
 
 ### Spiritual Balm
@@ -75,7 +75,7 @@ Beasts and fey that you conjure are more resilient than normal. Any beast or fey
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Empowered Allies
-The aura from your Spirits of the Wild provides extra protection to those creatures that you summon. Any fey or beast that ends its turn within the aura recovers stamina equal to 3 + your spellcasting modifier.
+The aura from your Spirits of the Wild provides extra protection to those creatures that you summon. Any fey or beast that ends its turn within the aura recovers stamina equal to 3 + your spellcasting ability modifier.
 
 ### Protect the Keeper
 

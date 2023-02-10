@@ -40,3 +40,5 @@ For instance, suppose an enemy elf wizard cast *invisibility* and then Sneaked a
 
 ## Unnoticed
 If you have no idea a creature is even present, that creature is unnoticed by you. A creature that is undetected might also be unnoticed. This condition usually matters for abilities that can be used only against targets totally unaware of your presence.
+
+When you are attacked by a creature that is unnoticed, you cannot use your stamina to avoid [injury](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/). If you are hit by a damaging attack, then you must roll on the [injury](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) table. If the attacker rolls a natural 20, then you are knocked [unconscious](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Unconscious/) and must begin making death saves as though at 0 stamina.

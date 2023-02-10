@@ -2,7 +2,7 @@
 title: Movement and Position
 parent: Combat
 has_children: true
-nav_order: 2
+nav_order: 4
 ---
 
 ## Movement and Position
@@ -10,7 +10,7 @@ In combat, characters and monsters are in constant motion, often using movement 
 
 On your turn, you can move a distance up to your **speed**, which is determined as follows:
 
-<center><strong>Speed in Feet = ( Strength Score + Dexterity Score ) × 1.5</strong></center>
+<center><strong>Speed in Feet = ( Strength Score + Dexterity Score )</strong></center>
 
 rounded down to the nearest multiple of five.
 

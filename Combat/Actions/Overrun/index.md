@@ -4,13 +4,19 @@ parent: Actions in Combat
 grand_parent: Combat
 ---
 
-# Overrun (<img src="https://img.icons8.com/ios/14/FFFFFF/action-filled.png"> or <img src="https://img.icons8.com/ios-glyphs/14/FFFFFF/plus-math.png"/>)
-When a creature tries to move through a hostile creature’s space, the mover can try to force its way through by overrunning the hostile creature. As an action, or a bonus action, the mover makes a Strength (Athletics) check against the higher of the hostile creature’s weapon skill and passive Strength (Athletics) score. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller.
+# Overrun
+*Move*<br>
+**Actions:** 2<br>
 
-If the mover succeeds, it can move through the hostile creature’s space once this turn and does not provoke an opportunity attack when leaving the reach of the hostile creature who's space it passed through.
+You try to force your way through a hostile creature's space.
 
-If the mover fails by less than 5, it may still choose to pass through the hostile creature's space. However, it treats the space as difficult terrain and provokes an opportunity attack from the hostile creature.
+Stride and make an athletics check against the higher of the target's weapon skill and passive athletics score. The creature attempting the overrun has +1d on this check if it is larger than the target, or -1d if it is smaller.
 
-If the mover fails by 5 or more, it cannot move through the hostile creature's space. 
+**Critical Success:** You can move through the target's space once this turn and do not provoke an attack of opportunity when leaving the target's reach. Additionally, the target takes damage equal to your recovery die plus your strength modifier.
 
-A creature that attempts to overrun more than one hostile creature in a single turn suffers disadvantage on all successive Strength (Athletics) checks to overrun. 
+**Success:** You can move through the target's space once this turn and do not provoke an attack of opportunity when leaving the target's reach.
+
+**Failure:** You may choose to either end your movement adjacent to the target, or to pass through its space. However, you treat the space as difficult terrain and provoke an attack of opportunity from the target if you choose to overrun it.
+
+**Critical Failure:** You cannot move through the target's space and provoke an attack of opportunity from it.
+

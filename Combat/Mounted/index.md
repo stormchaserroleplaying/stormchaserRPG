@@ -2,7 +2,7 @@
 title: Mounted Combat
 parent: Combat
 has_children: true
-nav_order: 7
+nav_order: 8
 ---
 
 # Mounted Combat

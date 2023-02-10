@@ -1,7 +1,7 @@
 ---
 title: Underwater Combat
 parent: Combat
-nav_order: 8
+nav_order: 9
 ---
 
 # Underwater Combat

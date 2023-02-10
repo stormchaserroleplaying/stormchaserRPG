@@ -1,5 +1,5 @@
 ---
-title: Size, Speace and Read
+title: Size, Space and Read
 parent: Movement in Encounters
 grand_parent: Combat
 nav_order: 2

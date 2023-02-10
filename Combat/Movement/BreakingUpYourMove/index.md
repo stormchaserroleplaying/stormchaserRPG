@@ -2,7 +2,7 @@
 title: Breaking Up Your Move
 parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 3
+nav_order: 5
 ---
 
 # Breaking Up Your Move

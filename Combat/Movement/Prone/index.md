@@ -2,7 +2,7 @@
 title: Being Prone or Supine
 parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 4
+nav_order: 5
 ---
 
 # Being Prone or Supine

@@ -2,7 +2,7 @@
 title: Moving Around Other Creatures
 parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 5
+nav_order: 6
 ---
 
 # Moving Around Other Creatures

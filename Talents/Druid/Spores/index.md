@@ -48,7 +48,7 @@ You are surrounded by invisible, necrotic spores that are harmless until you unl
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Halo of Spores
-You gain the ability to channel magic into your spores. As an action, you can expend a number mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
+You gain the ability to channel magic into your spores. Using 2 actions, you can expend a number mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent beyond the 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
 * Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.
 * When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.
 	
@@ -70,7 +70,7 @@ Additionally, your Halo of Spores damage die increases to 1d6.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation
-You gain the ability to seed an area with deadly spores. As a bonus action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them as a bonus action, or if your Symbiotic Entity feature is no longer active.
+You gain the ability to seed an area with deadly spores. Using 1 action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them using 1 action, or if your Symbiotic Entity feature is no longer active.
 
 As a free action, at the beginning of your turn you must make an indirect spell attack against the Constitution defense of all creatures that moved into the area of these spores on their last turn. If an attack hits, the creature takes damage equal to your Halo of Spores damage.
 

@@ -61,7 +61,7 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity
 Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the *zombie* stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
 
-You can use this feature a number of times equal to your spellcasting modifier, and you regain all expended uses of it when you finish a long rest.
+You can use this feature a number of times equal to your spellcasting ability modifier, and you regain all expended uses of it when you finish a long rest.
 
 Additionally, your Halo of Spores damage die increases to 1d6.
 

@@ -18,14 +18,3 @@ Diagonal movement can't cross the corner of a wall, large tree, aor other terrai
 
 ## Ranges
 To determine the range on a grid between two things (whether creatures or objects) start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
-
-## Flanking
-Flanking gives combatants a simple way to gain advantage on attack rolls against a common enemy.
-
-A creature can't flank an enemy that it can't see. A creature also can't flank while it is incapacitated. A Large or larger creature is flanking as long as at least one square of its space qualifies for flanking.
-
-When a creature and at least one of its allies are adjacent to an enemy and on opposite sides or corners of the enemy's space, they flank that enemy, and each of them has advantage on melee attack rolls against that enemy.
-
-When in doubt about whether two creatures flank an enemy on a grid, trace an imaginary line between the centers of the creatures' spaces. If the line passes through opposite sides or corners of the enemy's space, the enemy is flanked.
-
-Optionally, a flanked creature may choose one of the attackers that are flanking it and deny them the benefit of flanking. However, all other attackers receive an additional die of advantage. The chosen attacker may be changed as part of the creature's movement on its turn.

@@ -52,7 +52,7 @@ These benefits last for 10 minutes, until you lose all the temporary stamina or 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Thorn Growth
-You can make two weapon attacks whenever you take the Attack action on your turn.
+You can make a second Strike action without taking the multiattack penalty.
 
 ### Burning Thorns
 

@@ -60,4 +60,4 @@ The elements of the world are now part of your being. You can use your Wild Shap
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Elemental Wild Shape
-You have learned how to control your ability to change your shape in a fine detail: using 2 actions you can cast *Alter Self* at will. 
+You have learned how to control your ability to change your shape in a fine detail: you can cast *Alter Self* at will. 

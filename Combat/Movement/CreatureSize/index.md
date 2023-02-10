@@ -1,8 +1,8 @@
 ---
 title: Creature Size
-parent: Movement and Position
+parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 6
+nav_order: 7
 ---
 
 # Creature Size

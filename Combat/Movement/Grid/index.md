@@ -1,8 +1,8 @@
 ---
-title: Playing on a Grid
-parent: Movement and Position
+title: Grid Movement
+parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 7
+nav_order: 1
 ---
 
 # Playing on a Grid

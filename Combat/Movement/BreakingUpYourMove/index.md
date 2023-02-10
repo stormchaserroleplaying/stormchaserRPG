@@ -1,8 +1,8 @@
 ---
 title: Breaking Up Your Move
-parent: Movement and Position
+parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 1
+nav_order: 2
 ---
 
 # Breaking Up Your Move

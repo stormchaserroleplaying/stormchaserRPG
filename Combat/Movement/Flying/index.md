@@ -1,8 +1,8 @@
 ---
 title: Flying Movement
-parent: Movement and Position
+parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 5
+nav_order: 6
 ---
 
 # Flying Movement

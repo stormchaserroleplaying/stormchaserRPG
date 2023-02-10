@@ -1,8 +1,8 @@
 ---
 title: Difficult Terrain
-parent: Movement and Position
+parent: Movement in Encounters
 grand_parent: Combat
-nav_order: 2
+nav_order: 3
 ---
 
 # Difficult Terrain

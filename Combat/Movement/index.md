@@ -5,7 +5,7 @@ has_children: true
 nav_order: 4
 ---
 
-## Movement in Encounters
+# Movement in Encounters
 Your movement during an encounter depends on the actions and other abilities that you use. Whether you Stride, Step, Swim, or Climb, the maximum distance that you can move is based on your speed. Certain feats or magic items can grant you other movement types, allowing you to swiftly burrow, climb, fly, or swim.
 
 When the rules refer to a "movement cost" or "spending movement", they are describing how many feet of your speed you must use to move from one point to another. Normally, movement costs 5 feet per square, when you're moving on a grid, or it costs the number of feet that you move, if you’re not using a grid. However, sometimes it’s harder to move a certain distance due to [difficult terrain]() or other factors. In such a case, you might have to spend a different amount of movement to move from one place to another. For example, a form of movement might require 10 feet of movement to move 1 square and moving through some types of terrain costs an extra 5 feet of movement per square.

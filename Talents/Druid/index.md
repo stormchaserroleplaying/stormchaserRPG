@@ -26,7 +26,7 @@ When you take your first druid talent, you learn Druidic, the secret language of
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can use your action to expend 1 or more mana and magically assume the shape of a beast that you have seen before.
+You can use 2 actions to expend 1 or more mana and magically assume the shape of a beast that you have seen before.
 
 The amount of mana expended determines the maximum CR of the beasts that you can transform into (as shown in the table below) and the maximum amount of mana that you may spend on a single wildshape is equal to the maximum level of spells that you can cast.
 
@@ -57,7 +57,7 @@ While you are transformed, the following rules apply:
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Other Druid Talent
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can cast the *find familiar* spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form. Using 2 actions you can cast the *find familiar* spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to the spell level at which you cast the spell.
 

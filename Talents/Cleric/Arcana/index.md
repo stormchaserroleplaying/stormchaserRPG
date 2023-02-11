@@ -38,6 +38,7 @@ A turned creature must spend its turns trying to move as far away from you as it
  
 #### **Prerequisite:** Arcane Abjuration I and 3rd Level Spells<br>**Actions:** 2
 When a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the *banishment* spell, no concentration required) if it isn’t on its plane of origin and its challenge rating is at or below your spellcasting attribute modifier.
+
 ## Talents
  
 | Talent | CP | Prerequisites |

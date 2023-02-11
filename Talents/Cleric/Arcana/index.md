@@ -14,7 +14,7 @@ Magic is an energy that suffuses the multiverse and that fuels both destruction 
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to abjure otherworldly creatures.
+You can use your channel divinity to abjure otherworldly creatures.
 
 Using 2 actions, you present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
 

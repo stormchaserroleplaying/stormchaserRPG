@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use channel divinity to destroy another creature’s life force by touch.
+You can use Channel Divinity to destroy another creature’s life force by touch.
 
 When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.
 
@@ -44,14 +44,14 @@ When the cleric hits a creature with a melee attack, the cleric can use Channel 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-You learn one necromancy cantrip of your choice from any spell list. When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
+You learn one necromancy cantrip of your choice from any spell list. When you cast any necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 
 ### Inescapable Destruction
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Reaper
-Your ability to channel negative energy becomes more potent. Profane damage dealt by divine spells and channel divinity options ignore resistance to profane damage.
+Your ability to channel negative energy becomes more potent. Profane damage dealt by divine spells and Channel Divinity options ignore resistance to profane damage.
 
 ### Improved Reaper
  

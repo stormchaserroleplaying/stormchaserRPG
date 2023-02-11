@@ -58,8 +58,8 @@ Using 2 actions, you can magically share the darkvision of this feature with wil
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-The night has taught you to be vigilant. Using 2 actions, you give one creature that you touch (including possibly yourself) +1d on the next initiative roll that the creature makes. This benefit ends immediately after the roll, or if you use this feature again.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+The night has taught you to be vigilant. You give one creature that you touch (including possibly yourself) +1d on the next initiative roll that the creature makes. This benefit ends immediately after the roll, or if you use this feature again.
 
 ### Steps of Night
  

@@ -34,7 +34,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your holy symbol and make a spellcasting attack vs the Wisdom defenc of each creature of your choice within 30 feet of you that can see or hear you. On a hit, a creature is charmed by you until the end of your next turn, or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they are hit by your attack.
+Using 2 actions, you present your holy symbol and make a spellcasting attack vs the Wisdom defenc of each creature of your choice within 30 feet of you that can see or hear you. On a hit, a creature is charmed by you until the end of your next turn, or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they are hit by your attack.
 
 ## Talents
  
@@ -58,9 +58,9 @@ You can invoke the power of law to embolden an ally to attack. If you cast a spe
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and  Voice of Authority 
 You have become remarkably adept at channeling magical energy to compel others.
 
-If you cast a levelled spell of the enchantment school, then you can change the spell’s casting time to 1 bonus action for this casting, provided that the spell’s casting time is normally 1 action.
+If you cast a levelled spell of the enchantment school, then you can change the spell’s casting time to 1 action for this casting, provided that the spell’s casting time is normally 2 actions.
 
-You can use this feature a number of times equal to your spellcasting modifier and you regain all expended uses of it when you finish a long rest.
+You can use this feature a number of times equal to your spellcasting attribute modifier and you regain all expended uses of it when you finish a long rest.
 
 ### Order's Wrath
  

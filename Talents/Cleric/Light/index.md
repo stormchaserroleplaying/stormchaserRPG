@@ -10,7 +10,7 @@ Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and b
 ## Branch Features
  
 ### Bonus Cantrip
-You gain the *light* cantrip, if you don’t already know it. If you already know this cantrip, then you gain a cantrip of your choice from the divine spell list. This cantrip doesn’t count against the number of cleric cantrips you know.
+You gain the *light* cantrip, if you don’t already know it. If you already know this cantrip, then you gain a cantrip of your choice from the divine spell list. This cantrip doesn’t count against the number of disciple cantrips you know.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -30,9 +30,11 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your channel divinity to harness sunlight, banishing darkness and dealing sacred damage to your foes. As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. 
+You can use your channel divinity to harness sunlight, banishing darkness and dealing sacred damage to your foes. 
 
-Additionally, make a spellcasting attack versus the Constitution defense of each hostile creature within 30 feet of you. On a hit, a creature takes sacred damage equal to 2d10 + your spellcasting modifier, and half as much damage on a miss. A creature that has total cover from you is not affected.
+Using 2 actions, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. 
+
+Additionally, make a spellcasting attack vs the Constitution defense of each hostile creature within 30 feet of you. On a hit, a creature takes sacred damage equal to 2d10 + your spellcasting attribute modifier, or half as much damage on a miss. A creature that has total cover from you is not affected.
 
 ## Talents
  
@@ -51,7 +53,7 @@ You can interpose divine light between yourself and an attacking enemy. The firs
 
 An attacker that can’t be blinded is immune to this feature.
 
-You can use this feature a number of times equal to your spellcasting modifier. You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
 ### Improved Flare
  
@@ -65,4 +67,4 @@ You can also use your Warding Flare feature when a creature that you can see wit
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Improved Flare
-You can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it as a free action. You emit bright light in a 60-foot radius and dim light 60 feet beyond that. Any spell attack that deals fire or sacred damage has +1d to hit hostile creatures within the bright light.
+You can use 2 actions to activate an aura of sunlight that lasts for 1 minute or until you dismiss it as a free action. You emit bright light in a 60-foot radius and dim light 60 feet beyond that. Any spell attack that deals fire or sacred damage has +1d to hit hostile creatures within the bright light.

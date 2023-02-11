@@ -30,7 +30,9 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to heal the badly injured. As an action, you present your holy symbol and evoke healing energy that can restore stamina up to a number of recovery dice equal your maximum spell level. Choose any creatures within 30 feet of you and divide those recovery dice among them. Each selected creature can roll the recovery dice granted to them, plus your spellcasting ability modifier, and recover that amount of stamina. You can’t use this feature on an undead or a construct.
+You can use your channel divinity to heal the badly injured. 
+
+Using 2 actions, you present your holy symbol and evoke healing energy that can restore stamina up to a number of recovery dice equal your maximum spell level. Choose any creatures within 30 feet of you and divide those recovery dice among them. Each selected creature can roll the recovery dice granted to them, plus your spellcasting attribute modifier, and recover that amount of stamina. You can’t use this feature on an undead or a construct.
 
 ## Talents
  

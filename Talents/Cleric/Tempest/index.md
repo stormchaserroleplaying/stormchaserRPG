@@ -19,11 +19,11 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Fog Cloud, Thunderwave* |
-| 2nd | *Gust of Wind, Shatter* |
-| 3rd | *Call Lightning, Sleet Storm* |
-| 4th | *Control Water, Ice Storm* |
-| 5th | *Destructive Wave, Insect Plague* |
+| 1st | Fog Cloud, Thunderwave |
+| 2nd | Gust of Wind, Shatter |
+| 3rd | Call Lightning, Sleet Storm |
+| 4th | Control Water, Ice Storm |
+| 5th | Destructive Wave, Insect Plague |
 
 ### Destructive Wrath
 
@@ -32,7 +32,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 #### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
 
-When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+When you roll lightning or thunder damage, you can use your channel divinity to deal maximum damage, instead of rolling.
 
 ## Talents
 
@@ -49,7 +49,7 @@ When you roll lightning or thunder damage, you can use your Channel Divinity to 
 #### **Cost:** 5 Character Points
 You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, it must make a Dexterity defence check vs your passive spellcasting attack score. If the creature fails the defence check, it takes 1d8 lightning damage and 1d8 thunder damage. If the creature succeeds at the defence check, it takes half as much damage.
 
-You can rebuke a number of attacks equal to your Wisdom modifier (minimum one). Wrath of the Storm always triggers automatically when you are hit, unless you declare on your turn that you will not use it in response to being hit by certain targets. Alternatively, you can also declare that you will only use Wrath of the Storm when hit by a specific target. You regain all expended uses when you finish a long rest.
+You can rebuke a number of attacks equal to your spellcasting attribute modifier (minimum one). Wrath of the Storm always triggers automatically when you are hit, unless you declare on your turn that you will not use it in response to being hit by certain targets. Alternatively, you can also declare that you will only use Wrath of the Storm when hit by a specific target. You regain all expended uses when you finish a long rest.
 
 ### Thunderbolt Strike
 

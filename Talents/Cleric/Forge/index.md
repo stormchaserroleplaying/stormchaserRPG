@@ -9,22 +9,6 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 
 ## Branch Features
 
-### Bonus Proficiencies
-When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
-
-### Bonus Spells
-As a forge cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
-
-If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | *Identify, Searing Smite* |
-| 2nd | *Heat Metal, Magic Weapon* |
-| 3rd | *Elemental Weapon, Protection from Energy* |
-| 4th | *Fabricate, Wall of Fire* |
-| 5th | *Animate Objects, Creation* |
-
 ### Artisan's Blessing
 
 <div style="margin-top:-10px;"></div>
@@ -37,6 +21,22 @@ You conduct an hour-long ritual that crafts a nonmagical item that must include 
 The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
 
 The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
+
+### Bonus Proficiencies
+When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
+
+### Bonus Spells
+As a forge cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+
+If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
+
+| Spell Level | Spells |
+|:-----------:|:------:|
+| 1st | Identify, Searing Smite |
+| 2nd | Heat Metal, Magic Weapon |
+| 3rd | Elemental Weapon, Protection from Energy |
+| 4th | Fabricate, Wall of Fire |
+| 5th | Animate Objects, Creation |
 
 ## Talents
 

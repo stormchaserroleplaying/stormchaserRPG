@@ -27,7 +27,9 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you gain +1d for the chosen skill or tool.
+You can use your Channel Divinity to tap into a divine well of knowledge. 
+
+Using 2 actions, you choose one skill or tool. For 10 minutes, you gain +1d for the chosen skill or tool.
 
 ## Talents
  
@@ -51,21 +53,19 @@ You learn two languages (accented) of your choice. You also gain expertise in yo
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge
 You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.
 
-As an action, choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, you can’t use this feature on the same creature again until you finish a long rest.
+Using 2 actions, choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, you can’t use this feature on the same creature again until you finish a long rest.
 
-If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
-
-During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
+If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute. During that time, you can use 2 actions to end this effect and cast the suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
 
 ### Visions of the Past
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Read Thoughts
-You can call up visions of the past that relate to an object you hold or to your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your spellcasting ability score and must maintain concentration during that time, as if you were casting a spell.
+You can call up visions of the past that relate to an object you hold or to your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your spellcasting attribute score and must maintain concentration during that time, as if you were casting a spell.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-**Object Reading.** Holding an object as you meditate, you can see visions of the object’s previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your spellcasting ability score), you can spend 1 additional minute for each owner to learn the same information about that creature.
+**Object Reading.** Holding an object as you meditate, you can see visions of the object’s previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your spellcasting attribute score), you can spend 1 additional minute for each owner to learn the same information about that creature.
 
-**Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your spellcasting ability score. For each minute that you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
+**Area Reading.** As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your spellcasting attribute score. For each minute that you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.

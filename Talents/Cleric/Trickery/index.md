@@ -45,8 +45,8 @@ For the duration, you can cast spells as though you were in the illusion’s spa
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-Your deity bestows the ability to move unseen. Using 2 actions, you touch a willing creature, granting +1d on stealth checks. This blessing lasts for 1 hour or until you use this feature again.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+Your deity bestows the ability to move unseen. You touch a willing creature, granting +1d on stealth checks. This blessing lasts for 1 hour or until you use this feature again.
 
 ### Cloak of Shadows
  

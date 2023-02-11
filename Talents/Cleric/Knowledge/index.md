@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to tap into a divine well of knowledge. 
+You can use your channel divinity to tap into a divine well of knowledge. 
 
 Using 2 actions, you choose one skill or tool. For 10 minutes, you gain +1d for the chosen skill or tool.
 
@@ -51,7 +51,7 @@ You learn two languages (accented) of your choice. You also gain expertise in yo
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge
-You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.
+You can use your channel divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.
 
 Using 2 actions, choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, you can’t use this feature on the same creature again until you finish a long rest.
 

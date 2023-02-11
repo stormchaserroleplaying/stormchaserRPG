@@ -9,19 +9,6 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 
 ## Branch Features
 
-### Artisan's Blessing
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to create simple items.
-
-You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see Chapter 5: Equipment for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
-
-The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
-
-The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
-
 ### Bonus Proficiencies
 When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
 
@@ -37,6 +24,19 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 | 3rd | Elemental Weapon, Protection from Energy |
 | 4th | Fabricate, Wall of Fire |
 | 5th | Animate Objects, Creation |
+
+### Artisan's Blessing
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Channel Divinity
+You can use your channel divinity to create simple items.
+
+You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see Chapter 5: Equipment for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
+
+The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
+
+The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
 
 ## Talents
 

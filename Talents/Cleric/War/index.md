@@ -30,7 +30,9 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your channel divinity to strike with supernatural accuracy. On your turn, when you would roll to hit for an attack, you can instead use your channel divinity to take 20 for the attack.
+You can use your channel divinity to strike with supernatural accuracy. 
+
+On your turn, when you would roll to hit for an attack, you can instead use your channel divinity to take 20 for the attack.
 
 ## Talents
  
@@ -44,9 +46,9 @@ You can use your channel divinity to strike with supernatural accuracy. On your 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Your god blesses you with an additional fanaticism while strike your enemies. When you use the Attack action, you can make one weapon attack as a bonus action.
+Your god blesses you with an additional fanaticism while strike your enemies. When you use the Strike action, you can make one addtional Strike action without taking the multiattack pentalty. 
 
-You can use this feature a number of times equal to your spellcasting ability modifier. You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
 ### War God’s Blessing
  

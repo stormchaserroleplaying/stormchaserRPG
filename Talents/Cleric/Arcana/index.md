@@ -9,24 +9,6 @@ Magic is an energy that suffuses the multiverse and that fuels both destruction 
  
 ## Branch Features
  
-### Arcane Abjuration I
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to abjure otherworldly creatures.
-
-Using 2 actions, you present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
-
-A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly end its move in a space within 30 feet of you. It also can’t take reactions. For its action, it can only use the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-
-### Arcane Abjuration II
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Arcane Abjuration I and 3rd Level Spells
-When a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the *banishment* spell, no concentration required) if it isn’t on its plane of origin and its challenge rating is at or below your spellcasting attribute modifier.
-
 ### Bonus Spells
  
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -41,6 +23,21 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | 4th | Arcane Eye, Secret Chest | 
 | 5th | Planar Binding, Teleportation Circle | 
 
+### Arcane Abjuration I
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+You can use your Channel Divinity to abjure otherworldly creatures. You present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly end its move in a space within 30 feet of you. It also can’t take reactions. For its action, it can only use the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+
+### Arcane Abjuration II
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Arcane Abjuration I and 3rd Level Spells<br>**Actions:** 2
+When a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the *banishment* spell, no concentration required) if it isn’t on its plane of origin and its challenge rating is at or below your spellcasting attribute modifier.
 ## Talents
  
 | Talent | CP | Prerequisites |

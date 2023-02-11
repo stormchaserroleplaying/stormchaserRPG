@@ -30,7 +30,9 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your channel divinity to charm animals and plants. As an action, you present your holy symbol and invoke the name of your deity. Make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
+You can use your channel divinity to charm animals and plants. 
+
+Using 2 actions, you present your holy symbol and invoke the name of your deity. Make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
 ## Talents
  
@@ -47,7 +49,7 @@ You can use your channel divinity to charm animals and plants. As an action, you
 #### **Cost:** 5 Character Points
 Choose one additional cantrip from the divine spell list. This cantrip doesn’t count against the number of disciple cantrips that you know. 
 
-You learn the druidic language. Also, you are trained in one of the following skills of your choice: Animal Handling, Nature or Survival.
+You learn the Druidic language. Also, you are trained in one of the following skills of your choice: Animal Handling, Nature or Survival.
 
 ### Dampen Elements
  

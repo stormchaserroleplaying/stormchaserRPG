@@ -71,7 +71,9 @@ You can use this feature a number of times equal to your spellcasting attribute 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Sentinel at Death's Door<br>**Action:** Free
-You can seize a trace of vitality from a parting soul and use it to heal the living. As a free action on your turn, if an enemy, other than a consruct or undead, that you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains stamina. [working]
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Sentinel at Death's Door<br>**Action:** Free<br>**Trigger:** Over the course of the last round, an enemy that you can see and is neither a construct nor undead died within 60 feet of you.
+You can seize a trace of vitality from a parting soul and use it to heal the living.
+
+At the start of your turn, if an enemy that you can see and is neither a construct nor undead has died within 60 feet of you since the end of your last turn, then you (or one creature of your choice that is within 60 feet of you) may roll a recovery die and regain stamina equal to the total. If the creature that died was larger than the recipient of the healing, then the recepient may roll one additional recovery die for each size category between them. For example, if an ogre (large) dies, then a human (medium) may roll 2 recovery dice.
 
 You can use this feature only if you aren't incapacitated. Once you use it, you can’t do so again until the start of your next turn.

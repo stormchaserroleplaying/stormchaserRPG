@@ -27,7 +27,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 <div style="margin-top:-10px;"></div>
 
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to mark another creature’s life force for termination.
+You can use your channel divinity to mark another creature’s life force for termination.
 
 Using 2 actions, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack’s damage, and then the curse ends.
 

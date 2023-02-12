@@ -41,7 +41,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. You can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend for one use is equal to the maximum spell level that you can cast. While this feature is active, you gain the following benefits:
 * You benefit from +1d to your Strength defence and Strength-based skill checks.
-* Your thorns count a melee weapons dealing 1d6 + your Strength modifier piercing damage.
+* Your thorns count as melee weapons dealing 1d6 + your Strength modifier piercing damage. Using your thorns as a melee weapon does not increase the multiattack penalty for other melee weapons and vice versa.
 * When you successfully grapple a creature, the target takes 1d6 piercing damage.
 * You have a climbing speed equal to your walking speed.
 
@@ -61,9 +61,9 @@ You can make a second Strike action without taking the multiattack penalty.
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack<br>**Actions:** Free<br>**Trigger:** Being hit by an attack from a creature within 30 feet of you.
 You gain the ability to quickly expel some of your thorns with a burst of fiery energy. 
 
-When a creature hits you with an attack, it needs to make a Dexterity defense check vs your passive spellcasting attack score. It takes 1d10 piercing + 1d10 fire damage + your spellcasting ability modifier on a fail, or half as much on a success.
+When a creature hits you with an attack, it must make a Dexterity defense check vs your spellcasting skill. It takes 1d10 piercing + 1d10 fire damage + your spellcasting ability modifier on a fail, or half as much on a success.
 
-This ability triggers automatically on the first attack to hit you each round unless you declare on your turn that it will trigger from a specified creature or to not use it. You can use this feature a number of times equal to your spellcasting ability modifier, and you regain all expended uses when you finish a long rest. 
+This ability triggers automatically on the first attack to hit you each round, unless you declare on your turn that it will trigger from a specified creature, or not to use it at all. You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest. 
 
 ### Scorching Spirit
 

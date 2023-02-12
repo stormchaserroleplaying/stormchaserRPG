@@ -5,15 +5,10 @@ grand_parent: Talents
 ---
 
 # Champion
-*The champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
-
-Although often simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some champions combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.*
+The champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Although often simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some champions combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 
 ## Branch Features
-You gain the following features when taking your first Talent in this Branch.
-
-#### Bonus Proficiency
-You gain proficiency in one of the following skills of your choice: Athletics or Intimidation. You also gain expertise in a [weapon](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables) group of your choice.
+You gain the following features when you take your first talent in this branch.
 
 ## Talents
 
@@ -30,7 +25,9 @@ You gain proficiency in one of the following skills of your choice: Athletics or
 
 ### Brute Force
 #### *Cost:* 5 Character Points
-*You're able to strike with your weapons with especially brutal force.* Whenever you hit with a weapon that you're proficient with and deal damage, add your martial feat die to the weapon's damage.
+*You're able to strike with your weapons with especially brutal force.*
+
+Whenever you hit with a weapon that you're proficient with and deal damage, add your martial feat die to the weapon's damage.
 
 ### Improved Critical
 
@@ -81,4 +78,6 @@ Your weapon attacks also score a critical hit on a roll of 18-20.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Devastating Critical, or Superior Critical, and 12 other Fighter Talents
-*You attain the pinnacle of resilience in battle.* At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don't gain this benefit if you have 0 hit points or if you have more than half of your hit points left.
+*You attain the pinnacle of resilience in battle.*
+
+At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don't gain this benefit if you have 0 hit points or if you have more than half of your hit points left.

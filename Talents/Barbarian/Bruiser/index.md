@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
 
 # Bruiser
-*Most barbarians require weapons. However, for Bruiser barbarians everything is their weapon, including people.*
+Most barbarians require weapons. However, for Bruiser barbarians everything is their weapon, including people.
 
 ## Branch Features
 You gain the following features when you take your first talent in this branch.

@@ -55,7 +55,7 @@ When you hit a creature with a weapon attack, you can attempt to drive the targe
 <div style="margin-top:-10px;"></div>
 
 #### **Actions:** 1 action
-Choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to your martial feat die roll + your Charisma modifier.
+Choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to its recovery die roll + your Charisma modifier.
 
 ## Riposte
 If, within the last round, a creature missed you with a melee attack, you may make a melee weapon attack against the creature as a free action. If you hit, you add your martial feat die to the attack's damage roll.

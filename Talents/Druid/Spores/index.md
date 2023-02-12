@@ -14,7 +14,7 @@ Spore Druids have a complex relationship with the undead. Unlike most other drui
 ## Branch Features
 
 ### Bonus Spells
-You learn the *Chill Touch* cantrip. If you already know that cantrip you may learn another cantrip of your choice from the disciple spell list. Additionally, you gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You learn the *Chill Touch* cantrip. If you already know that cantrip you may learn another cantrip of your choice from the divine spell list. Additionally, you gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have an bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
@@ -40,16 +40,18 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. As a free action at the beginning of your turn, you can make an indirect spell attack versus the Constitution defense of a creature that is within 10 feet of you or a creature that entered within 10 feet of you during the last round. On a hit, the target take 1d4 necrotic damage.
+#### **Cost:** 5 Character Points<br>**Action:** Free<br>**Trigger:** A hostile creature that you can see moves within 10 feet of you.
+You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby. When a creature comes within range, it must make a Constituion defense check vs your spellcasting skill. If it fails, then the creature takes 1d4 ?corrosive? damaage. 
+
+You can use this ability once per round. This ability will trigger automatically upon the first hostile creature to come within range. Alternatively, on your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round.
 
 ### Symbiotic Entity
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Halo of Spores
-You gain the ability to channel magic into your spores. Using 2 actions, you can expend a number mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent beyond the 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
-* Your melee weapon attacks deal an extra 1d6 necrotic damage to any target they hit.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Halo of Spores<br>**Action:** 2
+You gain the ability to channel magic into your spores. You can expend an amount of mana to awaken those spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent beyond the 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this ability is active, you gain the following benefits:
+* Your melee weapon attacks deal an extra 1d6 ?corrosive? damage to any target they hit.
 * When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.
 	
 These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape.
@@ -58,10 +60,10 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity
-Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the *zombie* stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity<br>**Action:** Free<br>**Trigger:** A small or medium beast or humoid dies within 10 feet of you.
+Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is small or medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the *zombie* stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Strike action, making one melee attack.
 
-You can use this feature a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
+This ability can trigger only once per round. You can use this ability a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
 
 Additionally, your Halo of Spores damage die increases to 1d6.
 
@@ -69,12 +71,12 @@ Additionally, your Halo of Spores damage die increases to 1d6.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation
-You gain the ability to seed an area with deadly spores. Using 1 action while your Symbiotic Entity feature is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this feature again, if you dismiss them using 1 action, or if your Symbiotic Entity feature is no longer active.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation<br>**Actions:** 1, Free<br>**Trigger** A creature moves into the area of your Spreading Spores.
+You gain the ability to seed an area with deadly spores.
 
-As a free action, at the beginning of your turn you must make an indirect spell attack against the Constitution defense of all creatures that moved into the area of these spores on their last turn. If an attack hits, the creature takes damage equal to your Halo of Spores damage.
+Using 1 action, while your Symbiotic Entity ability is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this ability again, if you dismiss them using 1 action, or if your Symbiotic Entity ability is no longer active.
 
-While the cube of spores persists, creatures do not take damage from your Halo of Spores.
+Whenever a creature moves into the area on their turn or starts its turn there, it must make a Constitution defense check vs your spellcasting skill. If it fails, then the creature takes damage equal to your Halo of Spores damage. While the cube of spores persists, creatures do not take damage from your Halo of Spores.
 
 Additionally, your Halo of Spores damage die increases to 1d8.
 

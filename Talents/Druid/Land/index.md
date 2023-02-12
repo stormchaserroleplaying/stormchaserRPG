@@ -98,7 +98,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | Knowledge of the Land II  | 5  | 3rd Level Spells and Knowledge of the Land I | 
 | Power of the Land         | 20 | 5th Level Spells and Nature's Ward |
 | Knowledge of the Land III | 5  | 5th Level Spells and Knowledge of the Land II |
-| Nature's Sanctuary        | 40 | 7thLevel Spells and Power of the Land |
+| Nature's Sanctuary        | 40 | 7th Level Spells and Power of the Land |
 | Knowledge of the Land IV  | 10 | 7th Level Spells and Knowledge of the Land III |
  
 ### Knowledge of the Land I
@@ -142,8 +142,8 @@ Select a third type of terrain to add to your Knowledge of the Land I talent.
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 40 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land
-Many creatures of the natural world sense your connection to nature and become hesitant to attack you. Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check versus your spellcasting skill. On a fail, the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for 24 hours.
+#### **Cost:** 40 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land<br>**Action:** Free<br>**Trigger:** A beast, element, fey or plant attempts to attack you.
+Many creatures of the natural world sense your connection to nature and become hesitant to attack you. Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check vs your spellcasting skill. If it fails, then the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for 24 hours.
  
 A creature is aware of this effect before it makes its attack against you.
 

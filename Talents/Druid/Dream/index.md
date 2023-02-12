@@ -60,7 +60,7 @@ The sphere vanishes at the end of the rest or when you leave the sphere.
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Hearth of Moonglow and Shadow<br>**Actions:** 1 or 2
 You can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. 
 
-You can use 1 actions to teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use 2 actions to teleport one willing creature that you touch up to 30 feet to an unoccupied space that you can see.
+You can use 1 action to teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use 2 actions to teleport one willing creature that you touch up to 30 feet to an unoccupied space that you can see.
 
 You can use this feature a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
 

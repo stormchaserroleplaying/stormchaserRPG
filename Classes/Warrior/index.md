@@ -13,13 +13,12 @@ As a warrior, you have the following class features.
 Warriors have stamina equal to 4× their Constitution score. Their recovery die is a d10.
 
 ### Proficiencies
-**Armour:** Light armour, medium armour<br>
-**Weapons:** Simple weapons and choose 4 martial weapon groups<br>
-**Tools:** None<br>
+**Perception:** Trained<br>
 **Defences:** Choose any 2 physical defences and 1 mental defence<br>
-**Skills:** Choose 2 from Animal Handling, Athletics, Insight, Intimidation, Perception and Survival
-
-A warrior begins play with 2 talents instead of the usual 1.
+**Skills:** Choose 2 from Animal Handling, Athletics, Insight, Intimidation, Perception and Survival<br>
+**Weapons:** Simple weapons and choose 4 martial weapon groups<br>
+**Armour:** Light armour, medium armour<br>
+**Tools:** None
 
 ### Fighting Style
 You adopt a particular style of fighting as your specialty. Choose a [Fighting Style](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighting/). You can’t take a Fighting Style option more than once, even if you later get to choose again.
@@ -37,3 +36,5 @@ You can attack twice, instead of once, whenever you take the [Attack](https://st
 
 ## Talents
 Warriors may take talents from the [barbarian](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/), [fighter](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/), [monk](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Monk/) and [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial/) talent trees.
+
+A warrior begins play with 2 talents instead of the usual 1.

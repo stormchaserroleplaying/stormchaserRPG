@@ -19,11 +19,11 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Identify, Searing Smite* |
-| 2nd | *Heat Metal, Magic Weapon* |
-| 3rd | *Elemental Weapon, Protection from Energy* |
-| 4th | *Fabricate, Wall of Fire* |
-| 5th | *Animate Objects, Creation* |
+| 1st | Identify, Searing Smite |
+| 2nd | Heat Metal, Magic Weapon |
+| 3rd | Elemental Weapon, Protection from Energy |
+| 4th | Fabricate, Wall of Fire |
+| 5th | Animate Objects, Creation |
 
 ### Artisan's Blessing
 
@@ -32,7 +32,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 #### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to create simple items.
 
-You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see Chapter 5: Equipment for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
+You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
 
 The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
 

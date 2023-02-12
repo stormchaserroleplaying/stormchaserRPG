@@ -16,29 +16,29 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Protection from Evil and Good, Sleep* |   
-| 2nd | *Prayer of Healing, Nathair's Mischief* |  
-| 3rd | *Aura of Vitality, Fear* |  
-| 4th | *Aura of Purity, Hallucinatory Terrain* |  
-| 5th | *Dispel Evil and Good, Hold Monster* |  
+| 1st | Protection from Evil and Good, Sleep |   
+| 2nd | Prayer of Healing, Nathair's Mischief |  
+| 3rd | Aura of Vitality, Fear |  
+| 4th | Aura of Purity, Hallucinatory Terrain |  
+| 5th | Dispel Evil and Good, Hold Monster |  
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Balm of the Summer Court      | 5  | - |   
-| Hearth of Moonglow and Shadow | 10 |  *3rd Level Spells and Balm of the Summer Court* |   
-| Hidden Paths                  | 25 | *5th Level Spells and Hearth of Moonglow and Shadow* |   
-| Walker in Dreams              | 50 | *7th Level Spells and Hidden Paths* |   
+| Hearth of Moonglow and Shadow | 10 | 3rd Level Spells and Balm of the Summer Court |   
+| Hidden Paths                  | 25 | 5th Level Spells and Hearth of Moonglow and Shadow |   
+| Walker in Dreams              | 50 | 7th Level Spells and Hidden Paths |   
 
 ### Balm of the Summer Court
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Actions:** 1
 You become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to two times the maximum spell level that you can cast.
 
-As a bonus action, you can choose one creature that you can see within 120 feet of you and spend a number of those dice up to one-half of the maximum of the dice pool. Roll the spent dice and add them together. The target regains stamina equal to the total. The target also gains 1 temporary stamina per die spent.
+You can choose one creature that you can see within 120 feet of you and spend a number of those dice up to one-half of the maximum of the dice pool. Roll the spent dice and add them together. The target regains stamina equal to the total. The target also gains 1 temporary stamina per die spent.
 
 You regain all expended dice when you finish a long rest.
 
@@ -57,10 +57,12 @@ The sphere vanishes at the end of the rest or when you leave the sphere.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Hearth of Moonglow and Shadow
-You can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. As a bonus action on your turn, you can teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use your action to teleport one willing creature that you touch up to 30 feet to an unoccupied space that you can see.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Hearth of Moonglow and Shadow<br>**Actions:** 1 or 2
+You can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye. 
 
-You can use this feature a number of times equal to your spellcasting ability modifier, and you regain all expended uses of it when you finish a long rest.
+You can use 1 action to teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use 2 actions to teleport one willing creature that you touch up to 30 feet to an unoccupied space that you can see.
+
+You can use this feature a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
 
 ### Walker in Dreams
 

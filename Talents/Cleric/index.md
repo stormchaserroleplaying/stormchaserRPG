@@ -29,7 +29,7 @@ You gain the ability to channel divine energy directly from your deity, using th
 When you use your Channel Divinity, you expend 1 mana and choose which effect to create. Some Channel Divinity effects require attack rolls. When you use such an effect, your disciple spell attack roll is used.
 
 #### Turn Undead
-As an action, you present your holy symbol and speak a prayer censuring the undead. Make an attack roll against each undead within 30 feet of you that can see or hear you. On a hit, the creature is turned for 1 minute or until it takes any damage.
+Using 2 actions, you present your holy symbol and speak a prayer censuring the undead. Make an attack roll against each undead within 30 feet of you that can see or hear you. On a hit, the creature is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
@@ -49,14 +49,15 @@ The cleric gains the ability to infuse their weapon strikes with divine energy. 
 
 | Divine Domain | Recommended Divine Strike Damage Type |
 |:-------------:|:-------------------------------------:|
-| Death | Necrotic |
+| Arcana | Energy |
+| Death | Profane |
 | Forge | Fire |
 | Life | Radiant |
 | Nature | Cold, Fire, or Lightning |
 | Order | Psychic |
 | Tempest | Thunder |
 | Trickery | Poison |
-| Twilight | Radiant |
+| Twilight | Sacred |
 | War | Same as weapon |
 
 ### Divine Intervention
@@ -66,7 +67,7 @@ The cleric gains the ability to infuse their weapon strikes with divine energy. 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Cleric Talents
 You can call on your deity to intervene on your behalf when your need is great.
 
-Imploring your deity’s aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. Multiply the number of cleric talents that you have by 2. If you roll a number equal to or lower than this total, then your deity intervenes. The GM chooses the nature of the intervention; the effect of any disciple spell or cleric domain spell would be appropriate.
+Imploring your deity’s aid requires you to use 2 actions. Describe the assistance you seek, and roll percentile dice. Multiply the number of cleric talents that you have by 2. If you roll a number equal to or lower than this total, then your deity intervenes. The GM chooses the nature of the intervention; the effect of any disciple spell or cleric domain spell would be appropriate.
 
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
@@ -84,6 +85,6 @@ Your Divine Strike damage increases to 2d8.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Other Cleric Talents
-You are the perfect servant of your God. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
+You are the perfect servant of your God. Your spellcasting attribute score increases by 4, and your maximum for this score also increases by 4.
 
 ## Cleric Talent Tree Branches

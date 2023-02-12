@@ -19,30 +19,30 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Searing Smite* |
-| 2nd | *Scorching Ray, Spike Growth* |
-| 3rd | *Fireball, Plant Growth* |
-| 4th | *Elemental Bane, Grasping Vine* |
-| 5th | *Immolation, Wrath of Nature* |
+| 1st | Entangle, Searing Smite |
+| 2nd | Scorching Ray, Spike Growth |
+| 3rd | Fireball, Plant Growth |
+| 4th | Elemental Bane, Grasping Vine |
+| 5th | Immolation, Wrath of Nature |
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Thorn Growth     | 5  | - |   
-| Extra Attack     | 10 | *3rd Level Spells and Thorn Growth* |   
-| Burning Thorns   | 25 | *5th Level Spells and Extra Attack* |   
-| Scorching Spirit | 50 | *7th Level Spells and Burning Thorns* |  
+| Extra Attack     | 10 | 3rd Level Spells and Thorn Growth |   
+| Burning Thorns   | 25 | 5th Level Spells and Extra Attack |   
+| Scorching Spirit | 50 | 7th Level Spells and Burning Thorns |  
 
 ### Thorn Growth
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. As a bonus action, you can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. While this feature is active, you gain the following benefits:
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+You gain the ability to produce thorny vines from your body, which can protect you from incoming blows as well as being used offensively. You can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend for one use is equal to the maximum spell level that you can cast. While this feature is active, you gain the following benefits:
 * You benefit from +1d to your Strength defence and Strength-based skill checks.
-* You can use a bonus action to make one attack with your thorns against a target within 5 feet of you. If the attack hits, the thorns deal piercing damage equal to 1d6 + your Strength modifier. 
-* When you grapple a creature, the target takes 1d6 piercing damage if you successfully grapple the target. 
+* Your thorns count as melee weapons dealing 1d6 + your Strength modifier piercing damage. Using your thorns as a melee weapon does not increase the multiattack penalty for other melee weapons and vice versa.
+* When you successfully grapple a creature, the target takes 1d6 piercing damage.
 * You have a climbing speed equal to your walking speed.
 
 These benefits last for 10 minutes, until you lose all the temporary stamina or use Wild Shape.
@@ -51,17 +51,19 @@ These benefits last for 10 minutes, until you lose all the temporary stamina or 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Thorn Growth
-You can make two weapon attacks whenever you take the Attack action on your turn.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Thorn Growth<br>**Actions:** 1
+You can make a second Strike action without taking the multiattack penalty.
 
 ### Burning Thorns
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack
-You gain the ability to quickly expel some of your thorns with a burst of fiery energy. As a free action on your turn, you can launch these burning thorns at a creature that attacked you within the previous round that is within 60 feet. Make a spell attack roll versus the creature’s Dexterity defence. It takes 1d10 piercing + 1d10 fire damage + your spellcasting ability modifier on a hit, or half as much on miss.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack<br>**Actions:** Free<br>**Trigger:** Being hit by an attack from a creature within 30 feet of you.
+You gain the ability to quickly expel some of your thorns with a burst of fiery energy. 
 
-You can use this feature a number of times equal to your spellcasting ability modifier, and you regain all expended uses when you finish a long rest.
+When a creature hits you with an attack, it must make a Dexterity defense check vs your spellcasting skill. It takes 1d10 piercing + 1d10 fire damage + your spellcasting ability modifier on a fail, or half as much on a success.
+
+This ability triggers automatically on the first attack to hit you each round, unless you declare on your turn that it will trigger from a specified creature, or not to use it at all. You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest. 
 
 ### Scorching Spirit
 

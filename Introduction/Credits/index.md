@@ -20,5 +20,5 @@ Many thanks to all of my dedicated patrons and the members of the Stormchaser Ro
 * TheOrsini - Playtesting
 * RisenZed - Playtesting
 * SansaSnark - Playtesting
-* SauteMonkey - Druid Talent Branches, Playtesting
 * Sphynxy - Playtesting
+* Trent - Cleric and Druid Talent Branches, Playtesting

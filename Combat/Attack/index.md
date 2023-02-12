@@ -2,7 +2,7 @@
 title: Making an Attack
 parent: Combat
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # Making an Attack

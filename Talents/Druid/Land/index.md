@@ -20,74 +20,74 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### Arctic
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Ice Knife, Winter's Ward* |
-| 2nd | *Binding Ice, Snowball Swarm* | 
-| 3rd | *Sleet Storm, Slow* | 
-| 4th | *Freedom of Movement, Ice Storm* | 
-| 5th | *Commune with Nature, Cone of Cold* | 
+| 1st | Ice Knife, Winter's Ward |
+| 2nd | Binding Ice, Snowball Swarm | 
+| 3rd | Sleet Storm, Slow | 
+| 4th | Freedom of Movement, Ice Storm | 
+| 5th | Commune with Nature, Cone of Cold | 
  
 #### Coast
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Create or Destroy Water, Fog Cloud* |  
-| 2nd | *Misty Step, Warding Wind* | 
-| 3rd | *Tidal Wave, Water Breathing* | 
-| 4th | *Control Water, Storm Sphere* | 
-| 5th | *Control Winds, Maelstrom* | 
+| 1st | Create or Destroy Water, Fog Cloud |  
+| 2nd | Misty Step, Warding Wind | 
+| 3rd | Tidal Wave, Water Breathing | 
+| 4th | Control Water, Storm Sphere | 
+| 5th | Control Winds, Maelstrom | 
  
 #### Desert
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Burning Hands, Silent Image* |  
-| 2nd | *Blur, Dust Devil* | 
-| 3rd | *Inflamed Feet, Wall of Sand* | 
-| 4th | *Blight, Hallucinatory Terrain* | 
-| 5th | *Insect Plague, Wall of Stone* | 
+| 1st | Burning Hands, Silent Image |  
+| 2nd | Blur, Dust Devil | 
+| 3rd | Inflamed Feet, Wall of Sand | 
+| 4th | Blight, Hallucinatory Terrain | 
+| 5th | Insect Plague, Wall of Stone | 
  
 #### Forest
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Faerie Fire* | 	
-| 2nd | *Animal Messenger, Moonbeam* | 
-| 3rd | *Call Lightning, Plant Growth* | 
-| 4th | *Divination, Freedom of Movement* | 
-| 5th | *Commune with Nature, Tree Stride*| 
+| 1st | Entangle, Faerie Fire | 	
+| 2nd | Animal Messenger, Moonbeam | 
+| 3rd | Call Lightning, Plant Growth | 
+| 4th | Divination, Freedom of Movement | 
+| 5th | Commune with Nature, Tree Stride| 
  
 #### Grassland
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Entangle, Longstrider* |  
-| 2nd | *Invisibility, Pass without Trace* | 
-| 3rd | *Daylight, Haste* | 
-| 4th | *Divination, Freedom of Movement* | 
-| 5th | *Dream, Insect Plague*| 
+| 1st | Entangle, Longstrider |  
+| 2nd | Invisibility, Pass without Trace | 
+| 3rd | Daylight, Haste | 
+| 4th | Divination, Freedom of Movement | 
+| 5th | Dream, Insect Plague | 
  
 #### Mountain
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Earth Tremor, Jump* |  
-| 2nd | *Earthen Grasp, Spider Climb* | 
-| 3rd | *Erupting Earth, Meld into Stone* | 
-| 4th | *Stone Shape, Stoneskin* | 
-| 5th | *Control Winds, Wall of Stone*| 
+| 1st | Earth Tremor, Jump |  
+| 2nd | Earthen Grasp, Spider Climb | 
+| 3rd | Erupting Earth, Meld into Stone | 
+| 4th | Stone Shape, Stoneskin | 
+| 5th | Control Winds, Wall of Stone | 
  
 #### Subterranean
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Corrosive Stream, Lesser Darkvision* |	
-| 2nd | *Spider Climb, Web* | 
-| 3rd | *Gaseous Form, Stinking Cloud* | 
-| 4th | *Greater Invisibility, Stone Shape* | 
-| 5th | *Cloudkill, Insect Plague*| 
+| 1st | Corrosive Stream, Lesser Darkvision |	
+| 2nd | Spider Climb, Web | 
+| 3rd | Gaseous Form, Stinking Cloud | 
+| 4th | Greater Invisibility, Stone Shape | 
+| 5th | Cloudkill, Insect Plague | 
  
 #### Swamp
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Detect Poison and Disease, Ray of Sickness* |  
-| 2nd | *Darkness, Acid Arrow* | 
-| 3rd | *Water Walk, Stinking Cloud* | 
-| 4th | *Grasping Vine, Vitriolic Sphere* | 
-| 5th | *Insect Plague, Scrying*| 
+| 1st | Detect Poison and Disease, Ray of Sickness |  
+| 2nd | Darkness, Acid Arrow | 
+| 3rd | Water Walk, Stinking Cloud | 
+| 4th | Grasping Vine, Vitriolic Sphere | 
+| 5th | Insect Plague, Scrying | 
  
 ## Talents
  
@@ -98,7 +98,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | Knowledge of the Land II  | 5  | 3rd Level Spells and Knowledge of the Land I | 
 | Power of the Land         | 20 | 5th Level Spells and Nature's Ward |
 | Knowledge of the Land III | 5  | 5th Level Spells and Knowledge of the Land II |
-| Nature's Sanctuary        | 40 | 7thLevel Spells and Power of the Land |
+| Nature's Sanctuary        | 40 | 7th Level Spells and Power of the Land |
 | Knowledge of the Land IV  | 10 | 7th Level Spells and Knowledge of the Land III |
  
 ### Knowledge of the Land I
@@ -142,8 +142,8 @@ Select a third type of terrain to add to your Knowledge of the Land I talent.
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 40 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land
-Many creatures of the natural world sense your connection to nature and become hesitant to attack you. Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check versus your spellcasting skill. On a fail, the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for 24 hours.
+#### **Cost:** 40 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land<br>**Action:** Free<br>**Trigger:** A beast, element, fey or plant attempts to attack you.
+Many creatures of the natural world sense your connection to nature and become hesitant to attack you. Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check vs your spellcasting skill. If it fails, then the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for 24 hours.
  
 A creature is aware of this effect before it makes its attack against you.
 

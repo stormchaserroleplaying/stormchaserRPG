@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 # Fighter Talent Tree (Warrior)
-Some take up arms for glory, wealth, or revenge. Others do battle to prove themselves, to protect others, or because they know nothing else. Still others learn the ways of weaponcraft to hone their bodies in battle and prove their mettle in the forge of war. Lords of the battlefield, fighters are a disparate lot, training with many weapons or just one, perfecting the uses of armour, learning the fighting techniques of exotic masters, and studying the art of combat, all to shape themselves into living weapons. Far more than mere thugs, these skilled warriors reveal the true deadliness of their weapons, turning hunks of metal into arms capable of taming kingdoms, slaughtering monsters, and rousing the hearts of armies. Soldiers, knights, hunters, and artists of war, fighters are unparalleled champions, and woe to those who dare stand against them.
+*Some take up arms for glory, wealth, or revenge. Others do battle to prove themselves, to protect others, or because they know nothing else. Still others learn the ways of weaponcraft to hone their bodies in battle and prove their mettle in the forge of war. Lords of the battlefield, fighters are a disparate lot, training with many weapons or just one, perfecting the uses of armour, learning the fighting techniques of exotic masters, and studying the art of combat, all to shape themselves into living weapons. Far more than mere thugs, these skilled warriors reveal the true deadliness of their weapons, turning hunks of metal into arms capable of taming kingdoms, slaughtering monsters, and rousing the hearts of armies. Soldiers, knights, hunters, and artists of war, fighters are unparalleled champions, and woe to those who dare stand against them.*
 
 ## Bonus Proficiencies
 When you take your first fighter talent, you gain the following bonus proficiencies:
@@ -33,8 +33,8 @@ When you take your first fighter talent, you gain the following bonus proficienc
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain stamina equal to two of your recovery die + your Constitution modifier.
+#### **Cost:** 5 Character Points<br>**Actions:** 1 action
+*You have a limited well of stamina that you can draw on to protect yourself from harm.* On your turn, you can regain stamina equal to two of your recovery die + your Constitution modifier.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -61,7 +61,7 @@ Each time that you learn a new [maneuver](https://stormchaserroleplaying.com/sto
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Fighter Talents
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
+*You can push yourself beyond your normal limits for a moment.* On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. 
 
@@ -70,13 +70,9 @@ Once you use this feature, you must finish a short or long rest before you can u
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 4 Fighter Talents
-Choose two from the following. You can perform each of the chosen options with your bonus action, instead of your action:
-- Applying poison to a weapon
-- Dash
-- Disengage
+Choose two from the following. You can perform each of the chosen options once as a free action:
 - Guard
 - Help
-- Hide
 - Overrun
 - Search
 - Tumble
@@ -94,9 +90,9 @@ You can reroll a failed defence check. If you do so, you must use the new roll, 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** 8 Fighter Talents
-You can now attack three times, instead of twice, whenever you take the Attack action on your turn.
+You can now attack three times, instead of twice, whenever you take the Strike action on your turn.
 
-Additionally, when you use a bonus action to engage in two-weapon fighting, you can make two attacks instead of one.
+Additionally, when you use 1 action to engage in two-weapon fighting, you can make two attacks instead of one.
 
 ### Indomitable II
 
@@ -124,6 +120,6 @@ You can now use your Indomitable talent three times before a long rest,
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 14 Fighter Talents
-You are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
+*You are the master of combat.* Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
 
-Additionally, you can attack four times, instead of once, whenever you take the Attack action on your turn.
+Additionally, you can attack four times, instead of once, whenever you take the Strike action on your turn.

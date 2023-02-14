@@ -52,7 +52,7 @@ When a creature fails its saving throw against your Arcane Abjuration feature, t
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points<br>
-You are trained in the Arcana skill and you gain two cantrips of your choice from the mage spell list. For you, these cantrips count as disciple cantrips.
+You are trained in the Arcana skill and you gain two cantrips of your choice from the mage spell list. For you, these cantrips count as divine cantrips.
 
 ### Spell Breaker
  
@@ -66,4 +66,4 @@ When you restore stamina to an ally with a spell which you spend one mana or mor
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Spell Breaker
-You choose four spells from the mage spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of bonus spells. Like your other bonus spells, they are always prepared and count as disciple spells for you.
+You choose four spells from the mage spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of bonus spells. Like your other bonus spells, they are always prepared and count as divine spells for you.

@@ -52,7 +52,7 @@ Hunter's Mark also allows the caster to sense the relative direction and distanc
 **Components:** V, S, M *(A hummingbird feather.)*<br>
 **Duration:** 8 Hours
 
-You touch a willing creature who isn't wearing armour. Until the spell ends, the target can sense melee and ranged attacks a split second before they happen. If the target is not already proficient in Dexterity defence, then it may add its proficiency bonus to its Dexterity defence. The spell ends if the target dons armour or if you dismiss the spell as an action.
+You touch a willing creature who isn't wearing armour. Until the spell ends, the target can sense melee and ranged attacks a split second before they happen. The target gains +1d to its Dexterity defence. The spell ends if the target dons armour or if you dismiss the spell as an action.
 
 ## Tongue That Dream-Speaks
 *1st Level Divination (Ritual)*<br>

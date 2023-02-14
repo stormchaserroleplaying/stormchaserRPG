@@ -26,10 +26,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to create an illusory duplicate of yourself. 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 1 or 2
+*You create a perfect illusory image of yourself.* 
 
-Using 2 actions, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. Using 1 action on subsequent turns, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+Using 2 Actions for your Channel Divinity, you create a illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. Using 1 Action on subsequent turns, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
 For the duration, you can cast spells as though you were in the illusion’s space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have +1d on attack rolls against that creature, given how distracting the illusion is to the target.
  
@@ -52,14 +52,14 @@ Your deity bestows the ability to move unseen. You touch a willing creature, gra
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Trickster
-You can use your channel divinity to vanish. 
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Trickster<br>**Actions:** 2
+*Your trickster diety hides you from the sight.*
 
-Using 2 actions, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
+Using your Channel Divinity, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.
 
 ### Improved Duplicity
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Cloak of Shadows 
-You can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. Using 1 action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Cloak of Shadows
+You can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. Using 1 Action, you can move any number of them up to 30 feet, to a maximum range of 120 feet.

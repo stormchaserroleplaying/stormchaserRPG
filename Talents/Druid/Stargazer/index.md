@@ -39,8 +39,8 @@ You have created map of your findings of the stars. Its form is determined by ro
 Your map is a tiny object and can be used as a focus for casting your spells. If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a short or long rest and destroys the previous map.
 
 While holding the map, you have the following benefits:
-* You know the *guidance* cantrip.
-* You have a separate pool of mana that you can draw upon to cast *guiding bolt*. This pool is equal to your spellcasting attribute modifier. A *guiding bolt* cast in this way can be upcast no higher than your usual maximum spell level. The pool is replinished when you finish a long rest.
+* You know the Guidance cantrip.
+* You have a separate pool of mana that you can draw upon to cast Guiding Bolt. This pool is equal to your spellcasting attribute modifier. A Guiding Bolt cast in this way can be upcast no higher than your usual maximum spell level. The pool is replinished when you finish a long rest.
 
 ## Talents
 
@@ -56,7 +56,9 @@ While holding the map, you have the following benefits:
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Actions:** 1
-You call down the stars to grant you their power. You can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While they exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
+*You call upon the stars to grant you their knowledge and power.* 
+
+You can expend 1 mana and choose which constellation you summon from the list below. A small representation of the starry formation floats near you in your space, but is neither a creature or an object. While they exists, the stars produce bright light in a 10-foot radius and dim light for an additional 10 feet. 
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, use this talent again, or use your Wild Shape.
 
@@ -70,27 +72,33 @@ The constellation lasts for 10 minutes. It ends early if you dismiss it (no acti
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon the Stars
-Whenever you finish a long rest you seek guidance from the stars for sings of what the next day may bring. When you do so, roll a die. You gain access to the below based on whether you rolled and even or odd number on the die:
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon the Stars<br>**Action:** Free
+*You seek guidance from the stars for sings of what the next day may bring.* 
+
+Whenever you finish a long rest, roll a die. You gain access to the below based on whether you rolled and even or odd number on the die:
 
 **Boon (even).** As a free action on your turn you may grant a creature that you can see within 30 feet of you +1d to their next attack roll or skill check. 
 
 **Doom (odd).** As a free action on your turn you may grant a creature that you can see within 30 feet of you -1d to their next attack roll or skill check. 
 
-You can use this talent a number of times equal to your spellcasting attribute modifier, and you regain all expended uses when you finish a long rest.
+You can use this free action a number of times equal to your spellcasting attribute modifier, and you regain all expended uses when you finish a long rest.
 
 ### The Magician
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Wheel of Fortune
-The constellation of The Magician represents raw power and inspiration. He is summoned in addition to the constellation chosen by your Summon the Stars talent. The 1d8 of The Chariot and The Empress becomes 2d8, and while The High Priestess is active you have a flying speed of 20 feet and can hover.
+*The constellation of The Magician represents raw power and inspiration.* 
 
-Additionally, at the start of your turn you may change the constellation from your Summon the Stars without the need to spend mana (no action required).
+This constellation is summoned in addition to the constellation chosen by your Summon the Stars talent. The 1d8 of The Chariot and The Empress becomes 2d8, and while The High Priestess is active you have a flying speed of 20 feet and can hover.
+
+Additionally, at the start of your turn you may change the constellation chosen from your Summon the Stars without the need to spend mana (no action required).
 
 ### The Moon
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and The Magician
-Like an eclipse, The Moon passes between you and your attacker. While your Summon the Stars is active, you gain resistance to bludgeoning, piercing and slashing damage.
+*Like an eclipse, The Moon passes between you and your attacker.* 
+
+While your Summon the Stars is active, you gain resistance to bludgeoning, piercing and slashing damage.

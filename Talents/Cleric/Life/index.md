@@ -29,10 +29,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to heal the badly injured. 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You can use your Channel Divinity to heal the badly injured.* 
 
-Using 2 actions, you present your holy symbol and evoke healing energy that can restore stamina up to a number of recovery dice equal your maximum spell level. Choose any creatures within 30 feet of you and divide those recovery dice among them. Each selected creature can roll the recovery dice granted to them, plus your spellcasting attribute modifier, and recover that amount of stamina. You can’t use this feature on an undead or a construct.
+You present your holy symbol and evoke healing energy that can restore stamina up to a number of recovery dice equal your maximum spell level. Choose any creatures within 30 feet of you and divide those recovery dice among them. Each selected creature can roll the recovery dice granted to them, plus your spellcasting attribute modifier, and recover that amount of stamina. You can’t use this feature on an undead or a construct.
 
 ## Talents
  
@@ -47,18 +47,24 @@ Using 2 actions, you present your holy symbol and evoke healing energy that can 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore stamina to a creature, the creature regains additional stamina equal to 2 + the spell’s level.
+*Your devotion to life causes healing spells to be more effective.* 
+
+Whenever you use a spell of 1st level or higher to restore stamina to a creature, the creature regains additional stamina equal to 2 + the spell’s level.
 
 ### Blessed Healer
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Disciple of Life
-The healing spells that you cast on others heal you as well. When you cast a spell of 1st level or higher that restores stamina to a creature other than you, you regain stamina equal to 2 + the spell’s level.
+*The healing spells that you cast on others heal you as well.* 
+
+When you cast a spell of 1st level or higher that restores stamina to a creature other than you, you regain stamina equal to 2 + the spell’s level.
 
 ### Supreme Healing
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Blessed Healer
+*You are now well-trained using your spells to heal, causing them to be most effective.* 
+
 When you would normally roll one or more dice to restore stamina with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.

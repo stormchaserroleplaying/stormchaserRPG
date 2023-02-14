@@ -29,10 +29,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to charm animals and plants. 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You use your divine magic to influence animals and plants.* 
 
-Using 2 actions, you present your holy symbol and invoke the name of your deity. Make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
+You present your holy symbol and invoke the name of your deity. Using your Channel Divinity, make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.
 
 ## Talents
  
@@ -55,12 +55,18 @@ You learn the Druidic language. Also, you are trained in one of the following sk
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Acolyte of Nature 
-The first time each a round that you or an ally within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you grant resistance to the creature against that instance of the damage. On your turn, you may declare that for the next round this ability will only be triggered by certain creatures or an attack on a certain ally.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Acolyte of Nature<br>**Action:** Free<br>**Trigger:** You or an ally within 30 feet takes acid, cold, fire, lightning, or thunder damage.
+*Your attunement with nature allows you to reduce the strength of the elements.*
+
+When you or another creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you grant resistance to the creature against that instance of the damage. 
+
+This ability triggers once per round and automatically on the first instance of acid, cold, fire, lightning, or thunder damage to you or a creture in range each round, unless you declare on your turn or when you roll intitiative that it will trigger when damage is dealt to a specified creature, or not to use it at all. 
 
 ### Master of Nature
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Dampen Elements
-You gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Dampen Elements<br>**Actions:** 1
+*You gain the ability to command animals and plant creatures.* 
+
+While creatures are charmed by your Charm Animals and Plants ability, you can verbally command what each of those creatures will do on its next turn.

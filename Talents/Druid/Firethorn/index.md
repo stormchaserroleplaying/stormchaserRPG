@@ -65,7 +65,7 @@ You can make a second Strike action without taking the multiattack penalty.
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 30 feet of you.
 *You gain the ability to quickly expel some of your thorns with a burst of fiery energy.*
 
-When a creature hits you with an attack, it must make a Dexterity defense check vs your spellcasting skill. It takes 1d10 piercing + 1d10 fire damage + your spellcasting ability modifier on a fail, or half as much on a success.
+When a creature hits you with an attack, it must make a Dexterity defense check vs your spellcasting skill. It takes 1d8 piercing + 1d8 fire damage on a fail, or half as much on a success.
 
 This ability triggers once per round and automatically on the first attack to hit you each round, unless you declare on your turn or when you roll intitiative that it will trigger from attacks by a specified creature, or not to use it at all. You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest. 
 

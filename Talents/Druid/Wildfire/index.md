@@ -36,7 +36,9 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells and Wild Shape<br>**Actions:** Varies
-You can summon the primal spirit bound to your soul. Using 2 actions, you can expend mana to summon your wildfire spirit. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. 
+*You can summon a primal spirit of fire that is bound to your soul.* 
+
+Using 2 Actions, you can expend mana to summon your wildfire spirit. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. 
 
 The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. When it appears, make a spell attack vs the Dexterity defence of each creature within 10 feet of the spirit (other than you). On a hit the creature takes 2d6 fire damage.
 
@@ -62,16 +64,16 @@ The spirit is friendly to you and your companions and obeys your commands. Stati
 > **Speed:** 35 feet, fly 35 feet (hover)
 > 
 > ##### Actions
-> **Flame Seed:** *Ranged Spell Attack, 2 actions:* 2d20kh1 + your spellcasting attribute modifier to hit, range 60 feet, one target you can see. *Hit:* 1d6 + your spellcasting attribute modifier fire damage.
+> **Flame Seed:** *Ranged Spell Attack, 2 Actions -* 2d20kh1 + your spellcasting attribute modifier to hit, range 60 feet, one target you can see. *Hit:* 1d6 + your spellcasting attribute modifier fire damage.
 > 
-> **Fiery Teleportation:** *2 actions -* The spirit and each willing creature of your choice within 5 feet of the spirit teleport up to 15 feet to unoccupied spaces that you can see. Then, you make a spell attack vs the Dexterity defense of each creature that is within 5 feet of the space that the spirit left. On a hit, each target takes 1d6 + your spellcasting attribute modifier in fire damage.
+> **Fiery Teleportation:** *2 Actions -* The spirit and each willing creature of your choice within 5 feet of the spirit teleport up to 15 feet to unoccupied spaces that you can see. Then, you make a spell attack vs the Dexterity defense of each creature that is within 5 feet of the space that the spirit left. On a hit, each target takes 1d6 + your spellcasting attribute modifier in fire damage.
 > 
 > ##### Other
 > **Senses:** Darkvision (60 feet), Passive Perception 12
 > 
 > **Languages:** understands the languages you speak
 
-In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. It takes the Dodge action on its turn unless you take use 1 action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the spirit can take any action of its choice, not just Dodge.
+In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. It takes the Dodge action on its turn unless you take use 1 Action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the spirit can take any action of its choice, not just Dodge.
 
 The spirit exists for 1 hour, until it is reduced to 0 stamina, until you use this ability to summon the spirit again, or until you die.
 
@@ -80,7 +82,9 @@ The spirit exists for 1 hour, until it is reduced to 0 stamina, until you use th
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon Wildfire Spirit
-The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
+*The bond with your wildfire spirit enhances your destructive and restorative spells.* 
+
+Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
 
 In addition, when you cast a spell with a range other than self, the spell can originate from you or your wildfire spirit.
 
@@ -89,9 +93,9 @@ In addition, when you cast a spell with a range other than self, the spell can o
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Enhanced Bond<br>**Actions:** Free<br>**Trigger:** A creature passes through the spectral flame.
-You can turn death into magical flames that can heal or incinerate. When a small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. 
+*You can turn death into magical flames that can heal or incinerate.* 
 
-As a free action at the beginning of your turn, you can extinguish the spectral flame there and either heal or deal fire damage to a creature that has passed through a flame during its last turn. The healing or fire damage equals 2d10 + your spellcasting attribute modifier.
+When a small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. As a free action at the beginning of your turn, you can extinguish the spectral flame there and either heal or deal fire damage to a creature that has passed through a flame during its last turn. The healing or fire damage equals 2d10 + your spellcasting attribute modifier.
 
 You can use this ability a number of times equal to your spellcasting attribute modifier, and you regain all expended uses when you finish a long rest.
 
@@ -100,6 +104,8 @@ You can use this ability a number of times equal to your spellcasting attribute 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Cauterizing Flame
-The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 stamina and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your stamina and immediately rise to your feet.
+*The bond with your wildfire spirit can save you from death.* 
+
+If your wildfire spirit is within 120 feet of you when you are reduced to 0 stamina and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your stamina and immediately rise to your feet.
 
 Once you use this ability, you can’t use it again until you finish a long rest.

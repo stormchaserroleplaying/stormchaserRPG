@@ -35,7 +35,7 @@ When you use your Channel Divinity, you expend 1 mana and choose which effect to
 #### Turn Undead<br>**Actions:** 2
 You present your holy symbol and speak a prayer censuring the undead. Make an attack roll against each undead within 30 feet of you that can see or hear you. On a hit, the creature is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its actions trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+A turned creature must spend its actions trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
 ### Destroy Undead
 

@@ -55,17 +55,19 @@ Once on each of the cleric's turns when they hit a creature with a weapon attack
 
 | Divine Domain | Recommended Divine Strike Damage Type |
 |:-------------:|:-------------------------------------:|
-| Arcana   | Energy |
-| Death    | Profane |
-| Forge    | Fire |
-| Grave    | Rot |
-| Life     | Radiant |
-| Nature   | Cold, Fire, or Lightning |
-| Order    | Psychic |
-| Tempest  | Thunder |
-| Trickery | Poison |
-| Twilight | Sacred |
-| War      | Same as weapon |
+| Arcana    | Energy |
+| Death     | Profane |
+| Forge     | Fire |
+| Grave     | Rot |
+| Knowledge | Energy |
+| Life      | Radiant |
+| Nature    | Cold, Fire, or Lightning |
+| Order     | Psychic |
+| Peace     | Sacred |
+| Tempest   | Thunder |
+| Trickery  | Poison |
+| Twilight  | Sacred |
+| War       | Same as weapon |
 
 ### Divine Intervention
 

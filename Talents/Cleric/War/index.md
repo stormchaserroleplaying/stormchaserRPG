@@ -29,10 +29,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to strike with supernatural accuracy. 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*Your diety grants supernatural accuracy to your strikes.* 
 
-On your turn, when you would roll to hit for an attack, you can instead use your channel divinity to take 20 for the attack.
+On your turn, when you would roll to hit for an attack, you can instead use your Channel Divinity to take 20 for the attack.
 
 ## Talents
  
@@ -46,20 +46,26 @@ On your turn, when you would roll to hit for an attack, you can instead use your
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Your god blesses you with an additional fanaticism while strike your enemies. When you use the Strike action, you can make one addtional Strike action without taking the multiattack pentalty. 
+*Your god blesses you with an additional fanaticism while strike your enemies.* 
 
-You can use this feature a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
+When you use the Strike action, you can make one addtional Strike action without taking the multiattack pentalty. 
+
+You can use this ability a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
 ### War God’s Blessing
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and War Priest 
-You grant the inspiration of your deity to an ally’s strikes. As a free action on your turn you can use your channel divinity to grant a creature within 30 feet of you the ability to take 20 on their next attack roll, instead of rolling to hit.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and War Priest<br>**Actions:** Free
+*You grant the inspiration of your deity to an ally’s strikes.* 
+
+On your turn you can use your Channel Divinity to grant a creature within 30 feet of you the ability to take 20 on their next attack roll, instead of rolling to hit.
 
 ### Avatar of Battle
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and War God’s Blessing
+*Your faith shields you, allowing you to stand strong against many attacks.*
+
 You gain resistance to bludgeoning, piercing, and slashing damage from non-magical attacks.

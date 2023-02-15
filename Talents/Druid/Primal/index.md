@@ -38,7 +38,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Wild Shape<br>**Actions:** 1
 *Your devotion to the beast within allows you to become more powerful animals.* 
 
-Your use of Wild Shape gains the following benefits:
+Your Wild Shape ability gains the following benefits:
 * You can cast Wild Shape with a single action.
 * While you are transformed by Wild Shape, you can use 1 action to expend 1 or more mana to recover 1d8 stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
 * You can transform into beasts with a CR maximum equal to the amount of mana expended.
@@ -59,7 +59,7 @@ All Strike actions made while you are transformed using your Wild Shape are cons
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Primal Strike
 *The elements of the world are now part of your being.* 
 
-You can up to 5 mana and use your Wild Shape to transform into an elemental with a CR maximum equal to the amount of mana expended. 
+You can spend up to 5 mana to use your Wild Shape to transform into an elemental with a CR maximum equal to the amount of mana expended. 
 
 ### Mutable Body
 

@@ -29,7 +29,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Prerequisite:** Channel Divinity
 *You can use Channel Divinity to destroy another creature’s life force by touch.*
 
-When you hit a creature with a melee attack, the you can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.
+When you hit a creature with a melee attack, you can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.
 
 ## Talents
  

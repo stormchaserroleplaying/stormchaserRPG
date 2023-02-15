@@ -14,7 +14,7 @@ Spore Druids have a complex relationship with the undead. Unlike most other drui
 ## Branch Features
 
 ### Bonus Spells
-When you take your first talent in this branch, you learn the Chill Touc* cantrip. If you already know that cantrip you may learn another cantrip of your choice from the divine spell list. 
+When you take your first talent from this branch, you learn the Chill Touch cantrip. If you already know that cantrip you may learn another cantrip of your choice from the divine spell list. 
 
 Additionally, you gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 

@@ -11,17 +11,8 @@ Clerics devoting themselves to peace preside over the signing of treaties and th
 
 ## Branch Features
 
-### Balm of Peace
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
-*You can make your very presence a soothing balm.*
-
-Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2d6 + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.
-
 ### Bonus Proficiency
-When you take your first talent in this branch, you are trained in your choice of the Insight, Performance or Persuasion skill.
+When you take your first talent from this branch, you are trained in your choice of the Insight, Performance or Persuasion skill.
  
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -35,6 +26,15 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 | 3rd | Beacon of Hope, Sending | 
 | 4th | Aura of Purity, Resilient Sphere | 
 | 5th | Greater Restoration, Telepathic Bond | 
+
+### Balm of Peace
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You can make your very presence a soothing balm.*
+
+Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2d6 + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.
 
 ## Talents
  

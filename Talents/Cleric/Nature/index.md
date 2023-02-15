@@ -32,7 +32,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You use your divine magic to influence animals and plants.* 
 
-You present your holy symbol and invoke the name of your deity. Using your Channel Divinity, make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is [charmed]https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/ by you for 1 minute or until it takes damage. While it is [charmed]https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/ by you, it is friendly to you and other creatures you designate.
+You present your holy symbol and invoke the name of your deity. Using your Channel Divinity, make a spellcasting attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for 1 minute or until it takes damage. While it is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you, it is friendly to you and other creatures you designate.
 
 ## Talents
  

@@ -50,11 +50,11 @@ On subsequent turns, you can use 1 Action to move the spirit up to 60 feet to a 
 
 The spirit lasts for 1 minute or until you become incapacitated. You must finish a short or long rest to use this ability again. 
 
-**Ox Spirit.** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to Strength checks and Strength defense.
+**Ox Spirit:** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to Strength checks and Strength defense.
 
-**Wolf Spirit.** The strength the pack is provided by the wolf spirit. As a free action on your turn, you can grant +1d a creature's next attack against a target that is inside the aura of the spirit. Additionally, you and your allies gain +1d Perception checks while in the aura. 
+**Wolf Spirit:** The strength the pack is provided by the wolf spirit. As a free action on your turn, you can grant +1d a creature's next attack against a target that is inside the aura of the spirit. Additionally, you and your allies gain +1d on Perception checks while in the aura. 
 
-**Lion Spirit.** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d on skill checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting attribute modifier.
+**Lion Spirit:** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d on skill checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting attribute modifier.
 
 ### Locate Hedgeway
 

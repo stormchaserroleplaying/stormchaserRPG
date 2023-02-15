@@ -50,7 +50,7 @@ When you use your oath powers, you expend 1 mana and choose which effect to crea
 
 <div style="margin-top:-10px;"></div>
 
-#### **Actions:** 2
+##### **Actions:** 2
 Make a spell attack vs the Wisdom defence of each creature of your choice that you can see within 30 feet of you. On a hit, a creature becomes frightened of you for 1 minute. A frightened creature can make a Wisdom defence against your spell skill at the end of each of its turns, ending the effect on itself on a success.
 
 #### Guided Strike

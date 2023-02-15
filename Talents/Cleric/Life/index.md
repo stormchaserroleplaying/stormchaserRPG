@@ -65,6 +65,6 @@ When you cast a spell of 1st level or higher that restores stamina to a creature
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Blessed Healer
-*You are now well-trained using your spells to heal, causing them to be most effective.* 
+*You have mastered using your spells to heal, causing them to be most effective.* 
 
 When you would normally roll one or more dice to restore stamina with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.

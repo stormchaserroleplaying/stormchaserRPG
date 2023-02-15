@@ -12,7 +12,7 @@ Clerics of Order believe that well-crafted laws establish legitimate hierarchies
 ## Branch Features
  
 ### Bonus Proficiency
-When take your first talent in this branch, you gain proficiency with heavy armour and are trained in your choice of the Intimidation or Persuasion skill.
+When take your first talent from this branch, you gain proficiency with heavy armour and are trained in your choice of the Intimidation or Persuasion skill.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

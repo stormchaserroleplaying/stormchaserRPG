@@ -10,7 +10,7 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 
 
 ## Spell School Proficiencies
-If your first talent is a druid talent, you are trained in the following spell schools: Abjuration, Charms, Conjuration, Divination, Evocation, Necromancy, Restoration, and Transmutation.
+If your first talent is a cleric talent, then you are trained in the following spell schools: Abjuration, Charms, Conjuration, Divination, Evocation, Necromancy, Restoration and Transmutation.
 
 ## Core Talents
 

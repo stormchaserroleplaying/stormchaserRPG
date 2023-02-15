@@ -90,7 +90,7 @@ You can use this free action a number of times equal to your spellcasting attrib
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Wheel of Fortune
 *The constellation of The Magician represents raw power and inspiration.* 
 
-This constellation is summoned in addition to the constellation chosen by your Summon the Stars talent. The 1d8 of The Chariot and The Empress becomes 2d8, and while The High Priestess is active you have a flying speed of 20 feet and can hover.
+This constellation is summoned in addition to the constellation chosen by your Summon the Stars talent. The 1d8 of The Chariot and The Empress becomes 2d8. While The High Priestess is active, you have a flying speed of 20 feet and can hover.
 
 Additionally, at the start of your turn you may change the constellation chosen from your Summon the Stars without the need to spend mana (no action required).
 

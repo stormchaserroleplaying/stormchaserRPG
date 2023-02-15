@@ -29,7 +29,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 #### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to tap into a divine well of knowledge.*
 
-You can choose one skill or tool. For 10 minutes, you gain +1d for checks using the chosen skill or tool.
+You can choose one skill or tool. For 10 minutes, you gain +1d on checks using the chosen skill or tool.
 
 ## Talents
  
@@ -53,7 +53,7 @@ You learn two languages (accented) of your choice. You also gain expertise in yo
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
 *You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.*
 
-Choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, you can’t use this feature on the same creature again until you finish a long rest.
+Choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, then you can’t use this feature on the same creature again until you finish a long rest.
 
 If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute. During that time, you can use 2 Actions to end this effect and cast the Suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
 

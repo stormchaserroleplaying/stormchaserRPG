@@ -64,9 +64,9 @@ The spirit is friendly to you and your companions and obeys your commands. Stati
 > **Speed:** 35 feet, fly 35 feet (hover)
 > 
 > ##### Actions
-> **Flame Seed:** *Ranged Spell Attack, 2 Actions -* 2d20kh1 + your spellcasting attribute modifier to hit, range 60 feet, one target you can see. *Hit:* 1d6 + your spellcasting attribute modifier fire damage.
+> **Flame Seed (2 Actions):** *Ranged Spell Attack:* 2d20kh1 + your spellcasting attribute modifier to hit, range 60 feet, one target you can see. *Hit:* 1d6 + your spellcasting attribute modifier fire damage.
 > 
-> **Fiery Teleportation:** *2 Actions -* The spirit and each willing creature of your choice within 5 feet of the spirit teleport up to 15 feet to unoccupied spaces that you can see. Then, you make a spell attack vs the Dexterity defense of each creature that is within 5 feet of the space that the spirit left. On a hit, each target takes 1d6 + your spellcasting attribute modifier in fire damage.
+> **Fiery Teleportation (2 Actions):** The spirit and each willing creature of your choice within 5 feet of the spirit teleport up to 15 feet to unoccupied spaces that you can see. Then, you make a spell attack vs the Dexterity defense of each creature that is within 5 feet of the space that the spirit left. On a hit, each target takes 1d6 + your spellcasting attribute modifier in fire damage.
 > 
 > ##### Other
 > **Senses:** Darkvision (60 feet), Passive Perception 12

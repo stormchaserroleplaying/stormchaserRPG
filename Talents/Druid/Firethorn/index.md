@@ -13,7 +13,7 @@ Firethorn druids devote themselves to being a true force for nature, seeking to 
 When you take your first talent from this branch, you gain proficiency with martial axes and bludgeons.
 
 ### Bonus Spells
-When you take your first talent from this branch, you learn the Thorn Whip cantrip. If you already know that cantrip you may learn another cantrip of your choose from the disciple spell list. 
+When you take your first talent from this branch, you learn the Thorn Whip cantrip. If you already know that cantrip, then you may learn another cantrip of your choice from the divine spell list. 
 
 Additionally, you gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
@@ -41,7 +41,7 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Actions:** 1
-*You can sprout thorns and vines from your body, which protects you from incoming blows as well as being used offensively.* 
+*You can sprout thorns and vines from your body. They protect you from incoming blows and can be used offensively.* 
 
 You can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend for one use is equal to the maximum spell level that you can cast. While this feature is active, you gain the following benefits:
 * You benefit from +1d to your Strength defence and Strength-based skill checks.

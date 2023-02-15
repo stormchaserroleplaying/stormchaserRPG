@@ -10,7 +10,7 @@ Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and b
 ## Branch Features
  
 ### Bonus Cantrip
-When yout take your first talent in this branch, you gain the Light cantrip, if you don’t already know it. If you already know this cantrip, then you gain a cantrip of your choice from the divine spell list. This cantrip doesn’t count against the number of disciple cantrips you know.
+When yout take your first talent in this branch, you learn the Light cantrip, if you do not already know it. If you already know this cantrip, then you learn a cantrip of your choice from the divine spell list. This cantrip doesn’t count against the number of disciple cantrips that you know.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

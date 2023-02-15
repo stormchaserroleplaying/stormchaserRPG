@@ -29,10 +29,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to refresh your allies with soothing twilight.
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You refresh your allies with soothing twilight.*
 
-Using 2 actions, you present your holy symbol and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius and is filled with dim light. The sphere moves with you and lasts for 1 minute, or until you are incapacitated, or die. Whenever a creature (including you) ends its turn within the sphere, you can grant that creature one of these benefits:
+Using your Channel Divinity, you present your holy symbol and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius and is filled with dim light. The sphere moves with you and lasts for 1 minute, or until you are incapacitated, or die. Whenever a creature (including you) ends its turn within the sphere, you can grant that creature one of these benefits:
 * You grant it temporary stamina equal to 1d6 plus two times the maximum spell level you can cast.
 * You end one effect on it causing it to be charmed or frightened.
 
@@ -49,28 +49,36 @@ Using 2 actions, you present your holy symbol and a sphere of twilight emanates 
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-You can see through the deepest gloom. You have darkvision out to a range of 60 feet. If you already have darkvision, your range is increased by 60 feet. 
+#### **Cost:** 5 Character Points<br>**Actions:** 2
+*You can see through the deepest gloom.* 
 
-Using 2 actions, you can magically share the darkvision of this feature with willing creatures that you can see within 10 feet of you, up to a number of creatures equal to your spellcasting attribute modifier. The shared darkvision lasts for 1 hour. Once you share it, you cannot do so again until you finish a long rest, unless you expend 1 mana to share it again.
+You have darkvision out to a range of 60 feet. If you already have darkvision, your range is increased by 60 feet. 
+
+On your turn, you can magically share the darkvision of this feature with willing creatures that you can see within 10 feet of you, up to a number of creatures equal to your spellcasting attribute modifier. The shared darkvision lasts for 1 hour. Once you share it, you cannot do so again until you finish a long rest, unless you expend 1 mana to share it again.
 
 ### Vigilant Blessing
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points<br>**Actions:** 1
-The night has taught you to be vigilant. You give one creature that you touch (including possibly yourself) +1d on the next initiative roll that the creature makes. This benefit ends immediately after the roll, or if you use this feature again.
+*The night has taught you to be vigilant.* 
+
+You give one creature that you touch (including possibly yourself) +1d on the next initiative roll that the creature makes. This benefit ends immediately after the roll, or if you use this feature again.
 
 ### Steps of Night
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells, Eyes of the Night, Vigilant Blessing 
-You can draw on the mystical power of night to rise into the air. Using 1 acttion, when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells, Eyes of the Night, Vigilant Blessing <br>**Actions:** 1
+*You can draw on the mystical power of night to rise into the air.* 
+
+When you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
 
 ### Twilight Shroud
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Steps of Night
-The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.
+*The twilight that you summon offers a protective embrace.* 
+
+You and your allies have half cover while in the sphere created by your Twilight Sanctuary.

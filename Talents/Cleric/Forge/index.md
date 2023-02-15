@@ -30,7 +30,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to create simple items.
+*You can use your Channel Divinity to create simple items.*
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
 
@@ -51,7 +51,9 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-You gain the ability to imbue magic into a weapon or armour. At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
+*You gain the ability to imbue magic into a weapon or armour.* 
+
+At the end of a long rest, you can touch one nonmagical object that is a suit of armour or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to DR if it’s armour or a +1 bonus to attack and damage rolls if it’s a weapon.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 

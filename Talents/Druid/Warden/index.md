@@ -42,31 +42,37 @@ When you take your first talent in this branch, you learn the Sylvan language. Y
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Actions:** Varies
-You summon a spirit of nature that produces an aura to assist you and your allies. The spirit appears at a point that you can see within 60 feet of you. The aura of the spirit extends in a 30-foot radius from that point. Though this spirit takes on the chosen form (see list below), it is intangible and is neither a creature nor an object. 
+*You summon a spirit of nature that produces an aura to assist you and your allies.* 
 
-On subsequent turns, you can use 1 action to move the spirit up to 60 feet to a point that you can see. 
+Using 1 Action, the chosen spirit appears at a point that you can see within 60 feet of you. The aura of the spirit extends in a 30-foot radius from that point. Though this spirit takes on the chosen form (see list below), it is intangible and is neither a creature nor an object. 
+
+On subsequent turns, you can use 1 Action to move the spirit up to 60 feet to a point that you can see. 
 
 The spirit lasts for 1 minute or until you become incapacitated. You must finish a short or long rest to use this ability again. 
 
-**Ox Spirit.** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to their dicepool for Strength checks and Strength defense.
+**Ox Spirit:** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to Strength checks and Strength defense.
 
-**Wolf Spirit.** The strength the pack is provided by the wolf spirit. As a free action on your turn, you can grant +1d a creature's next attack against a target that is inside the aura of the spirit. Additionally, you and your allies gain +1d perception checks while in the aura. 
+**Wolf Spirit:** The strength the pack is provided by the wolf spirit. As a free action on your turn, you can grant +1d a creature's next attack against a target that is inside the aura of the spirit. Additionally, you and your allies gain +1d on Perception checks while in the aura. 
 
-**Lion Spirit.** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d on skill checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting attribute modifier.
+**Lion Spirit:** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d on skill checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (no matter whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting attribute modifier.
 
 ### Locate Hedgeway
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Spirits of the Wild<br>**Actions:** 2
-You have learned to find a way home for lost fey creatures. You can detect the distance and direction to the nearest portal to the Hedge within 1 mile of you. You must finish a short or long rest to use this ability again. 
+*You have learned to find a way home for lost fey creatures.* 
 
-### Empowered Allies
+You can detect the distance and direction to the nearest portal to the Hedge within 1 mile of you. You must finish a short or long rest to use this ability again. 
+
+### Empowered Summons
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirits of the Wild
-Beasts and fey that you conjure are more resilient than normal. Any beast or fey summoned or created by a spell that you cast gains the following benefits:
+*Beasts and fey that you conjure are more resilient than normal.* 
+
+Any beast or fey summoned or created by a spell that you cast gains the following benefits:
 * The creature appears with more stamina than normal. Its stamina increases by 8 + your spellcasting attribute modifier.
 * The damage caused by its natural attacks or weapons is considered magical.
 
@@ -75,13 +81,17 @@ Beasts and fey that you conjure are more resilient than normal. Any beast or fey
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Empowered Allies
-The aura from your Spirits of the Wild provides extra protection to those creatures that you summon. Any fey or beast that you summon that ends its turn within the aura recovers stamina equal to 3 + your spellcasting attribute modifier.
+*The aura from your Spirits of the Wild provides extra protection to those creatures that you summon.* 
+
+Any fey or beast that you summon that ends its turn within the aura of Spirits of the Wild recovers stamina equal to 3 + your spellcasting attribute modifier.
 
 ### Protect the Keeper
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Spiritual Balm
-In your last breath you call for aid from those you have protected. When you are reduced to 0 stamina or are incapacitated against your will, you gain the benefits of the *Conjure Animals* spell as if cast using 9 mana, though requiring no concentration. Four CR 2 or lower beasts of your choice appear within 20 feet of you. Their duty is to protect you from harm and attack your enemies. 
+*In your last breath you call for aid from those you have protected.* 
+
+When you are reduced to 0 stamina or are incapacitated against your will, you gain the benefits of the Conjure Animals spell as if cast using 9 mana, though requiring no concentration. Four CR 2 or lower beasts of your choice appear within 20 feet of you. Their duty is to protect you from harm and attack your enemies. 
 
 The spell lasts for one hour, or until you dismiss it (no action required). Once you use this ability, you can't use it again until you finish a long rest. 

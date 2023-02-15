@@ -10,10 +10,10 @@ Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Th
 ## Branch Features
 
 ### Bonus Proficiencies
-You gain proficiency with four martial weapon groups and heavy armour.
+When you take your first talent from this branch, you gain proficiency with four martial weapon groups and heavy armour.
 
 ### Bonus Spells
-As a tempest cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
@@ -30,9 +30,9 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to wield the power of the storm with unchecked ferocity.
+*You wield the power of the storm with unchecked ferocity.*
 
-When you roll lightning or thunder damage, you can use your channel divinity to deal maximum damage, instead of rolling.
+When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
 ## Talents
 
@@ -46,10 +46,12 @@ When you roll lightning or thunder damage, you can use your channel divinity to 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, it must make a Dexterity defence check vs your passive spellcasting attack score. If the creature fails the defence check, it takes 1d8 lightning damage and 1d8 thunder damage. If the creature succeeds at the defence check, it takes half as much damage.
+#### **Cost:** 5 Character Points<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 5 feet of you.
+*You can thunderously rebuke attackers.* 
 
-You can rebuke a number of attacks equal to your spellcasting attribute modifier (minimum one). Wrath of the Storm always triggers automatically when you are hit, unless you declare on your turn that you will not use it in response to being hit by certain targets. Alternatively, you can also declare that you will only use Wrath of the Storm when hit by a specific target. You regain all expended uses when you finish a long rest.
+When a creature within 5 feet of you hits you with an attack, it must make a Dexterity defense check vs your spellcasting skill. It takes 1d8 lightning damage and 1d8 thunder damage on a fail, or half as much on a success.
+
+This ability triggers once per round and automatically on the first attack to hit you each round, unless you declare on your turn or when you roll intitiative that it will trigger from attacks by a specified creature, or not to use it at all. You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest.
 
 ### Thunderbolt Strike
 

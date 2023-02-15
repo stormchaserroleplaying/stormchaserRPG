@@ -26,10 +26,10 @@ If you have a bonus spell that doesn’t appear on the divine spell list, that s
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
-You can use your channel divinity to tap into a divine well of knowledge. 
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You can use your Channel Divinity to tap into a divine well of knowledge.*
 
-Using 2 actions, you choose one skill or tool. For 10 minutes, you gain +1d for the chosen skill or tool.
+You can choose one skill or tool. For 10 minutes, you gain +1d on checks using the chosen skill or tool.
 
 ## Talents
  
@@ -50,19 +50,21 @@ You learn two languages (accented) of your choice. You also gain expertise in yo
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge
-You can use your channel divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
+*You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.*
 
-Using 2 actions, choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, you can’t use this feature on the same creature again until you finish a long rest.
+Choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, then you can’t use this feature on the same creature again until you finish a long rest.
 
-If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute. During that time, you can use 2 actions to end this effect and cast the suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
+If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute. During that time, you can use 2 Actions to end this effect and cast the Suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
 
 ### Visions of the Past
  
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Read Thoughts
-You can call up visions of the past that relate to an object you hold or to your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your spellcasting attribute score and must maintain concentration during that time, as if you were casting a spell.
+*You can call up visions of the past that relate to an object you hold or to your immediate surroundings.* 
+
+You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your spellcasting attribute score and must maintain concentration during that time, as if you were casting a spell.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 

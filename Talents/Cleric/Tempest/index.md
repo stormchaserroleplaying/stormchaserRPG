@@ -10,7 +10,7 @@ Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Th
 ## Branch Features
 
 ### Bonus Proficiencies
-When you take your first talent in this branch, you gain proficiency with four martial weapon groups and heavy armour.
+When you take your first talent from this branch, you gain proficiency with four martial weapon groups and heavy armour.
 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
@@ -30,7 +30,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 <div style="margin-top:-10px;"></div>
  
 #### **Prerequisite:** Channel Divinity
-*You weild the power of the storm with unchecked ferocity.*
+*You wield the power of the storm with unchecked ferocity.*
 
 When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 

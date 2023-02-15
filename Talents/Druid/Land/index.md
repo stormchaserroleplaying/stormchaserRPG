@@ -10,7 +10,7 @@ Land druids are typically mystics and sages who safeguard ancient knowledge and 
 ## Branch Features
 
 ### Bonus Cantrip
-When you take your first talent in this branch, you learn one additional cantrip from the divine spell list.
+When you take your first talent from this branch, you learn one additional cantrip from the divine spell list.
 
 ### Bonus Spells
 Select which terrain influences you the most: arctic, coast, desert, forest, grassland, mountain, subterranean or swamp. You gain the following spells associated with that terrain once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.

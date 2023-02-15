@@ -49,7 +49,7 @@ You choose one creature you can see within 30 feet of you, cursing it until the 
 
 When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die. 
 
-You also learn the Spare the Dying cantrip, which doesn't count towards the number of cleric cantrips that you know. For you, it can be cast using 1 Action, does not require verbal components to cast and has a range of 30-feet.
+You also learn the Spare the Dying cantrip, which doesn't count towards the number of divine cantrips that you know. For you, it can be cast using 1 Action, does not require verbal components to cast and has a range of 30-feet.
 
 ### Eyes of the Grave
  

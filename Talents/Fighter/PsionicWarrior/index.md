@@ -5,10 +5,10 @@ grand_parent: Talents
 ---
 
 # Psionic Warrior
-*Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force.*
+Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force.
 
 ## Branch Features
-You gain the following features when taking your first Talent in this Branch.
+You gain the following features when taking your first Talent from this Branch.
 
 ### Bonus Proficiency
 You also gain proficiency in the [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana) skill. If you are already proficient in it, you instead choose another skill.
@@ -17,19 +17,20 @@ You also gain proficiency in the [Arcana](https://stormchaserroleplaying.com/sto
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Psionic Power         | 5     | - |
-| Unleash Incarnation   | 5     | - |
-| Mirror Avatar         | 15    | Manifest Echo, Unleash Incarnation, and 4 other Fighter Talents |
-| Glass Martyr          | 25    | Mirror Avatar and 6 other Fighter Talents |
-| Reclaim Potential     | 65    | Glass Martyr and 9 other Fighter Talents |
-| Legion of One         | 80    | Reclaim Potential and 11 other Fighter Talents |
+| Psionic Power      | 5  | - |
+| Telekinetic Adept  | 15 | Psionic Power and 4 other Fighter Talents |
+| Guarded Mined      | 25 | Telekinetic Adept and 6 other Fighter Talents |
+| Bulwark of Force   | 65 | Guarded Mind and 9 other Fighter Talents |
+| Telekinetic Master | 80 | Bulkwark of Force and 11 other Fighter Talents |
 
 ### Psionic Power
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-*You harbor a wellspring of psionic energy within yourself.* This energy is represented by your Psionic Energy dice, which are equal to your martial feat die. You have a number of these dice equal to twice your Intelligence modifier, and they fuel various psionic powers you have, which are detailed below.
+*You harbour a wellspring of psionic energy within yourself.*
+
+This energy is represented by your Psionic Energy dice, which are equal to your martial feat die. You have a number of these dice equal to twice your Intelligence modifier and they fuel various psionic powers that you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. 
 
@@ -61,14 +62,18 @@ You can propel your body with your mind. You gain a flying speed equal to twice 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Haymaker and 6 other Fighter Talents
-*The psionic energy flowing through you has bolstered your mind.* You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+*The psionic energy flowing through you has bolstered your mind.*
+
+You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
 ### Bulwark of Force
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 65 Character Points<br>**Prerequisite:** Down But Not Out and 9 other Fighter Talents<br>**Actions:** 1 action
-*You can shield yourself and others with telekinetic force.* You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
+*You can shield yourself and others with telekinetic force.*
+
+You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
 
 Once you take this action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 
@@ -77,6 +82,8 @@ Once you take this action, you can't do so again until you finish a long rest, u
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Unbreakable and 11 other Fighter Talents
-*Your ability to move creatures and objects with your mind is matched by few.* You can cast the *Telekinesis* spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a free action.
+*Your ability to move creatures and objects with your mind is matched by few.*
+
+You can cast the *Telekinesis* spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a free action.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.

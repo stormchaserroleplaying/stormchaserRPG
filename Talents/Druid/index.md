@@ -12,7 +12,7 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 When you take your first druid talent, you learn Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check, but can’t decipher it without magic.
 
 ## Spell School Proficiencies
-If your first talent is a druid talent, you are trained in the following spell schools: Abjuration, Charms, Conjuration, Divination, Evocation, Restoration, and Transmutation.
+If your first talent is a druid talent, then you are trained in the following spell schools: Abjuration, Charms, Conjuration, Divination, Evocation, Restoration and Transmutation.
 
 ## Core Talents
 

@@ -23,7 +23,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
  
-If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
+If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
  
 | Spell Level | Spells |
 |:-----------:|:------:|
@@ -46,12 +46,12 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 ### Psionic Adept
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-You can form a telepathic connection between your mind and the mind of another. As a bonus action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your spellcasting ability modifier. To understand each other, you each must speak mentally in a language the other knows.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+*You can form a telepathic connection between your mind and the mind of another.*
 
-The telepathic connection lasts for a number of minutes equal to two times the maximum spell level which you know. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.
+Choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your spellcasting ability modifier. To understand each other, you each must speak mentally in a language the other knows.
 
-Additionally, new knowledge has a way of slipping into your mind. When you gain a new sorcerer talent you can replace one of the spells you gained from the Bonus Spell list shown above with another spell of the same level. The new spell must be a divination or enchantment spell from the arcane spell list.
+The telepathic connection lasts for a number of minutes equal to two times the maximum spell level which you can cast. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.
 
 ### Psionic Sorcery
  
@@ -71,8 +71,10 @@ You gain resistance to psychic damage and you benefit from +1d to your defenses 
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Psionic Sorcery, Psionic Defense
-You can unleash the aberrant truth hidden within yourself. As a bonus action, you can spend one or more mana to magically transform your body for 10 minutes. For each point of mana you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Psionic Sorcery, Psionic Defense<br>**Actions:** 1
+*You can unleash the aberrant truth hidden within yourself.* 
+
+You can spend one or more mana to magically transform your body for 10 minutes. For each mana you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
 * You can see any invisible creature within 60 feet of you, provided it isn’t behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 * You gain a flying speed equal to your walking speed and you can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
@@ -83,7 +85,9 @@ You can unleash the aberrant truth hidden within yourself. As a bonus action, yo
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Revelation in Flesh
-You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, make a spell casting attack against each creature within 30 feet of the space you left must versus their Strength defense. On a hit, a creature takes 3d10 energy damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a miss, the creature takes half as much damage and isn’t pulled.
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Revelation in Flesh<br>**Actions:** 2
+*You can unleash your aberrant power as a space-warping anomaly.* 
+
+You can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, make a spellcasting attack against each creature within 30 feet of the space you left must vs their Strength defense. On a hit, a creature takes 3d10 energy damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a miss, the creature takes half as much damage and isn’t pulled.
 
 Once you use this feature, you can’t do so again until you finish a long rest, unless you spend 5 mana to use it again.

@@ -5,7 +5,7 @@ has_children: true
 nav_order: 11
 ---
 
-# Sorcerer Talent Tree (Mage)
+# Sorcerer Talent Tree ([Mage](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/))
 Scions of innately magical bloodlines, the chosen of deities, the spawn of monsters, pawns of fate and destiny, or simply flukes of fickle magic, sorcerers look within themselves for arcane prowess and draw forth might few mortals can imagine. Emboldened by lives ever threatening to be consumed by their innate powers, these magic-touched souls endlessly indulge in and refine their mysterious abilities, gradually learning how to harness their birthright and coax forth ever greater arcane feats. Just as varied as these innately powerful spellcasters’ abilities and inspirations are the ways in which they choose to utilise their gifts. While some seek to control their abilities through meditation and discipline, becoming masters of their fantastic birthright, others give in to their magic, letting it rule their lives with often explosive results. Regardless, sorcerers live and breathe that which other spellcasters devote their lives to mastering, and for them magic is more than a boon or a field of study; it is life itself.
 
 ## Spellcasting
@@ -37,7 +37,9 @@ Additionally, whenever you gain a sorcerer talent, you can choose one of the mag
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Other Sorcerer Talent
-*You tap into a deep wellspring of magic within yourself. This wellspring is represented by additional mana and the ability to create a variety of magical effects.*
+*You tap into a deep wellspring of magic within yourself.*
+
+This wellspring is represented by additional mana and the ability to create a variety of magical effects.
 
 You gain an amount of additional mana equal to the total number of sorcerer talents that you have taken.
 
@@ -121,6 +123,3 @@ You regain 4 expended mana whenever you finish a short rest.
 Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Sorcerer Talent Tree Branches
-* Aberrant Mind
-* Clockwork Soul
-

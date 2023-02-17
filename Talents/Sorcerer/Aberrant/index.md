@@ -23,7 +23,7 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
  
-If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
+If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
  
 | Spell Level | Spells |
 |:-----------:|:------:|
@@ -75,7 +75,6 @@ You gain resistance to psychic damage and you benefit from +1d to your defenses 
 *You can unleash the aberrant truth hidden within yourself.* 
 
 You can spend one or more mana to magically transform your body for 10 minutes. For each mana you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
-
 * You can see any invisible creature within 60 feet of you, provided it isn’t behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 * You gain a flying speed equal to your walking speed and you can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
 * You gain a swimming speed equal to twice your walking speed and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.

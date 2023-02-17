@@ -24,6 +24,12 @@ While raging, the barbarian gains a bite attack that deals 1d4 points of piercin
 
 Additionally, a barbarian can spend a rage point to make a bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple checks made by the barbarian against the target this round have +1d.
 
+## Armor Ripper
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 1 Feral Soul Talent
+Attacks made with natural weapons from your Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (ex. Bites, Claws, etc.) gain the Sunder property.
+
 ## Auspicious Mark
 
 <div style="margin-top:-10px;"></div>
@@ -65,6 +71,62 @@ You can spend 2 rage points after a successful attack to impose the [weakened](h
 
 #### **Rage Point Cost:** 1 Point
 When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
+
+## Celestial Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 1 Fanatic talent
+Whenever you are subject to a spell that restores stamina, you regain an additional amount equal to the caster’s spellcasting modifier. If the source is not a spell, you regain additional stamina equal to ((Insert scaling source here)).
+
+## Celestial Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point<br>**Prerequisite:** Celestial Totem, Lesser and 2 Fanatic talents
+While raging, you gain the ability to see invisible creatures, and any invisible creature within 10 feet of you is wreathed in a halo of light, this making them visible. This ability only affects non-good creatures.
+
+## Celestial Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point<br>**Prerequisite:** Celestial Totem and 3 Fanatic talents
+While raging, you gain +1d on all defenses against spells.
+
+## Clear Mind
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 3 Barbarian talents
+Once per rage, you can reroll any mental check (Intelligence, Wisdom, or Charisma) to end an effect on yourself.
+
+## Come and Get Me
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point
+Each enemy within melee range can attack you once.These attacks against you receive +1d to the attack roll. For each enemy that attacks you in this way, you can instantly make a melee attack in return.
+
+## Crippling Blow
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 points
+When using a Power Attack, you can choose to forego your rage damage dice and half of your damage bonus from Strength or Dexterity. If you do, make a rage attack roll against either the target’s Strength or Dexterity defense. On a hit, you reduce the chosen defense’s ability by 1 for every 2 Barbarian talents you have taken (round down). This penalty does not stack with multiple hits. A target can attempt a Wisdom (Medicine) check to remove this effect.
+
+## Cult Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 point
+While you are flanking or receive an attack bonus due to elevation (including prone), you can instead add 1 rage damage die to your damage roll instead.
+
+## Cult Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 point<br>**Prerequisite:** Cult Totem, Lesser
+At the start of your turn, you can instantly attack any target within reach who has attacked one of your allies since your last turn.
 
 ## Focus of the Ascetic
 

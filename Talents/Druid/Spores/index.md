@@ -32,13 +32,16 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Halo of Spores     | 5  | - |   
-| Symbiotic Entity   | 5  | Halo of Spores |   
-| Fungal Infestation | 10 | 3rd Level Spells and Symbiotic Entity |   
-| Spreading Spores   | 25 | 5th Level Spells and Fungal Infestation |   
-| Fungal Body        | 50 | 7th Level Spells and Spreading Spores |  
+| Halo of Spores I   | 5  | - |   
+| Symbiotic Entity   | 5  | Halo of Spores I |   
+| Fungal Infestation | 5  | 3rd Level Spells and Symbiotic Entity |
+| Halo of Spores II  | 5  | 3rd Level Spells and Halo of Spores I |   
+| Spreading Spores   | 20 | 5th Level Spells and Fungal Infestation | 
+| Halo of Spores III | 5  | 5th Level Spells and Halo of Spores II |   
+| Fungal Body        | 45 | 7th Level Spells and Spreading Spores |  
+| Halo of Spores IV  | 5  | 7th Level Spells and Halo of Spores III |   
 
-### Halo of Spores
+### Halo of Spores I
 
 <div style="margin-top:-10px;"></div>
 
@@ -66,27 +69,38 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity<br>**Action:** Free<br>**Trigger:** A small or medium beast or humoid dies within 10 feet of you.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity<br>**Action:** Free<br>**Trigger:** A small or medium beast or humoid dies within 10 feet of you.
 *Your spores can infest a corpse and animate it.*
 
 If a beast or a humanoid that is small or medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the ***zombie*** stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Strike action, making one melee attack.
 
 This ability can trigger only once per round. You can use this ability a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
 
-Additionally, your Halo of Spores damage die increases to 1d6.
+
+### Halo of Spores II
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Halo of Spores I
+Your Halo of Spores damage die increases to 1d6.
 
 ### Spreading Spores
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation<br>**Actions:** 1, Free<br>**Trigger** A creature moves into the area of your Spreading Spores.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 5th Level Spells and Fungal Infestation<br>**Actions:** 1, Free<br>**Trigger** A creature moves into the area of your Spreading Spores.
 *You gain the ability to seed an area with deadly spores.*
 
 Using 1 action, while your Symbiotic Entity is active, you can hurl spores up to 30 feet away, where they swirl in a 10-foot cube for 1 minute. The spores disappear early if you use this ability again, if you dismiss them using 1 action, or if your Symbiotic Entity is no longer active.
 
 Whenever a creature moves into the area on their turn or starts its turn there, it must make a Constitution defense check vs your spellcasting skill. If it fails, then the creature takes damage equal to your Halo of Spores damage. While the cube of spores persists, creatures do not take damage from your Halo of Spores.
 
-Additionally, your Halo of Spores damage die increases to 1d8.
+### Halo of Spores III
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells and Halo of Spores II
+Your Halo of Spores damage die increases to 1d8.
 
 ### Fungal Body
 
@@ -97,4 +111,9 @@ Additionally, your Halo of Spores damage die increases to 1d8.
 
 You can’t be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you’re incapacitated.
 
-Additionally, your Halo of Spores damage die increases to 1d10.
+### Halo of Spores IV
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 7th Level Spells and Halo of Spores IV
+Your Halo of Spores damage die increases to 1d10.

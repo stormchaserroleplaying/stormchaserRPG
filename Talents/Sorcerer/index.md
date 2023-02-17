@@ -95,14 +95,14 @@ When you make an ability check that fails, you can spend 1 mana to reroll the d2
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
-Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know when another from the list.
+Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Arcane Savant III
 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 65 Character Points<br>**Prerequisite:** 8th Level Spells and 5 Other Sorcerer Talents
-Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know when another from the list.
+Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Sorcerous Restoration
 

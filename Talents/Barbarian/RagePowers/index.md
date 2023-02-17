@@ -77,14 +77,14 @@ When you hit with an attack, You can spend 1 rage point to change the damage typ
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Fanatic Talent
-Whenever you are subject to a spell that restores stamina, you regain an additional amount equal to the caster’s spellcasting modifier. If the source is not a spell, you regain additional stamina equal to ((Insert scaling source here)).
+Whenever you are subject to a spell that restores stamina, you regain an additional amount of stamina equal to twice the spell’s level.
 
 ## Celestial Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem, Lesser and 2 Fanatic Talents
-While raging, you gain the ability to see invisible creatures, and any invisible creature within 10 feet of you is wreathed in a halo of light, this making them visible. This ability only affects non-good creatures.
+Gain a halo that shines as daylight and triggers [Invisibility Purge]() (only reveals non-good creatures) in your square and each adjacent square.
 
 ## Celestial Totem, Greater
 
@@ -98,14 +98,14 @@ While raging, you gain +1d on all defenses against spells.
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 3 Barbarian Talents
-Once per rage, you can reroll any mental check (Intelligence, Wisdom, or Charisma) to end an effect on yourself.
+Once per rage, you can reroll any mental check (Intelligence-, Wisdom-, or Charisma-based) to end an effect on yourself.
 
 ## Come and Get Me
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
-Each enemy within melee range can attack you once.These attacks against you receive +1d to the attack roll. For each enemy that attacks you in this way, you can instantly make a melee attack in return.
+Each enemy within melee range can attack you once. These attacks against you receive +1d to the attack roll. For each enemy that attacks you in this way, you can instantly make a melee attack in return.
 
 ## Crippling Blow
 
@@ -126,7 +126,7 @@ While you are flanking or receive an attack bonus due to elevation (including pr
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
-At the start of your turn, you can instantly attack any target within reach who has attacked one of your allies since your last turn.
+As a free action at the start of your turn, you can attack any target within reach who has attacked one of your allies since your last turn.
 
 ## Focus of the Ascetic
 

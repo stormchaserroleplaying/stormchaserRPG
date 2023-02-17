@@ -76,56 +76,56 @@ When you hit with an attack, You can spend 1 rage point to change the damage typ
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 1 Fanatic talent
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Fanatic Talent
 Whenever you are subject to a spell that restores stamina, you regain an additional amount equal to the caster’s spellcasting modifier. If the source is not a spell, you regain additional stamina equal to ((Insert scaling source here)).
 
 ## Celestial Totem
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point<br>**Prerequisite:** Celestial Totem, Lesser and 2 Fanatic talents
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem, Lesser and 2 Fanatic Talents
 While raging, you gain the ability to see invisible creatures, and any invisible creature within 10 feet of you is wreathed in a halo of light, this making them visible. This ability only affects non-good creatures.
 
 ## Celestial Totem, Greater
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point<br>**Prerequisite:** Celestial Totem and 3 Fanatic talents
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem and 3 Fanatic Talents
 While raging, you gain +1d on all defenses against spells.
 
 ## Clear Mind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 3 Barbarian talents
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 3 Barbarian talents
 Once per rage, you can reroll any mental check (Intelligence, Wisdom, or Charisma) to end an effect on yourself.
 
 ## Come and Get Me
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point
+#### **Rage Point Cost:** 1 Point
 Each enemy within melee range can attack you once.These attacks against you receive +1d to the attack roll. For each enemy that attacks you in this way, you can instantly make a melee attack in return.
 
 ## Crippling Blow
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 2 points
+#### **Rage Point Cost:** 2 Points
 When using a Power Attack, you can choose to forego your rage damage dice and half of your damage bonus from Strength or Dexterity. If you do, make a rage attack roll against either the target’s Strength or Dexterity defense. On a hit, you reduce the chosen defense’s ability by 1 for every 2 Barbarian talents you have taken (round down). This penalty does not stack with multiple hits. A target can attempt a Wisdom (Medicine) check to remove this effect.
 
 ## Cult Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point
+#### **Rage Point Cost:** 1 Point
 While you are flanking or receive an attack bonus due to elevation (including prone), you can instead add 1 rage damage die to your damage roll instead.
 
 ## Cult Totem
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 2 point<br>**Prerequisite:** Cult Totem, Lesser
+#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
 At the start of your turn, you can instantly attack any target within reach who has attacked one of your allies since your last turn.
 
 ## Focus of the Ascetic
@@ -174,7 +174,7 @@ You can spend 3 rage points as part of your move to leap into the air. The dista
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1-3 points
+#### **Rage Point Cost:** 1-3 Points
 When you hit a target you can expend rage points to gain temporary stamina. When you do so, the amount of temporary stamina gained is equal to the number of rage points spent, multiplied by 5.
 
 ## Rip and Tear

@@ -88,12 +88,3 @@ You are one with nature. Your spellcasting ability score increases by 4, and you
 Additionally, you can use your Wild Shape at 1st level an unlimited number of times, and you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren’t consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
 ## Druid Talent Tree Branches
-* Dream
-* Firethorn
-* Land
-* Menhir
-* Primal
-* Spores
-* Stargazer
-* Warden
-* Wildfire

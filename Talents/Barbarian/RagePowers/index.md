@@ -27,7 +27,7 @@ Additionally, a barbarian can spend a rage point to make a bite attack as part o
 ## Armor Ripper
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 point<br>**Prerequisite:** 1 Feral Soul Talent
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Feral Soul Talent
 Attacks made with natural weapons from your Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (ex. Bites, Claws, etc.) gain the Sunder property.
 
 ## Auspicious Mark
@@ -97,7 +97,7 @@ While raging, you gain +1d on all defenses against spells.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 3 Barbarian talents
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 3 Barbarian Talents
 Once per rage, you can reroll any mental check (Intelligence, Wisdom, or Charisma) to end an effect on yourself.
 
 ## Come and Get Me

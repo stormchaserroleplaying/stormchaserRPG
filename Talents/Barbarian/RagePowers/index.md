@@ -111,22 +111,22 @@ As a free action, you may leave yourself open to attack while preparing devastat
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 2 Points
-When using a Power Attack, you can choose to forego your rage damage dice and half of your damage bonus from Strength or Dexterity. If you do, make a rage attack roll against either the target’s Strength or Dexterity defense. On a hit, you reduce the chosen defense’s ability by 1 for every 2 Barbarian talents you have taken (round down). This penalty does not stack with multiple hits. A target can attempt a Wisdom (Medicine) check to remove this effect.
+#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Powerful Blow
+When using your powerful blow rage power, you can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead roll your martial feat die and deal the damage as ability damage to the target’s Strength or Dexterity score. As a free action, at the start of its next turn the target can attempt a Constitution defence check vs your weapon skill to halve this ability damage.
 
 ## Cult Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
-While you are flanking or receive an attack bonus due to elevation (including prone), you can instead add 1 rage damage die to your damage roll instead.
+Whenever you would gain +1d to attack from a morale bonus or from flanking, you instead add one additional martial feat die to your damage roll.
 
 ## Cult Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
-As a free action at the start of your turn, you can attack any target within reach who has attacked one of your allies since your last turn.
+WHenever a creature within your reach damages an ally of yours with a melee attack, you may make an attack of opportunity against it. Only the enemy, not your ally, needs to be within your melee reach in order for you to make this attack of opportunity. Once you use this ability to make an attack of opportunity against a creature, you can’t use this ability to make an attack of opportunity against the same creature until you complete a long rest.
 
 ## Focus of the Ascetic
 
@@ -169,6 +169,13 @@ When you deal damage with a melee or thrown weapon attack, you can spend 2 rage 
 
 #### **Rage Point Cost:** 3 Points
 You can spend 3 rage points as part of your move to leap into the air. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
+
+## Powerful Blow
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+You add your martial feat die to a single damage roll. This power is used as a free action before the roll to hit is made and can only be used once per rage.
 
 ## Reaping
 

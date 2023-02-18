@@ -24,6 +24,12 @@ While raging, the barbarian gains a bite attack that deals 1d4 points of piercin
 
 Additionally, a barbarian can spend a rage point to make a bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple checks made by the barbarian against the target this round have +1d.
 
+## Armour Ripper
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Feral Soul Talent
+Attacks made with natural weapons from the Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (e.g. bites, claws, etc.) gain the Sunder 1 property.
+
 ## Auspicious Mark
 
 <div style="margin-top:-10px;"></div>
@@ -65,6 +71,62 @@ You can spend 2 rage points after a successful attack to impose the [weakened](h
 
 #### **Rage Point Cost:** 1 Point
 When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
+
+## Celestial Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+Whenever you are subject to a spell that restores stamina, you regain an additional amount of stamina equal to twice the spell’s level.
+
+## Celestial Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem, Lesser
+This effect bestows a halo of gleaming light upon you. The halo shines as if it were daylight and triggers an [Invisibility Purge]() effect in your square and each adjacent square. The invisibility purge only affects non-good creatures.
+
+## Celestial Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem
+You gain +1d on all defenses against spells with the Evil trait. You also gains +1d to all defences against spells and effects from evil creatures.
+
+## Clear Mind
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-based) check made to end an effect on yourself.
+
+## Come and Get Me
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+As a free action, you may leave yourself open to attack while preparing devastating counterattacks. Enemies gain +1d on attack and damage rolls against you until the beginning of your next turn, but every attack against you provokes an attack of opportunity from you, which is resolved prior to resolving each enemy attack.
+
+## Crippling Blow
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Powerful Blow
+When using your powerful blow rage power, you can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead roll your martial feat die and deal the damage as ability damage to the target’s Strength or Dexterity score. As a free action, at the start of its next turn the target can attempt a Constitution defence check vs your weapon skill to halve this ability damage.
+
+## Cult Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+Whenever you would gain +1d to attack from a morale bonus or from flanking, you instead add one additional martial feat die to your damage roll.
+
+## Cult Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
+WHenever a creature within your reach damages an ally of yours with a melee attack, you may make an attack of opportunity against it. Only the enemy, not your ally, needs to be within your melee reach in order for you to make this attack of opportunity. Once you use this ability to make an attack of opportunity against a creature, you can’t use this ability to make an attack of opportunity against the same creature until you complete a long rest.
 
 ## Focus of the Ascetic
 
@@ -108,11 +170,18 @@ When you deal damage with a melee or thrown weapon attack, you can spend 2 rage 
 #### **Rage Point Cost:** 3 Points
 You can spend 3 rage points as part of your move to leap into the air. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
 
+## Powerful Blow
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+You add your martial feat die to a single damage roll. This power is used as a free action before the roll to hit is made and can only be used once per rage.
+
 ## Reaping
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1-3 points
+#### **Rage Point Cost:** 1-3 Points
 When you hit a target you can expend rage points to gain temporary stamina. When you do so, the amount of temporary stamina gained is equal to the number of rage points spent, multiplied by 5.
 
 ## Rip and Tear

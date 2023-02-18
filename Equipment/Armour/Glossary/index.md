@@ -49,7 +49,7 @@ Concealed armour can be worn inconspicuously under clothing.  When only conceale
 ### Cover
 Attempts to overrun or tumble through your space while you are wielding this shield, treat your space as difficult terrain and suffer disadvantage.
 
-As an action, you can set down a shield with the cover property as stationary protection. The shield faces in a direction of your choice, and it takes an action to change its orientation. You benefit from three-quarters cover instead of the shield's bonus to Strength defence, and one adjacent ally standing behind you benefit from half-cover. You get no cover from attacks that pass through other edges of your square.
+As an action, you can set down a shield with the cover property as stationary protection. The shield faces in a direction of your choice and it takes an action to change its orientation. You benefit from greater cover instead of the shield's bonus to Dexterity defence, and one adjacent ally standing behind you benefit from standard cover. You get no cover from attacks that pass through other edges of your square.
 
 While wielding this shield, you suffer disadvantage on melee and ranged attacks, unless you are wielding a light weapon or a spear. 
 

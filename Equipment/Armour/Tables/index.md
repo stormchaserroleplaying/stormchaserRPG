@@ -21,7 +21,7 @@ The armour tables show the cost, weight and other properties of the common types
 | Fur Cloak | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, bulky, clothing | 5 lb. | 5 gp |
 | Overcoat | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">, bulky, clothing | 5 lb. | 5 gp |
 | Hide Cloak | Cloak | — | +4 | 9 | +1 DR vs <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png">, bulky, clothing | 5 lb. | 5 gp |
-| Buckler | Shield | — | +5 | 9 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
+| Buckler | Shield | — | +4 | 9 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
 
 ##### Medium Armour
 
@@ -37,8 +37,8 @@ The armour tables show the cost, weight and other properties of the common types
 | Chain Shirt | Torso | +4 | +2 | 13 | Concealed, coverage 11-16, shirt, soak <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 25 lb. | 50 gp |
 | Chain | Legs | +1 | +2 | 13 | Bulky, coverage 1, noisy | 10 lb. | 13 gp |
 | Chain Coif | Head | — | — | 11 | Coverage 4 | 5 lb. | 15 gp |
-| Shield, wooden | Shield | — | +4 | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 5 lb. | 3 gp |
-| Shield, steel | Shield | — | +4 | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 6 lb. | 9 gp |
+| Shield, wooden | Shield | — | +3 | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 5 lb. | 3 gp |
+| Shield, steel | Shield | — | +3 | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 6 lb. | 9 gp |
 
 ##### Heavy Armour
 
@@ -51,9 +51,9 @@ The armour tables show the cost, weight and other properties of the common types
 | Breastplate | Torso | +5 | +1 | 15 | Coverage 8-16, hard, shirt | 20 lb. | 200 gp |
 | Plate | Legs | +2 | +1 | 15 | Bulky, coverage 1 5-7, hard, noisy | 15 lb. | 925 gp |
 | Plate Helmet | Head | — | — | 13 | Coverage 4, hard, visor | 10 lb. | 45 gp |
-| Shield, wooden | Shield | — | +3 | 13 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 10 lb. | 7 gp |
-| Shield, steel | Shield | — | +3 | 13 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 15 lb. | 20 gp |
-| Shield, tower | Shield | — | +2 | 15 | Bulky, cover, shield 4 | 45 lb. | 30 gp |
+| Shield, wooden | Shield | — | +2 | 13 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 10 lb. | 7 gp |
+| Shield, steel | Shield | — | +2 | 13 | Bashing (1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 15 lb. | 20 gp |
+| Shield, tower | Shield | — | +1 | 15 | Bulky, cover, shield 4 | 45 lb. | 30 gp |
 
 ##### Extras
 

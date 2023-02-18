@@ -24,11 +24,11 @@ While raging, the barbarian gains a bite attack that deals 1d4 points of piercin
 
 Additionally, a barbarian can spend a rage point to make a bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple checks made by the barbarian against the target this round have +1d.
 
-## Armor Ripper
+## Armour Ripper
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Feral Soul Talent
-Attacks made with natural weapons from your Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (ex. Bites, Claws, etc.) gain the Sunder property.
+Attacks made with natural weapons from the Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (e.g. bites, claws, etc.) gain the Sunder 1 property.
 
 ## Auspicious Mark
 
@@ -76,36 +76,36 @@ When you hit with an attack, You can spend 1 rage point to change the damage typ
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 1 Fanatic Talent
+#### **Rage Point Cost:** 1 Point
 Whenever you are subject to a spell that restores stamina, you regain an additional amount of stamina equal to twice the spell’s level.
 
 ## Celestial Totem
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem, Lesser and 2 Fanatic Talents
-Gain a halo that shines as daylight and triggers [Invisibility Purge]() (only reveals non-good creatures) in your square and each adjacent square.
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem, Lesser
+This effect bestows a halo of gleaming light upon you. The halo shines as if it were daylight and triggers an [Invisibility Purge]() effect in your square and each adjacent square. The invisibility purge only affects non-good creatures.
 
 ## Celestial Totem, Greater
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem and 3 Fanatic Talents
-While raging, you gain +1d on all defenses against spells.
+#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** Celestial Totem
+You gain +1d on all defenses against spells with the Evil trait. You also gains +1d to all defences against spells and effects from evil creatures.
 
 ## Clear Mind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point<br>**Prerequisite:** 3 Barbarian Talents
-Once per rage, you can reroll any mental check (Intelligence-, Wisdom-, or Charisma-based) to end an effect on yourself.
+#### **Rage Point Cost:** 1 Point
+Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-based) check made to end an effect on yourself.
 
 ## Come and Get Me
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
-Each enemy within melee range can attack you once. These attacks against you receive +1d to the attack roll. For each enemy that attacks you in this way, you can instantly make a melee attack in return.
+As a free action, you may leave yourself open to attack while preparing devastating counterattacks. Enemies gain +1d on attack and damage rolls against you until the beginning of your next turn, but every attack against you provokes an attack of opportunity from you, which is resolved prior to resolving each enemy attack.
 
 ## Crippling Blow
 

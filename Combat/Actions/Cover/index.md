@@ -11,5 +11,3 @@ grand_parent: Combat
 You press yourself against a wall or duck behind an obstacle to take better advantage of [cover](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Cover/). If you would have standard cover, you instead gain greater cover. Otherwise, you gain the benefits of standard cover.
 
 This lasts until you move from your current space, use an attack action, become unconscious, or end this effect as a free action.
-
-While using the Take Cover action, you do not benefit from any proficiency bonus to your dexterity defence.

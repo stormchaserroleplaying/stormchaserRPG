@@ -65,13 +65,6 @@ No one strikes you without reprisal in kind. At the start of your turn, if you w
 #### **Rage Point Cost:** 2 Points
 You can spend 2 rage points after a successful attack to impose the [weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on a target. This effect lasts until the target passes a successful Constitution defence check.
 
-## Death Dealer
-
-<div style="margin-top:-10px;"></div>
-
-#### **Rage Point Cost:** 1 Point
-When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
-
 ## Celestial Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
@@ -128,6 +121,20 @@ Whenever you would gain +1d to attack from a morale bonus or from flanking, you 
 #### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
 WHenever a creature within your reach damages an ally of yours with a melee attack, you may make an attack of opportunity against it. Only the enemy, not your ally, needs to be within your melee reach in order for you to make this attack of opportunity. Once you use this ability to make an attack of opportunity against a creature, you can’t use this ability to make an attack of opportunity against the same creature until you complete a long rest.
 
+## Death Dealer
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+When you hit with an attack, you can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
+
+## Fleshrender
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 3 Points
+Make a melee attack roll against a target. On a hit, make a rage attack roll against the target's Constitution defence. On a hit, you force the target to roll for an [Injury]().
+
 ## Focus of the Ascetic
 
 <div style="margin-top:-10px;"></div>
@@ -148,6 +155,13 @@ When you hit a target with a melee or thrown weapon attack, you can spend 4 rage
 
 #### **Rage Point Cost:** 1 Point
 When you throw a ranged weapon, you can put the full force of your rage behind it. By spending up to 3 rage points, you can add an additional weapon damage die for each point spent in this way. If you spend at least 2 rage points in this way, the target is also knocked prone. Your maximum range also increases by 5 times your Strength modifier and your long range threshold replaces your short range.
+
+## Inspire Ferocity
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point per Ally<br>**Prerequisite:** Reckless Attack
+As an action, you can grant allies within 30 feet the benefit (and penalty) of your Reckless Attack talent. This effect lasts for a number of rounds equal to your Charisma modifier.
 
 ## Intimidating Glare
 
@@ -170,12 +184,40 @@ When you deal damage with a melee or thrown weapon attack, you can spend 2 rage 
 #### **Rage Point Cost:** 3 Points
 You can spend 3 rage points as part of your move to leap into the air. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
 
+## Moon Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+While raging, you gain darkvision with a range of 30 feet. If you already have darkvision, then the range of your darkvision increases by 30 feet while you are raging.
+
+## Moon Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+While raging, you gains +1d on Perception checks to pinpoint the location of an unseen creature. Unseen attackers gain no bonus on attacks against the barbarian.
+
+## Moon Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+While raging, you ignores the miss chance for concealment and treat total concealment as concealment.
+
 ## Powerful Blow
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
 You add your martial feat die to a single damage roll. This power is used as a free action before the roll to hit is made and can only be used once per rage.
+
+## Raging Skald
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points
+If you unleash a [Berserker’s Cry]() as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Constitution bonus (if any).
 
 ## Reaping
 
@@ -191,6 +233,13 @@ When you hit a target you can expend rage points to gain temporary stamina. When
 #### **Rage Point Cost:** 1 Point
 When you make deal damage with two consecutive melee attacks, you can spend 3 rage points to inflict the damage caused by one of the attacks plus 1-1/2 times your Strength modifier.
 
+## Rolling Dodge
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points
+Your Dexterity defense vs ranged attacks increases by +1d for a number of rounds equal to your Constitution modifier.
+
 ## Scatter the Hordes
 
 <div style="margin-top:-10px;"></div>
@@ -204,6 +253,34 @@ While you are grappling a target of equal or smaller size, you can spend 3 Rage 
 
 #### **Rage Point Cost:** 1 Point
 When you grapple a target while raging, if you have a free hand, then you can spend 1 rage point strangle the target in place of an unarmed attack. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an attack to maintain the strangle hold. As long as you do so, the target is [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
+
+## Shadow Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points<br>**Prerequisite:** Darkvision 60 ft.
+While raging, each time that you score a critical hit, your weapon surges with draining shadows. Make a rage attack vs the Constitution defence of the target. On a hit, the target takes 1d4 Strength damage. This is a negative energy effect.
+
+## Shadow Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points
+Once per rage, as an action, you can take on a shadowy form until the end of your turn. While in this form, you gain the incorporeal subtype. You have resistance to damage from corporeal sources, as long as they are magic (and no damage from non-magical weapons and objects). Likewise, corporeal creatures have resistance to damage dealt by any magical effects that you create. Your manufactured and natural weapons count as ghost touch weapons while incorporeal in this manner. Spells and other effects that do not deal damage function normally. While you are incorporeal, you can pass through a wall or other surface that is up to 5 feet thick per barbarian talent that you have. You must exit the solid material by the end of your turn.
+
+## Shadow Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points
+While raging, you gain the see in darkness ability, allowing you to see perfectly to any distance in darkness, including magical darkness. You are immune to blindness while raging. In addition, the Strength damage that you deal on critical hits from your lesser shadow totem increases to 1d6.
+
+## Spell Sunder
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 3 Points<br>**Prerequisite:** None
+Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a melee attack roll. For any effect other than one on a creature, you must make your melee attack roll against a DC of 15 plus the spell's level. To sunder an effect on a creature, the melee attack must also hit the creature, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceed the DC by 5 or more.
 
 ## Trample
 

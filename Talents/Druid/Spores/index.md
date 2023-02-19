@@ -48,7 +48,7 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 #### **Cost:** 5 Character Points<br>**Action:** Free<br>**Trigger:** A hostile creature that you can see moves within 10 feet of you.
 *You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby.* 
 
-When a creature comes within range, it must make a Constituion defense check vs your spellcasting skill. If it fails, then the creature takes 1d4 rot damaage. 
+When a creature comes within range, it must make a Constitution defense check vs your spellcasting skill. If it fails, then the creature takes 1d4 rot damaage. 
 
 You can use this ability once per round and it will trigger automatically upon the first hostile creature to come within range. Alternatively, on your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round.
 

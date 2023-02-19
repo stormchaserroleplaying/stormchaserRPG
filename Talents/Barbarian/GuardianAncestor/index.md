@@ -74,7 +74,9 @@ The damage reduction of your Spirit Shield increases to 3d6.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** Consult the Spirits and 10 Other Barbarian Talents
-Your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of sacred damage equal to the damage that your Spirit Shield prevents.
+*Your ancestral spirits grow powerful enough to retaliate.*
+
+When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of sacred damage equal to the damage that your Spirit Shield prevents.
 
 ### Ancestral Protectors, Greater
 

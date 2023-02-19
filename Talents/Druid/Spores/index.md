@@ -72,7 +72,7 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Symbiotic Entity<br>**Action:** Free<br>**Trigger:** A small or medium beast or humoid dies within 10 feet of you.
 *Your spores can infest a corpse and animate it.*
 
-If a beast or a humanoid that is small or medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the ***zombie*** stat block in the beastiary. It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Strike action, making one melee attack.
+If a beast or a humanoid that is small or medium dies within 10 feet of you, you can use a free action to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [Zombie]() stat block from the [Bestiary](https://stormchaserroleplaying.com/stormchaserRPG/Bestiary/). It remains animate for 1 hour, after which time it collapses and dies. In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Strike action, making one melee attack.
 
 This ability can trigger only once per round. You can use this ability a number of times equal to your spellcasting attribute modifier, and you regain all expended uses of it when you finish a long rest.
 

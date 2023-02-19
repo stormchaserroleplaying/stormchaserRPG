@@ -15,30 +15,20 @@ When you take your first valour talent, you may choose to either gain a fighting
 ## Talents
 
 | Talent | CP | Prerequisites | Bard Talents Required |
-|:------:|:--:|:-------------:|:---------------------------:|
-| Combat Inspiration | 5 | Bardic Inspiration | - |
-| Blade Flourish | 5 | Bardic Inspiration | - |
-| Extra Attack | 10 | Combat Inspiration and 3 other Bard Talents | 4 |
-| Battle Magic | 50 | Combat Inspiration, Extra Attack and 6 other Bard Talents | 8 |
-| Master's Flourish | 50 | Blade Flourish, Extra Attack and 6 other Bard Talents | 8 |
-
-### Combat Inspiration
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Inspiration
-You learn to inspire others in battle. A creature that has a bardic inspiration die from you can instead roll your martial feat die and add the number rolled to a weapon damage roll that it just made.
-
-If a creature has a bardic inspiration die from you and casts a spell that restores stamina or deals damage, then that creature can instead roll your martial feat die and choose a target affected by the spell. Add the number rolled as a bonus to the stamina regained or the damage dealt.
+|:------:|:--:|:-------------:|:---------------------:|
+| Blade Flourish    | 5  | Bardic Inspiration | - |
+| Extra Attack      | 10 | Blade Flourish and 3 other Bard Talents | 4 |
+| Battle Magic      | 50 | Extra Attack and 9 other Bard Talents | 10 |
+| Master's Flourish | 50 | Extra Attack and 9 other Bard Talents | 10 |
 
 ### Blade Flourish
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Inspiration
-You learn to perform impressive displays of martial prowess and speed.
+*You learn to perform impressive displays of martial prowess and speed that inspire others in battle.*
 
-Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn. If a weapon attack that you make as part of this action hits a creature, you can use one of the following blade flourish options of your choice. You can use only one blade flourish option once per turn.
+Whenever you take the Strike action on your turn, your walking speed increases by 10 feet until the end of the turn. If a weapon attack that you make as part of this action hits a creature, you can use one of the following blade flourish options of your choice. You can use only one blade flourish option once per turn.
 
 **Defensive Flourish.** You can expend one use of your bardic inspiration to cause the weapon to deal extra damage equal to your martial feat die to the target that you hit. You may also add +1d to your strength or dexterity defense until the start of your next turn.
 
@@ -46,23 +36,25 @@ Whenever you take the Attack action on your turn, your walking speed increases b
 
 **Mobile Flourish.** You can expend one use of your bardic inspiration to cause the weapon to deal extra damage equal to your martial feat die to the target that you hit. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.
 
+Additionally, a creature that has a bardic inspiration die from you can instead roll your martial feat die and add the number rolled to a weapon damage roll that it just made. If a creature has a bardic inspiration die from you casts a spell that restores stamina or deals damage, then that creature can instead roll your martial feat die and choose a target affected by the spell. Add the number rolled as a bonus to the stamina regained or the damage dealt.
+
 ### Extra Attack
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Combat Inspiration and 4 other Bard Talents
-You can attack twice, instead of once, whenever you take the Attack action on your turn.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 3 other Bard Talents
+Each turn, the first Strike action that you take does not count for the purposes of calculating your multiattack penalty.
 
 ### Battle Magic
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Combat Inspiration, Extra Attack and 6 other Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 9 other Bard Talents
 You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
 ### Master's Flourish
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Blade Flourish, Extra Attack and 6 other Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 9 other Bard Talents
 You can use blade flourish without expending a bardic inspiration die.

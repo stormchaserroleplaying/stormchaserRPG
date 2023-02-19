@@ -15,10 +15,10 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 |:------:|:--:|:-------------:|:---------------------:|
 | Mote of Potential           | 3  | - | - |
 | Performance of Creation     | 2  | - | - |
-| Animating Performance       | 5 | Performance of Creation and 4 other Bard Talents | 5 |
-| Performance of Creation II  | 5 | Performance of Creation and 4 other Bard Talents | 5 |
-| Performance of Creation III | 25 | Performance of Creation II and 7 other Bard Talents | 8 |
-| Creative Crescendo          | 50 | Performance of Creation II and 10 other Bard Talents | 11 |
+| Animating Performance       | 5  | Performance of Creation and 3 other Bard Talents | 4 |
+| Performance of Creation II  | 5  | Performance of Creation and 3 other Bard Talents | 4 |
+| Performance of Creation III | 25 | Performance of Creation II and 9 other Bard Talents | 10 |
+| Creative Crescendo          | 50 | Performance of Creation II and 9 other Bard Talents | 10 |
 
 ### Mote of Potential
 
@@ -40,7 +40,7 @@ When the creature uses the bardic inspiration die, the mote provides an addition
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 2 Character Points
-As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp and the item must be medium or smaller. The item glimmers softly and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see [equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
+As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp and the item must be medium or smaller. The item glimmers softly and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
 
 Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend 2 mana to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 

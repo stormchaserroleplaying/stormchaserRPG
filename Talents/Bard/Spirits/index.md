@@ -19,15 +19,15 @@ You can reach out to spirits to guide you and others. You learn the *[guidance](
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Tales From Beyond   | 10  | - | - |
-| Spirit Session      | 15 | Tales From Beyond and 3 Other Bard Talents | 4 |
-| Mystical Connection | 30 | Spirit Session and 7 Other Bard Talents | 8 |
+| Tales From Beyond   | 5  | - | - |
+| Spirit Session      | 10 | Tales From Beyond and 3 Other Bard Talents | 4 |
+| Mystical Connection | 50 | Spirit Session and 9 Other Bard Talents | 10 |
 
 ### Tales From Beyond
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points
+#### **Cost:** 5 Character Points
 You reach out to spirits who tell their tales through you. While you are holding your spiritual focus, you can use an action to to expend one use of your bardic inspiration roll on the table below, using your martial feat die to determine the tale that the spirits direct you to tell. You retain the tale in mind until you bestow the tale’s effect or you finish a short or long rest.
 
 You can use an action to choose one creature that you can see within 30 feet of you (this can be you) to be the target of the tale’s effect. Once you do so, you can’t bestow the tale’s effect again until you roll it again.
@@ -53,7 +53,7 @@ You can retain only one of these tales in mind at a time. Rolling on the table i
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Tales From Beyond and 4 other Bard Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Tales From Beyond and 3 Other Bard Talents
 Spirits provide you with supernatural insights. You can conduct an hour-long ritual channeling spirits (which can be done during a short or long rest) using your spiritual focus. You can conduct the ritual with a number of willing creatures equal to your Charisma modifier (including yourself). At the end of the ritual, you temporarily learn one spell of your choice from any class.
 
 The spell that you choose must be of a level equal to the number of creatures that conducted the ritual or less and it must be in the school of divination or necromancy.
@@ -66,5 +66,5 @@ Additionally, when you cast a spell through your spiritual focus that deals dama
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Spirit Session and 7 other Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Spirit Session and 9 Other Bard Talents
 You now have the ability to nudge the spirits of Tales from Beyond toward certain tales. Whenever you roll on the Spirit Tales table, you can roll the die twice and choose which of the two effects to bestow. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.

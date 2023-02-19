@@ -1,6 +1,6 @@
 ---
 title: Dropping to 0 Stamina
-parent: Damage and Healing
+parent: Stamina, Healing and Dying
 grand_parent: General Rules
 nav_order: 6
 ---

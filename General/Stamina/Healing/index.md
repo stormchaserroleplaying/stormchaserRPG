@@ -1,6 +1,6 @@
 ---
 title: Healing
-parent: Damage and Healing
+parent: Stamina, Healing and Dying
 grand_parent: General Rules
 nav_order: 5
 ---

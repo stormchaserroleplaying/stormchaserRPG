@@ -1,6 +1,6 @@
 ---
 title: Injuries
-parent: Damage and Healing
+parent: Damage
 grand_parent: General Rules
 nav_order: 4
 ---

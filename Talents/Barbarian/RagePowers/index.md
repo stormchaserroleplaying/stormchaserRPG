@@ -65,13 +65,6 @@ No one strikes you without reprisal in kind. At the start of your turn, if you w
 #### **Rage Point Cost:** 2 Points
 You can spend 2 rage points after a successful attack to impose the [weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on a target. This effect lasts until the target passes a successful Constitution defence check.
 
-## Death Dealer
-
-<div style="margin-top:-10px;"></div>
-
-#### **Rage Point Cost:** 1 Point
-When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
-
 ## Celestial Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
@@ -99,6 +92,13 @@ You gain +1d on all defenses against spells with the Evil trait. You also gains 
 
 #### **Rage Point Cost:** 1 Point
 Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-based) check made to end an effect on yourself.
+
+## Combat Dodge
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** None
+Your DEX defense increases by half your CON modifier for a number of rounds equal to half your total Barbarian Talents.
 
 ## Come and Get Me
 
@@ -128,6 +128,20 @@ Whenever you would gain +1d to attack from a morale bonus or from flanking, you 
 #### **Rage Point Cost:** 2 Points<br>**Prerequisite:** Cult Totem, Lesser
 WHenever a creature within your reach damages an ally of yours with a melee attack, you may make an attack of opportunity against it. Only the enemy, not your ally, needs to be within your melee reach in order for you to make this attack of opportunity. Once you use this ability to make an attack of opportunity against a creature, you can’t use this ability to make an attack of opportunity against the same creature until you complete a long rest.
 
+## Death Dealer
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
+
+## Fleshrender
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 3 Points
+You can make a rage attack roll against a target, rolling a maximum of 2d20 for your dice pool. On a hit, you deal damage equal to your CON+STR modifiers and force the target to roll for a lingering wound as detailed in the Injuries section.
+
 ## Focus of the Ascetic
 
 <div style="margin-top:-10px;"></div>
@@ -148,6 +162,13 @@ When you hit a target with a melee or thrown weapon attack, you can spend 4 rage
 
 #### **Rage Point Cost:** 1 Point
 When you throw a ranged weapon, you can put the full force of your rage behind it. By spending up to 3 rage points, you can add an additional weapon damage die for each point spent in this way. If you spend at least 2 rage points in this way, the target is also knocked prone. Your maximum range also increases by 5 times your Strength modifier and your long range threshold replaces your short range.
+
+## Inspire Ferocity
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point per ally<br>**Prerequisite:** Reckless Attack Talent
+Allies within 10’ can gain the benefit (and penalty) of Reckless Attack whenever they Strike on their next turn.
 
 ## Intimidating Glare
 
@@ -170,12 +191,30 @@ When you deal damage with a melee or thrown weapon attack, you can spend 2 rage 
 #### **Rage Point Cost:** 3 Points
 You can spend 3 rage points as part of your move to leap into the air. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
 
+## Moon Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+You gain the following benefits:
+
+You gain Low-Light Vision out to 30 feet. If you already have Low-Light vision, it extends by 30 feet and you also have Darkvision out to 30 feet.
+You have advantage on Seek actions to detect Hidden creatures.
+Invisible creatures do not gain advantage when attacking you.
+
 ## Powerful Blow
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
 You add your martial feat die to a single damage roll. This power is used as a free action before the roll to hit is made and can only be used once per rage.
+
+## Raging Skald
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points
+When you score a critical hit, an ally within 30 feet can roll your martial damage die and add the result to an attack roll or save check in the next minute. If this effect is not used before combat ends, the effect is lost.
 
 ## Reaping
 
@@ -204,6 +243,20 @@ While you are grappling a target of equal or smaller size, you can spend 3 Rage 
 
 #### **Rage Point Cost:** 1 Point
 When you grapple a target while raging, if you have a free hand, then you can spend 1 rage point strangle the target in place of an unarmed attack. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an attack to maintain the strangle hold. As long as you do so, the target is [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
+
+## Shadow Totem
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points
+You benefit from the Gaseous Form spell for a number of rounds equal to half of your total Barbarian Talents. Your movement speed is equal to your base walking speed. If you attack during this duration, the effect ends. While you are in dim light, you gain total concealment
+
+## Spell Sunder
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 3 Points<br>**Prerequisite:** None
+Choose either a spell effect in melee range. This effect does not have to be attached to a creature. Make a rage attack roll against the spellcasting attribute’s defense of the one who created the effect. On a hit, you suppress 1 effect the target has created with a spell. This can only affect spells up to a level equal to half your total Barbarian Talents (round down). The spell is suppressed a number of rounds equal to half your total Barbarian Talents (round down). You can only sunder 1 spell effect at a time and you must be wielding a magic weapon to do so.
 
 ## Trample
 

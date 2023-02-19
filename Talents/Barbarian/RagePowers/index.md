@@ -93,13 +93,6 @@ You gain +1d on all defenses against spells with the Evil trait. You also gains 
 #### **Rage Point Cost:** 1 Point
 Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-based) check made to end an effect on yourself.
 
-## Combat Dodge
-
-<div style="margin-top:-10px;"></div>
-
-#### **Rage Point Cost:** 2 Points
-Your Dexterity defense increases by +1d for a number of rounds equal to your Constitution modifier.
-
 ## Come and Get Me
 
 <div style="margin-top:-10px;"></div>
@@ -239,6 +232,13 @@ When you hit a target you can expend rage points to gain temporary stamina. When
 
 #### **Rage Point Cost:** 1 Point
 When you make deal damage with two consecutive melee attacks, you can spend 3 rage points to inflict the damage caused by one of the attacks plus 1-1/2 times your Strength modifier.
+
+## Rolling Dodge
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 2 Points
+Your Dexterity defense vs ranged attacks increases by +1d for a number of rounds equal to your Constitution modifier.
 
 ## Scatter the Hordes
 

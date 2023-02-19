@@ -97,8 +97,8 @@ Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-ba
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 2 Points<br>**Prerequisite:** None
-Your DEX defense increases by half your CON modifier for a number of rounds equal to half your total Barbarian Talents.
+#### **Rage Point Cost:** 2 Points
+Your Dexterity defense increases by +1d for a number of rounds equal to your Constitution modifier.
 
 ## Come and Get Me
 
@@ -133,14 +133,14 @@ WHenever a creature within your reach damages an ally of yours with a melee atta
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
-When you hit with an attack, You can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
+When you hit with an attack, you can spend 1 rage point to change the damage type of your rage damage die to rot damage that cannot be reduced.
 
 ## Fleshrender
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 3 Points
-You can make a rage attack roll against a target, rolling a maximum of 2d20 for your dice pool. On a hit, you deal damage equal to your CON+STR modifiers and force the target to roll for a lingering wound as detailed in the Injuries section.
+Make a melee attack roll against a target. On a hit, make a rage attack roll against the target's Constitution defence. On a hit, you force the target to roll for an [Injury]().
 
 ## Focus of the Ascetic
 
@@ -167,8 +167,8 @@ When you throw a ranged weapon, you can put the full force of your rage behind i
 
 <div style="margin-top:-10px;"></div>
 
-#### **Rage Point Cost:** 1 Point per ally<br>**Prerequisite:** Reckless Attack Talent
-Allies within 10’ can gain the benefit (and penalty) of Reckless Attack whenever they Strike on their next turn.
+#### **Rage Point Cost:** 1 Point per Ally<br>**Prerequisite:** Reckless Attack
+As an action, you can grant allies within 30 feet the benefit (and penalty) of your Reckless Attack talent. This effect lasts for a number of rounds equal to your Charisma modifier.
 
 ## Intimidating Glare
 
@@ -191,16 +191,26 @@ When you deal damage with a melee or thrown weapon attack, you can spend 2 rage 
 #### **Rage Point Cost:** 3 Points
 You can spend 3 rage points as part of your move to leap into the air. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
 
+## Moon Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+While raging, you gain darkvision with a range of 30 feet. If you already have darkvision, then the range of your darkvision increases by 30 feet while you are raging.
+
 ## Moon Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 1 Point
-You gain the following benefits:
+While raging, you gains +1d on Perception checks to pinpoint the location of an unseen creature. Unseen attackers gain no bonus on attacks against the barbarian.
 
-You gain Low-Light Vision out to 30 feet. If you already have Low-Light vision, it extends by 30 feet and you also have Darkvision out to 30 feet.
-You have advantage on Seek actions to detect Hidden creatures.
-Invisible creatures do not gain advantage when attacking you.
+## Moon Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 1 Point
+While raging, you ignores the miss chance for concealment and treat total concealment as concealment.
 
 ## Powerful Blow
 
@@ -214,7 +224,7 @@ You add your martial feat die to a single damage roll. This power is used as a f
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 2 Points
-When you score a critical hit, an ally within 30 feet can roll your martial damage die and add the result to an attack roll or save check in the next minute. If this effect is not used before combat ends, the effect is lost.
+If you unleash a [Berserker’s Cry]() as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Constitution bonus (if any).
 
 ## Reaping
 
@@ -244,19 +254,33 @@ While you are grappling a target of equal or smaller size, you can spend 3 Rage 
 #### **Rage Point Cost:** 1 Point
 When you grapple a target while raging, if you have a free hand, then you can spend 1 rage point strangle the target in place of an unarmed attack. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an attack to maintain the strangle hold. As long as you do so, the target is [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
 
+## Shadow Totem, Lesser
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points<br>**Prerequisite:** Darkvision 60 ft.
+While raging, each time that you score a critical hit, your weapon surges with draining shadows. Make a rage attack vs the Constitution defence of the target. On a hit, the target takes 1d4 Strength damage. This is a negative energy effect.
+
 ## Shadow Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 4 Points
-You benefit from the Gaseous Form spell for a number of rounds equal to half of your total Barbarian Talents. Your movement speed is equal to your base walking speed. If you attack during this duration, the effect ends. While you are in dim light, you gain total concealment
+Once per rage, as an action, you can take on a shadowy form until the end of your turn. While in this form, you gain the incorporeal subtype. You have resistance to damage from corporeal sources, as long as they are magic (and no damage from non-magical weapons and objects). Likewise, corporeal creatures have resistance to damage dealt by any magical effects that you create. Your manufactured and natural weapons count as ghost touch weapons while incorporeal in this manner. Spells and other effects that do not deal damage function normally. While you are incorporeal, you can pass through a wall or other surface that is up to 5 feet thick per barbarian talent that you have. You must exit the solid material by the end of your turn.
+
+## Shadow Totem, Greater
+
+<div style="margin-top:-10px;"></div>
+
+#### **Rage Point Cost:** 4 Points
+While raging, you gain the see in darkness ability, allowing you to see perfectly to any distance in darkness, including magical darkness. You are immune to blindness while raging. In addition, the Strength damage that you deal on critical hits from your lesser shadow totem increases to 1d6.
 
 ## Spell Sunder
 
 <div style="margin-top:-10px;"></div>
 
 #### **Rage Point Cost:** 3 Points<br>**Prerequisite:** None
-Choose either a spell effect in melee range. This effect does not have to be attached to a creature. Make a rage attack roll against the spellcasting attribute’s defense of the one who created the effect. On a hit, you suppress 1 effect the target has created with a spell. This can only affect spells up to a level equal to half your total Barbarian Talents (round down). The spell is suppressed a number of rounds equal to half your total Barbarian Talents (round down). You can only sunder 1 spell effect at a time and you must be wielding a magic weapon to do so.
+Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a melee attack roll. For any effect other than one on a creature, you must make your melee attack roll against a DC of 15 plus the spell's level. To sunder an effect on a creature, the melee attack must also hit the creature, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceed the DC by 5 or more.
 
 ## Trample
 

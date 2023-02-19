@@ -2,7 +2,7 @@
 title: Injuries
 parent: Damage
 grand_parent: General Rules
-nav_order: 4
+nav_order: 5
 ---
 
 # Injuries

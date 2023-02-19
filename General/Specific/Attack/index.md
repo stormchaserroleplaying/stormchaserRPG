@@ -25,7 +25,7 @@ Penalties to attack rolls come from situations and effects as well. Circumstance
 ## Multiple Attack Penalty
 The more attacks that you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time that you use an attack action during your turn, you take a –1d penalty to your d20 dice pool. The third time that you attack, you take a –2d penalty to your dice pool. The multiple attack penalty continues to increase for every subsequent attack in a single turn. Every check that has the attack trait counts toward your multiple attack penalty, including [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), spell attack rolls, certain skill actions and many others.
 
-Some weapons and abilities reduce multiple attack penalties, such as light weapons, which eliminate this penalty on your second attack if two-weapon fighting.
+Some weapons and abilities reduce multiple attack penalties, such as the Extra Attack talent, or light weapons, which eliminate this penalty on your second attack if two-weapon fighting.
 
 | Attack | Multiple Attack Penalty | Light Two-Weapon Fighting |
 |:------:|:-----------------------:|:-------------------------:|

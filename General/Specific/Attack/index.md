@@ -45,7 +45,7 @@ For example, the range increment of a light crossbow is 80 feet. If you are shoo
 increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
 
 ## Defences
-Attack rolls are compared to a special difficulty classes called **Defences (Def)**, which measures how hard it is for your foes to hit you with [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) and other attack actions. Just like for any other check and DC, the result of an attack roll must meet or exceed your Defence to be successful, which allows your foe to deal damage to you.
+Attack rolls are compared to a special difficulty classes called **Defences (Def)**, which measures how hard it is for your foes to hit you with [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) and other attack actions. Typically, attacks are made vs a creature's Dexterity defence, although this can vary. Just like for any other check and DC, the result of an attack roll must meet or exceed your Defence to be successful, which allows your foe to deal damage to you.
 
 Defences are calculated using the following formula.
 

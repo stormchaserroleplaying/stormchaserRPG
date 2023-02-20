@@ -47,7 +47,7 @@ Your Wild Shape ability gains the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Enahnced Wild Shape
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Enhanced Wild Shape
 *The claws and teeth of your beast shapes have been imbued with the divine power of nature.* 
 
 All Strike actions made while you are transformed using your Wild Shape are considered to be magical.

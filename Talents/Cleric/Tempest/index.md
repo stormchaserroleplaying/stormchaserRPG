@@ -32,7 +32,7 @@ If you have a domain spell that doesn’t appear on the divine spell list, that 
 #### **Prerequisite:** Channel Divinity
 *You wield the power of the storm with unchecked ferocity.*
 
-When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+Before you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
 
 ## Talents
 

@@ -2,7 +2,7 @@
 title: Stamina, Healing and Dying
 parent: General Rules
 has_children: true
-nav_order: 9
+nav_order: 10
 ---
 
 # Stamina, Healing and Dying

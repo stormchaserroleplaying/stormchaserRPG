@@ -1,7 +1,7 @@
 ---
 title: Conditions
 parent: General Rules
-nav_order: 5
+nav_order: 6
 ---
 
 # Conditions

@@ -26,7 +26,7 @@ When defending in melee you can choose to use your Strength defence to block an 
 
 ## Dexterity Defence
 
-<center><strong>10 + Dexterity modifier + proficiency bonus + other bonuses + penalties**</strong></center>
+<center><strong>10 + Dexterity modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 A character's Dexterity defence represents their physical finesse. How well can they dodge out of harm's way?
 
@@ -34,24 +34,24 @@ In combat, most attacks target a creature's Dexterity Defence. You take +1d to y
 
 ## Constitution Defence
 
-<center><strong>10 + Constituion modifier + proficiency bonus + other bonuses + penalties**</strong></center>
+<center><strong>10 + Constituion modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 A character's Constitution defence represents their physical resistance. How well can they endure a disease, poison, or other hazard that saps vitality?
 
 ## Intelligence Defence
 
-<center><strong>10 + Intelligence modifier + proficiency bonus + other bonuses + penalties**</strong></center>
+<center><strong>10 + Intelligence modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 A character's Intelligence defence represents their mental finesse. How well can they disbelieve certain illusions and refute mental assaults with logic, sharp memory, or both?
 
 ## Wisdom Defence
 
-<center><strong>10 + Wisdom modifier + proficiency bonus + other bonuses + penalties**</strong></center>
+<center><strong>10 + Wisdom modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 A character's Wisdom defence represents their mental resistance. How well can they resist effects that charm, frighten, or otherwise assault their willpower.
 
 ## Charisma Defence
 
-<center><strong>10 + Charisma modifier + proficiency bonus + other bonuses + penalties**</strong></center>
+<center><strong>10 + Charisma modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 A character's Charisma defence represents their mental power. How well can they withstand effects, such as possession, that would subsume their personality or hurl them to another plane of existence?

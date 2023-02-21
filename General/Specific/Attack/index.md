@@ -10,11 +10,11 @@ When you use a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat
 
 **Melee attack rolls** use Strength as their ability modifier by default. If you’re using a weapon or attack with the finesse trait, then you can use your Dexterity modifier instead.
 
-<center><strong>Melee attack roll result = highest roll in your d20 dice pool + Strength modifier</strong> (or optionally Dexterity modifier for a finesse weapon) <strong> + other bonuses + penalties</strong></center>
+<center><strong>Melee attack roll result = highest roll in your d20 dice pool + Strength modifier </strong>(or optionally Dexterity modifier for a finesse weapon)<strong> + other bonuses + penalties</strong></center>
 
 **Ranged attack rolls** use Dexterity as their ability modifier.
 
-<center><strong>Ranged attack roll result = highest roll in your d20 dice pool + Dexterity modifier + other bonuses + penalties</strong></center>
+<center><strong>Ranged attack roll result = highest roll in your d20 dice pool + Dexterity modifier </strong>(or optionally Strength modifier for a thrown weapon)<strong>+ other bonuses + penalties</strong></center>
 
 When attacking with a weapon, whether melee or ranged, you add your proficiency bonus for the weapon that you’re using to your d20 dice pool for the attack roll. Your class determines your proficiency rank for various weapons. Sometimes, you’ll have different proficiency ranks for different weapons.
 
@@ -38,14 +38,15 @@ Always calculate your multiple attack penalty for the weapon that you are using 
 The multiple attack penalty applies only during your turn, so you don’t have to keep track of it for an Attack of Opportunity or a similar effect, where another creature rolls to avoid being hit by you on their own turn.
 
 ## Range Penalty
-Ranged and thrown weapons each have a listed range increment and attacks with them grow less accurate against targets farther away (range and range increments are covered in depth [here]()). As long as your target is at or within the listed range increment, also called the first range increment, you take no penalty to your dice pool for the attack roll. If you’re attacking beyond that range increment, you take a –1d penalty for each additional increment beyond the first. You can attempt to attack with a ranged weapon or thrown weapon up to four range increments away, but the farther
-away that you are, the harder it is to hit your target.
+Ranged and thrown weapons each have a listed range increment and attacks with them grow less accurate against targets farther away (range and range increments are covered in depth [here]()). As long as your target is at or within the listed range increment, also called the first range increment, you take no penalty to your dice pool for the attack roll. If you’re attacking beyond that range increment, you take a –1d penalty for each additional increment beyond the first. You can attempt to attack with a ranged weapon or thrown weapon up to four range increments away, but the farther away that you are, the harder it is to hit your target.
 
 For example, the range increment of a light crossbow is 80 feet. If you are shooting at a target no farther away than that distance, you take no penalty due to range. If they’re beyond 80 feet, but no more than 160 feet away, you take a –1d penalty due to range. If they’re beyond 160 feet, but no more than 240 feet away, you take a –2d penalty due to range and so on, until you reach the last range
 increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
 
 ## Defences
-Attack rolls are compared to a special difficulty classes called **Defences (Def)**, which measures how hard it is for your foes to hit you with [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) and other attack actions. Typically, attacks are made vs a creature's Dexterity defence, although this can vary. Just like for any other check and DC, the result of an attack roll must meet or exceed your Defence to be successful, which allows your foe to deal damage to you.
+Attack rolls are compared to special difficulty classes called **Defences (Def)**, which measure how hard it is for your foes to hit you with [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) and other attack actions. Typically, melee and ranged attacks are made vs a creature's Dexterity defence, although this can vary. For example, when attacked in melee, a creature may choose to use its Strength defence instead of its Dexterity defence. For every defence there are spells and other effects that target that defence with attacks.
+
+Just like for any other check and DC, the result of an attack roll must meet or exceed your Defence to be successful, which allows your foe to deal damage to you.
 
 Defences are calculated using the following formula.
 

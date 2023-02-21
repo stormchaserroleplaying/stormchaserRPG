@@ -17,7 +17,7 @@ Immunity to critical hits works a little differently. When a creature immune to 
 
 Another exception is immunity to non-lethal attacks. If you are immune to non-lethal attacks, you are immune to all damage from attacks with the non-lethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to non-lethal attacks. This means that no matter how hard you hit it with your fist, you’re not going to damage it (unless your fists don’t have the nonlethal trait, such as if you’re a monk).
 
-## Temporary Imm unity
+## Temporary Immunity
 Some effects grant you immunity to the same effect for a set amount of time. If an effect grants you temporary immunity, repeated applications of that effect don’t affect you for as long as the temporary immunity lasts. Unless the effect says it applies only to a certain creature’s ability, it doesn’t matter who created the effect. For example, the blindness spell says, “The target is temporarily immune to blindness for 1 minute.” If anyone casts blindness on that creature again before 1 minute passes, the spell has no effect.
 
 Temporary immunity doesn’t prevent or end ongoing effects of the source of the temporary immunity. For example, if an ability makes you frightened and you then gain temporary immunity to the ability, you don’t immediately lose the frightened condition due to the immunity you just gained - you simply don’t become frightened if you’re targeted by the ability again before the immunity ends.

@@ -31,6 +31,9 @@ These effects stack. For example:
 * If you are attacking with a maul and three of the dice in your dice pool hit the target's defence, then roll 6d6 for the damage, rather than 2d6, and then add your relevant ability modifier.
 * if you are attacking with a maul and two of the dice in your dice pool rolls a natural 20 (and all others would miss), then you deal 24 damage, rather than 2d6, and then add your relevant ability modifier.
 
+### Choosing to be Hit
+Sometimes, an attack might miss you when you wanted it to hit. You can choose to allow a miss to hit you (no action required). If you do so, the attacker chooses the maximum amount of damage instead of rolling.
+
 ## Persistent Damage
 Persistent damage is a condition that causes damage to recur beyond the original effect. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Unlike with normal damage, when you are subject to persistent damage, you don’t take it right away. Instead, you take the specified damage at the end of your turns, after which you attempt a DC 15 flat check to see if you recover from the persistent damage. See [Conditions](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/) for the complete rules regarding the persistent damage condition.
 

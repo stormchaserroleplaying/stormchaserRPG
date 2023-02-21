@@ -42,6 +42,8 @@ Penalties to attack rolls come from situations and effects as well.
 
 **Circumstance penalties** come from risky tactics or detrimental circumstances, **status penalties** come from spells and magic working against you and **item penalties** occur when you use a shoddy item.
 
+For example, aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have -1d on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
+
 When making attack rolls, two main types of untyped penalties are likely to apply. The first is the multiple attack penalty and the second is the range penalty. The first applies anytime you make more than one attack action during the course of your turn, and the other applies only with ranged or thrown weapons. Both are described below.
 
 ### Multiple Attack Penalty
@@ -62,8 +64,7 @@ The multiple attack penalty applies only during your turn, so you don’t have t
 ### Range Penalty
 Ranged and thrown weapons each have a listed range increment and attacks with them grow less accurate against targets farther away (range and range increments are covered in depth [here]()). As long as your target is at or within the listed range increment, also called the first range increment, you take no penalty to your dice pool for the attack roll. If you’re attacking beyond that range increment, you take a –1d penalty for each additional increment beyond the first. You can attempt to attack with a ranged weapon or thrown weapon up to four range increments away, but the farther away that you are, the harder it is to hit your target.
 
-For example, the range increment of a light crossbow is 80 feet. If you are shooting at a target no farther away than that distance, you take no penalty due to range. If they’re beyond 80 feet, but no more than 160 feet away, you take a –1d penalty due to range. If they’re beyond 160 feet, but no more than 240 feet away, you take a –2d penalty due to range and so on, until you reach the last range
-increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
+For example, the range increment of a light crossbow is 80 feet. If you are shooting at a target no farther away than that distance, you take no penalty due to range. If they’re beyond 80 feet, but no more than 160 feet away, you take a –1d penalty due to range. If they’re beyond 160 feet, but no more than 240 feet away, you take a –2d penalty due to range and so on, until you reach the last range increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
 
 ## Defences
 Attack rolls are compared to special difficulty classes called **Defences (Def)**, which measure how hard it is for your foes to hit you with [Strikes](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) and other attack actions. Typically, melee and ranged attacks are made vs a creature's Dexterity defence, although this can vary. For example, when attacked in melee, a creature may choose to use its Strength defence instead of its Dexterity defence. For every defence there are spells and other effects that target that defence with attacks.

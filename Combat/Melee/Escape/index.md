@@ -1,6 +1,6 @@
 ---
 title: Escape
-parent: Basic Actions
+parent: Melee Actions
 grand_parent: Combat
 ---
 

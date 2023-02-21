@@ -8,8 +8,7 @@ nav_order: 2
 # Spell Attack Rolls
 If you cast spells, you might be able to make a spell attack roll. These rolls are usually made when a spell makes an attack against one of a creature’s defences.
 
-The attribute modifier for a spell attack roll depends on how you gained access to your spells. If your class grants you spellcasting, use your spellcasting attribute modifier. Innate spells use your Charisma modifier unless the ability that granted them states otherwise. Most sources of spells specify which attribute modifier you use for spell attack rolls in the ability that granted them. If you have spells from multiple sources, you might use different attribute modifiers for spell attack rolls for these different sources of spells. For example, a dwarf disciple with the [Stonewalker]
-species talent would use their Charisma modifier when casting [Meld into Stone]() from that talent, since it’s a divine innate spell, but they would use their Wisdom modifier when casting [Heal]() and other spells using their disciple divine spellcasting.
+The attribute modifier for a spell attack roll depends on how you gained access to your spells. If your class grants you spellcasting, use your spellcasting attribute modifier. Innate spells use your Charisma modifier unless the ability that granted them states otherwise. Most sources of spells specify which attribute modifier you use for spell attack rolls in the ability that granted them. If you have spells from multiple sources, you might use different attribute modifiers for spell attack rolls for these different sources of spells. For example, a dwarf disciple with the [Stonewalker]() species talent would use their Charisma modifier when casting [Meld into Stone]() from that talent, since it’s a divine innate spell, but they would use their Wisdom modifier when casting [Heal]() and other spells using their disciple divine spellcasting.
 
 Determine the spell attack roll with the following formula.
 

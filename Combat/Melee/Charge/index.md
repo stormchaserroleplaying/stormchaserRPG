@@ -1,6 +1,6 @@
 ---
 title: Charge
-parent: Basic Actions
+parent: Melee Actions
 grand_parent: Combat
 ---
 

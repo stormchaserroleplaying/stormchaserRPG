@@ -10,7 +10,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 *Medium Humanoid (Any Race), Any Alignment*
 
 ## Defences
-**STR:** 15, **DEX:** 12, **CON:** 18, **INT:** 12, **WIS:** 16, **CHA:** 14<br>
+**STR:** 13, **DEX:** 10, **CON:** 16, **INT:** 10, **WIS:** 14, **CHA:** 12<br>
 +2 [parry](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#parry) bonus to strength defence vs. melee attacks
 
 **Stamina:** 56 (d10 Recovery Die)

@@ -49,6 +49,6 @@ Attack rolls are compared to a special difficulty classes called **Defences (Def
 
 Defences are calculated using the following formula.
 
-<center><strong>Defence = 12 + Attribute modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>Defence = 10 + attribute modifier + proficiency bonus + other bonuses + penalties</strong></center>
 
 Use your proficiency bonus for the defence that you’re using. Defences can benefit from bonuses with a variety of sources, much like attack rolls. Penalties to defences come from situations and effects in much the same way that bonuses do. Circumstance penalties come from unfavourable situations and status penalties come from effects that impede your abilities.

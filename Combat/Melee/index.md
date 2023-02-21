@@ -6,4 +6,4 @@ nav_order: 4
 ---
 
 # Melee Actions
-Melee actions are tactical options specific for melee combat.
+Melee actions are tactical options specifically for melee combat.

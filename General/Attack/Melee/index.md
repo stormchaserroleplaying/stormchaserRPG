@@ -6,29 +6,6 @@ nav_order: 4
 ---
 
 # Melee Attacks
-Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
-
-Melee attacks that deal bludgeoning damage have advantage to hit targets defending with Strength defence and disadvantage to hit targets defending with Dexterity defence.
-
-Melee attacks that deal slashing damage have advantage to hit targets defending with Dexterity defence and disadvantage to hit targets defending with Strength defence.
-
-## Melee Reach
-Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
-
-## Unarmed Attacks
-When you are **unarmed**, you can fight in melee by making an unarmed strike, [as shown in the simple unarmed weapon table](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/#simple-unarmed-weapons). Unarmed strikes, be they punches, kicks, head-butts, or any similar forceful blow, count as weapons.
-
-## Opportunity Attacks
-In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger. If you do so, you must make a defence check to avoid being hit by an opportunity attack.
-
-An opportunity attack is a single melee attack that a creature makes when a hostile creature that it can see moves out of its reach. Each creature may do this once per round and will do so at the first opportunity, unless declared otherwise on its turn. Additionally, a creature may declare on its turn that its opportunity attack will be a grapple attempt. The attack interrupts the movement of the moving creature, occurring right before the moving creature leaves the attacking creature's reach.
-
-To avoid being hit by the opportunity attack, the moving creature must make a defence check vs the attacking creature's weapon skill (10 + their attack bonus), or their passive Strength (Athletics) score, in the case of an opportunity grapple. The moving creature may choose whether it wishes to use Strength defence to block the attack, or whether it wishes to use Dexterity defence to evade the attack.
-
-A creature can avoid provoking an opportunity attack by taking the Disengage action. Teleportation or being **rapidly** moved by someone or something else without using your own movement or action also does not provoke an opportunity attack. For example, a creature does not provoke an opportunity attack if an explosion hurls it out of a foe's reach or if gravity causes it to fall past an enemy. However, slow, uncontrolled movement, such as being shoved **does** provoke an opportunity attack.
-
-## Melee Attack Options
-Actions marked with <img src="https://img.icons8.com/material/14/FFFFFF/sword.png"> replace one of your Attacks. Actions marked with <img src="https://img.icons8.com/ios-glyphs/14/FFFFFF/plus-math.png"/> can be taken as a bonus action.
 
 ### Coup de Grace <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
 When you make an attack that qualifies as an automatic critical hit against a defenceless target, roll a regular Attack roll against a defence of 10. If you hit, the creature takes damage equal to the total of its current stamina and is dying. If you do not hit, the creature instead loses half its current stamina. If your attack roll would critically hit a normal target, the creature dies immediately.

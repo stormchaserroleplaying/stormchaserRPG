@@ -6,4 +6,4 @@ nav_order: 5
 ---
 
 # Ranged Actions
-Ranged actions are tactical options specific for ranged combat.
+Ranged actions are tactical options specifically for ranged combat.

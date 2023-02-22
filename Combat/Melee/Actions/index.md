@@ -4,15 +4,6 @@ parent: Melee Actions
 grand_parent: Combat
 ---
 
-### Coup de Grace <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
-When you make an attack that qualifies as an automatic critical hit against a defenceless target, roll a regular Attack roll against a defence of 10. If you hit, the creature takes damage equal to the total of its current stamina and is dying. If you do not hit, the creature instead loses half its current stamina. If your attack roll would critically hit a normal target, the creature dies immediately.
-
-### Damage Weapon
-It is possible to push your weapon beyond its limits to achieve great effect, damaging it in the process. When you hit with a melee weapon, you may choose to turn the hit into a critical hit and your weapon takes the same amount damage (see [Breaking an Object](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#breaking-an-object)).
-
-> #### Blocking With An Item
-> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see [Breaking an Object](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/#breaking-an-object)) and you benefit from advantage on the Strength defence check.
-
 ### Disarm <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's weapon skill. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. You can use your item interaction to either kick the weapon into an adjacent area (your choice) or take the item if you have a free hand, otherwise the target may use its item interaction on their turn to take it back.
 

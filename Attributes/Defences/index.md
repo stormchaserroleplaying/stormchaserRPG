@@ -22,7 +22,7 @@ A character's Strength defence represents their physical power. How well can the
 When defending in melee you can choose to use your Strength defence to block an attack, rather than evading it. You take -1d to your Strength defence vs melee attacks that deal bludgeoning damage and +1d to your Strength defence vs melee attacks that deal slashing damage.
 
 > ### Blocking With An Item
-> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see [Interacting With Objects](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/)) and you benefit from advantage on the Strength defence check.
+> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you (see [Interacting With Objects](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/InteractingWithObjects/)) and you benefit from +1d on the Strength defence check.
 
 ## Dexterity Defence
 

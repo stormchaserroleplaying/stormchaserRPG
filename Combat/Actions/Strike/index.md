@@ -13,3 +13,6 @@ You attack with a weapon that you are wielding, targeting one creature within yo
 **Critical Success:** As success, but you deal additional damage (see [the rules for critical hits](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#critical-hits)).
 
 **Success:** You deal damage according to the weapon attack, including any modifiers, bonuses, and penalties that you have to damage.
+
+> ## Damaging Your Weapon
+> It is possible to push your weapon beyond its limits to achieve great effect, damaging it in the process. When you hit with a melee weapon, you may choose to deal maximum damage and your weapon takes the same amount damage (see [Breaking an Object](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/Objects/#breaking-an-object)).

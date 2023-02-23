@@ -76,7 +76,7 @@ You can use Seeking Spell even if you have already used a different Arcane Savan
 When you cast a spell, you can spend 1 additional mana to cast it without any somatic or verbal components.
 
 #### Transmuted Spell
-When you cast a spell that deals a type of damage from the following list, you can spend 1 additional mana to change that damage type to one of the other listed types: acid, cold, electirc, fire, poison, sonic.
+When you cast a spell that deals a type of damage from the following list, you can spend 1 additional mana to change that damage type to one of the other listed types: acid, cold, electric, fire, poison, sonic.
 
 #### Twinned Spell
 When you cast a spell that targets only one creature and doesn’t have a range of self, you can spend a number of additional mana equal to the spell's level to target a second creature in range with the same spell (1 additional mana if the spell is a cantrip).

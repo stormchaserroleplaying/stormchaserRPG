@@ -36,7 +36,7 @@ You have draconic ancestry. Choose one type of dragon from the table below:
 | Emerald | Chaotic Neutral | Psychic | 30 ft. range, 5 ft. sphere (Con defence) |
 | Ruby | Lawful Neutral | Thunder | 30 ft. range, 5 ft. sphere (Con defence) |
 | Sapphire | True Neutral | Energy | 30 ft. range, 5 ft. sphere (Wis defence) |
-| Topaz | Neutral Good | Scared | 30 ft. range, 5 ft. sphere (Con defence) |
+| Topaz | Neutral Good | Sacred | 30 ft. range, 5 ft. sphere (Con defence) |
 
 Your attribute bonus, breath weapon and damage resistance are determined by your draconic ancestry, as shown in the table above. Additionally, your draconic ancestry grants you one of the following features:
 

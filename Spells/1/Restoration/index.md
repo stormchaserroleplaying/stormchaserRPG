@@ -16,7 +16,7 @@ grand_parent: Spells
 
 *You channel positive energy to heal the living or damage the undead.*
 
-If the target is a willing living creature, you roll one of its recovery die add your spellcasting attribute modifier and heal that amount of Stamina. If the target is undead, then make a spellcasting attack vs its Constitution defence. On a hit, you deal the same amount of sacred damage to it.
+If the target is a willing living creature, you roll one of its recovery die, add your spellcasting attribute modifier and heal that amount of Stamina. If the target is undead, then make a spellcasting attack vs its Constitution defence. On a hit, you deal the same amount of sacred damage to it.
 
 This spell has no effect on constructs.
 
@@ -36,4 +36,4 @@ The number of actions that you spend when casting this spell determine its targe
 **Range:** Self (30-foot radius)<br>
 **Components:** V, S, M *(Your holy symbol)*
 
-You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.
+You disperse positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst. For each creature in the burst, roll the creature's recovery die and add your spellcasting attribute modifier to determine the amount of healing or damage.

@@ -43,7 +43,7 @@ Additionally, a creature that has a bardic inspiration die from you can instead 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 3 other Bard Talents
-Each turn, the first Strike action that you take does not count for the purposes of calculating your multiattack penalty.
+Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
 
 ### Battle Magic
 

@@ -66,7 +66,7 @@ Divine magic flowing through you makes you immune to disease.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Divine Smite and 4 Other Paladin Talents
-Each turn, the first Strike action that you take does not count for the purposes of calculating your multiattack penalty.
+Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
 
 ### Aura of Protection
 

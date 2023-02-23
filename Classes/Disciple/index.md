@@ -43,7 +43,10 @@ You can change your list of prepared spells when you finish a long rest. Prepari
 You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your disciple spells.
 
 ### Potent Cantrips
-*Prerequisite:* 5 Other Disciple or Mage Talents<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** 5 Other Disciple or Mage Talents
 Your cantrips deal one additional die of damage.
 
 ## Talents

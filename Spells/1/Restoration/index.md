@@ -22,7 +22,7 @@ This spell has no effect on constructs.
 
 The number of actions that you spend when casting this spell determine its targets, range, area, and other parameters.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by one die for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using 2 or more mana, then the healing increases by one die for each point of mana above the 1st.
 
 ### One Action
 **Range:** Touch<br>

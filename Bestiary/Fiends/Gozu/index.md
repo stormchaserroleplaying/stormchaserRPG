@@ -10,7 +10,7 @@ These enormous creatures resemble an immense, demonic cross between ox and goril
 *Gargantuan Fiend (Daemon), Neutral Evil*
 
 ## Defences
-**STR:** 22, **DEX:** 12, **CON:** 20, **INT:** 6, **WIS:** 10, **CHA:** 10
+**STR:** 24ᴱ, **DEX:** 12, **CON:** 22ᴱ, **INT:** 6, **WIS:** 14ᵀ, **CHA:** 10
 
 **Stamina:** 132 (d20 Recovery Die)
 

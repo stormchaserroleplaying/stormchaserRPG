@@ -10,7 +10,7 @@ Mages spend their lives in the study and practice of magic. Good-aligned mages o
 *Medium Humanoid (Any Race), Any Alignment*
 
 ## Defences
-**STR:** 9, **DEX:** 12, **CON:** 10, **INT:** 17, **WIS:** 15, **CHA:** 10<br>
+**STR:** 9, **DEX:** 16ᵀ, **CON:** 10, **INT:** 19ᴱ, **WIS:** 17ᴱ, **CHA:** 10<br>
 
 **Stamina:** 22 (d6 Recovery Die)
 

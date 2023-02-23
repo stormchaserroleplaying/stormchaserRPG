@@ -10,7 +10,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 *Medium Humanoid (Any Race), Any Alignment*
 
 ## Defences
-**STR:** 10, **DEX:** 10, **CON:** 11, **INT:** 11, **WIS:** 13, **CHA:** 11<br>
+**STR:** 10, **DEX:** 14ᵀ, **CON:** 11, **INT:** 11, **WIS:** 17ᵀ, **CHA:** 15ᵀ<br>
 
 **Stamina:** 36 (d8 Recovery Die)
 

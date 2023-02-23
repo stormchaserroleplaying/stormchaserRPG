@@ -4,14 +4,6 @@ parent: Melee Actions
 grand_parent: Combat
 ---
 
-### Distract <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
-You can aid another character's attack by forcing an enemy to avoid your own attacks, making it more difficult for them to avoid your ally. Select an enemy and make an attack against a Dexterity defence of 10 (modified by cover). If you succeed, you grant advantage to allied melee and ranged attack rolls against that opponent until the start of your next turn.
-
-Multiple creatures can distract the same target and similar bonuses stack.
-
-### Drive Back <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
-Using one of your attacks, you attempt to force back a standing creature. The target must be no larger than you in size. Make an attack roll vs the target's weapon skill. If you win the contest, the target backs away from you by 5 feet. As part of this attack, you can move 5 feet in the direction of the target.
-
 ### Feint <img src="https://img.icons8.com/ios-glyphs/14/FFFFFF/plus-math.png"/> (not Unwieldy)
 Before you make an attack with a melee weapon that you are proficient with, you can spend your bonus action and perform a feint to deceive your target.
 

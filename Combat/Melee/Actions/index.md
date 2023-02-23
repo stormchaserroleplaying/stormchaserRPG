@@ -4,11 +4,6 @@ parent: Melee Actions
 grand_parent: Combat
 ---
 
-### Disarm <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's weapon skill. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. You can use your item interaction to either kick the weapon into an adjacent area (your choice) or take the item if you have a free hand, otherwise the target may use its item interaction on their turn to take it back.
-
-The attacker has disadvantage on their attack roll if the target is holding the item with two or more hands. The attacker has advantage on their attack roll if they are larger than the target, or disadvantage if they are smaller than the target.
-
 ### Distract <img src="https://img.icons8.com/material/14/FFFFFF/sword.png">
 You can aid another character's attack by forcing an enemy to avoid your own attacks, making it more difficult for them to avoid your ally. Select an enemy and make an attack against a Dexterity defence of 10 (modified by cover). If you succeed, you grant advantage to allied melee and ranged attack rolls against that opponent until the start of your next turn.
 

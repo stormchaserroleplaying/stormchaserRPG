@@ -1,6 +1,7 @@
 ---
 title: Hermit
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Hermit

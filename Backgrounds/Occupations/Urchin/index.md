@@ -1,6 +1,7 @@
 ---
 title: Urchin
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Urchin

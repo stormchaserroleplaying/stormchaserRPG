@@ -1,6 +1,7 @@
 ---
 title: Sage
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Sage

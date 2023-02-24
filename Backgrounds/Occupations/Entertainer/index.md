@@ -1,6 +1,7 @@
 ---
 title: Entertainer
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Entertainer

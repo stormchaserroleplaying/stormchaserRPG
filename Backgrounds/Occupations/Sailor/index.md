@@ -1,6 +1,7 @@
 ---
 title: Sailor
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Sailor

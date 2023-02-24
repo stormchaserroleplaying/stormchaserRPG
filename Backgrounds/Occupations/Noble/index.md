@@ -1,6 +1,7 @@
 ---
 title: Noble
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Noble

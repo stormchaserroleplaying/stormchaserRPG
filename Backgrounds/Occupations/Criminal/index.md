@@ -1,6 +1,7 @@
 ---
 title: Criminal
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Criminal

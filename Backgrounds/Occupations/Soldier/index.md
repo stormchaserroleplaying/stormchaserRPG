@@ -1,6 +1,7 @@
 ---
 title: Soldier
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Soldier

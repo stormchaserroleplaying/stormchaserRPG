@@ -1,6 +1,7 @@
 ---
 title: Guild Artisan
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Guild Artisan

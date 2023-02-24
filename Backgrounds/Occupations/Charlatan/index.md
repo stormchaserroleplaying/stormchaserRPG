@@ -1,6 +1,7 @@
 ---
 title: Charlatan
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Charlatan

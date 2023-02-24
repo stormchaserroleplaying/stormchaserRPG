@@ -1,6 +1,7 @@
 ---
 title: Acolyte
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Acolyte

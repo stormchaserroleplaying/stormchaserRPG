@@ -1,6 +1,7 @@
 ---
 title: Folk Hero
-parent: Backgrounds
+parent: Occupations
+grand_parent: Backgrounds
 ---
 
 # Folk Hero

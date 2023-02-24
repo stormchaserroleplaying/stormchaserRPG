@@ -2,10 +2,10 @@
 title: Degree of Success
 parent: Checks
 grand_parent: General Rules
-nav_order: 4
+nav_order: 3
 ---
 
-# Step 4: Determine the Degree of Success and Effect
+# Step 3: Determine the Degree of Success and Effect
 Often, it's not only important to determine if you succeed or fail, but also how spectacularly you succeed or fail. Exceptional results (either good or bad) can cause you to critically succeed at or critically fail a check.
 
 You critically succeed at a check when more than one of the dice in your dice pool would hit the DC. If the check is an attack roll, then this is sometimes called a critical hit. You can also critically fail a check. If you fail a check by 5 or more, then it’s a critical failure.

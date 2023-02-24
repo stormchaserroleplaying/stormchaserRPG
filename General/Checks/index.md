@@ -14,10 +14,9 @@ However, sometimes what happens as a result of your choices is less than certain
 
 Whether you’re swinging a sword at a foul beast, attempting to leap across a chasm, or straining to remember the name of the earl’s second cousin at a soiree, you’ll attempt a check. Stormchaser has many types of checks, from skill checks to attack rolls to defence checks, but they all follow these basic steps.
 
-1. Roll your d20 dice pool and identify the modifiers, bonuses, and penalties that apply.
-2. Calculate the result.
-3. Compare the result to the difficulty class (DC).
-4. Determine the degree of success and the effect.
+1. Identify the modifiers that apply and roll your d20 dice pool.
+2. Calculate the result and compare it to the difficulty class (DC).
+3. Determine the degree of success and the effect.
 
 Checks and difficulty classes (DC) both come in many forms. When you swing your sword at that foul beast, you’ll make an attack roll against its defence, which is the DC to hit another creature. If you are leaping across that chasm, you’ll attempt an Athletics skill check with a DC based on the distance you are trying to jump. When calling to mind the name of the earl’s second cousin, you attempt a check to Recall Knowledge. You might use either the Society skill, or a Lore skill you have that’s relevant to the task, and the DC depends on how common the knowledge of the cousin’s name might be,
 or how many drinks your character had when they were introduced to the cousin the night before.

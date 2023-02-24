@@ -18,6 +18,6 @@ If you have the ability to cast spells, then you’ll have a proficiency rank fo
 
 Sometimes, instead of requiring you to make a spell attack roll, the spells that you cast will require those within the area or targeted by the spell to attempt a defence check against your **Spell Skill** to determine how the spell affects them.
 
-Your spell DC is calculated using the following formula.
+Your spell skill is calculated using the following formula.
 
 <center><strong>Spell Skill = highest roll in your d20 dice pool + spellcasting attribute modifier + proficiency bonus + other bonuses + penalties</strong></center>

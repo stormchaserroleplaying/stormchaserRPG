@@ -9,9 +9,16 @@ Your defences represent your ability to resist spells, traps, poison, disease an
 
 You have six defence scores and each class grants training in three defences. For example, the warrior is trained in two physical defences and one mental defence. Training in a defence lets a character add their training bonus to that defence score. Most monsters also have one or more trained defence.
 
-If a defence check is called for, make an ability check using the named attribute. If you are trained in the defence, then you roll with +1d as usual.
+If a defence check is called for, make a check using the named attribute. If you are trained in the defence, then you roll with +1d as usual. If you have +1d to a score, then this grants a bonus to the score. The second die in your pool grants +4 to your score, the third +2, and +1 thereafter to a maximum of total dice pool modifier of +10. |
 
-If a defence check is made to avoid being hit by an attack that would have had +1d, then that defence check is made with -1d. This counts as the attack having +1d for the purposes of triggering abilities such as a sneak attack from the rogue talent tree. If a defence check is made to avoid being hit by an attack that would have had -1d, then the defence check is made with +1d.
+| Dice Pool Size | Score |
+|:--------------:|:-----:|
+| 2d20kh1 | 14 + modifier |
+| 3d20kh1 | 16 + modifier |
+| 4d20kh1 | 17 + modifier |
+| 5d20kh1 | 18 + modifier |
+| 6d20kh1 | 19 + modifier |
+| 7d20kh1 | 20 + modifier |
 
 ## Strength Defence
 

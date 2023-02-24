@@ -18,4 +18,13 @@ Conversely, unfavourable situations might give you a circumstance penalty to you
 
 Sometimes a skill action can be an attack and, in these cases, the skill check might suffer a [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
 
-When an ability calls for you to use the passive score for a specific skill, you can calculate it by adding 10 + your total modifier for that skill.
+When an ability calls for you to use the passive score for a specific skill, you can calculate it by adding 10 + your total modifier for that skill. If you have +1d to a score (e.g. from proficiency), then this grants a bonus to the score. The second die in your pool grants +4 to your score, the third +2, and +1 thereafter to a maximum of total dice pool modifier of +10.
+
+| Dice Pool Size | Score |
+|:--------------:|:-----:|
+| 2d20kh1 | 14 + modifier |
+| 3d20kh1 | 16 + modifier |
+| 4d20kh1 | 17 + modifier |
+| 5d20kh1 | 18 + modifier |
+| 6d20kh1 | 19 + modifier |
+| 7d20kh1 | 20 + modifier |

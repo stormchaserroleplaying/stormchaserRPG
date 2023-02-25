@@ -109,7 +109,7 @@ Whenever you cast a spell that would cause you to roll dice to determine the num
 
 You conjure spectral wings from your back. While the wings are present, you have a flying speed equal to your speed. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
 
-The divine affinity that you chose determines the appearance of the wings. For exampley, eagle wings for good or law, bat wings for evil or chaos and dragonfly wings for neutrality.
+The divine affinity that you chose determines the appearance of the wings. For example, eagle wings for good or law, bat wings for evil or chaos and dragonfly wings for neutrality.
 
 ### Unearthly Recovery
  

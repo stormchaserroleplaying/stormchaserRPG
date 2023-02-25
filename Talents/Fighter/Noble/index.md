@@ -44,6 +44,8 @@ You can use Wisdom instead of Charisma whenever you make a Persuasion check.
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Elegant Courtier and 6 other Fighter Talents
 When you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.
 
+Additionally, the temporary stamina granted by your Fighting Spirit increases to 10.
+
 ### Rapid Strike
 
 <div style="margin-top:-10px;"></div>
@@ -53,6 +55,8 @@ When you roll initiative and have no uses of Fighting Spirit remaining, you rega
 
 Once per turn, if you take the Strike action on your turn and are rolling 2d20 or more on an attack roll against one of the targets, you can take -1d for that roll to make an additional weapon attack against that target, as part of the same action.
 
+Additionally, the temporary stamina granted by your Fighting Spirit increases to 15.
+
 ### Strength before Death
 
 <div style="margin-top:-10px;"></div>
@@ -60,7 +64,7 @@ Once per turn, if you take the Strike action on your turn and are rolling 2d20 o
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Rapid Strike and 11 other Fighter Talents
 *Your fighting spirit can delay the grasp of death to protect your honor.*
 
-The first time you would take damage that reduces you to 0 hit points and doesn't kill you outright, you can delay falling unconscious. You immediately interrupt the current turn to take an extra turn. 
+The first time that you would take damage that reduces you to 0 hit points and doesn't kill you outright, you can delay falling unconscious. You immediately interrupt the current turn to take an extra turn. 
 
 While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
 

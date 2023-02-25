@@ -28,7 +28,7 @@ If you have a bonus spell that doesn’t appear on the mage spell list, that spe
 
 Alternatively, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn the additional spells based on that affinity, as shown below.
 
-####Good
+#### Good
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Heal, Shield of Faith |
@@ -37,7 +37,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 4th | Aura of Purity, Freedom of Movement | 
 | 5th | Greater Restoration, Reincarnate | 
 
-####Evil
+#### Evil
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | False Life, Inflict Wounds |
@@ -46,7 +46,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 4th | Blight, Death Ward | 
 | 5th | Antilife Shell, Negative Energy Flood | 
 
-####Law
+#### Law
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Bless, Command |
@@ -55,7 +55,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 4th | Guardian of Faith, Resilient Sphere | 
 | 5th | Hold Monster, Scrying | 
 
-####Chaos
+#### Chaos
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Bane, Charm Person |
@@ -64,7 +64,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 4th | Dimension Door, Polymorph | 
 | 5th | Dominate Person, Mislead | 
 
-####Neutrality
+#### Neutrality
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Detect Magic, Protection from Evil and Good |
@@ -92,7 +92,7 @@ When your spellcasting talents let you learn or replace a mage cantrip or a spel
 #### **Cost:** 5 Character Points
 *Divine power guards your destiny.* 
 
-If you fail an ability or defense check or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can’t use it again until you finish a short or long rest.
+If you fail an ability or defense check or miss with an attack roll, you can reroll 1d20, possibly changing the outcome. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ###  Empowered Healing
  
@@ -101,7 +101,7 @@ If you fail an ability or defense check or miss with an attack roll, you can rol
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Favored by the Gods
 *The divine energy coursing through you can empower healing spells.* 
 
-Whenever you cast a spell which would cause you to roll dice to determine the number of stamina a spell restores, you can spend 1 additional mana to reroll any number of those dice once. You can use this feature only once per turn.
+Whenever you cast a spell which would cause you to roll dice to determine the number of stamina a spell restores, you can spend 1 additional mana to reroll any number of those dice once. You can use this ability only once per turn.
 
 ### Otherworldly Wings
 <div style="margin-top:-10px;"></div>
@@ -109,7 +109,7 @@ Whenever you cast a spell which would cause you to roll dice to determine the nu
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Empowered Healing<br>**Actions** 1
 *Your faith bestows upon wings to soar through the skies.*
 
-You conjure spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you’re incapacitated, you die, or you dismiss them as 1 Action.
+You conjure spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
 
 The affinity you chose as your influence can determine the appearance of the wings, for example: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 

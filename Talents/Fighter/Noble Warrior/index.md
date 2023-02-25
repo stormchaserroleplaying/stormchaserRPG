@@ -20,15 +20,12 @@ You also gain proficiency in Calligrapher's or Painter's supplies.
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
 | Courage (勇 yū)           | 5 | - |
-| Respect (礼 rei)          | 5 | Courage (勇 yū) and 4 other Fighter Talents |
-| Self-Control (自制 jisei) | 10 | Courage (勇 yū) and 4 other Fighter Talents |
-| Compassion (慈悲 jihi)    | 10 | Respect (礼 rei) and 6 other Fighter Talents |
-| Integrity (誠 makoto)     | 15 | Self-Control (自制 jisei) and 6 other Fighter Talents |
-| Justice (義 gi)           | 65 | Compassion (慈悲 jihi), Integrity (誠 makoto), and 9 other Fighter Talents |
-| Honour (名誉 meiyo)       | 40 | Justice (義 gi)  and 11 other Fighter Talents |
-| Loyalty (忠義 chūgi)      | 40 | Justice (義 gi) and 11 other Fighter Talents |
+| Respect (礼 rei)          | 15 | Courage (勇 yū) and 4 other Fighter Talents |
+| Compassion (慈悲 jihi)    | 25 | Respect (礼 rei) and 6 other Fighter Talents |
+| Justice (義 gi)           | 65 | Compassion (慈悲 jihi), and 9 other Fighter Talents |
+| Honour (名誉 meiyo)       | 80 | Justice (義 gi)  and 11 other Fighter Talents |
 
-### Courage (勇気 yū)
+### Courage (勇 yū)
 
 <div style="margin-top:-10px;"></div>
 
@@ -43,16 +40,55 @@ You can use this feature three times, and you regain all expended uses of it whe
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Courage (勇気 yū) and 4 other Fighter Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Courage (勇 yū) and 4 other Fighter Talents
 *Your discipline and attention to detail allow you to excel in social situations.*
 
 You can use Wisdom instead of Charisma whenever you make a Persuasion check.
+
+### Compassion (慈悲 jihi)
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Respect (礼 rei) and 6 other Fighter Talents
+When you roll initiative and have no uses of Courage (勇 yū) remaining, you regain one use.
+
+### Justice (義 gi)
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Compassion (慈悲 jihi), and 9 other Fighter Talents
+*You learn to trade accuracy for swift strikes.*
+
+Once per turn, if you take the Strike action on your turn and are rolling 2d20 or more on an attack roll against one of the targets, you can take -1d for that roll to make an additional weapon attack against that target, as part of the same action.
+
+### Honour (名誉 meiyo)
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Justice (義 gi) and 11 other Fighter Talents
+*Your fighting spirit can delay the grasp of death to protect your honor.*
+
+The first time you would take damage that reduces you to 0 hit points and doesn't kill you outright, you can delay falling unconscious. You immediately interrupt the current turn to take an extra turn. 
+
+While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+----------------
+
+## Additonal Talents
+
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Self-Control (自制 jisei) | 10 | Courage (勇 yū) and 3 other Fighter Talents |
+| Integrity (誠 makoto)     | 25 | Compassion (慈悲 jihi) and Self-Control (自制 jisei) |
+| Loyalty (忠義 chūgi)      | 65 | Integrity (誠 makoto) and Justice (義 gi) |
 
 ### Self-Control (自制 jisei)
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Courage (勇気 yū) and 4 other Fighter Talents<br>**Actions:** 1 action
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Courage (勇 yū) and 3 other Fighter Talents<br>**Actions:** 1
 *You have learnt the importance of concentration and of patience in battle.*
 
 You learn one stance when you gain this feature and, each time you gain a fighter talent, you can replace one stance you know with a different one from this feature.
@@ -88,49 +124,20 @@ While in this stance, the first time you hit a creature with a melee weapon atta
 
 While in this stance and until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-### Compassion (慈悲 jihi)
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Respect (礼 rei) and 6 other Fighter Talents
-When you roll initiative and have no uses of Courage (勇気 yū) remaining, you regain one use.
-
 ### Integrity (誠 makoto)
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Self-Control (自制 jisei) and 6 other Fighter Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Compassion (慈悲 jihi) and Self-Control (自制 jisei)
 You have +1d on Initiative checks when you aren't surprised and you may take a stance during the first round of combat as a free action.
 
 Additionally you learn another stance, for a total of 2.
-
-### Justice (義 gi)
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 65 Character Points<br>**Prerequisite:** Integrity (誠 makoto) and 9 other Fighter Talents
-*You learn to trade accuracy for swift strikes.*
-
-Once per turn, if you take the Strike action on your turn and are rolling 2d20 or more on an attack roll against one of the targets, you can take -1d for that roll to make an additional weapon attack against that target, as part of the same action.
-
-### Honour (名誉 meiyo)
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 40 Character Points<br>**Prerequisite:** Justice (義 gi) and 11 other Fighter Talents
-*Your fighting spirit can delay the grasp of death to protect your honor.*
-
-The first time you would take damage that reduces you to 0 hit points and doesn't kill you outright, you can delay falling unconscious. You immediately interrupt the current turn to take an extra turn. 
-
-While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.
-
-Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Loyalty (忠義 chūgi)
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 40 Character Points<br>**Prerequisite:** Justice (義 gi) and 11 other Fighter Talents
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Integrity (誠 makoto) and Justice (義 gi)
 *You have learned to completely master one of your known stances.*
 
 You also learn an additional stance, for a total of 3.
@@ -152,7 +159,7 @@ While in this stance, you have an additional +1d on ability and defence checks t
 
 <div style="margin-top:-10px;"></div>
 
-##### **Actions:** 2
+#### **Actions:** 2
 To enter this stance you must not have moved this round. While in the Water Stance, you can use 2 actions and make an attack against every creature of your choice within 10 feet of you. If there is only one creature in range, you may instead take a Strike action with +1d and double all damage dice rolled. 
 
 Once you have used this action, you cannot perform it again until you have finished a long rest.

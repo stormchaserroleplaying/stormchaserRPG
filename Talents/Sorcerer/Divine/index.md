@@ -7,14 +7,14 @@ grand_parent: Talents
 # Divine Soul
 Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god’s name. Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
 
-A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
+A divine soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a divine soul can undermine an existing order by claiming a direct tie to the divine.
 
-In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+In some cultures, only those who can claim the power of a divine soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
 
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
 
@@ -22,7 +22,7 @@ If you have a bonus spell that doesn’t appear on the mage spell list, that spe
 |:-----------:|:------:|
 | 1st | Detect Evil and Good, Heal |
 | 2nd | Aid, Enhance Ability | 
-| 3rd | Beacon of Hope, Sending| 
+| 3rd | Beacon of Hope, Sending |
 | 4th | Banishment, Guardian of Faith | 
 | 5th | Dispel Evil and Good, Greater Restoration | 
 
@@ -74,19 +74,19 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 5th | Circle of Power, Dispel Evil and Good | 
 
 ### Divine Magic
-When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a mage spell for you.
+When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes a mage spell for you.
 
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Favored by the Gods  | 5  | - |  
-| Empowered Healing    | 10 | 3rd Level Spells and Favored by the Gods |  
-| Otherworldly Wings   | 50 | 7th Level Spells and Empowered Healing  |  
-| Unearthly Recovery   | 80 | 9th Level Spells and Otherworldly Wings |  
-
+| Favored by the Gods | 5  | - |  
+| Empowered Healing   | 10 | 3rd Level Spells and Favored by the Gods |  
+| Otherworldly Wings  | 50 | 7th Level Spells and Empowered Healing  |  
+| Unearthly Recovery  | 80 | 9th Level Spells and Otherworldly Wings |  
 
 ###  Favored by the Gods
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
@@ -101,17 +101,18 @@ If you fail an ability or defense check or miss with an attack roll, you can rer
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Favored by the Gods
 *The divine energy coursing through you can empower healing spells.* 
 
-Whenever you cast a spell which would cause you to roll dice to determine the number of stamina a spell restores, you can spend 1 additional mana to reroll any number of those dice once. You can use this ability only once per turn.
+Whenever you cast a spell that would cause you to roll dice to determine the number of stamina a spell restores, you can spend 1 additional mana to reroll any number of those dice once. You can use this ability only once per turn.
 
 ### Otherworldly Wings
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Empowered Healing<br>**Actions** 1
 *Your faith bestows upon wings to soar through the skies.*
 
-You conjure spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
+You conjure spectral wings from your back. While the wings are present, you have a flying speed equal to your speed. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
 
-The affinity you chose as your influence can determine the appearance of the wings, for example: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
+The divine affinity that you chose determines the appearance of the wings. For exampley, eagle wings for good or law, bat wings for evil or chaos and dragonfly wings for neutrality.
 
 ### Unearthly Recovery
  

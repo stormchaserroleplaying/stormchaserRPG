@@ -31,7 +31,7 @@ When you take your first talent in this branch, choose one type of dragon as you
 | White    | Cold |
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
 

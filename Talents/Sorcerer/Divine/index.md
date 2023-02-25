@@ -14,21 +14,10 @@ In some cultures, only those who can claim the power of a divine soul may comman
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
- 
-If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Detect Evil and Good, Heal |
-| 2nd | Aid, Enhance Ability | 
-| 3rd | Beacon of Hope, Sending |
-| 4th | Banishment, Guardian of Faith | 
-| 5th | Dispel Evil and Good, Greater Restoration | 
-
-Alternatively, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn the additional spells based on that affinity, as shown below.
+Choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn the additional spells based on that affinity, as shown below.
 
 #### Good
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Heal, Shield of Faith |
@@ -38,6 +27,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 5th | Greater Restoration, Reincarnate | 
 
 #### Evil
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | False Life, Inflict Wounds |
@@ -47,6 +37,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 5th | Antilife Shell, Negative Energy Flood | 
 
 #### Law
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Bless, Command |
@@ -56,6 +47,7 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 5th | Hold Monster, Scrying | 
 
 #### Chaos
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Bane, Charm Person |
@@ -65,13 +57,18 @@ Alternatively, choose an affinity for the source of your divine power: good, evi
 | 5th | Dominate Person, Mislead | 
 
 #### Neutrality
+
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Detect Magic, Protection from Evil and Good |
+| 1st | Detect Evil and Good, Protection from Evil and Good |
 | 2nd | Calm Emotions, Locate Object | 
 | 3rd | Dispel Magic, Tongues | 
 | 4th | Arcane Eye, Banishment | 
 | 5th | Circle of Power, Dispel Evil and Good | 
+
+You gain the your bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+ 
+If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
 
 ### Divine Magic
 When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes a mage spell for you.

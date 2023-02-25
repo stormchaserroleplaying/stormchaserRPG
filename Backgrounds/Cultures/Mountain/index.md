@@ -18,6 +18,9 @@ Most mountain dwarves are lawful, believing firmly in the benefits of a well-ord
 
 ## Features
 
+### Dwarven Defensive Training
+You have +1d to your defences vs attacks made by giants.
+
 ### Dwarven Weapon Training
 You are proficient with simple axes and simple bludgeoning weapons.
 

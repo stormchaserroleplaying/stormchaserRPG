@@ -1,6 +1,7 @@
 ---
 title: Occupations
 parent: Backgrounds
+has_children: true
 nav_order: 3
 ---
 

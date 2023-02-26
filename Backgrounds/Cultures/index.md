@@ -10,6 +10,9 @@ The first step in the background creation process is choosing your character’s
 
 For each species, there are a handful of suggested cultural options. When building your character, you can choose only one culture to gain traits from. Each culture listed here includes a description of what sort of life a character from that culture would experience. This description can range from the morals and traditions instilled in them to how they found themselves a part of that culture to begin with. The following sections appear in the description for most cultures.
 
+## Alignment
+Most cultures have tendencies toward certain alignments, as described here. These are not binding for player characters. However, for example, considering why your mountain dwarf is chaotic in defiance of lawful mountain dwarf society can help you to better define your character.
+
 ## Cultural Features
 Each culture contains a range of features. You gain all of the traits associated with your chosen culture, unless the text says otherwise.
 

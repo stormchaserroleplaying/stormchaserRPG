@@ -23,7 +23,7 @@ Forest guardians love freedom, variety, and self-expression, so they lean strong
 ### Mask of the Wild
 You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-## Speak with Small Beasts
+### Speak with Small Beasts
 Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest guardians love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers and other creatures as beloved pets.
 
 ### Weapon Training

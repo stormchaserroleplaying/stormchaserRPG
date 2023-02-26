@@ -12,17 +12,19 @@ Your gnome character has certain characteristics in common with all other gnomes
 ## Age
 Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
+## Features
+
+### Gnome Cunning
+You have +1d to your mental defences vs magic.
+
+### Low-Light Vision
+Gnomes can see twice as far as humans in conditions of dim light.
+
 ## Size
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
 ## Speed
 Subtract 5 feet from your base walking speed.
-
-## Darkvision
-Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
-
-## Gnome Cunning
-You have advantage on all Intelligence, Wisdom, and Charisma defence checks against magic.
 
 ## Languages
 You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.

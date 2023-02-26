@@ -1,7 +1,6 @@
 ---
 title: Gnome
 parent: Species
-has_children: true
 ---
 
 # Gnome

@@ -8,7 +8,7 @@ grand_parent: Talents
 Maneuvers are used by the [Fighter Talent Tree](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter) and presented in alphabetical order. You may only use one maneuver once per turn.
 
 ## Commander's Strike
-When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you. On that creature's next turn, they can make one weapon attack as a free action, adding your martial feat die to the attack's damage roll.
+When you take the Strike action on your turn, you can forgo one of your attacks and use 1 action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you. On that creature's next turn, they can make one weapon attack as a free action, adding your martial feat die to the attack's damage roll.
 
 ## Control Mount
 When you make an animal handling check to influence a creature that you or an ally is riding, you can make the check with +1d. You add this die before or after rolling, but before applying the results of the check.
@@ -23,7 +23,11 @@ When you hit a creature with a weapon attack, you can distract the creature, giv
 When you move, any defence checks that you make until you stop moving are made with +1d.
 
 ## Feinting Attack
-You can feint as a bonus action on your turn. Choose one creature within 5 feet of you as your target. For the rest of your turn, You have +1d on your next attack roll against that creature. If the attack hits, add your martial feat die to the attack's damage roll.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Actions:** 1 action
+You can feint on your turn. Choose one creature within 5 feet of you as your target. For the rest of your turn, You have +1d on your next attack roll against that creature. If the attack hits, add your martial feat die to the attack's damage roll.
 
 ## Goading Attack
 When you hit a creature with a weapon attack, you can attempt to goad the target into attacking you. Add your martial feat die to the attack's damage roll, and, if your attack roll exceeds the target's Wisdom defence, then the target has -1d on all attack rolls against targets other than you until the end of your next turn.
@@ -47,7 +51,11 @@ When you make a weapon attack roll against a creature, you gain +1d. You can use
 When you hit a creature with a weapon attack, you can attempt to drive the target back. Add your martial feat die to the attack's damage roll and, if the target is Large or smaller and your attack roll exceeds its Strength defence, you push the target up to 15 feet away from you.
 
 ## Rally
-As a bonus action, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to your martial feat die roll + your Charisma modifier.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Actions:** 1 action
+Choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to its recovery die roll + your Charisma modifier.
 
 ## Riposte
 If, within the last round, a creature missed you with a melee attack, you may make a melee weapon attack against the creature as a free action. If you hit, you add your martial feat die to the attack's damage roll.

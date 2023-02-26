@@ -9,17 +9,6 @@ An Arcane Marksman studies a unique magical method of marksmanship that weaves m
 
 Arcane Marksmen stand watch over the fringes of elven domains, keep a keen eye out for trespassers of wizard academies, and use their magic-infused ammunition to defeat the monsters of the wilds. 
 
-## Branch Features
-
-You gain the following features when taking your first Talent in this Branch.
-
-### Arcane Precision
-You learn magical theory typical for practitioners of this elven martial tradition. 
-
-You gain proficiency with 1 [martial ranged weapon](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/RangedWeaponTables) group. Additionally, you can use your spellcasting ability instead of Dexterity for the attack and damage rolls made with ranged weapons.
-
-You also choose to gain proficiency in the [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana) skill. If you are already proficient in it, you instead gain expertise in it.
-
 ## Talents
 
 | Talent | CP | Prerequisites |

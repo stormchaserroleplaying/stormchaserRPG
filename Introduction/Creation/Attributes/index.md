@@ -25,8 +25,6 @@ The six attributes and their use in the game are described in detail [here](http
 | **Finesse** | Dexterity | Intelligence |
 | **Resistance** | Constitution | Wisdom |
 
-There are a number of different methods used to generate attributes. Each of these methods gives a different level of flexibility and randomness to character generation.
-
 Species modifiers are applied after the scores are generated.
 
 After assigning your attributes, determine your attribute modifiers using the table below. To determine an attribute modifier without consulting the table, subtract 10 from the attribute and then divide the result by 2 (round down).
@@ -49,6 +47,8 @@ After assigning your attributes, determine your attribute modifiers using the ta
 | 26–27 | +8 |
 | 28–29 | +9 |
 | 30 | +10 |
+
+The following methods of attribute generation provide varying levels of flexibility and randomness.
 
 ## Low Fantasy
 Roll 3d6, rerolling all 1s, and add the dice together. Record the total and repeat the process until you have six numbers. Assign these results to your attributes as you see fit.

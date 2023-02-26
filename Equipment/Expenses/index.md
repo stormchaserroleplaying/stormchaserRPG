@@ -2,7 +2,7 @@
 title: Expenses
 parent: Equipment
 has_children: true
-nav_order: 9
+nav_order: 10
 ---
 
 # Expenses

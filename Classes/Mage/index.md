@@ -13,11 +13,12 @@ As a mage, you have the following class features.
 Mages have stamina equal to 2× their Constitution score. Their recovery die is a d6.
 
 ### Proficiencies
-**Armour:** None<br>
-**Weapons:** Simple weapons<br>
-**Tools:** None<br>
+**Perception:** Untrained<br>
 **Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
-**Skills:** Choose 2 from Arcana, Deception, History, Insight, Intimidation, Investigation and Theology
+**Skills:** Choose 2 from Arcana, Deception, History, Insight, Intimidation, Investigation and Theology<br>
+**Weapons:** Simple weapons<br>
+**Armour:** None<br>
+**Tools:** None
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the arcane spell list.
@@ -32,7 +33,10 @@ You have 3 mana with which to cast your arcane spells of 1st level and higher. T
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your arcane spells.
 
 ### Potent Cantrips
-*Prerequisite:* 5 Other Disciple or Mage Talents<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** 5 Other Disciple or Mage Talents
 Your cantrips deal one additional die of damage.
 
 ## Talents

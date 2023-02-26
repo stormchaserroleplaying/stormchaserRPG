@@ -14,7 +14,7 @@ Choosing a background provides you with important story cues about your characte
 ## Benefits
 Each background provides a character with:
 * 2x +1 (stackable) to mental attributes that you consider your character to have developed as a result of this background.
-* A background feature, which is a unique benefit based on your character's background.
+* An occupational feature, which is a unique benefit based on your character's occupation.
 * A package of starting equipment that your character possesses from their previous occupation.
 * 10 character points to spend on background talents, skills, tools or languages, as described below.
 

@@ -68,7 +68,7 @@ Choose an affinity for the source of your divine power: good, evil, law, chaos, 
 
 You gain the your bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
-If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
+If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 ### Divine Magic
 When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes a mage spell for you.
@@ -109,7 +109,7 @@ Whenever you cast a spell that would cause you to roll dice to determine the num
 
 You conjure spectral wings from your back. While the wings are present, you have a flying speed equal to your speed. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
 
-The divine affinity that you chose determines the appearance of the wings. For exampley, eagle wings for good or law, bat wings for evil or chaos and dragonfly wings for neutrality.
+The divine affinity that you chose determines the appearance of the wings. For example, eagle wings for good or law, bat wings for evil or chaos and dragonfly wings for neutrality.
 
 ### Unearthly Recovery
  

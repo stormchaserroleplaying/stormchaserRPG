@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Encounters
-In the course of your adventures, there will be times when a simple skill check is not enough to resolve a challenge. When fearsome monsters stand in your character’s way and the only choice is to do battle. In Stormchaser, this is called an encounter. Encounters usually involve combat, but they can also be used in situations where timing is critical, such as during a chase or when dodging hazards.
+In the course of your adventures, there will be times when a simple skill check is not enough to resolve a challenge. Times when fearsome monsters stand in your character’s way and the only choice is to do battle. In Stormchaser, this is called an encounter. Encounters usually involve combat, but they can also be used in situations where timing is critical, such as during a chase or when dodging hazards.
 
 While exploration is handled in a free-form manner, encounters are more structured. The players and GM roll **initiative** to determine who acts in what order. The encounter occurs over a number of **rounds**, each of which is equal to about 6 seconds of time in the world of the game. During a round, each participant takes a **turn**. When it’s your turn to act, you can use up to three **actions**. Most simple things, such as drawing a weapon, moving a short distance, opening a door, or swinging a sword, use a single action to perform. There are also **activities** that use more than a single action to perform; these are often special abilities from your character’s class and feats. One common activity in the game is casting a spell, which usually uses two actions. **Free actions**, such as dropping an object, don’t count toward the three actions you can take on your turn.
 

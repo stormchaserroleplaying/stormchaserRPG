@@ -12,6 +12,19 @@ Always on the lookout for danger, you gain the following benefits:
 * You have advantage on initiative.
 * Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you.
 
+## Berserker's Cry
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** Charisma 13
+*Your cry of bloodthirsty fury inspires those around you to greater acts of violence.*
+
+Once per day, as an action, you may unleash a powerful, bloodthirsty scream of battle lust and fury. Allies within 60 feet who can hear your berserker’s cry (including yourself) are heartened and gain a +1 morale bonus on damage rolls made with melee attacks for a number of rounds equal to your Charisma bonus. If you have the ability to rage, you may unleash a berserker’s cry as part of the free action to enter a rage (instead of as a separate action).
+
+A creature may be under the effect of only one berserker’s cry at a time.
+
+You may take this takent multiple times. Every time that you take this talent, you may unleash a berserker’s cry one additional time per day.
+
 ## Blinding Agility
 *Prerequisite: Dexterity 20 or +2 species bonus to Dexterity*<br>
 You have the reflexes of one who can see things before they happen, granting the following benefits:

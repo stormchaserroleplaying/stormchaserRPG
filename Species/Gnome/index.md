@@ -14,6 +14,9 @@ Gnomes mature at the same rate humans do, and most are expected to settle down i
 
 ## Features
 
+### Attribute Score Increase
+Your Dexterity and Constitution scores increase by 1.
+
 ### Gnome Cunning
 You have +1d to your mental defences vs magic.
 

@@ -1,7 +1,6 @@
 ---
 title: Dwarf
 parent: Species
-has_children: true
 ---
 
 # Dwarf

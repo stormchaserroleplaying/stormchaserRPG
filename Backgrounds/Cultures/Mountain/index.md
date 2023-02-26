@@ -49,4 +49,4 @@ If you aren't using the [Seek](https://stormchaserroleplaying.com/stormchaserRPG
 You gain proficiency with one of the following sets of artisan’s tools: smith’s tools, brewer’s supplies, or mason’s tools.
 
 ## Languages
-You can speak, read and write Dwarvish and one other language. 
+You can speak, read and write Dwarvish and one other language. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.

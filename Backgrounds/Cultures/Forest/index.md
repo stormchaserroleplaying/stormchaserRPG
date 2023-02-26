@@ -27,4 +27,8 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 You are trained with martial blades and martial bows. You treat any weapon with the word “elven” in its name or properties as a martial weapon. If your class grants training with martial blades or martial bows, you gain 1 proficiency point. If your class grants training with both martial blades and martial bows, you gain 2 proficiency points.
 
 ## Languages
-You can speak, read, and write Elvish and one local human language of your choice. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+You can speak, read and write Elvish, Gnomish and one other language.
+
+Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
+
+The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.

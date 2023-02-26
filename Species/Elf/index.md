@@ -37,3 +37,6 @@ Elves don't need to sleep. Instead, they meditate deeply, remaining semiconsciou
 
 ## Race
 Ancient divides amongst the elven people resulted in six main races: high elves, wood elves, sea elves, dark elves, shadow elves and fey elves. Choose one of these races.
+
+### Wood Elves
+As a wood elf, you have keen senses and intuition and your fleet feet carry you quickly and stealthily through your native forests. Wood elves are frequently more friendly than high elves, with olive skin, dark brown, red, or ocasionally dark blonde hair and green, brown, or hazel eyes.

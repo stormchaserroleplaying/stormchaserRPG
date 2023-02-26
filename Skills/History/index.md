@@ -14,6 +14,9 @@ Is that statue historically relevant to the people who made the dungeon you're i
 ### Appraising
 Knowing the cut of a gem, the difficulty in casting a bronze statue, or the elegance of a wooden box, allows you to understand exactly how ripped off you're going to get from the merchants in town.
 
+### Artifice Lore
+Artifice lore is related to magic items, alchemical objects, or technological devices.
+
 ### Bureaucracy
 A hero gains understanding of the ins and outs of governments, politics, and those who pull the strings behind the scenes. Players who train in bureaucracy long for the safety of dungeons. 
 

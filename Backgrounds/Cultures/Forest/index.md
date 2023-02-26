@@ -23,6 +23,9 @@ Forest guardians love freedom, variety, and self-expression, so they lean strong
 ### Mask of the Wild
 You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
+### Speak with Small Beasts
+Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest guardians love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers and other creatures as beloved pets.
+
 ### Weapon Training
 You are trained with martial blades and martial bows. You treat any weapon with the word “elven” in its name or properties as a martial weapon. If your class grants training with martial blades or martial bows, you gain 1 proficiency point. If your class grants training with both martial blades and martial bows, you gain 2 proficiency points.
 

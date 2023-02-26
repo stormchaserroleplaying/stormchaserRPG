@@ -1,7 +1,6 @@
 ---
 title: Gnome
 parent: Species
-has_children: true
 ---
 
 # Gnome
@@ -14,20 +13,20 @@ Gnomes mature at the same rate humans do, and most are expected to settle down i
 
 ## Features
 
+### Attribute Score Increase
+Your Dexterity and Constitution scores increase by 1.
+
 ### Gnome Cunning
 You have +1d to your mental defences vs magic.
 
 ### Low-Light Vision
 Gnomes can see twice as far as humans in conditions of dim light.
 
+### Natural Illusionist
+You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Intelligence is your spellcasting ability for it. If you are a spellcaster, then this cantrip does not count towards your total number of cantrips known.
+
 ## Size
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
 ## Speed
 Subtract 5 feet from your base walking speed.
-
-## Languages
-You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
-
-## Race
-Two races of gnomes are found: forest gnomes and rock gnomes. Choose one of these races.

@@ -1,6 +1,7 @@
 ---
 title: Stealth
 parent: Skills
+has_children: true
 ---
 
 # Stealth

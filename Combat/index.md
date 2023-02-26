@@ -1,10 +1,11 @@
 ---
 title: Combat
 has_children: true
-nav_order: 10
+nav_order: 13
 ---
 
 # Combat
-The clatter of a sword striking against a shield. The terrible rending sound as monstrous claws tear through armor. A brilliant flash of light as a ball of flame blossoms from a wizard's spell. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in Arden can be chaotic, deadly and thrilling.
+When every individual action counts, you enter the encounter mode of play. In this mode, time is divided into rounds, each of which is 6 seconds of time in the game world. Every round, each participant takes a turn in an established order. During your turn, you can use actions, and depending on the details of the encounter, you might have the opportunity to use free actions on your own turn and on others' turns.
 
-This section provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this section, the rules address you, the player or Game Master. The Game Master controls all the monsters and non-player characters involved in combat. Each other player controls an adventurer. "You" can also mean the character or monster that you control.
+## Activities in Encounters
+Activities that take longer than a turn can’t normally be performed during an encounter. Spells with a casting time of 1 minute or more are a common example of this, as are several skill actions. When you commit to an activity during your turn in an encounter, you commit to spending all of the actions that it requires. If the activity gets interrupted part way through, then you lose all of the actions that you would have spent on that activity. Activities are described in full [here]().

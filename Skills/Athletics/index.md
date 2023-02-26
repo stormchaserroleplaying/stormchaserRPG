@@ -1,6 +1,7 @@
 ---
 title: Athletics
 parent: Skills
+has_children: true
 ---
 
 # Athletics

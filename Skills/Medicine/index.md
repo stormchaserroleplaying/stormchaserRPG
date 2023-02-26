@@ -1,6 +1,7 @@
 ---
 title: Medicine
 parent: Skills
+has_children: true
 ---
 
 # Medicine

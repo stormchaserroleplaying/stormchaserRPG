@@ -24,7 +24,7 @@ Consult the Manifestations of Order table and choose or randomly determine a way
 ### Bonus Spells
 You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
-If you have a bonus spell that doesn’t appear on the mage spell list, that spell is nevertheless an mage spell for you.
+If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

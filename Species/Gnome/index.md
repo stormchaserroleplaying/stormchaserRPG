@@ -33,4 +33,4 @@ Subtract 5 feet from your base walking speed.
 You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
 ## Race
-Two races of gnomes are found: forest gnomes and rock gnomes. Choose one of these races.
+Two races of gnomes are found: forest gnomes and rock gnomes. Rock gnomes have a natural inventiveness and hardiness beyond that of other gnomes. Choose one of these races.

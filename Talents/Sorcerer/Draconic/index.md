@@ -12,36 +12,55 @@ Your innate magic comes from draconic magic that was mingled with your blood, or
 ### Dragon Ancestor
 When you take your first talent in this branch, choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features and talents you gain later.
 
-| Dragon | Damage Type |
-|:------:|:-----------:|
-| Amethyst | Profane |
-| Black    | Acid |
-| Blue     | LIghtning |
-| Brass    | Fire |
-| Bronze   | Lightning |
-| Copper   | Acid |
-| Emerald  | Psychic|
-| Gold     | Fire |
-| Green    | Poison |
-| Red      | Fire |
-| Ruby     | Sonic |
-| Sapphire | Energy |
-| Silver   | Cold |
-| Topaz    | Sacred |
-| White    | Cold |
+| Dragon Type | Dragon Class | Damage Type |
+|:-----------:|:------------:|:-----------:|
+| Amethyst | Gemstone  | Profane |
+| Black    | Chromatic | Acid |
+| Blue     | Chromatic | Electric |
+| Brass    | Metallic   | Fire |
+| Bronze   | Metallic   | Electric  |
+| Copper   | Metallic   | Acid |
+| Emerald  | Gemstone  | Sonic|
+| Gold     | Metallic   | Fire |
+| Green    | Chromatic | Poison |
+| Red      | Chromatic | Fire |
+| Ruby     | Gemstone  | Psychic |
+| Sapphire | Gemstone  | Sacred |
+| Silver   | Metallic   | Cold |
+| Topaz    | Gemstone  | Energy |
+| White    | Chromatic | Cold |
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Based upon your chosen dragon ancestor, you gain spells from the corresponding lists below, once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Cause Fear, Thunderwave |
-| 2nd | Dragon's Breath, See Invisibility | 
-| 3rd | Fear, Fly | 
-| 4th | Elemental Bane, Stoneskin | 
-| 5th | Hold Monster, Skill Empowerment | 
+#### Metallic 
+| Spell Level | All | Brass | Bronze | Copper | Gold | Silver |
+|:-----------:|:---:|:-----:|:------:|:------:|:----:|:------:|
+| 1st | Cause Fear        | Sleep        | Fog Cloud       | Hideous Laughter | Burning Hands | Ice Knife    |
+| 2nd | Dragon's Breath   | Suggestion   | Shatter         | Acid Arrow       | Zone of Truth | Hold Person  |
+| 3rd | Fly               | Fireball     | Call Lightning  | Slow             | Slow          | Feign Death  |
+| 4th | Polymorph         | Wall of Fire | Watery Sphere   | Vitriolic Sphere | Banishment    | Ice Storm    |
+| 5th | Skill Empowerment | Immolation   | Telekenisis     | Mislead          | Flame Strike  | Hold Monster | 
+
+#### Chromatic 
+| Spell Level | All | Black | Blue | Green | Red | White |
+|:-----------:|:---:|:----:|:----:|:----:|:-----:|:-----:|
+| 1st | Cause Fear        | Corrositve Stream  | Witch Bolt    | Charm Person    | Burning Hands  | Frost Fingers |
+| 2nd | Dragon's Breath   | Blindness/Deafness | Dust Devil    | Invisibility    | Heat Metal     | Binding Ice   |
+| 3rd | Fly               | Gaseous From       | Wind Wall     | Stinking Cloud  | Erupting Earth | Sleet Storm   |
+| 4th | Polymorph         | Vitriolic Sphere   | Storm Sphere  | Graspng Vine    | Stone Shape    | Ice Storm     |
+| 5th | Skill Empowerment | Insect Plague      | Control Winds | Dominate Person | Immolation     | Cone of Cold  |
+
+#### Gemstone
+| Spell Level | All | Amethyst | Emerald | Ruby | Sapphire | Topaz |
+|:-----------:|:---:|:--------:|:-------:|:----:|:--------:|:-----:|
+| 1st | Dissonant Whispers | Hex            | Thunderwave     | Detect Magic     | Guiding Bolt       | Magic Missile      | 
+| 2nd | Detect Thoughts    | Mind Whip      | Misty Step      | See Invisibility | Rope Trick         | Borrowed Knowledge |
+| 3rd | Fly                | Enemies Abound | Tidal Wave      | Dispel Magic     | Clairvoyance       | Counterspell       |
+| 4th | Arcane Eye         | Shadow of Moil | Control Water   | Pyschic Lance    | Sickening Radiance | Confusion          |
+| 5th | Telepathic Bond    | Enervation     | Synaptic Static | Circle of Power  | Summon Celestial   | Arcane Hand        |
 
 ## Talents
  

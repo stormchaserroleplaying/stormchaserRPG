@@ -15,9 +15,6 @@ Your Dexterity score rises by 2.
 ## Age
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
-## Size
-Elves range from well over 5 feet to around 6½ feet tall and have slender builds. Your size is Medium.
-
 ## Features
 
 ### Low-Light Vision
@@ -29,14 +26,20 @@ You have +1d in the Perception skill.
 ### Fey Ancestry
 You have +1d to your defences to avoid being charmed, and magic can’t put you to sleep.
 
-### Fleet of Foot
-Add 5 feet to your base walking speed.
-
 ### Trance
 Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
-## Race
-Ancient divides amongst the elven people resulted in six main races: high elves, wood elves, sea elves, dark elves, shadow elves and fey elves. Choose one of these races.
+## Phenotype
+Ancient divides amongst the elven people resulted in six main phenotypes: high elves, wood elves, sea elves, dark elves, shadow elves and fey elves. Choose one of these phenotypes.
+
+### High Elves
+Many high elves are haughty and reclusive, believing themselves to be superior to other species and races. They are fair of face with alabaster skin, light blonde, light brown, or jet black hair and blue or green eyes.
 
 ### Wood Elves
-As a wood elf, you have keen senses and intuition and your fleet feet carry you quickly and stealthily through your native forests. Wood elves are frequently more friendly than high elves, with olive skin, dark brown, red, or ocasionally dark blonde hair and green, brown, or hazel eyes.
+Wood elves are frequently more friendly than high elves, with olive skin, dark brown, red, or ocasionally dark blonde hair and green, brown, or hazel eyes.
+
+## Size
+Elves range from well over 5 feet to around 6½ feet tall and have slender builds. Your size is Medium.
+
+## Speed
+Add 5 feet to your base walking speed.

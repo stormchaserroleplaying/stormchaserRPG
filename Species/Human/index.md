@@ -41,7 +41,7 @@ Many diverse human phenotypes exist, such as [Norscans](https://stormchaserrolep
 ## Size
 Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-|:------:|:-----------:|:---------------:|:-----------:|:---------------:|
-| Male   | 4 ft. 10 in. | +2d10 in. (5 ft – 6 ft. 6 in.)        | 120 lbs. | +(2d10 × 2d4 lbs.) (124 – 280 lbs.) |
-| Female | 4 ft. 5 in.  | +2d10 in. (4 ft. 7 in. – 6 ft. 1 in.) | 85 lbs.  | +(2d10 × 2d4 lbs.) (89 – 245 lbs.)  |
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Male   | 4'10" | +2d10 (5'-6'6")   | 120 lbs. | +(2d10 × 2d4) lbs. (124 – 280 lbs.) |
+| Female | 4'5"  | +2d10 (4'7"-6'1") | 85 lbs.  | +(2d10 × 2d4) lbs. (89 – 245 lbs.)  |

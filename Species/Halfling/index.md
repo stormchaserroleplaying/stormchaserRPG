@@ -31,7 +31,7 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 Your Dexterity score increases by 2.
 
 ### Brave
-You have +1d on defence checks against being frightened.
+You have +1d to defences vs being frightened.
 
 ### Lucky
 When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
@@ -45,5 +45,7 @@ Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Smal
 ## Speed
 Subtract 5 feet from your base walking speed.
 
-## Languages
-You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Male   | 2'8" | +2d4 (2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs. (32 – 38 lbs.) |
+| Female | 2'6" | +2d4 (2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs. (27 – 33 lbs.) |

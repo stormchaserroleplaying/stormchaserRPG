@@ -16,14 +16,21 @@ Dwarves mature at the same rate as humans, up to the age of 12. After this point
 
 Dwarves move Charisma to the set of attributes receiving penalties with age and Constitution to those receiving bonuses.
 
+## Features
+
+### Darkvision
+Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
+
+### Dwarven Resilience
+You have +1d to your defences vs poison and [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) to [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
+
 ## Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Male   | 3'9" | +2d4 (3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs. (154 – 246 lbs.) | 
+| Female | 3'7" | +2d4 (3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs. (124 – 216 lbs.) |
+
 ## Speed
 Subtract 5 feet from your base walking speed. However, your speed is never modified by armour or encumbrance.
-
-## Darkvision
-Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
-
-## Dwarven Resilience
-You have +1d to your defences vs poison and [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) to [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).

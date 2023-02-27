@@ -7,9 +7,8 @@ grand_parent: Backgrounds
 # Samurai 
 The Samurai are the militaristic retainers of noble clans who are sent to lead armies as officers or keep the peace between the people. They themselves are often part of the nobility too, holding high prestige, land of their own, and having special privileges not given to any other social class. 
 
-### Bushidō
+## Bushidō
 Although not all Samurai follow similar values, many are taught basic, but difficult, ways to conduct themselves as a warrior and noble. These shared values have often been refered to as "The Eight Virtues of Bushidō"
-
 - *Justice (義 gi):* Reflect on what is fair and uphold yourself to upstanding moral character. 
 - *Courage (勇 yū):* Decipher what is right and wrong and have the strength to act upon it.
 - *Compassion (慈悲 jihi):* Manifest love and sympathy through patience and ensure you see the world from the perspective of another.
@@ -52,8 +51,9 @@ A set of fine clothes with your clan symbol stitched into the back, a tanto (sma
  - An omamori (simple charm) you keep for luck and protection.
 
 ## Clan Examples
+
 | d12 | Clan | d12 | Clan |
-|:------:|:------:|:------:|:------:|
+|:---:|:----:|:---:|:----:|
 | 1 | Abe       | 7   | Otomo |
 | 2 | Fujiwara  | 8   | Soga |
 | 3 | Minamoto  | 9   | Sugawara |

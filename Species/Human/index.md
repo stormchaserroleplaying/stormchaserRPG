@@ -9,6 +9,21 @@ Humans possess exceptional drive and a great capacity to endure and expand. Thei
 ## Age
 Humans reach adulthood in their late teens and live less than a century.
 
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <16 Years       |
+| Young Adult | 16-34 Years     |
+| Middle Aged | 35-52 Years     |
+| Old         | 53-69 Years     |
+| Venerable   | >70 Years       |
+| Maximum Age | 70 + 2d20 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 15 + 1d4 (16-19) Years |
+| Bard, Fighter, Paladin and Ranger      | 15 + 1d6 (16-21) Years |
+| Cleric, Druid, Monk and Wizard         | 15 + 2d6 (17-27) Years |
+
 ## Features
 
 ### Attribute Score Increase
@@ -25,3 +40,8 @@ Many diverse human phenotypes exist, such as [Norscans](https://stormchaserrolep
 
 ## Size
 Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+|:------:|:-----------:|:---------------:|:-----------:|:---------------:|
+| Male   | 4 ft. 10 in. | +2d10 in. (5 ft – 6 ft. 6 in.)        | 120 lbs. | +(2d10 × 2d4 lbs.) (124 – 280 lbs.) |
+| Female | 4 ft. 5 in.  | +2d10 in. (4 ft. 7 in. – 6 ft. 1 in.) | 85 lbs.  | +(2d10 × 2d4 lbs.) (89 – 245 lbs.)  |

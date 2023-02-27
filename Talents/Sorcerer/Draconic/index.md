@@ -31,12 +31,11 @@ When you take your first talent in this branch, choose one type of dragon as you
 | White    | Chromatic | Cold |
 
 ### Bonus Spells
-Based upon your chosen drgaon ancestor, you gain spells from the below corresponding lists once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Based upon your chosen dragon ancestor, you gain spells from the corresponding lists below, once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
-
-#### Metalic 
+#### Metallic 
 | Spell Level | All | Brass | Bronze | Copper | Gold | Silver |
 |:-----------:|:---:|:-----:|:------:|:------:|:----:|:------:|
 | 1st | Cause Fear        | Sleep        | Fog Cloud       | Hideous Laughter | Burning Hands | Ice Knife    |

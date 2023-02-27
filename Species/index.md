@@ -17,8 +17,8 @@ Advanced age modifies your attribute scores. Age brackets vary with species. The
 | Age Bracket | Effects |
 |:-----------:|:-------:|
 | Middle Age | -1 to Str, Dex or Con. +1 to Int, Wis or Cha. |
-| Elderly    | -1 to two of Str, Dex and Con. +1 to two of Int, Wis and Cha. Movement speed is reduced by 5 ft. |
-| Venerable  | -1 to Str, Dex and Con. +1 to Int, Wis and Cha. Movement speed is reduced by 5 ft. |
+| Elderly    | -1 to two of Str, Dex and Con. +1 to two of Int, Wis and Cha.<br>Movement speed is reduced by 5 ft. |
+| Venerable  | -1 to Str, Dex and Con. +1 to Int, Wis and Cha.<br>Movement speed is reduced by 5 ft. |
 
 ## Alignment
 A few specific species, such as dragonkin, originate from bloodlines that have strong inclinations towards specific alignments. These are not binding for player characters, who may overcome their nature through great effort. However, this can lend a certain flavour to a character's story.
@@ -41,22 +41,32 @@ Alternatively, you can choose your character’s height and weight based on the 
 
 | Species | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:--------|:------------|:----------------|------------:|------------------:|
-| Dragonborn        | 5'6" | +2d8 (5'8" – 6'10") | 175 lbs. | +(2d8 × 2d6) lbs. (179 – 367 lbs.) |
-| Dwarf, Male       | 3'9" | +2d4 (3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs. (154 – 246 lbs.) | 
-| Dwarf, Female     | 3'7" | +2d4 (3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs. (124 – 216 lbs.) |
-| Elf, Dark, Male   | 5'4" | +2d6 (5'6" – 6'4")  | 90 lbs.  | +(2d6 × 2d4) lbs. (94 – 186 lbs.)  |
-| Elf, Dark, Female | 5'4" | +2d8 (5'6" – 6'8")  | 110 lbs. | +(2d8 × 2d4) lbs. (114 – 238 lbs.) |
-| Elf, Fey          | 5'4" | +2d10 (5'6" – 7')   | 90 lb. | × (1d4) lb. |
-| Elf, high  | 5'4" | +2d10 | 90 lb. | × (1d4) lb. |
-| Elf, sea   | 4’10" | +2d8 | 90 lb. | × (1d4) lb. |
-| Elf, shadow | 5’ | +2d8 | 90 lb. | × (1d4) lb. |
-| Elf, wood  | 4’10" | +2d10 | 100 lb. | × (1d4) lb. |
-| Gnome      | 2’11" | +2d4 | 35 lb. | × 1 lb. |
-| Half-elf   | 4’9" | +2d8 | 110 lb. | × (2d4) lb. |
-| Half-orc   | 4’10" | +2d10 | 140 lb. | × (2d6) lb. |
-| Halfling   | 2’7" | +2d4 | 35 lb. | × 1 lb. |
-| Human      | 4’8" | +2d10 | 110 lb. | × (2d4) lb. |
-| Tiefling | 4’9" | +2d8 | 110 lb. | × (2d4) lb. |
+| Dragonkin, Male     | 5'6"  | +2d8 (5'8" – 6'10") | 175 lbs. | +(2d8 × 2d6) lbs. (179 – 367 lbs.)  |
+| Dragonkin, Female   | 5'4"  | +2d8 (5'6" – 6'8" ) | 150 lbs. | +(2d8 × 2d6) lbs. (154 – 342 lbs.)  |
+| Dwarf, Male         | 3'9"  | +2d4 (3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs. (154 – 246 lbs.)  | 
+| Dwarf, Female       | 3'7"  | +2d4 (3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs. (124 – 216 lbs.)  |
+| Elf, Dark, Male     | 5'4"  | +2d6 (5'6" – 6'4")  | 90 lbs.  | +(2d6 × 1d6) lbs. (92 – 162 lbs.)   |
+| Elf, Dark, Female   | 5'4"  | +2d8 (5'6" – 6'8")  | 100 lbs. | +(2d8 × 1d6) lbs. (102 – 196 lbs.)  |
+| Elf, Fey, Male      | 5'4"  | +2d10 (5'6" – 7')   | 100 lbs. | +(2d10 × 1d4) lbs. (102 – 180 lbs.) |
+| Elf, Fey, Female    | 5'4"  | +2d8 (5'6" – 6'8")  | 90 lbs.  | +(2d8 × 1d4) lbs. (82 – 144 lbs.)   |
+| Elf, High, Male     | 5'4"  | +2d8 (5'6" – 6'8")  | 100 lbs. | +(2d8 × 1d4) lbs. (102 – 164 lbs.)  |
+| Elf, High, Female   | 5'4"  | +2d6 (5'6" – 6'4")  | 90 lbs.  | +(2d6 × 1d4) lbs. (92 – 138 lbs.)   |
+| Elf, Sea, Male      | 5'4"  | +2d6 (5'6" – 6'4")  | 100 lbs. | +(2d6 × 1d4) lbs. (102 – 148 lbs.)  |
+| Elf, Sea, Female    | 5'4"  | +2d4 (5'6" – 6'0")  | 90 lbs.  | +(2d4 × 1d4) lbs. (92 – 122 lbs.)   |
+| Elf, Shadow, Male   | 5'6"  | +2d6 (5'8" – 6'6")  | 100 lbs. | +(2d6 × 1d4) lbs. (102 – 148 lbs.)  |
+| Elf, Shadow, Female | 5'6"  | +2d4 (5'8" – 6'2")  | 90 lbs.  | +(2d4 × 1d4) lbs. (92 – 122 lbs.)   |
+| Elf, Wood, Male     | 5'4"  | +2d8 (5'6" – 6'8")  | 110 lbs. | +(2d8 × 1d4) lbs. (112 – 174 lbs.)  |
+| Elf, Wood, Female   | 5'4"  | +2d6 (5'6" – 6'4")  | 100 lbs. | +(2d6 × 1d4) lbs. (102 – 148 lbs.)  |
+| Gnome, Male         | 3'0"  | +2d4 (3'2" – 3'8")  | 35 lbs.  | +(2d4 × 1) lbs. (37 – 43 lbs.)      |
+| Gnome, Female       | 2'10" | +2d4 (3'0" – 3'6")  | 30 lbs.  | +(2d4 × 1) lbs. (32 – 38 lbs.)      |
+| Half-Elf, Male      | 5'2"  | +2d8 (5'4" – 6'6")  | 100 lbs. | +(2d8 × 2d4) lbs. (104 – 228 lbs.)  |
+| Half-Elf, Female    | 5'0"  | +2d8 (5'2" – 6'4")  | 90 lbs.  | +(2d8 × 2d4) lbs. (94 – 218 lbs.)   |
+| Half-Orc, Male      | 4'10" | +2d12 (5' – 6'10")  | 150 lbs. | +(2d12 × 2d6) lbs. (154 – 438 lbs.) |
+| Half-Orc, Female    | 4'5"  | +2d12 (4'7" – 6'5") | 110 lbs. | +(2d12 × 2d6) lbs. (114 – 398 lbs.) |
+| Halfling, Male      | 2'8"  | +2d4 (2'10" – 3'4") | 30 lbs.  | +(2d4 × 1) lbs. (32 – 38 lbs.)      |
+| Halfling, Female    | 2'6"  | +2d4 (2'8" – 3'2")  | 25 lbs.  | +(2d4 × 1) lbs. (27 – 33 lbs.)      |
+| Human, Male         | 4'10" | +2d10 (5'-6'6")     | 120 lbs. | +(2d10 × 2d4) lbs. (124 – 280 lbs.) |
+| Human, Female       | 4'5"  | +2d10 (4'7"-6'1")   | 85 lbs.  | +(2d10 × 2d4) lbs. (89 – 245 lbs.)  |
 
 ## Speed
 Each time that a creature spends an action (such as [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/)) to move, they move their speed.

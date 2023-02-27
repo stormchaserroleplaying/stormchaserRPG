@@ -33,7 +33,7 @@ Increase two different physical attributes of your choice by 1.
 Humans are known to be stubborn and often refuse to give up, even against the worst odds. When you fail a skill check, you may add +1d to the check, even after rolling. You must then finish a short or long rest before you can use this feature again.
 
 ### Versatile
-You gain 5 character points.
+You gain 10 character points.
 
 ## Phenotype
 Many diverse human phenotypes exist, such as [Norscans](https://stormchaserroleplaying.com/Arden/Species/Humans/Norscans/) in the world of [Arden](https://stormchaserroleplaying.com/Arden/).

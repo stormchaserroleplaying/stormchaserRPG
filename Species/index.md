@@ -12,19 +12,26 @@ The following entries appear for most species:
 ## Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species' expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character, which could provide an explanation for some of your ability scores. For example, if you play a young or very old character, your age could explain a particularly low Strength or Constitution score, while advanced age could account for a high Intelligence or Wisdom.
 
-## Species Features
-The description of each species includes species traits that are common to members of that species.
+## Alignment
+A few specific species, such as dragonkin, originate from bloodlines that have strong inclinations towards specific alignments. These are not binding for player characters, who may overcome their nature through great effort. However, this can lend a certain flavour to a character's story.
 
-(Species armour proficiencies stack with class armour proficiencies to reduce the time to don and doff armour of that kind by one weight category.)
+## Features
+The description of each species includes features that are common to members of that species.
 
 ### Attribute Score Increase
-Every species increases one or more of a character’s physical attribute scores.
+Every species increases one or more of a character's physical attribute scores.
+
+## Phenotype
+Some species can be classified into distinct phenotypical groupings. Members of a given phenotype have all of the features of their species, along with some specific to their phenotype. Relationships among phenotypical groups vary significantly.
 
 ## Size
-Characters of most species are Medium, a size category including creatures that are roughly 4 to 8 feet tall. Members of a few species are Small (between 2 and 4 feet tall), which means that certain rules of the game affect them differently. The most important of these rules is that Small characters have trouble wielding [unwieldy weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#unwieldy).
+This tells you the physical size of members of the species. Medium corresponds roughly to the height and weight range of a human adult, and Small is roughly half of that.
 
 ## Speed
-Your speed determines how far you can move when [traveling](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Movement/) and [fighting](http://stormchaserroleplaying.com/stormchaserRPG/Combat/MovementandPosition/).
+Each time that a creature spends an action (such as [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/)) to move, they move their speed.
 
-## Races
-Some species have races. Members of a race have the traits of the parent species in addition to the traits specified for their race. Relationships among races vary significantly from species to species and world to world.
+All creatures have a base speed of:
+
+<center><strong>Speed in Feet = ( Strength Score + Dexterity Score )</strong></center>
+
+This entry modifies a creature's base speed, depending on it species.

@@ -14,6 +14,8 @@ Your Constitution score rises by 2.
 ## Age
 Dwarves mature at the same rate as humans, up to the age of 12. After this point their mental development continues similarly to human children, but their physical development progresses only half as fast. The majority of dwarven puberty is complete at the age of 24 and they are considered ‘of age’ at 30. Although dwarves are capable of reproduction from around the age of 20, they typically start families between the age of 150 and 250. At the age of 250 a dwarf is considered middle-aged and elder dwarves are over 350 years old. The truly venerable live to be 450 or older. Very few dwarves live past 500.
 
+Dwarves move Charisma to the set of attributes receiving penalties with age and Constitution to those receiving bonuses.
+
 ## Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 

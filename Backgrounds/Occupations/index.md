@@ -2,7 +2,7 @@
 title: Occupations
 parent: Backgrounds
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
 # Occupations

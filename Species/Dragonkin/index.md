@@ -24,19 +24,19 @@ You have draconic ancestry. Choose one type of dragon from the table below:
 |:-----------:|:---------:|:-----------:|:-------------:|
 | Gold | Lawful Good | Fire | 15 ft. cone (Dexterity defence) |
 | Silver | Lawful Good | Cold | 15 ft. cone (Constitution defence) |
-| Bronze | Lawful Good | Lightning | 5 by 30 ft. line (Dexterity defence) |
+| Bronze | Lawful Good | Electric | 5 by 30 ft. line (Dexterity defence) |
 | Copper | Chaotic Good | Acid | 5 by 30 ft. line (Dexterity defence) |
 | Brass | Chaotic Good | Fire | 5 by 30 ft. line (Dexterity defence) |
 | Red | Chaotic Evil | Fire | 15 ft. cone (Dexterity defence) |
-| Blue | Lawful Evil | Lightning | 5 by 30 ft. line (Dexterity defence) |
+| Blue | Lawful Evil | Electric | 5 by 30 ft. line (Dexterity defence) |
 | Green | Lawful Evil | Poison | 15 ft. cone (Constitution defence) |
 | Black | Chaotic Evil | Acid | 5 by 30 ft. line (Dexterity defence) |
 | White | Chaotic Evil | Cold | 15 ft. cone (Constitution defence) |
 | Amethyst | Neutral Evil | Profane | 30 ft. range, 5 ft. sphere (Con defence) |
-| Emerald | Chaotic Neutral | Psychic | 30 ft. range, 5 ft. sphere (Con defence) |
-| Ruby | Lawful Neutral | Thunder | 30 ft. range, 5 ft. sphere (Con defence) |
-| Sapphire | True Neutral | Energy | 30 ft. range, 5 ft. sphere (Wis defence) |
-| Topaz | Neutral Good | Sacred | 30 ft. range, 5 ft. sphere (Con defence) |
+| Emerald | Chaotic Neutral | Sonic | 30 ft. range, 5 ft. sphere (Con defence) |
+| Ruby | Lawful Neutral | Psychic | 30 ft. range, 5 ft. sphere (Con defence) |
+| Sapphire | True Neutral | Sacred | 30 ft. range, 5 ft. sphere (Wis defence) |
+| Topaz | Neutral Good | Energy | 30 ft. range, 5 ft. sphere (Con defence) |
 
 Your attribute bonus, breath weapon and damage resistance are determined by your draconic ancestry, as shown in the table above. Additionally, your draconic ancestry grants you one of the following features:
 

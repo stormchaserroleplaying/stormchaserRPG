@@ -17,16 +17,16 @@ When you take your first talent in this branch, choose one type of dragon as you
 | Amethyst | Gemstone  | Profane |
 | Black    | Chromatic | Acid |
 | Blue     | Chromatic | Electric |
-| Brass    | Metalic   | Fire |
-| Bronze   | Metalic   | Electric  |
-| Copper   | Metalic   | Acid |
+| Brass    | Metallic   | Fire |
+| Bronze   | Metallic   | Electric  |
+| Copper   | Metallic   | Acid |
 | Emerald  | Gemstone  | Sonic|
-| Gold     | Metalic   | Fire |
+| Gold     | Metallic   | Fire |
 | Green    | Chromatic | Poison |
 | Red      | Chromatic | Fire |
 | Ruby     | Gemstone  | Psychic |
 | Sapphire | Gemstone  | Sacred |
-| Silver   | Metalic   | Cold |
+| Silver   | Metallic   | Cold |
 | Topaz    | Gemstone  | Energy |
 | White    | Chromatic | Cold |
 

@@ -27,17 +27,20 @@ Dwarves move Charisma to the set of attributes receiving penalties with age and 
 
 | First Class Talent | Random Starting Age |
 |:------------------:|:-------------------:|
-| Barbarian, Rogue, Sorcerer and Warlock | 30 + 4d6 (34-54) Years |
-| Bard, Fighter, Paladin and Ranger      | 30 + 6d6 (36-66) Years |
-| Cleric, Druid, Monk and Wizard         | 30 + 10d6 (40-90) Years |
+| Barbarian, Rogue, Sorcerer and Warlock | 30 + 12d6 (42-102) Years |
+| Bard, Fighter, Paladin and Ranger      | 30 + 14d6 (44-114) Years |
+| Cleric, Druid, Monk and Wizard         | 30 + 20d6 (50-150) Years |
 
 ## Features
 
-### Darkvision
-Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
-
-### Dwarven Resilience
+### Hardy
 You have +1d to your defences vs poison and [resistance](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageResistanceandVulnerability/) to [poison damage](http://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/DamageRolls/#poison).
+
+### Stability
+While standing on the ground, you have +1d when resisting any attempt that would move you, or knock you prone.
+
+### Stone Sense
+While you are standing on or touching a stone surface (natural or worked), you gain tremorsense out to 60 feet.
 
 ## Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.

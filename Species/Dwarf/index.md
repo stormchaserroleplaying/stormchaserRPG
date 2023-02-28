@@ -47,8 +47,8 @@ Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size 
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Male   | 3'9" | +2d4 (3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs. (154 – 246 lbs.) | 
-| Female | 3'7" | +2d4 (3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs. (124 – 216 lbs.) |
+| Male   | 3'9" | +2d4<br>(3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs.<br>(154 – 246 lbs.) | 
+| Female | 3'7" | +2d4<br>(3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs.<br>(124 – 216 lbs.) |
 
 ## Speed
 Subtract 5 feet from your base walking speed. However, your speed is never modified by armour or encumbrance.

@@ -49,5 +49,5 @@ Subtract 5 feet from your base walking speed.
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Male   | 2'8" | +2d4 (2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs. (32 – 38 lbs.) |
-| Female | 2'6" | +2d4 (2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs. (27 – 33 lbs.) |
+| Male   | 2'8" | +2d4<br>(2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs.<br>(32 – 38 lbs.) |
+| Female | 2'6" | +2d4<br>(2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |

@@ -43,5 +43,5 @@ Humans vary widely in height and build, from barely 5 feet to well over 6 feet t
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Male   | 4'10" | +2d10 (5'-6'6")   | 120 lbs. | +(2d10 × 2d4) lbs. (124 – 280 lbs.) |
-| Female | 4'5"  | +2d10 (4'7"-6'1") | 85 lbs.  | +(2d10 × 2d4) lbs. (89 – 245 lbs.)  |
+| Male   | 4'10" | +2d10<br>(5'-6'6")   | 120 lbs. | +(2d10 × 2d4) lbs.<br>(124 – 280 lbs.) |
+| Female | 4'5"  | +2d10<br>(4'7"-6'1") | 85 lbs.  | +(2d10 × 2d4) lbs.<br>(89 – 245 lbs.)  |

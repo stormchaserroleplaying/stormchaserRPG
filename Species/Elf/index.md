@@ -9,13 +9,13 @@ Elves are a magical people of otherworldly grace, living in the world but not en
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
-## Ability Score Increase
-Your Dexterity score rises by 2.
-
 ## Age
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
 ## Features
+
+## Attribute Score Increase
+Your Dexterity score rises by 2.
 
 ### Low-Light Vision
 Elves can see twice as far as humans in conditions of dim light.
@@ -32,10 +32,24 @@ Elves don't need to sleep. Instead, they meditate deeply, remaining semiconsciou
 ## Phenotype
 Ancient divides amongst the elven people resulted in six main phenotypes: high elves, wood elves, sea elves, dark elves, shadow elves and fey elves. Choose one of these phenotypes.
 
-### High Elves
+### Dark Elf
+Dark elves have skin that resembles charcoal or obsidian, as well as stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves.
+
+Dark elf adventurers are rare. Check with your Game Master to see if you can play one.
+
+#### Darkvision
+Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+#### Sunlight Sensitivity
+You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+### High Elf
 Many high elves are haughty and reclusive, believing themselves to be superior to other species and races. They are fair of face with alabaster skin, light blonde, light brown, or jet black hair and blue or green eyes.
 
-### Wood Elves
+### Shadow Elf
+Sworn to the Raven Queen’s service, the mysterious shadow elves venture into the material plane from the shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Fey elves and shadow elves are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
+
+### Wood Elf
 Wood elves are frequently more friendly than high elves, with olive skin, dark brown, red, or ocasionally dark blonde hair and green, brown, or hazel eyes.
 
 ## Size

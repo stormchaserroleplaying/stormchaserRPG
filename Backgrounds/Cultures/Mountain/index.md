@@ -22,11 +22,9 @@ Most who hail from a mountain hall are lawful, believing firmly in the benefits 
 You have +1d to your defences vs attacks made by giants.
 
 ### Weapon Training
-You are proficient with simple axes and simple bludgeoning weapons.
+You are proficient with simple axes and simple bludgeoning weapons. Additionally, you treat any weapon with the word “dwarven” in its name or properties as a martial weapon.
 
-If your class grants proficiency with simple axes or simple bludgeoning weapons, you instead gain proficiency in martial axes or martial bludgeoning weapons, respectively.
-
-You treat any weapon with the word “dwarven” in its name or properties as a martial weapon.
+If your class grants proficiency with simple axes or simple bludgeoning weapons, you instead gain proficiency in martial axes, or martial bludgeoning weapons, respectively.
 
 ### Armour Training
 You have proficiency with light armour.

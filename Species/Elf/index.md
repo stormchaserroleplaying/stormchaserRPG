@@ -1,7 +1,6 @@
 ---
 title: Elf
 parent: Species
-has_children: true
 ---
 
 # Elf

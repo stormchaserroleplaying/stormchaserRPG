@@ -16,6 +16,21 @@ Dwarves mature at the same rate as humans, up to the age of 12. After this point
 
 Dwarves move Charisma to the set of attributes receiving penalties with age and Constitution to those receiving bonuses.
 
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <30 Years         |
+| Young Adult | 30-249 Years      |
+| Middle Aged | 250-349 Years     |
+| Old         | 350-449 Years     |
+| Venerable   | >450 Years        |
+| Maximum Age | 450 + 2d100 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 30 + 4d6 (34-54) Years |
+| Bard, Fighter, Paladin and Ranger      | 30 + 6d6 (36-66) Years |
+| Cleric, Druid, Monk and Wizard         | 30 + 10d6 (40-90) Years |
+
 ## Features
 
 ### Darkvision

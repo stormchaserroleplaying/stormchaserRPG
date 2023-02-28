@@ -21,8 +21,8 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 | First Class Talent | Random Starting Age |
 |:------------------:|:-------------------:|
 | Barbarian, Rogue, Sorcerer and Warlock | 20 + 2d4 (22-28) Years |
-| Bard, Fighter, Paladin and Ranger      | 15 + 3d6 (23-38) Years |
-| Cleric, Druid, Monk and Wizard         | 15 + 4d6 (24-44) Years |
+| Bard, Fighter, Paladin and Ranger      | 20 + 3d6 (23-38) Years |
+| Cleric, Druid, Monk and Wizard         | 20 + 4d6 (24-44) Years |
 
 ## Features
 

@@ -41,9 +41,6 @@ You can move through the space of any creature that is of a size larger than you
 ### Naturally Stealthy
 You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
-## Stout Resilience
-You have advantage on defence checks against poison and you have resistance to poison damage.
-
 ## Size
 Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
 

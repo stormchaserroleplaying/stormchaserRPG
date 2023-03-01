@@ -7,6 +7,25 @@ grand_parent: Species
 # Aasimar
 Aasimar are beings with a significant amount of celestial or other good outsider blood in their ancestry. Aasimar heritage can lie dormant for generations, only to appear suddenly in the child of two apparently ordinary parents.
 
+## Age
+Aasimar mature at the same rate as others of their species, but enjoy an extended lifespan. For humans, this is typically around 200 years.
+
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <16 Years        |
+| Young Adult | 16-24 Years      |
+| Adult       | 25-100 Years     |
+| Middle Aged | 100-139 Years    |
+| Old         | 140-179 Years    |
+| Venerable   | >180 Years       |
+| Maximum Age | 180 + 2d20 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 16 + 1d4 (17-20) Years |
+| Bard, Fighter, Paladin and Ranger      | 16 + 1d6 (17-22) Years |
+| Cleric, Druid, Monk and Wizard         | 16 + 2d6 (18-28) Years |
+
 ## Alignment
 While not always benevolent, aasimar are more inclined toward acts of kindness rather than evil. They gravitate toward faiths or organisations associated with celestials. Most societies interpret aasimar births as good omens, though it must be acknowledged that some aasimar take advantage of the reputation of their kind, brutally subverting the expectations of others with acts of terrifying cruelty or abject venality. "It’s always the one you least suspect" is the axiom these evil aasimars live by. They often lead double lives as upstanding citizens or false heroes, keeping their corruption well hidden. Thankfully, these few are the exception and not the rule.
 

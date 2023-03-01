@@ -38,10 +38,10 @@ Your Dexterity score rises by 2.
 Elves can see twice as far as humans in conditions of dim light.
 
 ### Keen Senses
-You have +1d in the Perception skill.
+You have +1d to Perception.
 
 ### Fey Ancestry
-You have +1d to your defences to avoid being charmed, and magic can’t put you to sleep.
+You are immune to magic sleep effects and have +1d to your defences to avoid being charmed.
 
 ### Trance
 Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.

@@ -22,9 +22,9 @@ Humans reach adulthood in their late teens and typically live less than a centur
 
 | First Class Talent | Random Starting Age |
 |:------------------:|:-------------------:|
-| Barbarian, Rogue, Sorcerer and Warlock | 15 + 1d4 (16-19) Years |
-| Bard, Fighter, Paladin and Ranger      | 15 + 1d6 (16-21) Years |
-| Cleric, Druid, Monk and Wizard         | 15 + 2d6 (17-27) Years |
+| Barbarian, Rogue, Sorcerer and Warlock | 16 + 1d4 (17-20) Years |
+| Bard, Fighter, Paladin and Ranger      | 16 + 1d6 (17-22) Years |
+| Cleric, Druid, Monk and Wizard         | 16 + 2d6 (18-28) Years |
 
 ## Features
 

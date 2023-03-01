@@ -8,11 +8,11 @@ grand_parent: Backgrounds
 Characters raised in the marine realm culture share a variety of features in common with one another.
 
 ## Alignment
-Forest guardians love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
+The denizens of marine realms love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not.
 
 ## Features
 
-#### Friend of the Sea
+### Friend of the Sea
 Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.
 
 ### Weapon Training

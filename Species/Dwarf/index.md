@@ -13,12 +13,13 @@ Dwarves move Charisma to the set of attributes receiving penalties with age and 
 
 | Age Bracket | Age |
 |:-----------:|:---:|
-| Child       | <30 Years         |
-| Young Adult | 30-249 Years      |
-| Middle Aged | 250-349 Years     |
-| Old         | 350-449 Years     |
-| Venerable   | >450 Years        |
-| Maximum Age | 450 + 2d100 Years |
+| Child       | <30 Years        |
+| Young Adult | 30-99 Years      |
+| Adult       | 100-249 Years    |
+| Middle Aged | 250-349 Years    |
+| Old         | 350-449 Years    |
+| Venerable   | >450 Years       |
+| Maximum Age | 450 + 4d20 Years |
 
 | First Class Talent | Random Starting Age |
 |:------------------:|:-------------------:|

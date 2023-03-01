@@ -4,12 +4,26 @@ parent: Species
 ---
 
 # Elf
-Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry and the good things of the world.
-
-Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
+The long-lived elves are children of the natural world, similar in many superficial ways to fey creatures, though with key differences. While fey are truly linked to the flora and fauna of their homes, existing as the nearly immortal voices and guardians of the wilderness, elves are instead mortals who are in tune with the natural world around them. Elves seek to live in balance with the wild and understand it better than most other mortals. Some of this understanding is mystical, but an equal part comes from the elves' long lifespans, which in turn gives them long-ranging outlooks. Elves can expect to remain active in the same locale for centuries. By necessity, they must learn to maintain sustainable lifestyles, and this is most easily done when they work with nature, rather than attempting to bend it to their will.
 
 ## Age
-Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+Elves grow and age comparably to humans, up to the age of 12. After this point their mental development continues similarly to human children, but their physical development progresses only half as fast. The majority of elven puberty is complete at the age of 24. In most elven societies, children leave their parents to forge their own path around the age of 30. However, they are not considered ‘of age’ until the return around the age of 100. Elves start families when they are anywhere between 100 and 500 years of age. They are considered middle aged from the age of 500, but this has very little meaning as they remain as youthful as they were at 100. Elder elves are over 700 and their most venerable are over 900. Only the most long-lived elves see an entire millennium.
+
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <30 Years        |
+| Young Adult | 30-99 Years      |
+| Adult       | 100-499 Years    |
+| Middle Aged | 500-699 Years    |
+| Old         | 700-899 Years    |
+| Venerable   | >900 Years       |
+| Maximum Age | 900 + 2d60 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 30 + 12d6 (42-102) Years |
+| Bard, Fighter, Paladin and Ranger      | 30 + 14d6 (44-114) Years |
+| Cleric, Druid, Monk and Wizard         | 30 + 20d6 (50-150) Years |
 
 ## Features
 
@@ -68,6 +82,21 @@ Wood elves are frequently more friendly than high elves, with olive skin, dark b
 
 ## Size
 Elves range from well over 5 feet to around 6½ feet tall and have slender builds. Your size is Medium.
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Elf, Dark, Male     | 5'4" | +2d6<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d6) lbs.<br>(92 – 162 lbs.)   |
+| Elf, Dark, Female   | 5'4" | +2d8<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d6) lbs.<br>(102 – 196 lbs.)  |
+| Elf, Fey, Male      | 5'4" | +2d10<br>(5'6" – 7')  | 100 lbs. | +(2d10 × 1d4) lbs.<br>(102 – 180 lbs.) |
+| Elf, Fey, Female    | 5'4" | +2d8<br>(5'6" – 6'8") | 90 lbs.  | +(2d8 × 1d4) lbs.<br>(82 – 144 lbs.)   |
+| Elf, High, Male     | 5'4" | +2d8<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d4) lbs.<br>(102 – 164 lbs.)  |
+| Elf, High, Female   | 5'4" | +2d6<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d4) lbs.<br>(92 – 138 lbs.)   |
+| Elf, Sea, Male      | 5'4" | +2d6<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
+| Elf, Sea, Female    | 5'4" | +2d4<br>(5'6" – 6'0") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
+| Elf, Shadow, Male   | 5'6" | +2d6<br>(5'8" – 6'6") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
+| Elf, Shadow, Female | 5'6" | +2d4<br>(5'8" – 6'2") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
+| Elf, Wood, Male     | 5'4" | +2d8<br>(5'6" – 6'8") | 110 lbs. | +(2d8 × 1d4) lbs.<br>(112 – 174 lbs.)  |
+| Elf, Wood, Female   | 5'4" | +2d6<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
 
 ## Speed
 Add 5 feet to your base walking speed.

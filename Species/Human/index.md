@@ -7,16 +7,17 @@ parent: Species
 Humans possess exceptional drive and a great capacity to endure and expand. Their empires and nations are vast, sprawling things, and the citizens of these societies carve names for themselves with the strength of their sword arms and the power of their spells. Humanity is best characterised by its tumultuousness and diversity, and human cultures run the gamut from savage but honourable tribes to decadent, devil-worshiping noble families in the most cosmopolitan cities. Humans' curiosity and ambition often triumph over their predilection for a sedentary lifestyle, and many leave their homes to explore the innumerable forgotten corners of the world or lead mighty armies to conquer their neighbours, simply because they can.
 
 ## Age
-Humans reach adulthood in their late teens and live less than a century.
+Humans reach adulthood in their late teens and typically live less than a century.
 
 | Age Bracket | Age |
 |:-----------:|:---:|
 | Child       | <16 Years       |
-| Young Adult | 16-34 Years     |
-| Middle Aged | 35-52 Years     |
-| Old         | 53-69 Years     |
-| Venerable   | >70 Years       |
-| Maximum Age | 70 + 2d20 Years |
+| Young Adult | 16-24 Years     |
+| Adult       | 25-39 Years     |
+| Middle Aged | 40-59 Years     |
+| Old         | 60-79 Years     |
+| Venerable   | >80 Years       |
+| Maximum Age | 80 + 2d16 Years |
 
 | First Class Talent | Random Starting Age |
 |:------------------:|:-------------------:|

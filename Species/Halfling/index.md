@@ -12,7 +12,8 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 | Age Bracket | Age |
 |:-----------:|:---:|
 | Child       | <20 Years        |
-| Young Adult | 20-49 Years      |
+| Young Adult | 20-29 Years      |
+| Adult       | 30-49 Years      |
 | Middle Aged | 50-74 Years      |
 | Old         | 75-100 Years     |
 | Venerable   | >100 Years       |

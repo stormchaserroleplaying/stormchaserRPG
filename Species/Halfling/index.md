@@ -27,7 +27,7 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 
 ## Features
 
-### Ability Score Increase
+### Attribute Score Increase
 Your Dexterity score increases by 2.
 
 ### Brave

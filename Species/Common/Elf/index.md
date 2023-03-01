@@ -1,6 +1,7 @@
 ---
 title: Elf
-parent: Species
+parent: Common Species
+grand_parent: Species
 ---
 
 # Elf

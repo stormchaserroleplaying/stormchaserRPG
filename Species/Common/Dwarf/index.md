@@ -1,6 +1,7 @@
 ---
 title: Dwarf
-parent: Species
+parent: Common Species
+grand_parent: Species
 ---
 
 # Dwarf

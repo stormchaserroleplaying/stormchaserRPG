@@ -35,6 +35,7 @@ Four phenotypes of aasimar exist: protector aasimar, scourge aasimar, fallen aas
 An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen: a group of aasimar whose inner light has been replaced by shadow.
 
 ### Herald Aasimar
+Herald aasimar as descended from messenger angels and other similar celestials. Their divine bloodline shows in their phenomenal quickness of body and mind.
 
 ### Protector Aasimar
 Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil.

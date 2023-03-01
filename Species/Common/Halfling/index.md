@@ -1,6 +1,7 @@
 ---
 title: Halfling
-parent: Species
+parent: Common Species
+grand_parent: Species
 ---
 
 # Halfling

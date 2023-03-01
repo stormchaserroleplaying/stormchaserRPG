@@ -1,6 +1,7 @@
 ---
 title: Human
-parent: Species
+parent: Common Species
+grand_parent: Species
 ---
 
 # Human

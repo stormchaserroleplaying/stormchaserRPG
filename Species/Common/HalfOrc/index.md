@@ -1,6 +1,7 @@
 ---
 title: Half Orc
-parent: Species
+parent: Common Species
+grand_parent: Species
 ---
 
 # Half Orc

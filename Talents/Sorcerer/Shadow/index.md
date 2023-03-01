@@ -84,7 +84,7 @@ In combat, the hound shares your initiative, but takes its turn immediately afte
 
 While the hound is within 5 feet of the marked creature, you gain +1d on spell attacks against the marked creature. Additionally, the marked creature suffers -1d to any checks against effects created by your spells.
 
-The hound disappears if it is reduced to 0 Stamina, if the marked creature is reduced to 0 Stamina, if you use this ability again or after 5 minutes.
+The hound disappears if it is reduced to 0 Stamina, if the marked creature is reduced to 0 Stamina, if you use this ability again, or after 5 minutes.
 
 ### Shadow Walk
 
@@ -115,4 +115,4 @@ You remain in this form for 1 minute. It ends early if you are incapacitated, if
 
 When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds. 
 
-If a marked creature is reduced to 0 Stamina, a hound attacking it will proceed to the nearest marked creature that remains. If no marked creatures remain, then all summoned hounds disappear. The hounds disappear if reduced to 0 Stamina, if you use this ability again or after 5 minutes.
+If a marked creature is reduced to 0 Stamina, a hound attacking it will proceed to the nearest marked creature that remains. If no marked creatures remain, then all summoned hounds disappear. The hounds also disappear if reduced to 0 Stamina, if you use this ability again, or after 5 minutes.

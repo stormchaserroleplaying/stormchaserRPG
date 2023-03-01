@@ -52,7 +52,7 @@ Using your Channel Divinity, you present your holy symbol and a sphere of twilig
 #### **Cost:** 5 Character Points<br>**Actions:** 2
 *You can see through the deepest gloom.* 
 
-You have darkvision out to a range of 60 feet. If you already have darkvision, your range is increased by 60 feet. 
+You have low-light out to a range of 60 feet. If you already have low-light vision, your range is increased by 60 feet. 
 
 On your turn, you can magically share the darkvision of this feature with willing creatures that you can see within 10 feet of you, up to a number of creatures equal to your spellcasting attribute modifier. The shared darkvision lasts for 1 hour. Once you share it, you cannot do so again until you finish a long rest, unless you expend 1 mana to share it again.
 

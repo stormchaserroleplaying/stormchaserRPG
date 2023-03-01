@@ -27,7 +27,9 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest guardians love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers and other creatures as beloved pets.
 
 ### Weapon Training
-You are trained with martial blades and martial bows. You treat any weapon with the word “elven” in its name or properties as a martial weapon. If your class grants training with martial blades or martial bows, you gain 1 proficiency point. If your class grants training with both martial blades and martial bows, you gain 2 proficiency points.
+You are trained with martial blades and martial bows. Additionally, you treat any weapon with the word “elven” in its name or properties as a martial weapon.
+
+If your class grants training with simple blades or simple bows, then you become trained in martial blades, or martial bows, respectively. If your class grants training with martial blades or martial bows, you gain 2 character points. If your class grants training with both martial blades and martial bows, you gain 4 character points.
 
 ## Languages
 You can speak, read and write Elvish, Gnomish and one other language.

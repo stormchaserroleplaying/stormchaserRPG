@@ -35,7 +35,8 @@ Based upon your chosen dragon ancestor, you gain spells from the corresponding l
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
-#### Metallic 
+#### Metallic
+
 | Spell Level | All | Brass | Bronze | Copper | Gold | Silver |
 |:-----------:|:---:|:-----:|:------:|:------:|:----:|:------:|
 | 1st | Cause Fear        | Sleep        | Fog Cloud       | Hideous Laughter | Burning Hands | Ice Knife    |
@@ -44,7 +45,8 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | 4th | Polymorph         | Wall of Fire | Watery Sphere   | Vitriolic Sphere | Banishment    | Ice Storm    |
 | 5th | Skill Empowerment | Immolation   | Telekenisis     | Mislead          | Flame Strike  | Hold Monster | 
 
-#### Chromatic 
+#### Chromatic
+
 | Spell Level | All | Black | Blue | Green | Red | White |
 |:-----------:|:---:|:----:|:----:|:----:|:-----:|:-----:|
 | 1st | Cause Fear        | Corrositve Stream  | Witch Bolt    | Charm Person    | Burning Hands  | Frost Fingers |
@@ -54,6 +56,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | 5th | Skill Empowerment | Insect Plague      | Control Winds | Dominate Person | Immolation     | Cone of Cold  |
 
 #### Gemstone
+
 | Spell Level | All | Amethyst | Emerald | Ruby | Sapphire | Topaz |
 |:-----------:|:---:|:--------:|:-------:|:----:|:--------:|:-----:|
 | 1st | Dissonant Whispers | Hex            | Thunderwave     | Detect Magic     | Guiding Bolt       | Magic Missile      | 

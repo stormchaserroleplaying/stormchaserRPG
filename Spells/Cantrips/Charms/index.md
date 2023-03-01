@@ -1,13 +1,13 @@
 ---
-title: Enchantment
+title: Charms
 parent: Cantrips
 grand_parent: Spells
 ---
 
-# Enchantment
+# Charms
 
 ## Encode Thoughts
-*Enchantment Cantrip*<br>
+*Charms Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** S<br>
@@ -20,7 +20,7 @@ If you cast this spell while concentrating on a spell or an ability that allows 
 Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)
 
 ## Friends
-*Enchantment Cantrip*<br>
+*Charms Cantrip*<br>
 *Casting Time:* 1 Action<br>
 **Range:** Self<br>
 **Components:** S, M *(A small amount of makeup applied to the face as this spell is cast.)*<br>
@@ -29,7 +29,7 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realises that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
 
 ## Mind Sliver
-*Enchantment Cantrip*<br>
+*Charms Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** 60 Feet<br>
 **Components:** V<br>
@@ -38,7 +38,7 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. Make a spell attack roll vs the target's Wisdom defence. On a hit, the target takes 1d6 + your spellcasting ability modifier psychic damage and the next attack roll made against the target before the end of your next turn has advantage.
 
 ## Vicious Mockery
-**Enchantment Cantrip**<br>
+*Charms Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** 60 Feet<br>
 **Components:** V<br>

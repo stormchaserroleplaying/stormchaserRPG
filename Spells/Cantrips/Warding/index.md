@@ -1,13 +1,13 @@
 ---
-title: Abjuration
+title: Warding
 parent: Cantrips
 grand_parent: Spells
 ---
 
-# Abjuration
+# Warding
 
 ## Blade Ward
-*Abjuration Cantrip*<br>
+*Warding Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
@@ -16,7 +16,7 @@ grand_parent: Spells
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
 ## Resistance
-*Abjuration Cantrip*<br>
+*Warding Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A miniature cloak.)*<br>

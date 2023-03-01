@@ -113,6 +113,6 @@ You remain in this form for 1 minute. It ends early if you are incapacitated, if
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk
 *Cry "Havoc!" and let slip the hounds of shadow!*
 
-When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 3 hounds. You can mark up to three creatures within range for your hounds to target, either individually or as a group.
+When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds.
 
 A hound disappears if it is reduced to 0 Stamina, if all marked creatures are reduced to 0 Stamina, or after 5 minutes.

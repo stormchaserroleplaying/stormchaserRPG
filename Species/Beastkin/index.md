@@ -5,3 +5,5 @@ has_children: true
 ---
 
 # Beastkin
+
+## Coming Soon

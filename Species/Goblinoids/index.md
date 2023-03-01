@@ -5,3 +5,5 @@ has_children: true
 ---
 
 # Goblinoids
+
+## Coming Soon

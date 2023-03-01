@@ -71,7 +71,7 @@ You also learn the [Darkness]() spell, which doesn’t count against your number
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 2
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 2
 *You curse an enemy and call forth a howling creature of darkness to dispatch them.*
 
 You mark one creature that you can see within 120 feet of you for death. Spend 3 Mana to magically summon a hound of ill omen in an unoccupied space of your choice within 30 feet of the target. The hound uses the [Dire Wolf]() statistics, with the following changes:

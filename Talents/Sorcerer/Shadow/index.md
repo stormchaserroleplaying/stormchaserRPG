@@ -42,6 +42,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Hound of Ill Omen     | 5  | 3rd Level Spells and Eyes of the Dark |  
 | Shadow Walk           | 50 | 7th Level Spells and Hound of Ill Omen |  
 | Umbral Form           | 80 | 9th Level Spells and Shadow Walk |  
+| Pack of Shadow        | 80 | 9th Level Spells and Shadow Walk |  
 
 
 ###  Strength of the Grave
@@ -104,3 +105,14 @@ When you are in dim light or darkness, you can magically teleport up to 120 feet
 You can spend 6 Mana to magically transform yourself into this shadowy form. In this form, you have resistance to all damage except for energy and sacred damage, and you can move through other creatures and objects as if they were difficult terrain. If you end your turn within a creature or object, you both take 5 profane damage.
 
 You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it using 1 Action.
+
+### Master of the Shadow Pack
+ 
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk
+*Cry "Havoc!" and let slip the hounds of shadow!*
+
+When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds.
+
+A hound disappears if it is reduced to 0 Stamina, if all marked creatures are reduced to 0 Stamina, or after 5 minutes.

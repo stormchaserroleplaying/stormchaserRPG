@@ -26,6 +26,9 @@ Elves grow and age comparably to humans, up to the age of 12. After this point t
 | Bard, Fighter, Paladin and Ranger      | 30 + 14d6 (44-114) Years |
 | Cleric, Druid, Monk and Wizard         | 30 + 20d6 (50-150) Years |
 
+## Appearance
+Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have no facial and little body hair.
+
 ## Features
 
 ## Attribute Score Increase
@@ -86,18 +89,18 @@ Elves range from well over 5 feet to around 6½ feet tall and have slender build
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Elf, Dark, Male     | 5'4" | +2d6<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d6) lbs.<br>(92 – 162 lbs.)   |
-| Elf, Dark, Female   | 5'4" | +2d8<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d6) lbs.<br>(102 – 196 lbs.)  |
-| Elf, Fey, Male      | 5'4" | +2d10<br>(5'6" – 7')  | 100 lbs. | +(2d10 × 1d4) lbs.<br>(102 – 180 lbs.) |
-| Elf, Fey, Female    | 5'4" | +2d8<br>(5'6" – 6'8") | 90 lbs.  | +(2d8 × 1d4) lbs.<br>(82 – 144 lbs.)   |
-| Elf, High, Male     | 5'4" | +2d8<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d4) lbs.<br>(102 – 164 lbs.)  |
-| Elf, High, Female   | 5'4" | +2d6<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d4) lbs.<br>(92 – 138 lbs.)   |
-| Elf, Sea, Male      | 5'4" | +2d6<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
-| Elf, Sea, Female    | 5'4" | +2d4<br>(5'6" – 6'0") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
-| Elf, Shadow, Male   | 5'6" | +2d6<br>(5'8" – 6'6") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
-| Elf, Shadow, Female | 5'6" | +2d4<br>(5'8" – 6'2") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
-| Elf, Wood, Male     | 5'4" | +2d8<br>(5'6" – 6'8") | 110 lbs. | +(2d8 × 1d4) lbs.<br>(112 – 174 lbs.)  |
-| Elf, Wood, Female   | 5'4" | +2d6<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
+| Elf, Dark, Male     | 5'4" | +2d6"<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d6) lbs.<br>(92 – 162 lbs.)   |
+| Elf, Dark, Female   | 5'4" | +2d8"<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d6) lbs.<br>(102 – 196 lbs.)  |
+| Elf, Fey, Male      | 5'4" | +2d10"<br>(5'6" – 7')  | 100 lbs. | +(2d10 × 1d4) lbs.<br>(102 – 180 lbs.) |
+| Elf, Fey, Female    | 5'4" | +2d8"<br>(5'6" – 6'8") | 90 lbs.  | +(2d8 × 1d4) lbs.<br>(82 – 144 lbs.)   |
+| Elf, High, Male     | 5'4" | +2d8"<br>(5'6" – 6'8") | 100 lbs. | +(2d8 × 1d4) lbs.<br>(102 – 164 lbs.)  |
+| Elf, High, Female   | 5'4" | +2d6"<br>(5'6" – 6'4") | 90 lbs.  | +(2d6 × 1d4) lbs.<br>(92 – 138 lbs.)   |
+| Elf, Sea, Male      | 5'4" | +2d6"<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
+| Elf, Sea, Female    | 5'4" | +2d4"<br>(5'6" – 6'0") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
+| Elf, Shadow, Male   | 5'6" | +2d6"<br>(5'8" – 6'6") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
+| Elf, Shadow, Female | 5'6" | +2d4"<br>(5'8" – 6'2") | 90 lbs.  | +(2d4 × 1d4) lbs.<br>(92 – 122 lbs.)   |
+| Elf, Wood, Male     | 5'4" | +2d8"<br>(5'6" – 6'8") | 110 lbs. | +(2d8 × 1d4) lbs.<br>(112 – 174 lbs.)  |
+| Elf, Wood, Female   | 5'4" | +2d6"<br>(5'6" – 6'4") | 100 lbs. | +(2d6 × 1d4) lbs.<br>(102 – 148 lbs.)  |
 
 ## Speed
 Add 5 feet to your base walking speed.

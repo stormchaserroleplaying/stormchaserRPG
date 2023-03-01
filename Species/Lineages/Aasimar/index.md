@@ -10,6 +10,9 @@ Aasimar are beings with a significant amount of celestial or other good outsider
 ## Alignment
 While not always benevolent, aasimar are more inclined toward acts of kindness rather than evil. They gravitate toward faiths or organisations associated with celestials. Most societies interpret aasimar births as good omens, though it must be acknowledged that some aasimar take advantage of the reputation of their kind, brutally subverting the expectations of others with acts of terrifying cruelty or abject venality. "It’s always the one you least suspect" is the axiom these evil aasimars live by. They often lead double lives as upstanding citizens or false heroes, keeping their corruption well hidden. Thankfully, these few are the exception and not the rule.
 
+## Appearance
+Aasimar mostly look like others of their species, except for some minor physical traits that reveal their unusual heritage. Typical aasimar features include hair that shines like metal, jewel-toned eyes, lustrous skin color, or even glowing, golden halos.
+
 ## Features
 
 <div style="margin-top:-10px;"></div>
@@ -45,3 +48,8 @@ Scourge aasimar are imbued with a divine energy that blazes intensely within the
 
 ## Size
 Characters with aasimar lineage are slightly taller than others of their species.
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Human, Aasimar, Male   | 5'2" | +2d8"<br>(5'4"-6'6") | 110 lbs. | +(2d8 × 2d4) lbs.<br>(114 – 238 lbs.) |
+| Human, Aasimar, Female | 5'0" | +2d8"<br>(5'4"-6'4") | 90 lbs.  | +(2d8 × 2d4) lbs.<br>(94 – 218 lbs.)  |

@@ -26,6 +26,9 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 | Bard, Fighter, Paladin and Ranger      | 20 + 3d6 (23-38) Years |
 | Cleric, Druid, Monk and Wizard         | 20 + 4d6 (24-44) Years |
 
+## Appearance
+Halflings rise to a humble height of 3 feet. They prefer to walk barefoot, leading the bottoms of their feet to become roughly calloused. Tufts of thick, curly hair warm the tops of their broad, tanned feet. Their skin tends toward a rich cinnamon color and their hair toward light shades of brown. A halfling’s ears are pointed, but proportionately not much larger than those of a human.
+
 ## Features
 
 ### Attribute Score Increase
@@ -51,5 +54,5 @@ Subtract 5 feet from your base walking speed.
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Male   | 2'8" | +2d4<br>(2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs.<br>(32 – 38 lbs.) |
-| Female | 2'6" | +2d4<br>(2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |
+| Male   | 2'8" | +2d4"<br>(2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs.<br>(32 – 38 lbs.) |
+| Female | 2'6" | +2d4"<br>(2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |

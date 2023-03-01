@@ -13,6 +13,9 @@ Tieflings mature at the same rate as humans but live a few years longer.
 ## Alignment
 Despite their fiendish appearance and netherworld origins, tieflings have a human’s capacity of choosing their fate, and while many embrace their dark heritage and side with fiendish powers, others reject their darker predilections. Though the power of their blood calls nearly every tiefling to fury, destruction, and wrath, even the spawn of a succubus can become a saint and the grandchild of a pit fiend an unsuspecting hero.
 
+## Appearance
+No two tieflings look alike; the fiendish blood running through their veins manifests inconsistently, granting them an array of fiendish traits. One tiefling might appear as a human with small horns, a barbed tail, and oddly colored eyes, while another might manifest a mouth of fangs, tiny wings, and claws, and yet another might possess the perpetual smell of blood, foul incenses, and brimstone. Typically, these qualities harken back in some way to the manner of fiend that spawned the tiefling’s bloodline, but even then the admixture of human and fiendish blood is rarely ruled by sane, mortal laws, and the vast flexibility it produces in tieflings is a thing of wonder, running the gamut from oddly beautiful to utterly terrible.
+
 ## Features
 
 <div style="margin-top:-10px;"></div>
@@ -29,4 +32,4 @@ You have resistance to fire damage.
 You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ## Size
-Tieflings are about the same size and build as humans. Your size is Medium.
+Tieflings are about the same size and build as others of their species.

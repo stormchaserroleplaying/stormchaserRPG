@@ -5,11 +5,10 @@ grand_parent: Talents
 ---
  
 # Shadow Magic
-You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
+You are a creature of shadow with for innate magic from the shadowy realm of Annwn. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
-The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
+The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the table below to create a quirk for your character.
 
-### Shadow Sorcerer Quirks
 | d6 | Quirk |
 |:--:|:------|
 | 1 | You are always icy cold to the touch. |
@@ -38,32 +37,34 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Strength of the Grave  | 5  | - |  
-| Eyes of the Dark       | 5  | 2nd Level Spells and Strength of the Grave |  
-| Hound of Ill Omen      | 5  | 3rd Level Spells and Eyes of the Dark |  
-| Shadow Walk            | 50 | 7th Level Spells and Hound of Ill Omen |  
-| Umbral Form            | 80 | 9th Level Spells and Shadow Walk |  
+| Strength of the Grave | 5  | - |  
+| Eyes of the Dark      | 5  | 2nd Level Spells and Strength of the Grave |  
+| Hound of Ill Omen     | 5  | 3rd Level Spells and Eyes of the Dark |  
+| Shadow Walk           | 50 | 7th Level Spells and Hound of Ill Omen |  
+| Umbral Form           | 80 | 9th Level Spells and Shadow Walk |  
 
 
 ###  Strength of the Grave
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
 *Your existence in a twilight state between life and death makes you difficult to defeat.*
 
-When damage reduces you to 0 stamina, you can make a defense check using your spelling ability defense vs  5 + the damage taken. On a success, you instead drop to 1 stamina. You can’t use this feature if you are reduced to 0 stamina by sacred damage or by a critical hit.
+When damage reduces you to 0 Stamina, you can make a defense check using your spellcasting attribute vs 5 + the damage taken. On a success, you instead drop to 1 Stamina. You can’t use this feature if you are reduced to 0 stamina by sacred damage or by a critical hit.
 
 After a success, you can’t use this ability again until you finish a long rest.
 
 ###  Eyes of the Dark
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and Strength of the Grave
 *No darkness can block your sight.*
 
-You have darkvision with a range of 60 feet. 
+You have darkvision with a range of 60 feet. If you already have darkvision, then the range of your darkvision increases by 60 feet.
 
-You learn the Darkness spell, which doesn’t count against your number of sorcerer spells known. You can cast this spell by spending 2 mana, being the norm, or 4 mana. If you expend 4 mana,you gain the ability to see through the darkness created by the spell. 
+You also learn the [Darkness]() spell, which doesn’t count against your number of mage spells known. Additionally, you gain the ability to see through the darkness created by the spell.
 
 ###  Hound of Ill Omen
  
@@ -72,20 +73,20 @@ You learn the Darkness spell, which doesn’t count against your number of sorce
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 1
 *You curse an enemy and call forth a howling creature of darkness to dispatch them.*
 
-You can spend 3 mana to magically summon a hound of ill omen to mark one creature you can see within 120 feet of you. The hound uses the [dire wolf]() statistics (see the Bestiary), with the following changes:
-
+You mark one creature that you can see within 120 feet of you for death. Spend 3 Mana to magically summon a hound of ill omen in an unoccupied space of your choice within 30 feet of the target. The hound uses the [Dire Wolf]() statistics, with the following changes:
 * The hound is size medium, not large, and it counts as a monstrosity, not a beast.
 * It appears with a number of temporary hit points equal to the maximum spell level that you can cast.
 * It can move through other creatures and objects as if they were difficult terrain. If the hound ends its turn within a creature or object, both take 5 profane damage.
 * At the start of its turn, the hound automatically knows its marked creature’s location. If the creature was hidden, it is no longer hidden from the hound.
 
-The hound appears in an unoccupied space of your choice within 30 feet of the target. In combat, it shares your same initiative count, but takes its turn immediately after your. On its turn, it can move only toward the marked creature by the most direct route, and it can use its action only to attack the marked creature. The hound can make opportunity attacks, but only against the marked creature. 
+In combat, the hound shares your initiative, but takes its turn immediately after you. On its turn, it can only use its actions to move towards the marked creature by the most direct route and attack the marked creature. The hound can make attacks of opportunity, but only against the marked creature. 
 
-While the hound is within 5 feet of the marked creature, you gain +1d to spell attacks against the marked creature. Additionally, the marked creature suffers -1d to any checks against effects created by your spells. 
+While the hound is within 5 feet of the marked creature, you gain +1d on spell attacks against the marked creature. Additionally, the marked creature suffers -1d to any checks against effects created by your spells.
 
-The hound disappears if it is reduced to 0 stamina, if its target is reduced to 0 stamina, or after 5 minutes.
+The hound disappears if it is reduced to 0 Stamina, if the marked creature is reduced to 0 Stamina, or after 5 minutes.
 
 ### Shadow Walk
+
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Hound of Ill Omen<br>**Actions:** 1
@@ -100,6 +101,6 @@ When you are in dim light or darkness, you can magically teleport up to 120 feet
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk<br>**Actions:** 1
 *You transform yourself into a shadowy specter.*
 
-You can spend 6 mana to magically transform yourself into this shadowy form. In this form, you have resistance to all damage except energy and sacred damage, and you can move through other creatures and objects as if they were difficult terrain. If you end your turn within a creature or object, you both take 5 profane damage.
+You can spend 6 Mana to magically transform yourself into this shadowy form. In this form, you have resistance to all damage except for energy and sacred damage, and you can move through other creatures and objects as if they were difficult terrain. If you end your turn within a creature or object, you both take 5 profane damage.
 
 You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it using 1 Action.

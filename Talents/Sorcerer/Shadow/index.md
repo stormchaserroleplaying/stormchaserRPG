@@ -37,12 +37,12 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Strength of the Grave | 5  | - |  
-| Eyes of the Dark      | 5  | 2nd Level Spells and Strength of the Grave |  
-| Hound of Ill Omen     | 5  | 3rd Level Spells and Eyes of the Dark |  
-| Shadow Walk           | 50 | 7th Level Spells and Hound of Ill Omen |  
-| Umbral Form           | 80 | 9th Level Spells and Shadow Walk |  
-| Pack of Shadow        | 80 | 9th Level Spells and Shadow Walk |  
+| Strength of the Grave     | 5  | - |  
+| Eyes of the Dark          | 5  | 2nd Level Spells and Strength of the Grave |  
+| Hound of Ill Omen         | 5  | 3rd Level Spells and Eyes of the Dark |  
+| Shadow Walk               | 50 | 7th Level Spells and Hound of Ill Omen |  
+| Umbral Form               | 80 | 9th Level Spells and Shadow Walk |  
+| Master of the Shadow Pack | 80 | 9th Level Spells and Shadow Walk |  
 
 
 ###  Strength of the Grave
@@ -71,7 +71,7 @@ You also learn the [Darkness]() spell, which doesn’t count against your number
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 1
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 2
 *You curse an enemy and call forth a howling creature of darkness to dispatch them.*
 
 You mark one creature that you can see within 120 feet of you for death. Spend 3 Mana to magically summon a hound of ill omen in an unoccupied space of your choice within 30 feet of the target. The hound uses the [Dire Wolf]() statistics, with the following changes:
@@ -84,7 +84,7 @@ In combat, the hound shares your initiative, but takes its turn immediately afte
 
 While the hound is within 5 feet of the marked creature, you gain +1d on spell attacks against the marked creature. Additionally, the marked creature suffers -1d to any checks against effects created by your spells.
 
-The hound disappears if it is reduced to 0 Stamina, if the marked creature is reduced to 0 Stamina, or after 5 minutes.
+The hound disappears if it is reduced to 0 Stamina, if the marked creature is reduced to 0 Stamina, if you use this ability again or after 5 minutes.
 
 ### Shadow Walk
 
@@ -113,6 +113,6 @@ You remain in this form for 1 minute. It ends early if you are incapacitated, if
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk
 *Cry "Havoc!" and let slip the hounds of shadow!*
 
-When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds.
+When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds. 
 
-A hound disappears if it is reduced to 0 Stamina, if all marked creatures are reduced to 0 Stamina, or after 5 minutes.
+If a marked creature is reduced to 0 Stamina, a hound attacking it will proceed to the nearest marked creature that remains. If no marked creatures remain, then all summoned hounds disappear. The hounds disappear if reduced to 0 Stamina, if you use this ability again or after 5 minutes.

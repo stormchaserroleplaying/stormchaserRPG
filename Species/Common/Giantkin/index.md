@@ -29,11 +29,11 @@ Giantkin have life spans comparable to humans. They enter adulthood in their lat
 ## Features
 Giantkin share a number of features in common with one another.
 
-## Attribute Score Increase
+### Attribute Score Increase
 Your choice of your Strength score, or your Constitution score increases by 2.
 
-### Mountain Born
-You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
+### Mountain Blood
+You have resistance to cold damage.
 
 ### Natural Athlete
 You have proficiency in the Athletics skill.

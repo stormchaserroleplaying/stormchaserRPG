@@ -20,5 +20,8 @@ You're naturally adapted to hot climates. Additionally, travelling in hot weathe
 #### Mountain/Tundra Born
 You’re naturally adapted to cold climates. Additionally, you're acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. 
 
+### Natural Athlete
+You have proficiency in the [Athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) skill.
+
 ## Languages
 You can speak, read and write Giant, Orc and one other language.

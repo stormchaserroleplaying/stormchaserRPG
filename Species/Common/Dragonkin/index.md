@@ -33,6 +33,7 @@ Dragonkin have an innate inclination towards certain alignments (see the phenoty
 Dragonkin are draconic humanoids that stand erect on two feet, although most lack wings. They are tall and strongly built, often standing close to six-and-a-half feet tall and weighing three hundred pounds or more, with coloured scales that match those of the draconic family from which they are descended. Their hands and feet bear strong, talon-like claws.
 
 ## Features
+Dragonkin share a number of features in common with one another.
 
 ## Attribute Score Increase
 Your Strength score rises by 2.

@@ -18,9 +18,6 @@ Most who hail from a mountain hall are lawful, believing firmly in the benefits 
 
 ## Features
 
-### Defensive Training
-You have +1d to your defences vs attacks made by giants.
-
 ### Weapon Training
 You are proficient with simple axes and simple bludgeoning weapons. Additionally, you treat any weapon with the word “dwarven” in its name or properties as a martial weapon.
 
@@ -36,15 +33,8 @@ If your class grants proficiency with both light and medium armour, then you ins
 ### Mountain Born
 You’re acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. You’re also naturally adapted to cold climates.
 
-### Stonecunning
-*You have a knack for noticing even small inconsistencies and craftsmanship techniques in the stonework around you.*
-
-You benefit from +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Perception/) checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or hidden within stone.
-
-If you aren't using the [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) action or searching, the GM automatically rolls a secret check for you to notice unusual stonework anyway. This check doesn't benefit from the bonus.
-
 ### Tool Proficiency
-You gain proficiency with one of the following sets of artisan’s tools: smith’s tools, brewer’s supplies, or mason’s tools.
+You gain proficiency with one of the following sets of artisan’s tools: brewer’s supplies, mason’s tools, or smith’s tools.
 
 ## Languages
 You can speak, read and write Dwarvish, Gnomish and one other language.

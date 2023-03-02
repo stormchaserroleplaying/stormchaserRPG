@@ -97,5 +97,5 @@ Dragonkin are tall and strongly built, often standing close to six-and-a-half fe
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Dragonkin, Male   | 5'6" | +2d8"<br>(5'8" – 6'10") | 175 lbs. | +(2d8 × 2d6) lbs.<br>(179 – 367 lbs.) |
-| Dragonkin, Female | 5'4" | +2d8"<br>(5'6" – 6'8" ) | 150 lbs. | +(2d8 × 2d6) lbs.<br>(154 – 342 lbs.) |
+| Dragonkin, Male   | 5'4" | +2d8"<br>(5'6" – 6'8" ) | 150 lbs. | +(2d8 × 2d6) lbs.<br>(154 – 342 lbs.) |
+| Dragonkin, Female | 5'6" | +2d8"<br>(5'8" – 6'10") | 175 lbs. | +(2d8 × 2d6) lbs.<br>(179 – 367 lbs.) |

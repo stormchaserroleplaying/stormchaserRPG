@@ -63,4 +63,7 @@ You can focus yourself to occasionally shrug off injury. On your turn, if you to
 Once per round, the first time that you take damage from a creature within 60 feet of you, you deal 1d8 sonic damage to that creature.
 
 ## Size
-Giantkin stand between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium.
+Giantkin stand between 7 and 8 feet tall and typically weigh between a little less than 300 pounds. Your size is Medium.
+
+| Giantkin, Male         | 6'3"  | +2d10"<br>(6'5" – 7'11") | 210 lbs. | +(2d10 × 2d6) lbs.<br>(214 lbs. – 450 lbs.) |
+| Giantkin, Female       | 6'1"  | +2d10"<br>(6'3" – 7'9")  | 170 lbs. | +(2d10 × 2d6) lbs.<br>(174 lbs. – 410 lbs.) |

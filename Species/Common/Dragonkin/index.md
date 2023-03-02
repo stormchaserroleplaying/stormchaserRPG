@@ -75,13 +75,13 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
 
 ### Red/Gold: Emperor's Awe
-Choose either [Intimdiation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) or [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/). You are trained in this skill.
+You are trained in the [Intimdiation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
 
 ### Blue/Bronze: Cloud Step
 Sand and water are not considered difficult terrain and you can walk upon them as if on solid ground
 
 ### Green/Brass: Conversationalist
-You can speak, read and write one additional language of your choice.
+Choose either [Deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) or [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/). You are trained in this skill.
 
 ### Black/Copper: Dragon's Den
 You gain a burrowing speed of 30 ft and can hold your breath for 1 hour.

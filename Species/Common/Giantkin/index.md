@@ -32,35 +32,74 @@ Giantkin share a number of features in common with one another.
 ### Attribute Score Increase
 Your choice of your Strength score, or your Constitution score increases by 2.
 
-### Mountain Blood
-You have resistance to cold damage.
-
-### Natural Athlete
-You have proficiency in the Athletics skill.
-
 ### Powerful Build
 You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 ## Phenotype
-You are descended from giants. Choose one of the following phenotypes. Each comes with a supernatural boon from your ancestry. You can use the chosen benefit a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
+You are descended from giants. Choose one of the following phenotypes:
 
-### Cloud's Jaunt
-As an action, you magically teleport up to your speed to an unoccupied space that you can see.
+### Cloud Giant
 
-### Fire's Burn
+#### Cloud's Jaunt
+You can cast the [Fog Cloud]() and [Misty Step]() spells a number of times equal to your Constitution modifier.
+
+You regain all expended uses when you finish a short rest.
+
+#### Keen Smell
+Scent counts as an imprecise sense for you, with a range of 30 feet.
+
+### Fire Giant
+
+#### Fire's Burn
 When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 fire damage to that target.
 
-### Frost's Chill
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
+
+#### Fire Resistance
+You are resistant to fire damage.
+
+### Frost Giant
+
+#### Frost's Chill
 When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 cold damage to that target and reduce its speed by 10 feet until the start of your next turn.
 
-### Hill's Tumble
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
+
+#### Frost Resistance
+You are resistant to cold damage.
+
+### Hill Giant
+
+#### Hill's Tumble
 When you hit a large or smaller creature with an attack roll and deal damage to it, you can knock that target prone.
 
-### Stone’s Endurance
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
+
+#### Poison Resistance
+You are resistant to poison damage.
+
+### Stone Giant
+
+#### Low-Light Vision
+You can see twice as far as humans in conditions of dim light.
+
+#### Stone Camouflage
+You have +1d on [Stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) checks made to [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/) in rocky terrain.
+
+#### Stone’s Endurance
 You can focus yourself to occasionally shrug off injury. On your turn, if you took damage in the last round, you can roll a d12 as a free action. Add your Constitution modifier to the number rolled and recover an amount of stamina equal to that total. If damage reduces you to 0 stamina, then this ability is automatically used, even if it isn't your turn.
 
-### Storm's Thunder
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
+
+### Storm Giant
+
+#### Storm Resistances
+You are resistant to electric and sonic damage. 
+
+#### Storm's Thunder
 Once per round, the first time that you take damage from a creature within 60 feet of you, you deal 1d8 sonic damage to that creature.
+
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a short rest.
 
 ## Size
 Giantkin stand between 7 and 8 feet tall and typically weigh between a little less than 300 pounds. Your size is Medium.

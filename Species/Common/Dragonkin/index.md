@@ -75,7 +75,7 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
 
 ### Red/Gold: Emperor's Awe
-You are trained in the [Intimdiation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
+You are trained in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
 
 ### Blue/Bronze: Cloud Step
 Sand and water are not considered difficult terrain and you can walk upon them as if on solid ground

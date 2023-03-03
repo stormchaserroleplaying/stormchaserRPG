@@ -82,7 +82,7 @@ This ability triggers once per round and automatically on the first attack to hi
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury<br>**Action:** 2
 *Your control over the elements of air allows you and your allies to take to the skies.*
 
 You gain a magical flying speed of 60 feet. Using 2 Actions, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your spellcasting modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can’t do so again until you finish a short or long rest.

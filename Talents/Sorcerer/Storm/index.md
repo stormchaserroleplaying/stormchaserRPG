@@ -71,7 +71,7 @@ If it is windy, you can use 1 Action each round to choose the direction that the
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Heart of the Storm and Storm Guide<br>**Action:** Free<br>**Trigger:** You are hit by a melee attack.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Heart of the Storm and Storm Guide<br>**Actions:** Free<br>**Trigger:** You are hit by a melee attack.
 *The tempest confined inside you is released against your attackers.*
 
 When a creature hits you with a melee attack, you automatically deal electric or sonic damage (choose each time you use this ability) to the attacker. The damage equals two times your maximum spell level. The attacker must also make a Strength defense check vs your spellcasting skill. On a fail, the attacker is pushed in a straight line up to 20 feet away from you.
@@ -82,7 +82,7 @@ This ability triggers once per round and automatically on the first attack to hi
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury<br>**Action:** 2
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury<br>**Actions:** 2
 *Your control over the elements of air allows you and your allies to take to the skies.*
 
 You gain a magical flying speed of 60 feet. Using 2 Actions, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your spellcasting modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can’t do so again until you finish a short or long rest.

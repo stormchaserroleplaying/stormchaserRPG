@@ -39,9 +39,9 @@ Dragonkin share a number of features in common with one another.
 Your Strength score rises by 2.
 
 ### Breath Weapon
-As an action you can exhale destructive energy. Your phenotype determines the size, shape, and damage type of the exhalation.
+As an action you can exhale destructive energy. Your phenotype determines the size, shape, and damage of the exhalation.
 
-When you use your breath weapon, make a trained Constitution attack roll vs each creature in the area. The defence that the target uses is determined by your draconic ancestry. On a hit, a creature takes 1d6 damage for every 2 character levels that you have, or half as much damage on a miss.
+When you use your breath weapon, make a trained Constitution attack roll vs each creature in the area. The defence that the target uses is determined by your draconic ancestry. On a hit, a creature takes damage according to the phenotype table, or half as much damage on a miss.
 
 You can use your breath weapon a number of times equal to your Constitution modifier. The number of uses resets when you complete a short or a long rest.
 
@@ -54,23 +54,23 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ## Phenotypes
 You are descended from a specific colour of dragon. Choose one type from the table below:
 
-| Dragon Type | Alignment | Damage Type | Breath Weapon |
-|:-----------:|:---------:|:-----------:|:-------------:|
-| Gold     | Lawful Good     | Fire     | 15 ft. cone<br>(Dexterity defence) |
-| Silver   | Lawful Good     | Cold     | 15 ft. cone<br>(Constitution defence) |
-| Bronze   | Lawful Good     | Electric | 5 by 30 ft. line<br>(Dexterity defence) |
-| Copper   | Chaotic Good    | Acid     | 5 by 30 ft. line<br>(Dexterity defence) |
-| Brass    | Chaotic Good    | Fire     | 5 by 30 ft. line<br>(Dexterity defence) |
-| Red      | Chaotic Evil    | Fire     | 15 ft. cone<br>(Dexterity defence) |
-| Blue     | Lawful Evil     | Electric | 5 by 30 ft. line<br>(Dexterity defence) |
-| Green    | Lawful Evil     | Poison   | 15 ft. cone<br>(Constitution defence) |
-| Black    | Chaotic Evil    | Acid     | 5 by 30 ft. line<br>(Dexterity defence) |
-| White    | Chaotic Evil    | Cold     | 15 ft. cone<br>(Constitution defence) |
-| Amethyst | Neutral Evil    | Profane  | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
-| Emerald  | Chaotic Neutral | Sonic    | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
-| Ruby     | Lawful Neutral  | Psychic  | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
-| Sapphire | True Neutral    | Sacred   | 30 ft. range, 5 ft. sphere<br>(Wisdom defence) |
-| Topaz    | Neutral Good    | Energy   | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
+| Dragon Type | Alignment | Damage | Breath Weapon |
+|:-----------:|:---------:|:------:|:-------------:|
+| Gold     | Lawful Good     | 4d6 Fire      | 15 ft. cone<br>(Dexterity defence) |
+| Silver   | Lawful Good     | 4d6 Cold      | 15 ft. cone<br>(Constitution defence) |
+| Bronze   | Lawful Good     | 6d4 Electric  | 5 by 30 ft. line<br>(Dexterity defence) |
+| Copper   | Chaotic Good    | 3d8 Acid      | 5 by 30 ft. line<br>(Dexterity defence) |
+| Brass    | Chaotic Good    | 4d6 Fire      | 5 by 30 ft. line<br>(Dexterity defence) |
+| Red      | Chaotic Evil    | 4d6 Fire      | 15 ft. cone<br>(Dexterity defence) |
+| Blue     | Lawful Evil     | 6d4 Electric  | 5 by 30 ft. line<br>(Dexterity defence) |
+| Green    | Lawful Evil     | 3d8 Poison    | 15 ft. cone<br>(Constitution defence) |
+| Black    | Chaotic Evil    | 3d8 Acid      | 5 by 30 ft. line<br>(Dexterity defence) |
+| White    | Chaotic Evil    | 4d6 Cold      | 15 ft. cone<br>(Constitution defence) |
+| Amethyst | Neutral Evil    | 2d12 Profane  | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
+| Emerald  | Chaotic Neutral | 6d4 Sonic     | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
+| Ruby     | Lawful Neutral  | 2d12 Psychic  | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
+| Sapphire | True Neutral    | 2d12 Sacred   | 30 ft. range, 5 ft. sphere<br>(Wisdom defence) |
+| Topaz    | Neutral Good    | 2d12 Energy   | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
 
 Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
 

@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
  
 # Storm Sorcery
-Your innate magic is fueled by the power of the storm. Some with this power can trace their magic back to a near-death experience caused by a great flood, or perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as sylph. Whatever the case, the magic of the storm permeates your being.
+Your innate magic is fueled by the power of the storm. Some with this power can trace their magic back to a near-death experience caused by a great flood, or perhaps you were born during a howling gale so powerful that folk still tell stories of it, or your lineage might include the influence of potent air creatures such as a sylph. Whatever the case, the magic of the storm permeates your being.
 
 Storm sorcerers are invaluable members of a ship’s crew. Their magic allows them to exert control over wind and weather in their immediate area. Their abilities also prove useful in repelling attacks by sahuagin, pirates, and other waterborne threats.
 
@@ -24,7 +24,6 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | 4th | Control Water, Storm Sphere | 
 | 5th | Control Winds, Maelstrom | 
 
-
 ## Talents
  
 | Talent | CP | Prerequisites |
@@ -34,7 +33,6 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Storm Guide | 5 | 3rd Level Spells and Tempestuous Magic |  
 | Storm’s Fury  | 50 | 7th Level Spells, Heart of the Storm and Storm Guide |  
 | Wind Soul | 80 | 9th Level Spells and Storm’s Fury |  
-
 
 ###  Tempestuous Magic
 
@@ -74,7 +72,7 @@ If it is windy, you can use 1 Action each round to choose the direction that the
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Heart of the Storm and Storm Guide<br>**Actions:** Free<br>**Trigger:** You are hit by a melee attack.
 *The tempest confined inside you is released against your attackers.*
 
-When a creature hits you with a melee attack, you automatically deal electric or sonic damage (choose each time you use this ability) to the attacker. The damage equals two times your maximum spell level. The attacker must also make a Strength defense check vs your spellcasting skill. On a fail, the attacker is pushed in a straight line up to 20 feet away from you.
+When a creature hits you with a melee attack, you automatically deal electric or sonic damage (choose each time you use this ability) to the attacker. The damage equals two times your maximum spell level. The attacker must also make a Strength defense check vs your evocation skill. On a fail, the attacker is pushed in a straight line up to 20 feet away from you.
 
 This ability triggers once per round and automatically on the first attack to hit you each round, unless you declare on your turn or when you roll initiative that it will trigger from attacks by a specified creature, or not to use it at all. 
 
@@ -85,6 +83,6 @@ This ability triggers once per round and automatically on the first attack to hi
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury<br>**Actions:** 2
 *Your control over the elements of air allows you and your allies to take to the skies.*
 
-You gain a magical flying speed of 60 feet. Using 2 Actions, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your spellcasting modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can’t do so again until you finish a short or long rest.
+You gain a magical flying speed equal to twice your speed. Using 2 Actions, you can reduce your flying speed to be equal to your speed for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your spellcasting modifier. The chosen creatures gain a magical flying speed equal to their speed for 1 hour. Once you reduce your flying speed in this way, you can’t do so again until you finish a short or long rest.
 
 Additionally, you gain immunity to electric and sonic damage.

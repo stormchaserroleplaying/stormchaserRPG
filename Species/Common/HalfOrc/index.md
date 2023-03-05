@@ -24,7 +24,7 @@ Your Strength score and your Constitution score both increase by 1.
 Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 ### Menacing
-You gain proficiency in the Intimidation skill.
+You gain proficiency in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
 
 ### Relentless Endurance
 When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.

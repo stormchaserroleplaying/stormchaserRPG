@@ -32,7 +32,7 @@ Half-orcs average around 6 feet tall, with powerful builds and greenish or grayi
 ## Features
 
 ### Attribute Score Increase
-Your Strength score and your Constitution score both increase by 1.
+Your choice of your Strength or Constitution score and one other attribute score of your choice both increase by 1.
 
 ### Low-Light Vision
 Half-orcs can see twice as far as humans in conditions of dim light.

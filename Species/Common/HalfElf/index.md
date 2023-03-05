@@ -34,7 +34,7 @@ Half-elves stand taller than humans but shorter than elves. They inherit the lea
 ## Features
 
 ### Attribute Score Increase
-Two physical attributes of your choice increase by 1.
+Your Dexterity score and one other physical attribute of your choice increase by 1.
 
 ### Low-Light Vision
 Half-elves can see twice as far as humans in conditions of dim light.

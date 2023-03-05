@@ -23,5 +23,8 @@ You’re naturally adapted to cold climates. Additionally, you're acclimated to 
 ### Natural Athlete
 You have proficiency in the [Athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) skill.
 
+### Savage Attacker
+When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+
 ## Languages
 You can speak, read and write Giant, Orc and one other language.

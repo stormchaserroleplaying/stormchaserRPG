@@ -28,6 +28,9 @@ Physically, half-elves mature sightly slower than humans do and reach adulthood 
 | Bard, Fighter, Paladin and Ranger      | 18 + 2d6 (20-30) Years |
 | Cleric, Druid, Monk and Wizard         | 18 + 3d6 (21-36) Years |
 
+## Appearance
+Half-elves stand taller than humans but shorter than elves. They inherit the lean build and comely features of their elven lineage, but their skin colour is normally dictated by their human side. While half-elves retain the pointed ears of elves, theirs are more rounded and less pronounced. Their eyes feature an exotic range of colours from amber or violet to emerald green and deep blue. However, this pattern changes for half-elves of dark elf descent. Such elves are almost unfailingly marked with the white or silver hair of the drow parent and, more often than not, have dusky gray skin that takes on a purplish or bluish tinge in the right light, while their eye colour usually favors that of the human parent.
+
 ## Features
 
 ### Attribute Score Increase

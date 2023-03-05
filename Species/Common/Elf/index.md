@@ -27,7 +27,7 @@ Elves grow and age comparably to humans, up to the age of 12. After this point t
 | Cleric, Druid, Monk and Wizard         | 30 + 20d6 (50-150) Years |
 
 ## Appearance
-Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have no facial and little body hair.
+Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have little facial and no body hair.
 
 ## Features
 
@@ -58,7 +58,7 @@ Dark elf adventurers are rare. Check with your Game Master to see if you can pla
 Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 #### Sunlight Sensitivity
-You have disadvantage on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have -1d on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Fey Elf
 Fey elves are elves native to the Hedge, a realm of beauty, unpredictable emotion and boundless magic. A fey elf is associated with one of the four seasons and has colouration reminiscent of that season, which can also affect the fey elf’s mood:

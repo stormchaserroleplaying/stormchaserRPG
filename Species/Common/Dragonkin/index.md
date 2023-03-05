@@ -59,12 +59,12 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 | Gold     | Lawful Good     | 4d6 Fire      | 15 ft. cone<br>(Dexterity defence) |
 | Silver   | Lawful Good     | 4d6 Cold      | 15 ft. cone<br>(Constitution defence) |
 | Bronze   | Lawful Good     | 6d4 Electric  | 5 by 30 ft. line<br>(Dexterity defence) |
-| Copper   | Chaotic Good    | 3d8 Acid      | 5 by 30 ft. line<br>(Dexterity defence) |
+| Copper   | Chaotic Good    | 3d8 Corrosive | 5 by 30 ft. line<br>(Dexterity defence) |
 | Brass    | Chaotic Good    | 4d6 Fire      | 5 by 30 ft. line<br>(Dexterity defence) |
 | Red      | Chaotic Evil    | 4d6 Fire      | 15 ft. cone<br>(Dexterity defence) |
 | Blue     | Lawful Evil     | 6d4 Electric  | 5 by 30 ft. line<br>(Dexterity defence) |
 | Green    | Lawful Evil     | 3d8 Poison    | 15 ft. cone<br>(Constitution defence) |
-| Black    | Chaotic Evil    | 3d8 Acid      | 5 by 30 ft. line<br>(Dexterity defence) |
+| Black    | Chaotic Evil    | 3d8 Corrosive | 5 by 30 ft. line<br>(Dexterity defence) |
 | White    | Chaotic Evil    | 4d6 Cold      | 15 ft. cone<br>(Constitution defence) |
 | Amethyst | Neutral Evil    | 2d12 Profane  | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
 | Emerald  | Chaotic Neutral | 6d4 Sonic     | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |

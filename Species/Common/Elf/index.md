@@ -27,7 +27,7 @@ Elves grow and age comparably to humans, up to the age of 12. After this point t
 | Cleric, Druid, Monk and Wizard         | 30 + 20d6 (50-150) Years |
 
 ## Appearance
-Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have no facial and little body hair.
+Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have little facial and no body hair.
 
 ## Features
 

@@ -37,6 +37,7 @@ Aasimar mostly look like others of their species, except for some minor physical
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
+Your aasimar character has the following features.
 
 ### Darkvision
 Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.

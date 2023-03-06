@@ -30,6 +30,7 @@ A halfling reaches adulthood at the age of 20 and generally lives into the middl
 Halflings rise to a humble height of 3 feet. They prefer to walk barefoot, leading the bottoms of their feet to become roughly calloused. Tufts of thick, curly hair warm the tops of their broad, tanned feet. Their skin tends toward a rich cinnamon color and their hair toward light shades of brown. A halfling’s ears are pointed, but proportionately not much larger than those of a human.
 
 ## Features
+Your halfling character has a number of features in common with all other halflings.
 
 ### Attribute Score Increase
 Your Dexterity score increases by 2.

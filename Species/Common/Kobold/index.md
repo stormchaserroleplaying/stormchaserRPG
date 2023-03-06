@@ -6,13 +6,13 @@ grand_parent: Species
 
 # Kobold
 
-## Ability Score Increase
-Your Dexterity score rises by 2.
-
 ## Alignment
 Kobolds have an innate inclination towards certain alignments (see the phenotype table).
 
 ## Features
+
+## Attribute Score Increase
+Your Dexterity score rises by 2.
 
 ### Damage Resistance
 You have resistance to the damage type associated with your phenotype.

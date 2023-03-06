@@ -6,6 +6,9 @@ grand_parent: Species
 
 # Kobold
 
+## Age
+Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.
+
 ## Alignment
 Kobolds have an innate inclination towards certain alignments (see the phenotype table).
 
@@ -17,14 +20,16 @@ Your Dexterity score rises by 2.
 ### Damage Resistance
 You have resistance to the damage type associated with your phenotype.
 
+### Dragon Maw
+*Your draconic heritage makes you smile. Not just because it makes you happy, but also because your powerful teeth and jaws are proof of your kinship with a true dragon.*
+
+You gain a bite attack that deals 1d4 points of damage. Once per short rest, you can change the damage type to that of your phenotype.
+
 ### Dragon Senses
 You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
-### Pack Tactics
-You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
-
 ### Prehensile Tail
-You can make unarmed strikes with your tail, which can also be equipped with special weapons (see [Melee Weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/)).
+Your tail is especially flexible and strong, so you’ve learned to use it for both movement and simple tricks. You can use your tail to draw items and make unarmed strikes, which can also be equipped with special weapons (see [Melee Weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/)).
 
 ## Phenotypes
 You are descended from a specific colour of dragon. Choose one type from the table below:
@@ -48,4 +53,7 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 | Topaz    | Neutral Good    | Energy    |
 
 ## Size
-Your size is Small.
+Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.
+
+## Speed
+Subtract 5 feet from your base walking speed.

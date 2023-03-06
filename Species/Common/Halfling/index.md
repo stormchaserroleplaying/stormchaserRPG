@@ -49,10 +49,10 @@ You can attempt to hide even when you are obscured only by a creature that is at
 ## Size
 Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.
 
-## Speed
-Subtract 5 feet from your base walking speed.
-
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
 | Male   | 2'8" | +2d4"<br>(2'10" – 3'4") | 30 lbs. | +(2d4 × 1) lbs.<br>(32 – 38 lbs.) |
 | Female | 2'6" | +2d4"<br>(2'8" – 3'2")  | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |
+
+## Speed
+Subtract 5 feet from your base walking speed.

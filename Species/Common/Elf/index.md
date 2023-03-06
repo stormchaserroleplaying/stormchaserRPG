@@ -30,6 +30,7 @@ Elves grow and age comparably to humans, up to the age of 12. After this point t
 Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have little facial and no body hair.
 
 ## Features
+Your elf character has a variety of natural features, which are the result of thousands of years of elven refinement.
 
 ## Attribute Score Increase
 Your Dexterity score rises by 2.

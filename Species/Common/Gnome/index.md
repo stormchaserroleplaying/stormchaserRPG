@@ -8,7 +8,23 @@ grand_parent: Species
 Gnomes are distant relatives of the fey and their history tells of a time when they lived in the fey’s mysterious realm. A place where colors are brighter, the wildlands wilder and emotions more primal. Unknown forces drove the ancient gnomes from that realm long ago, forcing them to seek refuge in the material world. Despite this, the gnomes have never completely abandoned their fey roots or adapted to mortal culture. Though gnomes are no longer truly fey, their fey heritage can be seen in their innate magic powers, their oft-capricious natures and their outlooks on life and the world.
 
 ## Age
-Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+Gnomes mature at the same as elves and dwarves, but most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <30 Years         |
+| Young Adult | 30-39 Years       |
+| Adult       | 40-99 Years       |
+| Middle Aged | 100-149 Years     |
+| Old         | 150-199 Years     |
+| Venerable   | >200 Years        |
+| Maximum Age | 200 + 3d100 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 30 + 4d6 (34-54) Years |
+| Bard, Fighter, Paladin and Ranger      | 30 + 6d6 (36-66) Years |
+| Cleric, Druid, Monk and Wizard         | 30 + 9d6 (39-84) Years |
 
 ## Features
 Your gnome character has certain features in common with all other gnomes.

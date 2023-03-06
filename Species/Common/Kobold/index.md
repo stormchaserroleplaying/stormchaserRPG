@@ -13,6 +13,7 @@ Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.
 Kobolds have an innate inclination towards certain alignments (see the phenotype table).
 
 ## Features
+Your kobold character has the following features.
 
 ### Attribute Score Increase
 Your Dexterity score rises by 2.

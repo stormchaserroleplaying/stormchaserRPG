@@ -41,7 +41,7 @@ Half-orcs can see twice as far as humans in conditions of dim light.
 You gain proficiency in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
 
 ### Relentless Endurance
-When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+When you are reduced to 0 Stamina, but not killed outright, you can drop to 1 Stamina instead. You can’t use this feature again until you finish a long rest.
 
 ### Versatile
 You gain 5 character points.

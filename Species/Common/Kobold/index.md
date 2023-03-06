@@ -14,7 +14,7 @@ Kobolds have an innate inclination towards certain alignments (see the phenotype
 
 ## Features
 
-## Attribute Score Increase
+### Attribute Score Increase
 Your Dexterity score rises by 2.
 
 ### Damage Resistance

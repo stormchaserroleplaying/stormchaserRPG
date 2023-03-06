@@ -25,6 +25,17 @@ You can see in dim light as though it were bright light, so you ignore the conce
 ### Natural Illusionist
 You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Intelligence is your spellcasting ability for it. If you are a spellcaster, then this cantrip does not count towards your total number of cantrips known.
 
+## Phenotypes
+
+### Deep Gnome
+Deep gnomes are wiry and lean with bodies as hard as a slab of rock. Males are completely bald and beardless, while the females typically have grey hair. Deep gnome complexions are sometimes described as "gnarled" and are commonly dark in hue, with most deep gnomes demonstrating brown or gray skin with dark gray eyes.
+
+### Forest Gnome
+Forest gnome skin is an earthy colour and looks, in many ways, like wood, although it is not particularly tough. Forest gnome hair is brown or black, although it grays with age, sometimes to a pure white.
+
+### Rock Gnome
+Rock gnomes possess a natural brownish tint to their skin. The presence or absence of light has little effect upon it. Young rock gnomes possess any of a large number of hair colours that fade to gray or white upon reaching adulthood.
+
 ## Size
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 

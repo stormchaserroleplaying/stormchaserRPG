@@ -74,24 +74,6 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 
 Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
 
-### Red/Gold: Emperor's Awe
-You are trained in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
-
-### Blue/Bronze: Cloud Step
-Sand and water are not considered difficult terrain and you can walk upon them as if on solid ground
-
-### Green/Brass: Conversationalist
-Choose either [Deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) or [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/). You are trained in this skill.
-
-### Black/Copper: Dragon's Den
-You gain a burrowing speed equal to your movement speed and can hold your breath for 1 hour.
-
-### White/Silver: Ice Walk
-You can move across and climb icy surfaces without needing to make an ability check. Difficult terrain made of ice or snow does not cost you extra movement.
-
-### Gemstone: Psionic Mind
-You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature,  but the creature must be able to understand at least one language. Your communication doesn't give the creature the ability to respond to you telepathically.
-
 ## Size
 Dragonkin are tall and strongly built, often standing close to six-and-a-half feet tall and weighing three hundred pounds or more. Your size is Medium.
 

@@ -36,11 +36,11 @@ Half-elves stand taller than humans but shorter than elves. They inherit the lea
 ### Attribute Score Increase
 Your Dexterity score and one other physical attribute of your choice increase by 1.
 
-### Low-Light Vision
-Half-elves can see twice as far as humans in conditions of dim light.
-
 ### Fey Ancestry
 You are immune to magic sleep effects and have +1d to your defences to avoid being charmed.
+
+### Low-Light Vision
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
 
 ### Versatile
 You gain 5 character points.

@@ -10,7 +10,7 @@ grand_parent: Species
 Your Dexterity score rises by 2.
 
 ## Alignment
-Kobolds have an innate inclination towards certain alignments (see table).
+Kobolds have an innate inclination towards certain alignments (see the phenotype table).
 
 ## Features
 
@@ -31,21 +31,21 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 
 | Dragon Type | Alignment | Damage Type |
 |:-----------:|:---------:|:-----------:|
-| Gold     | Lawful Good | Fire |
-| Silver   | Lawful Good | Cold |
-| Bronze   | Lawful Good | Lightning |
-| Copper   | Chaotic Good | Acid |
-| Brass    | Chaotic Good | Fire |
-| Red      | Chaotic Evil | Fire |
-| Blue     | Lawful Evil | Lightning |
-| Green    | Lawful Evil | Poison |
-| Black    | Chaotic Evil | Acid |
-| White    | Chaotic Evil | Cold |
-| Amethyst | Neutral Evil | Necrotic |
-| Emerald  | Chaotic Neutral | Psychic |
-| Ruby     | Lawful Neutral | Thunder |
-| Sapphire | True Neutral | Force |
-| Topaz    | Neutral Good | Radiant |
+| Gold     | Lawful Good     | Fire      |
+| Silver   | Lawful Good     | Cold      |
+| Bronze   | Lawful Good     | Electric  |
+| Copper   | Chaotic Good    | Corrosive |
+| Brass    | Chaotic Good    | Fire      |
+| Red      | Chaotic Evil    | Fire      |
+| Blue     | Lawful Evil     | Electric  |
+| Green    | Lawful Evil     | Poison    |
+| Black    | Chaotic Evil    | Corrosive |
+| White    | Chaotic Evil    | Cold      |
+| Amethyst | Neutral Evil    | Profance  |
+| Emerald  | Chaotic Neutral | Sonic     |
+| Ruby     | Lawful Neutral  | Psychic   |
+| Sapphire | True Neutral    | Sacred    |
+| Topaz    | Neutral Good    | Energy    |
 
 ## Size
 Your size is Small.

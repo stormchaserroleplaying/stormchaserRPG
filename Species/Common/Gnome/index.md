@@ -55,5 +55,10 @@ Rock gnomes possess a natural brownish tint to their skin. The presence or absen
 ## Size
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
 
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Male   | 3'9" | +2d4"<br>(3'11" – 4'5") | 150 lbs. | +(2d4 × 2d6) lbs.<br>(154 – 246 lbs.) | 
+| Female | 3'7" | +2d4"<br>(3'9" – 4'3")  | 120 lbs. | +(2d4 × 2d6) lbs.<br>(124 – 216 lbs.) |
+
 ## Speed
 Subtract 5 feet from your base walking speed.

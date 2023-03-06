@@ -30,12 +30,13 @@ Half-orcs mature a little faster than humans, reaching adulthood around age 14. 
 Half-orcs average around 6 feet tall, with powerful builds and greenish or grayish skin. Their canine teeth often grow long enough to protrude from their mouths, and these "tusks", combined with heavy brows and slightly pointed ears, give them their notoriously bestial appearance. While half-orcs may be impressive, few ever describe them as beautiful. Despite these obvious orc traits, half-orcs are as varied as their human parents.
 
 ## Features
+Your half-orc character has certain features deriving from your orc ancestry.
 
 ### Attribute Score Increase
 Your choice of your Strength or Constitution score and one other attribute score of your choice both increase by 1.
 
 ### Low-Light Vision
-Half-orcs can see twice as far as humans in conditions of dim light.
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
 
 ### Menacing
 You gain proficiency in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.

@@ -27,7 +27,7 @@ Humans reach adulthood in their late teens and typically live less than a centur
 | Cleric, Druid, Monk and Wizard         | 16 + 2d6 (18-28) Years |
 
 ## Features
-Humans share a number of features in common with one another.
+It’s hard to make generalisations about humans, but your human character has these features.
 
 ### Attribute Score Increase
 Increase two different physical attributes of your choice by 1.

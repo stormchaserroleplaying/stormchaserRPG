@@ -30,18 +30,19 @@ Elves grow and age comparably to humans, up to the age of 12. After this point t
 Generally taller than humans, elves possess a graceful, slender physique that is accentuated by their long, pointed ears. However, it would be a mistake to consider them feeble or weak, as the thin limbs of an elf can contain surprising power. Elves' colouration encompasses the normal human range and also includes skin in shades of copper, bronze and almost bluish-white. Elves have little facial and no body hair.
 
 ## Features
+Your elf character has a variety of natural features, which are the result of thousands of years of elven refinement.
 
 ## Attribute Score Increase
 Your Dexterity score rises by 2.
 
-### Low-Light Vision
-Elves can see twice as far as humans in conditions of dim light.
+### Fey Ancestry
+You are immune to magic sleep effects and have +1d to your defences to avoid being charmed.
 
 ### Keen Senses
 You have +1d to Perception.
 
-### Fey Ancestry
-You are immune to magic sleep effects and have +1d to your defences to avoid being charmed.
+### Low-Light Vision
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
 
 ### Trance
 Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.

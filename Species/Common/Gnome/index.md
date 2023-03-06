@@ -26,6 +26,11 @@ Gnomes mature at the same as elves and dwarves, but most are expected to settle 
 | Bard, Fighter, Paladin and Ranger      | 30 + 6d6 (36-66) Years |
 | Cleric, Druid, Monk and Wizard         | 30 + 9d6 (39-84) Years |
 
+## Appearance
+Gnomes are one of the smallest of the common races, generally standing just over 3 feet in height. Despite their small frames, however, gnomes are extremely resilient and not as weak as many of their foes assume. Though their diminutive stature reduces their ability to move quickly, gnomes often train to take advantage of their size, especially when fighting foes much larger than themselves.
+
+The colouration of gnomes varies so wildly that many outsiders assume gnomes commonly use dyes and illusions to change their skin and hair tones. While gnomes are certainly not above cosmetic enhancement (and may wish to change their appearance just to see how outlandish they can look), their natural hues truly range over a rainbow of coloration. Their hair tends toward vibrant colors such as the fiery orange of autumn leaves, the verdant green of forests at springtime, or the deep reds and purples of wildflowers in bloom. Similarly, their flesh tones range from earthy browns to floral pinks, and gnomes with black, pastel blue, or even green skin are not unknown. Gnomes’ colouration has little regard for heredity, with the color of a gnome’s parents and other kin having no apparent bearing on the gnome’s appearance. Gnomes possess highly mutable facial characteristics, and their proportions often don’t match the norm of other humanoid races. Many have overly large mouths and eyes, an effect which can be both disturbing and stunning, depending on the individual. Others may have extremely small features spread over an otherwise blank expanse of face, or may mix shockingly large eyes with a tiny, pursed mouth and a pert button of a nose. Gnomes rarely take pride in or show embarrassment about their features, but members of other races often fixate on a gnome’s most prominent feature and attempt to use it as the focus of insults or endearments.
+
 ## Features
 Your gnome character has certain features in common with all other gnomes.
 

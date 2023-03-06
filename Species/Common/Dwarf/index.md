@@ -32,6 +32,7 @@ Dwarves move Charisma to the set of attributes receiving penalties with age and 
 Dwarves are a short and stocky race, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the long length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness, or worse. No one familiar with dwarves trusts a beardless dwarven man.
 
 ## Features
+Your dwarf character has an assortment of inborn features that are part and parcel of dwarven nature.
 
 ### Attribute Score Increase
 Your Constitution score rises by 2.

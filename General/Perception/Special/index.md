@@ -11,10 +11,12 @@ While a human might have a difficult time making creatures out in dim light, an 
 Special senses grant greater awareness that allows a creature with these senses to either ignore or reduce the effects of the undetected, hidden, or concealed conditions (described in Detecting Creatures) when it comes to situations that foil average vision. The following are a few examples of common special senses.
 
 ## Darkvision
-A creature with darkvision or greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level darkness spell, block normal darkvision. A creature with greater darkvision, however, can see through even these forms of magical darkness.
+A creature with darkvision or greater darkvision can see in dim light as though it were bright light. Additionally, the creature can see in darkness as thought it were dim light. However, darkvision cannot discern colour in darkness, only shades of grey.
+
+Some forms of magical darkness, such as a 4th-level darkness spell, block normal darkvision. However, a creature with greater darkvision can see through even these forms of magical darkness.
 
 ## Low-Light Vision
-A creature with low-light vision can see in dim light as though it were bright light, so it ignores the concealed condition due to dim light.
+A creature with low-light vision can see in dim light as though it were bright light and thus ignores the concealed condition due to dim light.
 
 ## Scent
 Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).

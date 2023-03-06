@@ -48,8 +48,8 @@ You can use your breath weapon a number of times equal to your Constitution modi
 ### Damage Resistance
 You have resistance to the damage type associated with your phenotype.
 
-### Darkvision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
+### Dragon Senses
+You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
 ## Phenotypes
 You are descended from a specific colour of dragon. Choose one type from the table below:
@@ -73,24 +73,6 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 | Topaz    | Neutral Good    | 2d12 Energy   | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
 
 Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
-
-### Red/Gold: Emperor's Awe
-You are trained in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.
-
-### Blue/Bronze: Cloud Step
-Sand and water are not considered difficult terrain and you can walk upon them as if on solid ground
-
-### Green/Brass: Conversationalist
-Choose either [Deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) or [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/). You are trained in this skill.
-
-### Black/Copper: Dragon's Den
-You gain a burrowing speed of 30 ft and can hold your breath for 1 hour.
-
-### White/Silver: Ice Walk
-You can move across and climb icy surfaces without needing to make an ability check. Difficult terrain made of ice or snow does not cost you extra movement.
-
-### Gemstone: Psionic Mind
-You can telepathically speak to any creature you can see within 30 feet of you. You don't need to share a language with the creature,  but the creature must be able to understand at least one language. Your communication doesn't give the creature the ability to respond to you telepathically.
 
 ## Size
 Dragonkin are tall and strongly built, often standing close to six-and-a-half feet tall and weighing three hundred pounds or more. Your size is Medium.

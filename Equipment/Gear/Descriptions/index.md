@@ -71,7 +71,7 @@ A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made o
 This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 
 ## Healer's Kit
-This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilise a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilise a creature that has 0 Stamina, without needing to make a [Medicine](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/) check.
 
 With a Healer's Kit you can also use the First Aid, Long Term Care and Resuscitate actions.
 

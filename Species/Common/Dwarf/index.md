@@ -43,7 +43,7 @@ You have +1d to your defences vs poison and [resistance](http://stormchaserrolep
 While standing on the ground, you have +1d when resisting any attempt that would move you, or knock you prone.
 
 ### Stone Sense
-While you are standing on or touching a stone surface (natural or worked), you gain tremorsense out to 60 feet.
+While you are standing on or touching a stone surface (natural or worked), you gain tremorsense (imprecise) out to 60 feet.
 
 ## Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.

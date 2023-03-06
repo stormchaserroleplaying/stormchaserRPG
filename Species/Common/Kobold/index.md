@@ -6,50 +6,51 @@ grand_parent: Species
 
 # Kobold
 
-## Ability Score Increase
-Your Dexterity score rises by 2.
+## Age
+Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.
 
 ## Alignment
-Kobolds have an innate inclination towards certain alignments (see table).
+Kobolds have an innate inclination towards certain alignments (see the phenotype table).
 
-## Size
-Your size is Small.
+## Features
 
-## Darkvision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
+## Attribute Score Increase
+Your Dexterity score rises by 2.
 
-## Draconic Ancestry
-You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your attribute bonus and damage resistance are determined by the dragon type, as shown in the table.
+### Damage Resistance
+You have resistance to the damage type associated with your phenotype.
+
+### Dragon Senses
+You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
+
+### Squat and Nimble
+You can move through the space of any creature that is of a size larger than yours.
+
+### Tunneler
+You have a burrow speed equal to your movement Speed.
+
+## Phenotypes
+You are descended from a specific colour of dragon. Choose one type from the table below:
 
 | Dragon Type | Alignment | Damage Type |
 |:-----------:|:---------:|:-----------:|
-| Gold | Lawful Good | Fire |
-| Silver | Lawful Good | Cold |
-| Bronze | Lawful Good | Lightning |
-| Copper | Chaotic Good | Acid |
-| Brass | Chaotic Good | Fire |
-| Red | Chaotic Evil | Fire |
-| Blue | Lawful Evil | Lightning |
-| Green | Lawful Evil | Poison |
-| Black | Chaotic Evil | Acid |
-| White | Chaotic Evil | Cold |
-| Amethyst | Neutral Evil | Necrotic |
-| Emerald | Chaotic Neutral | Psychic |
-| Ruby | Lawful Neutral | Thunder |
-| Sapphire | True Neutral | Force |
-| Topaz | Neutral Good | Radiant |
+| Gold     | Lawful Good     | Fire      |
+| Silver   | Lawful Good     | Cold      |
+| Bronze   | Lawful Good     | Electric  |
+| Copper   | Chaotic Good    | Corrosive |
+| Brass    | Chaotic Good    | Fire      |
+| Red      | Chaotic Evil    | Fire      |
+| Blue     | Lawful Evil     | Electric  |
+| Green    | Lawful Evil     | Poison    |
+| Black    | Chaotic Evil    | Corrosive |
+| White    | Chaotic Evil    | Cold      |
+| Amethyst | Neutral Evil    | Profane   |
+| Emerald  | Chaotic Neutral | Sonic     |
+| Ruby     | Lawful Neutral  | Psychic   |
+| Sapphire | True Neutral    | Sacred    |
+| Topaz    | Neutral Good    | Energy    |
 
-## Damage Resistance
-You have resistance to the damage type associated with your draconic ancestry.
+Your damage resistance is determined by your phenotype, as shown in the table above.
 
-## Pack Tactics
-You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
-
-## Prehensile Tail
-You can make unarmed strikes with your tail, which can also be equipped with special weapons (see [Melee Weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/)).
-
-## Sunlight Sensitivity
-You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
-
-## Languages
-You can speak, read and write Common and Draconic.
+## Size
+Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.

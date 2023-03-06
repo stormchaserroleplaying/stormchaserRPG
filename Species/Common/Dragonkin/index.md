@@ -49,7 +49,7 @@ You can use your breath weapon a number of times equal to your Constitution modi
 You have resistance to the damage type associated with your phenotype.
 
 ### Darkvision
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
+You can see in dim light as if it were bright light and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of gray.
 
 ## Phenotypes
 You are descended from a specific colour of dragon. Choose one type from the table below:

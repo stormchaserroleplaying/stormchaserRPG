@@ -73,6 +73,7 @@ Your damage resistance is determined by your phenotype, as shown in the table ab
 ## Size
 Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.
 
-
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
 | Kobold, Male   | 2'6" | +2d4"<br>(2'8"-3'2") | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |
 | Kobold, Female | 2'4" | +2d4"<br>(2'6"-3'0") | 20 lbs. | +(2d4 × 1) lbs.<br>(22 – 28 lbs.) |

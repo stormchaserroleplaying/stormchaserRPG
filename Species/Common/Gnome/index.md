@@ -21,7 +21,7 @@ Your Dexterity and Constitution scores increase by 1.
 You have +1d to your mental defences vs magic.
 
 ### Low-Light Vision
-Gnomes can see twice as far as humans in conditions of dim light.
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
 
 ### Natural Illusionist
 You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Intelligence is your spellcasting ability for it. If you are a spellcaster, then this cantrip does not count towards your total number of cantrips known.

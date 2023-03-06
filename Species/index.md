@@ -74,6 +74,8 @@ Alternatively, you can choose your character’s height and weight based on the 
 | Human, Female          | 4'5"  | +2d10"<br>(4'7"-6'1")    | 85 lbs.  | +(2d10 × 2d4) lbs.<br>(89 – 245 lbs.)       |
 | Human, Aasimar, Male   | 5'2"  | +2d8"<br>(5'4"-6'6")     | 110 lbs. | +(2d8 × 2d4) lbs.<br>(114 – 238 lbs.)       |
 | Human, Aasimar, Female | 5'0"  | +2d8"<br>(5'4"-6'4")     | 90 lbs.  | +(2d8 × 2d4) lbs.<br>(94 – 218 lbs.)        |
+| Kobold, Male           | 2'6"  | +2d4"<br>(2'8"-3'2")     | 25 lbs.  | +(2d4 × 1) lbs.<br>(27 – 33 lbs.)           |
+| Kobold, Female         | 2'4"  | +2d4"<br>(2'6"-3'0")     | 20 lbs.  | +(2d4 × 1) lbs.<br>(22 – 28 lbs.)           |
 
 ## Speed
 Each time that a creature spends an action (such as [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/)) to move, they move their speed.

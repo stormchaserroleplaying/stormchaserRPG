@@ -5,9 +5,26 @@ grand_parent: Species
 ---
 
 # Kobold
+Kobolds are weak, craven and seethe with a festering resentment for the rest of the world, especially members of races that seem stronger, smarter, or superior to them in any way. They proudly claim kinship to dragons, but beneath all the bluster, the comparison to their glorious cousins leaves kobolds with a profound sense of inadequacy. Though they are hardworking, clever and blessed with a natural talent for mechanical devices and mining, they spend their days nursing grudges and hatreds instead of celebrating their own gifts. Kobold tactics specialise in traps and ambushes, but kobolds enjoy anything that allows them to harm others without putting themselves at risk. Often, they seek to capture rather than to kill, taking out their frustrations on the helpless victims they drag back to their claustrophobic lairs.
 
 ## Age
-Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so.
+Kobolds reach adulthood at age 6 and can live up to 60 years but rarely do so.
+
+| Age Bracket | Age |
+|:-----------:|:---:|
+| Child       | <6 Years        |
+| Young Adult | 6-11 Years      |
+| Adult       | 12-19 Years     |
+| Middle Aged | 20-29 Years     |
+| Old         | 30-39 Years     |
+| Venerable   | >40 Years       |
+| Maximum Age | 40 + 1d20 Years |
+
+| First Class Talent | Random Starting Age |
+|:------------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 12 + 1d4 (13-16) Years |
+| Bard, Fighter, Paladin and Ranger      | 12 + 1d6 (13-18) Years |
+| Cleric, Druid, Monk and Wizard         | 15 + 2d6 (14-24) Years |
 
 ## Alignment
 Kobolds have an innate inclination towards certain alignments (see the phenotype table).
@@ -55,3 +72,8 @@ Your damage resistance is determined by your phenotype, as shown in the table ab
 
 ## Size
 Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
+| Kobold, Male   | 2'6" | +2d4"<br>(2'8"-3'2") | 25 lbs. | +(2d4 × 1) lbs.<br>(27 – 33 lbs.) |
+| Kobold, Female | 2'4" | +2d4"<br>(2'6"-3'0") | 20 lbs. | +(2d4 × 1) lbs.<br>(22 – 28 lbs.) |

@@ -17,8 +17,8 @@ Your Dexterity score rises by 2.
 ### Damage Resistance
 You have resistance to the damage type associated with your phenotype.
 
-### Darkvision
-You can see in dim light as if it were bright light and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
+### Dragon Senses
+You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
 ### Pack Tactics
 You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -41,7 +41,7 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 | Green    | Lawful Evil     | Poison    |
 | Black    | Chaotic Evil    | Corrosive |
 | White    | Chaotic Evil    | Cold      |
-| Amethyst | Neutral Evil    | Profance  |
+| Amethyst | Neutral Evil    | Profane   |
 | Emerald  | Chaotic Neutral | Sonic     |
 | Ruby     | Lawful Neutral  | Psychic   |
 | Sapphire | True Neutral    | Sacred    |

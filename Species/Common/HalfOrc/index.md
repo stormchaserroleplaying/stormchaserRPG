@@ -35,7 +35,7 @@ Half-orcs average around 6 feet tall, with powerful builds and greenish or grayi
 Your choice of your Strength or Constitution score and one other attribute score of your choice both increase by 1.
 
 ### Low-Light Vision
-Half-orcs can see twice as far as humans in conditions of dim light.
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
 
 ### Menacing
 You gain proficiency in the [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) skill.

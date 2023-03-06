@@ -21,7 +21,7 @@ Your Dexterity score rises by 2.
 You have resistance to the damage type associated with your phenotype.
 
 ### Dragon Senses
-You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
+You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#scent) is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
 ### Squat and Nimble
 You can move through the space of any creature that is of a size larger than yours.

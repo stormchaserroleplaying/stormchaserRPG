@@ -84,7 +84,7 @@ Sand and water are not considered difficult terrain and you can walk upon them a
 Choose either [Deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) or [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/). You are trained in this skill.
 
 ### Black/Copper: Dragon's Den
-You gain a burrowing speed of 30 ft and can hold your breath for 1 hour.
+You gain a burrowing speed equal to your movement speed and can hold your breath for 1 hour.
 
 ### White/Silver: Ice Walk
 You can move across and climb icy surfaces without needing to make an ability check. Difficult terrain made of ice or snow does not cost you extra movement.

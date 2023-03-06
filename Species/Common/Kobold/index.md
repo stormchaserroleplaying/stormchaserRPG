@@ -20,16 +20,17 @@ Your Dexterity score rises by 2.
 ### Damage Resistance
 You have resistance to the damage type associated with your phenotype.
 
-### Dragon Maw
-*Your draconic heritage makes you smile. Not just because it makes you happy, but also because your powerful teeth and jaws are proof of your kinship with a true dragon.*
-
-You gain a bite attack that deals 1d4 points of damage. Once per short rest, you can change the damage type to that of your phenotype.
-
 ### Dragon Senses
 You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision). Additionally, [scent] is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
 ### Prehensile Tail
 Your tail is especially flexible and strong, so you’ve learned to use it for both movement and simple tricks. You can use your tail to draw items and make unarmed strikes, which can also be equipped with special weapons (see [Melee Weapons](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/MeleeWeaponTables/)).
+
+### Squat and Nimble
+You can move through the space of any creature that is of a size larger than yours.
+
+### Tunneler
+You have a burrow speed equal to your movement Speed.
 
 ## Phenotypes
 You are descended from a specific colour of dragon. Choose one type from the table below:
@@ -54,6 +55,3 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 
 ## Size
 Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small.
-
-## Speed
-Subtract 5 feet from your base walking speed.

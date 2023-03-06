@@ -40,11 +40,11 @@ You have +1d to defences vs being frightened.
 ### Lucky
 When you roll a 1 on the d20 for an attack roll or ability check, you can reroll the die and must use the new roll.
 
-### Halfling Nimbleness
-You can move through the space of any creature that is of a size larger than yours.
-
 ### Naturally Stealthy
 You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+
+### Squat and Nimble
+You can move through the space of any creature that is of a size larger than yours.
 
 ## Size
 Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small.

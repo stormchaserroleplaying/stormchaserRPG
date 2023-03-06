@@ -35,7 +35,7 @@ Dragonkin are draconic humanoids that stand erect on two feet, although most lac
 ## Features
 Dragonkin share a number of features in common with one another.
 
-## Attribute Score Increase
+### Attribute Score Increase
 Your Strength score rises by 2.
 
 ### Breath Weapon

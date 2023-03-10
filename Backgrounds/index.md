@@ -1,10 +1,10 @@
 ---
-title: Origin
+title: Origins
 has_children: true
 nav_order: 4
 ---
 
-# Origin
+# Origins
 Characters are defined by much more than their species and class. They're individuals with their own stories, interests, connections and capabilities beyond those that class and species define. This section expounds on the details that distinguish characters from one another, including the rules of cultures, backgrounds, languages and the finer points of alignment.
 
 Every story has a beginning. Your character’s origin reveals where you came from, how you became an adventurer and your place in the world. Your warrior might have been a courageous knight or a grizzled soldier. Your mage could have been a sage or an artisan. Your expert might have gotten by as a guild thief or commanded audiences as a jester.

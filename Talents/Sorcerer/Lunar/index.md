@@ -5,18 +5,19 @@ grand_parent: Talents
 ---
  
 # Lunar Sorcery
-On many worlds, the moon is a revered celestial body with magical properties. You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However,you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells — perhaps making your pupils glow with the color of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.
+On many worlds, the moon is a revered celestial body with magical properties. You or someone from your lineage has been exposed to the concentrated magic of the moon (or moons) of your world, imbuing you with lunar magic. Perhaps your ancestor was involved in a druidic ritual involving an eclipse, or maybe a mystical fragment of a moon crashed near you. However you came to have your magic, your connection to the moon is obvious when you cast sorcerer spells. Perhaps your pupils glow with the colour of a moon from your world, causing spectral manifestations of lunar phases to orbit you, or some other effect.
 
 ## Branch Features
 
 ### Bonus Spells
-When you finish a long rest you can choose which lunar phase manifests its magic through you: Full Moon, New Moon or Crescent Moon.
+When you finish a long rest you can choose which lunar phase manifests its magic through you: Full Moon, New Moon, or Crescent Moon.
 
-Based upon your chosen phase, you gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Based upon your chosen phase, you gain the following bonus spells, once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 #### Full Moon Spells
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Shield |
@@ -26,6 +27,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | 5th | Telepathic Bond |
 
 #### New Moon Spells
+
 | Spell Level | Spells |
 |:-----------:|:------:|
 | 1st | Ray of Sickness |
@@ -35,12 +37,13 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | 5th | Hold Monster |
 
 #### Crescent Moon Spells
+
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Color Spray |
+| 1st | Colour Spray |
 | 2nd | Alter Self |
 | 3rd | Phantom Steed |
-| 4th | Hallucinatory Terrain|
+| 4th | Hallucinatory Terrain |
 | 5th | Mislead |
 
 ## Talents
@@ -48,12 +51,12 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Lunar Embodiment  | 5  | - |
-| Moon Fire  | 5  | - |
-| Lunar Boons I | 5 | 3nd Level Spells , Lunar Embodiment, and Moon Fire |
-| Waxing & Waning  | 5 | 3nd Level Spells , Lunar Embodiment, and Moon Fire |
-| Lunar Boons II | 5 | 7th Level Spells, Lunar Boons I, and Waxing & Waning |
-| Lunar Empowerment  | 45 | 7th Level Spells, Lunar Boons I, and Waxing & Waning |
-| Lunar Phenomenon | 80 | 9th Level Spells and Lunar Empowerment  |
+| Moon Fire         | 5  | - |
+| Lunar Boons I     | 5  | 3nd Level Spells , Lunar Embodiment, and Moon Fire |
+| Waxing & Waning   | 5  | 3nd Level Spells , Lunar Embodiment, and Moon Fire |
+| Lunar Boons II    | 5  | 7th Level Spells, Lunar Boons I, and Waxing & Waning |
+| Lunar Empowerment | 45 | 7th Level Spells, Lunar Boons I, and Waxing & Waning |
+| Lunar Phenomenon  | 80 | 9th Level Spells and Lunar Empowerment  |
 
 ###  Lunar Embodiment
 

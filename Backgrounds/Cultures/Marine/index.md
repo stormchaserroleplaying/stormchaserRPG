@@ -1,7 +1,7 @@
 ---
 title: Marine Realm
 parent: Cultures
-grand_parent: Backgrounds
+grand_parent: Origins
 ---
 
 # Marine Realm

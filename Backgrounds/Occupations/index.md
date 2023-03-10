@@ -1,11 +1,11 @@
 ---
-title: Background
-parent: Origin
+title: Backgrounds
+parent: Origins
 has_children: true
 nav_order: 2
 ---
 
-# Background
+# Backgrounds
 The next step in creating your character’s origin is choosing their background. A character’s background tells a story about the life that they have chosen to lead, separate from the culture that they were raised in. This step can be used to tell nearly any story; how your character became an adventurer, why they claim a culture other than the one associated with their species, or how they began their journey towards finding their place in the world.
 
 While picking a background does not have to complete your character’s story, it provides a sturdy base for developing that story. A character’s background typically reflects the individual training that they have sought out or been given, rather than the common species and culture, which they shared with their first community. One of the most important questions that you can ask when choosing your background is how does this relate to your character’s current adventuring status? Did they leave a job that they loved to adventure out of a sense of duty, or were they forced out of their home? Did they spend their inheritance on adventuring gear in search of excitement, or did they save their meager wages until they could embark on a journey bigger than any that they’ve taken yet? After being dealt their cards in life, how did they make the most of it, or did they set off in search of a new hand?

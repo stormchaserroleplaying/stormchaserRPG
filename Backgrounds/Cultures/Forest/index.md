@@ -1,7 +1,7 @@
 ---
 title: Forest Guardian
 parent: Cultures
-grand_parent: Backgrounds
+grand_parent: Origins
 ---
 
 # Forest Guardian

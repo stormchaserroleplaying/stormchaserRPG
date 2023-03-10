@@ -1,7 +1,7 @@
 ---
 title: Mountain Hall
 parent: Cultures
-grand_parent: Backgrounds
+grand_parent: Origins
 ---
 
 # Mountain Hall

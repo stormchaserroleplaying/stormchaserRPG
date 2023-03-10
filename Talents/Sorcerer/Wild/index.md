@@ -18,7 +18,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 |:-----------:|:------:|
 | 1st | Chaos Bolt, Grease |
 | 2nd | Crown of Madness, Enlarge/Reduce | 
-| 3rd |  Blink, Enemies Abound | 
+| 3rd | Blink, Enemies Abound | 
 | 4th | Confusion, Polymorph | 
 | 5th | Animate Objects, Synaptic State | 
 
@@ -83,8 +83,8 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, after you 
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Tides of Chaos  | 5  | - |  
-| Bend Luck  | 10 | 3nd Level Spells and Tides of Chaos |  
+| Tides of Chaos    | 5  | - |  
+| Bend Luck         | 10 | 3nd Level Spells and Tides of Chaos |  
 | Controlled Chaos  | 50 | 7th Level Spells and Bend Luck |  
 | Spell Bombardment | 80 | 9th Level Spells and Controlled Chaos |  
 

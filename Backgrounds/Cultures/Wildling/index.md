@@ -1,7 +1,7 @@
 ---
 title: Wildling
 parent: Cultures
-grand_parent: Backgrounds
+grand_parent: Origins
 ---
 
 # Wildling

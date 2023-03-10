@@ -5,7 +5,7 @@ has_children: true
 nav_order: 12
 ---
 
-# Warlock Talent Tree (Mage)
+# Warlock Talent Tree ([Mage](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/))
 
 **As long as at least half of your mage talents are from the warlock talent tree, your stamina increases to 3× your Constitution score and your recovery die increases to a d8.**
 
@@ -30,7 +30,7 @@ Content
 Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
 #### Pact of the Blade
-You can use 2 Actions to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see the Weapons section for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+You can use an action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time that you create it (see the [Weapons](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/) section for weapon options). You are gain +1d to hit with this weapon while you wield it. The weapon counts as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
@@ -40,8 +40,6 @@ You can transform one magic weapon into your pact weapon by performing a special
 You learn the [Find Familiar]() spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](), [pseudodragon](), [quasit](), or [sprite]().
-
-Additionally, when you take the [Strike]() action, you can forgo one of your own attacks to allow your familiar to make one attack with its as a free action.
 
 #### Pact of the Tome
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose any three cantrips from the arcane or divine list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the arcan spell list, they are nonetheless arcane spells for you.

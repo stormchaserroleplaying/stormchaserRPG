@@ -5,12 +5,12 @@ grand_parent: Talents
 ---
  
 # Wild Magic
-Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the Far Realm. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
+Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to another plane. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 
 ## Branch Features
 
 ### Bonus Spells
-You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+You gain the following bonus spells, once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
@@ -26,8 +26,8 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 Your spellcasting can unleash surges of untamed magic. Once per turn, after you cast an arcane spell of 1st level or higher, you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration.
 
 #### Wild Magic Surge
-| d100  | Effect |
-|:-----:|:-------|
+| d100 | Effect |
+|:----:|:-------|
 | 1-2    | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
 | 3-4    | For the next minute, you can see any [invisible]() creature if you have line of sight to it. | 
 | 5-6    | A modron chosen and controlled by the DM appears in an unoccupied space within 5 feet of you, then disappears 1 minute later. | 
@@ -39,12 +39,12 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, after you 
 | 17-18  | You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face. |
 | 19-20  | You cast [Grease]() centered on yourself. |
 | 21-22  | You gain +1d on the next spell that you cast. |
-| 23-24  | Your skin turns a vibrant shade of blue. A [Remove Curse]() spell can end this effect.  |
-| 25-26  | An eye appears on your forehead for the next minute. During that time, you have gain +1d on Perception checks that rely on sight.  |
+| 23-24  | Your skin turns a vibrant shade of blue. A [Remove Curse]() spell can end this effect. |
+| 25-26  | An eye appears on your forehead for the next minute. During that time, you have gain +1d on Perception checks that rely on sight. |
 | 27-28  | For the next minute, all your spells with a casting time of 2 Action have a casting time of 1 Action. |
 | 29-30  | You teleport up to 60 feet to an unoccupied space of your choice that you can see. |
 | 31-32  |  You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
-| 33-34  | The next damaging spell you cast within the next minute does maximum damage.  |
+| 33-34  | The next damaging spell you cast within the next minute does maximum damage. |
 | 35-36  | Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. |
 | 37-38  | 1d6 flumphs controlled by the DM appear in unoccupied spaces within 60 feet of you and are frightened of you. They vanish after 1 minute. |
 | 39-40  | Roll 2 Recovery Dice and you regain stamina equal to the total rolled. |
@@ -77,7 +77,7 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, after you 
 | 93-94  | Your size increases by one size category for the next minute. |
 | 95-96  | You and all creatures within 30 feet of you gain vulnerability to piercing damage for the next minute. |
 | 97-98  | You are surrounded by faint, ethereal music for the next minute. |
-| 99-100 | You regain all your expended mana. |
+| 99-100 | You regain all of your expended mana. |
 
 ## Talents
  

@@ -1,7 +1,7 @@
 ---
 title: Hordling
 parent: Cultures
-grand_parent: Backgrounds
+grand_parent: Origins
 ---
 
 # Hordling

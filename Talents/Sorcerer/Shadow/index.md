@@ -21,17 +21,17 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 ## Branch Features
 
 ### Bonus Spells
-You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells for that level, select two spells from that spell level from the list below. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Cause Fear, False Life |
-| 2nd | Phantasmal Force, Silence | 
-| 3rd | Feign Death, Hunger of Hadar | 
-| 4th | Death Ward, Shadow of Moil | 
-| 5th | Mislead, Negative Energy Flood | 
+| 1st | Cause Fear, False Life, Hex, Inflict Wounds |
+| 2nd | Pass Without Trace, Phantasmal Force, Shadow Blade, Silence | 
+| 3rd | Bestow Curse, Dark Hunger, Feign Death, Phantom Steed | 
+| 4th | Biting Shadows, Black Tentacles, Death Ward, Phantasmal Killer | 
+| 5th | Enervation, Mislead, Negative Energy Flood | 
 
 ## Talents
  

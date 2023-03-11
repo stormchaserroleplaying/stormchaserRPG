@@ -1,10 +1,10 @@
 ---
-Title: Wild Magic
+Title: Chaos Bloodline
 parent: Sorcerer Talent Tree
 grand_parent: Talents
 ---
  
-# Wild Magic
+# Chaos Bloodline
 Your innate magic comes from the forces of chaos that underlie the order of creation. You might have endured exposure to raw magic, perhaps through a planar portal leading to another plane. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause. However it came to be, this magic churns within you, waiting for any outlet.
 
 ## Branch Features

@@ -1,17 +1,17 @@
 ---
-Title: Clockwork
+Title: Order Bloodline
 parent: Sorcerer Talent Tree
 grand_parent: Talents
 ---
  
-# Clockwork
-The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.
+# Order Bloodline
+The cosmic force of order has suffused you with magic. That power arises from a plane of existence shaped entirely by structure and efficiency. You, or someone from your lineage, might have become entangled in the machinations of the orderly beings who inhabit such a place. Whatever its origin within you, the power of order can seem strange to others. However, for you, it is part of a vast and glorious system.
 
 Consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
 
 ### Manifestations of Order
 | d6 | Manifestation |
-|:--:|:-------------|
+|:--:|:--------------|
 | 1 | Spectral cogwheels hover behind you. |
 | 2 | The hands of a clock spin in your eyes. | 
 | 3 | Your skin glows with a brassy sheen. | 

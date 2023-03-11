@@ -22,17 +22,17 @@ Consult the Manifestations of Order table and choose or randomly determine a way
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells for that level, select two spells from that spell level from the list below. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Alarm, Protection from Evil and Good |
-| 2nd | Aid, Lesser Restoration | 
-| 3rd | Dispel Magic, Protection from Energy | 
-| 4th | Freedom of Movement, Summon Construct | 
-| 5th | Greater Restoration, Wall of Force | 
+| 1st | Alarm, Protection from Evil and Good, Sanctuary |
+| 2nd | Aid, Knock, Lesser Restoration, See Invisibility | 
+| 3rd | Dispel Magic, Nondetection, Protection from Energy, Tiny Servant | 
+| 4th | Banishment, Death Ward, Freedom of Movement, Summon Construct | 
+| 5th | Dispel Evil and Good, Greater Restoration, Wall of Force | 
 
 ## Talents
  

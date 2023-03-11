@@ -10,17 +10,17 @@ Your innate magic comes from the forces of chaos that underlie the order of crea
 ## Branch Features
 
 ### Bonus Spells
-You gain the following bonus spells, once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Chaos Bolt, Grease |
-| 2nd | Crown of Madness, Enlarge/Reduce | 
-| 3rd | Blink, Enemies Abound | 
-| 4th | Confusion, Polymorph | 
-| 5th | Animate Objects, Synaptic State | 
+| 1st | Bane, Chaos Bolt, Colour Spray, Grease |
+| 2nd | Alter Self, Crown of Madness, Enlarge/Reduce, Mischief | 
+| 3rd | Blink, Enemies Abound, Hypnotic Pattern, Summon Fey | 
+| 4th | Confusion, Dimension Door, Greater Invisibility, Polymorph | 
+| 5th | Animate Objects, Geas, Seeming, Synaptic State | 
 
 ### Wild Magic Surge
 Your spellcasting can unleash surges of untamed magic. Once per turn, after you cast an arcane spell of 1st level or higher, you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration.

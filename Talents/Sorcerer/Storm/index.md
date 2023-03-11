@@ -12,17 +12,17 @@ Storm sorcerers are invaluable members of a ship’s crew. Their magic allows th
 ## Branch Features
 
 ### Bonus Spells
-You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of arcane spells that you know.
+Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells . Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Create or Destroy Water, Thunderwave |
-| 2nd | Gust of Wind, Shatter | 
-| 3rd | Call Lightning, Water Walk | 
-| 4th | Control Water, Storm Sphere | 
-| 5th | Control Winds, Maelstrom | 
+| 1st | Create or Destroy Water, Fog Cloud, Thunderous Smite, Thunderwave |
+| 2nd | Gust of Wind, Levitate, Shatter, Warding Wind | 
+| 3rd | Call Lightning, Lightning Bolt, Thunder Step, Tidal Wave, Water Walk | 
+| 4th | Control Water, Ice Storm, Storm Sphere, Watery Sphere | 
+| 5th | Control Winds, Destructive Wave, Maelstrom | 
 
 ## Talents
  

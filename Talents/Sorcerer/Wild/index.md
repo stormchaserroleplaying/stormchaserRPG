@@ -16,7 +16,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Bane, Chaos Bolt, Color Spray, Grease |
+| 1st | Bane, Chaos Bolt, Colour Spray, Grease |
 | 2nd | Alter Self, Crown of Madness, Enlarge/Reduce, Mischief | 
 | 3rd | Blink, Enemies Abound, Hypnotic Pattern, Summon Fey | 
 | 4th | Confusion, Dimension Door, Greater Invisibility, Polymorph | 

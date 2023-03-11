@@ -1,6 +1,6 @@
 ---
 Title: Clockwork
-parent: SorcererTalent Tree
+parent: Sorcerer Talent Tree
 grand_parent: Talents
 ---
  

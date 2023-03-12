@@ -5,9 +5,9 @@ nav_order: 3
 ---
 
 # Species
-In this section, you will find the species that you can choose from when building your character. Your character’s species determines their physical appearance, as well as other physical aspects like size and speed. These features all stem from your character's *biology*.
+In this section, you will find the species that you can choose from when building your character. Your character’s species determines their physical appearance, as well as other physical aspects like size and speed. These and all other species features stem from your character's *biology*. Keep in mind that nurture plays as much of a role in development as nature; while you may be used to seeing fantasy media portraying pastoral, friendly halflings, the culture and background you choose can provide the stepping stones needed to create a competitive and secretive halfling wizard. You can choose only one species to gain features from.
 
-The following entries appear for most species:
+The following sections appear in the descriptions of most species:
 
 ## Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species' expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character.

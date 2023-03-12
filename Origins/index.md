@@ -5,11 +5,9 @@ nav_order: 4
 ---
 
 # Origins
-Characters are defined by much more than their species and class. They're individuals with their own stories, interests, connections and capabilities beyond those that class and species define. This section expounds on the details that distinguish characters from one another, including the rules of cultures, backgrounds, languages and the finer points of alignment.
+The prevalence of each culture can vary between settings and campaigns. Only you know what story you are trying to tell with your character. Only you know the best way to build that character’s origin. Anything is possible in a magical world and all of the cultures and backgrounds presented in this section (as well as those that you might write yourself) are viable options for an adventurer of any class. However, to ensure that your character fits your specific game and setting, you should always have a discussion with your GM about the character options available to you prior to character creation.
 
-Every story has a beginning. Your character’s origin reveals where you came from, how you became an adventurer and your place in the world. Your warrior might have been a courageous knight or a grizzled soldier. Your mage could have been a sage or an artisan. Your expert might have gotten by as a guild thief or commanded audiences as a jester.
-
-Choosing an origin provides you with important story cues about your character’s identity. The most important question to ask about your origin is what changed? Why did you stop doing whatever your origin describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don’t you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+Your culture influences those traits that would be learned or developed over time. Your background reflects the path that you have chosen to take, or a path that you have been pulled into, independently of your culture. This grants you things like proficiencies with skills, languages and tools and bonuses to certain mental ability scores to represent the areas of your life that have seen intentional improvement. Finally, your destiny describes your character’s goals and motivations.
 
 ## Benefits
 Each background provides a character with:

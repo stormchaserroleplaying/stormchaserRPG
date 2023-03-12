@@ -54,7 +54,7 @@ You expend 4 mana to cast [Compulsion](). You can’t do so again until you fini
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells, Pact of the Talisman feature
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells, Pact of the Talisman
 While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting ability modifier, and all expended uses are restored when you finish a long rest.
 
 ### Book of Ancient Secrets
@@ -70,7 +70,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells, Pact of the Chain feature
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells, Pact of the Chain
 You can cast [Hold Monster]() at will — targeting a celestial, fiend, or elemental — without expending mana or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Cloak of Flies
@@ -99,7 +99,7 @@ You have advantage on Constitution saving throws that you make to maintain your 
 You can cast detect magic at will, without expending a spell slot.
 
 ### Eldritch Smite
-Prerequisites:3rd Level Spells, Pact of the Blade feature
+Prerequisites:3rd Level Spells, Pact of the Blade
 
 Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.
 
@@ -112,7 +112,7 @@ When you cast eldritch blast, its range is 300 feet.
 You can read all writing.
 
 ### Far Scribe
-Prerequisites: 3rd Level Spells, Pact of the Tome feature
+Prerequisites: 3rd Level Spells, Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
@@ -141,12 +141,12 @@ You can breathe underwater, and you gain a swimming speed equal to your walking 
 You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
 ### Gift of the Ever-Living Ones
-Prerequisites: Pact of the Chain feature
+Prerequisites: Pact of the Chain
 
 Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
 
 ### Gift of the Protectors
-Prerequisites: 5th Level Spells, Pact of the Tome feature
+Prerequisites: 5th Level Spells, Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
@@ -162,7 +162,7 @@ Once on each of your turns when you hit a creature with your eldritch blast, you
 ### Improved Pact Weapon
 Prerequisites: Pact of the Blade 
 
-You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells.
+You can use any weapon you summon with your Pact of the Blade ability as a spellcasting focus for your warlock spells.
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 

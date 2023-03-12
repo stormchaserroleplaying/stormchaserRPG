@@ -6,7 +6,7 @@
 | Aspect of the Moon      | 5  | Pact of the Tome | 
 | Beast Speech            | 5  | - |
 | Book of Ancient Secrets | 5  | Pact of the Tome |
-| Cloak of Flies          | 10 | 3nd Level Spells |
+| Cloak of Flies          | 10 | 3rd Level Spells |
 | Bewitching Whispers     | 15 | 4th Level Spells |
 | Ascendant Step          | 20 | 5th Level Spells |
 | Bond of the Talisman    | 25 | 6th Level Spells and Pact of the Talisman |
@@ -26,7 +26,7 @@ You can cast [Mage Armor]() on yourself at will, without expending mana or mater
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells
+#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells
 You can cast [Levitate]() on yourself at will, without expending mana or material components.
 
 ### Aspect of the Moon
@@ -48,7 +48,7 @@ You can cast [Speak with Animals]() at will, without expending mana.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
-You expend 4 mana to cast [Compulsion](). You can’t do so again until you finish a long rest.
+You can expend 4 mana and cast [Compulsion](). You can’t do so again until you finish a long rest.
 
 ### Bond of the Talisman
 

@@ -46,6 +46,19 @@ While standing on the ground, you have +1d when resisting any attempt that would
 ### Stone Sense
 While you are standing on or touching a stone surface (natural or worked), you gain tremorsense (imprecise) out to 60 feet.
 
+## Phenotypes
+
+### Obsidian Dwarf
+Obsidian dwarves originate from deep below the ground. These ashen-skinned dwarves are in some ways physically similar to other dwarves. However, obsidian dwarves are wiry and lean, with black eyes and bald heads. The males grow long, unkempt, gray beards.
+
+Obsidian dwarf adventurers are rare. Check with your Game Master to see if you can play one.
+
+#### Infravision
+Accustomed to darkness, you benefit from [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#infravision).
+
+#### Sunlight Sensitivity
+You have -1d on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
 ## Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 

@@ -55,8 +55,8 @@ Dark elves have skin that resembles charcoal or obsidian, as well as stark white
 
 Dark elf adventurers are rare. Check with your Game Master to see if you can play one.
 
-#### Darkvision
-Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+#### Infravision
+Accustomed to darkness, you benefit from [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#infravision).
 
 #### Sunlight Sensitivity
 You have -1d on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.

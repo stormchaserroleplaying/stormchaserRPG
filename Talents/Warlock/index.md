@@ -12,6 +12,20 @@ nav_order: 12
 ## Bonus Proficiencies
 When you take your first warlock talent, you gain the following bonus proficiencies:
 * **Armour:** Light armour
+* **Spell Schools:** Conjuration, Charms, and three additional schools of your choice
+
+## Spellcasting
+When you take your first warlock talent, your spellcasting class feature for the mage class is affected in the following ways.
+
+### Spellcasting Ability
+Choose Charisma, Intelligence or Wisdom as your spellcasting ability for your arcane spells. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
+
+### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the mage spell list.
+
+Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional mage spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new spells of 1st or 2nd level.
+
+Additionally, whenever you gain a warlock talent, you can choose one of the mage spells that you know and replace it with another spell from the mage spell list, which must also be of a level that you can cast.
 
 ## Core Talents
 
@@ -23,11 +37,17 @@ When you take your first warlock talent, you gain the following bonus proficienc
 
 ### Eldritch Invocations
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Talent
-Content
+*In your study of occult lore, fragments of forbidden knowledge that imbue you with an abiding magical ability.*
+
+You gain an eldritch invocations of your choice. Your invocation options are detailed [here](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/). As you gain Character Points, you may purchase additional invocations. If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites.
+
+Additionally, when you gain a new talent in this class or a spellcasting talent, you can choose one of the invocations you know and replace it with another invocation that you could learn, provided they share the same Character Point cost. 
 
 ### Pact Boon
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Eldritch Invocations
-Your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
+*Your otherworldly patron bestows a gift upon you for your loyal service.*
+
+You gain one of the following features of your choice.
 
 #### Pact of the Blade
 You can use an action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time that you create it (see the [Weapons](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/) section for weapon options). You are gain +1d to hit with this weapon while you wield it. The weapon counts as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
@@ -40,6 +60,11 @@ You can transform one magic weapon into your pact weapon by performing a special
 You learn the [Find Familiar]() spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: [imp](), [pseudodragon](), [quasit](), or [sprite]().
+
+#### Pact of the Talisman
+Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can roll an additional d20, potentially turning the roll into a success. This benefit can be used a number of times equal to your spellcasting ability modifier, and all expended uses are restored when you finish a long rest.
+
+If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
 
 #### Pact of the Tome
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose any three cantrips from the arcane or divine list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the arcan spell list, they are nonetheless arcane spells for you.

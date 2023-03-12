@@ -11,7 +11,7 @@
 | Ascendant Step          | 20 | 5th Level Spells |
 | Bond of the Talisman    | 25 | 6th Level Spells and Pact of the Talisman |
 | Tier 7                  | 30 | 7th Level Spells |
-| Chains of Carceri       | 35 | 8th Level Spells, Pact of the Chain |
+| Chains of Carceri       | 35 | 8th Level Spells and Pact of the Chain |
 
 ## Eldritch Invocations Desriptions (alphabetically)
 
@@ -54,7 +54,7 @@ You can expend 4 mana and cast [Compulsion](). You can’t do so again until you
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells, Pact of the Talisman
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Talisman
 While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting ability modifier, and all expended uses are restored when you finish a long rest.
 
 ### Book of Ancient Secrets
@@ -70,7 +70,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells, Pact of the Chain
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells and Pact of the Chain
 You can cast [Hold Monster]() at will — targeting a celestial, fiend, or elemental — without expending mana or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Cloak of Flies
@@ -99,7 +99,7 @@ You have advantage on Constitution saving throws that you make to maintain your 
 You can cast detect magic at will, without expending a spell slot.
 
 ### Eldritch Smite
-Prerequisites:3rd Level Spells, Pact of the Blade
+Prerequisites: 3rd Level Spells and Pact of the Blade
 
 Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.
 
@@ -112,7 +112,7 @@ When you cast eldritch blast, its range is 300 feet.
 You can read all writing.
 
 ### Far Scribe
-Prerequisites: 3rd Level Spells, Pact of the Tome
+Prerequisites: 3rd Level Spells and Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
@@ -146,7 +146,7 @@ Prerequisites: Pact of the Chain
 Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
 
 ### Gift of the Protectors
-Prerequisites: 5th Level Spells, Pact of the Tome
+Prerequisites: 5th Level Spells and Pact of the Tome
 
 A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
 
@@ -185,7 +185,7 @@ Prerequisites: eldritch blast cantrip
 Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature’s speed by 10 feet until the end of your next turn.
 
 ### Lifedrinker
-Prerequisites: 6th Level Spells, Pact of the Blade 
+Prerequisites: 6th Level Spells and Pact of the Blade 
 
 When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
 
@@ -226,7 +226,7 @@ Prerequisites: 5th Level Spells
 You can cast jump on yourself at will, without expending a spell slot or material components.
 
 ### Protection of the Talisman
-Prerequisites: 4th Level Spells, Pact of the Talisman 
+Prerequisites: 4th Level Spells and Pact of the Talisman 
 
 When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
 
@@ -264,7 +264,7 @@ You can cast bestow curse once using a warlock spell slot. You can’t do so aga
 You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ### Thirsting Blade
-Prerequisites: 3rd Level Spells, Pact of the Blade 
+Prerequisites: 3rd Level Spells and Pact of the Blade 
 
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 

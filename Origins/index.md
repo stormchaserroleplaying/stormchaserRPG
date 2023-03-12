@@ -9,15 +9,6 @@ The prevalence of each culture can vary between settings and campaigns. Only you
 
 Your culture influences those traits that would be learned or developed over time. Your background reflects the path that you have chosen to take, or a path that you have been pulled into, independently of your culture. This grants you things like proficiencies with skills, languages and tools and bonuses to certain mental ability scores to represent the areas of your life that have seen intentional improvement. Finally, your destiny describes your character’s goals and motivations.
 
-## Benefits
-Each background provides a character with:
-* 2x +1 (stackable) to mental attributes that you consider your character to have developed as a result of this background.
-* An occupational feature, which is a unique benefit based on your character's occupation.
-* A package of starting equipment that your character possesses from their previous occupation.
-* 10 character points to spend on background talents, skills, tools or languages, as described below.
-
-A background talent may be a species talent, a skill talent, a tool talent, or other talent marked ᴮᴳ. If you use [the optional rule to spend coin on gear](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/), you do not receive the starting equipment from your background.
-
 ## Languages
 Your culture indicates the languages that your character can speak by default and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
 

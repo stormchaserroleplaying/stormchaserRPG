@@ -12,11 +12,28 @@ While picking a background does not have to complete your character’s story, i
 
 The backgrounds in this chapter provide mechanical benefits, such as attribute score increases and proficiencies, as well as more roleplay-oriented benefits. As with the other origin sections, you gain the benefits of only one background. The following sections appear in the descriptions for most backgrounds.
 
+## Attribute Score Increase
+Each background increases two of a character’s mental attribute scores by 1 (both of these increases might apply to the same attribute). This reflects the abilities utilised or valued the most by that
+background.
+
+## Proficiencies
+Most backgrounds grant proficiency with two skills, which are explained more [here](https://stormchaserroleplaying.com/stormchaserRPG/Skills/).
+
+Additionally, many backgrounds grant proficiency with an appropriate tool set (or multiple sets). These tools are explained more [here](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/).
+
+If your character would gain the same proficiency from multiple areas, such as a species, cultural, or class feature, they may instead choose a new proficiency of the same type (skill or tool).
+
+## Languages
+Like cultures, your background can also allow you to learn additional languages. Characters are considered to be able to speak, read and write the languages granted by their background.
+
+## Talent
+One background [talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/). A background talent may be a species talent, a skill talent, a tool talent, or other talent marked ᴮᴳ.
+
 ## Connections
 Each occupation provides examples of one acquaintance, ally, or enemy that has had an effect on your character’s life. This could be a childhood friend, a sparring partner, or even a business competitor. Make sure to include your GM when choosing your connection; you never know when they’ll show back up.
 
 ## Equipment
-Suggested equipment sets are included with each occupation, along with an associated gold cost.
+Suggested equipment sets are included with each occupation, along with an associated gold cost.  If you use [the optional rule to spend coin on gear](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/), you do not receive the starting equipment from your background.
 
 ## Memento
 Each occupation includes options for a memento. This is a sentimental item reflective of your background and the occurrences that have built you into who you are, typically worth less than 30 gold.

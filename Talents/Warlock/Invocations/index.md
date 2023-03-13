@@ -32,7 +32,7 @@ grand_parent: Talents
 | Cloak of Flies                 | 10 | 3rd Level Spells |
 | Eldritch Smith                 | 10 | 3rd Level Spells and Pact of the Blade |
 | Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
-| Frozen Tomb                    | 10 | 3rd Level Spells |
+| Frigid Tomb                    | 10 | 3rd Level Spells |
 | Gift of the Depths             | 10 | 3rd Level Spells |
 | Maddening Hex                  | 10 | 3rd Level Spells and Hex spell or other ability that curses |
 | Mire of the Mind               | 10 | 3rd Level Spells |
@@ -205,16 +205,16 @@ Using 2 Actions, you can magically erase a name on the page by touching it.
 #### **Cost:** 5 Character Points
 You can cast [False Life]() on yourself at will as a 1st-level spell, without expending mana or material components.
 
-### Frozen Tomb
+### Frigid Tomb
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
-As a free action when you take damage, you can entomb yourself in ice. You gain temporary stamina equal to 5 times your maximum spell level, which take as much of the triggering damage as possible. If any temporary stamina remain after the the triggering damage, you immediately gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated as you are now encased in ice. 
+As a free action when you take damage, you can entomb yourself in ice. You gain temporary stamina equal to 5 times your maximum spell level, which takes as much of the triggering damage as possible. If any temporary stamina remain after the the triggering damage, you immediately gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated as you are now encased in ice. 
 
 These effects end once all temporary stamina is expended. Otherwise, it ends at the end of your next turn, along with any remaining temporary stamina, when all the ice melts away. 
 
-When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this ability or to not use it at all. Otherwise, this ability will trigger on the first instance of when you take damage.
+When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this ability or to not use it at all. Otherwise, this ability will trigger the first instance of you taking damage.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
@@ -283,7 +283,7 @@ When you cast [Find Familiar](), you infuse the summoned familiar with a measure
 * Using 1 Action, you can command the familiar to take the Strike action.
 * The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to non-magical attacks.
 * If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-* When the familiar takes damage, you can use a free action to grant it resistance against that damage. You can grant this resistance once per round. When you roll initiative or at the end of your turn, you need to declare a creature's attacks will trigger this action. Otherwise, this ability will occur on the first instance of your familiar taking damage.
+* When the familiar takes damage, you can use a free action to grant it resistance against that damage. You can grant this resistance once per round. When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this action. Otherwise, this ability will occur on the first instance of your familiar taking damage.
 
 ### Lance of Lethargy
 

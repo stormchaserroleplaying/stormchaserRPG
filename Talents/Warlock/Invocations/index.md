@@ -1,17 +1,48 @@
-## Eldritch Invocations (by CP cost)
+---
+Title: Eldritch Invocations
+parent: Warlock Talent Tree
+grand_parent: Talents
+---
 
+## Eldritch Invocations 
 | Invocation | CP | Prerequisites |
 |:-------------|:--:|:--------------|
-| Armor of Shadows        | 5  | - | 
-| Aspect of the Moon      | 5  | Pact of the Tome | 
-| Beast Speech            | 5  | - |
-| Book of Ancient Secrets | 5  | Pact of the Tome |
-| Cloak of Flies          | 10 | 3rd Level Spells |
-| Bewitching Whispers     | 15 | 4th Level Spells |
-| Ascendant Step          | 20 | 5th Level Spells |
-| Bond of the Talisman    | 25 | 6th Level Spells and Pact of the Talisman |
-| Tier 7                  | 30 | 7th Level Spells |
-| Chains of Carceri       | 35 | 8th Level Spells and Pact of the Chain |
+| Armor of Shadows               | 5  | - | 
+| Aspect of the Moon             | 5  | Pact of the Tome | 
+| Beast Speech                   | 5  | - |
+| Book of Ancient Secrets        | 5  | Pact of the Tome |
+| Devil's Sight                  | 5  | - |
+| Eldritch Mind                  | 5  | - |
+| Eldritch Sight                 | 5  | - |
+| Eldritch Spear                 | 5  | Eldritch Blast Cantrip |
+| Eyes of the Rune Keeper        | 5  | - |
+| Fiendish Vigor                 | 5  | - |
+| Gaze of Two Minds              | 5  | - |
+| Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
+| Grasping Blast                 | 5  | Eldritch Blast Cantrip |
+| Improved Pact Weapon           | 5  | Pact of the Blade |
+| Investment of the Chain Master | 5  | Pact of the Chain |
+| Lance of Lethargy              | 5  | Eldritch Blast Cantrip |
+| Mask of Many Faces             | 5  | - |
+| Misty Vistions                 | 5  | - |
+| Cloak of Flies                 | 10 | 3rd Level Spells |
+| Eldritch Smith                 | 10 | 3rd Level Spells and Pact of the Blade |
+| Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
+| Maddening Hex                  | 10 | 3rd Level Spells and Hex spell or other ability that curses |
+| Gift of the Depths             | 10 | 3rd Level Spells |
+| Mire of the Mind               | 10 | 3rd Level Spells |
+| One with Shadows               | 10 | 3rd Level Spells |
+| Bewitching Whispers            | 15 | 4th Level Spells |
+| Dreadful Word                  | 15 | 4th Level Spells |
+| Ghostly Gaze                   | 15 | 4th Level Spells |
+| Ascendant Step                 | 20 | 5th Level Spells |
+| Gift of the Protectors         | 20 | 5th Level Spells and Pact of the Tome |
+| Minions of Chaos               | 20 | 5th Level Spells |
+| Bond of the Talisman           | 25 | 6th Level Spells and Pact of the Talisman |
+| Lifedrinker                    | 25 | 6th Level Spells and Pact of the Blade |
+| Tier 7                         | 30 | 7th Level Spells |
+| Chains of Carceri              | 35 | 8th Level Spells and Pact of the Chain |
+| Master of Myriad Forms         | 35 | 8th Level Spells |
 
 ## Eldritch Invocations Desriptions (alphabetically)
 
@@ -85,83 +116,127 @@ The aura grants you +1d on [Intimidation]() checks but -1d on all other Charisma
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
 ### Devil’s Sight
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
 ### Dreadful Word
-Prerequisites: 4th Level Spells
 
-You can cast confusion once using a warlock spell slot. You can’t do so again until you finish a long rest.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
+You expend 4 mana and cast [Confusion]() as a 4th level spell. You can’t do so again until you finish a long rest.
 
 ### Eldritch Mind
-You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You have advantage on Constitution checks that you make to maintain your concentration on a spell.
 
 ### Eldritch Sight
-You can cast detect magic at will, without expending a spell slot.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can cast [Detect Magic]() at will, without expending mana.
 
 ### Eldritch Smite
-Prerequisites: 3rd Level Spells and Pact of the Blade
 
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade
+Once per turn when you hit a creature with your pact weapon, you can expend mana to deal an extra 1d8 energy damage to the target, plus another 1d8 per mana expended, and you can knock the target prone if it is Huge or smaller.
 
 ### Eldritch Spear
-Prerequisites: eldritch blast cantrip
 
-When you cast eldritch blast, its range is 300 feet.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+When you cast [Eldritch Blast](), its range is 300 feet.
 
 ### Eyes of the Rune Keeper
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 You can read all writing.
 
 ### Far Scribe
-Prerequisites: 3rd Level Spells and Pact of the Tome
 
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+<div style="margin-top:-10px;"></div>
 
-You can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Tome
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute bonus.
 
-As an action, you can magically erase a name on the page by touching it.
+You can cast the [Sending]() spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
+
+Using 2 Actions, you can magically erase a name on the page by touching it.
 
 ### Fiendish Vigor
-You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can cast [False Life]() on yourself at will as a 1st-level spell, without expending mana or material components.
 
 ### Gaze of Two Minds
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can use 2 Actions to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use 2 Actions on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ### Ghostly Gaze
-Prerequisites: 4th Level Spells
 
-As an action, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don’t already have it. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
+Using 2 Actions, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have low-light visions, or, if you already have low-light vision, you have darkvision. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
 ### Gift of the Depths
-Prerequisites: 3rd Level Spells
 
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
 You can breathe underwater, and you gain a swimming speed equal to your walking speed.
 
-You can also cast water breathing once without expending a spell slot. You regain the ability to do so when you finish a long rest.
+You can also cast [Water Breathing]() once without expending mana. You regain the ability to do so when you finish a long rest.
 
 ### Gift of the Ever-Living Ones
-Prerequisites: Pact of the Chain
 
-Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Chain
+Whenever you regain stamina while your familiar is within 100 feet of you, treat any dice rolled to determine the stamina you regain as having rolled their maximum value for you.
 
 ### Gift of the Protectors
-Prerequisites: 5th Level Spells and Pact of the Tome
 
-A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.
+<div style="margin-top:-10px;"></div>
 
-When any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to spellcasting ability bonus.
 
-As an action, you can magically erase a name on the page by touching it.
+When any creature whose name is on the page is reduced to 0 stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
 
-### Grasp of Hadar
-Prerequisites: Eldritch Blast Cantrip
+Using 2 Actions, you can magically erase a name on the page by touching it.
 
-Once on each of your turns when you hit a creature with your eldritch blast, you can move that creature in a straight line 10 feet closer to you.
+### Grasping Blast
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
 
 ### Improved Pact Weapon
-Prerequisites: Pact of the Blade 
 
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Blade 
 You can use any weapon you summon with your Pact of the Blade ability as a spellcasting focus for your warlock spells.
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
@@ -169,95 +244,111 @@ In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless 
 Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.
 
 ### Investment of the Chain Master
-Prerequisites: Pact of the Chain 
 
-When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
+<div style="margin-top:-10px;"></div>
 
-The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.
-As a bonus action, you can command the familiar to take the Attack action.
-The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.
-If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
+#### **Cost:** 5 Character Points<br>**Prerequisites:**  Pact of the Chain 
+When you cast [Find Familiar](), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
+
+* The familiar gains either a flying speed or a swimming speed (your choice) equal to its walking speed.
+* Using 1 Action, you can command the familiar to take the Strike action.
+* The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to non-magical attacks.
+* If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+* When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
 
 ### Lance of Lethargy
-Prerequisites: eldritch blast cantrip
 
-Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature’s speed by 10 feet until the end of your next turn.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can reduce that creature’s speed by 10 feet until the end of your next turn.
 
 ### Lifedrinker
-Prerequisites: 6th Level Spells and Pact of the Blade 
 
-When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Blade 
+When you hit a creature with your pact weapon, you gain temporary stamina equal to your spellcasting ability modifier (minimum 1).
 
 ### Maddening Hex
-Prerequisites: 3rd Level Spellsl, hex spell or a warlock feature that curses
 
-As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spellsl, [Hex]() spell or a warlock feature that curses
+Using 1 Action, you cause a psychic disturbance around the target cursed by your [Hex]() spell or by a warlock abilitiy of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your spellcasting ability modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ### Mask of Many Faces
-You can cast disguise self at will, without expending a spell slot.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can cast [Disguise Self]() at will, without expending mana.
 
 ### Master of Myriad Forms
-Prerequisites: 8th Level Spells
 
-You can cast alter self at will, without expending a spell slot.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
+You can cast [Ater Self]() at will, without expending a spell slot.
 
 ### Minions of Chaos
-Prerequisites: 5th Level Spells
 
-You can cast conjure elemental once using a warlock spell slot. You can’t do so again until you finish a long rest.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 5th Level Spells
+You can cast [Conjure Elemental]() once expending 5 mana. You can’t do so again until you finish a long rest.
 
 ### Mire the Mind
-Prerequisites: 3rd Level Spells
 
-You can cast slow once using a warlock spell slot. You can’t do so again until you finish a long rest.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
+You can cast [Slow]() once expending 3 mana. You can’t do so again until you finish a long rest.
 
 ### Misty Visions
-You can cast silent image at will, without expending a spell slot or material components.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can cast [Silent Image]() at will, without expending mana or material components.
 
 ### One with Shadows
-Prerequisites: 3rd Level Spells
 
-When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
+When you are in an area of dim light or darkness, you can use 2 Actions to become invisible until you move or take an action.
 
 ### Otherworldly Leap
 Prerequisites: 5th Level Spells
-
 You can cast jump on yourself at will, without expending a spell slot or material components.
 
 ### Protection of the Talisman
 Prerequisites: 4th Level Spells and Pact of the Talisman 
-
 When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
 
 ### Rebuke of the Talisman
 Prerequisites: Pact of the Talisman 
-
 When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman’s wearer.
 
 ### Relentless Hex
 Prerequisites: 4th Level Spells, hex spell or a warlock feature that curses
-
 Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ### Repelling Blast
 Prerequisites: eldritch blast cantrip
-
 When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
 
 ### Sculptor of Flesh
 Prerequisites: 4th Level Spells
-
 You can cast polymorph once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ### Shroud of Shadow
 Prerequisites: 7th Level Spells
-
 You can cast invisibility at will, without expending a spell slot.
 
 ### Sign of Ill Omen
 Prerequisites: 3rd Level Spells
-
 You can cast bestow curse once using a warlock spell slot. You can’t do so again until you finish a long rest.
 
 ### Thief of Five Fates
@@ -265,43 +356,34 @@ You can cast bane once using a warlock spell slot. You can’t do so again until
 
 ### Thirsting Blade
 Prerequisites: 3rd Level Spells and Pact of the Blade 
-
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Tomb of Levistus
 Prerequisites: 3rd Level Spells
-
 As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
 ### Trickster's Escape
 Prerequisites: 4th Level Spells
-
 You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
 
 ### Undying Servitude
 Prerequisites: 3rd Level Spells
-
 You can cast animate dead without using a spell slot. Once you do so, you can’t cast it in this way again until you finish a long rest.
 
 ### Visions of Distant Realms
 Prerequisites: 8th Level Spells
-
 You can cast arcane eye at will, without expending a spell slot.
 
 ### Voice of the Chain Master
 Prerequisites: Pact of the Chain 
-
 You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave
 Prerequisites: 5th Level Spells
-
 You can cast speak with dead at will, without expending a spell slot.
 
 ### Witch Sight
 Prerequisites: 8th Level Spells
-
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.
-

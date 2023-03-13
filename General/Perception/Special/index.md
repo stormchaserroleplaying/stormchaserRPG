@@ -6,14 +6,19 @@ nav_order: 3
 ---
 
 # Special Senses
-While a human might have a difficult time making creatures out in dim light, an elf can see those creatures just fine. Similarly, although elves have no problem seeing on a moonlit night, their vision cannot penetrate complete darkness, whereas a dwarf’s can.
+While a human might have a difficult time making creatures out in dim light, an elf can see those creatures just fine. Similarly, although elves have no problem seeing on a moonlit night, their vision cannot penetrate complete darkness, whereas a dragon’s can.
 
-Special senses grant greater awareness that allows a creature with these senses to either ignore or reduce the effects of the undetected, hidden, or concealed conditions (described in Detecting Creatures) when it comes to situations that foil average vision. The following are a few examples of common special senses.
+Special senses grant greater awareness that allows a creature with these senses to either ignore or reduce the effects of the undetected, hidden, or concealed conditions (described in [Detecting Creatures](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Detecting/)) when it comes to situations that foil average vision. The following are a few examples of common special senses.
 
 ## Darkvision
-A creature with darkvision or greater darkvision can see in dim light as though it were bright light. Additionally, the creature can see in darkness as thought it were dim light. However, darkvision cannot discern colour in darkness, only shades of grey.
+A creature with darkvision or greater darkvision can see perfectly well in areas of darkness. However, darkvision cannot discern colour in darkness, only shades of grey.
 
 Some forms of magical darkness, such as a 4th-level darkness spell, block normal darkvision. However, a creature with greater darkvision can see through even these forms of magical darkness.
+
+## Infravision
+A creature with infravision can see the infrared radiation produced by flames, warm-blooded creatures and other sources of heat. Warm-blooded creatures visible with infravision are not hidden by darkness alone or concealed in dim light.
+
+A creature with greater infravision can even see the residual heat left by a warm-blooded creature, such as their footprints.
 
 ## Low-Light Vision
 A creature with low-light vision can see in dim light as though it were bright light and thus ignores the concealed condition due to dim light.

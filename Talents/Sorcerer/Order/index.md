@@ -1,17 +1,17 @@
 ---
-Title: Clockwork
-parent: SorcererTalent Tree
+Title: Order Bloodline
+parent: Sorcerer Talent Tree
 grand_parent: Talents
 ---
  
-# Clockwork
-The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.
+# Order Bloodline
+The cosmic force of order has suffused you with magic. That power arises from a plane of existence shaped entirely by structure and efficiency. You, or someone from your lineage, might have become entangled in the machinations of the orderly beings who inhabit such a place. Whatever its origin within you, the power of order can seem strange to others. However, for you, it is part of a vast and glorious system.
 
 Consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.
 
 ### Manifestations of Order
 | d6 | Manifestation |
-|:--:|:-------------|
+|:--:|:--------------|
 | 1 | Spectral cogwheels hover behind you. |
 | 2 | The hands of a clock spin in your eyes. | 
 | 3 | Your skin glows with a brassy sheen. | 
@@ -22,17 +22,17 @@ Consult the Manifestations of Order table and choose or randomly determine a way
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Alarm, Protection from Evil and Good |
-| 2nd | Aid, Lesser Restoration | 
-| 3rd | Dispel Magic, Protection from Energy | 
-| 4th | Freedom of Movement, Summon Construct | 
-| 5th | Greater Restoration, Wall of Force | 
+| 1st | Alarm, Protection from Evil and Good, Sanctuary |
+| 2nd | Aid, Knock, Lesser Restoration, See Invisibility | 
+| 3rd | Dispel Magic, Nondetection, Protection from Energy, Tiny Servant | 
+| 4th | Banishment, Death Ward, Freedom of Movement, Summon Construct | 
+| 5th | Dispel Evil and Good, Greater Restoration, Wall of Force | 
 
 ## Talents
  

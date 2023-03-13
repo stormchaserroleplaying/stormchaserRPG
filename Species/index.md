@@ -5,9 +5,9 @@ nav_order: 3
 ---
 
 # Species
-In this section, you will find the species that you can choose from when building your character. Your character’s species determines their physical appearance, as well as other physical aspects like size and speed. These features all stem from your character's *biology*.
+In this section, you will find the species that you can choose from when building your character. Your character’s species determines their physical appearance, as well as other physical aspects like size and speed. These and all other species features stem from your character's *biology*. Keep in mind that nurture plays as much of a role in development as nature; while you may be used to seeing fantasy media portraying pastoral, friendly halflings, the culture and background you choose can provide the stepping stones needed to create a competitive and secretive halfling wizard. You can choose only one species to gain features from.
 
-The following entries appear for most species:
+The following sections appear in the descriptions of most species:
 
 ## Age
 The age entry notes the age when a member of the species is considered an adult, as well as the species' expected lifespan. This information can help you decide how old your character is at the start of the game. You can choose any age for your character.
@@ -76,6 +76,8 @@ Alternatively, you can choose your character’s height and weight based on the 
 | Human, Aasimar, Female | 5'0"  | +2d8"<br>(5'4"-6'4")     | 90 lbs.  | +(2d8 × 2d4) lbs.<br>(94 – 218 lbs.)        |
 | Kobold, Male           | 2'6"  | +2d4"<br>(2'8"-3'2")     | 25 lbs.  | +(2d4 × 1) lbs.<br>(27 – 33 lbs.)           |
 | Kobold, Female         | 2'4"  | +2d4"<br>(2'6"-3'0")     | 20 lbs.  | +(2d4 × 1) lbs.<br>(22 – 28 lbs.)           |
+| Orc, Male              | 5'1"  | +2d12"<br>(5'3" – 7'1")  | 160 lbs. | +(2d12 × 2d6) lbs.<br>(164 – 448 lbs.)      |
+| Orc, Female            | 4'9"  | +2d12"<br>(4'11" – 6'9") | 120 lbs. | +(2d12 × 2d6) lbs.<br>(124 – 408 lbs.)      |
 
 ## Speed
 Each time that a creature spends an action (such as [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/)) to move, they move their speed.

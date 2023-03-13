@@ -51,6 +51,14 @@ You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/
 ### Deep Gnome
 Deep gnomes are wiry and lean with bodies as hard as a slab of rock. Males are completely bald and beardless, while the females typically have grey hair. Deep gnome complexions are sometimes described as "gnarled" and are commonly dark in hue, with most deep gnomes demonstrating brown or gray skin with dark gray eyes.
 
+Deep gnome adventurers are rare. Check with your Game Master to see if you can play one.
+
+#### Infravision
+Accustomed to darkness, you benefit from [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#infravision).
+
+#### Sunlight Sensitivity
+You have -1d on attack rolls and on Perception checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
 ### Forest Gnome
 Forest gnome skin is an earthy colour and looks, in many ways, like wood, although it is not particularly tough. Forest gnome hair is brown or black, although it grays with age, sometimes to a pure white.
 

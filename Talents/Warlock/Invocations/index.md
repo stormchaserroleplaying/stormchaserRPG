@@ -14,19 +14,19 @@ grand_parent: Talents
 | Devil's Sight                  | 5  | - |
 | Eldritch Mind                  | 5  | - |
 | Eldritch Sight                 | 5  | - |
-| Eldritch Spear                 | 5  | Eldritch Blast Cantrip |
-| Eldritch Whip                  | 5  | Eldritch Blast Cantrip |
+| Eldritch Spear                 | 5  | [Eldritch Blast]() Cantrip |
+| Eldritch Whip                  | 5  | [Eldritch Blast]() Cantrip |
 | Eyes of the Rune Keeper        | 5  | - |
 | Fiendish Vigor                 | 5  | - |
 | Gaze of Two Minds              | 5  | - |
 | Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
 | Improved Pact Weapon           | 5  | Pact of the Blade |
 | Investment of the Chain Master | 5  | Pact of the Chain |
-| Lance of Lethargy              | 5  | Eldritch Blast Cantrip |
+| Lance of Lethargy              | 5  | [Eldritch Blast]() Cantrip |
 | Mask of Many Faces             | 5  | - |
 | Misty Vistions                 | 5  | - |
 | Rebuke of the Talisman         | 5  | Pact of the Talisman |
-| Replelling Blast               | 5  | Eldritch Blast Cantrip |
+| Replelling Blast               | 5  | [Eldritch Blast]() Cantrip |
 | Thief of Five Fates            | 5  | - |
 | Voice of the Chain Master      | 5  | - |
 | Cloak of Flies                 | 10 | 3rd Level Spells |
@@ -102,7 +102,7 @@ You can expend 4 mana and cast [Compulsion](). You can’t do so again until you
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Talisman
-While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting ability modifier, and all expended uses are restored when you finish a long rest.
+While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting attribute modifier, and all expended uses are restored when you finish a long rest.
 
 ### Book of Ancient Secrets
 
@@ -127,7 +127,7 @@ You can cast [Hold Monster]() at will — targeting a celestial, fiend, or eleme
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
 Using 1 Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it (no action required).
 
-The aura grants you +1d on [Intimidation]() checks but -1d on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your spellcasting ability modifier (minimum of 0 damage).
+The aura grants you +1d on [Intimidation]() checks but -1d on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your spellcasting attribute modifier (minimum of 0 damage).
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
@@ -170,14 +170,14 @@ Once per turn when you hit a creature with your pact weapon, you can expend mana
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Eldritch Blast]() Cantrip
 When you cast [Eldritch Blast](), its range is 300 feet.
 
 ### Eldritch Whip
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Eldritch Blast]() Cantrip
 Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
 
 ### Eyes of the Rune Keeper
@@ -192,7 +192,7 @@ You can read all writing.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute bonus.
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute modifier.
 
 You can cast the [Sending]() spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
@@ -255,7 +255,7 @@ Whenever you regain stamina while your familiar is within 100 feet of you, treat
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to spellcasting ability bonus.
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
 
 When any creature whose name is on the page is reduced to 0 stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
 
@@ -289,7 +289,7 @@ When you cast [Find Familiar](), you infuse the summoned familiar with a measure
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+#### **Cost:** 5 Character Points<br>**Prerequisites:**[Eldritch Blast]() Cantrip
 Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can reduce that creature’s speed by 10 feet until the end of your next turn.
 
 ### Lifedrinker
@@ -297,14 +297,14 @@ Once on each of your turns when you hit a creature with your [Eldritch Blast](),
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Blade 
-When you hit a creature with your pact weapon, you gain temporary stamina equal to your spellcasting ability modifier (minimum 1).
+When you hit a creature with your pact weapon, you gain temporary stamina equal to your spellcasting attribute modifier (minimum 1).
 
 ### Maddening Hex
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spellsl, [Hex]() spell or a warlock feature that curses
-Using 1 Action, you cause a psychic disturbance around the target cursed by your [Hex]() spell or by a warlock abilitiy of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your spellcasting ability modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+Using 1 Action, you cause a psychic disturbance around the target cursed by your [Hex]() spell or by a warlock abilitiy of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your spellcasting attribute modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
 
 ### Mask of Many Faces
 
@@ -349,66 +349,115 @@ You can cast [Silent Image]() at will, without expending mana or material compon
 When you are in an area of dim light or darkness, you can use 2 Actions to become invisible until you move or take an action.
 
 ### Otherworldly Leap
-Prerequisites: 5th Level Spells
-You can cast jump on yourself at will, without expending a spell slot or material components.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells
+You can cast [Jump]() on yourself at will, without expending mana or material components.
 
 ### Protection of the Talisman
-Prerequisites: 4th Level Spells and Pact of the Talisman 
-When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells and Pact of the Talisman 
+When the wearer of your talisman fails a defence check, they can roll an additional d20, potentially turning the check into a success. Additionally, indirect spell attacks agasinst the wearer of your talisman have -1d. This benefit can be used a number of times equal to your spellcasting attribute modifier, and all expended uses are restored when you finish a long rest.
 
 ### Rebuke of the Talisman
-Prerequisites: Pact of the Talisman 
-When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman’s wearer.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Talisman 
+When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use a free action to deal psychic damage to the attacker equal to your spellcasting attribute modifier and push it up to 10 feet away from the talisman’s wearer.
+
+This ability triggers once per round and automatically on the first attack to the wearer of your talisman each round, unless you declare on your turn or when you roll initiative that it will trigger from attacks by a specified creature, or not to use it at all. 
 
 ### Relentless Hex
-Prerequisites: 4th Level Spells, hex spell or a warlock feature that curses
-Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells, [Hex]() spell or a warlock feature that curses
+Your curse creates a temporary bond between you and your target. Using 1 Action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ### Repelling Blast
-Prerequisites: eldritch blast cantrip
-When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Eldritch Blast]() Cantrip
+When you hit a creature with [Eldritch Blast](), you can push the creature up to 10 feet away from you in a straight line.
 
 ### Sculptor of Flesh
-Prerequisites: 4th Level Spells
-You can cast polymorph once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
+You can cast [Polymorph]() once using 4 mana. You can’t do so again until you finish a long rest.
 
 ### Shroud of Shadow
-Prerequisites: 7th Level Spells
-You can cast invisibility at will, without expending a spell slot.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 30 Character Points<br>**Prerequisites:** 7th Level Spells
+You can cast [Invisibility]() at will, without expending mana.
 
 ### Sign of Ill Omen
-Prerequisites: 3rd Level Spells
-You can cast bestow curse once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
+You can cast [Bestow Curse]() once as a 3rd level spell and expending 3 mana. You can’t do so again until you finish a long rest.
 
 ### Thief of Five Fates
-You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can cast [Bane]() once as a 1st level spell and expending 1 mana. You can’t do so again until you finish a long rest.
 
 ### Thirsting Blade
-Prerequisites: 3rd Level Spells and Pact of the Blade 
-You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
+<div style="margin-top:-10px;"></div>
 
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade 
+You use the Strike action twice with your pact weapon on your turn without the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
 
 ### Trickster's Escape
-Prerequisites: 4th Level Spells
-You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
+You can cast [Freedom of Movement]() once on yourself without expending mana. You regain the ability to do so when you finish a long rest.
 
 ### Undying Servitude
-Prerequisites: 3rd Level Spells
-You can cast animate dead without using a spell slot. Once you do so, you can’t cast it in this way again until you finish a long rest.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
+You can cast [Animate Dead]() without expending mana. Once you do so, you can’t cast it in this way again until you finish a long rest.
 
 ### Visions of Distant Realms
-Prerequisites: 8th Level Spells
-You can cast arcane eye at will, without expending a spell slot.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
+You can cast [Arcane Eye]() at will, without expending mana.
 
 ### Voice of the Chain Master
-Prerequisites: Pact of the Chain 
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Chain 
 You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
 
 ### Whispers of the Grave
-Prerequisites: 5th Level Spells
-You can cast speak with dead at will, without expending a spell slot.
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisites:**: 5th Level Spells
+You can cast [Speak with Dead]() at will, without expending mana.
 
 ### Witch Sight
-Prerequisites: 8th Level Spells
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.

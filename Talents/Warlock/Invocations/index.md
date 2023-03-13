@@ -15,34 +15,50 @@ grand_parent: Talents
 | Eldritch Mind                  | 5  | - |
 | Eldritch Sight                 | 5  | - |
 | Eldritch Spear                 | 5  | Eldritch Blast Cantrip |
+| Eldritch Whip                  | 5  | Eldritch Blast Cantrip |
 | Eyes of the Rune Keeper        | 5  | - |
 | Fiendish Vigor                 | 5  | - |
 | Gaze of Two Minds              | 5  | - |
 | Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
-| Grasping Blast                 | 5  | Eldritch Blast Cantrip |
 | Improved Pact Weapon           | 5  | Pact of the Blade |
 | Investment of the Chain Master | 5  | Pact of the Chain |
 | Lance of Lethargy              | 5  | Eldritch Blast Cantrip |
 | Mask of Many Faces             | 5  | - |
 | Misty Vistions                 | 5  | - |
+| Rebuke of the Talisman         | 5  | Pact of the Talisman |
+| Replelling Blast               | 5  | Eldritch Blast Cantrip |
+| Thief of Five Fates            | 5  | - |
+| Voice of the Chain Master      | 5  | - |
 | Cloak of Flies                 | 10 | 3rd Level Spells |
 | Eldritch Smith                 | 10 | 3rd Level Spells and Pact of the Blade |
 | Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
-| Maddening Hex                  | 10 | 3rd Level Spells and Hex spell or other ability that curses |
+| Frozen Tomb                    | 10 | 3rd Level Spells |
 | Gift of the Depths             | 10 | 3rd Level Spells |
+| Maddening Hex                  | 10 | 3rd Level Spells and Hex spell or other ability that curses |
 | Mire of the Mind               | 10 | 3rd Level Spells |
 | One with Shadows               | 10 | 3rd Level Spells |
+| Sign of Ill Omen               | 10 | 3rd Level Spells |
+| Thirsting Blade                | 10 | 3rd Level Spells and Pact of the Blade |
+| Undying Servitude              | 10 | 3rd Level Spells |
 | Bewitching Whispers            | 15 | 4th Level Spells |
 | Dreadful Word                  | 15 | 4th Level Spells |
 | Ghostly Gaze                   | 15 | 4th Level Spells |
+| Protection of the Talisman     | 15 | 4th Level Spells  and Pact of the Talisman |
+| Relentless Hex                 | 15 | 4th Level Spells and Hex spell or other ability that curses |
+| Sculptor of Flesh              | 15 | 4th Level Spells |
+| Trickster's Escape             | 15 | 4th Level Spells |
 | Ascendant Step                 | 20 | 5th Level Spells |
 | Gift of the Protectors         | 20 | 5th Level Spells and Pact of the Tome |
 | Minions of Chaos               | 20 | 5th Level Spells |
+| Otherworldly Leap              | 20 | 5th Level Spells |
+| Whispers of the Grave          | 20 | 5th Level Spells |
 | Bond of the Talisman           | 25 | 6th Level Spells and Pact of the Talisman |
 | Lifedrinker                    | 25 | 6th Level Spells and Pact of the Blade |
-| Tier 7                         | 30 | 7th Level Spells |
+| Shroud of Shadow               | 30 | 7th Level Spells |
 | Chains of Carceri              | 35 | 8th Level Spells and Pact of the Chain |
 | Master of Myriad Forms         | 35 | 8th Level Spells |
+| Visions of Distant Realms      | 35 | 8th Level Spells |
+| Witch Sight                    | 35 | 8th Level Spells |
 
 ## Eldritch Invocations Desriptions (alphabetically)
 
@@ -157,6 +173,13 @@ Once per turn when you hit a creature with your pact weapon, you can expend mana
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
 When you cast [Eldritch Blast](), its range is 300 feet.
 
+### Eldritch Whip
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
+Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
+
 ### Eyes of the Rune Keeper
 
 <div style="margin-top:-10px;"></div>
@@ -181,6 +204,19 @@ Using 2 Actions, you can magically erase a name on the page by touching it.
 
 #### **Cost:** 5 Character Points
 You can cast [False Life]() on yourself at will as a 1st-level spell, without expending mana or material components.
+
+### Frozen Tomb
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
+As a free action when you take damage, you can entomb yourself in ice. You gain temporary stamina equal to 5 times your maximum spell level, which take as much of the triggering damage as possible. If any temporary stamina remain after the the triggering damage, you immediately gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated as you are now encased in ice. 
+
+These effects end once all temporary stamina is expended. Otherwise, it ends at the end of your next turn, along with any remaining temporary stamina, when all the ice melts away. 
+
+When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this ability or to not use it at all. Otherwise, this ability will trigger on the first instance of when you take damage.
+
+Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
 ### Gaze of Two Minds
 
@@ -225,13 +261,6 @@ When any creature whose name is on the page is reduced to 0 stamina but not kill
 
 Using 2 Actions, you can magically erase a name on the page by touching it.
 
-### Grasping Blast
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Eldritch Blast Cantrip
-Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
-
 ### Improved Pact Weapon
 
 <div style="margin-top:-10px;"></div>
@@ -254,7 +283,7 @@ When you cast [Find Familiar](), you infuse the summoned familiar with a measure
 * Using 1 Action, you can command the familiar to take the Strike action.
 * The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to non-magical attacks.
 * If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-* When the familiar takes damage, you can use your reaction to grant it resistance against that damage.
+* When the familiar takes damage, you can use a free action to grant it resistance against that damage. You can grant this resistance once per round. When you roll initiative or at the end of your turn, you need to declare a creature's attacks will trigger this action. Otherwise, this ability will occur on the first instance of your familiar taking damage.
 
 ### Lance of Lethargy
 
@@ -358,11 +387,7 @@ You can cast bane once using a warlock spell slot. You can’t do so again until
 Prerequisites: 3rd Level Spells and Pact of the Blade 
 You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
-### Tomb of Levistus
-Prerequisites: 3rd Level Spells
-As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. Immediately after you take the damage, you gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects, including any remaining temporary hit points, all end when the ice melts.
 
-Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
 ### Trickster's Escape
 Prerequisites: 4th Level Spells

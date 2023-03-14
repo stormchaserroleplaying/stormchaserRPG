@@ -47,18 +47,18 @@ grand_parent: Talents
 | Relentless Hex                 | 15 | 4th Level Spells and Hex spell or other ability that curses |
 | Sculptor of Flesh              | 15 | 4th Level Spells |
 | Trickster's Escape             | 15 | 4th Level Spells |
-| Ascendant Step                 | 20 | 5th Level Spells |
-| Gift of the Protectors         | 20 | 5th Level Spells and Pact of the Tome |
-| Minions of Chaos               | 20 | 5th Level Spells |
-| Otherworldly Leap              | 20 | 5th Level Spells |
-| Whispers of the Grave          | 20 | 5th Level Spells |
-| Bond of the Talisman           | 25 | 6th Level Spells and Pact of the Talisman |
-| Lifedrinker                    | 25 | 6th Level Spells and Pact of the Blade |
-| Shroud of Shadow               | 30 | 7th Level Spells |
-| Chains of Carceri              | 35 | 8th Level Spells and Pact of the Chain |
-| Master of Myriad Forms         | 35 | 8th Level Spells |
-| Visions of Distant Realms      | 35 | 8th Level Spells |
-| Witch Sight                    | 35 | 8th Level Spells |
+| Ascendant Step                 | 25 | 5th Level Spells |
+| Gift of the Protectors         | 25 | 5th Level Spells and Pact of the Tome |
+| Minions of Chaos               | 25 | 5th Level Spells |
+| Otherworldly Leap              | 25 | 5th Level Spells |
+| Whispers of the Grave          | 25 | 5th Level Spells |
+| Bond of the Talisman           | 35 | 6th Level Spells and Pact of the Talisman |
+| Lifedrinker                    | 35 | 6th Level Spells and Pact of the Blade |
+| Shroud of Shadow               | 50 | 7th Level Spells |
+| Chains of Carceri              | 65 | 8th Level Spells and Pact of the Chain |
+| Master of Myriad Forms         | 65 | 8th Level Spells |
+| Visions of Distant Realms      | 65 | 8th Level Spells |
+| Witch Sight                    | 65 | 8th Level Spells |
 
 ## Eldritch Invocations Desriptions 
 
@@ -377,14 +377,14 @@ You can cast [Freedom of Movement]() once on yourself without expending mana. Yo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells
 You can cast [Levitate]() on yourself at will, without expending mana or material components.
 
 ### Gift of the Protectors
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
 A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
 
 When any creature whose name is on the page is reduced to 0 stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
@@ -395,68 +395,68 @@ Using 2 Actions, you can magically erase a name on the page by touching it.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells
 You can cast [Conjure Elemental]() once expending 5 mana. You can’t do so again until you finish a long rest.
 
 ### Otherworldly Leap
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisites:** 5th Level Spells
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells
 You can cast [Jump]() on yourself at will, without expending mana or material components.
 
 ### Whispers of the Grave
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisites:**: 5th Level Spells
+#### **Cost:** 25 Character Points<br>**Prerequisites:**: 5th Level Spells
 You can cast [Speak with Dead]() at will, without expending mana.
 
 ### Bond of the Talisman
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Talisman
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Talisman
 While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting attribute modifier, and all expended uses are restored when you finish a long rest.
 
 ### Lifedrinker
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Blade 
+#### **Cost:** 35 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Blade 
 When you hit a creature with your pact weapon, you gain temporary stamina equal to your spellcasting attribute modifier (minimum 1).
 
 ### Shroud of Shadow
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisites:** 7th Level Spells
+#### **Cost:** 50 Character Points<br>**Prerequisites:** 7th Level Spells
 You can cast [Invisibility]() at will, without expending mana.
 
 ### Chains of Carceri
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells and Pact of the Chain
+#### **Cost:** 65 Character Points<br>**Prerequisites:** 8th Level Spells and Pact of the Chain
 You can cast [Hold Monster]() at will — targeting a celestial, fiend, or elemental — without expending mana or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Master of Myriad Forms
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
+#### **Cost:** 65 Character Points<br>**Prerequisites:** 8th Level Spells
 You can cast [Ater Self]() at will, without expending mana.
 
 ### Visions of Distant Realms
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
+#### **Cost:** 65 Character Points<br>**Prerequisites:** 8th Level Spells
 You can cast [Arcane Eye]() at will, without expending mana.
 
 ### Witch Sight
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisites:** 8th Level Spells
+#### **Cost:** 65 Character Points<br>**Prerequisites:** 8th Level Spells
 You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.

@@ -30,7 +30,7 @@ grand_parent: Talents
 | Thief of Five Fates            | 5  | - |
 | Voice of the Chain Master      | 5  | - |
 | Cloak of Flies                 | 10 | 3rd Level Spells |
-| Eldritch Smith                 | 10 | 3rd Level Spells and Pact of the Blade |
+| Eldritch Smite                 | 10 | 3rd Level Spells and Pact of the Blade |
 | Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
 | Frigid Tomb                    | 10 | 3rd Level Spells |
 | Gift of the Depths             | 10 | 3rd Level Spells |

@@ -44,7 +44,7 @@ When you reduce a hostile creature to 0 hit points, you gain temporary stamina e
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:**  3nd Level Spells and Dark One's Blessing
+#### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Dark One's Blessing
 *You call on your patron to alter fate in your favor.*
 
 When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d.
@@ -55,7 +55,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Dark One's Own Luck
+#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Dark One's Own Luck
 *Your patron grants you whatever protection you desire.*
 
 You can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.

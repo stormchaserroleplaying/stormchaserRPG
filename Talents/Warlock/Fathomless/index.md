@@ -32,11 +32,11 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 |:-------|:--:|:--------------|
 | Tentacle of the Deeps I  | 5  | - |
 | Gift of the Sea          | 5  | - |
-| Oceanic Soul             | 5  | 3nd Level Spells, Tentacle of the Deeps and Gift of the Sea |
-| Guardian Coil  I         | 5  | 3nd Level Spells, Tentacle of the Deeps and Gift of the Sea |
-| Grasping Tentacles       | 25 | 5th Level Spells, Oceanic Soul and Guardian Coil |
-| Guardian Coil  II        | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil |
-| Tentacle of the Deeps II | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil |
+| Oceanic Soul             | 5  | 3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
+| Guardian Coil  I         | 5  | 3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
+| Grasping Tentacles       | 25 | 5th Level Spells, Oceanic Soul and Guardian Coil I |
+| Guardian Coil  II        | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
+| Tentacle of the Deeps II | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
 | Fathomless Plunge        | 50 | 7th Level Spells and Grasping Tentacles |
 
 ###  Tentacle of the Deeps I

@@ -81,7 +81,7 @@ This ability triggers once per round and on the first instance of a creature wit
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
 You learn the spell [Black Tentacles](). It counts as an arcane spell for you, but it doesn’t count against the number of spells you know. You can also cast it once expending mana, and you regain the ability to do so when you finish a long rest.
 
 Whenever you cast this spell, your patron’s magic bolsters you, granting you a number of temporary hit points equal to twice your maximum spell level. Moreover, damage can’t break your concentration on this spell.

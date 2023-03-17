@@ -47,7 +47,7 @@ When you reduce a hostile creature to 0 hit points, you gain temporary stamina e
 #### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Dark One's Blessing
 *You call on your patron to alter fate in your favor.*
 
-When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d.
+When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d, or not to use it at all.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 

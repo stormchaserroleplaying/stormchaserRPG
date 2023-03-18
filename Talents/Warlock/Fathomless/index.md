@@ -32,8 +32,8 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 |:-------|:--:|:--------------|
 | Tentacle of the Deeps I  | 5  | - |
 | Gift of the Sea          | 5  | - |
-| Oceanic Soul             | 5  | 3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
-| Guardian Coil  I         | 5  | 3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
+| Oceanic Soul             | 5  | 3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
+| Guardian Coil  I         | 5  | 3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
 | Grasping Tentacles       | 25 | 5th Level Spells, Oceanic Soul and Guardian Coil I |
 | Guardian Coil  II        | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
 | Tentacle of the Deeps II | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
@@ -61,7 +61,7 @@ You can swim a distance equal to your speed, and you can breathe underwater.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea
+#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea
 *You are now even more at home in the depths.*
 
 You gain resistance to cold damage. In addition, when you are fully submerged, any creature that is also fully submerged can understand your speech, and you can understand theirs.
@@ -70,7 +70,7 @@ You gain resistance to cold damage. In addition, when you are fully submerged, a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3nd Level Spells, Tentacle of the Deeps I and Gift of the Sea<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
+#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
 *The tentacle you summon can defend you and others.*
 
 You can choose one creature damaged within the range of your tentacle and reduce the damage to that creature by 1d8.

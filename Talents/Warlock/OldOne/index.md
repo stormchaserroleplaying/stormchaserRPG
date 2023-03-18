@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Awakened Mind  | 5  | - |
-| Entropic Ward  | 10 | 3nd Level Spells and Awakened Mind |
+| Entropic Ward  | 10 | 3rd Level Spells and Awakened Mind |
 | Thought Shield | 35 | 5th Level Spells and Entropic Ward |
 | Create Thrall  | 50 | 7th Level Spells and Thought Shield |
 
@@ -44,7 +44,7 @@ You can telepathically speak to any creature you can see within 30 feet of you. 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Awakened Mind<br>**Actions:** Free<br>**Trigger:** A creature makes a melee or ranged attack roll against you.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Awakened Mind<br>**Actions:** Free<br>**Trigger:** A creature makes a melee or ranged attack roll against you.
 *You learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself.*
 
 When a creature makes an attack roll against you, you can impose -1d on that roll. If the attack misses you, your next attack roll against the creature gains +1d, if you make it before the end of your next turn.

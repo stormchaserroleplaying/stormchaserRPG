@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Fey Presence       | 5  | - |
-| Misty Escape       | 10 | 3nd Level Spells and Fey Presence |
+| Misty Escape       | 10 | 3rd Level Spells and Fey Presence |
 | Beguiling Defenses | 35 | 5th Level Spells and Misty Escape |
 | Dark Delirium      | 50 | 7th Level Spells and Beguiling Defenses |
 
@@ -46,7 +46,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3nd Level Spells and Fey Presence<br>**Action:** Free<br>**Trigger:** You take damage.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Fey Presence<br>**Action:** Free<br>**Trigger:** You take damage.
 *You vanish in a puff of mist in response to harm.*
 
 You turn [invisible]() and teleport up to 60 feet to an unoccupied space you can see. You remain [invisible]() until the start of your next turn or until you attack or cast a spell.

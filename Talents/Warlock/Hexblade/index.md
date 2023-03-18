@@ -29,7 +29,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Hex Warrior      | 5  | - |
-| Accursed Specter | 10 | 3nd Level Spells and Hex Warrior |
+| Accursed Specter | 10 | 3rd Level Spells and Hex Warrior |
 | Armor of Hexes   | 35 | 5th Level Spells and Accursed Specter |
 | Master of Hexes  | 50 | 7th Level Spells and Armor of Hexes |
 
@@ -54,7 +54,7 @@ You can’t use this feature again until you finish a short or long rest.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Hex Warrior
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Hex Warrior
 *You can curse the soul of a person you slay, temporarily binding it to your service.*
 
 When you bring a humanoid to 0 stamina, you can cause its spirit to rise from its corpse as a [specter](), the statistics for which are in the Bestiary. When the specter appears, it gains temporary stamina equal to your maximum spell level. The specter shares your same initiative count, but acts directly after you. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your spellcasting attribute modifier (minimum of +0).

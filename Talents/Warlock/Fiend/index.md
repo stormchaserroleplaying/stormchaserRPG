@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Dark One's Blessing  | 5  | - |
-| Dark One's Own Luck  | 10 | 3nd Level Spells and Dark One's Blessing |
+| Dark One's Own Luck  | 10 | 3rd Level Spells and Dark One's Blessing |
 | Fiendish Resilience  | 35 | 5th Level Spells and Dark One's Own Luck |
 | Hurl Through Hell    | 50 | 7th Level Spells and Fiendish Resilience |
 
@@ -44,7 +44,7 @@ When you reduce a hostile creature to 0 hit points, you gain temporary stamina e
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Dark One's Blessing
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Dark One's Blessing
 *You call on your patron to alter fate in your favor.*
 
 When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d, or not to use it at all.

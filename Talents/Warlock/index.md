@@ -10,7 +10,7 @@ nav_order: 12
 **As long as at least half of your mage talents are from the warlock talent tree, your stamina increases to 3× your Constitution score and your recovery die increases to a d8.**
 
 ## Bonus Proficiencies
-When you take your first warlock talent, you gain the light armor proficiency.
+When you take your first warlock talent, you gain light armor proficiency.
 
 Additionally, if your first talent is a warlock talent, then you are trained in the following spell schools:  Conjuration, Charms, and three additional schools of your choice
 

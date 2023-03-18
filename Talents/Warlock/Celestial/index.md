@@ -31,7 +31,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Healing Light        | 5  | - |
-| Radiant Soul         | 10 | 3nd Level Spells and Healing Light |
+| Radiant Soul         | 10 | 3rd Level Spells and Healing Light |
 | Celestial Resilience | 35 | 5th Level Spells and Radiant Soul |
 | Searing Vengeance    | 50 | 7th Level Spells and Celestial Resilience |
 
@@ -52,7 +52,7 @@ Your pool regains all expended dice when you finish a long rest.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3nd Level Spells and Healing Light
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Healing Light
 *Your link to the Celestial allows you to serve as a conduit for radiant energy.*
 
 You have resistance to sacred damage. Additionally, when you cast a 1st level spell or higher that deals sacred or fire damage, you can add your spellcasting ability modifier to one damage roll of that spell against one of its targets.

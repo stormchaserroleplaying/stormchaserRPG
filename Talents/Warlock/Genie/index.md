@@ -38,7 +38,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Genie's Vessel   | 5  | - |
-| Elemental Gift   | 10 | 3nd Level Spells and Genie's Vessel |
+| Elemental Gift   | 10 | 3rd Level Spells and Genie's Vessel |
 | Sanctuary Vessel | 35 | 5th Level Spells and Elemental Gift  |
 | Limited Wish     | 50 | 7th Level Spells and Sanctuary Vessel |
 
@@ -75,7 +75,7 @@ If the vessel is destroyed or you lose it, you can perform a 1-hour ceremony to 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3nd Level Spells and Genie's Vessel
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Genie's Vessel
 *You begin to take on characteristics of your patron.*
 
 You now have resistance to a damage type determined by your patron’s kind: bludgeoning (oread), sonic (sylph), fire (ifrit), or cold (undine).

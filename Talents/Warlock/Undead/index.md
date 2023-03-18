@@ -27,7 +27,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Form of Dread     | 5  | - |
-| Grave Touched     | 10 | 3nd Level Spells and Form of Dread |
+| Grave Touched     | 10 | 3rd Level Spells and Form of Dread |
 | Necrotic Husk     | 35 | 5th Level Spells and Grave Touched |
 | Spirit Projection | 50 | 7th Level Spells and Necrotic Husk |
 
@@ -52,7 +52,7 @@ The appearance of your Form of Dread reflects some aspect of your patron. For ex
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:**  3nd Level Spells and Form of Dread
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Form of Dread
 *Your patron’s powers have a profound effect on your body and magic.*
 
 You don’t need to eat, drink, or breathe.

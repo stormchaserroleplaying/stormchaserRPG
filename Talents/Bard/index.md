@@ -35,7 +35,7 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 #### Bardic Inspiration
 *You can inspire others through stirring words or music.*
 
-To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d20.
+To do so, you use an action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d20.
 
 Once within the next 10 minutes, the creature can roll the die as an instance of advantage on one ability check, attack roll, or defence check it makes. The creature can wait until after it rolls the original die before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
@@ -71,7 +71,7 @@ Once per round, you may choose a target within 60 feet that you can see. The tar
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Bardic Performance and 4 Other Bard Talents
 *Your Bardic Performance can plant the most subtle of compulsions in the minds of those who listen to you.*
 
-You can use two Actions to make a Charisma (Performance) check against a target's Wisdom defense. If successful, you speak a statement up to two sentences directing a course of action, and the target will follow it to the best of their ability. It must be worded in a way that sounds reasonable for the target. The directed action must be able to be completed within the next 8 hours. A trigger can also be given to the target as well, such as giving away all of their money if someone asks for charity. Creatures immune to the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition are immune to this effect.
+You can use two actions to make a Performance check against a target's Wisdom defense. If successful, you speak a statement up to two sentences directing a course of action, and the target will follow it to the best of their ability. It must be worded in a way that sounds reasonable for the target. The directed action must be able to be completed within the next 8 hours. A trigger can also be given to the target as well, such as giving away all of their money if someone asks for charity. Creatures immune to the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition are immune to this effect.
 
 ### Dirge of Doom
 

@@ -26,7 +26,7 @@ If your species and class both grant proficiency in an armour category, you trea
 
 When doffing armour or when donning medium armour, if a character has help, then this time is halved. A single character doing nothing else can help two adjacent creatures. Two characters can't help each other don or remove armour pieces at the same time. The wearer must have help to don heavy armour pieces. Without help, they can only be donned hastily.
 
-Shields without the Worn property take 1 Action to don or doff. Worn shields are considered arm armour of the same weight category for the purposes of donning/doffing.
+Shields without the [Worn](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Glossary/#worn) property take 1 Action to don or doff. Worn shields are considered arm armour of the same weight category for the purposes of donning/doffing.
 
 ##### Donning and Doffing Armour Suits
 

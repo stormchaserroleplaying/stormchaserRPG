@@ -19,18 +19,18 @@ You can reach out to spirits to guide you and others. You learn the *[guidance](
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Tales From Beyond   | 5  | Bardic Performance | - |
+| Tales From Beyond   | 5  | Bardic Performance | 1 |
 | Spirit Session      | 10 | Tales From Beyond and 3 Other Bard Talents | 4 |
 | Mystical Connection | 50 | Spirit Session and 9 Other Bard Talents | 10 |
 
-### Bardic Inspiration: Tales From Beyond
+### Bardic Performance: Tales From Beyond
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points**Prerequisite:** Bardic Inspiration
+#### **Cost:** 5 Character Points**Prerequisite:** Bardic Performance
 You reach out to spirits who tell their tales through you. While you are holding your spiritual focus, you can roll on the table below, using your martial feat die to determine the tale that the spirits direct you to tell. You retain the tale in mind until you bestow the tale’s effect or you finish a short or long rest.
 
-As part of the action required for Bardic Performance each round, you can choose one creature that you can see within 30 feet of you (this can be you) to be the target of the tale’s effect. Once you do so, you can’t bestow the tale’s effect again until you roll it again.
+As an action, choose one creature that you can see within 30 feet of you (this can be you) to be the target of the tale’s effect. Once you do so, you can’t bestow the tale’s effect again until you roll it again.
 
 You can retain only one of these tales in mind at a time. Rolling on the table immediately ends the effect of the previous tale. If the tale requires an attack roll, make a performance check.
 

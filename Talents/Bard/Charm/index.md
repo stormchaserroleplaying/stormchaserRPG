@@ -29,27 +29,27 @@ Work with your GM to determine an appropriate item or items to keep on your pers
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-It pains your opponents to fight you and your allies.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+*It pains your opponents to fight you and your allies.*
 
-As a bonus action, you exude an aura that commands adoration from those around you. For 1 minute or until you are incapacitated, any creature hostile to you that ends their turn within 30ft of you must make a Wisdom saving throw against your spell save DC or take 1d4 psychic damage. This damage increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level and 1d12 at 17th level. You can use this feature a number of times equal to your Charisma modifier, with a minimum of 1. Once you use this feature, you can't use it again until you finish a long rest.
+You exude an aura that commands adoration from those around you. For 1 minute or until you are incapacitated, any creature hostile to you that ends their turn within 30ft of you must make a Wisdom defence check vs your passive [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill or take 1d4 psychic damage. This damage increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level and 1d12 at 17th level. You can use this feature a number of times equal to your Charisma modifier. You regain all uses of this feature when you finish a long rest.
 
 ### Aura of Good Will
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Bardic Inspirastion, Commanding Adoration and 2 other Bard Talents
-Your silken words and welcoming body language give others cause to trust you
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Bardic Performance, Commanding Adoration and 2 other Bard Talents<br>**Actions:** Free
+*Your silken words and welcoming body language give others cause to trust you.*
 
-When you use a Bardic Performance, you can make a performance check vs the target's wisdom defence. On a hit, the target is charmed by you. While charmed in this way, the target becomes enamored with you, and becomes defensive against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
+As a free action, you can expend 1 use of your Bardic Performance to attempt to enamour your target. Make a performance check vs the target's wisdom defence. On a hit, the target is charmed by you. While charmed in this way, the target becomes enamoured with you and becomes hostile towards against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 
-If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
+On a miss, the target has no hint that you tried to charm it.
 
 ### Charismatic Resolve
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents
-Your presence alone gives your companions encouragement.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents<br>**Actions:** 1
+*Your presence alone gives your companions encouragement.*
 
-When you use a Bardic Performance, select any enemy you can see within 60 ft. Until your next turn, your companions gain +1d on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.
+Expend a use of your Bardic Performance and select a creature that you can see within 60 ft. Until the start of your next turn, your companions gain +1d on skill checks and attacks made vs this creature. Once you have used this ability on a creature, it cannot be used on that creature again for 24 hours.

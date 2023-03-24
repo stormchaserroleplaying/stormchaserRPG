@@ -32,7 +32,9 @@ Work with your GM to determine an appropriate item or items to keep on your pers
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 *It pains your opponents to fight you and your allies.*
 
-You exude an aura that commands adoration from those around you. For 1 minute or until you are incapacitated, any creature hostile to you that ends their turn within 30ft of you must make a Wisdom defence check vs your passive [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill or take 1d4 psychic damage. This damage increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level and 1d12 at 17th level. You can use this feature a number of times equal to your Charisma modifier. You regain all uses of this feature when you finish a long rest.
+You exude an aura that commands adoration from those around you. For 1 minute or until you are incapacitated, any creature hostile to you that ends their turn within 30ft of you must succeed at a Wisdom defence check vs your passive [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill or take psychic damage equal to your martial feat die.
+
+You can use this talent a number of times equal to your Charisma modifier and you regain all expended uses when you finish a long rest.
 
 ### Aura of Good Will
 

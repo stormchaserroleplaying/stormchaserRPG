@@ -22,7 +22,7 @@ Work with your GM to determine an appropriate item or items to keep on your pers
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
 | Commanding Adoration | 5  | - | - |
-| Aura of Good Will    | 10 | Bardic Inspiration, Commanding Adoration and 2 other Bard Talents | 4 |
+| Aura of Good Will    | 10 | Bardic Performance, Commanding Adoration and 2 other Bard Talents | 4 |
 | Charismatic Resolve  | 50 | Aura of Good Will and 7 other Bard Talents | 8 |
 
 ### Commanding Adoration
@@ -41,7 +41,7 @@ As a bonus action, you exude an aura that commands adoration from those around y
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Bardic Inspirastion, Commanding Adoration and 2 other Bard Talents
 Your silken words and welcoming body language give others cause to trust you
 
-As a free action, you can expend 1 use of your Bardic Inspiration to attempt to enamor your target. Make a performance check vs the target's wisdom defence. On a hit, the target is charmed by you. While charmed in this way, the target becomes enamored with you, and becomes defensive against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
+When you use a Bardic Performance, you can make a performance check vs the target's wisdom defence. On a hit, the target is charmed by you. While charmed in this way, the target becomes enamored with you, and becomes defensive against any creature that threatens you. This ability cannot force another creature to fight, unless they would otherwise be inclined to do so. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
 
 If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
 
@@ -52,4 +52,4 @@ If a target succeeds on its saving throw, the target has no hint that you tried 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents
 Your presence alone gives your companions encouragement.
 
-As a bonus action on your turn, you can spend a Bardic Inspiration on any enemy you can see within 60 ft. Until your next turn, your companions gain +1d on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.
+When you use a Bardic Performance, select any enemy you can see within 60 ft. Until your next turn, your companions gain +1d on skill checks and attacks made against this enemy. Once you have used this ability on an enemy, it cannot be used on that enemy again for 24 hours.

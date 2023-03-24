@@ -13,8 +13,8 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Mote of Potential           | 3  | - | Bardic Performance |
-| Performance of Creation     | 2  | - | Bardic Performance |
+| Mote of Potential           | 3  | Bardic Performance | 1 |
+| Performance of Creation     | 2  | Bardic Performance | 1 |
 | Animating Performance       | 5  | Performance of Creation and 3 Other Bard Talents | 4 |
 | Performance of Creation II  | 5  | Performance of Creation and 3 Other Bard Talents | 4 |
 | Performance of Creation III | 5  | Performance of Creation II and 9 Other Bard Talents | 10 |

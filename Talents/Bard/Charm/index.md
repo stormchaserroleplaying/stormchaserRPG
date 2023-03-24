@@ -45,11 +45,11 @@ As a free action, you can expend 1 use of your Bardic Performance to attempt to 
 
 On a miss, the target has no hint that you tried to charm it.
 
-### Charismatic Resolve
+### Bardic Performance: Charismatic Resolve
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Aura of Good Will and 7 Bard Talents<br>**Actions:** 1
 *Your presence alone gives your companions encouragement.*
 
-Expend a use of your Bardic Performance and select a creature that you can see within 60 ft. Until the start of your next turn, your companions gain +1d on skill checks and attacks made vs this creature. Once you have used this ability on a creature, it cannot be used on that creature again for 24 hours.
+Select a creature that you can see within 60 ft. Until the start of your next turn, your companions gain +1d on skill checks and attacks made vs this creature. Once you have used this ability on a creature, it cannot be used on that creature again for 24 hours.

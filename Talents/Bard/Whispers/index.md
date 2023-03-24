@@ -13,7 +13,7 @@ Many other bards hate their whisper peers, viewing them as parasites that use a 
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Psychic Blades     | 3  | Bardic Performance | - |
+| Psychic Blades     | 3  | Bardic Performance | 1 |
 | Words of Terror    | 2  | - | - |
 | Psychic Blades II  | 5  | Psychic Blades and 2 Other Bard Talents | 3 |
 | Mantle of Whispers | 10 | Words of Terror and 3 Other Bard Talents | 4 |
@@ -63,7 +63,7 @@ You can use the shadow as an action. When you do so, it vanishes, magically tran
 
 While you’re in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn’t include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.
 
-Another creature can see through this disguise by succeeding on an [insight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Insight/) check against your passive deception. Your passive deception gains +1d for this check.
+Another creature can see through this disguise by succeeding on an [Insight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Insight/) check against your passive deception. Your passive deception gains +1d for this check.
 
 Once you capture a shadow with this feature, you can’t capture another one with it until you finish a short or long rest.
 
@@ -83,9 +83,9 @@ The bonus damage that you inflict with Psychic Blades increases to 5d6.
 
 an action, magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. Make a performance check vs the target's wisdom defence. This check automatically fails if the target doesn’t share a language with you or if it cannot hear you. On a miss, your whisper sounds like unintelligible mumbling and has no effect.
 
-On a hit, the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the next 8 hours, or until you or your allies attack or damage it. The target interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced that you know it.
+On a hit, the target is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the next 8 hours, or until you or your allies attack or damage it. The target interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced that you know it.
 
-The [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favours and gifts that it would offer to a close friend.
+The [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favours and gifts that it would offer to a close friend.
 
 When the effect ends, the creature has no understanding of why it held you in such fear.
 

@@ -16,14 +16,14 @@ Adherents of the College of Eloquence master the art of oratory. Persuasion is r
 | Universal Speech       | 5 | Unsettling Words and 3 Other Bard Talents | 4 |
 | Infectious Inspiration | 50 | Unfailing Inspiration, Universal Speech and 10 Other Bard Talents | 11 |
 
-### Unsettling Words
+### Bardic Performance: Unsettling Words
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
 *You can spin words laced with magic that unsettle a creature and cause it to doubt itself.*
 
-As an action, you can expend one use of your bardic inspiration and choose one creature that you can see within 60 feet of you. The next attack roll made agains the creature before the start of your next turn gains +1d.
+Choose one creature that you can see within 60 feet of you. The next attack roll made agains the creature before the start of your next turn gains +1d.
 
 ### Unfailing Inspiration
 

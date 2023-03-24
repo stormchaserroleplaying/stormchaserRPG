@@ -33,13 +33,13 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 You are trained to use the [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill to manipulate those around you.
 
-Starting a bardic performance is an action and must be maintained each round as an action. Changing a bardic performance from one effect to another requires you to stop the previous performance and start a new one as an action. A bardic performance cannot be disrupted, but it ends immediately if the bard is killed, paralysed, stunned, knocked unconscious, or otherwise prevented from taking an action to maintain it each round.
+Starting a Bardic Performance is an action and must be maintained each round as an action. Changing a Bardic Performance from one effect to another requires you to stop the previous performance and start a new one as an action. A Bardic Performance cannot be disrupted, but it ends immediately if the bard is killed, paralysed, stunned, knocked unconscious, or otherwise prevented from taking an action to maintain it each round.
 
-Each bardic performance has audible components, visual components, or both.
+Each Bardic Performance has audible components, visual components, or both.
 
-If a bardic performance has audible components, the targets must be able to hear the bard for the performance to have any effect, and many such performances are language dependent (as noted in the description). A deaf bard has a 20% chance to fail when attempting to use a bardic performance with an audible component. If he fails this check, the attempt still counts against his daily limit. Deaf creatures are immune to bardic performances with audible components.
+If a Bardic Performance has audible components, the targets must be able to hear the bard for the performance to have any effect, and many such performances are language dependent (as noted in the description). A deaf bard has a 20% chance to fail when attempting to use a Bardic Performance with an audible component. If he fails this check, the attempt still counts against his daily limit. Deaf creatures are immune to bardic performances with audible components.
 
-If a bardic performance has a visual component, the targets must have line of sight to the bard for the performance to have any effect. A blind bard has a 50% chance to fail when attempting to use a bardic performance with a visual component. If he fails this check, the attempt still counts against his daily limit. Blind creatures are immune to bardic performances with visual components.
+If a Bardic Performance has a visual component, the targets must have line of sight to the bard for the performance to have any effect. A blind bard has a 50% chance to fail when attempting to use a Bardic Performance with a visual component. If he fails this check, the attempt still counts against his daily limit. Blind creatures are immune to bardic performances with visual components.
 
 You can use this feature a number of times equal to your Charisma modifier. You regain any expended uses when you finish a short or long rest.
 
@@ -55,7 +55,7 @@ Additionally, you can use soothing music or oration to help revitalise your woun
 #### Bardic Performance: Countersong
 *You gain the ability to use musical notes or words of power to disrupt mind-influencing effects.*
 
-You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have +1d to your defences vs being [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
+You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have +1d to your defences vs being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
 
 #### Bardic Performance: Fascinate
 *You use your performance to cause one or more creatures to become fascinated with you.*
@@ -87,7 +87,7 @@ Once per round, you may choose a target within 60 feet that you can see. The tar
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Bardic Performance and 4 Other Bard Talents
-You can make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defense to make a suggestion (as per the spell) to a creature that you have already fascinated (see above).
+You can make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defense to make a [Suggestion]() (as per the spell) to a creature that you have already fascinated (see above).
 
 Using this ability does not disrupt the fascinate effect. However, it does require an action to activate (in addition to the action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance. This ability affects only a single creature (but see mass suggestion, below). Suggestion is a mind-affecting, language-dependent charm ability and relies on audible components.
 
@@ -173,10 +173,3 @@ Deadly performance is a mind-effecting death effect that relies on audible and v
 Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Inspiration left, you regain a number of uses equal to your Charisma modifier.
 
 ## Bard Talent Tree Branches
-[Charm](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Charm/)
-[Creation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Creation/)
-[Eloquence](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Eloquence/)
-[Glamour](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Glamour/)
-[Spirits](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Spirits/)
-[Valour](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Valour/)
-[Whispers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Whispers/)

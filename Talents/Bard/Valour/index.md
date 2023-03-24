@@ -36,7 +36,7 @@ Whenever you take the Strike action on your turn, your walking speed increases b
 
 **Mobile Flourish.** You can expend one use of your bardic inspiration to cause the weapon to deal extra damage equal to your martial feat die to the target that you hit. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.
 
-Additionally, a creature that has a bardic inspiration die from you can instead roll your martial feat die and add the number rolled to a weapon damage roll that it just made. If a creature has a bardic inspiration die from you casts a spell that restores stamina or deals damage, then that creature can instead roll your martial feat die and choose a target affected by the spell. Add the number rolled as a bonus to the stamina regained or the damage dealt.
+Additionally, a creature benefitting from your bardic inspiration can instead roll your martial feat die and add the number rolled to a weapon damage roll that it just made. If a creature has a bardic inspiration die from you and casts a spell that restores stamina or deals damage, then that creature can instead roll your martial feat die and choose a target affected by the spell. Add the number rolled as a bonus to the stamina regained or the damage dealt.
 
 ### Extra Attack
 
@@ -45,16 +45,16 @@ Additionally, a creature that has a bardic inspiration die from you can instead 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 3 other Bard Talents
 Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
 
-### Battle Magic
+### Symphony of Battle
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 9 other Bard Talents
-You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a spell, you can make one weapon attack as a bonus action.
+The clash and clang of battle heralds immortal deeds and glory of heroes. When you use a Bardic Performance or cast a spell, you can make one Strike as a Free action.
 
 ### Master's Flourish
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 9 other Bard Talents
-You can use blade flourish without expending a bardic inspiration die.
+You can use now a Blade Flourish on each Strike you make on your turn.

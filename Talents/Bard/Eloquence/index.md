@@ -20,7 +20,7 @@ Eloquence bards master the art of oratory. Persuasion is regarded as a high art 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>
+#### **Cost:** 5 Character Points
 *You can spin words laced with magic that unsettle a creature and cause it to doubt itself.*
 
 Choose one creature that you can see within 60 feet of you. The next attack roll made vs that creature before the start of your next turn gains +1d.

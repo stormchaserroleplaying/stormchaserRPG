@@ -5,11 +5,11 @@ grand_parent: Talents
 ---
  
 # The Fathomless
-You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
+You have plunged into a pact with the depths. An entity of the ocean, the elemental plane of water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
 
-Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron’s grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
+Perhaps you were born into a generational cult that venerates the fathomless and its spawn, or you might have been shipwrecked and on the brink of drowning when your patron’s grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
 
-Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
+Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods and sea hag covens.
 
 ## Branch Features
 
@@ -30,16 +30,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Tentacle of the Deeps I  | 5  | - |
-| Gift of the Sea          | 5  | - |
-| Oceanic Soul             | 5  | 3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
-| Guardian Coil  I         | 5  | 3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea |
-| Grasping Tentacles       | 25 | 5th Level Spells, Oceanic Soul and Guardian Coil I |
-| Guardian Coil  II        | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
-| Tentacle of the Deeps II | 5  | 5th Level Spells, Oceanic Soul and Guardian Coil I |
-| Fathomless Plunge        | 50 | 7th Level Spells and Grasping Tentacles |
+| Tentacle of the Deep I  | 3  | - |
+| Gift of the Sea         | 2  | - |
+| Oceanic Soul            | 5  | 3rd Level Spells and Gift of the Sea |
+| Guardian Coil  I        | 5  | 3rd Level Spells and Tentacle of the Deep I |
+| Grasping Tentacles      | 25 | 5th Level Spells and Guardian Coil I |
+| Tentacle of the Deep II | 5  | 5th Level Spells and Guardian Coil I |
+| Guardian Coil  II       | 5  | 5th Level Spells and Guardian Coil I |
+| Fathomless Plunge       | 50 | 7th Level Spells and Grasping Tentacles |
 
-###  Tentacle of the Deeps I
+###  Tentacle of the Deep I
 
 <div style="margin-top:-10px;"></div>
  
@@ -61,30 +61,37 @@ You can swim a distance equal to your speed, and you can breathe underwater.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea
+#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells and Gift of the Sea
 *You are now even more at home in the depths.*
 
-You gain resistance to cold damage. In addition, when you are fully submerged, any creature that is also fully submerged can understand your speech, and you can understand theirs.
+You gain resistance to cold damage. In addition, when you are fully submerged, any creature that is also fully submerged can understand your speech and you can understand theirs.
 
 ### Guardian Coil I
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells, Tentacle of the Deeps I and Gift of the Sea<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
+#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells and Tentacle of the Deep I<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
 *The tentacle you summon can defend you and others.*
 
 You can choose one creature damaged within the range of your tentacle and reduce the damage to that creature by 1d8.
 
-This ability triggers once per round and on the first instance of a creature within the range of your tentacle taking damage, unless you declare on your turn or when you roll initiative that it will trigger upon a specific instance, or not to use it at all.
+This ability automatically triggers once per round the first time that a creature within the range of your tentacle takes damage, with the following exceptions: on your turn, or when you roll initiative, you may declare that your Guardian Coil only be triggered when a specific creature takes damage, or not to use it at all.
 
 ###  Grasping Tentacles
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
-You learn the spell [Black Tentacles](). It counts as an arcane spell for you, but it doesn’t count against the number of spells you know. You can also cast it once expending mana, and you regain the ability to do so when you finish a long rest.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Guardian Coil I
+You learn the spell [Black Tentacles](). It counts as an arcane spell for you, but it doesn’t count against the number of spells that you know. You can also cast it once expending mana and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron’s magic bolsters you, granting you a number of temporary hit points equal to twice your maximum spell level. Moreover, damage can’t break your concentration on this spell.
+Whenever you cast this spell, your patron’s magic bolsters you, granting you an amount of temporary Stamina equal to twice your maximum spell level. Moreover, damage can’t break your concentration on this spell.
+
+###  Tentacle of the Deep II
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
+Attacks made by your tentacle now do 2d8 cold damage.
 
 ### Guardian Coil II
 
@@ -93,13 +100,6 @@ Whenever you cast this spell, your patron’s magic bolsters you, granting you a
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
 Your tentacle now reduces damage by 2d8.
 
-###  Tentacle of the Deeps II
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
-Attacks made by your tentacle now do 2d8 cold damage.
-
 ### Fathomless Plunge
 
 <div style="margin-top:-10px;"></div>
@@ -107,6 +107,6 @@ Attacks made by your tentacle now do 2d8 cold damage.
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Grasping Tentacles<br>**Actions:** 2
 *You magically open temporary conduits to watery destinations.*
 
-You can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water you’ve seen (pond size or larger) or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.
+You can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water that you’ve seen (pond size or larger), or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.

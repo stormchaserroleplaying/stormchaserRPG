@@ -12,19 +12,22 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Bardic Performance   | 5  | - |
-| Jack of All Trades   | 5  | - |
-| Cutting Words        | 5  | Bardic Performance |
-| Suggestion           | 15 | Bardic Performance and 4 Other Bard Talents |
-| Dirge of Doom        | 20 | Suggestion and 5 Other Bard Talents |
-| Inspire Greatness    | 25 | Bardic Performance and 6 Other Bard Talents |
-| Peerless Skill       | 35 | Jack of all Trades and 7 Other Bard Talents |
-| Soothing Performance | 30 | Bardic Performance and 8 Other Bard Talents |
-| Frightening Tune     | 65 | Dirge of Doom and 10 Other Bard Talents |
-| Inspire Heroics      | 40 | Inspire Greatness and 11 Other Bard Talents |
-| Mass Suggestion      | 80 | Suggestion and 12 Other Bard Talents |
-| Deadly Performance   | 50 | Bardic Performance and 13 Other Bard Talents |
-| Virtuoso             | 50 | 14 Other Bard Talents |
+| Bardic Performance                       | 5  | - |
+| Jack of All Trades                       | 5  | - |
+| Bardic Performance: Cutting Words        | 5  | Bardic Performance |
+| Bardic Performance: Back from the Brink  | 15 | Bardic Performance and 4 Other Bard Talents |
+| Bardic Performance: Suggestion           | 15 | Bardic Performance and 4 Other Bard Talents |
+| Bardic Performance: Dirge of Doom        | 20 | Suggestion and 5 Other Bard Talents |
+| Greater Inspiration                      | 25 | Bardic Performance and 6 Other Bard Talents |
+| Bardic Performance: Inspire Greatness    | 25 | Bardic Performance and 6 Other Bard Talents |
+| Bardic Performance: Peerless Skill       | 35 | Jack of all Trades and 7 Other Bard Talents |
+| Bardic Performance: Into the Breach!     | 30 | Bardic Performance and 8 Other Bard Talents |
+| Bardic Performance: Soothing Performance | 30 | Bardic Performance and 8 Other Bard Talents |
+| Bardic Performance: Frightening Tune     | 65 | Dirge of Doom and 10 Other Bard Talents |
+| Bardic Performance: Inspire Heroics      | 40 | Inspire Greatness and 11 Other Bard Talents |
+| Bardic Performance: Mass Suggestion      | 80 | Suggestion and 12 Other Bard Talents |
+| Bardic Performance: Deadly Performance   | 50 | Bardic Performance and 13 Other Bard Talents |
+| Virtuoso                                 | 50 | 14 Other Bard Talents |
 
 ### Bardic Performance
 
@@ -82,6 +85,13 @@ You may reroll any ability check that you make that does not benefit from profic
 
 Once per round, you may choose a target within 60 feet that you can see. The target's next attack roll, skill check, or defence check suffers -1d. The target is immune if it can’t hear you or if it’s immune to being charmed.
 
+### Bardic Performance: Back from the Brink
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Bardic Performance and 4 Other Bard Talents
+At the start of your turn, a friendly target with 0 stamina within 30 feet can spend 1 recovery die.
+
 ### Bardic Performance: Suggestion
 
 <div style="margin-top:-10px;"></div>
@@ -97,6 +107,13 @@ Using this ability does not disrupt the fascinate effect. However, it does requi
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** Suggestion and 5 Other Bard Talents<br>**Actions:** 1
 You can use your performance to foster a sense of growing dread in his enemies, causing them to take become [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/). To be affected, an enemy must be within 30 feet and able to see and hear your performance. The effect persists for as long as the enemy is within 30 feet and you continue the performance. The performance cannot cause a creature to become frightened or panicked, even if the targets are already [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) from another effect. Dirge of doom is a mind-affecting fear effect that relies on audible and visual components.
+
+### Greater Inspiration
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Bardic Performance and 6 Other Bard Talents
+The target of your Bardic Performance: Bardic Inspiration now receives +2d on one ability check, attack roll, or defence check it makes within the next 10 minutes.
 
 ### Bardic Performance: Inspire Greatness
 
@@ -114,7 +131,14 @@ Inspire greatness is a mind-affecting ability that relies on audible and visual 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** Jack of all Trades and 7 Other Bard Talents
-When you make a skill check, you can spend a use of your bardic inspiration die to roll with +1d. You can choose to do so after you roll the die for the skill check, but before the GM tells you whether you succeed or fail.
+When you make a skill check, you can spend a use of your Bardic Performance to roll with +1d. You can choose to do so after you roll the die for the skill check, but before the GM tells you whether you succeed or fail.
+
+### Bardic Performance: Into the Breach!
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Bardic Performance and 8 Other Bard Talents
+A number of targets equal to your Charisma modifier can move half their movement speed at the start of their turn. This movement does not provoke opportunity attacks. Affected targets also ignore up to 4 levels of Exhaustion until the end of combat.
 
 ### Bardic Performance: Soothing Performance
 

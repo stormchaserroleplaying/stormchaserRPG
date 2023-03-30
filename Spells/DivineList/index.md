@@ -34,6 +34,7 @@ nav_order: 2
 * [Absorb Elements]()
 * [Animal Friendship]()
 * [Bane]()
+* [Bedrest]()
 * [Beast Bond]()
 * [Bless]()
 * [Ceremony]()

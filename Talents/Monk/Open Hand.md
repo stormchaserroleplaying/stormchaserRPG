@@ -11,10 +11,10 @@ Description
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Open Hand Technique | 5 | - | *Chi* |
-| Wholeness of Body | 10 | Open Hand Technique and 4 other Monk Talents | 5 |
-| Tranquility | 25 | Wholeness of Body and 7 other Monk Talents | 8 |
-| Quivering Palm | 50 | Tranquility and 10 other Monk Talents | 11 |
+| Open Hand Technique | 5 | *Chi* |
+| Wholeness of Body | 10 | Open Hand Technique and 4 other Monk Talents |
+| Tranquility | 25 | Wholeness of Body and 7 other Monk Talents |
+| Quivering Palm | 50 | Tranquility and 10 other Monk Talents |
 
 ### Open Hand Technique
 

@@ -20,6 +20,8 @@ grand_parent: Talents
 | Fiendish Vigor                 | 5  | - |
 | Gaze of Two Minds              | 5  | - |
 | Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
+| Hellish Rebuke                 | 5  | - |
+| Hex                            | 5  | - |
 | Improved Pact Weapon           | 5  | Pact of the Blade |
 | Investment of the Chain Master | 5  | Pact of the Chain |
 | Lance of Lethargy              | 5  | [Eldritch Blast]() Cantrip |
@@ -153,6 +155,28 @@ You can use 2 Actions to touch a willing humanoid and perceive through its sense
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Chain
 Whenever you regain stamina while your familiar is within 100 feet of you, treat any dice rolled to determine the stamina you regain as having rolled their maximum value for you.
+
+### Hellish Rebuke
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+In response to taking damage, you surround your attacker with hellish flames. As a free action, triggering when you take damage from a creature within 60 feet, you expend an amount of mana up to the maximum spell level that you know. Make a spell attack roll vs the Dexterity defence of the creature that damaged you. On a hit, it takes 2d10 fire damage on the 1st mana expended and additional 1d10 for each point of mana above the 1st. On a miss, it takes half as much damage.
+
+This ability triggers the first time that you take damage, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this ability, or not to use it at all.
+
+### Hex
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You expend 1 mana and place a curse on a creature that you can see within 90 feet. The curse lasts for 1 hour, or until you lose your concentration (as if you were concentrating on a spell). 
+
+Until the curse ends, you deal an extra 1d6 damage to the target whenever you hit it with an attack; the damage type is one appropriate to your patron. Also, choose one ability when you cast the spell. The target has -1d on ability checks made with the chosen ability.
+
+If the target drops to 0 stamina before this curse ends, you can use 1 Action on a subsequent turn of yours to curse a new creature.
+
+A [Remove Curse]() cast on the target ends this spell early.
 
 ### Improved Pact Weapon
 

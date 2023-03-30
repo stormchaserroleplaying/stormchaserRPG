@@ -67,7 +67,6 @@ nav_order: 1
 * [Fog Cloud]()
 * [Frost Finger]()
 * [Grease]()
-* [Hellish Rebuke]()
 * [Hideous Laughter]()
 * [Ice Knife]()
 * [Illusory Script]()

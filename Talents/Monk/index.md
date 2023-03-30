@@ -18,12 +18,12 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 | Stunning Strike | 5 | *Chi and 3 Other Monk Talents* |
 | Calm in the Storm | 15 | *Stunning Strike and 5 Other Monk Talents* |
 | Flying Crane | 20 | *Calm in the Storm* |
-| Purity of Body | 25 | *Flying Crane* |
-| Tongue of the Sun and Moon | 30 | *Purity of Body and 9 Other Monk Talents* |
-| Diamond Soul | 50 | *Tongue of the Sun and Moon* |
+| (Content Coming) | 25 | *Flying Crane* |
+| Tongue of the Sun and Moon | 30 | *Calm in the Storm and 9 Other Monk Talents* |
+| Diamond Soul | 50 | *Tongue of the Sun and Moon and 10 Other Monk Talents* |
 | Timeless Body | 65 | *Diamond Soul* |
 | Empty Body | 80 | *Timeless Body and 13 Other Monk Talents* |
-| Perfect Self | 100 | *Empty Body* |
+| Perfect Self | 100 | *Empty Body and 14 Other Monk Talents* |
 
 ### Martial Arts
 
@@ -52,8 +52,6 @@ Your training allows you to harness the mystic energy of chi. Your access to thi
 
 You can spend these points to fuel various chi features. You start knowing 7 such features: Deflect Missiles, Flurry of Blows, Focussed Aim, Patient Defense, Quickened Healing and Step of the Wind.
 
-If you spend 1 chi point or more as part of your action on your turn, then you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
-
 When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend at least 30 minutes of the rest meditating to regain your chi points.
 
 As long as you have 1 chi point remaining, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
@@ -66,25 +64,25 @@ Whenever you finish a short or long rest, you can touch one weapon, focus your c
 The chosen weapon must meet these criteria:
 * The weapon must be a simple or martial weapon.
 * You must be proficient with it.
-* It must lack the unwieldy and special properties.
+* It must lack the unwieldy and two-handed properties.
 
 #### Deflect Missiles
-If you catch a missile that was shot at you, you can spend 1 chi point to make a ranged attack as a free action with the weapon or piece of ammunition you just caught. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+If you catch a missile that was shot at you, you can spend 1 chi point to immediately make a ranged attack with the weapon or piece of ammunition you just caught. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
 
 #### Flurry of Blows
-Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+When you use the Strike action, you may spend 1 Chi point. If you do, your next Strike before the end of your turn does not suffer from multi-attack penalty.
 
 #### Focussed Aim
 When you miss with an attack roll, you can spend 2 chi points to reroll your attack roll, potentially turning the miss into a hit.
 
 #### Patient Defense
-You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+You can spend 1 ki point to take reduce the Dodge action to 1 Action.
 
 #### Quickened Healing
 As an action, you can spend 2 ki points and roll your recovery die. You regain an amount of stamina equal to the number rolled plus your wisdom bonus.
 
 #### Step of the Wind
-You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+You can spend 1 ki point to reduce the cost of the Disengage or Dash actions to 1 Action until the start of your next turn, and your jump distance is doubled for the turn.
 
 ### Stunning Strike
 #### *Cost:* 5 Character Points
@@ -105,34 +103,39 @@ When you fall, reduce any falling damage that you take by an amount equal to fiv
 
 Additionally, your unarmoured speed bonus increass to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
 
-### Purity of Body
+### (Content Coming)
 #### *Cost:* 25 Character Points
 #### *Prerequisite:* Flying Crane
-Content
 
 ### Tongue of the Sun and Moon
 #### *Cost:* 30 Character Points
-#### *Prerequisite:* Purity of Body and 9 Other Monk Talents
-Content
+#### *Prerequisite:* Calm in the Storm and 9 Other Monk Talents
+Your mastery of Chi flowing through you makes you immune to disease and poison.
+
+You can also tap the flow of Chi in all living things, gaining the ability to understand all spoken languages. Moreover, any creature that can understand a language can understand the meaning of what you say.
 
 ### Diamond Soul
 #### *Cost:* 50 Character Points
-#### *Prerequisite:* Tongue of the Sun and Moon
-Content
+#### *Prerequisite:* Tongue of the Sun and Moon and 10 Other Monk Talents
+You mastery of Chi grants +1d to all defenses.
+
+Additionally, whenever you make a check to end a condition you may spend 1 Chi point to reroll it and take the higher value.
 
 ### Timeless Body
 #### *Cost:* 65 Character Points
 #### *Prerequisite:* Diamond Soul
-Content
+your ki sustains you so that you suffer none of the frailty of old age, and you can't he aged magically. You can still die of old age, however. In addition, you no longer need food or water.  When you finish a short rest, you recover 1 level of Exhaustion.
 
 ### Empty Body
 #### *Cost:* 80 Character Points
 #### *Prerequisite:* Timeless Body and 13 Other Monk Talents
-Content
+You can spend 1 Action and 4 Chi points to become invisible for 1 minute. During that time, you also have resistance to all damage except force.
+
+Additionally, you can spend 8 Chi points to cast the [Astral Projection] spell, without needing material components. When you do so, you cannot take any other creatures with you.
 
 ### Perfect Self
 #### *Cost:* 100 Character Points
 #### *Prerequisite:* Empty Body
-Content
+Your Dexterity and Constitution scores increases by 4, and you maximum for these attributes increase to 24.
 
 ## Monk Talent Tree Branches

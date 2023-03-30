@@ -72,6 +72,7 @@ nav_order: 1
 * [Ice Knife]()
 * [Illusory Script]()
 * [Jump]()
+* [Lesser Foresight]()
 * [Longstrider]()
 * [Mage Armor]()
 * [Magic Missile]()

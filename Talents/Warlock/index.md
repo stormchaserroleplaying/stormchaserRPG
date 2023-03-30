@@ -19,7 +19,7 @@ When you take your first warlock talent, your spellcasting class feature for the
 Choose Charisma, Intelligence or Wisdom as your spellcasting ability for your arcane spells. You use use your chosen ability whenever an arcane spell refers to your spellcasting ability. You also use the modifier of your chosen ability when making an attack roll with an arcane spell.
 
 ### Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the mage spell list.
+You know two 1st-level spells of your choice from the [arcane spell list]().
 
 Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional arcane spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new arcane spells of 1st or 2nd level.
 

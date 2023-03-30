@@ -11,10 +11,10 @@ Shadow Monks follow a tradition that values stealth and subterfuge. These monks 
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Shadow Arts | 5 | - | - |
-| Shadow Step | 10 | Shadow Arts and 4 other Monk Talents | 5 |
-| Cloak of Shadows | 25 | Shadow Step and 7 other Monk Talents | 8 |
-| Opportunist | 50 | Cloak of Shadows and 10 other Monk Talents | 11 |
+| Shadow Arts | 5 | - |
+| Shadow Step | 10 | Shadow Arts and 4 other Monk Talents |
+| Cloak of Shadows | 25 | Shadow Step and 7 other Monk Talents |
+| Opportunist | 50 | Cloak of Shadows and 10 other Monk Talents |
 
 ### Shadow Arts
 

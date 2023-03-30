@@ -46,34 +46,34 @@ Thanks to your infernal heritage, you have superior vision in dark and dim condi
 You have resistance to fire damage.
 
 ### Infernal Legacy
-You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and can use the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation once per long rest as if cast using 1 mana. Charisma is your spellcasting ability for both these abilities.
+You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and can cast the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell once per long rest. Charisma is your spellcasting ability for these spells.
 
 ## Phenotypes
 Numerous tiefling bloodlines descended from a variety of different kinds of fiends have resulted in numerous tiefling phenotypes that exhibit various magical powers.
 
 ### First Circle	
-Tieflings who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Searing Smite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#searing-smite) spell.
+Tieflings who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Searing Smite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#searing-smite).
 
 ### Second Circle
-Tieflings who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Disguise Self]() spell.
+Tieflings who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self]().
 
 ### Third Circle
-Tieflings who's lineage can be traced to the third circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Floating Disc]() spell.
+Tieflings who's lineage can be traced to the third circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Floating Disc]().
 
 ### Fourth Circle
-Tieflings who's lineage can be traced to the fourth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Friends](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#friends) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Charm Person]() spell.
+Tieflings who's lineage can be traced to the fourth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Friends](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#friends) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Charm Person]().
 
 ### Fifth Circle
-Tieflings who's lineage can be traced to the fifth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Ray of Frost](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#ray-of-frost) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Winter's Ward](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#winters-ward) spell.
+Tieflings who's lineage can be traced to the fifth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Ray of Frost](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#ray-of-frost) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Winter's Ward](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#winters-ward).
 
 ### Sixth Circle
-Tieflings who's lineage can be traced to the sixth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Disguise Self]() spell.
+Tieflings who's lineage can be traced to the sixth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self]().
 
 ### Seventh Circle
-Tieflings who's lineage can be traced to the seventh circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Ray of Sickness]() spell.
+Tieflings who's lineage can be traced to the seventh circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Ray of Sickness]().
 
 ### Eighth Circle
-Tieflings who's lineage can be traced to the eighth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) Eldritch Invovation from their Infernal Legacy with the [Burning Hands]() spell.
+Tieflings who's lineage can be traced to the eighth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Burning Hands]().
 
 ## Size
 Tieflings are about the same size and build as others of their species.

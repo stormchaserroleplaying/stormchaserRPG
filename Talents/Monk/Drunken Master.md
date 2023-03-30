@@ -11,12 +11,12 @@ A drunken master often enjoys playing the fool to bring gladness to the desponde
 
 ## Talents
 
-| Talent | CP | Prerequisites | Bard Talents Required |
-|:------:|:--:|:-------------:|:---------------------:|
-| Drunken Technique | 5 | - | *Chi* |
-| Tipsy Sway | 10 | *Drunken Technique and 4 other Monk Talents* | 5 |
-| Drunkard's Luck | 25 | *Tipsy Sway and 7 other Monk Talents* | 8 |
-| Intoxicated Frenzy | 50 | *Drunkard's Luck and 10 other Monk Talents* | 11 |
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Drunken Technique | 5 | *Chi* |
+| Tipsy Sway | 10 | *Drunken Technique and 4 other Monk Talents* |
+| Drunkard's Luck | 25 | *Tipsy Sway and 7 other Monk Talents* |
+| Intoxicated Frenzy | 50 | *Drunkard's Luck and 10 other Monk Talents* |
 
 ### Drunken Technique
 

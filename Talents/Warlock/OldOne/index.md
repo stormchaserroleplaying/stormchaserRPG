@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
  
 # The Great Old One
-Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it.
+Your patron is a mysterious entity who's nature is utterly foreign to the fabric of reality. It might come from the a distant realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets that you have learned allow you to draw your magic from it.
 
 ## Branch Features
 
@@ -47,11 +47,11 @@ You can telepathically speak to any creature you can see within 30 feet of you. 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Awakened Mind<br>**Actions:** Free<br>**Trigger:** A creature makes a melee or ranged attack roll against you.
 *You learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself.*
 
-When a creature makes an attack roll against you, you can impose -1d on that roll. If the attack misses you, your next attack roll against the creature gains +1d, if you make it before the end of your next turn.
+When a creature makes an attack roll against you, you can add +1d to your defence. If the attack misses you, your next attack roll against the creature gains +1d, if you make it before the end of your next turn.
 
-This ability will trigger automatically against the first melee or ranged attack roll against you, unless you declare on your turn or when you roll initiative that it will trigger from a specific attack, or not to use it at all.
+This ability automatically triggers the first time that you are the target of a melee or ranged attack, with the following exceptions: on your turn, or when you roll initiative, you may you declare that your Entropic Ward will only be triggered when a specific creature targets you with an attack, or not to use it at all.
 
-Once you use this feature, you can’t use it again until you finish a short or long rest.
+Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ###  Thought Shield
 
@@ -60,7 +60,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Entropic Ward
 *Your patron causes your mind to appear muddied to others.*
 
-Your thoughts can’t be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
+Your thoughts can’t be read by telepathy, or other means, unless you allow it. You also have resistance to psychic damage and, whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
 
 ### Create Thrall
 
@@ -69,6 +69,6 @@ Your thoughts can’t be read by telepathy or other means unless you allow it. Y
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Thought Shield<br>**Actions:** 2
 *You gain the ability to infect a humanoid’s mind with the alien magic of your patron.*
 
-You touch an [incapacitated]() humanoid, that then becomes [charmed]() by you until a [Remove Curse]() spell is cast on it, the [charmed]() condition is removed from it, or you use this ability again.
+You touch an [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) humanoid, that then becomes [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until a [Remove Curse]() spell is cast on it, the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition is removed from it, or you use this ability again.
 
-You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature, as long as the two of you are on the same plane of existence.

@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
  
 # The Fiend
-You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz’Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
+You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords and archdevils.
 
 ## Branch Features
 
@@ -36,16 +36,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-*Your patron rewards you with vigor when you send a soul to the Hells.*
+*Your patron rewards you with vigour when you send a soul to hell.*
 
-When you reduce a hostile creature to 0 hit points, you gain temporary stamina equal to your spellcasting attribute modifier plus your maximum spell level (minimum of 1).
+When you reduce a hostile creature to 0 Stamina, you gain temporary Stamina equal to your spellcasting attribute modifier plus your maximum spell level.
 
 ### Dark One's Own Luck
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Dark One's Blessing
-*You call on your patron to alter fate in your favor.*
+*You call on your patron to alter fate in your favour.*
 
 When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d, or not to use it at all.
 
@@ -65,7 +65,7 @@ You can choose one damage type when you finish a short or long rest. You gain re
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Fiendish Resilience
-*You damn those whom you strike to briefly endure the Hells.*
+*You damn those whom you strike to briefly endure hell.*
 
 When you hit a creature with an attack, you can instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
 

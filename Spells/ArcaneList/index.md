@@ -44,8 +44,10 @@ nav_order: 1
 
 ## Level 1
 * [Absorb Elements]()
+* [Agitate]()
 * [Alarm]()
 * [Alien Arms]()
+* [Ant Haul]()
 * [Burning Hands]()
 * [Catapult]()
 * [Cause Fear]()
@@ -66,6 +68,7 @@ nav_order: 1
 * [Floating Disk]()
 * [Fog Cloud]()
 * [Frost Finger]()
+* [Hidden Item]()
 * [Hideous Laughter]()
 * [Ice Knife]()
 * [Illusory Script]()

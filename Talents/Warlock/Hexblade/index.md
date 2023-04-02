@@ -5,9 +5,7 @@ grand_parent: Talents
 ---
  
 # The Hexblade
-You have made your pact with a mysterious entity from Annwn — a force that manifests in sentient magic weapons carved from the stuff of shadow. The force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in this shadowy realm. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.
-
-Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.
+You have made your pact with a mysterious entity of chaos, which manifests as a sentient, black magic weapon. Such weapons can offer power to warlocks who form pacts with them. Many hexblade warlocks wield the weapons themselves, while others forgo such arms, content to weave the dark magic they the entity provides their spellcasting.
 
 ## Branch Features
 

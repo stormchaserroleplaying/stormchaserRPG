@@ -136,7 +136,7 @@ Once on each of your turns when you hit a creature with your [Eldritch Blast](),
 #### **Cost:** 5 Character Points
 You can read all writing.
 
-### Fiendish Vigor
+### Fiendish Vigour
 
 <div style="margin-top:-10px;"></div>
 
@@ -148,21 +148,21 @@ You can cast [False Life]() on yourself at will as a 1st-level spell, without ex
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can use 2 Actions to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use 2 Actions on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use 2 Actions to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use 2 Actions on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature and you are blinded and deafened to your own surroundings.
 
 ### Gift of the Ever-Living Ones
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Chain
-Whenever you regain stamina while your familiar is within 100 feet of you, treat any dice rolled to determine the stamina you regain as having rolled their maximum value for you.
+Whenever you regain Stamina while your familiar is within 100 feet of you, treat any dice rolled to determine the Stamina that you regain as having rolled their maximum value for you.
 
 ### Hellish Rebuke
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You learn the [Hellish Rebuke]() spell. This spell does not count against the number of spells known.
+You learn the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell. This spell does not count against your number of spells known.
 
 ### Hex
 
@@ -182,11 +182,11 @@ Once you use this invocation you can't do so again until you finish a short rest
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Blade 
-You can use any weapon you summon with your Pact of the Blade ability as a spellcasting focus for your warlock spells.
+You can use any weapon that you summon with your Pact of the Blade ability as a spellcasting focus for your warlock spells.
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.
+Finally, the weapon that you conjure can be a bow or crossbow.
 
 ### Investment of the Chain Master
 

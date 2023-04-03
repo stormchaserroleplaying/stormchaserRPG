@@ -6,7 +6,7 @@ grand_parent: Talents
 
 ## Eldritch Invocations 
 | Invocation | CP | Prerequisites |
-|:-------------|:--:|:--------------|
+|:-----------|:--:|:--------------|
 | Armor of Shadows               | 5  | - | 
 | Aspect of the Moon             | 5  | Pact of the Tome | 
 | Beast Speech                   | 5  | - |
@@ -69,7 +69,7 @@ grand_parent: Talents
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can cast [Mage Armor]() on yourself at will, without expending mana or material components.
+You can cast [Mage Armour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#mage-armour) on yourself at will, without expending mana or material components.
 
 ### Aspect of the Moon
 

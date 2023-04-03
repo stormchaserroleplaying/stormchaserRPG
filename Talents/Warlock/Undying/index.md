@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
 
 # The Undying
-Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although, like all power, such a prize comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Powerful liches, vampires and mummmies are among those who seek to share their gift of unending life.
+Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although, like all power, such a prize comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death.
 
 ## Branch Features
 

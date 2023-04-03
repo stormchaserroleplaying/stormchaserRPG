@@ -77,6 +77,7 @@ You can cast [Mage Armour](https://stormchaserroleplaying.com/stormchaserRPG/Spe
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Tome 
 You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+
 ### Beast Speech
 
 <div style="margin-top:-10px;"></div>
@@ -89,7 +90,7 @@ You can cast [Speak with Animals]() at will, without expending mana.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Tome 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
+You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag. The spells appear in the book and don’t count against the number of spells that you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
@@ -98,14 +99,14 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+You have [Greater Darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision).
 
 ### Eldritch Mind
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You have advantage on Constitution checks that you make to maintain your concentration on a spell.
+You have +1d to maintain your concentration.
 
 ### Eldritch Sight
 

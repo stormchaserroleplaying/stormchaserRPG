@@ -197,7 +197,7 @@ When you cast [Find Familiar](), you infuse the summoned familiar with a measure
 * Using 1 Action, you can command the familiar to take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action.
 * The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to non-magical attacks.
 * If the familiar forces a creature to make a defence check, it uses your conjuration spell skill as the DC.
-* When the familiar takes damage, you can use a free action to grant it resistance against that damage. You can grant this resistance once per round. When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this action. Otherwise, this ability will occur on the first instance of your familiar taking damage.
+* When the familiar takes damage, you can use a free action to grant it resistance against that damage. This ability automatically triggers once per round the first time that the familiar takes damage, with the following exceptions: on your turn, or when you roll initiative, you may declare that this ability will only be triggered by a specific source of damage, or not to use it at all.
 
 ### Lance of Lethargy
 
@@ -225,9 +225,9 @@ You can cast [Silent Image]() at will, without expending mana or material compon
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Talisman 
-When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use a free action to deal psychic damage to the attacker equal to your spellcasting attribute modifier and push it up to 10 feet away from the talisman’s wearer.
+When the wearer of your talisman is hit by an attacker that you can see within 30 feet of you, you can use a free action to deal psychic damage to the attacker equal to your spellcasting attribute modifier and push it up to 10 feet away from the talisman’s wearer.
 
-This ability triggers once per round and automatically on the first attack to the wearer of your talisman each round, unless you declare on your turn or when you roll initiative that it will trigger from attacks by a specified creature, or not to use it at all. 
+This ability automatically triggers once per round the first time that the wearer of your talisman is hit, with the following exceptions: on your turn, or when you roll initiative, you may declare that your Rebuke of the Talisman will only be triggered when a specific creature attacks the wearer, or not to use it at all.
 
 ### Repelling Blast
 
@@ -241,7 +241,7 @@ When you hit a creature with [Eldritch Blast](), you can push the creature up to
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can cast [Bane]() once as a 1st level spell and expending 1 mana. You can’t do so again until you finish a long rest.
+You can cast [Bane]() at will, without expending mana.
 
 ### Voice of the Chain Master
 
@@ -255,9 +255,9 @@ You can communicate telepathically with your familiar and perceive through your 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
-Using 1 Action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it (no action required).
+An an action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you’re incapacitated or you dismiss it (no action required).
 
-The aura grants you +1d on [Intimidation]() checks but -1d on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your spellcasting attribute modifier (minimum of 0 damage).
+The aura grants you +1d on [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) checks but -1d on all other Charisma-based checks. Any other creature that starts its turn in the aura takes poison damage equal to your spellcasting attribute modifier.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
@@ -266,29 +266,29 @@ Once you use this invocation, you can’t use it again until you finish a short 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade
-Once per turn when you hit a creature with your pact weapon, you can expend mana to deal an extra 1d8 energy damage to the target, plus another 1d8 per mana expended, and you can knock the target prone if it is Huge or smaller.
+Once per turn, when you hit a creature with your pact weapon, you can expend mana to deal an extra 1d8 energy damage to the target, plus another 1d8 per mana expended, and you can knock the target prone if it is Huge or smaller.
 
 ### Far Scribe
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute modifier.
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute modifier.
 
 You can cast the [Sending]() spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
-Using 2 Actions, you can magically erase a name on the page by touching it.
+Using 2 actions, you can magically erase a name on the page by touching it.
 
 ### Frigid Tomb
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
-As a free action when you take damage, you can entomb yourself in ice. You gain temporary stamina equal to 5 times your maximum spell level, which takes as much of the triggering damage as possible. If any temporary stamina remain after the the triggering damage, you immediately gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated as you are now encased in ice. 
+As a free action when you take damage, you can entomb yourself in ice. You gain temporary Stamina equal to 5 times your maximum spell level, which takes as much of the triggering damage as possible. If any temporary Stamina remain after the the triggering damage, you immediately gain vulnerability to fire damage, your speed is reduced to 0 and you are [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) as you are now encased in ice. 
 
-These effects end once all temporary stamina is expended. Otherwise, it ends at the end of your next turn, along with any remaining temporary stamina, when all the ice melts away. 
+These effects end once all temporary Stamina is expended. Otherwise, it ends at the end of your next turn, along with any remaining temporary Stamina, when all the ice melts away. 
 
-When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this ability or to not use it at all. Otherwise, this ability will trigger the first instance of you taking damage.
+This invocation automatically triggers once per round the first time that you take damage, with the following exceptions: on your turn, or when you roll initiative, you may declare that your Frigid Tomb will only be triggered when a specific creature attacks you, or not to use it at all.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
@@ -306,14 +306,14 @@ You can also cast [Water Breathing]() once without expending mana. You regain th
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spellsl, [Hex]() spell or a warlock feature that curses
-Using 1 Action, you cause a psychic disturbance around the target cursed by your [Hex]() spell or by a warlock abilitiy of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your spellcasting attribute modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you.
+Using 1 Action, you cause a psychic disturbance around the target cursed by your [Hex]() spell or by a warlock abilitiy of yours, such as Hexblade’s Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your spellcasting attribute modifier. To use this invocation, you must be able to see the cursed target and it must be within 30 feet of you.
 
 ### Mire the Mind
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells
-You can cast [Slow]() once expending 3 mana. You can’t do so again until you finish a long rest.
+You can cast [Slow]() once, expending 3 mana. You can’t do so again until you finish a long rest.
 
 ### One with Shadows
 
@@ -334,7 +334,7 @@ You can cast [Bestow Curse]() once as a 3rd level spell and expending 3 mana. Yo
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade 
-You use the Strike action twice with your pact weapon on your turn without the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
+You can use the Strike action twice with your pact weapon on your turn without suffering the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
 
 ### Undying Servitude
 
@@ -362,7 +362,7 @@ You expend 4 mana and cast [Confusion]() as a 4th level spell. You can’t do so
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells
-Using 2 Actions, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have low-light visions, or, if you already have low-light vision, you have darkvision. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
+Using 2 actions, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
 
@@ -371,14 +371,14 @@ Once you use this invocation, you can’t use it again until you finish a short 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells and Pact of the Talisman 
-When the wearer of your talisman fails a defence check, they can roll an additional d20, potentially turning the check into a success. Additionally, indirect spell attacks agasinst the wearer of your talisman have -1d. This benefit can be used a number of times equal to your spellcasting attribute modifier, and all expended uses are restored when you finish a long rest.
+The wearer of your talisman has +1d to their defences vs indirect spell attacks. This benefit can be used a number of times equal to your spellcasting attribute modifier and all expended uses are restored when you finish a long rest.
 
 ### Relentless Hex
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisites:** 4th Level Spells, [Hex]() spell or a warlock feature that curses
-Your curse creates a temporary bond between you and your target. Using 1 Action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
+Your curse creates a temporary bond between you and your target. As an action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell, or by another warlock feature of yours, such as Hexblade’s Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target.
 
 ### Sculptor of Flesh
 
@@ -406,11 +406,11 @@ You can cast [Levitate]() on yourself at will, without expending mana or materia
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 Actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
+A new page appears in your Book of Shadows. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
 
-When any creature whose name is on the page is reduced to 0 stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
+When any creature whose name is on the page is reduced to 0 Stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
 
-Using 2 Actions, you can magically erase a name on the page by touching it.
+Using 2 actions, you can magically erase a name on the page by touching it.
 
 ### Minions of Chaos
 
@@ -438,14 +438,14 @@ You can cast [Speak with Dead]() at will, without expending mana.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Talisman
-While someone else is wearing your talisman, you can use 2 Actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 Actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting attribute modifier, and all expended uses are restored when you finish a long rest.
+While someone else is wearing your talisman, you can use 2 actions to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using 2 actions to teleport to you. The teleportation can be used a number of times equal to your spellcasting attribute modifier and all expended uses are restored when you finish a long rest.
 
 ### Lifedrinker
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>**Prerequisites:** 6th Level Spells and Pact of the Blade 
-When you hit a creature with your pact weapon, you gain temporary stamina equal to your spellcasting attribute modifier (minimum 1).
+When you hit a creature with your pact weapon, you gain temporary Stamina equal to your spellcasting attribute modifier.
 
 ### Shroud of Shadow
 

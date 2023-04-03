@@ -175,8 +175,6 @@ Until the curse ends, you deal an extra 1d6 damage to the target whenever you hi
 
 If the target drops to 0 stamina before this curse ends, you can use 1 Action on a subsequent turn of yours to curse a new creature within 90 feet of you.
 
-Once you use this invocation you can't do so again until you finish a short rest.
-
 ### Improved Pact Weapon
 
 <div style="margin-top:-10px;"></div>
@@ -186,7 +184,7 @@ You can use any weapon that you summon with your Pact of the Blade ability as a 
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon that you conjure can be a bow or crossbow.
+Finally, the weapon that you conjure can be a ranged weapon.
 
 ### Investment of the Chain Master
 
@@ -196,9 +194,9 @@ Finally, the weapon that you conjure can be a bow or crossbow.
 When you cast [Find Familiar](), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
 
 * The familiar gains either a flying speed or a swimming speed (your choice) equal to its walking speed.
-* Using 1 Action, you can command the familiar to take the Strike action.
+* Using 1 Action, you can command the familiar to take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action.
 * The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to non-magical attacks.
-* If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+* If the familiar forces a creature to make a defence check, it uses your conjuration spell skill as the DC.
 * When the familiar takes damage, you can use a free action to grant it resistance against that damage. You can grant this resistance once per round. When you roll initiative or at the end of your turn, you need to declare what source of damage will trigger this action. Otherwise, this ability will occur on the first instance of your familiar taking damage.
 
 ### Lance of Lethargy

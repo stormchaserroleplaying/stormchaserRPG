@@ -1,7 +1,7 @@
 ---
 title: Resurrection Rules
 parent: Spells
-nav_order: 14
+nav_order: 13
 ---
 
 # Resurrection Rules

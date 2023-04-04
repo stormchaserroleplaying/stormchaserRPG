@@ -14,7 +14,7 @@ Entities of the deep that might empower a warlock include krakens, ancient water
 ## Branch Features
 
 ### Bonus Spells
-You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. When you learn this spell, choose the type of damage it will do: cold, electric or sonic.
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. The damage type for this spell is cold.
 
 You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 

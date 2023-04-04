@@ -25,24 +25,6 @@ Each time that you gain the ability to cast spells of a higher spell level, you 
 
 Additionally, whenever you gain a warlock talent, you can choose one of the arcane spells that you know and replace it with another spell from the arcane spell list, which must also be of a level that you can cast.
 
-## Warlock Feature
-
-### Eldritch Blast
-
-You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. The type of damage it does is determined by your patron.
-
-| Patron | Damage Type |
-|:-------|:------------|
-| Archfey       | Psychic |
-| Celestial     | Sacred |
-| Djinn         | Corrosive, Sonic, Fire or Cold (determined by type of Djinn) |
-| Fathomless    | Cold or Sonic |
-| Fiend         | Profane or Fire |
-| Hexblade      | Energy |
-| Great Old One | Psychic |
-| Undead        | Decay |
-| Undying       | Decay |
-
 ## Core Talents
 
 | Talent | CP | Prerequisites |

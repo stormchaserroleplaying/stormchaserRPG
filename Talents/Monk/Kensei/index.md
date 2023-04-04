@@ -1,5 +1,5 @@
 ---
-title: Branch
+title: Kensei
 parent: Monk Talent Tree
 grand_parent: Talents
 ---

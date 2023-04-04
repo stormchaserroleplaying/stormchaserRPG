@@ -29,9 +29,9 @@ Additionally, whenever you gain a warlock talent, you can choose one of the arca
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Eldritch Invocations  | 5   | 1 Warlock Talent |
-| Pact Boon             | 5   | Eldritch Invocations |
-| Eldritch Master       | 100 | 10th Level Spells and 6 Warlock Talents |
+| Eldritch Invocations | 5   | 1 Warlock Talent |
+| Pact Boon            | 5   | Eldritch Invocations |
+| Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 
 ### Eldritch Invocations
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Talent
@@ -69,8 +69,8 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
-### Eldritch Master
+### Unchained
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Warlock Talents
-Content
+You have grown beyond mortal limits. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Warlock Talent Tree Branches

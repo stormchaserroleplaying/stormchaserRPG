@@ -10,6 +10,8 @@ Your patron is a mysterious entity who's nature is utterly foreign to the fabric
 ## Branch Features
 
 ### Bonus Spells
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. The damage type for this spell is psychic.
+
 You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.

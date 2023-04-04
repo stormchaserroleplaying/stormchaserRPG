@@ -10,7 +10,7 @@ Death holds no sway over your patron, who has unlocked the secrets of everlastin
 ## Branch Features
 
 ### Bonus Spells
-You learn the [Spare the Dying](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Restoration/#spare-the-dying) cantrip, which is an arcane cantrip for you and does not count against your total number of cantrips.
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. The damage type for this spell is energy. You also learn the [Spare the Dying](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Restoration/#spare-the-dying). These cantrips don't count against the number of cantrips known.
 
 You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 

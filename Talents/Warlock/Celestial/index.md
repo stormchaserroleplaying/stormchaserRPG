@@ -12,7 +12,7 @@ Being connected to such power can cause changes in your behaviour and beliefs. Y
 ## Branch Features
 
 ### Bonus Spells
-You learn the [Light](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#light) and [Sacred Flame](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#sacred-flame) cantrips. These count as arcane cantrips for you. However, they don’t count against your number of cantrips known.
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. The damage type for this spell is sacred. You also learn the the [Light](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#light) cantrip. These count as arcane cantrips for you. However, they don’t count against your number of cantrips known.
 
 Additionally, you gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 

@@ -1,5 +1,5 @@
 ---
-title: Branch
+title: Open Hand
 parent: Monk Talent Tree
 grand_parent: Talents
 ---

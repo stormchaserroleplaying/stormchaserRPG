@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Rage Powers
-Any barbarian who meets a power's prerequisites can select and use a rage power. Totem rage powersgrant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+Any barbarian who meets a power's prerequisites can select and use a rage power. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
 
 ## Ancestral Guidance
 

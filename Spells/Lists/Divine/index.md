@@ -1,8 +1,9 @@
 ---
-Title: Divine Spell List
-parent: Spells
-nav_order: 2
+title: Divine Spell List
+parent: Spell Lists
+grand_parent: Spells
 ---
+
 # Divine Spell List
 
 ## Cantrips

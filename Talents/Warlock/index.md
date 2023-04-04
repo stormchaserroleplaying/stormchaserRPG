@@ -25,13 +25,31 @@ Each time that you gain the ability to cast spells of a higher spell level, you 
 
 Additionally, whenever you gain a warlock talent, you can choose one of the arcane spells that you know and replace it with another spell from the arcane spell list, which must also be of a level that you can cast.
 
+## Warlock Feature
+
+### Eldritch Blast
+
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. The type of damage it does is determined by your patron.
+
+| Patron | Damage Type |
+|:-------|:------------|
+| Archfey       | Psychic |
+| Celestial     | Sacred |
+| Djinn         | Corrosive, Sonic, Fire or Cold (determined by type of Djinn) |
+| Fathomless    | Cold or Sonic |
+| Fiend         | Profane or Fire |
+| Hexblade      | Energy |
+| Great Old One | Psychic |
+| Undead        | Necrotic |
+| Undying       | Necrotic |
+
 ## Core Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Eldritch Invocations  | 5   | 1 Warlock Talent |
-| Pact Boon             | 5   | Eldritch Invocations |
-| Eldritch Master       | 100 | 10th Level Spells and 6 Warlock Talents |
+| Eldritch Invocations | 5   | 1 Warlock Talent |
+| Pact Boon            | 5   | Eldritch Invocations |
+| Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 
 ### Eldritch Invocations
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Talent
@@ -69,8 +87,8 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
-### Eldritch Master
+### Unchained
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Warlock Talents
-Content
+You have grown beyond mortal limits. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Warlock Talent Tree Branches

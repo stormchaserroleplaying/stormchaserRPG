@@ -1,8 +1,9 @@
 ---
-Title: Arcane Spell List
-parent: Spells
-nav_order: 1
+title: Arcane Spell List
+parent: Spell Lists
+grand_parent: Spells
 ---
+
 # Arcane Spell List
 
 ## Cantrips

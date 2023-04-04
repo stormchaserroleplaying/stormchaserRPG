@@ -5,9 +5,10 @@ grand_parent: Talents
 ---
 
 ## Eldritch Invocations 
+
 | Invocation | CP | Prerequisites |
 |:-----------|:--:|:--------------|
-| Armor of Shadows               | 5  | - | 
+| Armour of Shadows               | 5  | - | 
 | Aspect of the Moon             | 5  | Pact of the Tome | 
 | Beast Speech                   | 5  | - |
 | Book of Ancient Secrets        | 5  | Pact of the Tome |
@@ -64,7 +65,7 @@ grand_parent: Talents
 
 ## Eldritch Invocations Desriptions 
 
-### Armor of Shadows
+### Armour of Shadows
 
 <div style="margin-top:-10px;"></div>
 

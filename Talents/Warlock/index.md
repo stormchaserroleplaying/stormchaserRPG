@@ -40,8 +40,8 @@ You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG
 | Fiend         | Profane or Fire |
 | Hexblade      | Energy |
 | Great Old One | Psychic |
-| Undead        | Necrotic |
-| Undying       | Necrotic |
+| Undead        | Decay |
+| Undying       | Decay |
 
 ## Core Talents
 

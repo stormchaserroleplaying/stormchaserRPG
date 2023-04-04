@@ -12,8 +12,20 @@ Any bard who meets a performance's prerequisites can select and use a bardic per
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Bardic Performance and 4 Other Bard Talents
+#### **Cost:** 15 Character Points
 At the start of your turn, a friendly target with 0 Stamina within 30 feet can spend 1 recovery die.
+
+## Bardic Inspiration
+*You can inspire others through stirring words or music.*
+
+To do so, choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d20.
+
+Once within the next 10 minutes, the creature can roll the die as +1d on one ability check, attack roll, or defence check it makes. The creature can wait until after it rolls the original die before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+
+## Countersong
+*You gain the ability to use musical notes or words of power to disrupt mind-influencing effects.*
+
+You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have +1d to your defences vs being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
 
 ## Cutting Words
 
@@ -39,6 +51,15 @@ Deadly performance is a mind-effecting death effect that relies on audible and v
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Suggestion<br>**Actions:** 1
 You can use your performance to foster a sense of growing dread in his enemies, causing them to take become [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/). To be affected, an enemy must be within 30 feet and able to see and hear your performance. The effect persists for as long as the enemy is within 30 feet and you continue the performance. The performance cannot cause a creature to become frightened or panicked, even if the targets are already [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) from another effect. Dirge of doom is a mind-affecting fear effect that relies on audible and visual components.
+
+## Fascinate
+*You use your performance to cause one or more creatures to become fascinated with you.*
+
+Each creature to be fascinated must be within 90 feet, able to see and hear you, and capable of paying attention to you. You bard must also be able to see the creatures affected. The distraction of a nearby combat or other dangers prevents the ability from working. You can target a number of creature's equal to your Charisma modifier with this ability.
+
+Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the Wisdom defence of each creatrue targetted. On a miss, you cannot attempt to fascinate that creature again for 24 hours. On a hit, the creature sits quietly and observes the performance for as long as you continue to maintain it. While fascinated, a target has –1d penalty on skill checks, such as Perception checks.
+
+Any potential threat to the target allows the target to make a Wisdom defence check against the effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a weapon at the target, automatically breaks the effect. Fascinate is a mind-affecting charm and relies on audible and visual components in order to function.
 
 ## Frightening Tune
 
@@ -84,6 +105,11 @@ A number of targets equal to your Charisma modifier can move half their speed at
 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** Jack of all Trades
 When you make a skill check, you can spend a use of your Bardic Performance to roll with +1d. You can choose to do so after you roll the die for the skill check, but before the GM tells you whether you succeed or fail.
+
+## Song of Rest
+*You can use soothing music or oration to help revitalise your wounded allies.*
+
+At the end of the short rest, you and any friendly creatures who can hear your performance regain stamina equal to the result of one Hit Die plus their Constitution modifier.
 
 ## Soothing Performance
 

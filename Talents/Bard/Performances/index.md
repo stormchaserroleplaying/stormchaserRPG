@@ -8,13 +8,6 @@ nav_order: 1
 # Bardic Performances
 Any bard who meets a performance's prerequisites can select and use a bardic performance.
 
-## Back from the Brink
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 15 Character Points
-At the start of your turn, a friendly target with 0 Stamina within 30 feet can spend 1 recovery die.
-
 ## Bardic Inspiration
 *You can inspire others through stirring words or music.*
 
@@ -96,8 +89,8 @@ Inspire heroics is a mind-affecting ability that relies on audible and visual co
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points
-A number of targets equal to your Charisma modifier can move half their speed at the start of their turn. This movement does not provoke opportunity attacks. Affected targets also ignore up to 4 levels of Exhaustion until the end of combat.
+#### **Cost:** 15 Character Points
+Choose a number of targets equal to your Charisma modifier. At the start of its next turn, each of these creatures can move its speed without provoking an attack of opportunity.
 
 ## Peerless Skill
 
@@ -105,6 +98,13 @@ A number of targets equal to your Charisma modifier can move half their speed at
 
 #### **Cost:** 35 Character Points<br>**Prerequisite:** Jack of all Trades
 When you make a skill check, you can spend a use of your Bardic Performance to roll with +1d. You can choose to do so after you roll the die for the skill check, but before the GM tells you whether you succeed or fail.
+
+## Rise and Fight
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 50 Character Points
+A single dying creature within 30 feet may roll its recovery die and regain that amount of Stamina. Once a creature has benefited from this battle hymn, it can’t benefit from it again until it finishes a long rest.
 
 ## Song of Rest
 *You can use soothing music or oration to help revitalise your wounded allies.*
@@ -137,3 +137,10 @@ Using this ability does not disrupt the fascinate effect. However, it does requi
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Suggestion
 This ability functions just like suggestion, but allows you to make a suggestion simultaneously to any number of creatures that you have already fascinated. Mass suggestion is a mind-affecting, language dependent charm ability that relies on audible components.
+
+## Willful Serenade
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Soothing Performance
+Choose a target within 30 feet. Until the end of combat, the creature may ignore up to 4 levels of [Exhaustion](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Exhaustion/).

@@ -20,6 +20,8 @@ Choose your patron’s affinity or determine it randomly, using the following ta
 ## Branch Features
 
 ### Bonus Spells
+You learn the [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast) cantrip. It does not count against the number of arcane cantrips that you know. The type of this damage is determined by your patron's affinity: corrosive (earth), sonic (air), fire (fire), or cold (water).
+
 Once you can cast spells of that level, you gain the below djinn spells as bonus spells, along with the spells associated with your patron’s affinity. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.

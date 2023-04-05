@@ -48,7 +48,7 @@ You may reroll any ability check that you make that does not benefit from profic
 #### **Cost:** 5 Character Points<br>**Actions:** 2
 *You unleash a string of insults.*
 
-Choose a creature that can hear you and make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defence. On a hit, the creature takes 1d4 psychic damage and has disadvantage on the next attack roll that it makes before the end of its next turn.
+Choose a creature that can hear you and make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defence. On a hit, the creature takes 1d4 psychic damage and has -1d on the next attack roll that it makes before the end of its next turn.
 
 ### Vicious Mockery II
 

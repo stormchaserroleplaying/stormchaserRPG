@@ -20,7 +20,7 @@ Once within the next 10 minutes, the creature can roll the die as +1d on one abi
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Dissonant Whispers
-*Your words cut deep into the hearts of the bold, exposing a gap in the armour of their courage.*
+*The town shunned the Bard who helped rid the town of plague rats. In the weeks following, a nightly procession left the city, heralded by a haunting aria.*
 
 Choose a number of targets up to your Charisma modifier. A target is unaffected if it can't be charmed. Make a Performance check against the target's Wisdom defense. Until the Performance ends, you can use one action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) in that direction on its next turn. It can use other actions before it moves. After moving in this way, it can a Wisdom check against your Charisma defense to try to end the effect. 
 

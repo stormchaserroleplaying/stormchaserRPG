@@ -1,26 +1,42 @@
 ---
-title: Illusion
+title: Necromancy
 parent: Cantrips
 grand_parent: Spells
 ---
 
-# Illusion
+# Necromancy
 
-## Minor Illusion
-*Illusion Cantrip*<br>
-*Casting Time:* 1 Action<br>
+## Chill Touch
+*Necromancy Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 Feet<br>
+**Components:** V, S<br>
+**Duration:** 1 round
+
+*You create a ghostly, skeletal hand that grasps onto a creature afflicting it with a chill from the grave.*
+
+Make a ranged spell attack against a target you can see within range. On a hit, the target takes 1d8 + your spellcasting ability modifier decay damage, and it can’t regain Stamina until the start of your next turn. Until then, the hand clings to the target.
+
+If you hit an undead target, it also has -1d on attack rolls against you until the end of your next turn.
+
+## Sapping Sting
+*Necromancy Cantrip*<br>
+**Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
-**Components:** S, M *(A bit of fleece.)*<br>
-**Duration:** 1 Minute
+**Components:** V, S<br>
+**Duration:** Instantaneous
 
-*You create a small illusory object or sound.*
+*You sap the vitality from a creature causing it to drop to its knees as it is wracked with an evil energy.*
 
-You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it using an action or cast this spell again.
+Make a spell attack roll vs the Constitution defence of a target that you can see within range. On a hit, the target takes 1d4 + your spellcasting ability modifier profane damage and falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
-If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+## Toll the Dead
+*Necromancy Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** V, S<br>
+**Duration:** Instantaneous
 
-If you create an image of an object (such as a chair, muddy footprints, or a small chest) it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+*You cause a creature to hear the sound of dolorous bells calling them to the grave.*
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your illusion spell skill. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
-
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance is increased to 60 feet if used to create a sound, and the maximum size of the illusion increases to 10 feet for image of an object create.
+Make a spell attack roll vs the Wisdom defence of a taraget within range. On a hit, the target takes 1d8 + your spellcasting ability modifier profane damage. If the target is missing any of its hit points, it instead takes 1d12 + your spellcasting ability modifier profane damage.

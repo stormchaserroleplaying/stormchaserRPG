@@ -5,7 +5,7 @@ has_children: true
 nav_order: 7
 ---
 
-# Monk Talent Tree (Warrior)
+# Monk Talent Tree ([Warrior](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Warrior/))
 For the truly exemplary, martial skill transcends the battlefield. It is a lifestyle, a doctrine, a state of mind. These warrior-artists search out methods of battle beyond swords and shields, finding weapons within themselves just as capable of crippling or killing as any blade. These monks (so called since they adhere to ancient philosophies and strict martial disciplines) elevate their bodies to become weapons of war, from battle-minded ascetics to self-taught brawlers. Monks tread the path of discipline, and those with the will to endure that path discover within themselves not what they are, but what they are meant to be.
 
 ## Core Talents
@@ -14,16 +14,16 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 |:-------|:--:|:--------------|
 | Martial Arts | 5 | - |
 | Dance of the Crane | 5 | - |
-| Chi | 5 | *2 Monk Talents* |
-| Stunning Strike | 5 | *Chi and 3 Other Monk Talents* |
-| Calm in the Storm | 15 | *Stunning Strike and 5 Other Monk Talents* |
-| Flying Crane | 20 | *Calm in the Storm* |
-| (Content Coming) | 25 | *Flying Crane* |
-| Tongue of the Sun and Moon | 30 | *Calm in the Storm and 9 Other Monk Talents* |
-| Diamond Soul | 50 | *Tongue of the Sun and Moon and 10 Other Monk Talents* |
-| Timeless Body | 65 | *Diamond Soul* |
-| Empty Body | 80 | *Timeless Body and 13 Other Monk Talents* |
-| Perfect Self | 100 | *Empty Body and 14 Other Monk Talents* |
+| Chi | 5 | 2 Monk Talents |
+| Stunning Strike | 5 | Chi and 3 Other Monk Talents |
+| Calm in the Storm | 15 | Stunning Strike and 5 Other Monk Talents |
+| Flying Crane | 20 | Calm in the Storm |
+| Purity of Body | 25 | Flying Crane |
+| Tongue of the Sun and Moon | 30 | Purity of Body and 9 Other Monk Talents |
+| Diamond Soul | 50 | Tongue of the Sun and Moon |
+| Timeless Body | 65 | Diamond Soul |
+| Empty Body | 80 | Timeless Body and 13 Other Monk Talents |
+| Perfect Self | 100 | Empty Body |
 
 ### Martial Arts
 
@@ -103,16 +103,15 @@ When you fall, reduce any falling damage that you take by an amount equal to fiv
 
 Additionally, your unarmoured speed bonus increass to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
 
-### (Content Coming)
+### Purity of Body
 #### *Cost:* 25 Character Points
 #### *Prerequisite:* Flying Crane
+Your mastery of Chi flowing through you makes you immune to disease and poison.
 
 ### Tongue of the Sun and Moon
 #### *Cost:* 30 Character Points
-#### *Prerequisite:* Calm in the Storm and 9 Other Monk Talents
-Your mastery of Chi flowing through you makes you immune to disease and poison.
-
-You can also tap the flow of Chi in all living things, gaining the ability to understand all spoken languages. Moreover, any creature that can understand a language can understand the meaning of what you say.
+#### *Prerequisite:* Purity of Body and 9 Other Monk Talents
+You learn to touch the chi of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
 
 ### Diamond Soul
 #### *Cost:* 50 Character Points

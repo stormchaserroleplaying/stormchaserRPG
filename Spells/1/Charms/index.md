@@ -39,7 +39,7 @@ You choose one creature that you can see within range and call upon its dread of
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
-### Command
+## Command
 *1st Level Charm*<br>
 **Casting Time:** 1 Action<br>
 **Range:** 60 Feet<br>

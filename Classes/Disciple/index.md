@@ -47,7 +47,7 @@ You can use a holy symbol or druidic focus (see [Adventuring Gear](https://storm
 <div style="margin-top:-10px;"></div>
 
 #### **Prerequisite:** 5 Other Disciple or Mage Talents
-Your cantrips deal one additional die of damage.
+Your cantrips deal one additional die of damage, or an additional effect as noted in the spell's description.
 
 ## Talents
 Disciples may take talents from the [cleric](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Cleric/), [druid](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Druid/), [paladin](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Paladin/) and [spellcasting](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/) talent trees.

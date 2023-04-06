@@ -12,13 +12,13 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Bardic Performance  | 5  | - |
-| Jack of All Trades  | 5  | - |
-| Vicious Mockery     | 5  | - |
-| Vicious Mockery II  | 5  | 3 Other Bard Talents |
-| Vicious Mockery III | 5  | 8 Other Bard Talents |
-| Vicious Mockery IV  | 5  | 12 Other Bard Talents |
-| Virtuoso            | 50 | 14 Other Bard Talents |
+| Bardic Performance  | 5   | - |
+| Jack of All Trades  | 5   | - |
+| Vicious Mockery     | 5   | - |
+| Vicious Mockery II  | 5   | 3 Other Bard Talents |
+| Vicious Mockery III | 5   | 8 Other Bard Talents |
+| Vicious Mockery IV  | 5   | 12 Other Bard Talents |
+| Virtuoso            | 100 | 14 Other Bard Talents |
 
 ### Bardic Performance
 

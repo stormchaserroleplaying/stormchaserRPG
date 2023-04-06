@@ -37,7 +37,7 @@ You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplayi
 <div style="margin-top:-10px;"></div>
 
 #### **Prerequisite:** 5 Other Disciple or Mage Talents
-Your cantrips deal one additional die of damage, or an additional effect as noted in the spell's description.
+Your cantrips deal one additional die of damage, or another effect as shown in the spell's description.
 
 ## Talents
 Disciples may take talents from the [sorcerer](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Sorcerer/), [warlock](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/), [wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/) and [spellcasting](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/) talent trees.

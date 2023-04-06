@@ -12,19 +12,22 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Bardic Performance | 5  | - |
-| Jack of All Trades | 5  | - |
-| Vicious Mockery    | 5  | - |
-| Virtuoso           | 50 | 14 Other Bard Talents |
+| Bardic Performance  | 5   | - |
+| Jack of All Trades  | 5   | - |
+| Vicious Mockery     | 5   | - |
+| Vicious Mockery II  | 5   | 3 Other Bard Talents |
+| Vicious Mockery III | 5   | 8 Other Bard Talents |
+| Vicious Mockery IV  | 5   | 12 Other Bard Talents |
+| Virtuoso            | 100 | 14 Other Bard Talents |
 
 ### Bardic Performance
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Actions:** 1
-You are trained to use the [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill to manipulate those around you. You know the following Bardic Performances: [Bardic Inspiration](), [Countersong](), [Fascinate]() and [Song of Rest]().
+You are trained to use the [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill to manipulate those around you. You know the following Bardic Performances: [Bardic Inspiration](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Performances/#bardic-inspiration), [Countersong](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Performances/#countersong), [Fascinate](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Performances/#fascinate) and [Song of Rest](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bard/Performances/#song-of-rest).
 
-Starting a Bardic Performance is an action and must be maintained each round as an action. Changing a Bardic Performance from one effect to another requires you to stop the previous performance and start a new one as an action. A Bardic Performance cannot be disrupted, but it ends immediately if the bard is killed, paralysed, stunned, knocked unconscious, or otherwise prevented from taking an action to maintain it each round.
+Starting a Bardic Performance is an action and must be maintained each round as an action. Changing a Bardic Performance from one effect to another requires you to stop the previous performance as a free action and start a new one as an action. A Bardic Performance cannot be disrupted, but it ends immediately if the bard is killed, paralysed, stunned, knocked unconscious, or otherwise prevented from taking an action to maintain it each round.
 
 Each Bardic Performance has audible components, visual components, or both.
 
@@ -48,7 +51,7 @@ You may reroll any ability check that you make that does not benefit from profic
 #### **Cost:** 5 Character Points<br>**Actions:** 2
 *You unleash a string of insults.*
 
-Choose a creature that can hear you and make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defence. On a hit, the creature takes 1d4 psychic damage and has disadvantage on the next attack roll that it makes before the end of its next turn.
+Choose a creature that can hear you and make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defence. On a hit, the creature takes 1d4 psychic damage and has -1d on the next attack roll that it makes before the end of its next turn.
 
 ### Vicious Mockery II
 
@@ -75,9 +78,9 @@ The damage dealt by your Vicious Mockery talent increases to 4d4.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 14 Other Bard Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 14 Other Bard Talents
 *You are the epitome of music and magic.*
 
-Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Inspiration left, you regain a number of uses equal to your Charisma modifier.
+Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Performance left, you regain a number of uses equal to your Charisma modifier.
 
 ## Bard Talent Tree Branches

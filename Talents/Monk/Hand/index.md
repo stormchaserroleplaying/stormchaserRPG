@@ -5,16 +5,16 @@ grand_parent: Talents
 ---
 
 # Open Hand
-Description
+Monks of the open hand are the ultimate masters of martial arts, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate chi to heal damage to their bodies and practice advanced meditation that can protect them from harm.
 
 ## Talents
 
-| Talent | CP | Prerequisites | Bard Talents Required |
+| Talent | CP | Prerequisites | Monk Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Open Hand Technique | 5 | *Chi* |
-| Wholeness of Body | 10 | Open Hand Technique and 4 other Monk Talents |
-| Tranquility | 25 | Wholeness of Body and 7 other Monk Talents |
-| Quivering Palm | 50 | Tranquility and 10 other Monk Talents |
+| Open Hand Technique | 5  | *Chi* |
+| Wholeness of Body   | 10 | Open Hand Technique and 4 other Monk Talents |
+| Tranquility         | 25 | Wholeness of Body and 7 other Monk Talents |
+| Quivering Palm      | 50 | Tranquility and 10 other Monk Talents |
 
 ### Open Hand Technique
 

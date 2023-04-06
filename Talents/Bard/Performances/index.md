@@ -19,17 +19,19 @@ Once within the next 10 minutes, the creature can roll the die as +1d on one abi
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Dissonant Whispers
-*The town shunned the Bard who helped rid the town of plague rats. In the weeks following, a nightly procession left the city, heralded by a haunting aria.*
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Dissonant Whispers
+*The town shunned the bard who helped rid the town of plague rats. In the weeks following, a nightly procession left the city, heralded by a haunting aria.*
 
-Choose a number of targets up to your Charisma modifier. A target is unaffected if it can't be charmed. Make a Performance check against the target's Wisdom defense. Until the Performance ends, you can use one action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) in that direction on its next turn. It can use other actions before it moves. After moving in this way, it can a Wisdom check against your Charisma defense to try to end the effect. 
+Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check and compare the result to the Wisdom defence of all creatures of your choice that you can see and that can hear you within 30 feet. Creatures that are immune to the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition are unaffected. On a hit, the target falls under the influence of your Compulsion.
 
-A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
+Until the performance ends, you can use one action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) in that direction on its next turn. It can use other actions before it moves. After moving in this way, the creature may make a Wisdom defence check vs your passive [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) skill to try to end the effect. 
+
+A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke attacks of opportunity to move in the designated direction.
 
 ## Countersong
 *You gain the ability to use musical notes or words of power to disrupt mind-influencing effects.*
 
-You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have +1d to your defences vs being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit. The performance ends early if you are [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) or silenced or if you voluntarily end it (no action required).
+You can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have +1d to your defences vs being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). A creature must be able to hear you to gain this benefit.
 
 ## Cutting Words
 
@@ -47,9 +49,9 @@ Once per round, you may choose a target within 60 feet that you can see. The tar
 #### **Cost:** 100 Character Points
 *She started to dance, and the world paused to become her audience. When she finished, all the world's gaze remained fixed to her, dead and cold.*
 
-You an use your performance to cause one enemy to die from joy or sorrow. To be affected, the target must be able to see and hear you perform for 1 full round and be within 30 feet. Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the Wisdom defense of each enemy within range. On a miss, the effect is negated, the target is staggered for 1d4 rounds, and you cannot use deadly performance on that creature again for 24 hours. On a hit, it dies.
+You an use your performance to cause one enemy to die from joy or sorrow. To be affected, the target must be able to see and hear you perform for one full round and be within 30 feet. Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the Wisdom defense of each enemy within range. On a miss, the effect is negated, the target is staggered for 1d4 rounds, and you cannot use deadly performance on that creature again for 24 hours. On a hit, it dies.
 
-Deadly performance is a mind-effecting death effect that relies on audible and visual components.
+Deadly performance is a mind-affecting death effect that relies on audible and visual components.
 
 ## Dirge of Doom
 
@@ -64,10 +66,27 @@ You can use your performance to foster a sense of growing dread in his enemies, 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Vicious Mockery<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Vicious Mockery
 *Whispers in the dark create an illusion of phantom enemies to drive your enemies to madness.*
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. Make a Performance check against the Wisdom defense of a target within 60 feet. On a hit, you deal 3d6 psychic damage and the target immediately moves away from you as far as possible, up to its movement speed. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a miss, the target takes half damage and is not forced to move. Deafened targets are not affected.
+You whisper a discordant melody that only one creature of your choice within 60 feet can hear, wracking it with terrible pain. Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defense. On a hit, you deal 3d6 psychic damage and the target immediately moves as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a miss, the target takes half damage and is not forced to move. A deafened creature is unaffected.
+
+You may invest additional points to upgrade the performance, increasing the damage dealt by 1d6:
+
+| Psychic Damage Dealt | Character Point Cost |
+|:--------------------:|:--------------------:|
+| 3d6  |    5 |
+| 4d6  |   +5 |
+| 5d6  |  +10 |
+| 6d6  |  +15 |
+| 7d6  |  +25 |
+| 8d6  |  +35 |
+| 9d6  |  +50 |
+| 10d6 |  +65 |
+| 11d6 |  +80 |
+| 12d6 | +100 |
+
+Thus, a Dissonant Whispers performance that deals 12d6 psychic damage costs 5+5+10+15+25+35+50+65+80+100=390 character points.
 
 ## Fascinate
 *You use your performance to cause one or more creatures to become fascinated with you.*
@@ -107,7 +126,7 @@ Inspire greatness is a mind-affecting ability that relies on audible and visual 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Inspire Greatness
-*"I once saw a man thrown across the room by a rampaging golem. He stood up, wiped the blood from his mouth, and said, "I can do this all day."*
+*"I once saw a man thrown across the room by a rampaging golem. He stood up, wiped the blood from his mouth and said, "I can do this all day".*
 
 Your can inspire tremendous heroism in a number of willing creatures (including yourself) within 30 feet equal to your Charisma modifier. To inspire heroics, all of the targets must be able to see and hear you. Inspired creatures gain a +1d morale bonus to their defences. The effect lasts for as long as the targets are able to witness the performance.
 
@@ -118,7 +137,7 @@ Inspire heroics is a mind-affecting ability that relies on audible and visual co
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points
-*A roar washes over the field, as countless voices herald a wave of violence. Your voice rings above the cacophany*
+*A roar washes over the field, as countless voices herald a wave of violence. Your voice rings above the cacophany.*
 
 Choose a number of targets equal to your Charisma modifier. At the start of its next turn, each of these creatures can move its speed without provoking an attack of opportunity.
 
@@ -134,7 +153,7 @@ When you make a skill check, you can spend a use of your Bardic Performance to r
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points
-*Your voice resounds to the soul of your allies, pulling them back from darkest defeat*
+*Your voice resounds to the soul of your allies, pulling them back from darkest defeat.*
 
 A single dying creature within 30 feet may roll its recovery die and regain that amount of Stamina. Once a creature has benefited from this battle hymn, it can’t benefit from it again until it finishes a long rest.
 
@@ -161,7 +180,7 @@ Soothing performance relies on audible and visual components.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points
-*Your Bardic Performance can plant the most subtle of compulsions in the minds of those who listen to you.*
+*You can plant the most subtle of compulsions in the minds of those who listen to you.*
 
 You can make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's Wisdom defense to make a [Suggestion]() (as per the spell) to a creature that you have already fascinated (see above).
 

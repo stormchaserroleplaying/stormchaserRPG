@@ -17,7 +17,7 @@ grand_parent: Spells
 
 You touch one willing creature. Once before the spell ends, the target has +1d on an ability check of its choice. The spell then ends.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) talent, the spell can affect a second roll within the duration.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.
 
 ## True Strike
 *Divination Cantrip*<br>
@@ -30,4 +30,4 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 You point a finger at a target in range. You have +1d on your first attack roll against the target, provided that this spell hasn't ended.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) talent, the duration increases to 2 rounds.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 2 rounds.

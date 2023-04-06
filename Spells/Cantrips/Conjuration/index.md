@@ -56,7 +56,7 @@ You can use 2 actions to control the hand. You can use the hand to manipulate an
 
 The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) talent, the weight limit increases to 20 pounds.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the weight limit increases to 20 pounds.
 
 ## Poison Spray
 *Conjuration Cantrip*<br>

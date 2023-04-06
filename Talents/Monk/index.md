@@ -83,7 +83,7 @@ When you miss with an attack roll, you can spend 2 chi points to reroll your att
 You can spend 1 chi point to [Dodge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Dodge/) using only a single action.
 
 #### Quickened Healing
-As an action, you can spend 2 chi points and roll your recovery die. You regain an amount of stamina equal to the number rolled plus your wisdom bonus.
+As an action, you can spend 2 chi points and roll your recovery die. You regain an amount of Stamina equal to the number rolled plus your wisdom bonus.
 
 #### Step of the Wind
 You can spend 1 chi point to [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Step/) or [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) as a free action on your turn. Additionally, your jump distance is doubled for that turn.

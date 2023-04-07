@@ -15,9 +15,9 @@ grand_parent: Spells
 
 *You cause your weapon to be sheathed in booming energy.*
 
-You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one target. On a hit, the target suffers the weapon attack’s normal effects and surrounded by a thunderous energy. If the target willingly moves 5 feet or more before the beginning of your next turn, the target takes 1d8 + your spellcasting ability modifier sonic damage and the spell ends.
+You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one target. On a hit, the target suffers the weapon attack’s normal effects and becomes surrounded by thunderous energy. If the target willingly moves 5 feet or more before the beginning of your next turn, the target takes 1d8 + your spellcasting ability modifier sonic damage and the spell ends.
 
-When you gain the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the melee attack deals an extra 1d8 sonic damage on a hit, and the damage the target take for moving increases to 2d8 + your spellcasting modifier.
+When you gain the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the melee attack deals an extra 1d8 sonic damage on a hit, and the damage the target take for moving increases to 2d8 + your spellcasting attribute modifier.
 
 ## Dancing Lights
 *Evocation Cantrip*<br>
@@ -30,7 +30,7 @@ When you gain the [Potent Cantrips](https://stormchaserroleplaying.com/stormchas
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
-Using 2 actions on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.
+As an action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the number of lights created increases to 8.
 
@@ -41,9 +41,9 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*A beam of crackling energy bestowed to you by your patron streaks toward your foe.*
+*A beam of crackling energy bestowed upon you by your patron streaks toward your foe.*
 
-Make a ranged spell attack against a target you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier damage - type of damage is determine by your choice of patron.
+Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier damage - type of damage is determine by your choice of patron.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, instead of this spell dealing one additional die of damage, you make an additional ranged spell attack. This second attack can be at the same target or a different target within range.
 
@@ -56,7 +56,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You hurl a mote of fire.*
 
-Make a ranged spell attack against a target you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 ## Frostbite
 *Evocation Cantrip*<br>
@@ -67,7 +67,7 @@ Make a ranged spell attack against a target you can see within range. On a hit, 
 
 *You cause numbing frost to form.*
 
-Make a spell attack roll vs the Constitution defence of one creature you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
+Make a spell attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
 
 ## Green-Flame Blade
 *Evocation Cantrip*<br>
@@ -108,7 +108,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You create a rope of lightning that pulls your target closer to you then delivers a shock them.*
 
-Make a spell attack roll vs the Strength defence against one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 1d8 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
+Make a spell attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 1d8 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
 
 ## Ray of Frost
 *Evocation Cantrip*<br>
@@ -117,7 +117,7 @@ Make a spell attack roll vs the Strength defence against one target that you can
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*A frigid beam slows down attackers.*
+*A frigid beam of blue-white light slows down attackers.*
 
 Make a ranged spell attack against a target that you can see within range. On a hit, it takes 1d8 + your spellcasting ability modifier cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
@@ -139,9 +139,9 @@ Make a spell attack roll vs the Dexterity defence of a target that you can see w
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*You hurl a
+*You hurl a spark of lightning at a creature or object.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier electric damage.
+Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting attribute modifier electric damage.
 
 ## Shocking Grasp
 *Evocation Cantrip*<br>
@@ -152,7 +152,7 @@ Make a ranged spell attack against a target that you can see within range. On a 
 
 *Reaching out, you deliver a jolt to the system of a creature causing them to sieze up and allowing you to slip away.*
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 + your spellcasting ability modifier electric damage, and it can’t make opportunity attacks or other off-turn actions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 1d8 + your spellcasting ability modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
 
 ## Thunderclap
 *Evocation Cantrip*<br>
@@ -172,7 +172,7 @@ Make a spell attack roll vs the Constitution defence of each creature other than
 **Components:** V, S, M<br>
 **Duration:** Instantaneous
 
-*You set fire to a creature that can spread to others.*
+*You set a creature alight with fire that can spread to others.*
 
 Make a melee spell attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 1d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make a spell attack roll vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they take 1d4 fire damage.
 

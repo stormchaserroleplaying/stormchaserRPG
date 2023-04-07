@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You aid someone by providing them a touch of divine guidance.*
 
-You touch one willing creature. Once before the spell ends, the target has +1d on an ability check of its choice. The spell then ends.
+You touch one willing creature. Once before the spell ends, the target has +1d on a skill check of its choice. The spell then ends.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.
 

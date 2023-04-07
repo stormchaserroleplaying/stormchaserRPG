@@ -21,13 +21,15 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 ## True Strike
 *Divination Cantrip*<br>
-**Casting Time:** 2 Actions<br>
+**Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
 **Components:** S<br>
 **Duration:** Concentration, up to 1 round
 
-*Your magic grants you a brief insight into the target's defenses.*
+*A glimpse into the future ensures your next blow strikes true.*
 
-You point a finger at a target in range. You have +1d on your first attack roll against the target, provided that this spell hasn't ended.
+You point a finger at a target in range. You have +1d on your next attack roll against that target, provided that this spell hasn't ended.
+
+The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 2 rounds.

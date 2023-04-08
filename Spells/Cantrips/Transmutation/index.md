@@ -42,7 +42,7 @@ You create one of the following effects within range:
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance increased to 60 feet.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell's range increases to 60 feet.
 
 ## Gust
 *Transmutation Cantrip*<br>
@@ -53,13 +53,13 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You seize the air and compel it push creatures and objects.*
 
-You create one of the following effects at a point you can see within range:
+You create one of the following effects at a point that you can see within range:
 
 * Make a spell attack roll vs the Strength defence of one Medium or smaller creature within range. On a hit, the creature is either pushed up to 5 feet away from you or knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance you can push a creature or object is increased to 10 feet.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance that you can push a creature or object is increased by 5 feet.
 
 ## Magic Stone
 *Transmutation Cantrip*<br>
@@ -111,7 +111,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 **Components:** S<br>
 **Duration:** Instantaneous or 1 hour (see below)
 
-*Some will move heaven and earth for someone. This spell makes the later much easier.*
+*Some will move heaven and earth for someone. This spell makes the latter much easier.*
 
 You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
 
@@ -218,4 +218,4 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You create a long, vine-like whip covered in thorns that lashes out at your command.*
 
-Make a melee spell attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+Make a melee spell attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is large or smaller, you pull the creature up to 10 feet closer to you.

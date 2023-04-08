@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You produce a ward that dampens a strike from a weapon.*
 
-You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you gain one instance of resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you gain one instance of resistance against bludgeoning, piercing and slashing damage dealt by weapon attacks.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell's duration increases to 2 rounds.
 
@@ -26,8 +26,8 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 **Components:** V, S, M *(A miniature cloak.)*<br>
 **Duration:** 1 Minute
 
-*You offer a bit of protection against the next harmful effect.*
+*You ward a creature against harm.*
 
-You touch one willing creature. The next time before the spell ends that the creature is the target of an attack, that attack roll has -1d. Alternatively, the target has +1d to its next defence check. The spell then ends once one roll is affected.
+Touch one willing creature. The next time before the spell ends that the creature is the target of an attack, that attack roll has -1d. Alternatively, the target has +1d to its next defence check. The spell then ends once one roll is affected.
 
 When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.

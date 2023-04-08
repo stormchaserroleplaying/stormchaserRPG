@@ -8,18 +8,26 @@ grand_parent: Spells
 
 ## Blade Ward
 *Warding Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
 **Duration:** 1 round
 
-You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+*You produce a ward that dampens a strike from a weapon.*
+
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you gain one instance of resistance against bludgeoning, piercing and slashing damage dealt by weapon attacks.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell's duration increases to 2 rounds.
 
 ## Resistance
 *Warding Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A miniature cloak.)*<br>
 **Duration:** 1 Minute
 
-You touch one willing creature. The next time before the spell ends that the creature is the target of an attack, roll 1d4 and subtract the number rolled from the attack roll. The spell then ends.
+*You ward a creature against harm.*
+
+Touch one willing creature. The next time before the spell ends that the creature is the target of an attack, that attack roll has -1d. Alternatively, the target has +1d to its next defence check. The spell then ends once one roll is affected.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.

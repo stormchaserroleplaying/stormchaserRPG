@@ -8,10 +8,12 @@ grand_parent: Spells
 
 ## Encode Thoughts
 *Charms Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** S<br>
 **Duration:** Up to 8 hours
+
+*Your thoughts, or possibly those of others, are made tangible.*
 
 Putting a finger to your head, you pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.
 
@@ -19,29 +21,26 @@ If you cast this spell while concentrating on a spell or an ability that allows 
 
 Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)
 
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 24 hours.
+
 ## Friends
 *Charms Cantrip*<br>
-*Casting Time:* 1 Action<br>
+*Casting Time:* 2 Actions<br>
 **Range:** Self<br>
 **Components:** S, M *(A small amount of makeup applied to the face as this spell is cast.)*<br>
 **Duration:** Concentration, up to 1 minute
 
-For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realises that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
+For the duration, you have +1d on all Charisma checks directed at one creature of your choice that isn't hostile towards you. When the spell ends, the creature realises that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 10 minutes.
 
 ## Mind Sliver
 *Charms Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V<br>
 **Duration:** 1 round
 
-You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. Make a spell attack roll vs the target's Wisdom defence. On a hit, the target takes 1d6 + your spellcasting ability modifier psychic damage and the next attack roll made against the target before the end of your next turn has advantage.
+*You drive a disorienting spike of psychic energy into the mind of a creature.*
 
-## Vicious Mockery
-*Charms Cantrip*<br>
-**Casting Time:** 1 Action<br>
-**Range:** 60 Feet<br>
-**Components:** V<br>
-**Duration:** Instantaneous
-
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), make a spell attack roll vs its Intelligence defence. On a hit, the target takes 1d4 + your spellcasting ability modifier psychic damage and has disadvantage on the next attack roll that it makes before the end of its next turn.
+Make a spell attack vs the Wisdom defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier psychic damage and the next attack roll made against the target before the end of your next turn has +1d.

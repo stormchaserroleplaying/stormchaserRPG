@@ -38,10 +38,12 @@ grand_parent: Spells
 * [Bedrest]()
 * [Beast Bond]()
 * [Bless]()
+* [Calculated Retribution]()
 * [Ceremony]()
 * [Charm Person]()
 * [Command]()
 * [Compelled Duel]()
+* [Corpse Explosion]()
 * [Create or Destroy Water]()
 * [Detect Evil and Good]()
 * [Detect Magic]()
@@ -69,6 +71,7 @@ grand_parent: Spells
 * [Speak with Animals]()
 * [Thunderous Smite]()
 * [Thunderwave]()
+* [Traveler's Ward]()
 * [Wrathful Smite]()
 
 ## Level 2

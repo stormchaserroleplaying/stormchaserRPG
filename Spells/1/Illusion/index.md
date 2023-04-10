@@ -51,7 +51,7 @@ You cast this spell on an object no more than 1 foot on a side, doubling the obj
 
 ## Hidden Item
 *1st Level Illusion*<br>
-**Casting Time:**2 Actions<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch (1-foot cube)<br>
 **Components:** S<br>
 **Duration:** 1 Hour

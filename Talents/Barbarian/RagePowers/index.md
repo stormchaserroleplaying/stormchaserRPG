@@ -104,50 +104,50 @@ Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-ba
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-As a free action, you may leave yourself open to attack while preparing devastating counterattacks. Enemies gain +1d on attack and damage rolls against you until the beginning of your next turn, but every attack against you provokes an attack of opportunity from you, which is resolved prior to resolving each enemy attack.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+As a free action, you may leave yourself open to attack while preparing devastating counterattacks. Enemies gain +1d on melee attack and damage rolls against you until the beginning of your next turn, but every melee attack that targets you provokes an attack of opportunity from you, which is resolved prior to resolving each enemy attack.
 
 ## Crippling Blow
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Powerful Blow<br>**Rage Point Cost:** 2 Points
-When using your powerful blow rage power, you can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead roll your martial feat die and deal the damage as ability damage to the target’s Strength or Dexterity score. At the start of its next turn, the target can attempt a Constitution check vs your weapon skill to halve this ability damage.
+When using your Powerful Blow rage power, you can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead roll your martial feat die and deal the damage as ability damage to the target’s Strength or Dexterity score. At the start of its next turn, the target can attempt a Constitution check vs your weapon skill to halve this ability damage.
 
 ## Cult Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
 Whenever you would gain +1d to attack from a morale bonus or from flanking, you instead add one additional martial feat die to your damage roll.
 
 ## Cult Totem
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Cult Totem, Lesser<br>**Rage Point Cost:** 2 Points
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Cult Totem, Lesser<br>**Rage Point Cost:** 2 Points
 Whenever a creature within your reach damages an ally of yours with a melee attack, you may make an attack of opportunity against it. Only the enemy, not your ally, needs to be within your melee reach in order for you to make this attack of opportunity. Once you use this ability to make an attack of opportunity against a creature, you can’t use this ability to make an attack of opportunity against the same creature until you complete a short rest.
 
 ## Death Dealer
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-When you hit with an attack, you can change the damage type of your rage damage die to rot damage that cannot be reduced.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Point
+When you hit with an attack, you can change the damage type of your rage damage die to decay damage that cannot be reduced.
 
 ## Fleshrender
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 3 Points
-Make a melee attack roll against a target. On a hit, make a rage attack roll against the target's Constitution defence. On a hit, you force the target to roll for an [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
+#### **Cost:** 20 Character Points<br>**Rage Point Cost:** 3 Points
+Make a melee attack roll against a target. On a hit, make a rage attack roll against the target's Constitution defence. On a hit, you force the target to roll for a [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
 
 ## Focus of the Ascetic
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-You use this power when you activate your rage to gain blindsight (30') for the remainder of your rage. Additionally, you have +1d on Wisdom (Perception) checks that rely on sound, as long as you aren't [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/).
+#### **Cost:** 20 Character Points<br>**Rage Point Cost:** 1 Point
+When you begin your rage, you can use this power to gain blindsight (30', imprecise) for the remainder of your rage. Additionally, you have +1d on Perception checks that rely on sound, as long as you aren't [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/).
 
 ## Fury Manifested
 

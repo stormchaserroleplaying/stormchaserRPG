@@ -12,66 +12,72 @@ Any barbarian who meets a power's prerequisites can select and use a rage power.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-When the barbarian is raging and makes a skill check, they receive +1d on the check.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+When you make a skill check, you can activate this rage power for +1d to the roll.
 
 ## Animalistic Fury
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-While raging, the barbarian's teeth grow and sharpen to a row of terrible fangs. The barbarian can spend 1 rage point to make a bite attack that deals 1d4 piercing damage plus the barbarian's Strength modifier. If the barbarian already has a bite attack, its damage die increases by one step.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+*Your teeth grow and sharpen to a row of terrible fangs.*
 
-Additionally, a barbarian can use this bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple checks made by the barbarian against the target this round have +1d.
+Activating this rage power grants you a bite attack that deals 1d4 piercing damage plus your Strength modifier. If you already have a bite attack, its damage die increases by one step.
+
+Additionally, you can use this bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple attack is made and, if the bite attack hits, then the grapple attack has +1d.
 
 ## Armour Ripper
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Feral Soul Talent<br>**Rage Point Cost:** 1 Point
-Attacks made with natural weapons from the Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon Strikes (e.g. bites, claws, etc.) gain the Sunder 1 property.
+Attacks made with natural weapons from the Form of the Beast talent are hardened to shred all but the strongest armour. Natural weapon attacks (e.g. bites, claws, etc.) gain the Sunder 1 property.
 
 ## Auspicious Mark
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Ancestral Guidance<br>**Rage Point Cost:** 2 Points
-The barbarian has been marked by the spirits, as indicated by an impressive tattoo, scar, or birthmark they possess. Once per rage, the barbarian can call upon the spirits' favor. Using Auspicious Mark adds +1d to one d20 roll that they have just made. They can call on the auspicious mark after seeing the result of the d20 roll but not before the result is declared.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Ancestral Guidance<br>**Rage Point Cost:** 2 Points
+*You have been marked by the spirits, as indicated by an impressive tattoo, scar, or birthmark.*
+
+Once per rage, you can call upon the spirits' favour. Using your Auspicious Mark adds +1d to one d20 roll that you have just made. You can call on the auspicious mark after seeing the result of the d20 roll, but not after the result is declared.
 
 ## Barreling Charge
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Points
-You can activate this Rage Power when you hit using the Charge action. You inflict the [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target until the beginning of your next turn.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
+When you hit with a [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/), you can activate this Rage Power to inflict the [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) condition on the target until the beginning of your next turn.
 
 ## Battle Roar
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Intimidating Glare<br>**Rage Point Cost:** 1 Point
-When the barbarian successfully demoralises an opponent using intimidating glare, they can spend an additional rage point to also deal their rage die in thunder damage to that opponent.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Intimidating Glare<br>**Rage Point Cost:** 1 Point
+When you successfully demoralise an opponent using your [Intimidating Glare](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/RagePowers/#intimidating-glare), you can activate this Rage Power to also deal your martial feat die in thunder damage to that opponent.
 
 ## Blood For Blood
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Points
-No one strikes you without reprisal in kind. At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon Strike against the last target to hit you. Subsequent Strikes do not incur multi-attack penalty.
+#### **Cost:** 15 Character Points<br>**Rage Point Cost:** 2 Points
+*No one strikes you without reprisal in kind.*
+
+At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) vs the last creature to hit you. Subsequent Strikes do not incur the multiple attack penalty.
 
 ## Bone Breaker
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:*×* None<br>**Rage Point Cost:** 2 Points
-When you take the Strike action, you make a Rage Attack roll instead. On a hit, you deal damage as normal and impose the [weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. This effect lasts until the target passes a successful Constitution defence check.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
+When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can activate this Rage Power to impose the [Weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. At the end of each of its turns, an affected creature may make a Constitution defence check vs your Rage skill to end the condition.
 
 ## Celestial Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Points
-Whenever you are subject to a spell that restores stamina, you regain an additional amount of stamina equal to twice the spell’s level.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
+Whenever you are subject to a spell that restores Stamina, you can activate this power to regain an additional amount of stamina equal to twice the spell’s level.
 
 ## Celestial Totem
 
@@ -84,14 +90,14 @@ This effect bestows a halo of gleaming light upon you. The halo shines as if it 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Celestial Totem, Lesser<br>**Rage Point Cost:** 2 Points
-You gain +1d on all defenses against spells with the Evil trait. You also gain +1d to all defences against spells and effects from evil creatures.
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Celestial Totem<br>**Rage Point Cost:** 2 Points
+You gain +1d to all defenses vs spells with the Evil trait. You also gain +1d to all defences against spells and effects from evil creatures.
 
 ## Clear Mind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
 Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-based) check made to end an effect on yourself.
 
 ## Come and Get Me

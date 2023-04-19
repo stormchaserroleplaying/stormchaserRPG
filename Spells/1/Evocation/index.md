@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You respond to an incoming attack with a magically-infused attack of your own.*
 
-Make a melee spell attack against the creature that attacked you. On a hit, the creature takes 3d8 cold, corrosive, electric, fire, poison or sonic damage.
+Make a melee evocation attack against the creature that attacked you. On a hit, the creature takes 3d8 cold, corrosive, electric, fire, poison or sonic damage.
 
 This spell triggers the first time that you are hit by a melee attack, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
 
@@ -30,7 +30,7 @@ This spell triggers the first time that you are hit by a melee attack, with the 
 
 *As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips.*
 
-Make a spell attack vs the Dexterity defence of each creature in the area. On a hit, a creature takes 3d6 fire damage, or half as much damage on a miss.
+Make a evocation attack vs the Dexterity defence of each creature in the area. On a hit, a creature takes 3d6 fire damage, or half as much damage on a miss.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
@@ -45,7 +45,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 *You hurl an undulating, warbling mass of chaotic energy at one creature in range.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack’s damage type, as shown below.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack’s damage type, as shown below.
 
 | d8 | Damage Type |
 |:--:|:------------|
@@ -73,7 +73,7 @@ A creature can be targeted only once by each casting of this spell.
 
 *You conjure a small sphere that can deal damage of any element.*
 
-Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you create, and then make a ranged spell attack against a target that you can see within range. On a hit, the creature takes 3d8 damage of the type you chose.
+Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you create, and then make a ranged evocation attack against a target that you can see within range. On a hit, the creature takes 3d8 damage of the type you chose.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d8 for each point of mana above the 1st.
 
@@ -86,7 +86,7 @@ Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you
 
 *A gout of acid flows from you and adheres to those who are not quick enough to avoid it.*
 
-Make a spell attack vs the Dexterity defense of each creature in the line. On a hit, the creature is covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 corrosive damage at the start of each of its turns.
+Make a evocation attack vs the Dexterity defense of each creature in the line. On a hit, the creature is covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 corrosive damage at the start of each of its turns.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 2d4 for each point of mana above the 1st.
 
@@ -110,7 +110,7 @@ Until the spell ends, your weapon attacks deal an extra 1d4 sacred damage on a h
 
 *The ground quakes around you, throwing those nearby to the ground.*
 
-You cause a tremor in the ground within range. Make a spell attack vs the Dexterity defence of each creature other than yourself within range. On a hit, a creature takes 1d6 bludgeoning damage and is knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+You cause a tremor in the ground within range. Make a evocation attack vs the Dexterity defence of each creature other than yourself within range. On a hit, a creature takes 1d6 bludgeoning damage and is knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 
@@ -123,7 +123,7 @@ You cause a tremor in the ground within range. Make a spell attack vs the Dexter
 
 *Colorful, twinkling lights reveal hidden creatures and marking others making them easier to hit.*
 
-Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Make a spell attack vs the Dexterity defence of each creautre within the area when the spell is cast. On a hit, a creature is also outlined in the light. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
+Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Make a evocation attack vs the Dexterity defence of each creautre within the area when the spell is cast. On a hit, a creature is also outlined in the light. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
 
 Any attack roll against an affected creature or object has +1d if the attacker can see it, and an affected creature or object cannot benefit from being [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/).
 
@@ -136,7 +136,7 @@ Any attack roll against an affected creature or object has +1d if the attacker c
 
 *You strike with pure magical energy.*
 
-Make a melee spell attack against one creature you can see within range. On a hit, the target takes 3d8 energy damage.
+Make a melee evocation attack against one creature you can see within range. On a hit, the target takes 3d8 energy damage.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d8 for each point of mana above the 1st.
 
@@ -164,7 +164,7 @@ The cold freezes nonmagical liquids in the area that aren’t being worn or carr
 
 *A missile of holy light streaks toward a foe, marking them for your allies.*
 
-Make a ranged spell attack against a creature of your choice within range. On a hit, the target takes 4d6 sacred damage. Additionally, the next melee or ranged attack roll made against this target before the end of your next turn has +1d thanks to the mystical dim light glittering on the target until then.
+Make a ranged evocation attack against a creature of your choice within range. On a hit, the target takes 4d6 sacred damage. Additionally, the next melee or ranged attack roll made against this target before the end of your next turn has +1d thanks to the mystical dim light glittering on the target until then.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 
@@ -177,7 +177,7 @@ Make a ranged spell attack against a creature of your choice within range. On a 
 
 *You surround your attacker in hellish flames.*
 
-Make a spell attack roll vs the Dexterity defence of the creature that damaged you. On a hit, it takes 2d10 fire damage. On a miss, it takes half as much damage.
+Make a evocation attack roll vs the Dexterity defence of the creature that damaged you. On a hit, it takes 2d10 fire damage. On a miss, it takes half as much damage.
 
 This spell triggers the first time that you take damage, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
 
@@ -218,7 +218,7 @@ The next time you hit a creature with a melee weapon attack during the spell’s
 
 *A wave of thunderous force sweeps out from you.*
 
-Make a spell attack vs the Constitution defence of each target in the area. On a hit, a target takes 2d8 sonic damage and is pushed 10 feet away from you. On a miss, a target takes half as much damage and isn't pushed.
+Make a evocation attack vs the Strength defence of each target in the area. On a hit, a target takes 2d8 sonic damage and is pushed 10 feet away from you. On a miss, a target takes half as much damage and isn't pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
@@ -246,7 +246,7 @@ Additionally, when the melee weapon attack hits, add your spellcasting attribute
 
 *A beam of crackling, blue energy locks onto your target.*
 
-Make a ranged spell attack against a creature that you can see in range. On a hit, the creature takes 1d12 electric damage, and on each of your turns for the duration, you can use 2 actions to deal 1d12 electric damage to the target automatically. The spell  ends if the target ends its turn outside the spell’s range, you end your turn outside the spell's range or if it has total cover from you.
+Make a ranged evocation attack against a creature that you can see in range. On a hit, the creature takes 1d12 electric damage, and on each of your turns for the duration, you can use 2 actions to deal 1d12 electric damage to the target automatically. The spell  ends if the target ends its turn outside the spell’s range, you end your turn outside the spell's range or if it has total cover from you.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d12 for each point of mana above the 1st.
 

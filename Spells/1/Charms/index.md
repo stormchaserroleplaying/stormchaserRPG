@@ -164,9 +164,9 @@ You touch a willing creature and, until the spell ends, the creature is immune t
 
 *You place a curse on a creature that makes your attacks more impactful.*
 
-Target one creature you can see within range. Until the spell ends, you deal an extra 1d6 profane damage to the target whenever you hit it with an melee or ranged attack. Also, choose one ability when you cast the spell. The target has -1d on ability checks made with the chosen ability.
+Target one creature you can see within range. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with an melee or ranged attack; damage type is determined by choice of patron. Also, choose one attribute when you cast the spell. The target has -1d on skill checks made with the chosen attribute.
 
-If the target drops to 0 Stamina before this spell ends, you can use an Action on a subsequent turn of yours to curse a new creature.
+If the target drops to 0 Stamina before this spell ends, you can use an action on a subsequent turn of yours to curse a new creature.
 
 A [Remove Curse]() cast on the target ends this spell early.
 
@@ -181,7 +181,7 @@ A [Remove Curse]() cast on the target ends this spell early.
 
 *Your words or actions - funny or not - are perceived to be so hilarious that it causes some to fall to the ground in fits of laughter.*
 
-Make a spell attack vs the Wisdom defence of one creature within range that you can see. On a hit, the creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/), becoming [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
+Make a charm attack vs the Wisdom defence of one creature within range that you can see. On a hit, the creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/), becoming [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 
 At the end of each of its turns the creature can make a Wisdom defence check vs your charms spell skill. Additionally, the creature can make a Wisdom defence check vs your charms spell skill at the beginning of its turn if it has taken damage since the end of its last turn; the creature has +1d on the check if it's triggered by damage. On a success, the spell ends.
 

@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *A corpse explodes with a poisonous cloud.*
 
-You target the corpse of one creature that you can see within range and cause it to explode. Make a spell attack for each creature within a 10-foot radius of the corpse against the Constitution defence. On a hit, a creature takes 2d6 poison damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of constructs. On a miss, a creature takes half as much damage and suffers no other effect.
+You target the corpse of one creature that you can see within range and cause it to explode. Make a necromancy attack for each creature within a 10-foot radius of the corpse against the Constitution defence. On a hit, a creature takes 2d6 poison damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of constructs. On a miss, a creature takes half as much damage and suffers no other effect.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you the damage increases by 1d6 for each point of mana above the 1st.
 
@@ -54,7 +54,7 @@ Additionally, if the melee attack hits, add your spellcasting attribute modifier
 
 *Touching the body of the other, you cause their flesh to rot.*
 
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 decay damage.
+Make a melee necromancy attack against a creature you can reach. On a hit, the target takes 3d10 decay damage.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d10 for each point of mana above the 1st.
 
@@ -67,7 +67,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 *You prevent a creature from returning to their home.*
 
-Write upon a sheet of parchment the wrongs that a creature has committed, nail them to its home or lair and make a spell attack roll vs the creature's Wisdom defence. On a hit, for every wrong written, the creature will be unable to return to its home and unable to rest anywhere else.
+Write upon a sheet of parchment the wrongs that a creature has committed, nail them to its home or lair and make a necromancy attack roll vs the creature's Charisma defence. On a hit, for every wrong written, the creature will be unable to return to its home and unable to rest anywhere else.
 
 Each day at dawn, one of the wrongs disappears. Creatures who are unable to rest due to this curse suffer one level of exhaustion at the dawn of every day and cannot rest to regain Stamina.
 
@@ -82,6 +82,6 @@ Each day at dusk, the creature may attempt a Charisma defence check vs your necr
 
 *With a ray of greenish energy, you bring about a wave of sickness in a creature.*
 
-Make a ranged spell attack against a creature that you can see within range. On a hit, the target takes 2d8 poison damage. Additionally, if the spell attack also hits the target's Constitution defense, it is also [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the end of your next turn.
+Make a ranged necromancy attack against a creature that you can see within range. On a hit, the target takes 2d8 poison damage. Additionally, if the attack hits the target's Constitution defense, it is also [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the end of your next turn.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d8 for each point of mana above the 1st.

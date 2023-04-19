@@ -153,14 +153,14 @@ When you begin your rage, you can use this power to gain blindsight (30', imprec
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 4 Points
-When you hit a target with a melee or thrown weapon attack, you push the target 10' away from you leave them [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) until the beginning of your next turn. If you critically hit the target when triggering this rage power, then they are [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the beginning of your next turn.
+#### **Cost:** 25 Character Points<br>**Rage Point Cost:** 4 Points
+When you hit a target with a melee or thrown weapon attack, you push the target 10' away from you leave them [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) until the beginning of your next turn. If you critically hit the target when triggering this rage power, then they are [Stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the beginning of your next turn.
 
 ## Great Throw
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1-3 Points
+#### **Cost:** 15 Character Points<br>**Rage Point Cost:** 1-3 Points
 When you throw a ranged weapon, you can put the full force of your rage behind it. You add an additional weapon damage die for each point spent by this power. If you spend at least 2 rage points in this way, the target is also knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). Your maximum range also increases by 5 times your Strength modifier and your long range threshold replaces your short range.
 
 ## Inspire Ferocity
@@ -174,28 +174,28 @@ As an action, you can grant allies within 30 feet the benefit (and penalty) of y
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-Make an Intimidation check against one adjacent foe as an action. If the barbarian's ability check equals or exeeds the target's passive insight, then the foe is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds + 1 round for every 5 points by which the barbarian’s check exceeds the DC.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe as an action. If your skill check equals or exeeds the target's passive insight, then the foe is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds + 1 round for every 5 points by which your check exceeds the DC.
 
 ## Knockdown
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Points
-Make a melee or thrown weapon attack. On a hit, you knock the target prone and inflict the [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) condition until the end of its next turn.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
+Make a melee or thrown weapon attack. On a hit, you knock the target prone and inflict the [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) condition until the end of its next turn.
 
 ## Leap to the Fray!
 
 <div style="margin-top:-10px;"></div>
 
-#### *Cost:* 20 Character Points<br>*Prerequisite:* None<br>**Rage Point Cost:** 3 Points
+#### **Cost:** 20 Character Points<br>**Rage Point Cost:** 3 Points
 As part of your [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) action, you leap into the air and bring your fury down on those nearby when you land. The distance can be up to your maximum move distance for the turn and the height is equal to 5 times your Strength modifier. If you attack at the end of this movement, you can roll any damage that you would ordinarily take from falling as additional damage on your attack.
 
 ## Moon Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:* 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
+#### **Cost:* 5 Character Points<br>**Rage Point Cost:** 1 Point
 While raging, you gain darkvision with a range of 30 feet. If you already have darkvision, then the range of your darkvision increases by 30 feet while you are raging.
 
 ## Moon Totem
@@ -209,15 +209,15 @@ While raging, you gains +1d on Perception checks to pinpoint the location of an 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Moon Totem<br>**Rage Point Cost:** 1 Point
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Moon Totem<br>**Rage Point Cost:** 1 Point
 While raging, you ignores the miss chance for concealment and treat total concealment as concealment.
 
 ## Powerful Blow
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-You add your martial feat die to a single damage roll. This power is declared before the roll to hit is made and can only be used once per round.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+You add your martial feat die to a single damage roll. This power is declared before the roll to hit is made and can only be used once per rage.
 
 ## Raging Skald
 
@@ -230,8 +230,8 @@ If you unleash a [Berserker’s Cry]() as you enter a rage or during a rage, the
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1-3 Points
-When you hit a target, you can expend rage points to gain temporary stamina. When you do so, the amount of temporary stamina gained is equal to the number of rage points spent, multiplied by 5.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1-3 Points
+When you hit a target, you can expend rage points to gain temporary Stamina. When you do so, the amount of Semporary stamina gained is equal to the number of rage points spent, multiplied by 5.
 
 ## Rip and Tear
 
@@ -244,35 +244,35 @@ Immediately after you deal damage with two consecutive [Strike](https://stormcha
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Point
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
 Your Dexterity defense vs ranged attacks increases by +1d for a number of rounds equal to your Constitution modifier.
 
 ## Scatter the Hordes
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 3 Point
+#### **Cost:** 15 Character Points<br>**Rage Point Cost:** 3 Points
 While you are grappling a target of equal or smaller size, you can choose to throw them across the battlefield. As an action, make an unarmed attack roll. On a hit, you throw them a distance equal to 5 times your Strength modifier in any direction that you choose. If the target hits something before the end of this distance, roll your rage damage die once for every 5 feet of distance remaining. The target takes this much damage. At the end of this movement, the target falls prone.
 
 ## Seize the Prey
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 2 Point
-While you grapple a target while raging, if you have a free hand, you can attempt to strangle the target in place of an unarmed attack. Make a rage attack roll. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an action to maintain the strangle hold. As long as you do so, the target is [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
+While you grappling a target, if you have a free hand, you can attempt to strangle the target in place of an unarmed attack. Make a rage attack roll. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an action in order to maintain the strangle hold. As long as you do so, the target is [Suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
 
 ## Shadow Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 4 Points
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 4 Points
 While raging, each time that you score a critical hit, your weapon surges with draining shadows. Make a rage attack vs the Constitution defence of the target. On a hit, the target takes 1d4 Strength damage. This is a negative energy effect.
 
 ## Shadow Totem
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Shadow Totem, Lesser<br>**Rage Point Cost:** 4 Points
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Shadow Totem, Lesser<br>**Rage Point Cost:** 4 Points
 Once per rage, as an action, you can take on a shadowy form until the end of your turn. While in this form, you gain the incorporeal subtype. You have resistance to damage from corporeal sources, as long as they are magic (and no damage from non-magical weapons and objects). Likewise, corporeal creatures have resistance to damage dealt by any magical effects that you create. Your manufactured and natural weapons count as ghost touch weapons while incorporeal in this manner. Spells and other effects that do not deal damage function normally. While you are incorporeal, you can pass through a wall or other surface that is up to 5 feet thick per barbarian talent that you have. You must exit the solid material by the end of your turn.
 
 ## Shadow Totem, Greater
@@ -286,23 +286,23 @@ While raging, you see perfectly to any distance in darkness, including magical d
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 3 Points
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points
 Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action. For any effect other than one on a creature, you must make your [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) roll against a DC of 15 plus the spell's level. To sunder an effect on a creature, the melee attack must also hit the creature, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceed the DC by 5 or more.
 
 ## Trample
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-As an action, the barbarian can attempt to overrun any creature that is the same size or smaller than itself. This works just like the overrun combat action, but the barbarian does not need to make a check, it merely has to move over opponents in its path.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+As an action, you can attempt to overrun any creature that is the same size as you or smaller. This works just like the overrun combat action, but the barbarian does not need to make a check, it merely has to move over opponents in its path.
 
-Targets of the overrun take an amount of damage equal to the barbarian’s rage damage + its Constitution modifier and may make an opportunity attack, but with -1d. If a target forgoes its opportunity attack, it may attempt to avoid the barbarian and make a Dexterity defence check against the barbarian's skill to take half damage.
+Targets of the overrun take an amount of damage equal to your martial feat die + your Constitution modifier and may make an attack of opportunity, but with -1d. If a target forgoes its opportunity attack, it may attempt to avoid you and make a Dexterity defence check against your weapon skill to take half damage.
 
-The barbarian can only deal this damage to each target once per round, no matter how many times its movement takes it over a target creature.
+You can only deal this damage to each target once per round, no matter how many times your movement takes you over a target creature.
 
 ## Whirlwind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 1 Point
-Your rage drives you across the battlefield on a vicious, reaping path. Make a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action against a target, then move to up to your movement speed to another target. The second target must be close enough to reach in melee with your remaining move distance. This movement does not provoke opportunity attacks. Do not add your ability score modifier to the attack or damage roll of these attacks. You can repeat this effect for 1 extra rage point as long as you have enough move remaining during your turn.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Point
+Your rage drives you across the battlefield on a vicious, reaping path. Following a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action against a target, [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) to another target and [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) it. The second target must be close enough to reach in melee. This movement does not provoke opportunity attacks and the second attack does not suffer from the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).

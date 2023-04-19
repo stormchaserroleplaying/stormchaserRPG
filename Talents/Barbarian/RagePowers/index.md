@@ -104,7 +104,7 @@ Once per rage, you can reroll any mental (Intelligence-, Wisdom-, or Charisma-ba
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Blood for Blood<br>**Rage Point Cost:** 1 Point
 As a free action, you may leave yourself open to attack while preparing devastating counterattacks. Enemies gain +1d on melee attack and damage rolls against you until the beginning of your next turn, but every melee attack that targets you provokes an attack of opportunity from you, which is resolved prior to resolving each enemy attack.
 
 ## Crippling Blow

@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You send someone's mind and body into overdrive, forcing it to become restless and hyperactive.*
 
-Make a spell attack vs the Wisdom defence of one creature that you can see within range. On a hit, the creature must use at least 30 feet of movement each turn or take 2d8 psychic damage at the end of its turn.
+Make a charm attack vs the Wisdom defence of one creature that you can see within range. On a hit, the creature must take the [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) action at least each turn, or take 2d8 psychic damage at the end of its turn.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d8 for each point of mana above the 1st.
 
@@ -28,7 +28,7 @@ Make a spell attack vs the Wisdom defence of one creature that you can see withi
 
 *You convince a beast that you mean it no harm.*
 
-Make a spell attack vs the  Wisdom defence of one beast that can see and hear you within range. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, on a hit the creature is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the spell's duration. If you or one of your companions harms the target, the spell ends.
+Make a charm attack vs the Intelligence defence of one beast that can see and hear you within range. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, on a hit the creature is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the spell's duration. If you or one of your companions harms the target, the spell ends.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can affect one additional beast for each point of mana above the 1st.
 
@@ -41,7 +41,7 @@ Make a spell attack vs the  Wisdom defence of one beast that can see and hear yo
 
 After anointing an undamaged human skull with droplets of holy water, hide it in a place where neither sun nor moon nor starlight will ever touch it. Upon casting this spell, the skull will begin to utter whispers that ooze from the spell's caster.
 
-Make a spell attack vs the Wisdom defence of a creature within 10 feet of you. On a hit, the creature is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) by the whispers until they leave this 10 foot radius. Any creature that enters the radius on its turn must succeed at a Wisdom defence check vs your charms spell skill or also become [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you.
+Make a charm attack vs the Wisdom defence of a creature within 10 feet of you. On a hit, the creature is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) by the whispers until they leave this 10 foot radius. Any creature that enters the radius on its turn must succeed at a Wisdom defence check vs your charms skill or also become [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you.
 
 ## Bane
 *Level 1 Charm*<br>
@@ -52,7 +52,7 @@ Make a spell attack vs the Wisdom defence of a creature within 10 feet of you. O
 
 *You inflict a minor curse upon your enemies making it harder for them to hit their mark.*
 
-Make a spell attack vs the Charisma defence of up to three creatures that you can see within range. On a hit, an affected creature has -1d to defence checks, and melee and ranged attack rolls until the spell ends.
+Make a charm attack vs the Charisma defence of up to three creatures that you can see within range. On a hit, an affected creature has -1d to defence checks, and melee and ranged attack rolls until the spell ends.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st.
 
@@ -63,7 +63,7 @@ Make a spell attack vs the Charisma defence of up to three creatures that you ca
 **Components:** V, S, M *(The preserved heart of a slave, worth 20 gp, which the spell consumes.)*<br>
 **Duration:** Special
 
-Take the preserved heart of a slave and wrap it in hempen cord when you cast this spell. The next time that a creature touches this heart barehanded, it must make a Charisma defence check vs your charms spell skill. On a fail, the creature becomes a slave to the spell's caster until the heart is destroyed, or the magic dispelled. A slave will not do anything to harm itself or any friends it has, but will perform any manner of menial task for its master. An undead creature, or any creature immune to the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition, is immune to this spell's effects.
+Take the preserved heart of a slave and wrap it in hempen cord when you cast this spell. The next time that a creature touches this heart barehanded, it must make a Charisma defence check vs your charms skill. Should the creature fail, it becomes a slave to the spell's caster until the heart is destroyed, or the magic dispelled. A slave will not do anything to harm itself or any friends that it has, but will perform any manner of menial task for its master. An undead creature, or any creature immune to the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition, is immune to this spell's effects.
 
 ## Bless
 *Level 1 Charm*<br>
@@ -87,7 +87,7 @@ You bless up to three creatures of your choice within range. For the duration of
 
 *You call upon the dread of one's worst nightmare.*
 
-Make a spell vs the Wisdom defence of one creature you can see within range. On a hit, the creature becomes [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. The [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) creature can make a Charisma defence check vs your charms spell skill at the end of each of its turns, ending the effect on itself on a success. Constructs and undead creatures are immune to effect.
+Make a charm attack roll vs the Wisdom defence of one creature that you can see within range. On a hit, the creature becomes [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. The [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) creature can make a Charisma defence check vs your charms spell skill at the end of each of its turns, ending the effect on itself on a success. Constructs and undead creatures are immune to effect.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st. The creatures must be within 30 feet of each other when you target them.
 
@@ -100,7 +100,7 @@ Make a spell vs the Wisdom defence of one creature you can see within range. On 
 
 *Your words are honey and your visage seems bathed in a dreamy haze.*
 
-Make a spell attack vs the Wisdom defence of a humanoid creature that you can see within range; if you or your companions are fighting it, then you have -1d to the roll. If you hit, it is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you.
+Make a charm attack vs the Intelligence defence of a humanoid creature that you can see within range; if you or your companions are fighting it, then you have -1d to the roll. If you hit, it is [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st. The creatures must be within 30 feet of each other when you target them.
 
@@ -113,11 +113,11 @@ Make a spell attack vs the Wisdom defence of a humanoid creature that you can se
 
 *You shout a command that's hard to ignore.*
 
-You speak a one-word command to a creature in range. Make a spell attack vs the Charisma defence of the creature. On a hit, the creature follows the command on its next turn. The spell has no effect if the creature is undead, if it doesn't understand your language, or if your command is directly harmful to it.
+You speak a one-word command to a creature in range. Make a charm attack vs the Charisma defence of the creature. On a hit, the creature follows the command on its next turn. The spell has no effect if the creature is undead, if it doesn't understand your language, or if your command is directly harmful to it.
 
 Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the creature behaves. If the creature can't follow your command, the spell ends.
 
-**Approach.** The creature moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+**Approach.** The creature moves towards you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
 
 **Drop.** The creature drops whatever it is holding and then ends its turn.
 
@@ -138,7 +138,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 *You attempt you coerce another, making it difficult for them to attack anyone but you.*
 
-Make a spell attack vs the Wisdom defence of one creature that you can see within range. On a hit, the creature is drawn to you, compelled by your demand. For the duration, it has -1d on attack rolls against creatures other than you, and must make a Wisdom defence check vs your charms spell skill each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this check, this spell doesn’t restrict the creature's movement for that turn.
+Make a charm attack vs the Charisma defence of one creature that you can see within range. On a hit, the creature is drawn to you, compelled by your demand. For the duration, it has -1d on attack rolls vs creatures other than you, and must make a Charisma defence check vs your charms spell skill each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this check, this spell doesn’t restrict the creature's movement for that turn.
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 

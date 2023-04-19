@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *Tendrils of dark energy erupt from you and batter all creatures around you.*
 
-Make a melee spell attack against each creature in the area other than yourself. On a hit, a target takes 2d6 energy damage and can’t take make attacks of opportunity or take other free actions until the start of its next turn. On a miss, the creature takes half damage, but suffers no other effect.
+Make a melee conjuration attack against each creature in the area other than yourself. On a hit, a target takes 2d6 energy damage and can’t take make attacks of opportunity or take other free actions until the start of its next turn. On a miss, the creature takes half damage, but suffers no other effect.
 
 **At Higher Levels.** When you cast this spell using a 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 
@@ -30,7 +30,7 @@ Make a melee spell attack against each creature in the area other than yourself.
 
 Plants emerge from the ground turn the area into difficult terrain for the duration.
 
-When you cast the spell, make a spell attack vs the Strength defence for each creature within the area. On a hit, a creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the entangling plants until the spell ends. A creature [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the plants can use 2 actions to make a Strength defence check vs your conjuration spell skill. On a success, it frees itself.
+When you cast the spell, make a conjuration attack vs the Strength defence for each creature within the area. On a hit, a creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the entangling plants until the spell ends. A creature [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the plants can use 2 actions to make a Strength defence check vs your conjuration spell skill. On a success, it frees itself.
 
 When the spell ends, the conjured plants wilt away.
 
@@ -94,9 +94,9 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 *You create a shard of ice, exploding when it reaches its target.*
 
-Make a ranged spell attack against a target you can see within range. On a hit, the target takes 1d10 piercing damage.
+Make a ranged conjuration attack against a target you can see within range. On a hit, the target takes 1d10 piercing damage.
 
-Hit or miss, the shard then explodes. Make a spell attack vs the Dexterity defence of the target and each creature within 5 feet of it. On a hit, a creature takes 2d6 cold damage.
+Hit or miss, the shard then explodes. Make a conjuration attack vs the Dexterity defence of the target and each creature within 5 feet of it. On a hit, a creature takes 2d6 cold damage.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the cold damage increases by 1d6 for each point of mana above the 1st.
 
@@ -109,7 +109,7 @@ Hit or miss, the shard then explodes. Make a spell attack vs the Dexterity defen
 
 *A pool of flammable oil covers the ground.*
 
-You throw the flask of oil at a point within range and the oil spreads to cover a 10-foot square area. The area is difficult terrain for the duration. When the grease appears, make a spell attack against each creature in the area vs its Dexterity defence. On a hit, a creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). A creature that enters the area or ends its turn there must make Dexterity defence check vs your conjuration spell skill. On a fail, it falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+You throw the flask of oil at a point within range and the oil spreads to cover a 10-foot square area. The area is difficult terrain for the duration. When the grease appears, make a cnjuration attack against each creature in the area vs its Dexterity defence. On a hit, a creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). A creature that enters the area or ends its turn there must make Dexterity defence check vs your conjuration spell skill. On a fail, it falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 The oil is flammable. Any 5 foot square of the oil exposed to fire ignites and burns away in 2 rounds. Each creature who enters the fire or starts it turn there takes 2d4 fire damage. The fire ignites any flammable objects in the area that aren’t being worn or carried.
 

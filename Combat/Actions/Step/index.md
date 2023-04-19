@@ -1,6 +1,6 @@
 ---
 title: Step
-parent: Basic Actions
+parent: Move Actions
 grand_parent: Combat
 ---
 

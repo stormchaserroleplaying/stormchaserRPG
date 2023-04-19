@@ -1,6 +1,6 @@
 ---
 title: Fly
-parent: Basic Actions
+parent: Movement Actions
 grand_parent: Combat
 ---
 

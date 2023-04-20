@@ -43,9 +43,9 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *A beam of crackling energy bestowed upon you by your patron streaks toward your foe.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier damage - type of damage is determine by your choice of patron.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier damage - type of damage is determine by your choice of patron.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, instead of this spell dealing one additional die of damage, you make an additional ranged spell attack. This second attack can be at the same target or a different target within range.
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, instead of this spell dealing one additional die of damage, you make an additional ranged evocation attack. This second attack can be at the same target or a different target within range.
 
 ## Fire Bolt
 *Evocation Cantrip*<br>
@@ -56,7 +56,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You hurl a mote of fire.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 ## Frostbite
 *Evocation Cantrip*<br>
@@ -67,7 +67,7 @@ Make a ranged spell attack against a target that you can see within range. On a 
 
 *You cause numbing frost to form.*
 
-Make a spell attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
+Make a evocation attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
 
 ## Green-Flame Blade
 *Evocation Cantrip*<br>
@@ -93,7 +93,7 @@ When you gain the [Potent Cantrips](https://stormchaserroleplaying.com/stormchas
 
 You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
-If you target an object held or worn by a hostile creature, you must hit with a spell attack roll vs that creature's Dexterity defence. Otherwise the creature avoids the spell.
+If you target an object held or worn by a hostile creature, you must hit with a evocation attack roll vs that creature's Dexterity defence. Otherwise the creature avoids the spell.
 
 You can create a permanent light by casting this spell on the same object every day for one year.
 
@@ -108,7 +108,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You create a rope of lightning that pulls your target closer to you then delivers a shock them.*
 
-Make a spell attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 1d8 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
+Make a evocation attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 1d8 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
 
 ## Ray of Frost
 *Evocation Cantrip*<br>
@@ -119,7 +119,7 @@ Make a spell attack roll vs the Strength defence of one target that you can see 
 
 *A frigid beam of blue-white light slows down attackers.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, it takes 1d8 + your spellcasting ability modifier cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+Make a ranged evocation attack against a target that you can see within range. On a hit, it takes 1d8 + your spellcasting ability modifier cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
 ## Sacred Flame
 *Evocation Cantrip*<br>
@@ -130,7 +130,7 @@ Make a ranged spell attack against a target that you can see within range. On a 
 
 *Flame-like radiance descends from the heavens.*
 
-Make a spell attack roll vs the Dexterity defence of a target that you can see within range. On a hit, the target takes 1d8 + your spellcasting ability modifier sacred damage. The target gains no benefit from cover for this attack.
+Make a evocation attack roll vs the Dexterity defence of a target that you can see within range. On a hit, the target takes 1d8 + your spellcasting ability modifier sacred damage. The target gains no benefit from cover for this attack.
 
 ## Shock
 *Evocation Cantrip*<br>
@@ -141,7 +141,7 @@ Make a spell attack roll vs the Dexterity defence of a target that you can see w
 
 *You hurl a spark of lightning at a creature or object.*
 
-Make a ranged spell attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting attribute modifier electric damage.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 1d10 + your spellcasting attribute modifier electric damage.
 
 ## Shocking Grasp
 *Evocation Cantrip*<br>
@@ -152,7 +152,7 @@ Make a ranged spell attack against a target that you can see within range. On a 
 
 *Reaching out, you deliver a jolt to the system of a creature causing them to sieze up and allowing you to slip away.*
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 1d8 + your spellcasting ability modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee evocation attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 1d8 + your spellcasting ability modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
 
 ## Thunderclap
 *Evocation Cantrip*<br>
@@ -163,7 +163,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 *You emit a burst of thunderous energy.*
 
-Make a spell attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 1d6 + your spellcasting ability modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
+Make a evocation attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 1d6 + your spellcasting ability modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
 
 ## Touch of Combustion
 *Evocation Cantrip*<br>
@@ -174,7 +174,7 @@ Make a spell attack roll vs the Constitution defence of each creature other than
 
 *You set a creature alight with fire that can spread to others.*
 
-Make a melee spell attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 1d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make a spell attack roll vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they take 1d4 fire damage.
+Make a melee evocation attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 1d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make a evocation attack vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they take 1d4 fire damage.
 
 ## Word of Radiance
 *Evocation Cantrip*<br>
@@ -185,4 +185,4 @@ Make a melee spell attack against a target you can see within range. On a hit, t
 
 *You utter a divine word and burning radiance erupts from you.*
 
-Make a spell attack roll vs the Dexterity defence of each creature of your choice within range. On a hit, a creature takes 1d6 + your spellcasting ability modifier sacred damage.
+Make a evocation attack roll vs the Dexterity defence of each creature of your choice within range. On a hit, a creature takes 1d6 + your spellcasting ability modifier sacred damage.

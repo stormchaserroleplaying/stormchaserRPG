@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You create a ghostly, skeletal hand that assails a creature with the chill of the grave.*
 
-Make a ranged spell attack against a creature that you can see within range. On a hit, the target takes 1d8 + your spellcasting attribute modifier decay damage and cannot regain Stamina until the start of your next turn. Until then, the hand clings to the target.
+Make a ranged necromancy attack against a creature that you can see within range. On a hit, the target takes 1d8 + your spellcasting attribute modifier decay damage and cannot regain Stamina until the start of your next turn. Until then, the hand clings to the target.
 
 If you hit an undead target, it also has -1d on attack rolls against you until the end of your next turn.
 
@@ -28,7 +28,7 @@ If you hit an undead target, it also has -1d on attack rolls against you until t
 
 *You sap the vitality of a creature.*
 
-Make a spell attack roll vs the Constitution defence of a target that you can see within range. On a hit, the target takes 1d4 + your spellcasting ability modifier profane damage and falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+Make a necromancy attack roll vs the Constitution defence of a target that you can see within range. On a hit, the target takes 1d4 + your spellcasting ability modifier profane damage and falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 ## Toll the Dead
 *Necromancy Cantrip*<br>
@@ -39,4 +39,4 @@ Make a spell attack roll vs the Constitution defence of a target that you can se
 
 *The sound of dolorous bells around a creature, for a momnet.*
 
-You point at one creature that you can see within range and make a spell attack roll vs the target's Wisdom defence. On a hit, the target takes 1d8 + your spellcasting attribute modifier profane damage. If the target is missing any of its Stamina, it instead takes 1d12 + your Spellcasting attribute modifier profane damage.
+You point at one creature that you can see within range and make a necromancy attack roll vs the target's Wisdom defence. On a hit, the target takes 1d8 + your spellcasting attribute modifier profane damage. If the target is missing any of its Stamina, it instead takes 1d12 + your Spellcasting attribute modifier profane damage.

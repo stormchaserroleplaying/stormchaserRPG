@@ -26,7 +26,7 @@ The target is considered on size category greater for the purposes of [lifting a
 
 *You are a one-person siege engine, hurling objects toward obstacles or foes.*
 
-Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, make a spell attack against that creature vs its Dexterity defence. On a hit, the object strikes the creature and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, make a transmutation attack against that creature vs its Dexterity defence. On a hit, the object strikes the creature and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each point of mana above the 1st.
 
@@ -132,7 +132,7 @@ You touch one willing creature and its speed increases by 10 feet until the spel
 
 *You cover the skin of a creature in a slippery substance.*
 
-Make a spell attack vs the Dexterity defence a creature in range. On a hit, the target is covered in grease until the spell ends and the following apply to the target:
+Make a transmutation attack vs the Dexterity defence a creature in range. On a hit, the target is covered in grease until the spell ends and the following apply to the target:
 * Attempts to [Grapple](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) the target and attempts made by the target to [Grapple](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) another creature gain have -1d.
 * Attempts to [Disarm](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Disarm/) the target have +1d.
 * The target has +1d to [Escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
@@ -148,7 +148,7 @@ Make a spell attack vs the Dexterity defence a creature in range. On a hit, the 
 
 *That magical force that keeps us attached to the ground becomes stronger in a small area.*
 
-The gravity in a 10-foot radius sphere centered on a point you can see within range increases for a moment. Make a spell attack vs the Constitution defence for each creature in the sphere. On a hit, a creature takes 2d8 energy damage, and its speed is halved until the end of its next turn. On a miss, a creature takes half as much damage and suffers no reduction to its speed.
+The gravity in a 10-foot radius sphere centered on a point you can see within range increases for a moment. Make a transmutation attack vs the Strength defence for each creature in the sphere. On a hit, a creature takes 2d8 energy damage, and its speed is halved until the end of its next turn. On a miss, a creature takes half as much damage and suffers no reduction to its speed.
 
 Until the start of your next turn, any object that isn’t being worn or carried in the sphere requires a successful Strength check vs your transmutation spell skill to pick up or move.
 
@@ -161,6 +161,6 @@ Until the start of your next turn, any object that isn’t being worn or carried
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*You make meals and drink safe to consume.*
+*You make food and drink safe to consume.*
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.

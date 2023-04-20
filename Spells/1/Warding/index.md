@@ -56,7 +56,7 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
-When this spell is cast, you can regain Stamina in the amount of one-half of the damage received from the weapon attack. You also gain a retribution charge. While the spell is active, you can choose to spend this charge to deal an additional 2d10 energy damage when you hit with a weapon attack. Once you expend the charge the spell ends.
+When this spell is cast, you gain 1 level of resistance against the triggering attack. You also gain a retribution charge. While the spell is active, you can choose to spend this charge to deal an additional 2d10 energy damage when you hit with a weapon attack. Once you expend the charge the spell ends.
 
 This spell triggers the first time you take damage from a weapon attack, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
 
@@ -82,7 +82,7 @@ Until the spell ends, the target gains DR 4 and coverage 11-16. The effects of t
 
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 
-The protection grants several benefits. Creatures of those types have -1d on attack rolls against the target. The target also can't be [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [[Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by them. If the target is already [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [[Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by such a creature, the target has +1d on any new defence checks against a relevant effect.
+The protection grants several benefits. Creatures of those types have -1d on attack rolls against the target. The target also can't be [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by them. If the target is already [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by such a creature, the target has +1d on any new defence checks against a relevant effect.
 
 ## Sanctuary
 *1st Level Warding*<br>
@@ -93,7 +93,7 @@ The protection grants several benefits. Creatures of those types have -1d on att
 
 *Creatures think twice before attacking those with this spell's protection.*
 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom defence check vs your warding spell skill. On a failed check, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.
+You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Charisma defence check vs your warding spell skill. On a failed check, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a [Fireball]().
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
 

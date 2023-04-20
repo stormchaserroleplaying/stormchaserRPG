@@ -43,4 +43,4 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You drive a disorienting spike of psychic energy into the mind of a creature.*
 
-Make a spell attack vs the Wisdom defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier psychic damage and the next attack roll made against the target before the end of your next turn has +1d.
+Make a charm attack vs the Wisdom defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier psychic damage and the next attack roll made against the target before the end of your next turn has +1d.

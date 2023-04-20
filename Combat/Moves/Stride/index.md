@@ -1,15 +1,14 @@
 ---
-title: Burrow
-parent: Basic Actions
+title: Stride
+parent: Movement Actions
 grand_parent: Combat
 ---
 
-# Burrow
+# Stride
 *Move*<br>
-**Actions:** 1<br>
-**Requirements:** You have a burrow speed.
+**Actions:** 1
 
-You dig your way through dirt, sand, or a similar loose material at a rate up to your burrow Speed. You can’t burrow through rock or other substances denser than dirt unless you have an ability that allows you to do so.
+You move up to your speed.
 
 > ## Breaking Up Your Move
 > You can break up your movement on your turn, using some of your speed before and after your action. For example, if you have a speed of 30 feet, you can move 10 feet, take an action, such as Strike, and then move 20 feet.

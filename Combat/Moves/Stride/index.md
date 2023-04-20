@@ -1,6 +1,6 @@
 ---
 title: Stride
-parent: Move Actions
+parent: Movement Actions
 grand_parent: Combat
 ---
 

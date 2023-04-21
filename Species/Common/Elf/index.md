@@ -32,7 +32,7 @@ Generally taller than humans, elves possess a graceful, slender physique that is
 ## Features
 Your elf character has a variety of natural features, which are the result of thousands of years of elven refinement.
 
-## Attribute Score Increase
+### Attribute Score Increase
 Your Dexterity score rises by 2.
 
 ### Fey Ancestry

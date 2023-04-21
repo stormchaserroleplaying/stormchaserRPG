@@ -49,7 +49,7 @@ You can see in dim light as though it were bright light, so you ignore the conce
 You have +1d to Perception. Additionally, [scent](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#scent) is an [imprecise sense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Senses/#imprecise-senses) for you with a range of 30 feet.
 
 ### Tricksy Magic
-You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. You can cast the [Mischief]() spell a number of times equal to your Charisma modifier. Charisma is your spellcasting ability for these spells.
+You know the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. You can cast the [Mischief]() spell a number of times equal to your Charisma modifier. Charisma is your spellcasting attribute for these spells.
 
 ## Size
 Regardless of their form, Kitsune are generally slender and slight in stature. Your size is Medium.

@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *Tendrils of dark energy erupt from you and batter all creatures around you.*
 
-Make a melee conjuration attack against each creature in the area other than yourself. On a hit, a target takes 2d6 energy damage and can’t take make attacks of opportunity or take other free actions until the start of its next turn. On a miss, the creature takes half damage, but suffers no other effect.
+Make a melee conjuration attack against each creature within range, other than yourself. On a hit, a target takes 2d6 decay damage and can’t take make attacks of opportunity or take other free actions until the start of its next turn. On a miss, the creature takes half damage, but suffers no other effect.
 
 **At Higher Levels.** When you cast this spell using a 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 

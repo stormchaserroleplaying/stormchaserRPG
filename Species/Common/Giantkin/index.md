@@ -41,7 +41,7 @@ You are descended from giants. Choose one of the following phenotypes:
 ### Cloud Giant
 
 #### Cloud's Jaunt
-You can cast the [Fog Cloud]() and [Misty Step]() spells a number of times equal to your Constitution modifier.
+You can cast the [Fog Cloud]() and [Misty Step]() spells a number of times equal to your Constitution modifier. Wisdom is your spellcasting attribute for these spells. 
 
 You regain all expended uses when you finish a long rest.
 

@@ -12,7 +12,7 @@ Kitsune reach adulthood in their mid-teens and generally live into their late 70
 
 | Age Bracket | Age |
 |:-----------:|:---:|
-| Child       | <15 |
+| Child       | <16 |
 | Young Adult | 16-22 |
 | Adult       | 23-31 |
 | Middle Aged | 32-49 |

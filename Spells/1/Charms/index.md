@@ -185,21 +185,6 @@ Make a charm attack vs the Wisdom defence of one creature within range that you 
 
 At the end of each of its turns the creature can make a Wisdom defence check vs your charms spell skill. Additionally, the creature can make a Wisdom defence check vs your charms spell skill at the beginning of its turn if it has taken damage since the end of its last turn; the creature has +1d on the check if it's triggered by damage. On a success, the spell ends.
 
-## Silvery Barbs
-*1st Level Charm*<br>
-**Casting Time:** Trigger - A creature you can see in range succeeds on a melee or ranged attack roll, ability check or defence check.<br>
-**Range:** 60 Feet<br>
-**Components:** V*<br>
-**Duration:** Instantaneous
-
-*You distract a creature and turn its momentary uncertainty into encouragement for another.*
-
-The triggering creature must reroll the d20 and use the lower roll.
-
-You then choose a different creature you can see within range; you can choose yourself. The chosen creature has +1d on the next melee or ranged attack roll, ability check, or defence check it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
-
-This spell triggers the first time a hostile creature in range succeeds on an melee or ranged attack roll, ability check or defence check, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
-
 ## Sleep
 *1st Level Charm*<br>
 **Casting Time:** 2 Actions<br>
@@ -209,10 +194,10 @@ This spell triggers the first time a hostile creature in range succeeds on an me
 
 *You send creatures into a magical slumber.*
 
-Roll 5d8; the total is the amount of Stamina that this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current Stamina (ignoring unconscious creatures).
+Roll 10d10; the total is the amount of Stamina that this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current Stamina (ignoring unconscious creatures).
 
 Starting with the creature that has the lowest current Stamina, each creature affected by this spell falls [Unconscious](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Unconscious) until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s current Stamina from the total before moving on to the creature with the next lowest Stamina. A creature’s Stamina must be equal to or less than the remaining total for that creature to be affected.
 
 Undead and creatures immune to being [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) aren’t affected by this spell.
 
-**At Higher Levels.** When you cast this spell using 2 or more mana, roll an additional 2d8 for each point of mana above the 1st.
+**At Higher Levels.** When you cast this spell using 2 or more mana, roll an additional 4d10 for each point of mana above the 1st.

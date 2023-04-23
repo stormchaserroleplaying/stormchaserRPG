@@ -22,15 +22,15 @@ Make a melee conjuration attack against each creature within range, other than y
 ## Entangle
 *1st Level Conjuration*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 90 Feet (20-foot square)<br>
+**Range:** 120 Feet (20-foot square)<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *You cause grasping weeds and vines sprout from the ground.*
 
-Plants emerge from the ground turn the area into difficult terrain for the duration.
+Plants emerge from the ground and turn the area into difficult terrain for the duration.
 
-When you cast the spell, make a conjuration attack vs the Strength defence for each creature within the area. On a hit, a creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the entangling plants until the spell ends. A creature [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the plants can use 2 actions to make a Strength defence check vs your conjuration spell skill. On a success, it frees itself.
+When you cast the spell, make a conjuration attack vs the Strength defence of each creature within the area. On a hit, a creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the entangling plants until the spell ends. A creature [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the plants can use 2 actions to make a Strength defence check vs your conjuration spell skill. On a success, it frees itself.
 
 When the spell ends, the conjured plants wilt away.
 
@@ -77,7 +77,7 @@ If you move more than 100 feet from the disc (typically because it can't move ar
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet (20-foot radius)<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 hour
+**Duration:** 1 hour
 
 *A small area of fog appears, hiding everything within it.*
 

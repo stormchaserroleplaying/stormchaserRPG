@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A bit of fur wrapped in cloth.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *You link your mind with an animal.*
 
@@ -37,7 +37,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V, S, M *(A divine focus.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *Your persistent gaze will unveil hidden evil.*
 
@@ -54,7 +54,7 @@ If you are of good alignment and the strongest evil aura’s power is overwhelmi
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *Many creatures cannot hide from your eyes.*
 
@@ -62,14 +62,14 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3, the spell no longer require concentration. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Detect Magic
 *1st Level Divination (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self (30-foot radius)<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *You can see the color of magic.*
 
@@ -77,14 +77,14 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3, the spell no longer require concentration. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Detect Poison and Disease
 *1st Level Divination (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self (30-foot radius)<br>
 **Components:** V, S, M *(A yew leaf.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *You can sense the presence and location of poisons, poisonous creatures, and diseases.*
 
@@ -92,7 +92,7 @@ For the duration, you can sense the presence of and you also identify the kind o
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3, the spell no longer require concentration. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Identify
 *1st Level Divination (Ritual)*<br>

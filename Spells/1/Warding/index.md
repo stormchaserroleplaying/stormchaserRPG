@@ -52,7 +52,7 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 **Casting Time:** Trigger - You take damage from a weapon attack.
 **Range:** Self<br>
 **Components:** V, S, M *(An executioner's hood.)*<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
@@ -76,7 +76,7 @@ Until the spell ends, the target gains DR 4 and coverage 11-16. The effects of t
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(Holy water or powdered silver and iron, which the spell consumes.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *You protect one against many types of creatures.*
 
@@ -89,7 +89,7 @@ The protection grants several benefits. Creatures of those types have -1d on att
 **Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A small silver mirror.)*<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *Creatures think twice before attacking those with this spell's protection.*
 
@@ -115,7 +115,7 @@ If you go the entire round without being the target of a [Magic Missiles]() or y
 **Casting Time:** 1 Action<br>
 **Range:** 60 feet<br>
 **Components:** V, S, M *(A small parchment with a bit of holy text written on it.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *A shimmering shield of divine energy appears to provide additional protection.*
 

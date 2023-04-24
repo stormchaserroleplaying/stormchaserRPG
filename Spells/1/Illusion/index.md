@@ -84,7 +84,7 @@ A creature with [truesight](https://stormchaserroleplaying.com/stormchaserRPG/Ex
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet (15-foot cube)<br>
 **Components:** V, S, M *(A bit of fleece.)*<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 *You create a large illusion with convincing movements.*
 

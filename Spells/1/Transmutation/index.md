@@ -50,7 +50,7 @@ You either create or destroy water.
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *You briefly move at an incredible pace.*
 
@@ -104,7 +104,7 @@ You jump 30 feet in any direction without touching the ground. You must land on 
 **Casting Time:** 1 Minute<br>
 **Range:** Self<br>
 **Components:** S<br>
-**Duration:** Concentration, up to 8 hours
+**Duration:** Sustained, up to 8 hours
 
 *You can see in the dark, but don't venture out during the daytime.*
 
@@ -128,7 +128,7 @@ You touch one willing creature and its speed increases by 10 feet until the spel
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A bit of pork rind or butter)*<br>
-**Duration:** Concentration, up to 1 Minute
+**Duration:** Sustained, up to 1 Minute
 
 *You cover the skin of a creature in a slippery substance.*
 

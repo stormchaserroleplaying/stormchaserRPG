@@ -8,7 +8,7 @@ grand_parent: Combat
 *Move*<br>
 **Actions:** 1
 
-You take a careful, short jump. You can Leap up to 10 feet horizontally if your speed is at least 15 feet, or up to 15 feet horizontally if your speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more).
+You take a careful, short jump. If you movement speed is at least 15 feet, you can Leap across any space up to 5 feet wide, safely clearing any obstacle on the same or lower elevation as your starting point, then land on the next space beyond. If your movement speed is at least 30 feet, you can Leap across a space 10 feet wide in the same manner. For every 10-foot drop in elevation from your starting to ending point, your Leap may cover an extra 5 feet of cleared distance.
 
 If you Leap vertically, you can move up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 

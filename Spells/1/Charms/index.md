@@ -20,7 +20,7 @@ Make a charm attack vs the Wisdom defence of one creature that you can see withi
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d8 for each point of mana above the 1st.
 
 ## Animal Friendship
-*Level 1 Charm*<br>
+*Level 1 Charm (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A morsel of food.)*<br>

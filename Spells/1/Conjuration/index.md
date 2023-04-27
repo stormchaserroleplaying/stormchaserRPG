@@ -73,7 +73,7 @@ If you move more than 100 feet from the disc (typically because it can't move ar
 **At Higher Levels.** When you cast this spell using a 3 or more mana, the diameter increases by 3 feet and capacity increased by 500 pounds for every 2 mana above the 1st.
 
 ## Fog Cloud
-*1st Level Conjuration*<br>
+*1st Level Conjuration (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet (20-foot radius)<br>
 **Components:** V, S<br>
@@ -101,15 +101,15 @@ Hit or miss, the shard then explodes. Make a conjuration attack vs the Dexterity
 **At Higher Levels.** When you cast this spell using 2 or more mana, the cold damage increases by 1d6 for each point of mana above the 1st.
 
 ## Oil Slick
-*1st Level Conjuration*<br>
+*1st Level Conjuration (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet (10-foot square)<br>
 **Components:** V, S, M *(A drop of oil.)*<br>
-**Duration:** 1 Minute
+**Duration:** Instantaneous
 
 *A pool of flammable oil covers the ground.*
 
-You throw the flask of oil at a point within range and the oil spreads to cover a 10-foot square area. The area is difficult terrain for the duration. When the grease appears, make a cnjuration attack against each creature in the area vs its Dexterity defence. On a hit, a creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). A creature that enters the area or ends its turn there must make Dexterity defence check vs your conjuration spell skill. On a fail, it falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+You throw a drop of oil at a point within range and it spreads to cover a 10-foot square area. The area is difficult terrain. When the grease appears, make a conjuration attack against each creature in the area vs its Dexterity defence. On a hit, a creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). A creature that enters the area or ends its turn there must make Dexterity defence check vs your conjuration spell skill. On a fail, it falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 The oil is flammable. Any 5 foot square of the oil exposed to fire ignites and burns away in 2 rounds. Each creature who enters the fire or starts it turn there takes 2d4 fire damage. The fire ignites any flammable objects in the area that aren’t being worn or carried.
 

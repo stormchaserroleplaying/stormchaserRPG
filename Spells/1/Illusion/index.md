@@ -6,7 +6,7 @@ grand_parent: Spells
 
 # Illusion
 
-## Color Spray
+## Colour Spray
 *1st Level Illusion*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self (15-foot cone)<br>
@@ -15,14 +15,14 @@ grand_parent: Spells
 
 *A blinding array of colored light springs from your hand.*
 
-Roll 6d10; the total is the amount of Stamina this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current Stamina (ignoring unconscious creatures and creatures that can't see).
+Roll 15d10; the total is the amount of Stamina this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current Stamina (ignoring unconscious creatures and creatures that can't see).
 
 Starting with the creature that has the lowest current Stamina, each creature affected by this spell is [Blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/) until the end of your next turn. Subtract each creature's Stamina from the total before moving on to the creature with the next lowest Stamina. A creature's Stamina must be equal to or less than the remaining total for that creature to be affected.
 
-**At Higher Levels.** When you cast this spell using 2 or more mana, roll an additional 2d10 for each point of mana above the 1st.
+**At Higher Levels.** When you cast this spell using 2 or more mana, roll an additional 5d10 for each point of mana above the 1st.
 
 ## Disguise Self
-*1st Level Illusion*<br>
+*1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
@@ -37,8 +37,8 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your illusion spell skill.
 
 ## Distort Value
-*1st Level Illusion*<br>
-**Casting Time:** 1 Minute<br>
+*1st Level Illusion (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch (1-foot cube)<br>
 **Components:** V<br>
 **Duration:** 8 Hours
@@ -50,7 +50,7 @@ You cast this spell on an object no more than 1 foot on a side, doubling the obj
 **At Higher Levels.** When you cast this spell using 2 or more mana, the maximum size of the object increases by 1 foot for each point of mana above the 1st.
 
 ## Hidden Item
-*1st Level Illusion*<br>
+*1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch (1-foot cube)<br>
 **Components:** S<br>
@@ -80,7 +80,7 @@ Should the spell be dispelled, the original script and the illusion both disappe
 A creature with [truesight](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/VisionandLight/#truesight) can read the hidden message.
 
 ## Silent Image
-*1st Level Illusion*<br>
+*1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet (15-foot cube)<br>
 **Components:** V, S, M *(A bit of fleece.)*<br>

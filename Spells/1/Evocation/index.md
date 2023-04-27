@@ -8,16 +8,14 @@ grand_parent: Spells
 
 ## Arcane Riposte
 *1st Level Evocation*<br>
-**Casting Time:** Trigger - A creature that you can see hits you with a melee attack.<br>
+**Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
 *You respond to an incoming attack with a magically-infused attack of your own.*
 
-Make a melee evocation attack against the creature that attacked you. On a hit, the creature takes 3d8 cold, corrosive, electric, fire, poison or sonic damage.
-
-This spell triggers the first time that you are hit by a melee attack, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
+Make a melee evocation attack against a creature that hit you with a melee attack since your last turn. On a hit, the creature takes 3d8 cold, corrosive, electric, fire, poison or sonic damage.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the spell deals an extra 1d8 damage for each mana point above 1st. When using 4 or more mana, you may choose to deal profane, psychic or sacred damage. When using 6 or more mana, you may choose to deal energy damage.
 
@@ -30,7 +28,7 @@ This spell triggers the first time that you are hit by a melee attack, with the 
 
 *As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips.*
 
-Make a evocation attack vs the Dexterity defence of each creature in the area. On a hit, a creature takes 3d6 fire damage, or half as much damage on a miss.
+Make an evocation attack vs the Dexterity defence of each creature in the area. On a hit, a creature takes 3d6 fire damage, or half as much damage on a miss.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
@@ -86,11 +84,11 @@ Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you
 
 *A gout of acid flows from you and adheres to those who are not quick enough to avoid it.*
 
-Make a evocation attack vs the Dexterity defense of each creature in the line. On a hit, the creature is covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 corrosive damage at the start of each of its turns.
+Make an evocation attack vs the Dexterity defense of each creature in the line. On a hit, the creature is covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 corrosive damage at the start of each of its turns.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 2d4 for each point of mana above the 1st.
 
-## Divine Favor
+## Divine Favour
 *1st Level Evocation*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
@@ -99,7 +97,7 @@ Make a evocation attack vs the Dexterity defense of each creature in the line. O
 
 *Your prayer empowers your strikes with divine energy.*
 
-Until the spell ends, your weapon attacks deal an extra 1d4 sacred damage on a hit.
+Until the spell ends, your weapon attacks deal an additional 1d4 sacred damage on a hit.
 
 ## Earth Tremor
 *1st Level Evocation*<br>
@@ -110,7 +108,7 @@ Until the spell ends, your weapon attacks deal an extra 1d4 sacred damage on a h
 
 *The ground quakes around you, throwing those nearby to the ground.*
 
-You cause a tremor in the ground within range. Make a evocation attack vs the Dexterity defence of each creature other than yourself within range. On a hit, a creature takes 1d6 bludgeoning damage and is knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+You cause a tremor in the ground within range. Make an evocation attack vs the Dexterity defence of each creature other than yourself within range. On a hit, a creature takes 1d6 bludgeoning damage and is knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 

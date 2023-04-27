@@ -7,7 +7,7 @@ grand_parent: Spells
 # Divination
 
 ## Beast Bond
-*1st Level Divination*<br>
+*1st Level Divination (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A bit of fur wrapped in cloth.)*<br>
@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You link your mind with an animal.*
 
-You establish a telepathic bond with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
+You establish a telepathic bond with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains +1d on attack rolls against any creature within 5 feet of you that you can see.
 
 ## Comprehend Languages
 *1st Level Divination (Ritual)*<br>

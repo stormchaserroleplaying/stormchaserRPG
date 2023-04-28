@@ -4,9 +4,25 @@ parent: Conditions
 ---
 
 # Persistent Damage
-* Persistent damage comes from effects like acid, being on fire, or many other situations. It appears as “X persistent [type] damage,” where “X” is the amount of damage dealt and “[type]” is the damage type. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition. After you take persistent damage, roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed, the condition ends.
-* An adjacent creature can attempt to assist in removing this effect. This usually takes the form of smothering flames, washing off acid, covering a wound, etc. The creature spends 2 actions and rolls the flat DC 15 check with +1d. On a success, the Condition ends.
-* Resistances, Vulnerabilities, or Immunities apply to Persistent Damage.
-* Multiple sources of Persistent Damage can apply at the same time, but only the highest damage of a particular type applies.
-   * If a character is splashed with Alchemist's Fire for 2 Persistent Fire Damage, then splashed with acid for 1 Persistent Acid Damage, they would take 2 Persistent Fire Damage and 1 Persistent Acid Damage at the end of each turn and need to remove each with successful checks.
-   * If a character is hit by a Red Dragon's fire breath and takes 5 Persistent Fire Damage, then a Mage's Fireball spell and takes 3 Persistent Fire Damage, they would only take 5 Persistent Fire Damage and need to remove it with one successful check.
+Persistent damage comes from effects like acid, being on fire, or many other situations. It appears as “X persistent [type] damage,” where “X” is the amount of damage dealt and “[type]” is the damage type. Like normal damage, it can be increased or decreased based on the result of the corresponding attack roll. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition. After you take persistent damage, roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed, the condition ends.
+
+Persistent damage runs its course and automatically ends after a certain amount of time as fire burns out, blood clots and the like. The GM determines when this occurs, but it usually takes 1 minute.
+
+## Assisted Recovery
+You can take steps to help yourself recover from persistent damage, or an ally can help you, allowing you to attempt an additional flat check before the end of your turn. This is usually an activity requiring 2 actions and it must be something that would reasonably improve your chances (as determined by the GM). For example, you might try to smother a flame, or wash off acid. This allows you to attempt an extra flat check immediately, but only once per round.
+
+The GM decides how your help works, using the following examples as guidelines when there's not a specific action that applies.
+* The action to help might require a skill check or another roll to determine its effectiveness.
+* Reduce the DC of the flat check to 10 for a particularly appropriate type of help, such as dousing you in water to put out flames.
+* Automatically end the condition due to the type of help, such as healing that restores you to your maximum Stamina to end persistent bleed damage, or submerging yourself in a lake to end persistent fire damage.
+* Alter the number of actions required to help you if the means the helper uses are especially efficient or remarkably inefficient.
+
+## Immunities, Resistances and Vulnerabilities
+Immunities, resistances and vulnerabilities all apply to persistent damage. If an effect deals initial damage in addition to persistent damage, apply immunities, resistances, and weaknesses separately to the initial damage and to the persistent damage. Usually, if an effect negates the initial damage, it also negates the persistent damage, such as with a slashing weapon that also deals persistent bleed damage because it cut you. The GM might rule otherwise in some situations.
+
+## Multiple Persistent Damage Conditions
+You can be simultaneously affected by multiple persistent damage conditions so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount. The damage that you take from persistent damage occurs all at once, so if something triggers when you take damage, it triggers only once; for example, if you're dying with several types of persistent damage, the persistent damage increases your dying condition only once.
+
+For example:
+* If a character is splashed with Alchemist's Fire for 2 persistent fire damage, then splashed with acid for 1 persistent acid damage, they would take 2 persistent fire damage and 1 persistent acid damage at the end of each turn and need to remove each with successful checks.
+* If a character is hit by a red dragon's fire breath and takes 5 persistent fire damage, then a mage's fireball spell and takes 3 persistent fire damage, they would only take 5 persistent fire damage and need to remove it with one successful check.

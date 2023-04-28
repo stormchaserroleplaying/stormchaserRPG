@@ -62,7 +62,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2 or more mana, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Detect Magic
 *1st Level Divination (Ritual)*<br>
@@ -77,7 +77,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2 or more mana, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Detect Poison and Disease
 *1st Level Divination (Ritual)*<br>
@@ -92,7 +92,7 @@ For the duration, you can sense the presence of and you also identify the kind o
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**At Higher Levels.** When you cast this spell using 2, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
+**At Higher Levels.** When you cast this spell using 2 or more mana, the duration increases to 1 hour. When you cast this spell using 3 or more mana, the spell no longer needs to be sustained. When you cast this spell using 4 or more mana, the duration increases to 8 hours.
 
 ## Identify
 *1st Level Divination (Ritual)*<br>

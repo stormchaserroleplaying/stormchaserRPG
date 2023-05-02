@@ -19,6 +19,7 @@ For those who relish the thrill of the hunt, there are only predators and prey. 
 | Exploration Knacks  | 5   | 2 Other Ranger Talents |
 | Primeval Awareness  | 5   | 2 Other Ranger Talents |
 | Extra Attack        | 5   | Primeval Awareness |
+| Hunter's Intuition  | 5   | Primeval Awareness |
 | Favoured Enemy II   | 5   | Extra Attack |
 | Fleet of Foot       | 5   | Extra Attack |
 | Hide in Plain Sight | 25  | Greater Favoured Enemy and 6 Other Ranger Talents |
@@ -76,6 +77,15 @@ You can use this ability a number of times equal to your Wisdom modifier. You re
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Primeval Awareness
 Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) that you take does not count for the purposes of calculating your multiattack penalty.
+
+### Hunter's Intuition
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Primeval Awareness
+*You are always alert and react with swift and decisive action when attacked.
+
+You gain a bonus to your initiative eqaul to your Wisdom modifier. Additionally, on your first turn during combat, you have +1d on attack rolls against creatures that have not yet acted.
 
 ### Favoured Enemy II
 

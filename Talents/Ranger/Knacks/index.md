@@ -67,7 +67,7 @@ In addition, you gain the following benefits when traveling for an hour more:
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-Spending 1 hour and a successful DC 10 Survival check, you forage for poisonous plants in your area. With these plants you can spend 10 minutes as part of a short or long rest to extract 3 doses of liquid poison (when ingested, a creature makes a Constitution defence check vs your Wisdom skill, on a failure it is (Poisoned)[https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/] for 1 hour). Alternatively, using the same plants you can spend an hour making 1 dose of (antitoxin)[https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Gear/Descriptions/#antitoxin].
+Spending 1 hour and a successful DC 10 Survival check, you forage for poisonous plants in your area. With these plants you can spend 10 minutes as part of a short or long rest to extract 3 doses of liquid poison (when ingested, a creature makes a Constitution defence check vs your Wisdom skill, on a failure it is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 hour). Alternatively, using the same plants you can spend an hour making 1 dose of [antitoxin](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Gear/Descriptions/#antitoxin).
 
 ## Snare
 

@@ -22,7 +22,7 @@ For those who relish the thrill of the hunt, there are only predators and prey. 
 | Hunter's Intuition  | 5   | Primeval Awareness |
 | Favoured Enemy II   | 5   | Extra Attack |
 | Fleet of Foot       | 5   | Extra Attack |
-| Hide in Plain Sight | 25  | Greater Favoured Enemy and 6 Other Ranger Talents |
+| Hide in Plain Sight | 25  | Favoured Enemy II and 6 Other Ranger Talents |
 | Vanish              | 50  | Hide in Plain Sight and 9 Other Ranger Talents |
 | Feral Senses        | 80  | Vanish and 12 Other Ranger Talents |
 | Foe Slayer          | 100 | Feral Senses |

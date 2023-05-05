@@ -121,25 +121,6 @@ If you go the entire round without being the target of a [Magic Missiles]() or y
 
 A creature of your choice within range gains a +2 bonus to Strength and Dexterity defence vs melee and ranged attacks for the duration.
 
-## Snare
-*1st Level Warding (Ritual)*<br>
-**Casting Time:** 1 Minute<br>
-**Range:** Touch<br>
-**Components:** S, M *(25 feet of rope, which the spell consumes.)*<br>
-**Duration:** 8 Hours
-
-*You create an invisible snare that will hang any upside down who wander into it.*
-
-As you cast this spell, you use the rope to create a circle within a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.
-
-This trap is nearly invisible, requiring a successful [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your warding spell skill to be perceived.
-
-The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity defence check vs your warding spell skill or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) there until the spell ends.
-
-A [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) creature can make a Dexterity defence check vs your warding spell skill at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana/) check vs your warding spell skill. On a success, the [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) effect ends.
-
-After the trap is triggered, the spell ends when no creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by it.
-
 ## Traveler's Ward
 *1st Level Warding (Ritual)*<br>
 **Casting Time:** 1 Action<br>

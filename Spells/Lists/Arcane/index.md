@@ -88,7 +88,6 @@ grand_parent: Spells
 * [Silent Image]()
 * [Silvery Barbs]()
 * [Sleep]()
-* [Snare]()
 * [Thunderwave]()
 * [Unseen Servant]()
 * [Winter's Ward]()

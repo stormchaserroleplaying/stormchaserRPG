@@ -16,12 +16,11 @@ For those who relish the thrill of the hunt, there are only predators and prey. 
 |:-------|:--:|:--------------|
 | Favoured Enemy I    | 5   | - |
 | Hunter's Mark       | 5   | - |
-| Exploration Knacks  | 5   | 2 Other Ranger Talents |
-| Primeval Awareness  | 5   | 2 Other Ranger Talents |
-| Extra Attack        | 5   | Primeval Awareness |
-| Hunter's Intuition  | 5   | Primeval Awareness |
-| Favoured Enemy II   | 5   | Extra Attack |
-| Fleet of Foot       | 5   | Extra Attack |
+| Exploration Knacks  | 5   | - |
+| Primeval Awareness  | 5   | - |
+| Fleet of Foot       | 5   | - |
+| Hunter's Intuition  | 5   | - |
+| Favoured Enemy II   | 5   | Favoured Enemy and 3 Other Ranger Talents |
 | Hide in Plain Sight | 25  | Favoured Enemy II and 6 Other Ranger Talents |
 | Vanish              | 50  | Hide in Plain Sight and 9 Other Ranger Talents |
 | Feral Senses        | 80  | Vanish and 12 Other Ranger Talents |
@@ -34,9 +33,9 @@ For those who relish the thrill of the hunt, there are only predators and prey. 
 #### **Cost:** 5 Character Points
 *You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.*
 
-Choose a type of favoured enemy: beasts, fey, humanoids, monstrosities, or undead. You add a 1d4 to damage rolls with weapon attacks against creatures of the chosen type.
+Choose a type of favoured enemy: beasts, fey, humanoids, monstrosities, or undead. You add your martial feat die to damage rolls with weapon attacks against creatures of the chosen type.
 
-You have +1d on Survival checks to track your favoured enemies, as well as on Intelligence checks to recall information about them and a number of additional skills equal to your wisdom modifier, when interacting with your favoured enemy. When you gain this feature, you also learn one language (broken) of your choice, typically one spoken by your favoured enemy or creatures associated with it. However, you are free to learn any language.
+You have +1d on Survival checks to track your favoured enemies, as well as on checks to recall information about them and a number of additional skills equal to your wisdom modifier, when interacting with your favoured enemy.
 
 ### Hunter's Mark
 
@@ -45,7 +44,7 @@ You have +1d on Survival checks to track your favoured enemies, as well as on In
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 *You focus your senses on a specific enemy*
 
-Using 1 action, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain a bounus to damage rolls with weapon attacks against this creature equal to your Martial Feat die. In addition,you have +1d on Perception and Survival checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creture.
+Using 1 action, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain a bounus to damage rolls with weapon attacks against this creature equal to your martial feat die. In addition,you have +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) and [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creture.
 
 You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a short or long rest.
 
@@ -53,7 +52,7 @@ You can use this ability a number of times equal to your Wisdom modifier. You re
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Other Ranger Talents
+#### **Cost:** 5 Character Points
 *For rangers, exploration isn't just something that happens between destinations - it's a way of life. You learn various techniques to make travel safer for you and your companions.*
 
 Choose a [Ranger Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) of your choice. As you gain Character Points, you may purchase additional [Knacks](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/). If an [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) has prerequisites, then you must meet them to learn it. You can learn the [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) at the same time that you meet its prerequisites.
@@ -62,30 +61,23 @@ Choose a [Ranger Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talent
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** 2 Other Ranger Talents
+#### **Cost:** 5 Character Points
 *You can establish a powerful link to beasts and the land around you.*
 
-You have an innate ability to communicate with beasts, and they recognize you as a kindred spirit. Using 2 actions, you can communicate simple ideas to a beast through sounds and gestures, and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature you have attacked in the past 10 minutes.
+You have an innate ability to communicate with beasts and they recognise you as a kindred spirit. Using 2 actions, you can communicate simple ideas to a beast through sounds and gestures and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short term needs (such as food or safety) and actions that you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked in the past 10 minutes.
 
-Additionally, you can attune your senses to determine if any of your favoured enemies lurk nearby. After performing a 1 minute ritual, you can sense whether any of your favoured enemies are present within 5 miles of you. This feature reveals which of your favoured enemies are present, the sum of their HD, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favoured enemies within range, you learn this information for each group.
+Additionally, you can attune your senses to determine if any of your favoured enemies lurk nearby. After performing a 1 minute ritual, you can sense whether any of your favoured enemies are present within 5 miles of you. This feature reveals which of your favoured enemies are present and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favoured enemies within range, you learn this information for each group.
 
 You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a short or long rest.
-
-### Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Primeval Awareness
-Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) that you take does not count for the purposes of calculating your multiattack penalty.
 
 ### Hunter's Intuition
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Primeval Awareness
+#### **Cost:** 5 Character Points<
 *You are always alert and react with swift and decisive action when attacked.
 
-You gain a bonus to your initiative eqaul to your Wisdom modifier. Additionally, on your first turn during combat, you have +1d on attack rolls against creatures that have not yet acted.
+You have +1d to initiative and, on your first turn during combat, +1d on attack rolls against creatures that have not yet acted.
 
 ### Favoured Enemy II
 
@@ -94,15 +86,15 @@ You gain a bonus to your initiative eqaul to your Wisdom modifier. Additionally,
 #### **Cost:** 5 Character Points<br>**Prerequisites:** Extra Attack
 *You are ready to hunt even deadlier game.*
 
-Choose a type of favoured enemy from Favored Enemy I, or from the following list: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favoured enemy, including an additional language.
+Choose a type of favoured enemy from Favoured Enemy I, or from the following list: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favoured enemy, including an additional language.
 
-Additionally, you have +1d on defence checks against the spells and abilities used by all your favoured enemies.
+Additionally, you have +1d on defence checks against the spells and abilities used by all of your favoured enemies.
 
 ### Fleet of Foot
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Extra Attack<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Actions:** 1
 *You move with greater agility as you dance among your foes.*
 
 Using an action, for 1 minute your movement does not provoke attacks of opportunity. You can choose to end this effect early to either double your movement speed once when you take the [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) or gain +1d on a weapon attack.

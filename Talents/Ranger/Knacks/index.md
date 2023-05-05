@@ -24,7 +24,7 @@ nav_order: 1
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-By remaining still for 1 minute, using sound and vibrations alone you are able to deduce information up to 30 feet in every direction, as if using blindsight or tremorsense.
+By remaining still for 1 minute, using sound and vibrations alone you are able to sense your surroundings. You gain [tremorsense](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#tremorsense) as a precise sense with a range of 30 feet.
 
 ## Expert Foraging
 
@@ -45,7 +45,7 @@ As part of a long rest, you can spend 1 hour to collect natural ingredients and 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-By imitating how a beast or Favored Enemy sounds, looks and moves, you gain +1d on Depception and Imitation checks made to convince a creature that it is seeing or hearing that beast or Favored Enemy.
+By imitating how a beast or Favoured Enemy sounds, looks and moves, you gain +1d on Depception and Imitation checks made to convince a creature that it is seeing or hearing that beast or Favoured Enemy.
 
 ## Natural Explorer
 
@@ -68,13 +68,13 @@ In addition, you gain the following benefits when traveling for an hour more:
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-Spending 1 hour and a successful DC 10 Survival check, you forage for poisonous plants in your area. With these plants you can spend 10 minutes as part of a short or long rest to extract 3 doses of liquid poison (when ingested, a creature makes a Constitution defence check vs your Wisdom skill, on a failure it is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 hour). Alternatively, using the same plants you can spend an hour making 1 dose of [antitoxin](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Gear/Descriptions/#antitoxin).
+Spending 1 hour and a successful DC 10 [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) check, you forage for poisonous plants in your area. With these plants you can spend 10 minutes as part of a short or long rest to extract 3 doses of liquid poison (when ingested, a creature makes a Constitution defence check vs your poisoner's kit skill, on a failure it is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 hour. Alternatively, using the same plants you can spend an hour making 1 dose of [antitoxin](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Gear/Descriptions/#antitoxin).
 
 ## Snare
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-Using a 25-foot length of rope, you spend 1 minute to create a snare trap on the ground using other available materials to camoflauge the trap. This trap is nearly invisible, requiring a successful [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your Survial skill to be perceived.
+Using a 25-foot length of rope, you spend 1 minute to create a snare trap on the ground using other available materials to camoflauge the trap. This trap is nearly invisible, requiring a successful [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) skill to be perceived.
 
-The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity defence check vs your Survial skill or be hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) there until it is freed. A [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) creature can make a Dexterity defence check vs your Survial skill at the end of each of its turns, free itself from the trap on a success.
+The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity defence check vs your Survival skill or be hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) there until it is freed. A [Restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) creature can make a Dexterity defence check vs your [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) skill at the end of each of its turns. On a success, it frees itself from the trap.

@@ -1,6 +1,7 @@
 ---
 title: Exploration Knacks
 parent: Ranger
+grand_parent: Talents
 nav_order: 1
 ---
 # Exploration Knacks

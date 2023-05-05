@@ -65,7 +65,6 @@ grand_parent: Spells
 * [Sanctuary]()
 * [Searing Smite]()
 * [Shield of Faith]()
-* [Snare]()
 * [Speak with Animals]()
 * [Thunderous Smite]()
 * [Thunderwave]()

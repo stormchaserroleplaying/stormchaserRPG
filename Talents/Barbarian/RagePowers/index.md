@@ -223,10 +223,10 @@ You add your martial feat die to a single damage roll. This power is declared be
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions** 1
 *You shut out the world with a terrifying cry, reverting your mind to its most basic instincts*
 
-As an action, you unleash a terrifying roar that numbs your higher reasoning, but allows you to perceive the world through primal instinct. For 1 minute, you have disadvantage on all Intelligence checks, but you become immune to conditions inflicted by enemy spells from the Charm and Illusion schools. Additionally, you gain a vague sense which can perceive [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and illusions.
+You unleash a terrifying roar that numbs your higher reasoning, but allows you to perceive the world through primal instinct. For 1 minute, you have -1d on all Intelligence checks, but +1d vs conditions inflicted by spells from the Charm and Illusion schools. Additionally, you gain a vague sense that can perceive [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and illusions.
 
 ## Raging Skald
 
@@ -302,10 +302,10 @@ Once per rage, you can attempt to sunder an ongoing spell effect by succeeding a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 2
 *Your rage overflows and surges forth, creating a psychic tidal wave that dispels the works of creatures that skulk about unseen.*
 
-As an action, you let loose a primal roar that affects all creatures within 30 feet. Make a Rage Power Attack against the Wisdom defense of any Aberration, Fey, Fiend, Undead in the area. On a hit, the target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any effect in the area caused by an affected Aberration, Fey, Fiend, or Undead that can be dispelled, use the result of your Rage Attack Roll as a check against the effect's DC to insantly remove the effect.
+You let loose a primal roar that affects all creatures within 30 feet. Make a Rage Power Attack against the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any effect in the area caused by an affected Aberration, Fey, Fiend, or Undead that can be dispelled, use the result of your Rage Attack Roll as a check against the effect's DC to insantly remove the effect.
 
 ## Trample
 

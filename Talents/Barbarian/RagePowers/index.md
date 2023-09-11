@@ -219,6 +219,15 @@ While raging, you ignores the miss chance for concealment and treat total concea
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
 You add your martial feat die to a single damage roll. This power is declared before the roll to hit is made and can only be used once per rage.
 
+## Primal Instinct
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions** 1
+*You shut out the world with a terrifying cry, reverting your mind to its most basic instincts*
+
+You unleash a terrifying roar that numbs your higher reasoning, but allows you to perceive the world through primal instinct. For 1 minute, you have -1d on all Intelligence checks, but +1d vs conditions inflicted by spells from the Charm and Illusion schools. Additionally, you gain a vague sense that can perceive [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and illusions.
+
 ## Raging Skald
 
 <div style="margin-top:-10px;"></div>
@@ -288,6 +297,15 @@ While raging, you see perfectly to any distance in darkness, including magical d
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points
 Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action. For any effect other than one on a creature, you must make your [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) roll against a DC of 15 plus the spell's level. To sunder an effect on a creature, the melee attack must also hit the creature, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceed the DC by 5 or more.
+
+## Tear the Veil of Shadows
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 2
+*Your rage overflows and surges forth, creating a psychic tidal wave that dispels the works of creatures that skulk about unseen.*
+
+You let loose a primal roar that affects all creatures within 30 feet. Make a Rage Power Attack against the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any effect in the area caused by an affected Aberration, Fey, Fiend, or Undead that can be dispelled, use the result of your Rage Attack Roll as a check against the effect's DC to insantly remove the effect.
 
 ## Trample
 

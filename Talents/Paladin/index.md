@@ -73,7 +73,7 @@ Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 2nd Level Spells and 6 Other Paladin Talents
-Whenever an attack targets you, or a friendly creatures within 10 feet of you, the creature may use your Charisma defence in place of the defence that the attack would ordinarily target. You must be conscious to grant this benefit.
+Whenever an attack targets you, or a friendly creatures within 10 feet of you, the creature can use your spellcasting attribute modifier in place of the normal attribute modifier used for the defence that the attack would ordinarily target. You must be conscious to grant this benefit.
 
 ### Aura of Courage
 

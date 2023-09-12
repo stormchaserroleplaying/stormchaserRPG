@@ -32,6 +32,25 @@ An undead creature created within or summoned into a desecrated area gains +1 hi
 
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
+## Force Punch
+*1st Level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S<br>
+**Duration:** Instantaneous
+
+*You strike with pure magical energy.*
+
+Make a melee evocation attack against one creature that you can see within range.
+
+On a hit, the target takes 2d12 energy damage. If your attack roll hits the target's Strength defence, then it is pushed 10 feet away from you in a straight line. The distance pushed is reduced by 5 feet for every size category the target is larger than Medium.
+
+If the target being pushed would be moved into the space of a larger creature or a solid obstacle, its movement stops and it falls prone if your attack roll hit its Dexterity defence.
+
+If the target being pushed would be moved into a creature of its own size or smaller and your attack roll hits the second creature's Dexterity defence, then that creature takes 1d8 bludgeoning damage. If your attack roll hits the second creature's Strength defence, then that creature is pushed back 5 feet as well, with the first target moving into its former space. This forced movement then ends for both creatures and both creatures fall prone if the attack hit their Dexterity defence.
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 and the distance pushed by 5 feet for each additional point of mana.
+
 ## Gust of Wind
 *2nd level Evocation*<br>
 **Casting Time:** 1 Action<br>

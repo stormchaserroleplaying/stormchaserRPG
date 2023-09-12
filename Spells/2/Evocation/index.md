@@ -33,7 +33,7 @@ An undead creature created within or summoned into a desecrated area gains +1 hi
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
 ## Force Punch
-*1st Level Evocation*<br>
+*2nd Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>

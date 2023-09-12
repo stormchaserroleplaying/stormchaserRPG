@@ -55,7 +55,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 You create one of the following effects at a point that you can see within range:
 
-* Make a spell attack roll vs the Strength defence of one Medium or smaller creature within range. On a hit, the creature is either pushed up to 5 feet away from you or knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+* Make a transmutation attack roll vs the Strength defence of one Medium or smaller creature within range. On a hit, the creature is either pushed up to 5 feet away from you or knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
@@ -70,7 +70,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You imbue small stones with magic making them more potent for striking.*
 
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged transmutation attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
@@ -154,7 +154,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack.*
 
-Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting ability modifier corrosive damage. After you make the attack, your teeth or fingernails return to normal.
+Make a melee transmutation attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting ability modifier corrosive damage. After you make the attack, your teeth or fingernails return to normal.
 
 ## Shape Water
 *Transmutation Cantrip*<br>
@@ -218,4 +218,4 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You create a long, vine-like whip covered in thorns that lashes out at your command.*
 
-Make a melee spell attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is large or smaller, you pull the creature up to 10 feet closer to you.
+Make a melee transmutation attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is large or smaller, you pull the creature up to 10 feet closer to you.

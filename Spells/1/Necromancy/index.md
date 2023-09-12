@@ -9,15 +9,15 @@ grand_parent: Spells
 ## Corpse Explosion
 *1st Level Necromancy*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 Feet<br>
+**Range:** 60 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
 *A corpse explodes with a poisonous cloud.*
 
-You target the corpse of one creature that you can see within range and cause it to explode. Make a necromancy attack for each creature within a 10-foot radius of the corpse against the Constitution defence. On a hit, a creature takes 2d6 poison damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of constructs. On a miss, a creature takes half as much damage and suffers no other effect.
+You target the corpse of one creature that you can see within range and cause it to explode. Make a necromancy attack vs the Constitution defence of each creature within a 10-foot radius of the corpse. On a hit, a creature takes 4d4 sonic damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of a construct. On a miss, a creature takes half as much damage and is not [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/).
 
-**At Higher Levels.** When you cast this spell using 2 or more mana, you the damage increases by 1d6 for each point of mana above the 1st.
+**At Higher Levels.** When you cast this spell using 3 or more mana, you may target an additional corpse for every 2 points of mana beyond the 1st.
 
 ## False Life
 *1st Level Necromancy*<br>
@@ -41,9 +41,9 @@ You gain 1d4 + 4 temporary Stamina for the duration.
 
 *You pass your misfortune on to another.*
 
-When you are missing Stamina, you can choose to suffer 1d4 damage as you smear the wound with bewitched ointments of your own make. Then make an unarmed melee attack roll to smear the blood-oil produced on another creature.
+When you are missing Stamina, you can choose to suffer 1 damage as you smear the wound with bewitched ointments of your own make.
 
-Additionally, if the melee attack hits, add your spellcasting attribute modifier to the d20 of the attack roll, if that total hits the target's Constitution defence, then the creature loses twice the Stamina that you have lost.
+Make an unarmed melee attack roll to smear the blood-oil produced on another creature. If the attack hits, add your spellcasting attribute modifier to the d20 of the attack roll, if that total hits the target's Constitution defence, then the creature loses twice the Stamina that you have lost.
 
 ## Inflict Wounds
 *1st Level Necromancy*<br>

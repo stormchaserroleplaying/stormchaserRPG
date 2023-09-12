@@ -155,7 +155,7 @@ Make a ranged evocation attack against a creature of your choice within range. O
 
 ## Hellish Rebuke
 *1st Level Evocation*<br>
-**Casting Time:** Free Action<br>
+**Casting Time:** 1 Action<br>
 **Range:** 60 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous

@@ -8,18 +8,18 @@ grand_parent: Spells
 
 ## Absorb Elements
 *1st Level Warding*<br>
-**Casting Time:** Trigger - You take acid, cold, electric, fire, or sonic damage.
+**Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** S<br>
 **Duration:** 1 Round
 
-*You capture incoming energy, lessening its effect and your store it for an attack of your own.*
+*You capture incoming energy, lessening its effect and storing it for an attack of your own.*
 
-When this spell is cast, you have resistance to the trigging damage type until the start of your next turn. Also, the first time that you hit with a melee or ranged  attacks within the next round, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
+You gain resistance to elemental damage for the duration. If you took damage of these types within the last round, you recover half the stamina that you lost.
 
-This spell triggers the first time you take acid, cold, electric, fire, or sonic damage, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
+If you absorb damage using this spell, then the first time that you hit with a melee or ranged attack on your next turn, the target takes an extra 1d6 damage of the triggering type and the spell ends.
 
-**At Higher Levels.** When you cast this spell using 2 or more mana, the extra damage increases by 1d6 for each point of mana above the 1st.
+**At Higher Levels.** When you cast this spell using 2 or more mana, for each point of mana above the 1st you gain an additional instance of resistance and the extra damage increases by 1d6.
 
 ## Alarm
 *1st Level Warding (Ritual)*<br>
@@ -49,16 +49,14 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 
 ## Calculated Retribution
 *1st Level Warding*<br>
-**Casting Time:** Trigger - You take damage from a weapon attack.
+**Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S, M *(An executioner's hood.)*<br>
 **Duration:** Sustained, up to 1 minute
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
-When this spell is cast, you gain 1 level of resistance against the triggering attack. You also gain a retribution charge. While the spell is active, you can choose to spend this charge to deal an additional 2d10 energy damage when you hit with a weapon attack. Once you expend the charge the spell ends.
-
-This spell triggers the first time you take damage from a weapon attack, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
+When this spell is cast, you gain resistance to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, wbhich you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
 
 ## Mage Armour
 *1st Level Warding (Ritual)*<br>
@@ -80,9 +78,9 @@ Until the spell ends, the target gains DR 4 and coverage 11-16. The effects of t
 
 *You protect one against many types of creatures.*
 
-Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
+Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends and undead.
 
-The protection grants several benefits. Creatures of those types have -1d on attack rolls against the target. The target also can't be [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by them. If the target is already [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by such a creature, the target has +1d on any new defence checks against a relevant effect.
+The protection grants several benefits. Creatures of those types have -1d on attack rolls against the target. The target also can't be [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by them. If the target is already [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or possessed by such a creature, the target has +1d on any new defence checks vs such an effect.
 
 ## Sanctuary
 *1st Level Warding*<br>
@@ -96,19 +94,6 @@ The protection grants several benefits. Creatures of those types have -1d on att
 You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Charisma defence check vs your warding spell skill. On a failed check, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a [Fireball]().
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
-
-## Shield
-*1st Level Warding*<br>
-**Casting Time:** Trigger - You are hit by a melee or ranged attack.
-**Range:** Self<br>
-**Components:** V, S<br>
-**Duration:** 1 Round
-
-*Before an attack impacts you, an invisible barrier of force appears to deflect the damage.*
-
-Until the start of your next turn, you have a three-quarters cover and you take no damage from [Magic Missiles]().
-
-If you go the entire round without being the target of a [Magic Missiles]() or your cover being hit, you reabsorb your magical shield and recover the mana spent to create it.
 
 ## Shield of Faith
 *1st Level Warding*<br>
@@ -139,7 +124,7 @@ Until the spell ends, creatures have -1d on [Sleight of Hand](https://stormchase
 **Components:** V, S<br>
 **Duration:** Special
 
-*Partially sacrificing your vision, you are guarded frpm magic by an malevolent force.* 
+*Partially sacrificing your vision, you are guarded from magic by an malevolent force.* 
 
 You must cover one eye in its entirety when you cast this spell. While the eye is covered, you have -1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) checks that rely on sight and on melee and ranged attack rolls.
 
@@ -147,7 +132,7 @@ For the spell's duration, any hostile creature that attempts to target you with 
 
 ## Winter's Ward
 *1st Level Warding*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V,S,M *(A cup of water.)*<br>
 **Duration:** 1 hour

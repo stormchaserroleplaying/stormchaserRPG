@@ -125,19 +125,6 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any attack roll against an affected creature or object has +1d if the attacker can see it. An affected creature or object cannot benefit from being [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/).
 
-## Force Punch
-*1st Level Evocation*<br>
-**Casting Time:** 2 Actions<br>
-**Range:** Touch<br>
-**Components:** V, S<br>
-**Duration:** Instantaneous
-
-*You strike with pure magical energy.*
-
-Make a melee evocation attack against one creature you can see within range. On a hit, the target takes 2d12 energy damage.
-
-**At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d12 for each point of mana above the 1st.
-
 ## Frost Fingers
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>

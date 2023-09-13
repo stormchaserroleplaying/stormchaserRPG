@@ -6,21 +6,30 @@ nav_order: 4
 ---
 
 # 4. Choose Talents
-You begin play with ?20? character points to spend on talents. Many of these talents will grant **proficiency** in armour, weapons, skills, defences and sometimes tools. Your proficiencies define many of the things that your character can do particularly well, from using certain weapons to telling a convincing lie.
+When creating a character, you begin play with ?20? character points to spend on talents, plus a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
+
+| Benefit | Character Points |
+|:-------:|:----------------:|
+| Feature | 5 or 10 |
+| Weapon Training | 2 |
+| Skill Training | 2 |
+| Tool Expertise | 2 |
+| Language (Accented) | 2 |
+| Subskill | 1 |
+| Tool Training | 1 |
+| Language (Broken) | 1 |
+
+* Feature costs are listed in the entry for that specific talent.
+* You cannot purchase expertise in a tool, unless you are already trained with that tool. Thus, the total cost to go from untrained to expert is 3 points.
+* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus, the total cost to go from untrained to accented is 3 points.
+* You may purchase only one subskill in an untrained skill. If you would purchase a second subskill, then the two points combine to grant training in that skill and you lose both subskills.
+* When you permanently increase your Intelligence modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
 Record all of your talents on your character sheet.
 
-## Starting Character Points
-Typically, a character starts with ?20? character points and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
-
-Starting off with 20 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.
-
-## Stamina and Recovery Dice
-Your character's stamina defines how tough your character is in combat and other dangerous situations. Your stamina is determined by your Constitution score and your class's stamina multiplier. You start with stamina equal to the product of these two numbers, as indicated in your class description. This is also your **stamina maximum**.
-
-Record your character's stamina on your character sheet. Also record the type of recovery die that your character uses. After you rest, you can spend recovery dice to regain stamina and/or mana (see [Resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
-
 ## Proficiency
+Many of talents grant **proficiency** in armour, weapons, skills, defences and sometimes tools. Your proficiencies define many of the things that your character can do particularly well, from using certain weapons to telling a convincing lie.
+
 A proficiency bonus can be either a bonus d20 that is applied to a d20 roll as an instance of advantage, or a numerical bonus that is applied to a defence or other static score, such as your passive skill.
 
 When a roll is made with proficiency, then roll with [+1d](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/AdvantageandDisadvantage.html). This applies to:
@@ -42,3 +51,8 @@ You can be a master with a weapon, skill, tool, or defence that you are already 
 
 ### Overrolling
 When the exact total of a check is relevant (for example, when determining the quality of a crafted item), for every die beyond the first that makes the target DC, you gain a +1 to your final result. For every natural 20 beyond the first, you gain a +2 to your final result.
+
+## Starting With Additional Character Points
+Typically, a character starts with ?20? character points and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
+
+Starting off with 20 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.

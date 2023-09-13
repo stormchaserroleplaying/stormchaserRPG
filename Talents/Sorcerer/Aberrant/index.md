@@ -21,17 +21,17 @@ As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you 
 ## Branch Features
 
 ### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
- 
+Once you can cast spells of a given spell level, select two spells of that spell level from the list below as bonus spells. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
  
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Dissonant Whispers, Mind Sliver|
-| 2nd | Calm Emotions, Detect Thoughts | 
-| 3rd | Enemies Abound, Sending | 
-| 4th | Black Tentacles, Summon Aberration | 
-| 5th | Telepathic Bond, Telekinesis | 
+| 1st | Alien Arms, Command, Dissonant Whispers, Mind Sliver |
+| 2nd | Calm Emotions, Detect Thoughts, Mind Spike, Phantasmal Force | 
+| 3rd | Blink, Dark Hunger, Enemies Abound, Sending | 
+| 4th | Black Tentacles, Dimension Door, Phantasmal Killer, Summon Aberration | 
+| 5th | Contact Other Plane, Telepathic Bond, Telekinesis | 
 
 ## Talents
  

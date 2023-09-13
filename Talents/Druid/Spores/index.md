@@ -48,7 +48,7 @@ If you have an bonus spell that doesn’t appear on the divine spell list, that 
 #### **Cost:** 5 Character Points<br>**Action:** Free<br>**Trigger:** A hostile creature that you can see moves within 10 feet of you.
 *You are surrounded by invisible, necrotic spores that are harmless until you unleash them on a creature nearby.* 
 
-When a creature comes within range, it must make a Constitution defense check vs your spellcasting skill. If it fails, then the creature takes 1d4 rot damaage. 
+When a creature comes within range, it must make a Constitution defense check vs your spellcasting skill. If it fails, then the creature takes 1d4 decay damaage. 
 
 You can use this ability once per round and it will trigger automatically upon the first hostile creature to come within range. Alternatively, on your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round.
 
@@ -60,7 +60,7 @@ You can use this ability once per round and it will trigger automatically upon t
 *You gain the ability to channel magic into your spores, making the more deadly and offering you protection.* 
 
 You can expend an amount of mana to awaken the spores. You gain 1d4 + 4 temporary stamina for the 1st mana spent and 5 additional temporary stamina for each mana spent beyond the 1st; the maximum amount of mana that you may spend on a single casting is equal to the maximum level of spells that you can cast. While this ability is active, you gain the following benefits:
-* Your melee weapon attacks deal an extra 1d6 rot damage to any target they hit.
+* Your melee weapon attacks deal an extra 1d6 decay damage to any target they hit.
 * When you deal your Halo of Spores damage, roll the damage die a second time and add it to the total.
 	
 These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape.

@@ -9,7 +9,7 @@ Many thanks to all of my dedicated patrons and the members of the Stormchaser Ro
 
 * Kyle Taylor - Project Lead
 
-* Barlow - Barbarian and Bard Talent Branches, Playtesting
+* Barlow - Barbarian, Bard and Monk Talent Branches, Playtesting
 * Chip - Playtesting
 * Drake - Paladin Talent Branches, Playtesting
 * Eddlr - Proof Reading
@@ -21,4 +21,6 @@ Many thanks to all of my dedicated patrons and the members of the Stormchaser Ro
 * RisenZed - Playtesting
 * SansaSnark - Playtesting
 * Sphynxy - Playtesting
-* Trent - Cleric, Druid and Sorcerer Talent Branches, Playtesting
+* Trent - Cleric, Druid, Ranger, Sorcerer and Warlock Talent Branches, Spells, Playtesting
+
+* Daniel Duane Harcourt (August 1978 — December 2021). The Witcher archetype was written in collaboration with and is dedicated to our friend, fellow player, games master and brewer... We miss you, Dan. Rest in peace.

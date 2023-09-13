@@ -2,7 +2,7 @@
 title: Movement in Encounters
 parent: Combat
 has_children: true
-nav_order: 6
+nav_order: 7
 ---
 
 # Movement in Encounters

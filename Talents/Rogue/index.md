@@ -82,10 +82,14 @@ Content
 #### **Cost:** 15 Character Points<br>#### **Prerequisite:** Uncanny Dodge and 4 Other Rogue Talents
 Content
 
-### ?
+### Reliable Skill
+
+<div style="margin-top:-10px;"></div>
 
 #### **Cost:** 35 Character Points<br>#### **Prerequisite:** Evasion and 6 Other Rogue Talents
-Content
+*You have refined your chosen skills until they approach perfection.*
+
+Whenever you make a skill check with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
 
 ### Blindsense
 

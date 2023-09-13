@@ -56,8 +56,8 @@ Powerful and pure magic can manifest itself as **energy damage**. Few things can
 ### Poison Damage
 Venoms, toxins and the like can deal **poison damage**, which affects creatures by way of contact, ingestion, inhalation, or injury. In addition to coming from monster attacks, alchemical items, and spells, poison damage is often caused by ongoing afflictions, which follow special rules described [here](https://stormchaserroleplaying.com/stormchaserRPG/Afflictions/).
 
-### Rot Damage
-When living cells degenerate and break down, this is known as **rot damage**.
+### Decay Damage
+When living cells degenerate and break down, this is known as **decay damage**.
 
 ### Precision Damage
 Sometimes you are able to make the most of your attack through sheer precision. When you hit with an ability that grants you **precision damage**, you increase the attack’s listed damage, using the same damage type, rather than tracking a separate pool of damage. For example, a non-magical shortsword Strike that deals 3d6 precision damage from a rogue’s sneak attack increases the piercing damage by 3d6.

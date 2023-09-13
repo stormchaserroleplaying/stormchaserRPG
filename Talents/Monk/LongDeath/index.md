@@ -42,4 +42,4 @@ You use your familiarity with death to escape its grasp. When you are reduced to
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 40 Character Points<br>**Prerequisite:** Mastery of Death and 12 other Monk Talents
-Your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you and expend 1 to 10 chi points. Make a chi attack vs the target's Constitution defence. On a hit, the target takes decay damage equal to two rolls of your martial feat die, or half as much damage on a miss.
+Your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you and expend 1 to 10 chi points. Make a chi attack vs the target's Constitution defence. On a hit, the target takes decay damage equal to two rolls of your martial feat die per chi point spent, or half as much damage on a miss.

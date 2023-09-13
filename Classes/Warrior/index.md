@@ -30,13 +30,6 @@ Prior to any attack roll, a martial feat, or feat for short, can be declared. Th
 
 The feat die determines the feat's success. This is a d4 and can be enlarged by taking talents from the martial feat talent tree. If the feat die meets a DC (typically 3, but higher at GM discretion) and the attack hits, then the feat succeeds. If the feat die is not equal to or higher than the DC, or the overall attack misses, then the feat fails as well.
 
-### Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Prerequisite:** 5 Warrior Talents
-Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
-
 ## Talents
 Warriors may take talents from the [barbarian](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/), [fighter](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/), [monk](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Monk/) and [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial/) talent trees.
 

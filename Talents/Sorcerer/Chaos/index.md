@@ -16,7 +16,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Bane, Chaos Bolt, Colour Spray, Grease |
+| 1st | Bane, Chaos Bolt, Colour Spray, Lubricate, Oil Slick |
 | 2nd | Alter Self, Crown of Madness, Enlarge/Reduce, Mischief | 
 | 3rd | Blink, Enemies Abound, Hypnotic Pattern, Summon Fey | 
 | 4th | Confusion, Dimension Door, Greater Invisibility, Polymorph | 
@@ -103,7 +103,7 @@ Any time before you regain the use of this feature, if you roll on the Wild Magi
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:**10 Character Points<br>**Prerequisite:** 3rd Level Spells and Tides of Chaos<br> **Actions:** Free<br>**Trigger:** A creature you see, besides yourself, makes an attack roll, ability check or defense check. 
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Tides of Chaos<br> **Actions:** Free<br>**Trigger:** A creature you see, besides yourself, makes an attack roll, ability check or defense check. 
 *You draw upon your wild magic to twist fate of others.*
 
 You expend 2 mana to apply a bonus or penalty of 1d to the creature’s roll.

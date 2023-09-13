@@ -32,8 +32,6 @@ You are trained with martial blades and martial bows. Additionally, you treat an
 If your class grants training with simple blades or simple bows, then you become trained in martial blades, or martial bows, respectively. If your class grants training with martial blades or martial bows, you gain 2 character points. If your class grants training with both martial blades and martial bows, you gain 4 character points.
 
 ## Languages
-You can speak, read and write Elvish, Gnomish and one other language.
+You can speak, read and write Elvish, Sylvan and one other language.
 
 Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
-
-The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.

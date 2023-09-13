@@ -32,12 +32,5 @@ You have 3 mana with which to cast your arcane spells of 1st level and higher. T
 ### Spellcasting Focus
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your arcane spells.
 
-### Potent Cantrips
-
-<div style="margin-top:-10px;"></div>
-
-#### **Prerequisite:** 5 Other Disciple or Mage Talents
-Your cantrips deal one additional die of damage.
-
 ## Talents
 Disciples may take talents from the [sorcerer](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Sorcerer/), [warlock](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/), [wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/) and [spellcasting](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Spellcasting/) talent trees.

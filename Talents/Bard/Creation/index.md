@@ -13,8 +13,8 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Mote of Potential           | 3  | - | - |
-| Performance of Creation     | 2  | - | - |
+| Mote of Potential           | 3  | Bardic Performance | 1 |
+| Performance of Creation     | 2  | Bardic Performance | 1 |
 | Animating Performance       | 5  | Performance of Creation and 3 Other Bard Talents | 4 |
 | Performance of Creation II  | 5  | Performance of Creation and 3 Other Bard Talents | 4 |
 | Performance of Creation III | 5  | Performance of Creation II and 9 Other Bard Talents | 10 |
@@ -24,8 +24,8 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 3 Character Points
-Whenever you give a creature a bardic inspiration die, you can utter a note from the song of creation to create a tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable. It lasts until the bardic inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.
+#### **Cost:** 3 Character Points<br>**Prerequisite:** Bardic Performance
+When you select a target for Bardic Inspiration, you can utter a note from the song of creation to create a tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable. It lasts until the bardic inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.
 
 When the creature uses the bardic inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:
 
@@ -39,8 +39,8 @@ When the creature uses the bardic inspiration die, the mote provides an addition
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 2 Character Points
-As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp and the item must be medium or smaller. The item glimmers softly and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
+#### **Cost:** 2 Character Points<br>**Prerequisite:** Bardic Performance<br>**Actions:** 1
+You can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp and the item must be medium or smaller. The item glimmers softly and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
 
 Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend 2 mana to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 
@@ -48,12 +48,12 @@ Once you create an item with this feature, you can’t do so again until you fin
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Performance of Creation and 3 other Bard Talents
-As an action, you can animate one large or smaller nonmagical item within 30 feet of you that isn’t being worn or carried. The animate item uses the Dancing Item stat block. The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 integrity, or until you die.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Performance of Creation and 3 other Bard Talents<br>**Actions:** 1
+You can animate one large or smaller nonmagical item within 30 feet of you that isn’t being worn or carried. The animate item uses the Dancing Item stat block. The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 integrity, or until you die.
 
-In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move on its own, but the only action that it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just dodge.
+In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move on its own, but the only action that it takes on its turn is the Dodge action, unless you spend an action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just dodge.
 
-When you use your bardic inspiration feature, you can command the item as part of the same bonus action you use for bardic inspiration. Once you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend 3 mana to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
+When you use your Bardic Performance talent, you can command the item as part of the same action that you use for Bardic Performance. Once you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend 3 mana to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
 > #### Dancing Item
 > Large or smaller construct

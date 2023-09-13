@@ -30,7 +30,7 @@ You've mastered returning pain to those who deliver it, becoming a scourge on th
 #### **Cost:** 5 Character Points
 You are skilled at using your weight to your advantage. You gain the following benefits:
 - You are proficient with improvised weapons.
-- Your unarmed strike and impprovised weapon damage die increases by one step (e.g. from 1 to 1d4).
+- Your unarmed strike and improvised weapon damage die increases by one step (e.g. from 1 to 1d4).
 - When you take the Attack action and attempt to grapple, shove, or trip a creature, or make an attack against a creature with an unarmed strike or a weapon wielded in one hand on your turn, you can use your bonus action to make an unarmed strike, grapple, shove, or trip against the same creature.
 
 > The damage die size increases from brawling fighting style and brawling mastery **do** apply to the damage die of natural weapons. For example, the damage die of a longtooth shifter's fangs increases from 1d6 to 1d8.

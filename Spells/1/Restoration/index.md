@@ -3,8 +3,18 @@ title: Restoration
 parent: Level 1
 grand_parent: Spells
 ---
+## Bedrest
+*1st Level Restoration (Ritual)*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** Touch<br>
+**Components:** V, S<br>
+**Duration:** Instantaneous
 
-# Restoration
+*Through calming words or healing touch, you help others recover from their fatigue from their adventures.*
+
+A creature you touch recovers up to two levels of exhaustion on its next long rest, instead of the usual one. Additionally, this rest counts as 24 hours of bedrest for the purposes of healing injuries.
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, the target recovers one additional level of exhaustion for each point of mana above the 1st.
 
 ## Heal
 *1st Level Restoration*<br>

@@ -8,15 +8,19 @@ grand_parent: Spells
 
 ## Minor Illusion
 *Illusion Cantrip*<br>
-*Casting Time:* 1 Action<br>
+**Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
 **Components:** S, M *(A bit of fleece.)*<br>
 **Duration:** 1 Minute
 
-You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+*You create a small illusory object or sound.*
+
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it using an action or cast this spell again.
 
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
 If you create an image of an object (such as a chair, muddy footprints, or a small chest) it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful [Investigation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Investigation/) check vs your illusion spell skill. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance is increased to 60 feet if used to create a sound, and the maximum size of the illusion increases to 10 feet for image of an object create.

@@ -43,7 +43,10 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE<br>
 **Open Game License v1.0a** © 2000, Wizards of the Coast, Inc.<br>
-**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+**Pathfinder Roleplaying Game Core Rulebook** © 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.<br>
+**Pathfinder Roleplaying Game Reference Document** © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.<br>
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.<br>
+**Level Up: Advanced 5th Edition Adventurer's Guide** © 2021, EN Publishing, <www.levelup5e.com>.
 
 This product is compliant with the Open Game License (OGL) and is suitable for use with the Stormchaser Roleplaying Game.
 

@@ -23,7 +23,6 @@ When you take your first paladin talent, you gain the following bonus proficienc
 | Lay on Hands | 5 | - | - |
 | Divine Smite | 5 | *Divine Sense* |
 | Divine Health | 5 | *Lay on Hands* |
-| Extra Attack | 10 | *Divine Smite and 4 Other Paladin Talents* |
 | Aura of Protection | 10 | *2nd Level Spells and 6 Other Paladin Talents* |
 | Aura of Courage | 25 | *3rd Level Spells, Aura of Protection and 7 Other Paladin Talents* |
 | Greater Divine Smite | 35 | *3rd Level Spells, Divine Smite and 8 Other Paladin Talents* |
@@ -61,19 +60,12 @@ When you hit a creature with a melee weapon attack, you can expend mana to deal 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Lay on Hands
 Divine magic flowing through you makes you immune to disease.
 
-### Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Divine Smite and 4 Other Paladin Talents
-Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
-
 ### Aura of Protection
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 2nd Level Spells and 6 Other Paladin Talents
-Whenever an attack targets you, or a friendly creatures within 10 feet of you, the creature may use your Charisma defence in place of the defence that the attack would ordinarily target. You must be conscious to grant this benefit.
+Whenever an attack targets you, or a friendly creature within 10 feet of you, the creature can use your spellcasting attribute modifier in place of the normal attribute modifier used for the defence that the attack targets. You must be conscious to grant this benefit.
 
 ### Aura of Courage
 

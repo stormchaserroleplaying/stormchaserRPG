@@ -55,7 +55,7 @@ Disarm attempts made with a disarm weapon are made with advantage.
 A weapon with the double property has two striking ends. Attacks with the second end use the same damage die as the primary end and follow the rules for two-weapon fighting.
 
 ### Exotic
-Exotic weapons are only considered martial weapons for a specific species. A character must spend a proficiency point to learn how to wield another species' exotic weapons effectively.
+Exotic weapons are only considered martial weapons for specific cultures. A character must spend a character point to learn how to wield another cultures' exotic weapons effectively.
 
 ### Finesse
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. If your Strength is less than the **Str/Dex** entry of the weapon, then you suffer disadvantage on your attack rolls with the weapon when using Dexterity in this way.

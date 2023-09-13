@@ -15,10 +15,10 @@ Identifying a magic item without the aid of the identify spell (or similar magic
 
 | Item Rarity | Arcana Check DC |
 |:---:|:-----------:|
-|  Common  | 10 |
-|  Uncommon  | 15 |
+|  Common  | 15 |
+|  Uncommon  | 17 |
 |  Rare  | 20 |
-|  Very Rare  | 25 |
-|  Legendary  | 30 |
+|  Very Rare  | 22 |
+|  Legendary  | 25 |
 
 Note: Some powerful magic items might be recognisable with a history check of a lower DC, but the arcana check to accurately identify all of their capabilities remains challenging.

@@ -41,7 +41,7 @@ You are descended from giants. Choose one of the following phenotypes:
 ### Cloud Giant
 
 #### Cloud's Jaunt
-You can cast the [Fog Cloud]() and [Misty Step]() spells a number of times equal to your Constitution modifier.
+You can cast the [Fog Cloud]() and [Misty Step]() spells a number of times equal to your Constitution modifier. Wisdom is your spellcasting attribute for these spells. 
 
 You regain all expended uses when you finish a long rest.
 
@@ -104,5 +104,7 @@ You can use this feature a number of times equal to your Constitution modifier a
 ## Size
 Giantkin stand between 7 and 8 feet tall and typically weigh between a little less than 300 pounds. Your size is Medium.
 
+| Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
+|:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
 | Giantkin, Male         | 6'3"  | +2d10"<br>(6'5" – 7'11") | 210 lbs. | +(2d10 × 2d6) lbs.<br>(214 lbs. – 450 lbs.) |
 | Giantkin, Female       | 6'1"  | +2d10"<br>(6'3" – 7'9")  | 170 lbs. | +(2d10 × 2d6) lbs.<br>(174 lbs. – 410 lbs.) |

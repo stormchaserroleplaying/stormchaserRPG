@@ -14,39 +14,3 @@ Your character's [background](https://stormchaserroleplaying.com/stormchaserRPG/
 * 2x +1 (stackable) to mental attributes that you consider your character to have developed as a result of this background.
 * A background feature, which is a unique benefit based on your character's background.
 * A package of starting equipment that your character possesses from their previous occupation.
-* 10 character points to spend on background talents, skills, tools or languages, as described below.
-
-## Character Points
-When creating a character, you gain 10 character points from your background and a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
-
-| Benefit | Character Points |
-|:-------:|:----------------:|
-| Talent | 5 or 10 |
-| Weapon Training | 2 |
-| Skill Training | 2 |
-| Tool Expertise | 2 |
-| Language (Accented) | 2 |
-| Subskill | 1 |
-| Tool Training | 1 |
-| Language (Broken) | 1 |
-
-* Talents costs are listed in the entry for that specific talent.
-* You cannot purchase expertise in a tool, unless you are already trained with that tool. Thus the total cost to go from untrained to expert is 3 points.
-* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus the total cost to go from untrained to accented is 3 points.
-* You may purchase only one subskill in an untrained skill. If you would purchase a second subskill, then the two points combine to grant training in that skill and you lose both subskills.
-* When you permanently increase your Intelligence modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
-
-## Your Character's Attributes
-Take your character’s attributes and species into account as you flesh out their appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
-
-For example, high Strength usually corresponds to a burly or athletic body, while a character with low Strength might be scrawny or plump.
-
-A character with high Dexterity is probably lithe and slim, while a character with low Dexterity might be either gangly and awkward or heavy and thick-fingered.
-
-A character with high Constitution usually looks healthy, with bright eyes and abundant energy. A character with low Constitution might be sickly or frail.
-
-A character with high Intelligence might be highly inquisitive and studious, while a character with low Intelligence might speak simply or easily forget details.
-
-A character with high Wisdom has good judgment, empathy, and a general awareness of what’s going on. A character with low Wisdom might be absent-minded, foolhardy, or oblivious.
-
-A character with high Charisma exudes confidence, which is usually mixed with a graceful or intimidating presence. A character with a low Charisma might come across as abrasive, inarticulate, or timid.

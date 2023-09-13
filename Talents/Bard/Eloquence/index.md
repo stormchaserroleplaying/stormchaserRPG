@@ -5,25 +5,25 @@ grand_parent: Talents
 ---
 
 # Eloquence
-Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.
+Eloquence bards master the art of oratory. Persuasion is regarded as a high art and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.
 
 ## Talents
 
 | Talent | CP | Prerequisites | Bard Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Unsettling Words       | 5  | - | - |
+| Unsettling Words       | 5 | Bardic Performance | 1 |
 | Unfailing Inspiration  | 5 | Silver Tongue and 3 Other Bard Talents | 4 |
 | Universal Speech       | 5 | Unsettling Words and 3 Other Bard Talents | 4 |
 | Infectious Inspiration | 50 | Unfailing Inspiration, Universal Speech and 10 Other Bard Talents | 11 |
 
-### Unsettling Words
+### Bardic Performance: Unsettling Words
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
 *You can spin words laced with magic that unsettle a creature and cause it to doubt itself.*
 
-As an action, you can expend one use of your bardic inspiration and choose one creature that you can see within 60 feet of you. The next attack roll made agains the creature before the start of your next turn gains +1d.
+Choose one creature that you can see within 60 feet of you. The next attack roll made vs that creature before the start of your next turn gains +1d.
 
 ### Unfailing Inspiration
 
@@ -32,7 +32,7 @@ As an action, you can expend one use of your bardic inspiration and choose one c
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Silver Tongue and 4 Other Bard Talents
 *Your inspiring words are so persuasive that others feel driven to succeed.*
 
-When a creature uses one of your bardic inspiration dice and the roll fails, the creature can keep the bardic inspiration die.
+When a creature uses one of your Bardic Inspiration dice and the roll fails, the creature can keep the Bardic Inspiration die.
 
 ### Universal Speech
 

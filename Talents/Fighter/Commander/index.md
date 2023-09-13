@@ -1,5 +1,5 @@
 ---
-title: Mirror Knight
+title: Commander
 parent: Fighter Talent Tree
 grand_parent: Talents
 ---

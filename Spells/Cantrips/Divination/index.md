@@ -8,12 +8,16 @@ grand_parent: Spells
 
 ## Guidance
 *Divination Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
 **Duration:** Concentration, up to 1 minute
 
-You touch one willing creature. Once before the spell ends, the target benefits from advantage on an ability check of its choice. The spell then ends.
+*You aid someone by providing them a touch of divine guidance.*
+
+You touch one willing creature. Once before the spell ends, the target has +1d on a skill check of its choice. The spell then ends.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.
 
 ## True Strike
 *Divination Cantrip*<br>
@@ -22,4 +26,10 @@ You touch one willing creature. Once before the spell ends, the target benefits 
 **Components:** S<br>
 **Duration:** Concentration, up to 1 round
 
-You point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
+*A glimpse into the future ensures your next blow strikes true.*
+
+You point a finger at a target in range. You have +1d on your next attack roll against that target, provided that this spell hasn't ended.
+
+The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.
+
+When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 2 rounds.

@@ -1,23 +1,19 @@
 ---
-title: 4. Choose a Class
+title: 4. Choose Talents
 parent: Character Creation
 grand_parent: Introduction
 nav_order: 4
 ---
 
-# 4. Choose a Class
-Every adventurer is a member of a class. Class broadly describes a character's vocation, what special talents they possess, and the tactics they are most likely to employ when exploring a dungeon, fighting monsters, or engaging in a tense negotiation. The character classes are described [here](https://stormchaserroleplaying.com/stormchaserRPG/Classes/).
+# 4. Choose Talents
+You begin play with ?20? character points to spend on talents. Many of these talents will grant **proficiency** in armour, weapons, skills, defences and sometimes tools. Your proficiencies define many of the things that your character can do particularly well, from using certain weapons to telling a convincing lie.
 
-Your character receives a number of benefits from your choice of class. Many of these benefits are **class features**. Capabilities (including spellcasting) that set your character apart from members of other classes. You also gain a number of **proficiencies**: armour, weapons, skills, defences and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
+Record all of your talents on your character sheet.
 
-On your character sheet, record all the features that your class gives you at 1st level.
+## Starting Character Points
+Typically, a character starts with ?20? character points and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
 
-## Talents
-Typically, a character starts with a single talent and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
-
-Starting off with one talent marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more talents, on the assumption that your character has already survived a few harrowing adventures.
-
-Record your talents on your character sheet. If you're starting with additional talents, also record these.
+Starting off with 20 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.
 
 ## Stamina and Recovery Dice
 Your character's stamina defines how tough your character is in combat and other dangerous situations. Your stamina is determined by your Constitution score and your class's stamina multiplier. You start with stamina equal to the product of these two numbers, as indicated in your class description. This is also your **stamina maximum**.

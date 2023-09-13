@@ -98,6 +98,11 @@ If you will be using a point buy method, the following table shows the costs of 
 | Standard Fantasy | 27 |
 | High Fantasy | 40 |
 
+## Stamina
+Your character's stamina defines how tough your character is in combat and other dangerous situations. You start with stamina equal to your Constitution score. This is also your **stamina maximum**.
+
+Record your character's stamina on your character sheet.
+
 ## Describing Your Character
 Take your character’s attributes into account as you flesh out their appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
 

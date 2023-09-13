@@ -21,7 +21,7 @@ Long death monks are obsessed with the meaning and mechanics of dying. They capt
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-Your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 stamina, you gain temporary stamina equal to your martial feat die + you Wisdom modifier.
+Your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 stamina, you gain temporary stamina equal to your martial feat die + your Wisdom modifier.
 
 ### Hour of Reaping
 

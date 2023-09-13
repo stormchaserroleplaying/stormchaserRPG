@@ -26,24 +26,21 @@ If your species and class both grant proficiency in an armour category, you trea
 
 When doffing armour or when donning medium armour, if a character has help, then this time is halved. A single character doing nothing else can help two adjacent creatures. Two characters can't help each other don or remove armour pieces at the same time. The wearer must have help to don heavy armour pieces. Without help, they can only be donned hastily.
 
+Shields without the [Worn](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Glossary/#worn) property take 1 Action to don or doff. Worn shields are considered arm armour of the same weight category for the purposes of donning/doffing.
+
 ##### Donning and Doffing Armour Suits
 
 | Category & Piece | Don | Don Hastily | Remove |
 |:----------------:|:---:|:-----------:|:------:|
 | Underlay | 1 minute | 5 rounds | 1 minute |
-| Light arm | 2 rounds | 1 round | 2 rounds |
-| Light leg | 3 rounds | 2 rounds | 2 rounds |
-| Light torso | 5 rounds | 2 rounds | 5 rounds |
-| Medium arm | 1 minute | 2 rounds | 2 rounds |
-| Medium leg | 1 minute | 3 rounds | 2 rounds |
-| Medium torso | 1 minute | 5 rounds | 3 rounds |
-| Heavy arm | 1 minute | 1 minute | 1 minute |
-| Heavy leg | 1 minute | 1 minute | 1 minute |
-| Heavy torso | 2 minutes | 1 minute |	2 minutes |
-
-##### Donning and Doffing Shields
-
-| Category & Piece | Don | Remove |
-|:----------------:|:---:|:------:|
-| Medium shield | 1 bonus action | 1 object interaction |
-| Heavy shield | 1 action | 1 bonus action |
+| Light Arm | 2 rounds | 1 round | 2 rounds |
+| Light Leg | 3 rounds | 2 rounds | 2 rounds |
+| Light Torso | 5 rounds | 2 rounds | 5 rounds |
+| Medium Arm | 1 minute | 2 rounds | 2 rounds |
+| Medium Helmet | 2 Actions | 1 Action | 1 Action |
+| Medium Leg | 1 minute | 3 rounds | 2 rounds |
+| Medium Torso | 1 minute | 5 rounds | 3 rounds |
+| Heavy Arm | 1 minute | 1 minute | 1 minute |
+| Heavy Helmet | 3 Actions | 2 Actions | 2 Actions |
+| Heavy Leg | 1 minute | 1 minute | 1 minute |
+| Heavy Torso | 2 minutes | 1 minute |	2 minutes |

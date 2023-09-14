@@ -19,13 +19,13 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Tool Mastery | 10 |
 | Language (Native) | 10 |
 | Talent | From 5 |
-| Increase an Attribute by 1 | From 5 |
 | Learn an additional spell | From 5 |
 | Tool Expertise | 5 |
 | Language (Accented) | 5 |
 | Spell School Training | 2 |
 | Weapon Training | 2 |
 | Skill Training | 2 |
+| Increase an Attribute by 1 | From 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |

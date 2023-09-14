@@ -16,7 +16,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses and oth
 | Use Magic Device | 30 | Supreme Sneak and 8 other Rogue Talents |
 | Thief's Reflexes | 40 | Use Magic Device and 11 other Rogue Talents |
 
-### Fast Hands
+### Cat Burglar
 
 <div style="margin-top:-10px;"></div>
 

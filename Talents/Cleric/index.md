@@ -37,12 +37,7 @@ You present your holy symbol and speak a prayer censuring the undead. Make an at
 
 A turned creature must spend its actions trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-### Destroy Undead
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and Channel Divinity
-When an undead is hit by your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below half your number of cleric talents.
+When an undead creature is hit by Turn Undead, the creature is instantly destroyed if its CP is at or below half your total CP.
 
 ### Divine Strike I
 

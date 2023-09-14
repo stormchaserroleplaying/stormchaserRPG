@@ -55,19 +55,19 @@ Roll 3d6, rerolling all 1s, and add the dice together. Record the total and repe
 
 This method is quite random, and some characters may have clearly superior abilities. This randomness can be taken one step further, with the totals applied to specific attributes in the order they are rolled. Characters generated using this method are difficult to fit to predetermined concepts and are best designed around their attributes.
 
-If you don't like the idea of randomly determining attributes, you can spend 25 points on the Attribute Point Cost table, or use the **Low Fantasy Array** instead: 14, 13, 12, 12, 11, 10.
+If you don't like the idea of randomly determining attributes, you can spend 22 points on the Attribute Point Cost table, or use the **Low Fantasy Array** instead: 14, 13, 12, 12, 11, 10.
 
 ## Standard Fantasy
 Roll 4d6. Discard the lowest die result and add the three remaining results together. Record the total and repeat the process until you generate six numbers. Assign these totals to your attributes as you see fit.
 
-If you don't like the idea of randomly determining attributes, you can spend 27 points on the Attribute Point Cost table, or use the **Standard Array** instead: 15, 14, 13, 12, 10, 8.
+If you don't like the idea of randomly determining attributes, you can spend 31 points on the Attribute Point Cost table, or use the **Standard Array** instead: 15, 14, 13, 12, 10, 8.
 
 ## High Fantasy
 Roll 4d6, rerolling all 1s. Discard the lowest die result and add the three remaining results together. Record the total and repeat the process until you generate six numbers. Assign these totals to your attributes as you see fit.
 
 This method is less random than Low Fantasy and tends to create characters with above-average attributes.
 
-If you don't like the idea of randomly determining attributes, you can spend 40 points on the Attribute Point Cost table, or use the **High Fantasy Array** instead: 16, 15, 14, 14, 13, 12.
+If you don't like the idea of randomly determining attributes, you can spend 68 points on the Attribute Point Cost table, or use the **High Fantasy Array** instead: 16, 15, 14, 14, 13, 12.
 
 ## Point Buy
 Point buy allows you to build a character with a set of attributes that you choose individually. If your GM is using a point buy method, the point amounts and costs of attributes can be found below.
@@ -80,23 +80,25 @@ If you will be using a point buy method, the following table shows the costs of 
 
 | Attribute | Point Cost |
 |:---------:|:----------:|
-| 8 | 0 |
-| 9 | 1 |
-| 10 | 2 |
-| 11 | 3 |
-| 12 | 4 |
+| 6 | -6 |
+| 7 | -4 |
+| 8 | -2 |
+| 9 | -1 |
+| 10 | 0 |
+| 11 | 1 |
+| 12 | 3 |
 | 13 | 5 |
-| 14 | 7 |
-| 15 | 9 |
-|16 | 12 |
-| 17 | 15 |
-| 18 | 19 |
+| 14 | 10 |
+| 15 | 15 |
+| 16 | 25 |
+| 17 | 35 |
+| 18 | 50 |
 
 | Campaign Type | Point Budget |
 |:-------------:|:------------:|
-| Low Fantasy | 25 |
-| Standard Fantasy | 27 |
-| High Fantasy | 40 |
+| Low Fantasy | 22 |
+| Standard Fantasy | 31 |
+| High Fantasy | 68 |
 
 ## Stamina
 Your character's stamina defines how tough your character is in combat and other dangerous situations. You start with stamina equal to your Constitution score. This is also your **stamina maximum**.

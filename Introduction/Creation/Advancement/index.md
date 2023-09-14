@@ -43,7 +43,26 @@ A veteran adventurer may have trained or honed their natural abilities well enou
 
 The first and second time a that PC improves an attribute, it costs 5 character points and adds +1 to an attribute of their choice. The third improvement to their attributes costs 10 character points, the fifth 15, and so forth. Each improvement adds +1 to the attribute, potentially improving its modifier.
 
-| Attribute Improvement | Character Point Cost |
+| New Attribute | Point Cost |
+|:---------:|:----------:|
+| 7 | 2 |
+| 8 | 2 |
+| 9 | 1 |
+| 10 | 1 |
+| 11 | 1 |
+| 12 | 2 |
+| 13 | 2 |
+| 14 | 5 |
+| 15 | 5 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 15 |
+| 19 | 15 |
+| 20 | 20 |
+
+## Purchasing Additional Spells
+
+| Additional Spell | Character Point Cost |
 |:---------------------:|:--------------------:|
 | 1st and 2nd | 5 |
 | 3rd and 4th | 10 |

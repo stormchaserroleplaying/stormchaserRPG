@@ -1,6 +1,6 @@
 ---
 title: Guardian Ancestor
-parent: Barbarian Talent Tree
+parent: Barbarian Talents
 grand_parent: Talents
 ---
 

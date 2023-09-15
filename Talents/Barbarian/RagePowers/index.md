@@ -1,6 +1,6 @@
 ---
 title: Rage Powers
-parent: Barbarian Talent Tree
+parent: Barbarian Talents
 grand_parent: Talents
 nav_order: 1
 ---

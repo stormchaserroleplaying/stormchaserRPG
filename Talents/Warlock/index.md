@@ -32,6 +32,9 @@ Additionally, whenever you gain a warlock talent, you can choose one of the arca
 | Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 
 ### Eldritch Invocations
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Talent
 *In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.*
 
@@ -40,6 +43,9 @@ You gain an [Eldritch Invocation](https://stormchaserroleplaying.com/stormchaser
 Additionally, when you gain a new talent in this class or a spellcasting talent, you can choose one of the [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you know and replace it with another [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you could learn, provided that they share the same Character Point cost. 
 
 ### Pact Boon
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Eldritch Invocations
 *Your otherworldly patron bestows a gift upon you for your loyal service.*
 
@@ -68,6 +74,9 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 ### Unchained
+
+<div style="margin-top:-10px;"></div>
+
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Warlock Talents
 You have grown beyond mortal limits. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 

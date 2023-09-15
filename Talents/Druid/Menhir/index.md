@@ -1,6 +1,6 @@
 ---
 title: Menhir
-parent: Druid Talent Tree
+parent: Druid Talents
 grand_parent: Talents
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Redemption
-parent: Paladin Talent Tree
+parent: Paladin Talents
 grand_parent: Talents
 ---
 

@@ -1,13 +1,11 @@
 ---
-title: Warlock Talent Tree
+title: Warlock Talents
 parent: Talents
 has_children: true
 nav_order: 12
 ---
 
-# Warlock Talent Tree ([Mage](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/))
-
-**As long as at least half of your mage talents are from the warlock talent tree, your stamina increases to 3× your Constitution score and your recovery die increases to a d8.**
+# Warlock Talent Tree
 
 ## Spell School Proficiencies
 If your first talent is a warlock talent, then you are trained in the following spell schools: Conjuration, Charms and three additional schools of your choice.

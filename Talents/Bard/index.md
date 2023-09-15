@@ -1,11 +1,11 @@
 ---
-title: Bard Talent Tree
+title: Bard Talents
 parent: Talents
 has_children: true
 nav_order: 3
 ---
 
-# Bard Talent Tree ([Expert](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Expert/))
+# Bard Talent Tree
 Untold wonders and secrets exist for those skillful enough to discover them. Through cleverness, talent, and magic, these cunning few unravel the wiles of the world, becoming adept in the arts of persuasion, manipulation, and inspiration. Typically masters of one or many forms of artistry, bards possess an uncanny ability to know more than they should and use what they learn to keep themselves and their allies ever one step ahead of danger. Bards are quick-witted and captivating, and their skills might lead them down many paths, be they gamblers or jacks-of-all-trades, scholars or performers, leaders or scoundrels, or even all of the above. For bards, every day brings its own opportunities, adventures, and challenges, and only by bucking the odds, knowing the most, and being the best might they claim the treasures of each.
 
 ## Core Talents

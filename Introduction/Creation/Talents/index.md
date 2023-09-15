@@ -6,11 +6,12 @@ nav_order: 4
 ---
 
 # 4. Choose Talents
-When creating a character, you begin play with ?20? character points to spend on talents, plus a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
+When creating a character, you begin play with ?100? character points to spend on talents, plus a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Feature | 5 or 10 |
+| Defence Training | 5 |
+| Spell School Training | 5 |
 | Weapon Training | 2 |
 | Skill Training | 2 |
 | Tool Expertise | 2 |

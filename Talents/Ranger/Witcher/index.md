@@ -1,6 +1,6 @@
 ---
 Title: Witcher
-parent: Ranger Talent Tree
+parent: Ranger Talents
 grand_parent: Talents
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bladedancer
-parent: Wizard Talent Tree
+parent: Wizard Talents
 grand_parent: Talents
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Other Skill Talents
+title: Other
 parent: Skill Talents
 grand_parent: Talents
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tool Proficiency Talents
+title: Proficiency
 parent: Tool Talents
 grand_parent: Talents
 nav_order: 1

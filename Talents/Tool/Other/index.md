@@ -1,5 +1,5 @@
 ---
-title: Other Tool Talents
+title: Other
 parent: Tool Talents
 grand_parent: Talents
 ---

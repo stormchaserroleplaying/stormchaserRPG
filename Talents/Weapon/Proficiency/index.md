@@ -1,5 +1,5 @@
 ---
-title: Weapon Proficiency Talents
+title: Proficiency
 parent: Weapon Talents
 grand_parent: Talents
 nav_order: 1

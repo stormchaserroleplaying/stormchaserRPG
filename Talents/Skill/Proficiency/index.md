@@ -1,5 +1,5 @@
 ---
-title: Skill Proficiency Talents
+title: Proficiency
 parent: Skill Talents
 grand_parent: Talents
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-title: Weapon Focus Talents
+title: Weapon Focus
 parent: Weapon Talents
 grand_parent: Talents
 ---

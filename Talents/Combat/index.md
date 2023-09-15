@@ -19,7 +19,7 @@ Always on the lookout for danger, you gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Prerequisite:** Charisma 13
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Charisma 13
 *Your cry of bloodthirsty fury inspires those around you to greater acts of violence.*
 
 Once per day, as an action, you may unleash a powerful, bloodthirsty scream of battle lust and fury. Allies within 60 feet who can hear your berserker’s cry (including yourself) are heartened and gain a +1 morale bonus on damage rolls made with melee attacks for a number of rounds equal to your Charisma bonus. If you have the ability to rage, you may unleash a berserker’s cry as part of the free action to enter a rage (instead of as a separate action).
@@ -100,7 +100,7 @@ Once per turn, when you roll damage for a melee weapon attack with which you are
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:* Strength 20 or +2 Species Bonus to Strength
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Strength 20 or +2 Species Bonus to Strength
 You have the strength that legends tell of, granting the following benefits:
 * You ignore the two-handed property of weapons with which you are proficient.
 * When you miss with a melee weapon attack, the creature takes damage equal to your Strength modifier. This damage is of the same type as the weapon’s damage.

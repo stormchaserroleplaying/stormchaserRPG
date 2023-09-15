@@ -1,6 +1,6 @@
 ---
 title: Battle Master
-parent: Fighter Talent Tree
+parent: Fighter Talents
 grand_parent: Talents
 ---
 

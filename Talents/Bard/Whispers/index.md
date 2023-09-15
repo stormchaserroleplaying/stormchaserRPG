@@ -1,6 +1,6 @@
 ---
 title: Whispers
-parent: Bard Talent Tree
+parent: Bard Talents
 grand_parent: Talents
 ---
 

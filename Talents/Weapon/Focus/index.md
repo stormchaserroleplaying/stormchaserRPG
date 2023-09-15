@@ -1,20 +1,18 @@
 ---
-title: Weapon Foci
-parent: Universal Talents
+title: Weapon Focus
+parent: Weapon Talents
 grand_parent: Talents
 ---
 
-# Weapon Foci
+# Weapon Focus Talents
 
 ## Blade Specialist
 You master blade-type weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * As a bonus action, you can take a parrying stance. While you are in this stance and you aren’t wielding a shield, you gain a bonus to Strength or Dexterity defence equal to half your proficiency bonus (rounded up) until the start of your next turn.
 * You score a critical hit on a roll of 19 or 20.
 
 ## Bludgeoning Weapon Specialist
 You master the bludgeoning-type weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to knock the target prone. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), make a Strength (Athletics) check vs. the higher of the target’s Strength or Dexterity defence. On a hit, the target is knocked prone.
 * Each round, the first time that you make an opportunity attack, the target has disadvantage on their check to avoid it.
 
@@ -38,24 +36,20 @@ You've developed the skills necessary to hold your own in close-quarters grappli
 
 ## Polearm Specialist
 You master polearm-type weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * When you take the Attack action, you can use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifier as the primary attack. The weapon’s damage die for this attack is a d4, and the attack deals bludgeoning damage. If the weapon has the reach property, the bonus action attack does not benefit from this property.
 * When you take the Attack action, you can choose to forgo one of your attacks. If you do so, your reach increases by 5 feet until the start of your next turn.
 
 ## Rifle Specialist
 You master the use of firearms with the two-handed property. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to snare the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), you may make a Dexterity attack roll vs its Dexterity defence. On a hit, its movement speed is reduced by half until the end of it's next turn. If it's speed was already reduced by half, it is instead reduced to 5 feet.
 * Each round, the first time that a creature that you can see misses you with a melee attack roll, you disengage as a free action and move up to half your speed directly away from them. If you encounter an obstacle or hazard, you take the shortest route around it. If this is not possible then you stop.
 
 ## Sidearm Specialist
 You master weapons with the point-blank property. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * You learn to load and fire your weapon more efficiently. You can now reload these weapons using your object interaction. You must have one free hand to reload.
 * Whenever you score a critical hit against a living creature that has a head, you can attempt to daze the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), you may make a Dexterity attack roll vs its Constitution defence. On a hit, it is stunned until the end of its next turn.
 
 ## Trip Weapon Specialist
 You master weapons with the tripping property. You gain the following benefits while wielding any of these weapons:
-* You gain a +1 bonus to the weapon’s attack rolls.
 * As a bonus action on your turn, you can extend your weapon to sweep around and pull down an opponent’s shield. Until the end of that creature’s next turn, it gains no benefit from its shield.
 * When you score a critical hit with the weapon or hit with an opportunity attack using the weapon, you can attempt to trip the opponent as well. If the target is no more than one size larger (your size or smaller if your weapon has the light property), you may make a Strength or Dexterity attack roll vs its Strength defence. On a hit, it is knocked prone.

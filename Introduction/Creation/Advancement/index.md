@@ -10,22 +10,24 @@ As your character goes on adventures and overcomes challenges, they gain experie
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Spell School Mastery | 25 |
+| Defence Mastery | 35 |
+| Spell School Mastery | 35 |
 | Weapon Mastery | 25 |
 | Skill Mastery | 25 |
+| Defence Expertise | 15 |
+| Skill Expertise | 15 |
 | Spell School Expertise | 10 |
 | Weapon Expertise | 10 |
-| Skill Expertise | 10 |
 | Tool Mastery | 10 |
 | Language (Native) | 10 |
-| Talent | From 5 |
-| Increase an Attribute by 1 | From 5 |
 | Learn an additional spell | From 5 |
+| Defence Training | 5 |
+| Spell School Training | 5 | 
 | Tool Expertise | 5 |
 | Language (Accented) | 5 |
-| Spell School Training | 2 |
 | Weapon Training | 2 |
 | Skill Training | 2 |
+| Increase an Attribute by 1 | From 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |
@@ -43,7 +45,26 @@ A veteran adventurer may have trained or honed their natural abilities well enou
 
 The first and second time a that PC improves an attribute, it costs 5 character points and adds +1 to an attribute of their choice. The third improvement to their attributes costs 10 character points, the fifth 15, and so forth. Each improvement adds +1 to the attribute, potentially improving its modifier.
 
-| Attribute Improvement | Character Point Cost |
+| New Attribute | Point Cost |
+|:---------:|:----------:|
+| 7 | 2 |
+| 8 | 2 |
+| 9 | 1 |
+| 10 | 1 |
+| 11 | 1 |
+| 12 | 2 |
+| 13 | 2 |
+| 14 | 5 |
+| 15 | 5 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 15 |
+| 19 | 15 |
+| 20 | 20 |
+
+## Purchasing Additional Spells
+
+| Additional Spell | Character Point Cost |
 |:---------------------:|:--------------------:|
 | 1st and 2nd | 5 |
 | 3rd and 4th | 10 |

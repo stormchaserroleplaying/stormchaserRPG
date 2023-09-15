@@ -1,6 +1,6 @@
 ---
 Title: Draconic Bloodline
-parent: Sorcerer Talent Tree
+parent: Sorcerer Talents
 grand_parent: Talents
 ---
  

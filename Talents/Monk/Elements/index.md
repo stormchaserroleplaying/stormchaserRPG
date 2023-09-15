@@ -1,6 +1,6 @@
 ---
 title: Four Elements
-parent: Monk Talent Tree
+parent: Monk Talents
 grand_parent: Talents
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Assassin
-parent: Rogue Talent Tree
+parent: Rogue Talents
 grand_parent: Talents
 ---
 

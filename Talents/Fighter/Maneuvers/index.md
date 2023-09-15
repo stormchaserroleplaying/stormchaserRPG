@@ -1,10 +1,11 @@
 ---
 title: Maneuvers
-parent: Fighter Talent Tree
+parent: Fighter Talents
 grand_parent: Talents
+nav_order: 1
 ---
 
-# Maneuvers ([Fighter](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter))
+# Maneuvers
 Maneuvers are used by the [Fighter Talent Tree](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter) and presented in alphabetical order. You may only use one maneuver once per turn.
 
 ## Commander's Strike

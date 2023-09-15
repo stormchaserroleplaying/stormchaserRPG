@@ -1,6 +1,6 @@
 ---
 Title: Undying
-parent: Warlock Talent Tree
+parent: Warlock Talents
 grand_parent: Talents
 ---
 

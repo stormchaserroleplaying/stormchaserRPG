@@ -1,6 +1,6 @@
 ---
 Title: Stargazer
-parent: Druid Talent Tree
+parent: Druid Talents
 grand_parent: Talents
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Spellblade
-parent: Fighter Talent Tree
+parent: Fighter Talents
 grand_parent: Talents
 ---
 

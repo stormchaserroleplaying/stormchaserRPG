@@ -134,14 +134,14 @@ Non-lethal weapons are designed to incapacitate a target without killing it. Wea
 Defence checks to avoid being hit by an opportunity attack made with an opportunistic weapon are made at disadvantage.
 
 ### Parry
-When wielding a parry weapon, you gain a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
+When wielding a parry weapon, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, which grants you a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
 
-| Weapon Wielded In | Maximum Bonus to Strength Defence |
-|:-----------------:|:---------------------------------:|
+| Weapon Wielded In | Bonus to Strength Defence |
+|:-----------------:|:-------------------------:|
 | One Hand | +1 |
 | Two Hands | +2 |
 
-If you are wielding a finesse weapon and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
+If you are wielding a finesse weapon and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 If you are wielding an unwieldy parry weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 

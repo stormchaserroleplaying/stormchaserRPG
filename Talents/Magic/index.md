@@ -1,7 +1,6 @@
 ---
 title: Magic Talents
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Magic Talents

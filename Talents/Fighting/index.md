@@ -1,7 +1,6 @@
 ---
 title: Fighting Styles
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Fighting Styles

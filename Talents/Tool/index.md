@@ -1,7 +1,6 @@
 ---
 title: Tool Talents
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Tool Talentsᴮᴳ

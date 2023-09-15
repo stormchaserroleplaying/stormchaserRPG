@@ -1,7 +1,6 @@
 ---
 title: Combat Talents
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Combat Talents

@@ -1,7 +1,6 @@
 ---
 title: Skill Talents
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Skill Talentsᴮᴳ

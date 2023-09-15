@@ -1,7 +1,6 @@
 ---
 title: Class Talents
-parent: Universal Talents
-grand_parent: Talents
+parent: Talents
 ---
 
 # Class Talents

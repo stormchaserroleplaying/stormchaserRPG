@@ -29,6 +29,9 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 | Primal Champion | 100 | *15 Other Barbarian Talents* |
 
 ### Rage
+
+<div style="margin-top:-10px;"></div>
+
 #### *Cost:* 5 Character Points
 You fight with a primal ferocity; you have a number of rage points equal to your Constitution modifier. These rage points can be spent to trigger [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/RagePowers/). Once you have spent a rage point, it is unavailable to you until you finish a short or long rest, at the end of which your number of rage points is reset to equal your Constitution modifier. You also gain 1 rage point whenever:
 * You hit a hostile creature with an attack for the first time that round.
@@ -57,19 +60,26 @@ As a barbarian gains talents, they learn to use their rage in new ways. When you
 Some [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/RagePowers/) or barbarian talents call for the barbarian to make a rage attack roll. When making a rage attack roll, roll your d20 dice pool and add your Constitution modifier to the result. All barbarians are considered to be trained in rage attacks. This proficiency may be raised to expertise or mastery by spending character points, just as for any other weapon proficiency.
 
 ### Natural Resilience
+
+<div style="margin-top:-10px;"></div>
+
 #### *Cost:* 5 Character Points
 You have innate Damage Reduction equal to your Constitution modifier. This DR does not stack with armour, but when wearing armour you may use the better of your Constitution modifier or the armour's DR.
 
 Additionally, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger. Attack rolls for effects that you can see, such as traps and spells, that target your Dexterity defence have disadvantage. You also have advantage on Dexterity defence checks against such effects. To gain this benefit, you can’t be [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), or [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/).
 
 ### Reckless Attack
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Rage
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 5 Character Points<br>#### *Prerequisite:* Rage
 You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls during this turn, but attack rolls against you have advantage until your next turn.
 
 ### Fast Movement
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Reckless Attack
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 5 Character Points<br>#### *Prerequisite:* Reckless Attack
 Your speed increases by 10 feet while you aren’t wearing heavy armour.
 
 ### Feral Instinct
@@ -80,45 +90,61 @@ Your instincts are so honed that you have +1d on initiative rolls.
 Additionally, if you are surprised at the beginning of combat and aren’t [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Fast Movement
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 5 Character Points<br>#### *Prerequisite:* Fast Movement
 As part of the bonus action that you take to enter your rage, you can move up to half your speed.
 
 ### Brutal Critical
-#### 20 Character Points
-#### *Prerequisite:* Instinctive Pounce
+
+<div style="margin-top:-10px;"></div>
+
+#### 20 Character Points<br>#### *Prerequisite:* Instinctive Pounce
 You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Relentless Rage
-#### *Cost:* 35 Character Points
-#### *Prerequisite:* Rage and Feral Instinct
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 35 Character Points<br>#### *Prerequisite:* Rage and Feral Instinct
 Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution defence check at the start of your next turn. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this talent after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 
 ### Brutal Critical II
-#### *Cost:* 30 Character Points
-#### *Prerequisite:* Brutal Critical and Relentless Rage
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 30 Character Points<br>#### *Prerequisite:* Brutal Critical and Relentless Rage
 You can now roll two additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Persistent Rage
-#### *Cost:* 65 Character Points
-#### *Prerequisite:* Relentless Rage
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 65 Character Points<br>#### *Prerequisite:* Relentless Rage
 Your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
 ### Brutal Critical III
-#### *Cost:* 40 Character Points
-#### *Prerequisite:* Brutal Critical II and Persistent Rage
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 40 Character Points<br>#### *Prerequisite:* Brutal Critical II and Persistent Rage
 You can now roll three additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Indomitable Might
-#### *Cost:* 80 Character Points
-#### *Prerequisite:* Brutal Critical III
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 80 Character Points<br>#### *Prerequisite:* Brutal Critical III
 If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
 ### Primal Champion
-#### *Cost:* 100 Character Points
-#### *Prerequisite:* 15 Other Barbarian Talents
+
+<div style="margin-top:-10px;"></div>
+
+#### *Cost:* 100 Character Points<br>#### *Prerequisite:* 15 Other Barbarian Talents
 You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ## Barbarian Talent Tree Branches

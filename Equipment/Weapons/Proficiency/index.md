@@ -27,6 +27,7 @@ For the purposes of more advanced talents, such as weapon foci and specialisatio
 | Firearms, renaissance | ✗ | ✓ |
 | Firearms, industrial | ✗ | ✓ |
 | Flexible | ✓ | ✓ |
+| Improvised | ✓ | ✗ |
 | Muscle-Powered | ✓ | ✗ |
 | Polearms | ✓ | ✓ |
 | Unarmed | ✓ | ✓ |

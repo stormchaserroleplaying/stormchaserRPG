@@ -13,7 +13,7 @@ grand_parent: Talents
 #### **Cost:** 5 Character Points
 You are skilled in the art of defending yourself. While you are wearing medium or heavy armour with which you are proficient, you gain the following benefits:
 * You can use an action to mark a target within 30 feet that you can see until the end of your next turn. When you do so, damage dealt to you by the target is reduced by an amount equal to half your Strength or Constitution modifier (your choice, rounded up, minimum of +1) while marked. You can only have one creature marked in this way at a time.
-* You have +1d to avoid being moved.
+* You have +1d to Strength checks to avoid being moved.
 
 ## Mastery
 

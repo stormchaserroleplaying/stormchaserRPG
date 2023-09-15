@@ -6,47 +6,6 @@ has_children: true
 
 # Fighting Styles
 
-## Duelist
-
-### Style
-You are skilled in the art of fighting with a single weapon. While you are wielding a weapon in one hand with which you are proficient and no other weapons, you gain the following benefit:
-- You have advantage on feint attempts.
-- When you miss with a weapon attack on your turn, you can use your bonus action to repeat the attack against the same target. Any modifications to the original attack roll, such as advantage, disadvantage, or without your proficiency bonus, also affect this attack roll.
-- Once on each of your turns, drawing or stowing a one-handed weapon no longer requires your object interaction.
-
-### Mastery
-You've mastered the art of fighting with a single weapon, making one weapon feel like many. While you are wielding a weapon in one hand with which you are proficient and no other weapons, you gain the following benefits:
-- When you take the Attack action, you can choose to attack with haste at the expense of accuracy. Your weapon attacks are made without the aid of your proficiency bonus, but you can make an additional weapon attack, also without your proficiency bonus. If you would make more than one attack when you take the Attack action, only one attack is made without your proficiency bonus.
-- Each round, the first time that a creature hits you with a melee attack, if advantage on your defence score would cause the attack to miss, then the attack misses.
-- You have advantage on ability checks to avoid being disarmed. Attempts to disarm you suffer disadvantage.
-
-## Equilibrium
-
-### Style
-You are skilled at fighting without the confines of armour. While you are wearing light or no armour and not wielding a shield, you gain the following benefits:
-- You can use your bonus action to mark a target within 30 feet that you can see until the end of your next turn. When you do so, you gain a bonus to Dexterity defence against effects the target controls equal to half your Dexterity modifier (rounded up, minimum of +1) while marked. You can only have one creature marked in this way at a time.
-- You have advantage on Dexterity checks to avoid being moved. Effects that would physically move you have disadvantage on their attack roll vs Dexterity defence.
-
-### Mastery
-You've mastered fighting without the confines of armour, treating combat as an elegant dance. While you are wearing light or no armour and not wielding a shield, you gain the following benefits:
-- When a creature misses you with a weapon attack, it provokes an opportunity attack from you. Do not add your proficiency bonus to your weapon skill for the purposes of determining the defence check DC.
-- Each round, the first time that a creature hits you with a weapon attack, if advantage on your defence score would cause the attack to miss, then the attack misses.
-- Once per round, if you are disarmed you catch the weapon immediately.
-
-## Formation
-
-### Style
-You are skilled at fighting with a partner. While an ally is within 5 feet of you, you gain the following benefits:
-- You can take the Guard action as a bonus action. If you could already take the Guard action as a bonus action, you can once per turn instead take it as a free action on your turn.
-- When you move on your turn, you can use a bonus action to allow an ally within 5 feet of you to move with you (no action required by the ally). The ally must end this movement within 5 feet of you, and this movement can't exceed the ally's speed.
-- When you choose to let an attack that would hit a guarded ally hit you instead, the creature rolls the damage as normal instead of choosing the maximum.
-
-### Mastery
-You've mastered fighting with a partner, learning to move and act as a single unit. While an ally is within 5 feet of you, you gain the following benefits:
-- When a creature within your reach misses an ally of yours with a melee attack, it provokes an opportunity attack from you. Do not add your proficiency bonus to your weapon skill for the purposes of determining the defence check DC.
-- Each round, the first time an ally within 5 feet of you is hit by a weapon attack and the result of the attack roll exceeds their defence by less than your proficiency bonus, the attack misses them.
-- When you take the Guard action, attacks vs the guarded ally's Dexterity defence that would affect only them have disadvantage.
-
 ## Great Weapon
 
 ### Style

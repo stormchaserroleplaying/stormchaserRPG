@@ -5,33 +5,6 @@ parent: Talents
 
 # Fighting Styles
 
-## Disruption
-
-### Style
-You are skilled at fighting and interfering with spellcasters. You gain the following benefits:
-- When you roll vs a creature's Constitution defence to break their concentration and miss, you can use your bonus action to reroll. You must use the new roll.
-- Once per round, when a hostile creature attempts to cast a spell while within 5 feet of you, they must first make a Constitution defence check of DC = 10 + the spell's level. On a failure, the spell isn't cast and any points are wasted.
-
-### Mastery
-You've mastered fighting and interfering with spellcasters, confounding their concentration. You gain the following benefits:
-- When a creature within 30 feet of you that you can see casts a spell, they provoke an opportunity attack from you.
-- Whenever you roll vs a creature's Constitution defence to make them break their concentration, you are considered to be proficient in this roll.
-- Spells cast by creatures that you can see have disadvantage to hit you if you've dealt damage to the spellcaster since the start of your last turn.
-
-## Dual Wielding
-
-### Style
-You are skilled at fighting with two weapons. While you are wielding separate weapons in each hand with which you are proficient, you gain the following benefits:
-- When you engage in Two-Weapon Fighting, you can add your ability modifier to the damage of your Two-Weapon Fighting attack as long as it doesn't already include that modifier.
-- When you engage in Two-Weapon Fighting, if you are wielding two weapons with the parry property, then you may apply both of their parry bonuses to your Strength defence vs melee attacks.
-- When you make an opportunity attack, you can attack with both of your weapons.
-
-### Mastery
-You've mastered fighting with two weapons, becoming a flurry of motion. While you are wielding separate weapons in each hand with which you are proficient, you gain the following benefits:
-- When you engage in Two-Weapon Fighting, you may forgo a number of attacks. For each attack that you forgo, you gain a +1 bonus to Strength defence vs melee attacks until the start of your next turn.
-- You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't finesse or light. Instead, these weapons may not be unwieldy or versatile.
-- When you use your bonus action to attack with a weapon, you can choose to forgo your proficiency die. If you do so, you can make an additional attack with that weapon, also without your proficiency die.
-
 ## Duelist
 
 ### Style

@@ -15,7 +15,6 @@ You are skilled at fighting and interfering with spellcasters. You gain the foll
 * When you roll vs a creature's Constitution defence to break their concentration and miss, you can use an action to reroll. You must use the new roll.
 * Once per round, when a hostile creature attempts to cast a spell while within 5 feet of you, they must first make a Constitution defence check of DC = 10 + the spell's level. On a failure, the spell isn't cast and any mana is wasted.
 
-
 ## Mastery
 
 <div style="margin-top:-10px;"></div>

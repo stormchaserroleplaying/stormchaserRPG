@@ -1,7 +1,8 @@
 ---
 title: +1d and -1d
-parent: Skills
-nav_order: 2
+parent: Playing the Game
+grand_parent: Introduction
+nav_order: 4
 ---
 
 # +1d and -1d

@@ -23,5 +23,5 @@ You are skilled at putting the weight of a weapon to your advantage. While you a
 You've mastered putting the weight of a weapon to your advantage, letting its momentum empower your strikes. While you are wielding a melee weapon with the two-handed property with which you are proficient, you gain the following benefits:
 * On your turn, when you score a critical hit, or reduce a creature to 0 hit points with a melee weapon, you have +1d on your next melee weapon attack.
 * ~~When you miss with a melee weapon attack, you can use your bonus action to repeat the attack against the same target. Any modifications to the original attack roll, such as advantage, disadvantage, or without your proficiency bonus, also affect this attack roll. On a hit, this attack deals bludgeoning damage equal to your Strength modifier.~~ Rework to apply shock damage on miss?
-* Before you make a melee weapon attack, you can choose to suffer -1d. If the attack hits, your weapon dice deal maximum damage.
+* Before you make  an attack with a two-handed melee weapon with which you are proficient, you can choose to suffer -1d. If the attack hits, your weapon dice deal maximum damage.
 * While wielding the weapon in two hands, you have +1d to avoid being disarmed.

@@ -6,46 +6,6 @@ has_children: true
 
 # Fighting Styles
 
-## Mounted
-
-### Style
-You are skilled at fighting while mounted. You gain the following benefits:
-- Mounting a creature only uses 5 feet of your movement, provided you can reach it.
-- You can force an attack targeted at your mount to target you instead, provided you are a valid target for that attack.
-
-### Mastery
-You've mastered the art of fighting while mounted, moving seamlessly with your companion. While you are mounted on a controlled creature, you gain the following benefits:
-- Once per turn, you can choose to have advantage on a melee weapon attack roll against an unmounted creature that is smaller than your mount. If the attack hits, your weapon dice deal maximum damage.
-- Each round, the first time that your mount is subjected to an effect that targets its Dexterity defence and deals only half damage on a miss, it instead takes no damage if it is missed and only half damage if it is hit.
-- While mounted, you can use your bonus action to have your mount make a single attack.
-
-## Onslaught
-
-### Style
-You are skilled at using your momentum to your advantage. You gain the following benefits:
-- You can take the Dash action as a bonus action. If you could already take the Dash action as a bonus action, you can once per turn instead take it as a free action on your turn.
-- When you attempt to trip a creature, instead of making a Strength (Athletics) check, you can instead make an attack roll. If you are wielding your weapon in two hands, you make this attack roll with advantage.
-
-### Mastery
-You've mastered using your momentum to your advantage, effectively pummeling creatures into submission and keeping them down once they fall. You gain the following benefits:
-- When a creature falls prone within 5 feet of you, it provokes an opportunity attack from you.
-- When you would have advantage on a melee weapon attack due to a creature being prone, you can reroll one of the dice once.
-- When a prone creature within 5 feet of you attempts to stand, they provoke an opportunity attack from you.
-- Once on each of your turns, if you move at least 10 feet in a straight line towards a creature before hitting it with a melee weapon attack, your weapon dice deal maximum damage.
-
-## Sentinel
-
-### Style
-You are skilled at techniques that take advantage of every drop in any enemy's guard. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:
-- Creatures provoke an opportunity attack when they move to within your reach or move 5 feet or greater while within your reach.
-- When you hit a creature that is no more than one size larger than you with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
-
-### Mastery
-You've mastered techniques to take advantage of every drop in any enemy's guard; in tight spaces you are indomitable. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:
-- Creatures within your reach provoke opportunity attacks from you even if they take the disengage action.
-- You can use a bonus action to enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you may make a number of additional opportunity attacks equal to your Dexterity modifier.
-- If you end your turn having taken the dodge action, then you may make one additional opportunity attack that round.
-
 ## Sharpshooter
 
 ### Style

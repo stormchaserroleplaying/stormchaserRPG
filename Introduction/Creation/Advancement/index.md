@@ -15,9 +15,9 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Weapon Mastery | 25 |
 | Skill Mastery | 25 |
 | Defence Expertise | 15 |
-| Skill Expertise | 15 |
-| Spell School Expertise | 10 |
+| Spell School Expertise | 15 |
 | Weapon Expertise | 10 |
+| Skill Expertise | 10 |
 | Tool Mastery | 10 |
 | Language (Native) | 10 |
 | Learn an additional spell | From 5 |

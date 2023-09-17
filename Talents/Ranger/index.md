@@ -2,7 +2,6 @@
 title: Ranger Talents
 parent: Talents
 has_children: true
-nav_order: 9
 ---
 
 # Ranger Talent Tree

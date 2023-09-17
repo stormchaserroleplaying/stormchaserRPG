@@ -2,7 +2,6 @@
 title: Wizard Talents
 parent: Talents
 has_children: true
-nav_order: 13
 ---
 
 # Wizard Talent Tree

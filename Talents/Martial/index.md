@@ -1,7 +1,7 @@
 ---
 title: Martial Feat Talents
 parent: Talents
-nav_order: 15
+nav_order: 1
 ---
 
 # Martial Feats Talent Tree

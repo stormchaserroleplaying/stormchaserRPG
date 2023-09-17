@@ -2,7 +2,6 @@
 title: Rogue Talents
 parent: Talents
 has_children: true
-nav_order: 10
 ---
 
 # Rogue Talent Tree

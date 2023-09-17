@@ -2,7 +2,6 @@
 title: Bard Talents
 parent: Talents
 has_children: true
-nav_order: 3
 ---
 
 # Bard Talent Tree

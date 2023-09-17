@@ -2,7 +2,6 @@
 title: Sorcerer Talents
 parent: Talents
 has_children: true
-nav_order: 11
 ---
 
 # Sorcerer Talent Tree

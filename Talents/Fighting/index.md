@@ -6,48 +6,6 @@ has_children: true
 
 # Fighting Styles
 
-## Shield
-
-### Style
-You are skilled at using your shield to defend yourself, and you understand that shields are not just for protection but also for offense. While you are wielding a shield with which you are proficient, you gain the following benefits:
-- If you are wielding a heavy shield, you are no longer required to wield a weapon with the light property in the other hand.
-- You can use a bonus action to try to shove or trip a creature within 5 feet of you with your shield.
-
-### Mastery
-You've mastered using a shield to defend yourself. While you are wielding a shield with which you are proficient, you gain the following benefits:
-- If you aren't incapacitated or already proficient in Dexterity defence, you can add shield bonus to your Dexterity defence vs indirect spells or other harmful effects.
-- Each round, the first time that a creature that you can see damages you, the weapon dice deal minimum damage.
-- Each round, the first time that you are missed by an effect that targets your Dexterity defence and deals half damage on a miss, you instead take no damage.
-
-## Snapshot
-
-### Style
-You are skilled at getting up close and personal with ranged weapons. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:
-- When making a ranged weapon attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. 
-- If your target does not have total cover, then your ranged weapon attacks against targets within 30 feet of you consider the target's cover bonus to be reduced by one step. This feature stacks with others of its kind.
-- When you roll a 1 on a ranged weapon damage die against a creature within 30 feet, you can reroll the die and must use the new roll, even if the new roll is a 1.
-
-### Mastery
-You've mastered getting up close and personal with ranged weapons, maintaining both rate of fire and accuracy. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:
-- When you take the Attack action targeting a creature within 30 feet, you can choose to attack rapidly at the expense of accuracy. Your ranged weapon attacks are made without the aid of your proficiency bonus, but you can use your bonus action to make an additional ranged weapon attack, also without your proficiency bonus. If you would make more than one attack when you take the Attack action, only one attack is made without your proficiency bonus.
-- If your target does not have total cover, then your ranged weapon attacks against targets 30 feet or greater from you consider the target's cover bonus to be reduced by one step. This feature stacks with others of its kind.
-- Other creatures provoke an opportunity attack from you when they move to within 30 feet of you, and you can use ranged weapons when making opportunity attacks.
-
-## Throwing
-
-### Style
-You are skilled with the techniques of throwing weapons. While you are wielding a weapon with the thrown property with which you are proficient, you gain the following benefits:
-- Whenever you make a ranged attack with a thrown weapon, you can immediately draw another weapon as part of the attack.
-- Whenever you make a ranged attack with a thrown weapon, you can move up to 5 feet.
-- When you miss with a ranged attack with a thrown weapon, you can use your bonus action to repeat the attack against a creature within 15 feet and behind your initial target. Any modifications to the original attack roll, such as advantage, disadvantage, or without your proficiency bonus, also affect this attack roll.
-
-### Mastery
-You've mastered the techniques of throwing weapons, readily blending the weapons with your movements. While you are wielding a weapon with the thrown property with which you are proficient, you gain the following benefits:
-- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls with thrown weapons.
-- Once on each of your turns, you can make a ranged weapon attack with a thrown weapon against a target within the weapon's normal range without the aid of your proficiency bonus (no action required).
-- When you hit a creature with a ranged attack with a thrown weapon, you have advantage on your next melee weapon attack against that creature before the end of your next turn.
-- Once per turn, you can draw a weapon with the thrown property without using your object interaction.
-
 ## Twin-Blade
 
 ### Style

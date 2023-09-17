@@ -22,5 +22,4 @@ You are skilled with ranged weapons and can make shots that others find difficul
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Sharpshooter Fighting Style
 You've mastered ranged weapons and can easily make shots that others find impossible. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:
 * The dice pool penalty for attacking with a ranged weapon at long range is reduced by 1.
-* If your target has lesser, standard or greater cover, then your ranged weapon attacks against targets 30 feet or greater from you consider the target's cover bonus to be reduced by an additional step, for a total of two steps.
-* Before you make an attack with a ranged weapon with which you are proficient, you can choose to suffer -1d. If the attack hits, your weapon dice deal maximum damage.
+* Before you make an attack with a ranged weapon with which you are proficient vs a targat that is 30 feet or greater from you, you can choose to suffer -1d. If the attack hits, your weapon dice deal maximum damage.

@@ -9,19 +9,23 @@ nav_order: 2
 In order to cast a spell, your spellcasting attribute must be equal to, or higher than, 10 + the spell's level.
 
 | Talent | CP | Prerequisites | Spellcasting Attribute Prerequisite |
-|:-------|:--:|:--------------|:----------------------:|
-| 2nd Level Spells  | 5 | 2 Other Disciple or Mage Talents | 12 |
-| 3rd Level Spells  | 10 | 2nd Level Spells, 2 Other Disciple or Mage Talents | 13 |
-| 4th Level Spells  | 15 | 3rd Level Spells, 4 Other Disciple or Mage Talents | 14 |
-| 5th Level Spells  | 25 | 4th Level Spells, 5 Other Disciple or Mage Talents | 15 |
-| 6th Level Spells  | 35 | 5th Level Spells, 7 Other Disciple or Mage Talents | 16 |
-| 7th Level Spells  | 50 | 6th Level Spells, 8 Other Disciple or Mage Talents | 17 |
-| 8th Level Spells  | 65 | 7th Level Spells, 10 Other Disciple or Mage Talents | 18 |
-| 9th Level Spells  | 80 | 8th Level Spells, 11 Other Disciple or Mage Talents | 19 |
+|:-------|:--:|:--------------|:-----------------------------------:|
+| 1st Level Spells  | 5   | - | 11 |
+| 2nd Level Spells  | 5   | 2 Other Disciple or Mage Talents | 12 |
+| 3rd Level Spells  | 10  | 2nd Level Spells, 2 Other Disciple or Mage Talents | 13 |
+| 4th Level Spells  | 15  | 3rd Level Spells, 4 Other Disciple or Mage Talents | 14 |
+| 5th Level Spells  | 25  | 4th Level Spells, 5 Other Disciple or Mage Talents | 15 |
+| 6th Level Spells  | 35  | 5th Level Spells, 7 Other Disciple or Mage Talents | 16 |
+| 7th Level Spells  | 50  | 6th Level Spells, 8 Other Disciple or Mage Talents | 17 |
+| 8th Level Spells  | 65  | 7th Level Spells, 10 Other Disciple or Mage Talents | 18 |
+| 9th Level Spells  | 80  | 8th Level Spells, 11 Other Disciple or Mage Talents | 19 |
 | 10th Level Spells | 100 | 9th Level Spells, 13 Other Disciple or Mage Talents | 20 |
 
 ## 2nd Level Spells
-*Prerequisite:* Spellcasting attribute of 12 or higher and 2 Other Disciple or Mage Talents<br>
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Spellcasting attribute of 12 or higher and 2 Other Disciple or Mage Talents
 You can prepare and cast 2nd level spells. Your maximum mana increases to 6.
 
 ## 3rd Level Spells

@@ -1,10 +1,11 @@
 ---
-title: Spellcasting Talents
-parent: Talents
-nav_order: 2
+title: Spellcasting
+parent: Magic Talents
+grand_parent: Talents
+nav_order: 1
 ---
 
-# Spellcasting Talent Tree
+# Spellcasting Talents
 
 In order to cast a spell, your spellcasting attribute must be equal to, or higher than, 10 + the spell's level.
 

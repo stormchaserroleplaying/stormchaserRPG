@@ -16,10 +16,10 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Skill Mastery | 25 |
 | Defence Expertise | 15 |
 | Spell School Expertise | 15 |
+| Tool Mastery | 15 |
+| Language (Native) | 15 |
 | Weapon Expertise | 10 |
 | Skill Expertise | 10 |
-| Tool Mastery | 10 |
-| Language (Native) | 10 |
 | Learn an additional spell | From 5 |
 | Defence Training | 5 |
 | Spell School Training | 5 | 
@@ -28,6 +28,7 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Weapon Training | 2 |
 | Skill Training | 2 |
 | Increase an Attribute by 1 | From 1 |
+| Simple Weapon Training | 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |

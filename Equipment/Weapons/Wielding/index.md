@@ -2,7 +2,7 @@
 title: Wielding Weapons
 parent: Weapons
 grand_parent: Equipment
-nav_order: 5
+nav_order: 15
 ---
 
 # Wielding Weapons

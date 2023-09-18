@@ -29,4 +29,4 @@ Life along the crossroads rarely offers an opportunity for proper schooling, but
 You have +1d to Perception while keeping watch during a rest.
 
 ## Languages
-You can speak, read and write your local language. For example, a village from the kingdom of Breanne speaks Breannian.
+You can speak, read and write your local language. For example, a villager from the kingdom of Breanne speaks Breannian.

@@ -2,7 +2,7 @@
 title: Siege Weapons
 parent: Weapons
 grand_parent: Equipment
-nav_order: 7
+nav_order: 17
 ---
 
 # Siege Weapons

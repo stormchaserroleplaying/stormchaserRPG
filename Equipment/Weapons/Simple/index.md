@@ -10,9 +10,8 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Hatchet | 3 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Concealed, finesse, light, thrown (30/90) |
-| Handaxe | 5 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown (20/60) |
-| Archer's Axe | 7 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | — |
+| Hatchet | 4 sp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown (10) |
+| Splitting Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Versatile |
 | Stiletto | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ½ lb. | 5 | Brutal 1, close, concealed, finesse, light |
 | Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, finesse, light, thrown (20/60) |
 | Sickle | 1 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, hooked, light |

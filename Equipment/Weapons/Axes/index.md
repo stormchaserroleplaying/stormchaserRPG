@@ -12,6 +12,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
 | Boarding Axe | 6 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, finesse, hooked, light
 | Dwarven Maulaxe | 25 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Brutal 1, disarm, exotic, finesse, hooked, light, sunder 1, thrown (20/60) |
+| Waraxe | 10 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Brutal 1, disarm, hooked |
 | Battleaxe | 10 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, versatile |
 | Longaxe | 10 gp | 1d10 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 11 | Brutal 1, disarm, hooked, trip, two-handed |
 | Greataxe | 30 gp | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 13 | Brutal 1, cleave, two-handed, unwieldy |

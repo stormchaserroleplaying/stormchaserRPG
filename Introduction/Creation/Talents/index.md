@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # 4. Choose Talents
-When creating a character, you begin play with ?100? character points to spend on talents, plus a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
+When creating a character, you begin play with 120 character points to spend on talents, plus a number of additional character points equal to your Intelligence modifier. These points are spent as described in the table below:
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
@@ -54,6 +54,6 @@ You can be a master with a weapon, skill, tool, or defence that you are already 
 When the exact total of a check is relevant (for example, when determining the quality of a crafted item), for every die beyond the first that makes the target DC, you gain a +1 to your final result. For every natural 20 beyond the first, you gain a +2 to your final result.
 
 ## Starting With Additional Character Points
-Typically, a character starts with ?20? character points and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
+Typically, a character starts with a total of 150 character points for attributes and talents and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
 
-Starting off with 20 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.
+Starting off with 150 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.

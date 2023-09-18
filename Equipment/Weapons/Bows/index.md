@@ -2,6 +2,7 @@
 title: Bows
 parent: Weapons
 grand_parent: Equipment
+nav_order: 5
 ---
 
 # Bows

@@ -2,7 +2,7 @@
 title: Advanced Weapons
 parent: Weapons
 grand_parent: Equipment
-nav_order: 16
+nav_order: 15
 ---
 
 # Advanced Weapons

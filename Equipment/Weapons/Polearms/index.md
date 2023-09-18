@@ -2,6 +2,7 @@
 title: Polearms
 parent: Weapons
 grand_parent: Equipment
+nav_order: 9
 ---
 
 # Polearms

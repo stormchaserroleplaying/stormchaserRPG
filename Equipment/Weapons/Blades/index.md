@@ -2,6 +2,7 @@
 title: Blades
 parent: Weapons
 grand_parent: Equipment
+nav_order: 4
 ---
 
 # Blades

@@ -2,6 +2,7 @@
 title: Crossbows
 parent: Weapons
 grand_parent: Equipment
+nav_order: 6
 ---
 
 # Crossbows

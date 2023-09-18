@@ -2,7 +2,7 @@
 title: Ammunition
 parent: Weapons
 grand_parent: Equipment
-nav_order: 13
+nav_order: 12
 ---
 
 # Ammunition

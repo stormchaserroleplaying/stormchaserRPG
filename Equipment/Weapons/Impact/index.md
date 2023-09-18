@@ -2,6 +2,7 @@
 title: Impact
 parent: Weapons
 grand_parent: Equipment
+nav_order: 8
 ---
 
 # Impact Weapons

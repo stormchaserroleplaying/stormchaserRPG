@@ -2,7 +2,7 @@
 title: Weapon Table Glossary
 parent: Weapons
 grand_parent: Equipment
-nav_order: 14
+nav_order: 13
 ---
 
 # Weapon Table Glossary

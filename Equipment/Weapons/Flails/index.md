@@ -2,6 +2,7 @@
 title: Flails
 parent: Weapons
 grand_parent: Equipment
+nav_order: 8
 ---
 
 # Flails

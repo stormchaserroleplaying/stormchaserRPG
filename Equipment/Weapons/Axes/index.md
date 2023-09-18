@@ -2,6 +2,7 @@
 title: Axes
 parent: Weapons
 grand_parent: Equipment
+nav_order: 3
 ---
 
 # Axes

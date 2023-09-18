@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Weapon Proficiency
-Weapons are grouped into 12 categories.
+Weapons are grouped into 11 categories.
 * Axes
 * Blades
 * Bows
@@ -17,7 +17,6 @@ Weapons are grouped into 12 categories.
 * Improvised
 * Polearms
 * Simple
-* Thrown
 * Unarmed
 
 Most people can use simple weapons effectively. These weapons include clubs, maces and other weapons that are often found in the hands of commoners.

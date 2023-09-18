@@ -11,9 +11,7 @@ Weapons are grouped into 12 categories.
 * Blades
 * Bows
 * Crossbows
-* Firearms, medieval
-* Firearms, renaissance
-* Firearms, industrial
+* Firearms
 * Flail
 * Impact
 * Improvised

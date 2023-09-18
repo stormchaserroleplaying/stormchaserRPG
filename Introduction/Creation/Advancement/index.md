@@ -28,7 +28,6 @@ As your character goes on adventures and overcomes challenges, they gain experie
 | Weapon Training | 2 |
 | Skill Training | 2 |
 | Increase an Attribute by 1 | From 1 |
-| Simple Weapon Training | 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |

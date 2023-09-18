@@ -21,14 +21,6 @@ Weapons are grouped into 11 categories.
 
 Most people can use simple weapons effectively. These weapons include clubs, maces and other weapons that are often found in the hands of commoners.
 
-The character point costs for simple weapon training, expertise and mastery are summarised in the following table:
-
-| Benefit | Character Points |
-|:-------:|:----------------:|
-| Simple Weapon Training | 1 |
-| Simple Weapon Expertise | 5 |
-| Simple Weapon Mastery | 15 |
-
 Other weapon groups, such as swords, axes and polearms, require more specialised training. Most warriors use the weapons that put their fighting style and training to best use.
 
 Training with a weapon allows you to roll with +1d when making an attack roll for any attack that you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add +1d to the attack roll.

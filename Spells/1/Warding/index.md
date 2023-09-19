@@ -69,7 +69,7 @@ When this spell is cast, you gain resistance to physical damage for the duration
 
 When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
-**Atonement.** You touch one willing creature whose alignment has changed, and you make a DC 20 spellcasting ability check. On a successful check, you restore the target to its original alignment.
+**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a spellcasting ability check vs DC 20. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
 
 **Bless Water.** You touch one vial of water and cause it to become holy water.
 

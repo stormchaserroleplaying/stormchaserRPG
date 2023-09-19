@@ -13,10 +13,10 @@ grand_parent: Spells
 **Components:** V, S, M *(A stone stele.)*<br>
 **Duration:** Instantaneous
 
-Take a stone stele and affix it into a point of your choosing when you cast this spell. The next creature that attacks you within 100 foot of this stele must succeed at a Charisma defence check or be drawn to destroy it instead.
+Take a stone stele and affix it into a point of your choosing when you cast this spell. The stele has 10 integrity and DR 6. The spell ends when the stele reduced to zero integrity or until dispelled. 
 
-The stele has 10 integrity and DR 8. The spell ends when it breaks.
+A creature that attempts to make an attack against you within 30 feet of the stele must first make a Charisma defence check vs your charms spell skill. On a success, the spell has no effect on the creature. On a failure, the creature must spend at least 1 action to Strike the stele as it is drawn to destroy it. 
 
-At the end of each of its turns, a creature affected by this spell can make another Charisma defence check. On a success, the spell ends on the target.
+At the end of each of its turns, a creature affected by this spell can make another Charisma defence check. 
 
 **At Higher Levels:** When you cast this spell using a spell slot of 3rd level or higher, the integrity of the stele increases by 10 and the DR of the stele increases by 2 for each slot level above 2nd.

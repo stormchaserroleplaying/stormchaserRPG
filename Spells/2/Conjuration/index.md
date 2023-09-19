@@ -29,7 +29,7 @@ This spell cannot be used indoors.
 **Duration:** Sustained, up to 1 hour
 
 A statue of animated stone constructs itself. It stands twice your height and is decorated and painted to mimic that of a famed warlord. It will follow in your footsteps for the spell's duration, or until you use 1 action to command it to take one of the following actions:
-* **Attack:** The statue moves up to 30 feet and makes a melee against a target that it can reach with its movement. Make a melee conjuration attack against the target. On a hit, this attack deals 5d6 bludgeoning damage.
+* **Attack:** The statue moves up to 30 feet to make a melee against a target. Make a melee conjuration attack against the target. On a hit, this attack deals 5d6 bludgeoning damage.
 * **Defend:** The statue interposes itself between you and your enemies. This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +3 shield bonus vs melee and ranged attacks until the start of your next turn.
 * **Lift:** The status will lift one thing weighing 500 lbs. or less and move it up to 30 feet.
 

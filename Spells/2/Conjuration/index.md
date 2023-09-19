@@ -9,11 +9,17 @@ grand_parent: Spells
 ## Beget the Nest of Crowns
 *2nd level Conjuration*<br>
 **Casting Time:** 1 Action<br>
-**Range:** Self (600-foot radius)<br>
+**Range:** Self (120-foot radius)<br>
 **Components:** V, S, M *(A crown of twigs and feathers.)*<br>
-**Duration:** Instantaneous
+**Duration:** Sustained, up to 1 hour
 
-Affix upon your brow a crown of twigs and feathers as a part of casting this spell. Birds without number will then cloud the heavens above and descend. All within 600 feet is considered obscured, ranged missiles will not hit their marks, no one can move more than 10 feet per round, and all sound is drowned by their chirping. These birds swarm until somehow killed en masse or dispelled. This spell is useless indoors.
+*Birds without number cloud the skies and descend.*
+
+Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area in a 120-foot radius of you. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock is considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
+
+These birds swarm until somehow killed en masse, dispelled, or the crown is removed from your head. 
+
+This spell cannot be used indoors.
 
 ## Move the Warlord's Statue
 *2nd level Conjuration (Ritual)*<br>

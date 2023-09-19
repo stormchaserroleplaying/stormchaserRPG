@@ -9,13 +9,13 @@ grand_parent: Spells
 ## Beget the Nest of Crowns
 *2nd level Conjuration*<br>
 **Casting Time:** 1 Action<br>
-**Range:** Self (120-foot radius)<br>
+**Range:** Self (300-foot radius)<br>
 **Components:** V, S, M *(A crown of twigs and feathers.)*<br>
 **Duration:** Sustained, up to 1 hour
 
 *Birds without number cloud the skies and descend.*
 
-Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area in a 120-foot radius of you. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock is considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
+Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area in a 300-foot radius of you. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock is considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
 
 These birds swarm until somehow killed en masse, dispelled, or the crown is removed from your head. 
 

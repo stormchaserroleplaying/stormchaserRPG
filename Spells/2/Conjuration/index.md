@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *Birds without number cloud the skies and descend.*
 
-Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area in a 300-foot radius of you. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock is considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
+Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area centered on you in a 300-foot radius. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock is considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
 
 These birds swarm until somehow killed en masse, dispelled, or the crown is removed from your head. 
 

@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S, M *(A crown of twigs and feathers.)*<br>
 **Duration:** 8 hours
 
-*Birds without number cloud the skies and descend.*
+*Birds without number cloud the skies and cover your movements.*
 
 Affix upon your brow a crown of twigs and feathers. A large flock of birds is summoned that swarm an area centered on you in a 300-foot radius. The area within the flock is considered heavily obscured and difficult terrain. All creatures inside the flock are considered [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) as sound is drowned by their chirping. 
 
@@ -28,9 +28,9 @@ This spell cannot be used indoors.
 **Components:** V, S, M<br>
 **Duration:** Sustained, up to 1 hour
 
-A statue of animated stone constructs itself. It stands twice your height and is decorated and painted to mimic that of a famed warlord. It will follow in your footsteps for the spell's duration, or until you command it to take one of the following actions:
-* **Attack:** The statue makes a melee spell attack (using your attack bonus) against a target that it can reach with 30 feet of movement. On a hit, this attack deals 5d6 bludgeoning damage.
-* **Defend:** The statue absorbs the damage from the next melee or ranged attack that hits you.
-* **Lift:** The status will lift one thing weighing 200 lbs. or less.
+A statue of animated stone constructs itself. It stands twice your height and is decorated and painted to mimic that of a famed warlord. It will follow in your footsteps for the spell's duration, or until you use 1 action to command it to take one of the following actions:
+* **Attack:** The statue moves up to 30 feet and makes a melee against a target that it can reach with its movement. Make a melee conjuration attack against the target. On a hit, this attack deals 5d6 bludgeoning damage.
+* **Defend:** The statue interposes itself between you and your enemies. This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +3 shield bonus vs melee and ranged attacks until the start of your next turn.
+* **Lift:** The status will lift one thing weighing 500 lbs. or less and move it up to 30 feet.
 
 After any of these acts, the statue will turn into mud and disintegrate.

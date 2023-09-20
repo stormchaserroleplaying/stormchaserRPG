@@ -57,7 +57,7 @@ You must choose a mental attribute to be your spellcasting attribute: Intelligen
 You use your chosen ability whenever a spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a spell that you cast.
 
 #### Preparing Spells
-You prepare the list of disciple spells that are available for you to cast, choosing from the divine spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.
+You prepare the list of spells that are available for you to cast, choosing from the divine spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.
 
 For example, if you are a disciple with 3 talents, you have 15 mana. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells. If you prepare the 1st-level spell cure wounds, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
 

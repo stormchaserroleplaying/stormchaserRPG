@@ -6,7 +6,24 @@ parent: Skills
 # Survival
 Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
 
-## Follow Tracks
+## Untrained Actions
+The following actions are ones which can be performed by anyone, regardless of skill. The exact level of success will be greater when done by someone of higher skill, but anyone can be reasonably expected to perform these tasks.
+
+### Sense Direction
+Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you’re unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a clear view of major landmarks or the sky, you take –1d to checks to Sense Direction. This penalty can be negated if you have an item, such as a compass, specifically meant to determine direction.
+
+Critical Success You get an excellent sense of where you are. If you are in an environment with cardinal directions, you know them exactly.
+Success You gain enough orientation to avoid becoming hopelessly lost. If you are in an environment with cardinal directions, you have a sense of those directions.
+
+## Trained Actions
+The following tasks are those that require a measure of skill to perform. While an untrained person can attempt the action, the chances of success are not readily in their favor.
+
+### Cover Tracks
+You cover your tracks, moving up to half your travel speed. You don’t need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Follow Track.
+
+In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action.
+
+### Follow Tracks
 To find tracks or to follow them for 1 mile requires a successful Survival check. You must make another Survival check every time the tracks become difficult to follow. If you are not proficient in this skill, you can make Wisdom checks to find tracks, but you can follow them only if the DC for the task is 10 or lower. Alternatively, you can use the Perception skill to find a footprint or similar sign of a creature’s passage using the same DCs, but you can’t use Perception to follow tracks, even if someone else has already found them.
 
 You move at half your normal speed while following tracks (or at your normal speed with disadvantage on the check). The DC depends on the surface and the prevailing conditions.

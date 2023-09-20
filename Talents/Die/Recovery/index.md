@@ -1,6 +1,6 @@
 ---
-title: Recovery
-parent: Martial Talents
+title: Recovery Die
+parent: Die Talents
 grand_parent: Talents
 ---
 

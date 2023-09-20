@@ -15,6 +15,15 @@ grand_parent: Spells
 
 Take the body of a dead man and lay the corpse of an animal upon it. Only then may you cast this spell. The two bodies fuse in a way of your choosing. The new creature is risen as a chimera that will faithfully serve you. It has as many HD as you do, and has one aspect of the animal that it is fused with, such as an eagle's wings, a lion's claws, or a shark's water breath. If the chimera is ever exorcised, it dies instantly.
 
+## Keep Dead the Dead
+*5nd level Necromancy (Ritual)*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(The blood of a wounded creature.)*<br>
+**Duration:** Instantaneous
+
+Gather the blood of a dead creature and imbibe it when you cast this spell. The creature's soul cannot ever inhabit this body, as it will turn to sour soil upon death, unfit for the hosting of a soul.
+
 ## Raise Dead
 Raise Dead can be cast as a ritual.
 

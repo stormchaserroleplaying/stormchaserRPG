@@ -1,7 +1,6 @@
 ---
 title: Advancement
 parent: Character Creation
-grand_parent: Introduction
 nav_order: 7
 ---
 

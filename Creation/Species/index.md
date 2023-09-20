@@ -1,7 +1,6 @@
 ---
 title: 2. Choose a Species
 parent: Character Creation
-grand_parent: Introduction
 nav_order: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: 4. Choose Talents
 parent: Character Creation
-grand_parent: Introduction
 nav_order: 4
 ---
 

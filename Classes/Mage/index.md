@@ -1,24 +1,4 @@
----
-title: Mage
-parent: Classes
-nav_order: 5
----
-
 # Mage
-
-## Class Features
-As a mage, you have the following class features.
-
-### Stamina
-Mages have stamina equal to 2× their Constitution score. Their recovery die is a d6.
-
-### Proficiencies
-**Perception:** Untrained<br>
-**Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
-**Skills:** Choose 2 from Arcana, Deception, History, Insight, Intimidation, Investigation and Theology<br>
-**Weapons:** Simple weapons<br>
-**Armour:** None<br>
-**Tools:** None
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the arcane spell list.

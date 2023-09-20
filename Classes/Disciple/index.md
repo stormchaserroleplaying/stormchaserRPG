@@ -1,24 +1,4 @@
----
-title: Disciple
-parent: Classes
-nav_order: 3
----
-
 # Disciple
-
-## Class Features
-As a disciple, you have the following class features.
-
-### Stamina
-Disciples have stamina equal to 3× their Constitution score. Their recovery die is a d8.
-
-### Proficiencies
-**Perception:** Untrained<br>
-**Defences:** Your spellcasting ability, 1 mental defence and 1 physical defence<br>
-**Skills:** Choose 2 from Insight, Medicine, Persuasion and Theology<br>
-**Weapons:** Simple weapons<br>
-**Armour:** Light armour, medium armour<br>
-**Tools:** None
 
 ### Spellcasting
 See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting and the Spells Listing for the divine spell list.

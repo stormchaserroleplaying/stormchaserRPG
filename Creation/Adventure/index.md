@@ -1,7 +1,6 @@
 ---
 title: 6. Adventure!
 parent: Character Creation
-grand_parent: Introduction
 nav_order: 6
 ---
 

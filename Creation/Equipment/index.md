@@ -1,7 +1,6 @@
 ---
 title: 5. Choose Equipment
 parent: Character Creation
-grand_parent: Introduction
 nav_order: 5
 ---
 

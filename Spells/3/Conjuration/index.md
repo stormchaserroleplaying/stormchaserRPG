@@ -15,6 +15,15 @@ grand_parent: Spells
 
 You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.
 
+## Passage Through the Underworld
+*3th level Conjuration*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** V, S<br>
+**Duration:** 1 Round
+
+Cover your ears and close your eyes as a part of this spell's casting. Then, walk forward. Your body will descend underground, to a place no living or undead creature may follow. The following round, appear anywhere within 360 feet of your original location that you can see. When you emerge, one denizen of the underworld- of the GM's discretion - emerges with you, and will aggressively haunt wherever you appear.
+
 ## Set Loose the Crocodiles
 *3rd level Conjuration*<br>
 **Casting Time:** 2 Actions<br>

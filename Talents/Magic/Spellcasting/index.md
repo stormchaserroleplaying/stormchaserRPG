@@ -22,11 +22,61 @@ In order to cast a spell, your spellcasting attribute must be equal to, or highe
 | 9th Level Spells  | 80  | 8th | 720 | 19 |
 | 10th Level Spells | 100 | 9th | 900 | 20 |
 
+See [Spells Rules](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/) for the general rules of spellcasting.
+
+## 1st Level Spells
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Spellcasting Attribute of 11 or Higher
+Choose either arcane or divine spellcasting. Arcane spellcasters cast spells from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/). Divine spellcasters cast spells from the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/). If you wish to learn both, then you must take this talent a second time.
+
+### Arcane Spellcasting
+When you choose arcane spellcasting, you must also choose one of the three following traditions:
+* Occultism
+* Sorcery
+* Wizardry
+
+#### Spellcasting Attribute
+You must choose an attribute to be your spellcasting attribute. The attributes that you may choose from depend on your tradition:
+* Occultism: Intelligence, Wisdom, or Charisma
+* Sorcery: Constitution or Charisma
+* Wizardry: Intelligence or Wisdom
+
+You use your chosen ability whenever a spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a spell that you cast.
+
+#### Spellcasting Focus
+You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your arcane spells.
+
+### Divine Spellcasting
+The power of your spells comes from your devotion and attunement to a higher power.
+
+#### Spellcasting Attribute
+You must choose a mental attribute to be your spellcasting attribute: Intelligence, Wisdom or Charisma.
+
+You use your chosen ability whenever a spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a spell that you cast.
+
+#### Preparing Spells
+You prepare the list of disciple spells that are available for you to cast, choosing from the divine spell list. When you do so, choose a number of disciple spells of each spell level that you can cast equal to your spellcasting ability modifer.
+
+For example, if you are a disciple with 3 talents, you have 15 mana. With a spellcasting ability of 16, your list of prepared spells can include 3 1st-level spells and 3 2nd-level spells. If you prepare the 1st-level spell cure wounds, you can cast it at 1st level or 2nd level. Casting the spell does not remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of disciple spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Focus
+You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your disciple spells.
+
+### Cantrips
+You may choose a number of cantrips from your spell list equal to your spellcasting attribute modifier. If your spellcasting attribute modifier increases, then you learn additional cantrips of your choice.
+
+### Mana
+You have 3 mana with which to cast your spells of 1st level and higher. To cast one of these spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
+
 ## 2nd Level Spells
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** 1st Level Spells, Spellcasting attribute of 12 or higher and Character Value 175 Points
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 1st Level Spells, Spellcasting Attribute of 12 or Higher and Character Value 175 Points
 You can prepare and cast 2nd level spells. Your maximum mana increases to 6.
 
 ## 3rd Level Spells

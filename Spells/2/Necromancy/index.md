@@ -16,14 +16,3 @@ grand_parent: Spells
 Light incense upon a book when you cast this spell. When a creature attempts to read the contents of the book, or attempts to cast a spell that lets them do so, it must make a Constituion defence check vs your necromancy spell skill. On a failure, they will be blinded for 1d6 days time. 
 
 After one creature is cursed in this manner, the book is no longer protected.
-
-## Keep Dead the Dead
-*2nd level Necromancy*<br>
-**Casting Time:** 2 actionse<br>
-**Range:** Touch<br>
-**Components:** V, S, M *(The blood of a wounded creature.)*<br>
-**Duration:** Instantaneous
-
-*You curse the blood of a body so that it cannot be reaised.*
-
-[work in progress]

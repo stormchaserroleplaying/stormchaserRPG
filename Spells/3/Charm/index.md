@@ -19,9 +19,9 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 
 ## Psychic Spy
 *3rd Level Charm*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
 **Duration:** Special, see text.
 
-With this spell, you can try to steal the elation from the mind of one humanoid you can see within 60 feet. Make a spell attack roll vs the target's Charisma defence. On a hit, you can steal one beneficial effect that they currently possess, such as an ongoing spell (as long as its level is equal to or less than the slot level that psychic spy was cast from), temporary hit points, or possession of Bardic Inspiration dice. The effect ends for the target and transfers to you for the remainder of its normal duration. If the effect requires concentration, you must concentrate on it instead of the original caster.
+With this spell, you can try to steal the elation from the mind of one humanoid you can see within 60 feet. Make a spell charm attack roll vs the Charisma defence of the target. On a hit, you can steal one beneficial effect that they currently possess, such as an ongoing spell (as long as its level is equal to or less than the slot level that psychic spy was cast from), temporary hit points, or possession of Bardic Inspiration dice. The effect ends for the target and transfers to you for the remainder of its normal duration. If the effect is being sustained, you must sustain it instead of the original caster.

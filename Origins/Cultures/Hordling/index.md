@@ -11,10 +11,14 @@ When hordes last for years, decades, or even centuries, generations of people ar
 
 Characters raised in the hordling culture share a variety of features in common with one another.
 
+## Aligmnent
+
 ## Features
 
 ### Pack Tactics
 You have +1d on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ## Languages
-You can speak, read and write Goblin, Orc and one other language.
+You speak, read and write either Goblin or Orc with native proficiency and the other with accented proficiency.
+
+Choose one other language of your choice. You speak, read and write this language with accented proficiency.

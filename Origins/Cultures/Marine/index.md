@@ -21,6 +21,6 @@ You are trained with simple polearms, simple flexible weapons and simple crossbo
 If your class grants training with simple polearms, or simple flexible weapons, you gain training in martial polearms, or martial flexible weapons, respectively. If your class grants training with martial polearms, martial flexible weapons, or simple crossbowss, you gain 2 proficiency point. If your class grants proficiency in two of the above, you gain 4 proficiency points. If your class grants proficiency in all three of the above, you gain 6 proficiency points.
 
 ## Languages
-You can speak, read and write Elvish, Aquan and one other language.
+You can speak, read and write Elvish and Aquan.
 
 Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.

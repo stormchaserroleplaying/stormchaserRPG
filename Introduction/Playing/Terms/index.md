@@ -2,7 +2,7 @@
 title: Key Terms
 parent: Playing the Game
 grand_parent: Introduction
-nav_order: 4
+nav_order: 5
 ---
 
 # Key Terms

@@ -1,6 +1,6 @@
 ---
 title: Tempest
-parent: Cleric Talent Tree
+parent: Cleric Talents
 grand_parent: Talents
 ---
 

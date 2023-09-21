@@ -1,6 +1,6 @@
 ---
 Title: Divine Soul
-parent: Sorcerer Talent Tree
+parent: Sorcerer Talents
 grand_parent: Talents
 ---
  

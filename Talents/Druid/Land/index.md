@@ -1,6 +1,6 @@
 ---
 Title: Land
-parent: Druid Talent Tree
+parent: Druid Talents
 grand_parent: Talents
 ---
  

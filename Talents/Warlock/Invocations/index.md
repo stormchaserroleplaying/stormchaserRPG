@@ -1,6 +1,6 @@
 ---
 Title: Eldritch Invocations
-parent: Warlock Talent Tree
+parent: Warlock Talents
 grand_parent: Talents
 ---
 

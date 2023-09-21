@@ -6,30 +6,22 @@ nav_order: 1
 ---
 
 # Weapon Proficiency
-For the purposes of determining what weapon proficiencies are granted by your class, weapons are grouped into two major categories.
-
-These two categories are **simple** and **martial** weapons.
+Weapons are grouped into 11 categories.
+* Axes
+* Blades
+* Bows
+* Crossbows
+* Firearms
+* Flails
+* Impact
+* Improvised
+* Polearms
+* Simple
+* Unarmed
 
 Most people can use simple weapons effectively. These weapons include clubs, maces and other weapons that are often found in the hands of commoners.
 
-Martial weapons, including swords, combat axes and halberds, require more specialised training. Most warriors use martial weapons, because these weapons put their fighting style and training to best use.
-
-For the purposes of more advanced talents, such as weapon foci and specialisations, these categories are, in turn, broken down into several groups. Your background and class can grant you training with certain weapon groups. The weapon groups are summarised in the following table:
-
-| Proficiency Group | Simple | Martial |
-|:------------------|:------:|:-------:|
-| Axes | ✓ | ✓ |
-| Blades | ✓ | ✓ |
-| Bows | ✓ | ✓ |
-| Crossbows | ✓ | ✗ |
-| Bludgeoning | ✓ | ✓ |
-| Firearms, medieval | ✗ | ✓ |
-| Firearms, renaissance | ✗ | ✓ |
-| Firearms, industrial | ✗ | ✓ |
-| Flexible | ✓ | ✓ |
-| Muscle-Powered | ✓ | ✗ |
-| Polearms | ✓ | ✓ |
-| Unarmed | ✓ | ✓ |
+Other weapon groups, such as axes, blades and polearms, require more specialised training. Most warriors use the weapons that put their fighting style and training to best use.
 
 Training with a weapon allows you to roll with +1d when making an attack roll for any attack that you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add +1d to the attack roll.
 

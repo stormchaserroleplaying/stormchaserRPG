@@ -1,8 +1,8 @@
 ---
-title: Weapon Table Glossary
+title: Glossary
 parent: Weapons
 grand_parent: Equipment
-nav_order: 4
+nav_order: 13
 ---
 
 # Weapon Table Glossary
@@ -55,7 +55,7 @@ Disarm attempts made with a disarm weapon are made with advantage.
 A weapon with the double property has two striking ends. Attacks with the second end use the same damage die as the primary end and follow the rules for two-weapon fighting.
 
 ### Exotic
-Exotic weapons are only considered martial weapons for specific cultures. A character must spend a character point to learn how to wield another cultures' exotic weapons effectively.
+Proficiency in an exotic weapon must be purchased individually, unless you belong to the weapon's corresponding culture.
 
 ### Finesse
 When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls. If your Strength is less than the **Str/Dex** entry of the weapon, then you suffer disadvantage on your attack rolls with the weapon when using Dexterity in this way.
@@ -134,14 +134,14 @@ Non-lethal weapons are designed to incapacitate a target without killing it. Wea
 Defence checks to avoid being hit by an opportunity attack made with an opportunistic weapon are made at disadvantage.
 
 ### Parry
-When wielding a parry weapon, you gain a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
+When wielding a parry weapon, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, which grants you a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
 
-| Weapon Wielded In | Maximum Bonus to Strength Defence |
-|:-----------------:|:---------------------------------:|
+| Weapon Wielded In | Bonus to Strength Defence |
+|:-----------------:|:-------------------------:|
 | One Hand | +1 |
 | Two Hands | +2 |
 
-If you are wielding a finesse weapon and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
+If you are wielding a finesse weapon and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 If you are wielding an unwieldy parry weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 

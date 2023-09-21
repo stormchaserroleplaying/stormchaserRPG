@@ -11,6 +11,9 @@ Characters raised in the wildling culture share a variety of features in common 
 
 ## Features
 
+### Athletic Lifestyle
+You have trained proficiency in the [Athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) skill.
+
 ### Environmental Adaptation
 Choose one of the following features:
 
@@ -20,11 +23,8 @@ You're naturally adapted to hot climates. Additionally, travelling in hot weathe
 #### Mountain/Tundra Born
 You’re naturally adapted to cold climates. Additionally, you're acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. 
 
-### Natural Athlete
-You have proficiency in the [Athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) skill.
-
 ### Savage Attacker
 When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
 ## Languages
-You can speak, read and write Giant, Orc and one other language.
+You speak, read and write either Giant or Orc with native proficiency and the other with accented proficiency.

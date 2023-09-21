@@ -1,6 +1,6 @@
 ---
 title: Bardic Performances
-parent: Bard Talent Tree
+parent: Bard Talents
 grand_parent: Talents
 nav_order: 1
 ---

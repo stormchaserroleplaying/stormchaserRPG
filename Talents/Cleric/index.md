@@ -1,11 +1,10 @@
 ---
-title: Cleric Talent Tree
+title: Cleric Talents
 parent: Talents
 has_children: true
-nav_order: 4
 ---
 
-# Cleric Talent Tree (Disciple)
+# Cleric Talent Tree
 In faith and the miracles of the divine, many find a greater purpose. Called to serve powers beyond most mortal understanding, all priests preach wonders and provide for the spiritual needs of their people. Clerics are more than mere priests, though; these emissaries of the divine work the will of their deities through strength of arms and the magic of their gods. Devoted to the tenets of the religions and philosophies that inspire them, these ecclesiastics quest to spread the knowledge and influence of their faith. Yet while they might share similar abilities, clerics prove as different from one another as the divinities they serve, with some offering healing and redemption, others judging law and truth, and still others spreading conflict and corruption. The ways of the cleric are varied, yet all who tread these paths walk with the mightiest of allies and bear the arms of the gods themselves.
 
 
@@ -37,12 +36,7 @@ You present your holy symbol and speak a prayer censuring the undead. Make an at
 
 A turned creature must spend its actions trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take make opportunity attacks. For its action, it can use only the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 
-### Destroy Undead
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and Channel Divinity
-When an undead is hit by your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below half your number of cleric talents.
+When an undead creature is hit by Turn Undead, the creature is instantly destroyed if its CP is at or below half your total CP.
 
 ### Divine Strike I
 

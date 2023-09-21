@@ -1,6 +1,6 @@
 ---
 Title: Great Old One
-parent: Warlock Talent Tree
+parent: Warlock Talents
 grand_parent: Talents
 ---
  

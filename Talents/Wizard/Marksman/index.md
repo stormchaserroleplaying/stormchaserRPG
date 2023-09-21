@@ -1,6 +1,6 @@
 ---
 title: Arcane Marksman
-parent: Wizard Talent Tree
+parent: Wizard Talents
 grand_parent: Talents
 ---
 

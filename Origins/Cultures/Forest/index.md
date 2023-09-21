@@ -20,18 +20,18 @@ Forest guardians love freedom, variety, and self-expression, so they lean strong
 
 ## Features
 
+### Exotic Weapon Training
+You are trained with any weapon with the word “elven” in its name or properties.
+
 ### Mask of the Wild
 You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
 ### Speak with Small Beasts
 Through sounds and gestures, you can communicate simple ideas with small or smaller beasts. Forest guardians love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers and other creatures as beloved pets.
 
-### Weapon Training
-You are trained with martial blades and martial bows. Additionally, you treat any weapon with the word “elven” in its name or properties as a martial weapon.
-
-If your class grants training with simple blades or simple bows, then you become trained in martial blades, or martial bows, respectively. If your class grants training with martial blades or martial bows, you gain 2 character points. If your class grants training with both martial blades and martial bows, you gain 4 character points.
-
 ## Languages
-You can speak, read and write Elvish, Sylvan and one other language.
+You speak, read and write either Elvish or Sylvan with native proficiency and the other with accented proficiency.
+
+Choose one other language of your choice. You speak, read and write this language with accented proficiency.
 
 Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.

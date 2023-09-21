@@ -33,8 +33,6 @@ You’re acclimated to high and low altitudes, including elevations above 20,000
 ## Languages
 You speak, read and write either Dwarvish or Gnomish with native proficiency and the other with accented proficiency.
 
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.
-
 Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
 The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.

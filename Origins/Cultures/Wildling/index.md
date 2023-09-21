@@ -28,5 +28,3 @@ When you score a critical hit with a melee weapon attack, you can roll one of th
 
 ## Languages
 You speak, read and write either Giant or Orc with native proficiency and the other with accented proficiency.
-
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.

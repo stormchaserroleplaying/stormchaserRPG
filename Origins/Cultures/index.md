@@ -10,6 +10,8 @@ The first step in the origin creation process is choosing your character’s cul
 
 For each species, there are a handful of suggested cultural options. When building your character, you can choose only one culture to gain traits from. Each culture listed here includes a description of what sort of life a character from that culture would experience. This description can range from the morals and traditions instilled in them to how they found themselves a part of that culture to begin with. The following sections appear in the description for most cultures.
 
+See [here](https://stormchaserroleplaying.com/Arden/Regions/) for cultures from the world of [Arden](https://stormchaserroleplaying.com/Arden/).
+
 ## Alignment
 A creature’s general moral and personal attitudes are represented by its alignment. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
 

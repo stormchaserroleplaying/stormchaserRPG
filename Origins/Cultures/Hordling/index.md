@@ -20,5 +20,3 @@ You have +1d on an attack roll against a creature if at least one of your allies
 
 ## Languages
 You speak, read and write either Goblin or Orc with native proficiency and the other with accented proficiency.
-
-Choose one other language of your choice. You speak, read and write this language with accented proficiency.

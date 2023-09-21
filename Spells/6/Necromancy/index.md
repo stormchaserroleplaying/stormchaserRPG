@@ -41,4 +41,4 @@ While you have a soul inside the cage and you are holding the cage, you can expl
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-Roll 1d20 when you cast this spell, and stare at the creature whom you are cursing. On that day, the creature must succeed at a Wisdom defence check vs your necromancy spell skill. On a failure, if it has less than 20 stamina it will die.
+Stare at the creature whom you are cursing and roll 1d8. In a number hours equal to the roll, the creature must succeed at a Wisdom defence check vs your necromancy spell skill. On a failure, if it has less than 20 stamina it will die.

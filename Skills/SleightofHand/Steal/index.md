@@ -12,5 +12,5 @@ Attempt a sleight of hand check to determine if you successfully Steal the objec
 
 You might also need to compare your sleight of hand check result against the Perception of observers other than the person wearing the object. The GM may decrease the action DC of these observers if they’re distracted.
 
-Success: You steal the item without the bearer noticing, or an observer doesn’t see you take or attempt to take the item. 
-Failure: The item’s bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft.
+- Success: You steal the item without the bearer noticing, or an observer doesn’t see you take or attempt to take the item. 
+- Failure: The item’s bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft.

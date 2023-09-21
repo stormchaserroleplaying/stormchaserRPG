@@ -22,7 +22,7 @@ Shadowlanders have a strong sense of racial superiority and divide outsiders int
 You are trained with any weapon with the word “elven” in its name or properties.
 
 ### Shadow Magic
-You know the [Dancing Lights](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#dancing-lights) cantrip and can cast the [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) spell once per short rest.
+You know the [Dancing Lights](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#dancing-lights) cantrip and can cast the [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) spell once per short rest. Charisma is your spellcasting ability for these spells.
 
 ## Languages
 You can speak, read and write Elvish and one other language.

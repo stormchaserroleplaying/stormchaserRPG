@@ -18,13 +18,11 @@ Shadowlanders have a strong sense of racial superiority and divide outsiders int
 
 ## Features
 
+### Exotic Weapon Training
+You are trained with any weapon with the word “elven” in its name or properties.
+
 ### Shadow Magic
-You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
-
-### Weapon Training
-You are proficient with simple blades and crossbows. Additionally, you treat any weapon with the word “elven” in its name or properties as a martial weapon.
-
-If your class grants proficiency with simple blades, you gain proficiency with martial blades. If your class grants proficiency with martial blades or simple crossbows, you gain 2 character points. If your class grants proficiency with both martial blades and crossbows, you gain 4 character points.
+You know the [Dancing Lights](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#dancing-lights) cantrip and can cast the [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) spell once per short rest.
 
 ## Languages
 You can speak, read and write Elvish and one other language.

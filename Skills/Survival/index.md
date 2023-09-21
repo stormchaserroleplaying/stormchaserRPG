@@ -9,70 +9,14 @@ Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game,
 ## Untrained Actions
 The following actions are ones which can be performed by anyone, regardless of skill. The exact level of success will be greater when done by someone of higher skill, but anyone can be reasonably expected to perform these tasks.
 
-### Sense Direction
-Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you’re unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a clear view of major landmarks or the sky, you take –1d to checks to Sense Direction. This penalty can be negated if you have an item, such as a compass, specifically meant to determine direction.
-
-Critical Success You get an excellent sense of where you are. If you are in an environment with cardinal directions, you know them exactly.
-Success You gain enough orientation to avoid becoming hopelessly lost. If you are in an environment with cardinal directions, you have a sense of those directions.
+- [Sense Direction]()
 
 ## Trained Actions
 The following tasks are those that require a measure of skill to perform. While an untrained person can attempt the action, the chances of success are not readily in their favor.
 
-### Cover Tracks
-You cover your tracks, moving up to half your travel speed. You don’t need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Follow Track.
-
-In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action.
-
-### Follow Tracks
-To find tracks or to follow them for 1 mile requires a successful Survival check. You must make another Survival check every time the tracks become difficult to follow. If you are not proficient in this skill, you can make Wisdom checks to find tracks, but you can follow them only if the DC for the task is 10 or lower. Alternatively, you can use the Perception skill to find a footprint or similar sign of a creature’s passage using the same DCs, but you can’t use Perception to follow tracks, even if someone else has already found them.
-
-You move at half your normal speed while following tracks (or at your normal speed with disadvantage on the check). The DC depends on the surface and the prevailing conditions.
-
-For finding tracks, you can retry a failed check after 1 hour (outdoors) or 10 minutes (indoors) of searching.
-
-| Condition | DC |
-|:---------:|:--:|
-| Very soft ground | 5 |
-| Soft ground | 10 |
-| Firm ground | 15 |
-| Hard ground | 20 |
-| Every three creatures in the group being tracked | –1 |
-| Fine creature | +8 |
-| Diminutive creature | +4 |
-| Tiny creature | +2 |
-| Small creature | +1 |
-| Medium creature | +0 |
-| Large creature | –1 |
-| Huge creature | –2 |
-| Gargantuan creature | –4 |
-| Colossal creature | –8 |
-| Every 24 hours since the trail was made | +1 |
-| Every hour of rain since the trail was made | +1 |
-| Fresh snow since the trail was made | +10 |
-| Overcast or moonless night | +6 |
-| Moonlight | +3 |
-| Fog or precipitation | +3 |
-| Tracked party hides trail (and moves at half speed) | +5 |
-
-For a group of mixed sizes, apply only the modifier for the largest size category.
-
-For visibility, apply only the largest modifier of this type.
-
-## Survive in the Wilderness
-You can keep yourself and others safe and fed in the wild.
-
-| Survival DC | Task |
-|:-----------:|:----:|
-| 10 | Get along in the wild. Move up to half your overland speed while hunting and foraging (no food or water supplies needed). You can provide food and water for one other person for every 2 points by which your check result exceeds 10. |
-| 15 | Severe weather attacks have disadvantage to attack your Constitution defence while moving up to half your overland speed. You may grant the same bonus to one other character for every 1 point by which your Survival check result exceeds 15. |
-| 15 | Keep from getting lost or avoid natural hazards, such as quicksand. |
-| 15 | Predict the weather up to 24 hours in advance. For every 5 points by which your Survival check result exceeds 15, you can predict the weather for one additional day in advance. |
-
-> ### Surface Types
-> * **Very Soft Ground:** Any surface (fresh snow, thick dust, wet mud) that holds deep, clear impressions of footprints.
-> * **Soft Ground:** Any surface soft enough to yield to pressure, but firmer than wet mud or fresh snow, in which a creature leaves frequent but shallow footprints.
-> * **Firm Ground:** Most normal outdoor surfaces (such as lawns, fields, woods, and the like) or exceptionally soft or dirty indoor surfaces (thick rugs and very dirty or dusty floors). The creature might leave some traces (broken branches or tufts of hair), but it leaves only occasional or partial footprints.
-> * **Hard Ground:** Any surface that doesn’t hold footprints at all, such as bare rock or an indoor floor. Most streambeds fall into this category, since any footprints left behind are obscured or washed away. The creature leaves only traces (scuff marks or displaced pebbles).
+- [Cover Tracks
+- Follow Tracks
+- Survive in the Wilderness
 
 ## Subskills
 

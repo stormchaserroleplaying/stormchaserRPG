@@ -8,12 +8,12 @@ grand_parent: Spells
 
 ## Evil Eye
 *5th level Divination*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Special<br>
 **Components:** V, S<br>
 **Duration:** Special
 
-When you cast this spell, one of your eyes goes blind. A creature that you look upon when you cast this spell is cursed by the evil eye. You can see what it sees through one of its eyes, but only see, not hear, feel, or hear thoughts. At the end of every day, the creature must roll 1d20. On a 1, the die size reduces. When the die size reduces below a 1d4, the creature dies, and sight is returned to your blind eye.
+When you cast this spell, one of your eyes goes blind. A creature that you look upon when you cast this spell is cursed by the evil eye. You can see what it sees through one of its eyes, but only see, not hear, feel, or hear thoughts. At the end of every day, the creature must roll 1d20. On a 1, the die size reduces by one step, e.g. from 1d20 to 1d12. When the die size is reduced to a 1d4 and the creatures rolls 1, the creature dies. Sight is returned to your blind eye when the creature dies.
 
 ## Legend Lore
 *5th level Divination (Ritual)*<br>

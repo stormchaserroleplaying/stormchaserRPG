@@ -10,4 +10,6 @@ This action allows you to disarm a trap or another complex device. Sometimes, a 
 
 Your sleight of hand check result determines how much progress you make.
 
-Critical Success You disable the device, or you achieve two successes toward disabling a complex device. You leave no trace of your tampering, and you can rearm the device later, if that type of device can be rearmed. Success You disable the device, or you achieve one success toward disabling a complex device. Critical Failure You trigger the device.
+- Critical Success You disable the device, or you achieve two successes toward disabling a complex device. You leave no trace of your tampering, and you can rearm the device later, if that type of device can be rearmed.
+- Success You disable the device, or you achieve one success toward disabling a complex device.
+- Critical Failure You trigger the device.

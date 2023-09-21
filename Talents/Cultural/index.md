@@ -24,9 +24,9 @@ You benefit from +1d on [Perception](https://stormchaserroleplaying.com/stormcha
 
 If you aren't using the [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) action or searching, the GM automatically rolls a secret check for you to notice unusual stonework anyway. This check doesn't benefit from the bonus.
 
-## Greater Shadowland Magic
+## Greater Shadow Magic
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Shadowland Culture
-You can cast the [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) and [Darkness]() spells once each with this talent and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You can cast the [Darkness]() spell once per short rest. Charisma is your spellcasting ability for these spells.

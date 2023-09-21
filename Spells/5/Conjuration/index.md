@@ -8,7 +8,7 @@ grand_parent: Spells
 
 ## Rule
 *5th level Conjuration*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V<br>
 **Duration:** Instantaneous

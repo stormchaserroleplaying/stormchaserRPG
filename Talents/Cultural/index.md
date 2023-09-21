@@ -4,7 +4,7 @@ parent: Talents
 has_children: true
 ---
 
-# Cultural Talentsᴮᴳ
+# Cultural Talents
 
 ## Defensive Training
 
@@ -23,3 +23,10 @@ You have +1d to your defences vs attacks made by giants.
 You benefit from +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Perception/) checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or hidden within stone.
 
 If you aren't using the [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) action or searching, the GM automatically rolls a secret check for you to notice unusual stonework anyway. This check doesn't benefit from the bonus.
+
+## Greater Shadowland Magic
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Shadowland Culture
+You can cast the [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) and [Darkness]() spells once each with this talent and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.

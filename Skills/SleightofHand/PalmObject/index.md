@@ -8,7 +8,7 @@ grand_parent: Skills
 
 <div style="margin-top:-10px;"></div>
 
-#### *Manipulate*<br>**Actions:** 1<br>**Proficiency:** Untrained
+#### *Manipulate*<br>**Actions:** 1<br>**Required Proficiency:** Untrained
 Palming a small, unattended object without being noticed requires you to roll a single Sleight of Hand check against the [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) skill of all creatures who are currently observing you. You take the object whether or not you successfully conceal that you did so. You can typically only Palm an Object weighing 1 pount or less, though the GM might determine otherwise depending on the situation.
 
 **Success:** The creature does not notice you Palming the Object.

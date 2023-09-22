@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *You prepare a body making it dificult to return to the living.*
 
-You touch the body of a deceased creature, anointing it with the ceremonial oils and salts. If, within the next 10 days, a spell is cast upon it to return it to life, the reviving caster must first succeed on a restoration spell check vs your warding spell skill for the creature to return to life. 
+You touch the body of a deceased creature, anointing it with the ceremonial oils and salts. If, within the next 10 days, a spell is cast upon it to return it to life, the reviving caster must first succeed on a restoration check vs your warding skill for the creature to return to life. 
 
 ## Pass Without Trace
 *2nd level Ward*<br>

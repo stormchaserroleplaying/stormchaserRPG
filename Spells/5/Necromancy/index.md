@@ -34,13 +34,15 @@ Raise Dead can be cast as a ritual.
 **Components:** V, S, M (The skull of a fighter.)*<br>
 **Duration:** Sustained, up to 1 minute
 
-You may only cast this spell while having the skull of a fighting-man in your inventory. You gain their Strength score and martial weapon proficiencies, as well as the ability to use all armour and shields for the duration. 
+You may only cast this spell while having the skull of a fighting-man in your inventory. You gain their Strength score and weapon proficiencies, as well as the ability to use all armour and shields for the duration. 
 
 ## Walk Again, Those Countless Dead
 *5th level Necromancy (Ritual)*<br>
 **Casting Time:** 1 Minute<br>
 **Range:** Touch<br>
-**Components:** V, S, M *(Flesh from the face of a deac man.)*<br>
+**Components:** V, S, M *(Flesh from the face of a dead man.)*<br>
 **Duration:** Instantaneous
 
-You call forth the dead to serve you. Roll your recovery die to determine the number of undead that you can raise. Note that the skeletons or dead bodies must be available in order to animate them. The spell lasts until dispelled or the animated dead are done away with.
+You call forth the dead to serve you. Roll 1d6 to determine the number of undead that you can raise. Note that the skeletons or dead bodies must be available in order to animate them. The spell lasts until dispelled or the animated dead are done away with.
+
+**At Higher Levels:** When you cast this spell using 6 or more mana, the number of undead that you can raise increases by 1d6 for every point of mana beyond the fifth.

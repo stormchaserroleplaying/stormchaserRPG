@@ -39,4 +39,4 @@ You can send the message across any distance and even to other planes of existen
 
 You scatter minerals strange and esoteric as a part of this spell's casting. A 30-foot cube magical zone is created originating from you. All metal objects not held or worn are thrown out of it with haste, as are objects made of stone or bone. 
 
-Make an evocation spell atack vs the Strength defence of any creature within the area holding or wearing any such object. On a hit, any such held object is pulled out of their hands, landing in a space of your choice immediately outside of the area. Additionally, any creature wearing any such object is pushed 10 feet in a direction of your choice. On a miss, this spell has no effect on a creature.
+Make an evocation atack vs the Strength defence of any creature within the area holding or wearing any such object. On a hit, any such held object is pulled out of their hands, landing in a space of your choice immediately outside of the area. Additionally, any creature wearing any such object is pushed 10 feet in a direction of your choice. On a miss, this spell has no effect on a creature.

@@ -5,7 +5,10 @@ grand_parent: Skills
 ---
 
 # Survive in the Wilderness
-## Proficiency: Trained
+
+<div style="margin-top:-10px;"></div>
+
+#### **Required Proficiency:** Trained
 You can keep yourself and others safe and fed in the wild.
 
 | Survival DC | Task |

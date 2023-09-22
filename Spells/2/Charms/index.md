@@ -15,7 +15,7 @@ grand_parent: Spells
 
 Take a stone stele and affix it into a point of your choosing when you cast this spell. The stele weighs 86 lbs, has 45 integrity and DR 8. The spell ends when the stele is reduced to 0 integrity, or until dispelled. 
 
-Any creature that attacks you within 20 feet of the stele must first make a Charisma defence check vs your Charms spell skill. On a success, the spell has no effect on the creature. On a failure, the creature is drawn to destroy the stele instead. An affected creature must use its actions to moves towards the stele and damage it. 
+Any creature that attacks you within 20 feet of the stele must first make a Charisma defence check vs your charms skill. On a success, the spell has no effect on the creature. On a failure, the creature is drawn to destroy the stele instead. An affected creature must use its actions to moves towards the stele and damage it. 
 
 At the end of each of its turns, a creature affected by this spell can make another Charisma defence check. 
 

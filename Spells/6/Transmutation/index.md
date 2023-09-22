@@ -40,7 +40,7 @@ Further, if you make only half as much *ironwood* as the spell would normally al
 You utter a word of power. This utterance forces the world to serve you. 
 
 You can use this spell to perform one of the following effects:
-* Part water up to 10 feet deep.
+* Part water up to 100 feet deep.
 * Lower the water level of a body of water by 50%.
 * You can create weather of any kind.
 * Raise up great walls 100 feet tall and 500 feet wide. 

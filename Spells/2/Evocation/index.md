@@ -28,7 +28,7 @@ This spell blesses or curses an area in a 20-foot radius sphere centered on a po
 
 **Consecrate.** Undead cannot be created within or summoned into the area. If the consecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or aligned higher power, undead creatures within the area suffer -1d on attack rolls and other creatures gain +1d on attack rolls to hit them.
 
-**Desecrate.** Undead creatures created within or summoned into the area gain stamina equal to your spellcasting ability modifier. If the desecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity or aligned higher power, undead creatures within the area gain +1d on attack rolls and other creatures suffer -1d to hit them.
+**Desecrate.** Undead creatures created within or summoned into the area gain stamina equal to your spellcasting attribute modifier. If the desecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity or aligned higher power, undead creatures within the area gain +1d on attack rolls and other creatures suffer -1d to hit them.
 
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
@@ -81,7 +81,7 @@ On each of your turns before the spell ends, you can use 1 action to change the 
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
-When the spell is first cast and at the end of each of your turns for the spell's duration, any creature within the spell's area is engulfed in ghostly flames that cause searing pain. Make a evocation spell attack vs the Constitution defence for each creature inside the area. On a hit, it takes 2d10 sacred damage, or half as much damage on a miss. Additionally, any creature that enters the spell's area for the first time on a turn must also make a Constitution defence check vs your evocation spell skill. It takes 2d10 sacred damage on a failed check, or half as much damage on a successful one.
+When the spell is first cast and at the end of each of your turns for the spell's duration, any creature within the spell's area is engulfed in ghostly flames that cause searing pain. Make a evocation attack vs the Constitution defence of each creature inside the area. On a hit, it takes 2d10 sacred damage, or half as much damage on a miss. Additionally, any creature that enters the spell's area for the first time on a turn must also make a Constitution defence check vs your evocation spell skill. It takes 2d10 sacred damage on a failed check, or half as much damage on a successful one.
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 

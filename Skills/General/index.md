@@ -1,23 +1,19 @@
 ---
-title: General Skill Actions
+title: General Actions
 parent: Skills
 ---
 
-# General Actions
-While your character’s ability scores represent their raw talent and potential, skills represent their training and experience at performing certain tasks. Each skill is keyed to one of your character’s ability scores and used for an array of related actions. Your character’s expertise in a skill comes from several sources, including their background and class.
+# General Skill Actions
+General skill actions are skill actions that can be used with multiple different skills. When you use a general skill action, you might use any skill that lists it as one of the skill’s actions, depending on the situation.
 
-The following section details actions that can be taken which are applicable to multiple skills. When you use one of these actions, a skill is chosen based on the current situation, and any bonus or penalty you have for that skill applies to the roll for success. 
-
-## Talents
-
-| Action | Applicable Skills |
-|:------:|:-------------:|
-| Decipher Writing | Arcana, Theology, Insight |
-| Earn Income | History, Performance |
-| Identify Magic | Arcana, Nature, Theology |
-| Learn a Spell | Arcana, Nature, Theology |
-| Recall Knowledge | Arcana, History, Medicine, Nature, Theology, Investigation |
-| Subsist | Persuasion, Survival |
+| Action | Requires Trained Proficiency | Applicable Skills |
+|:------:|:----------------------------:|:-----------------:|
+| Decipher Writing | Yes | Arcana, Theology, Insight |
+| Earn Income | Yes | History, Performance |
+| Identify Magic | Yes | Arcana, Nature, Theology |
+| Learn a Spell | Yes | Arcana, Nature, Theology |
+| Recall Knowledge | No | Arcana, History, Investigation, Medicine, Nature, Theology |
+| Subsist | No | Persuasion, Survival |
 
 ### Decipher Writing
 

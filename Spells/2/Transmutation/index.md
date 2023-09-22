@@ -22,7 +22,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 **Components:** V, S<br>
 **Duration:** 3 Days
 
-Make a transmutation spell attack vs a creature's Wisdom defence. On a hit, the creature becomes cursed for the duration of the spell. The victim of this spell grows hideously disfigured. The physical appearance of the deformity is subject to the caster’s whim (most demon worshipers choose deformities that reflect their Abyssal patron’s shape or form).
+Make a transmutation attack vs a creature's Wisdom defence. On a hit, the creature becomes cursed for the duration of the spell. The victim of this spell grows hideously disfigured. The physical appearance of the deformity is subject to the caster’s whim (most demon worshipers choose deformities that reflect their Abyssal patron’s shape or form).
 
 **At Higher Levels.** When you cast this spell using a 3 or more mana, the spell's duration increases by 2 days for each additional mana.
 
@@ -42,7 +42,7 @@ Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any 
 **Components:** V, S, M *(A pinch of powdered iron.)*<br>
 **Duration:** 1 Minute (Concentration)
 
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, make a transmutation spell attack vs the Constitution defence of the target. On a miss, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, make a transmutation attack vs the Constitution defence of the target. On a miss, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
 **Enlarge.** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has +1d on Strength checks, indirect attacks vs its Strength defence suffer -1d, and its walking speed increases by 5 feet. The target's weapons also grow to match its new size and deal 1d4 extra damage.
 
@@ -53,7 +53,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M (A sheet of paper.)<br>
-**Duration:** Sustained, up to 10 mintues
+**Duration:** Sustained, up to 10 minutes
 
 You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
 

@@ -13,9 +13,9 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Round
 
-Lift your hands and sing to all the seas you cannot sea. A 30 foot radius of space around you is filled with churning, crashing waves of white-crested green water. Creatures in the water begin [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/) and thus cannot speak or cast spells with verbal components, unless under an effect that allows them to breah in water.
+Lift your hands and sing to all the seas you cannot sea. A 30 foot radius of space around you is filled with churning, crashing waves of white-crested green water. Creatures in the water begin [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/) and thus cannot speak or cast spells with verbal components, unless under an effect that allows them to breath in water.
 
-Make an evocation spell attack roll vs the Strength defence of each creature in the area of the spell. On a hit, they take 3d8 bludgeoning damage and are picked up and deposited prone at a location of the spellcaster's choice within the area of the spell. On a miss, the creature takes half as much damage and remains unmoved. After 1 round, the waves dissipate, returning to their distant homes.
+Make an evocation attack roll vs the Strength defence of each creature in the area of the spell. On a hit, they take 3d8 bludgeoning damage and are picked up and deposited prone at a location of the spellcaster's choice within the area of the spell. On a miss, the creature takes half as much damage and remains unmoved. After 1 round, the waves dissipate, returning to their distant homes.
 
 **At Higher Levels.** When you cast this spell using 4 or more mana, the damage increases by 1d8 for each additional mana.
 

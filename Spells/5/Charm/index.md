@@ -13,4 +13,4 @@ grand_parent: Spells
 **Components:** V<br>
 **Duration:** Instantaneous
 
-This is one of the words of power. Utter it, and one creature whose hand you hold will be able to cast any 1 spell you can currently cast of their choice. Once cast, they will be compelled by fate to do you a single favor.
+This is one of the words of power. Utter it, and one creature whose hand you hold will be able to cast any 1 spell that you can currently cast of their choice. Once cast, they will be compelled by fate to do you a single favour.

@@ -69,17 +69,17 @@ When this spell is cast, you gain resistance to physical damage for the duration
 
 When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
-**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a spellcasting ability check vs DC 20. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
+**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a DC 20 Warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
 
 **Bless Water.** You touch one vial of water and cause it to become holy water.
 
-**Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.
+**Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, the target makes skill checks with +1d. A creature can benefit from this rite only once.
 
 **Dedication.** You touch one humanoid who wishes to be dedicated to your god’s service. For the next 24 hours, whenever the target makes a defence check, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.
 
-**Funeral Rite.** You touch one corpse, and for the next 7 days, the target can’t become undead by any means short of a wish spell.
+**Funeral Rite.** You touch one corpse and, for the next 7 days, the target can’t become undead by any means short of a [Wish]() spell.
 
-**Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to Strength and Dexterity defence vs melee and ranged attacks while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.
+**Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains +1d vs melee and ranged attacks, while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.
 
 ## Mage Armour
 *1st Level Warding (Ritual)*<br>

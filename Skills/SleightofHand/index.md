@@ -7,17 +7,13 @@ parent: Skills
 Sleight of hand is a **Dexterity**-based skill for whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person. The GM might also call for a sleight of hand check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
 
 ## Untrained Actions
-The following actions are ones which can be performed by anyone, regardless of skill. The exact level of success will be greater when done by someone of higher skill, but anyone can be reasonably expected to perform these tasks.
-
-- [Palm an Object]()
-- [Steal]()
-- [Tying Knots]()
+* [Palm an Object]()
+* [Steal]()
+* [Tie a Knot]()
 
 ## Trained Actions
-The following tasks are those that require a measure of skill to perform. While an untrained person can attempt the action, the chances of success are not readily in their favor. 
-
-- [Disable a Device]()
-- [Pick a Lock]()
+* [Disable a Device]()
+* [Pick a Lock]()
 
 ## Subskills
 

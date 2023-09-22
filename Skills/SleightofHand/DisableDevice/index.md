@@ -1,5 +1,5 @@
 ---
-title: Disable Device
+title: Disable a Device
 parent: Sleight of Hand
 grand_parent: Skills
 ---

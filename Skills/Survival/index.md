@@ -7,16 +7,12 @@ parent: Skills
 Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
 
 ## Untrained Actions
-The following actions are ones which can be performed by anyone, regardless of skill. The exact level of success will be greater when done by someone of higher skill, but anyone can be reasonably expected to perform these tasks.
-
-- [Sense Direction]()
+* [Sense Direction]()
 
 ## Trained Actions
-The following tasks are those that require a measure of skill to perform. While an untrained person can attempt the action, the chances of success are not readily in their favor.
-
-- [Cover Tracks
-- Follow Tracks
-- Survive in the Wilderness
+* [Cover Tracks]()
+* [Follow Tracks]()
+* [Survive in the Wilderness]()
 
 ## Subskills
 

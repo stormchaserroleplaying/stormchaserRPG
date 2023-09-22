@@ -13,4 +13,4 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Sustained, up to 10 minutes
 
-Work a short ceremony that loosens your soul from your body. While your soul is loosened, it can slip out of your body and move up to 10 feet away, sliding through walls or doors. You see and hear whatever is within the same area or space as your soul.
+You work a short ceremony that loosens your soul from your body. While your soul is loosened, it can slip out of your body and move up to 20 feet away, sliding through walls or doors. You see and hear whatever is within the same area or space as your soul.

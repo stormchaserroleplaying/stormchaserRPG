@@ -8,7 +8,7 @@ grand_parent: Spells
 
 ## Lesser Restoration
 *2nd level Restoration*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous

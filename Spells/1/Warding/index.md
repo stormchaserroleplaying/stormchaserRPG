@@ -58,6 +58,29 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 
 When this spell is cast, you gain resistance to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, wbhich you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
 
+## Ceremony
+*1st Level Warding (Ritual)*<br>
+**Casting Time:** 1 Hour<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(Powdered silver worth 25 gp, which is consumed.)*<br>
+**Duration:** Instantaneous
+
+*You perform a special religious ceremony that is infused with magic.*
+
+When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
+
+**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a DC 20 warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
+
+**Bless Water.** You touch one vial of water and cause it to become holy water.
+
+**Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, the target makes skill checks with +1d. A creature can benefit from this rite only once.
+
+**Dedication.** You touch one humanoid who wishes to be dedicated to your god’s service. For the next 24 hours, whenever the target makes a defence check, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.
+
+**Funeral Rite.** You touch one corpse and, for the next 7 days, the target can’t become undead by any means short of a [Wish]() spell.
+
+**Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains +1d vs melee and ranged attacks, while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.
+
 ## Mage Armour
 *1st Level Warding (Ritual)*<br>
 **Casting Time:** 2 Actions<br>

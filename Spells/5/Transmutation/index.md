@@ -23,7 +23,7 @@ Reincarnate can be cast as a ritual.
 **Casting Time:** 1 Minute<br>
 **Range:** Self (5-mile radius)<br>
 **Components:** V, S, M (A small boat made of china.)<br>
-**Duration:** Concentration, up to 30 days
+**Duration:** Sustained, up to 30 days
 
 You sing like a bird released, allowing you to take the weather with you everywhere you go. When you cast this spell, the current weather conditions (which are determined by the GM based on the climate and season) are fixed in a 5-mile radius around you. These conditions remain constant for the duration of the spell, and stay with you when you move. The weather conditions in the spell's area cannot be changed by any means short of a control weather spell.
 

@@ -6,27 +6,11 @@ has_children: true
 
 # Warlock Talent Tree
 
-## Spell School Proficiencies
-If your first talent is a warlock talent, then you are trained in the following spell schools: Conjuration, Charms and three additional schools of your choice.
-
-## Spellcasting
-When you take your first warlock talent, your spellcasting class feature for the mage class is affected in the following ways.
-
-### Spellcasting Ability
-Choose Charisma, Intelligence or Wisdom as your spellcasting ability for your arcane spells. You use use your chosen ability whenever an arcane spell refers to your spellcasting ability. You also use the modifier of your chosen ability when making an attack roll with an arcane spell.
-
-### Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the [arcane spell list]().
-
-Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional arcane spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new arcane spells of 1st or 2nd level.
-
-Additionally, whenever you gain a warlock talent, you can choose one of the arcane spells that you know and replace it with another spell from the arcane spell list, which must also be of a level that you can cast.
-
 ## Core Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Eldritch Invocations | 5   | 1 Warlock Talent |
+| Eldritch Invocations | 5   | Arcane Spellcasting (Occultism) |
 | Pact Boon            | 5   | Eldritch Invocations |
 | Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 

@@ -2,7 +2,7 @@
 title: Other
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 2
+nav_order: 3
 ---
 
 # Other Magic Talents
@@ -43,6 +43,13 @@ When you cast a spell, you can cast it without any somatic or verbal components.
 When you cast a spell that targets only one creature and doesn't have a range of self, you can target a second creature in range with the same spell.
 
 To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren't eligible, but ray of frost and chromatic orb are.
+
+## Overcasting Master
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells (Arcane or Divine)
+Your maximum mana increases to 42 and you can cast 7th level spells repeatedly without taking decay damage for overcasting.
 
 ## War Caster
 

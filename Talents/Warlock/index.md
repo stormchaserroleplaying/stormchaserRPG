@@ -11,7 +11,7 @@ has_children: true
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Eldritch Invocations | 5   | 1 Warlock Branch Talent |
-| Pact Boon            | 5   | Eldritch Invocations |
+| Pact Boon            | 15  | 2nd Level Spells and Eldritch Invocations |
 | Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 
 ### Eldritch Invocations
@@ -29,7 +29,7 @@ Additionally, when you gain a new talent in this class or a spellcasting talent,
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Eldritch Invocations
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and Eldritch Invocations
 *Your otherworldly patron bestows a gift upon you for your loyal service.*
 
 You gain one of the following features of your choice.
@@ -60,7 +60,7 @@ If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Warlock Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 125 Points of Warlock Talents
 You have grown beyond mortal limits. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Warlock Talent Tree Branches

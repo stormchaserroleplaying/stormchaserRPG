@@ -12,11 +12,11 @@ Scions of innately magical bloodlines, the chosen of deities, the spawn of monst
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Arcane Savant I       | 5  | 1 Sorcerer Branch Talent |
-| Magical Guidance      | 5  | 2nd Level Spells and 2 Other Sorcerer Talents |
-| Arcane Savant II      | 25 | 5th Level Spells and 3 Other Sorcerer Talents |
-| Arcane Savant III     | 65 | 8th Level Spells and 5 Other Sorcerer Talents |
-| Sorcerous Restoration | 50 | 10th Level Spells and 6 Other Sorcerer Talents |
-| Apotheosis            | 50 | 10th Level Spells and 6 Other Sorcerer Talents |
+| Magical Guidance      | 15 | 2nd Level Spells and 10 Points of Sorcerer Talents |
+| Arcane Savant II      | 30 | 5th Level Spells and 45 Points of Sorcerer Talents |
+| Arcane Savant III     | 65 | 8th Level Spells and 125 Points of Sorcerer Talents |
+| Sorcerous Restoration | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
+| Apotheosis            | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
 
 ### Arcane Savant
  

@@ -29,4 +29,4 @@ If you aren't using the [Seek](https://stormchaserroleplaying.com/stormchaserRPG
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Shadowland Culture
-You can cast the [Darkness]() spell once per short rest. Charisma is your spellcasting ability for these spells.
+You know the [Darkness]() spell. Charisma is your spellcasting attribute for this spell.

@@ -10,7 +10,7 @@ has_children: true
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Eldritch Invocations | 5   | Arcane Spellcasting (Occultism) |
+| Eldritch Invocations | 5   | 1 Warlock Branch Talent |
 | Pact Boon            | 5   | Eldritch Invocations |
 | Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 

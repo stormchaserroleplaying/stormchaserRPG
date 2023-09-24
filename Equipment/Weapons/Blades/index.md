@@ -10,7 +10,9 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
+| Stiletto | 5 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ½ lb. | 5 | Brutal 1, close, concealed, finesse, light |
 | Swordbreaker | 12 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 5 | Close, disarm, finesse, light, parry |
+| Smallsword | 10 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 7 | Finesse, light, parry |
 | Scimitar | 15 gp| 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, light, mounted, parry |
 | Shortsword | 10 gp | 2d3 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, light, parry |
 | Falchion | 15 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Critical, parry |
@@ -18,6 +20,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 | Rapier | 20 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 9 | Critical, finesse, parry |
 | Sidesword | 15 gp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Finesse, parry |
 | Broadsword | 20 gp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 11 | Finesse, opportunistic, parry |
+| Arming Sword | 10 gp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Parry |
 | Estoc | 50 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 3 lb. | 11 | Critical, finesse, parry, sunder 1, versatile |
 | Katana | 50 gp | 1d8 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 11 | Critical, finesse, parry, versatile |
 | Bastard Sword | 15 gp | 2d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 3 lb. | 11 | Parry, versatile |

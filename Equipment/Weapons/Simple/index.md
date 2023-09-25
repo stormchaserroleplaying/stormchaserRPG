@@ -18,7 +18,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 | Club | 1 sp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 3 lb. | 7 | Non-lethal |
 | Crook | 1 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 7 | Finesse, non-lethal, reach, trip, two-handed |
 | Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, finesse, light, thrown 10 |
-| Garotte | 3 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Finesse, light, suffocating, two-handed |
+| Garotte | 3 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Finesse, light, suffocating, two-handed |
 | Greatclub | 2 sp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 8 lb. | 11 | Non-lethal, two-handed, unwieldy |
 | Hatchet | 4 sp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown 10 |
 | Javelin | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 7 | Sharp 1, thrown 30 |
@@ -33,13 +33,13 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 | Sickle | 1 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, hooked, light |
 | Spear | 1 gp | 2d3 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 3 lb. | 9 | Brace, brutal 1, finesse, mounted, sharp 1, thrown 20, versatile |
 | Splitting Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Versatile |
-| Blowgun | 10 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 25/100 | Ammunition, load, non-lethal |
 
 ## Ranged
 
 | Name | Cost | Damage | Weight | Range | Properties | 
 |:-----|-----:|:-------|-------:|:-----:|:-----------|
-| Dart | 5 cp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ¼ lb. | 20/60 | Light, non-lethal, thrown |
-| Sling | 1 sp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | — | 30/120 | Non-lethal, pellets |
-| Pellet Bow | 15 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 40/160 | Non-lethal, pellets, two-handed |
-| Hunting Bow | 25 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb.| 80/320 | Ammunition, two-handed |
+| Blowgun | 10 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 25 | Ammunition, load, non-lethal |
+| Dart | 5 cp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ¼ lb. | 20 | Light, non-lethal, thrown |
+| Hunting Bow | 25 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb.| 80 | Ammunition, two-handed |
+| Pellet Bow | 15 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 40 | Non-lethal, pellets, two-handed |
+| Sling | 1 sp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | — | 30 | Non-lethal, pellets |

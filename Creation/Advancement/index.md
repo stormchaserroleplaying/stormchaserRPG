@@ -9,27 +9,28 @@ As your character goes on adventures and overcomes challenges, they gain experie
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Defence Mastery | 35 |
-| Spell School Mastery | 35 |
-| Weapon Mastery | 25 |
-| Skill Mastery | 25 |
-| Defence Expertise | 15 |
-| Spell School Expertise | 15 |
-| Tool Mastery | 15 |
-| Language (Native) | 15 |
-| Weapon Expertise | 10 |
-| Skill Expertise | 10 |
-| Learn an additional spell | From 5 |
+| Armor Proficiency | 5 |
 | Defence Training | 5 |
-| Spell School Training | 5 | 
-| Tool Expertise | 5 |
+| Defence Expertise | 15 |
+| Defence Mastery | 35 |
+| Increase an Attribute by 1 | See Below |
+| Language (Broken) | 1 |
 | Language (Accented) | 5 |
-| Weapon Training | 2 |
+| Language (Native) | 15 |
+| Learn an additional spell | See Below |
 | Skill Training | 2 |
-| Increase an Attribute by 1 | From 1 |
+| Skill Expertise | 10 |
+| Skill Mastery | 25 |
+| Spell School Training | 5 | 
+| Spell School Expertise | 15 |
+| Spell School Mastery | 35 |
 | Subskill | 1 |
 | Tool Training | 1 |
-| Language (Broken) | 1 |
+| Tool Expertise | 5 |
+| Tool Mastery | 15 |
+| Weapon Training | 2 |
+| Weapon Expertise | 10 |
+| Weapon Mastery | 25 |
 
 * Talents costs are listed in the entry for that specific talent.
 * You cannot purchase mastery in a skill, tool, or weapon group, unless you are already an expert with that skill, tool, or weapon group. Thus the total cost to go from untrained to master is 37 points for a skill, or weapon group and 16 points for a tool.

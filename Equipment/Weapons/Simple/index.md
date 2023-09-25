@@ -10,17 +10,14 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, finesse, light, thrown (20/60) |
-| Hatchet | 4 sp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown (10) |
-| Sickle | 1 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 7 | Finesse, hooked, light |
-| Splitting Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Versatile |
-| Light Hammer | 2 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | 5 | Finesse, light, thrown (20/60) |
-| Light Mace | 5 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 7 | Finesse, light |
 | Club | 1 sp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 3 lb. | 7 | Non-lethal |
-| Heavy Mace | 12 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 4 lb. | 9 | — |
-| Greatclub | 2 sp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 8 lb. | 11 | Non-lethal, two-handed, unwieldy |
-| Lasso | 1 sp | — | 5 lb. | 9 | Break, finesse, restraining (body/legs), tangle, thrown (20/60) |
-| Whip | 1 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Disarm, finesse, non-lethal, reach, restraining (hand), tangle, trip |
+| Dagger | 2 gp | 2d2 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | ½ lb. | 5 | Close, concealed, finesse, light, thrown 10 |
+| Greatclub | 2 sp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 8 lb. | 11 | Non-lethal, two-handed, unwieldy |
+| Hatchet | 4 sp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, light, thrown 10 |
+| Light Hammer | 2 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 1 lb. | 5 | Finesse, light, thrown 20 |
+| Machete | gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | - |
+| Sickle | 1 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, hooked, light |
+| Splitting Axe | 5 sp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 2 lb. | 9 | Versatile |
 | Scourge | 1 gp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 7 | Finesse, non-lethal, tangle |
 | Garotte | 3 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/sword-filled.png"> | 1 lb. | 9 | Finesse, light, suffocating, two-handed |
 | Peasant Flail | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Two-handed |

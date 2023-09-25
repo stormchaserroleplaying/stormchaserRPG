@@ -27,14 +27,15 @@ nav_order: 1
 | &nbsp;&nbsp;&nbsp;&nbsp;Tinker's tools | 50 gp | 10 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Weaver's tools | 1 gp | 5 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Woodcarver's tools | 1 gp | 5 lb. |
-| Disguise kit | 25 gp | 3 lb. |
-| Forgery kit | 15 gp | 5 lb. |
+| Disguise Kit | 25 gp | 3 lb. |
+| Farmhands' Tools | 1 gp | 7 lb. |
+| Forgery Kit | 15 gp | 5 lb. |
 | *Gaming Sets* | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Dice set | 1 sp | - |
 | &nbsp;&nbsp;&nbsp;&nbsp;Dragonchess set | 1 gp | 1/2 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Playing card set | 5 sp | - |
 | &nbsp;&nbsp;&nbsp;&nbsp;Three-Dragon Ante set | 1 gp | - |
-| Herbalism kit | 5 gp | 3 lb. |
+| Herbalism Kit | 5 gp | 3 lb. |
 | *Musical Instruments* | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Bagpipes | 30 gp | 6 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Drum | 6 gp | 3 lb. |
@@ -46,7 +47,7 @@ nav_order: 1
 | &nbsp;&nbsp;&nbsp;&nbsp;Pan flute | 12 gp | 2 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Shawm | 2 gp | 1 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Viol | 30 gp | 1 lb. |
-| Navigator's tools | 25 gp | 2 lb. |
-| Poisoner's kit | 50 gp | 2 lb. |
-| Thieves' tools | 25 gp | 1 lb. |
-| Vehicles (land or water) | * | * |
+| Navigator's Tools | 25 gp | 2 lb. |
+| Poisoner's Kit | 50 gp | 2 lb. |
+| Thieves' Tools | 25 gp | 1 lb. |
+| Vehicles (Land or Water) | * | * |

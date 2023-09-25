@@ -28,7 +28,6 @@ nav_order: 1
 | &nbsp;&nbsp;&nbsp;&nbsp;Weaver's tools | 1 gp | 5 lb. |
 | &nbsp;&nbsp;&nbsp;&nbsp;Woodcarver's tools | 1 gp | 5 lb. |
 | Disguise Kit | 25 gp | 3 lb. |
-| Farmhands' Tools | 1 gp | 7 lb. |
 | Forgery Kit | 15 gp | 5 lb. |
 | *Gaming Sets* | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;Dice set | 1 sp | - |

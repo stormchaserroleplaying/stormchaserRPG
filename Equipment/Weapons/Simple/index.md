@@ -36,9 +36,10 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 ## Ranged
 
-| Name | Cost | Damage | Weight | Range | Properties | 
+| Name | Cost | Damage | Weight | Range | Properties |
 |:-----|-----:|:-------|-------:|:-----:|:-----------|
 | Blowgun | 10 gp | 1 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 1 lb. | 25 | Ammunition, load, non-lethal |
+| Bolas | 5 gp | — | 2 lb. | 20 | Break, restraining (legs), thrown |
 | Dart | 5 cp | 1d4 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | ¼ lb. | 20 | Light, non-lethal, thrown |
 | Hunting Bow | 25 gp | 1d6 <img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb.| 80 | Ammunition, two-handed |
 | Pellet Bow | 15 gp | 1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">/<img src="https://img.icons8.com/ios/12/FFFFFF/archer-filled.png"> | 2 lb. | 40 | Non-lethal, pellets, two-handed |

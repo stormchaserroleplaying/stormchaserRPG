@@ -2,7 +2,7 @@
 title: Unarmed
 parent: Weapons
 grand_parent: Equipment
-nav_order: 10
+nav_order: 11
 ---
 
 # Unarmed Weapons

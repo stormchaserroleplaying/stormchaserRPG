@@ -35,7 +35,7 @@ You use your chosen ability whenever a spell refers to your spellcasting attribu
 ### Preparing Spells
 You prepare the list of spells that are available for you to cast, choosing from the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/). When you do so, choose a number of 1st level divine spells equal to your spellcasting attribute modifier. For example, if you have a spellcasting attribute of 16, you can prepare a total of 3 1st level divine spells. Casting a spell does not remove it from your list of prepared spells.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of divine spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+You can change your list of prepared spells when you finish a short rest. Preparing a new list of divine spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 ### Spellcasting Focus
 You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your divine spells.

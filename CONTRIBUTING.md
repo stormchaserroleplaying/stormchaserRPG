@@ -45,13 +45,13 @@ For more information about using a codespace for working on GitHub documentation
 - Using the command line:
   - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
 
-2. Install or update to **Node.js**, at the version specified in `.node-version`. For more information, see [the development guide](contributing/development.md).
+2. Install or update to **Node.js**, at the version specified in `.node-version`.
 
 3. Create a working branch and start with your changes!
 
 ### Commit your update
 
-Commit the changes once you are happy with them. Don't forget to [self-review](/contributing/self-review.md) to speed up the review process:zap:.
+Commit the changes once you are happy with them. Don't forget to self-review to speed up the review process:zap:.
 
 ### Pull Request
 
@@ -69,5 +69,3 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 Congratulations :tada::tada: The Stormchaser Roleplaying team thanks you :sparkles:.
 
 Once your PR is merged, your contributions will be publicly visible on the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/).
-
-Now that you are part of the Stormchaser Roleplaying community, see how else you can [contribute](/contributing/types-of-contributions.md).

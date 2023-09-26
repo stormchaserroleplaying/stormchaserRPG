@@ -10,17 +10,17 @@ Magic is an energy that suffuses the multiverse and that fuels both destruction 
 ## Branch Features
  
 ### Branch Spells
-Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prpared. Spells bought in this manner don't count against the number of spells that you can prepare.
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
 If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
  
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic), [Magic Missile](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#magic-missile) |
-| 2nd | Magic Weapon, Magic Aura | 
-| 3rd | [Dispel Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/3/Warding/#dispel-magic), Magic Circle | 
-| 4th | Arcane Eye, Secret Chest | 
-| 5th | Planar Binding, Teleportation Circle | 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic), [Magic Missile](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#magic-missile) | 2 Character Point |
+| 2nd | Magic Weapon, Magic Aura | 4 Character Points |
+| 3rd | [Dispel Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/3/Warding/#dispel-magic), Magic Circle | 6 Character Points |
+| 4th | Arcane Eye, Secret Chest | 8 Character Points |
+| 5th | Planar Binding, Teleportation Circle | 10 Character Points |
 
 ## Talents
  

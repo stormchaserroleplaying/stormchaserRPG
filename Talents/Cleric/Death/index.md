@@ -16,7 +16,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
  
 | Spell Level | Spells | Cost |
 |:-----------:|:------:|:----:|
-| 1st | False Life, Ray of Sickness | 2 Character Points per Spell |
+| 1st | [False Life](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Necromancy/#false-life), [Ray of Sickness](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Necromancy/#ray-of-sickness) | 2 Character Points per Spell |
 | 2nd | Blindness/Deafness, Ray of Enfeeblement | 4 Character Points per Spell |
 | 3rd | Animate Dead, Spirit Shroud | 6 Character Points per Spell |
 | 4th | Enervation, Death Ward | 8 Character Points per Spell |

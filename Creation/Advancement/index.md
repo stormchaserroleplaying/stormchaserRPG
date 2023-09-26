@@ -9,27 +9,28 @@ As your character goes on adventures and overcomes challenges, they gain experie
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Defence Mastery | 35 |
-| Spell School Mastery | 35 |
-| Weapon Mastery | 25 |
-| Skill Mastery | 25 |
-| Defence Expertise | 15 |
-| Spell School Expertise | 15 |
-| Tool Mastery | 15 |
-| Language (Native) | 15 |
-| Weapon Expertise | 10 |
-| Skill Expertise | 10 |
-| Learn an additional spell | From 5 |
+| Armour Proficiency | 5 |
 | Defence Training | 5 |
-| Spell School Training | 5 | 
-| Tool Expertise | 5 |
+| Defence Expertise | 15 |
+| Defence Mastery | 35 |
+| Increase an Attribute by 1 | See Below |
+| Language (Broken) | 1 |
 | Language (Accented) | 5 |
-| Weapon Training | 2 |
+| Language (Native) | 15 |
+| Learn an additional spell | See Below |
 | Skill Training | 2 |
-| Increase an Attribute by 1 | From 1 |
+| Skill Expertise | 10 |
+| Skill Mastery | 25 |
+| Spell School Training | 5 | 
+| Spell School Expertise | 15 |
+| Spell School Mastery | 35 |
 | Subskill | 1 |
 | Tool Training | 1 |
-| Language (Broken) | 1 |
+| Tool Expertise | 5 |
+| Tool Mastery | 15 |
+| Weapon Training | 2 |
+| Weapon Expertise | 10 |
+| Weapon Mastery | 25 |
 
 * Talents costs are listed in the entry for that specific talent.
 * You cannot purchase mastery in a skill, tool, or weapon group, unless you are already an expert with that skill, tool, or weapon group. Thus the total cost to go from untrained to master is 37 points for a skill, or weapon group and 16 points for a tool.
@@ -63,18 +64,18 @@ The first and second time a that PC improves an attribute, it costs 5 character 
 
 ## Purchasing Additional Spells
 
-| Additional Spell | Character Point Cost |
-|:---------------------:|:--------------------:|
-| 1st and 2nd | 5 |
-| 3rd and 4th | 10 |
-| 5th and 6th | 15 |
-| 7th and 8th | 20 |
-| 9th and 10th | 25 |
-| 11th and 12th | 30 |
-| 13th and 14th | 35 |
-| 15th and 16th | 40 |
-| 17th and 18th | 45 |
-| 19th and 20th | 50 |
+| Spell Level | Character Point Cost |
+|:-----------:|:--------------------:|
+| 1st  | 2 |
+| 2nd  | 4 |
+| 3rd  | 6 |
+| 4th  | 8 |
+| 5th  | 10 |
+| 6th  | 12 |
+| 7th  | 14 |
+| 8th  | 16 |
+| 9th  | 18 |
+| 10th | 20 |
 
 ## Stamina
 Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18, then his stamina maximum then increases by 4 from 68 to 72.
@@ -86,27 +87,27 @@ Note that this table assumes a standard fantasy game. Low-fantasy games might aw
 
 ###### Starting Wealth
 
-| Number of Talents | Wealth |
-|------------------:|-------:|
-| 1* | - |
-| 2 | 60 gp |
-| 3 | 120 gp |
-| 4 | 239 gp |
-| 5 | 393 gp |
-| 6 | 542 gp |
-| 7 | 691 gp |
-| 8 | 1339 gp |
-| 9 | 1987 gp |
-| 10 | 2912 gp |
-| 11 | 4022 gp |
-| 12 | 4947 gp |
-| 13 | 5872 gp |
-| 14 | 6797 gp |
-| 15 | 7629 gp |
-| 16 | 12363 gp |
-| 17 | 17097 gp |
-| 18 | 21831 gp |
-| 19 | 28458 gp |
-| 20 | 35085 gp |
+| Character Value | Wealth |
+|----------------:|-------:|
+| 150 Character Points* | - |
+| 160 Character Points  | 60 gp |
+| 175 Character Points  | 120 gp |
+| 190 Character Points  | 239 gp |
+| 210 Character Points  | 393 gp |
+| 230 Character Points  | 542 gp |
+| 255 Character Points  | 691 gp |
+| 280 Character Points  | 1339 gp |
+| 310 Character Points  | 1987 gp |
+| 340 Character Points  | 2912 gp |
+| 375 Character Points  | 4022 gp |
+| 410 Character Points  | 4947 gp |
+| 460 Character Points  | 5872 gp |
+| 510 Character Points  | 6797 gp |
+| 575 Character Points  | 7629 gp |
+| 640 Character Points  | 12363 gp |
+| 720 Character Points  | 17097 gp |
+| 800 Character Points  | 21831 gp |
+| 900 Character Points  | 28458 gp |
+| 1000 Character Points | 35085 gp |
 
-*For 1st-level PCs, see backgrounds and character starting equipment.
+*For starting PCs, see backgrounds and character starting equipment.

@@ -16,11 +16,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
  
 | Spell Level | Spells | Cost |
 |:-----------:|:------:|:----:|
-| 1st | [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic), [Magic Missile](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#magic-missile) | 2 Character Point |
-| 2nd | Magic Weapon, Magic Aura | 4 Character Points |
-| 3rd | [Dispel Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/3/Warding/#dispel-magic), Magic Circle | 6 Character Points |
-| 4th | Arcane Eye, Secret Chest | 8 Character Points |
-| 5th | Planar Binding, Teleportation Circle | 10 Character Points |
+| 1st | [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic), [Magic Missile](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#magic-missile) | 2 Character Points per Spell |
+| 2nd | Magic Weapon, Magic Aura | 4 Character Points per Spell |
+| 3rd | [Dispel Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/3/Warding/#dispel-magic), Magic Circle | 6 Character Points per Spell |
+| 4th | Arcane Eye, Secret Chest | 8 Character Points per Spell |
+| 5th | Planar Binding, Teleportation Circle | 10 Character Points per Spell |
 
 ## Talents
  

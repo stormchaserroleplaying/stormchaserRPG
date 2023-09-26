@@ -4,7 +4,7 @@ nav_exclude: true
 
 # Welcome to the Stormchaser RPG contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [stormchaserroleplaying.com/stormchaserRPG/]([https://docs.github.com/en](https://stormchaserroleplaying.com/stormchaserRPG/)) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [stormchaserroleplaying.com/stormchaserRPG/](https://stormchaserroleplaying.com/stormchaserRPG/) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 

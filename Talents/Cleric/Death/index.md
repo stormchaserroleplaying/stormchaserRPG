@@ -42,7 +42,7 @@ You learn one necromancy cantrip of your choice from any spell list. When you ca
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity
 *You can use Channel Divinity to destroy another creature’s life force by touch.*
 
 When you hit a creature with a melee attack, you can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.

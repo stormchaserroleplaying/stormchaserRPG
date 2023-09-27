@@ -27,7 +27,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Reaper                  | 5  | - |  
-| Touch of Death          | 5  | Channel Divinity |  
+| Touch of Death          | -  | Channel Divinity |  
 | Inescapable Destruction | 10 | 3rd Level Spells and Reaper  |  
 | Improved Reaper         | 80 | 8th Level Spells and Inescapable Destruction |  
 
@@ -42,7 +42,7 @@ You learn one necromancy cantrip of your choice from any spell list. When you ca
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity
 *You can use Channel Divinity to destroy another creature’s life force by touch.*
 
 When you hit a creature with a melee attack, you can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.

@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Emboldening Bond | 5  | - |
-| Balm of Peace    | 5  | Channel Divinity |
+| Balm of Peace    | -  | Channel Divinity |
 | Protective Bond  | 10 | 3rd Level Spells and Emboldening Bond |
 | Expansive Bond   | 80 | 8th Level Spells and Protective Bond   |
 
@@ -48,7 +48,7 @@ You can use this feature a number of times equal to your spellcasting attribute 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can make your very presence a soothing balm.*
 
 Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2d6 + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.

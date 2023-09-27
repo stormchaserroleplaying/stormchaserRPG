@@ -44,7 +44,7 @@ You gain two cantrips of your choice from the [Arcane Spell List](https://stormc
 <div style="margin-top:-10px;"></div>
  
 ##### **Prerequisite:** Channel Divinity
-You can use your Channel Divinity to abjure otherworldly creatures. You present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a ward attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
+You can use your Channel Divinity to abjure otherworldly creatures. You present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a warding attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly end its move in a space within 30 feet of you. It also can’t take reactions. For its action, it can only use the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
 

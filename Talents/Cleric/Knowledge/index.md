@@ -44,7 +44,7 @@ One time per short rest you can use this feature to gain one of the following be
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to tap into a divine well of knowledge.*
 
 You can choose one skill or tool. For 10 minutes, you gain +2d on checks using the chosen skill or tool.

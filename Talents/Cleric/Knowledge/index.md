@@ -27,7 +27,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Blessings of Knowledge | 5  | - |
-| Knowledge of the Ages  | 5  | Channel Divinity |
+| Knowledge of the Ages  | -  | Channel Divinity |
 | Read Thoughts          | 10 | 3rd Level Spells and Blessings of Knowledge |  
 | Visions of the Past    | 80 | 8th Level Spells and Read Thoughts |  
 
@@ -44,7 +44,7 @@ One time per short rest you can use this feature to gain one of the following be
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to tap into a divine well of knowledge.*
 
 You can choose one skill or tool. For 10 minutes, you gain +2d on checks using the chosen skill or tool.

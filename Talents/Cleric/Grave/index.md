@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Circle of Mortality      | 5  | - |  
 | Eyes of the Grave        | 5  | - |
-| Path to the Grave        | 5  | Channel Divinity |
+| Path to the Grave        | -  | Channel Divinity |
 | Sentinel at Death’s Door | 10 | 3rd Level Spells, Circle of Mortality and Eyes of the Grave |  
 | Keeper of Souls          | 80 | 8th Level Spells and Sentinel at Death’s Door |  
 
@@ -58,7 +58,7 @@ You can use this feature a number of times equal to your spellcasting attribute 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to mark another creature’s life force for termination.* 
 
 You choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack’s damage, and then the curse ends. 

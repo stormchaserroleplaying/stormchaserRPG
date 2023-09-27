@@ -40,7 +40,7 @@ Additionally, make a spellcasting attack vs the Constitution defense of each hos
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Warding Flare         | 5  | - |
-| Radiance of the Dawn  | 5  | Channel Divinity |
+| Radiance of the Dawn  | -  | Channel Divinity |
 | Improved Flare        | 10 | 3rd Level Spells and Warding Flare |  
 | Corona of Light       | 80 | 8th Level Spells and Improved Flare |  
 
@@ -61,7 +61,7 @@ This ability triggers once per round and automatically on the first attack to hi
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can harness sunlight, banishing darkness and dealing sacred damage to your foes.* 
 
 You use your Channel Divinity and present your holy symbol. Any magical darkness within 30 feet of you is dispelled. 

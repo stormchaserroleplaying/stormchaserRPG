@@ -13,11 +13,12 @@ You can't hide from a creature that can see you clearly and you give away your p
 
 In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 
-Passive Perception. When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the GM compares your stealth check with that creature's passive perception score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has +1d, add 4. For -1d, subtract 4.
+**Passive Perception.** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the GM compares your stealth check with that creature's passive perception score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has +1d, add 4. For -1d, subtract 4.
 
 For example, if a character has a Wisdom of 15 (a +2 modifier) and proficiency in perception (+1d), they have a passive perception of 16.
 
-What Can You See? One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured, as explained in Vision and Light.
+**What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**, as explained in [Vision and Light](http://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/VisionandLight/).
+
 
 #### Hiding While Invisible
 Whilst invisible, you may forgo your movement to gain an additional +1d on stealth checks to hide. If you also use your action to keep still and hold your breath, you gain +1d a third time. You must keep spending your action to maintain this increase.

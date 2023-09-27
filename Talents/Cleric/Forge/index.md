@@ -27,7 +27,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Blessing of the Forge   | 5  | - |
-| Artisan's Blessing      | 5  | Channel Divinity |
+| Artisan's Blessing      | -  | Channel Divinity |
 | Soul of the Forge       | 10 | 3rd Level Spells and Blessing of the Forge |  
 | Saint of Forge and Fire | 80 | 8th Level Spells and Soul of the Forge |  
 
@@ -46,7 +46,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>*Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity
 *You can use your Channel Divinity to create simple items.*
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.

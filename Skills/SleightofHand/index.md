@@ -1,5 +1,6 @@
 ---
 title: Sleight of Hand
+has_children: true
 parent: Skills
 ---
 

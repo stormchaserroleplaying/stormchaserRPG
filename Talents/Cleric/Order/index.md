@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Voice of Authority    | 5  | - |
-| Order's Demand        | 5  | Channel Divinity |
+| Order's Demand        | -  | Channel Divinity |
 | Embodiment of the Law | 10 | 3rd Level Spells and Voice of Authority |  
 | Order's Wrath         | 80 | 8th Level Spells and Embodiment of the Law |  
 
@@ -46,7 +46,7 @@ If you cast a spell using mana and target an ally with the spell, that ally can 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You exert an intimidating presence over others.*
 
 You present your holy symbol and use your Channel Divinity. Make a charm attack vs the Wisdom defence of each creature of your choice within 30 feet of you that can see or hear you. On a hit, a creature is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the end of your next turn, or until the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature takes any damage. You can also cause any of the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creatures to drop what they are holding when they are hit by your attack.

@@ -22,6 +22,7 @@ You become observed as soon as you do anything other than Hide, Move Silently, o
 If a creature uses Seek and you become hidden to it as a result, you must Move Silently if you want to become undetected by that creature again.
 
 **Failure:** A telltale sound or other sign gives your position away, though you still remain unseen. You’re hidden from the creature throughout your movement and remain so.
+
 **Critical Failure:** You’re spotted! You’re observed by the creature throughout your movement and remain so. If you’re [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) and were hidden from the creature, instead of being observed you’re hidden throughout your movement and remain so.
 
 ## Being Stealthy

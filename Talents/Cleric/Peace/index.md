@@ -22,7 +22,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | 2nd | Aid, Warding Bond | 4 Character Points per Spell |
 | 3rd | Beacon of Hope, Sending | 6 Character Points per Spell |
 | 4th | Aura of Purity, Resilient Sphere | 8 Character Points per Spell |
-| 5th | [Greater Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Restoration/#greater-restoration), Telepathic Bond | 10https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#sanctuary Character Points per Spell |
+| 5th | [Greater Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Restoration/#greater-restoration), Telepathic Bond | 10 Character Points per Spell |
 
 ## Talents
  

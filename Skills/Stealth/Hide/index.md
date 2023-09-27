@@ -18,3 +18,6 @@ Passive Perception. When you hide, there's a chance someone will notice you even
 For example, if a character has a Wisdom of 15 (a +2 modifier) and proficiency in perception (+1d), they have a passive perception of 16.
 
 What Can You See? One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be lightly or heavily obscured, as explained in Vision and Light.
+
+#### Hiding While Invisible
+Whilst invisible, you may forgo your movement to gain an additional +1d on stealth checks to hide. If you also use your action to keep still and hold your breath, you gain +1d a third time. You must keep spending your action to maintain this increase.

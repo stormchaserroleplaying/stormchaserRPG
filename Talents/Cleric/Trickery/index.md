@@ -45,7 +45,7 @@ You touch a willing creature, granting +1d on stealth checks. This blessing last
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2<br> **Duration:** Sustained
 *You create a perfect illusory image of yourself.* 
 
 Using 2 Actions for your Channel Divinity, you create an illusion of yourself that lasts for 1 minute, or until you no longer sustain the effect (as if you were sustaining a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. Using 1 Action on subsequent turns, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.

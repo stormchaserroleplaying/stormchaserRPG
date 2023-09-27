@@ -1,5 +1,5 @@
 ---
-title: Hide
+title: Distraction
 parent: Stealth
 grand_parent: Skills
 ---

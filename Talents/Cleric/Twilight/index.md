@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Eyes of Night      | 5  | - |  
 | Vigilant Blessing  | 5  | - |
-| Twilight Sanctuary | 5  | Channel Divinity |
+| Twilight Sanctuary | -  | Channel Divinity |
 | Steps of Night     | 10 | 3rd Level Spells, Eyes of the Night, Vigilant Blessing |
 | Twilight Shroud    | 80 | 8th Level Spells and Steps of Night  |
 
@@ -56,7 +56,7 @@ You give one creature that you touch (including yourself) +1d on the next initia
 
 <div style="margin-top:-10px;"></div>
  
-#### *Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You refresh your allies with soothing twilight.*
 
 Using your Channel Divinity, you present your holy symbol and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius and is filled with dim light. The sphere moves with you and lasts for 1 minute, or until you are incapacitated, or die. Whenever a creature (including you) ends its turn within the sphere, you can grant that creature one of these benefits:

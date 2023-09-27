@@ -21,10 +21,6 @@ If you spend one minute examining a creature, you can make a medicine check to i
 * [Treat Poison](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Poison)
 * [Treat Wounds](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/TreatWounds)
 
-## Resuscitate
-**Proficient Only; Requires Healer's Kit Use**<br>
-As an action, you can revive a creature that has just died. To revive the dead creature you must reach it within **1 round + 1 additional round for each successful death save the creature made before dying**, and succeed on a medicine check of **DC 30 - 5 for each successful death save the creature made before dying.** If the check succeeds, the creature is unconscious instead of dead. If the check fails, you are unable to revive the creature.
-
 ## Subskills
 
 ### Apothecary

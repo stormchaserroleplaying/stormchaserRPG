@@ -1,5 +1,6 @@
 ---
 title: Performance
+has_children: true
 parent: Skills
 ---
 

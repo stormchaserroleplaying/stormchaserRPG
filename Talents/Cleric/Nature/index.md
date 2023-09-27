@@ -27,7 +27,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Acolyte of Nature        | 5  | - |
-| Charm Animals and Plants | 5  | Channel Divinity |
+| Charm Animals and Plants | -  | Channel Divinity |
 | Dampen Elements          | 10 | 3rd Level Spells and Acolyte of Nature  |  
 | Master of Nature         | 80 | 8th Level Spells and Dampen Elements |  
 
@@ -44,7 +44,7 @@ You learn the Druidic language. Also, you are trained in one of the following sk
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You use your divine magic to influence animals and plants.* 
 
 You present your holy symbol and invoke the name of your deity. Using your Channel Divinity, make a charm attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for 1 minute or until it takes damage. While it is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you, it is friendly to you and other creatures you designate.

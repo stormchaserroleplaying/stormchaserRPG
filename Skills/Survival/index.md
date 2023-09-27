@@ -1,5 +1,6 @@
 ---
 title: Survival
+has_children: true
 parent: Skills
 ---
 

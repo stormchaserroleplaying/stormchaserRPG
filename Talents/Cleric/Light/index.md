@@ -24,11 +24,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | 4th | Guardian of Faith, Wall of Fire | 8 Character Points per Spell |
 | 5th | Flame Strike, Scrying | 10 Character Points per Spell |
 
-### Radiance of the Dawn
+#### Radiance of the Dawn
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can harness sunlight, banishing darkness and dealing sacred damage to your foes.* 
 
 You use your Channel Divinity and present your holy symbol. Any magical darkness within 30 feet of you is dispelled. 

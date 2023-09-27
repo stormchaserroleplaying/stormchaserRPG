@@ -27,7 +27,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Wrath of the Storm | 5  | - |
-| Destructive Wrath  | 5  | Channel Divinity |
+| Destructive Wrath  | -  | Channel Divinity |
 | Thunderbolt Strike | 10 | 3rd Level Spells and Wrath of the Storm |  
 | Stormborn          | 80 | 8th Level Spells and Thunderbolt Strike |  
 
@@ -38,15 +38,15 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 5 feet of you.
 *You can thunderously rebuke attackers.* 
 
-When a creature within 5 feet of you hits you with an attack, it must make a Dexterity defense check vs your evocation skill. It takes 1d8 electirc damage and 1d8 sonic damage on a fail, or half as much on a success.
+Make an evocation attack roll vs the Dexterity defence of a creature within 5 feet of you that hit you with an attack. On a hit, it takes 1d8 electirc damage and 1d8 sonic damage, or half as much on a miss.
 
-This ability triggers once per round and automatically on the first attack to hit you each round, unless you declare on your turn or when you roll intitiative that it will trigger from attacks by a specified creature, or not to use it at all. You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest.
 
 ### Destructive Wrath
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity
 *You wield the power of the storm with unchecked ferocity.*
 
 Before you roll electric or conic damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.

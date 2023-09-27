@@ -5,6 +5,10 @@ grand_parent: Skills
 ---
 
 # Hide
+
+<div style="margin-top:-10px;"></div>
+
+#### *Move*<br>**Actions:** 1<br>**Required Proficiency:** Untrained<br>**Requirements:** Concealment or Cover from creatures you want to Hide from
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following [the rules for hiding](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/UsingEachAbility/Dexterity/#hiding). If you succeed, you gain certain benefits, as described in [Unseen Attackers and Targets](http://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/UnseenAttackersandTargets/).
 
 The GM decides when circumstances are appropriate for hiding. When you try to hide, make a stealth check. Until you are discovered or you stop hiding, that check's total is contested by the perception check of any creature that actively searches for signs of your presence.

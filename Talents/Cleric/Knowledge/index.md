@@ -36,18 +36,18 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points<br>**Actions:** 1
-One time per short rest you can use this feature to gain one of the following benefits:
+Once per short rest, you can use this feature to gain one of the following benefits:
 * You cast the [Comprehend Languages](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#comprehend-languages) spell using 1 action and requiring no components.
-* You gain +1d in your choice of of the following skills for 1 hour: Arcana, History, Nature, or Religion.
+* You gain +1d in your choice of the following skills for 1 hour: Arcana, History, Nature, or Theology.
 
-### Knowledge of the Ages
+#### Knowledge of the Ages
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to tap into a divine well of knowledge.*
 
-You can choose one skill or tool. For 10 minutes, you gain +2d on checks using the chosen skill or tool.
+When you would roll to [Recall Knowledge](), you can instead use your Channel Divinity to take 20 for the skill check.
 
 ### Read Thoughts
  

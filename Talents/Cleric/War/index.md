@@ -38,7 +38,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points
 *Your god blesses you with an additional fanaticism while strike your enemies.* 
 
-When you use the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can make one addtional Strike action without taking the multiattack pentalty. 
+When you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you gain a bounus to the damage roll with weapon attacks equal to your martial feat die. 
 
 You can use this ability a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 

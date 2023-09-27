@@ -8,12 +8,12 @@ parent: Skills
 Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
 
 ## Untrained Actions
-* [Sense Direction]()
+* [Sense Direction](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/SenseDirection/)
 
 ## Trained Actions
-* [Cover Tracks]()
-* [Follow Tracks]()
-* [Survive in the Wilderness]()
+* [Cover Tracks](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/CoverTracks)
+* [Follow Tracks](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/Track)
+* [Survive in the Wilderness](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/Survive)
 
 ## Subskills
 

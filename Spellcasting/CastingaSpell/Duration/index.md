@@ -6,22 +6,32 @@ nav_order: 5
 ---
 
 # Duration
-A spell's duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed.
+The duration of a spell is how long the spell effect lasts. Spells that last for more than an instant have a Duration entry. A spell might last until the start or end of a turn, for some number of rounds, for minutes, or even longer. If a spell’s duration is given in rounds, the number of rounds remaining decreases by 1 at the start of each of the spellcaster’s turns, ending when the duration reaches 0.
+
+Some spells have effects that remain even after the spell’s magic is gone. Any ongoing effect that isn’t part of the spell’s duration entry isn’t considered magical. For instance, a spell that creates a loud sound and has no duration might deafen someone for a time, even permanently. This deafness couldn’t be counteracted because it is not itself magical (though it might be cured by other magic, such as restore senses).
+
+If a spell’s caster dies or is incapacitated during the spell’s duration, the spell remains in effect till its duration ends. You might need to keep track of the caster’s initiative after they stopped being able to act to monitor spell durations.
 
 ## Instantaneous
 Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can't be dispelled, because its magic exists only for an instant.
 
-## Concentration
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+## Sustaining Spells
+If the spell’s duration is “sustained,” it lasts until the end of your next turn unless you use a Sustain a Spell action on that turn to extend the duration of that spell.
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+> ### Sustain a Spell
+> *Concentrate*<br>**Actions:** 1<br>**Requirements:** You have at least one spell active with a sustained duration, and you are not fatigued.
+>
+> Choose one spell with a sustained duration you have in effect. The duration of that spell continues until the end of your next turn. Some spells might have slightly different or expanded effects if you sustain them. Sustaining a Spell for more than 10 minutes (100 rounds) ends the spell and makes you fatigued unless the spell lists a different maximum duration (such as “sustained up to 1 minute” or “sustained up to 1 hour”).
+>
+> If your Sustain a Spell action is disrupted, the spell immediately ends.
 
-You can concentrate on a maximum number of spells equal to your spell casting ability modifier (minimum of one). Concentrating on a second spell simultaneously imparts a level of exhaustion. While you are concentrating on spellcasting, this level of exhaustion cannot be removed by any means. Concentrating on a third spell simultaneously imparts an additional two levels of exhaustion, for a total of three. Concentrating on a fourth spell simultaneously imparts an additional three levels of exhaustion for a total of six. Deadly exhaustion that is accumulated in this way kills a character only when the last spell that they are concentrating on ends.
+## Long Durations
+If a spell’s duration says it lasts until your next daily preparations, on the next day you can refrain from preparing a new spell in that spell’s slot. (If you are a spontaneous caster, you can instead expend a spell slot during your preparations.) Doing so extends the spell’s duration until your next daily preparations. This effectively Sustains the Spell over a long period of time. If you prepare a new spell in the slot (or don’t expend a spell slot), the spell ends. You can’t do this if the spell didn’t come from one of your spell slots. If you are dead or otherwise incapacitated at the 24-hour mark after the time you Cast the Spell or the last time you extended its duration, the spell ends. Spells with an unlimited duration last until counteracted or Dismissed. You don’t need to keep a spell slot open for these spells.
 
-Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
+## Dismissing
+Some spells can be dismissed, ending the duration early. This requires the caster or target to use the Dismiss action.
 
-* **Casting more spells that require concentration than your spell-casting ability modifier.** If you cast a number of spells that require concentration greater than your spell-casting ability modifier, you lose concentration on all spells that you have cast.
-* **Taking damage.** Whenever you take damage while you are concentrating on spells, the attacker rolls vs your spellcasting attribute's defence to break your concentration. The attack bonus equals the sum of levels of all spells that you are concentrating on, or half the damage that you take, whichever number is greater. If you take damage from multiple sources, such as an arrow and a dragon's breath, the attacker makes a separate attack roll for each source of damage.
-* **Being incapacitated or killed.** You lose concentration on all spells that you have cast if you are incapacitated or if you die.
-
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 defence check using your spellcasting attribute to maintain concentration on a spell.
+> ### Dismiss
+> *Concentrate*<br>**Actions:** 1
+>
+> You end one spell effect or magic item effect. This must be an effect you are allowed to dismiss, as defined by the spell or item. Dismissal might end the effect entirely or might end it just for a certain target or targets, depending on the spell or item.

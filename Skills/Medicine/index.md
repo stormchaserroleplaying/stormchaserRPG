@@ -7,9 +7,6 @@ has_children: true
 # Medicine
 Medicine is a **Wisdom**-based skill that lets you try to stabilize a dying companion or diagnose an illness.
 
-## Stabilise
-A medicine check lets you use your action to try to stabilize a dying creature. This requires a successful medicine check of **DC 15 + 5 for every death save the creature has failed**.
-
 ## Diagnose Illness
 If you spend one minute examining a creature, you can make a medicine check to identify a disease or poison affecting them. The DC is determined by the effect in question.
 

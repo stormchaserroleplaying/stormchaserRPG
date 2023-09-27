@@ -18,3 +18,6 @@ You spend at least 8 hours caring for a diseased creature. Attempt a Medicine ch
 **Critical Failure:** Your efforts cause the creature to take a -1d to its next check against the disease.
 
 You can treat one creature at a time if you are Trained in Medicine, or up to six simultaneously for Expert proficiency.
+
+## Diagnose Illness
+If you spend one minute examining a creature, you can make a medicine check to identify a disease or poison affecting them. The DC is determined by the effect in question.

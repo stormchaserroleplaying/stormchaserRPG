@@ -10,7 +10,9 @@ Gods of nature are as varied as the natural world itself, from inscrutable gods 
 ## Branch Features
  
 ### Branch Spells
-Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
+When you take your first talent in this branch, you learn the [Druidcraft](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#druidcraft) cantrip, if you do not already know it. If you already know this cantrip, then you learn a cantrip of your choice from the divine spell list. This cantrip doesn’t count against the number of divine cantrips that you know.
+
+Additionally, once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
 If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
  
@@ -36,8 +38,6 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 5 Character Points
-Choose one additional cantrip from the divine spell list. This cantrip doesn’t count against the number of disciple cantrips that you know. 
-
 You learn the Druidic language. Also, you are trained in one of the following skills of your choice: Animal Handling, Nature or Survival.
 
 ### Charm Animals and Plants

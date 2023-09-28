@@ -52,11 +52,11 @@ On your turn, you can magically share the sense granted by this feature with wil
 
 You give one creature that you touch (including yourself) +1d on the next initiative roll that the creature makes. This benefit ends immediately after the roll, or if you use this feature again.
 
-### Twilight Sanctuary
+#### Twilight Sanctuary
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
 *You refresh your allies with soothing twilight.*
 
 Using your Channel Divinity, you present your holy symbol and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius and is filled with dim light. The sphere moves with you and lasts for 1 minute, or until you are incapacitated, or die. Whenever a creature (including you) ends its turn within the sphere, you can grant that creature one of these benefits:

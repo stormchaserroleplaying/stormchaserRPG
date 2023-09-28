@@ -38,18 +38,20 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 5 feet of you.
 *You can thunderously rebuke attackers.* 
 
-Make an evocation attack roll vs the Dexterity defence of a creature within 5 feet of you that hit you with an attack. On a hit, it takes 1d8 electirc damage and 1d8 sonic damage, or half as much on a miss.
+Make an evocation attack roll vs the Dexterity defence of a creature within 5 feet of you that hit you with an attack within the last round. On a hit, it takes 1d8 electric damage and 1d8 sonic damage, or half as much on a miss.
 
 You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest.
 
-### Destructive Wrath
+#### Destructive Wrath
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity
+##### **Prerequisite:** Channel Divinity
 *You wield the power of the storm with unchecked ferocity.*
 
-Before you roll electric or conic damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+Before you roll electric or sonic damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.
+
+If the damage is from a spell cast by you, then you must expend mana equal to the spell's level to activate your channel divinity.
 
 ### Thunderbolt Strike
 

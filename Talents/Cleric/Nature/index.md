@@ -69,16 +69,16 @@ This ability triggers once per round and automatically on the first instance of 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 3rd Level Spells and Verdant Weapon<br>
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 3rd Level Spells and Verdant Weapon
 *Your verdant weapon can cut through the resistances of magical creatures.*
 
 The weapon created by your Verant Weapon ability is treated as magical, cold iron, and silver for the purposes of overcoming resistances.
 
 ### Master of Nature
- 
+
 <div style="margin-top:-10px;"></div>
- 
+
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Dampen Elements<br>**Actions:** 1
-*You gain the ability to command animals and plant creatures.* 
+*You gain the ability to command animals and plant creatures.*
 
 While creatures are [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by your Charm Animals and Plants ability, you can verbally command what each of those creatures will do on its next turn.

@@ -9,18 +9,18 @@ Dream druids hail from regions that have strong ties to the hedge and its dreaml
 
 ## Branch Features
 
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
-
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Protection from Evil and Good, Sleep |   
-| 2nd | Prayer of Healing, Nathair's Mischief |  
-| 3rd | Aura of Vitality, Fear |  
-| 4th | Aura of Purity, Hallucinatory Terrain |  
-| 5th | Dispel Evil and Good, Hold Monster |  
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
+ 
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
+ 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Protection from Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#protection-from-evil-and-good), [Sleep](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#sleep) | 2 Character Points per Spell |
+| 2nd | Prayer of Healing, Nathair's Mischief | 4 Character Points per Spell |
+| 3rd | Aura of Vitality, Fear | 6 Character Points per Spell |
+| 4th | Aura of Purity, Hallucinatory Terrain | 8 Character Points per Spell |
+| 5th | Dispel Evil and Good, Hold Monster | 10 Character Points per Spell |
 
 ## Talents
 

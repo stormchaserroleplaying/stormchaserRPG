@@ -39,11 +39,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points
 You gain two cantrips of your choice from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/). For you, these cantrips count as divine cantrips.
 
-#### Arcane Abjuration I
+### Arcane Abjuration I
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity
 You can use your Channel Divinity to abjure otherworldly creatures. You present your holy symbol toward one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you. Make a warding attack vs the creature’s Wisdom defense, provided that the creature can see or hear you. If you hit, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly end its move in a space within 30 feet of you. It also can’t take reactions. For its action, it can only use the Stride action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
@@ -55,11 +55,11 @@ A turned creature must spend its turns trying to move as far away from you as it
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Initiate
 When you restore stamina to an ally with a spell which you spend one mana or more on, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the amount of mana used to cast the healing spell.
 
-#### Arcane Abjuration II
+### Arcane Abjuration II
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** 3rd Level Spells and Arcane Abjuration I
+#### **Prerequisite:** 3rd Level Spells and Arcane Abjuration I
 When a creature is hit by your Arcane Abjuration feature, the creature is banished for 1 minute (as in a *[Banishment]()* spell that doesn't have to be sustained) if it isn’t on its plane of origin and its challenge rating is at or below your character value divided by 5.
 
 ### Arcane Mastery

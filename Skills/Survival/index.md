@@ -9,6 +9,7 @@ Survival is a **Wisdom**-based skill for when you follow tracks, hunt wild game,
 
 ## Untrained Actions
 * [Sense Direction](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/SenseDirection/)
+* [Subsist](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Subsist)
 
 ## Trained Actions
 * [Cover Tracks](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/CoverTracks)

@@ -1,19 +1,20 @@
 ---
 title: General Actions
+has_children: true
 parent: Skills
 ---
 
 # General Skill Actions
 General skill actions are skill actions that can be used with multiple different skills. When you use a general skill action, you might use any skill that lists it as one of the skill’s actions, depending on the situation.
 
-| Action | Requires Trained Proficiency | Applicable Skills |
+| Action | Proficiency | Applicable Skills |
 |:------:|:----------------------------:|:-----------------:|
-| Decipher Writing | Yes | Arcana, Theology, Insight |
-| Earn Income | Yes | History, Performance |
-| Identify Magic | Yes | Arcana, Nature, Theology |
-| Learn a Spell | Yes | Arcana, Nature, Theology |
-| Recall Knowledge | No | Arcana, History, Investigation, Medicine, Nature, Theology |
-| Subsist | No | Persuasion, Survival |
+| Decipher Writing | Trained | Arcana, Theology, Insight |
+| Earn Income | Trained | History, Performance |
+| Identify Magic | Trained | Arcana, Nature, Theology |
+| Learn a Spell | Trained | Arcana, Nature, Theology |
+| Recall Knowledge | Untrained | Arcana, History, Investigation, Medicine, Nature, Theology |
+| Subsist | Untrained | Persuasion, Survival |
 
 ### Decipher Writing
 

@@ -9,7 +9,7 @@ General skill actions are skill actions that can be used with multiple different
 
 | Action | Proficiency | Applicable Skills |
 |:------:|:----------------------------:|:-----------------:|
-| Decipher Writing | Trained | Arcana, Theology, Insight |
+| Decipher Writing | Trained | Arcana, History, Insight Theology |
 | Earn Income | Trained | History, Performance |
 | Identify Magic | Trained | Arcana, Nature, Theology |
 | Learn a Spell | Trained | Arcana, Nature, Theology |

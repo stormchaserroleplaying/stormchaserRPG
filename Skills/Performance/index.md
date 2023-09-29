@@ -10,6 +10,9 @@ Performance is a **Charisma**-based skill that determines how well you can delig
 ## Untrained Actions
 * [Perform](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/Perform)
 
+## Trained Actions
+* [Earn Income](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/EarnIncome)
+
 ## Subskills
 
 ### Comedy

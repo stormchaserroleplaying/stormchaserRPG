@@ -7,19 +7,12 @@ has_children: true
 # Paladin Talent Tree
 Through a select, worthy few shines the power of the divine. Called paladins, these noble souls dedicate their swords and lives to the battle against evil. Knights, crusaders, and law-bringers, paladins seek not just to spread divine justice but to embody the teachings of the virtuous deities they serve. In pursuit of their lofty goals, they adhere to ironclad laws of morality and discipline. As reward for their righteousness, these holy champions are blessed with boons to aid them in their quests: powers to banish evil, heal the innocent, and inspire the faithful. Although their convictions might lead them into conflict with the very souls they would save, paladins weather endless challenges of faith and dark temptations, risking their lives to do right and fighting to bring about a brighter future.
 
-**As long as at least half of your disciple talents are from the paladin talent tree, your stamina increases to 4× your Constitution score and your recovery die increases to a d10.**
-
-## Bonus Proficiencies
-When you take your first paladin talent, you gain the following bonus proficiencies:
-* **Armour:** Heavy armour
-* **Weapons:** 4 martial weapon groups
-
 ## Core Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Divine Sense | 5 | - |
-| Lay on Hands | 5 | - | - |
+| Lay on Hands | 5 | - |
 | Divine Smite | 5 | *Divine Sense* |
 | Divine Health | 5 | *Lay on Hands* |
 | Aura of Protection | 10 | *2nd Level Spells and 6 Other Paladin Talents* |
@@ -43,7 +36,7 @@ You can use [Detect Evil](https://stormchaserroleplaying.com/stormchaserRPG/Spel
 #### **Cost:** 5 Character Points
 *Your blessed touch can revitalise and heal.*
 
-You always have the [Cure Wounds](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Evocation/#cure-wounds) and [Lesser Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. You can cast these spells on yourself as a free action once per turn.
+You always have the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) and [Lesser Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared.
 
 ### Divine Smite
 

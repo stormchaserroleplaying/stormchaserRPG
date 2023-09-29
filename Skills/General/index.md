@@ -16,44 +16,12 @@ General skill actions are skill actions that can be used with multiple different
 | Recall Knowledge | Untrained | Arcana, History, Investigation, Medicine, Nature, Theology |
 | Subsist | Untrained | Persuasion, Survival |
 
-### Decipher Writing
+## Untrained Actions
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
+* [Subsist](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Subsist)
 
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: Arcana, Theology, Insight
-Description/mechanics
-
-### Earn Income
-
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: History, Performance
-Description/mechanics
-
-### Identify Magic
-
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: Arcana, Nature, Theology
-Description/mechanics
-
-### Learn a Spell
-
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: Arcana, Nature, Theology
-Description/mechanics
-
-### Recall Knowledge
-
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: Arcana, History, Medicine, Nature, Theology, Investigation
-Description/mechanics
-
-### Subsist
-
-<div style="margin-top:-10px;"></div>
-
-#### Applicable Skills: Persuasion, Survival
-Description/mechanics
+## Trained Actions
+* [Decipher Writing](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/DecipherWriting)
+* [Earn Income](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/EarnIncome)
+* [Identify Magic](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/IdentifyMagic)
+* [Learn a Spell](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/LearnSpell)

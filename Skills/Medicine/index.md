@@ -16,7 +16,7 @@ If you spend one minute examining a creature, you can make a medicine check to i
 ## Untrained Actions
 * [First Aid](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/FirstAid)
 
-## Untrained Actions
+## Trained Actions
 * [Treat Disease](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Disease)
 * [Treat Poison](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Poison)
 * [Treat Wounds](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/TreatWounds)

@@ -9,40 +9,25 @@ The gods of the forge are patrons of artisans who work with metal, from a humble
 
 ## Branch Features
 
-### Bonus Proficiencies
-When you choose this domain, you gain proficiency with heavy armour and smith’s tools.
-
-### Bonus Spells
-As a forge cleric, you gain the following spells once you can cast spells of that level. Once you gain a domain spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
-
-If you have a domain spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Identify, Searing Smite |
-| 2nd | Heat Metal, Magic Weapon |
-| 3rd | Elemental Weapon, Protection from Energy |
-| 4th | Fabricate, Wall of Fire |
-| 5th | Animate Objects, Creation |
-
-### Artisan's Blessing
-
-<div style="margin-top:-10px;"></div>
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
-#### **Prerequisite:** Channel Divinity
-*You can use your Channel Divinity to create simple items.*
-
-You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
-
-The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
-
-The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
+ 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Identify](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#identify), [Searing Smite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#searing-smite) | 2 Character Points per Spell |
+| 2nd | Heat Metal, Magic Weapon | 4 Character Points per Spell |
+| 3rd | Elemental Weapon, Protection from Energy | 6 Character Points per Spell |
+| 4th | Fabricate, Wall of Fire | 8 Character Points per Spell |
+| 5th | Animate Objects, Creation | 110 Character Points per Spell |
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Blessing of the Forge   | 5  | - |  
+| Blessing of the Forge   | 5  | - |
+| Artisan's Blessing      | -  | Channel Divinity |
 | Soul of the Forge       | 10 | 3rd Level Spells and Blessing of the Forge |  
 | Saint of Forge and Fire | 80 | 8th Level Spells and Soul of the Forge |  
 
@@ -57,20 +42,33 @@ At the end of a long rest, you can touch one nonmagical object that is a suit of
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
+#### Artisan's Blessing
+
+<div style="margin-top:-10px;"></div>
+ 
+##### **Prerequisite:** Channel Divinity
+*You can use your Channel Divinity to create simple items.*
+
+You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.
+
+The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual’s end, magically forming even nonmetal parts of the creation.
+
+The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.
+
 ### Soul of the Forge
 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Forge
-Your mastery of the forge grants you special abilities:
-* You gain resistance to fire damage.
-* While wearing heavy armour, you gain a +1 bonus to DR.
+*Your mastery of the forge grants you special abilities.*
+
+You are resistant to fire damage. Additionally, while wearing heavy armour, you gain a +1 bonus to DR.
 
 ### Saint of Forge and Fire
 
 <div style="margin-top:-10px;"></div>
  
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and Saint of Forge and Fire
-Your blessed affinity with fire and metal becomes more powerful:
-* You gain immunity to fire damage.
-* While wearing heavy armour, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+*Your blessed affinity with fire and metal becomes more powerful.*
+
+You are immune to fire damage. Additionally, while wearing heavy armour, you are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks.

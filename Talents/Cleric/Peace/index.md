@@ -11,38 +11,27 @@ Clerics devoting themselves to peace preside over the signing of treaties and th
 
 ## Branch Features
 
-### Bonus Proficiency
-When you take your first talent from this branch, you are trained in your choice of the Insight, Performance or Persuasion skill.
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
  
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
- 
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Heroism, Sanctuary |
-| 2nd | Aid, Warding Bond | 
-| 3rd | Beacon of Hope, Sending | 
-| 4th | Aura of Purity, Resilient Sphere | 
-| 5th | Greater Restoration, Telepathic Bond | 
-
-### Balm of Peace
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
-*You can make your very presence a soothing balm.*
-
-Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2d6 + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Heroism](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#heroism), [Sanctuary](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#sanctuary) | 2 Character Points per Spell |
+| 2nd | Aid, Warding Bond | 4 Character Points per Spell |
+| 3rd | Beacon of Hope, Sending | 6 Character Points per Spell |
+| 4th | Aura of Purity, Resilient Sphere | 8 Character Points per Spell |
+| 5th | [Greater Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Restoration/#greater-restoration), Telepathic Bond | 10 Character Points per Spell |
 
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Emboldening Bond | 5  | - |  
-| Protective Bond  | 10 | 3rd Level Spells and Emboldening Bond |  
-| Expansive Bond   | 80 | 8th Level Spells and Protective Bond   |  
+| Emboldening Bond | 5  | - |
+| Balm of Peace    | -  | Channel Divinity |
+| Protective Bond  | 10 | 3rd Level Spells and Emboldening Bond |
+| Expansive Bond   | 80 | 8th Level Spells and Protective Bond   |
 
 ### Emboldening Bond
  
@@ -55,10 +44,19 @@ You choose a number of willing creatures within 30 feet of you (this can include
 
 You can use this feature a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
 
+#### Balm of Peace
+
+<div style="margin-top:-10px;"></div>
+ 
+##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+*You can make your very presence a soothing balm.*
+
+Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2dR + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.
+
 ### Protective Bond 
  
 <div style="margin-top:-10px;"></div>
- 
+
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Emboldening Bond 
 *The bond that you forge between people helps them to protect each other.* 
 

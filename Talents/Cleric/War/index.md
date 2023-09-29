@@ -8,39 +8,29 @@ grand_parent: Talents
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry as well as gods of destruction and pillage and gods of conquest and domination.
 
 ## Branch Features
- 
-### Bonus Proficiencies
-When you take your first talent from this branch, you gain proficiency with four martial weapon groups and heavy armour.
 
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
  
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Divine Favor, Shield of Faith |
-| 2nd | Magic Weapon, Spiritual Weapon| 
-| 3rd | Crusader’s Mantle, Spirit Guardians | 
-| 4th | Freedom of Movement, Stoneskin | 
-| 5th | Flame Strike, Hold Monster | 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Divine Favour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour), [Shield of Faith](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#shield-of-faith) | 2 Character Points per Spell |
+| 2nd | Magic Weapon, Spiritual Weapon| 4 Character Points per Spell |
+| 3rd | Crusader’s Mantle, Spirit Guardians | 6 Character Points per Spell |
+| 4th | Freedom of Movement, Stoneskin | 8 Character Points per Spell |
+| 5th | Flame Strike, Hold Monster | 10 Character Points per Spell |
 
-### Guided Strike
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
-*Your diety grants supernatural accuracy to your strikes.* 
-
-On your turn, when you would roll to hit for an attack, you can instead use your Channel Divinity to take 20 for the attack.
 
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| War Priest         | 5  | - |  
-| War God’s Blessing | 10 | 3rd Level Spells and War Priest |  
-| Avatar of Battle   | 80 | 8th Level Spells and War God’s Blessing |  
+| War Priest         | 5  | - |
+| Guided Strike      | -  | Channel Divinity |
+| War God’s Blessing | 10 | 3rd Level Spells and Guided Strike |
+| Avatar of Battle   | 80 | 8th Level Spells and War God’s Blessing |
 
 ### War Priest 
 <div style="margin-top:-10px;"></div>
@@ -48,15 +38,24 @@ On your turn, when you would roll to hit for an attack, you can instead use your
 #### **Cost:** 5 Character Points
 *Your god blesses you with an additional fanaticism while strike your enemies.* 
 
-When you use the Strike action, you can make one addtional Strike action without taking the multiattack pentalty. 
+When you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you gain a bounus to the damage roll with weapon attacks equal to your martial feat die. 
 
 You can use this ability a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
+
+#### Guided Strike
+
+<div style="margin-top:-10px;"></div>
+ 
+##### **Prerequisite:** Channel Divinity
+*Your diety grants supernatural accuracy to your strikes.* 
+
+When you would roll to hit for an attack, you can instead use your Channel Divinity to take 20 for the attack roll.
 
 ### War God’s Blessing
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and War Priest<br>**Actions:** Free
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Guided Strike<br>**Actions:** Free
 *You grant the inspiration of your deity to an ally’s strikes.* 
 
 On your turn you can use your Channel Divinity to grant a creature within 30 feet of you the ability to take 20 on their next attack roll, instead of rolling to hit.
@@ -68,4 +67,4 @@ On your turn you can use your Channel Divinity to grant a creature within 30 fee
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Spells and War God’s Blessing
 *Your faith shields you, allowing you to stand strong against many attacks.*
 
-You gain resistance to bludgeoning, piercing, and slashing damage from non-magical attacks.
+You are resistant to bludgeoning, piercing, and slashing damage from non-magical attacks.

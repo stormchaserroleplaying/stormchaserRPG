@@ -16,11 +16,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
  
 | Spell Level | Spells | Cost |
 |:-----------:|:------:|:----:|
-| 1st | [Divine Favour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour), [Protection from Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#protection-from-evil-and-good) |   
-| 2nd | Barkskin, Moonbeam |  
-| 3rd | Spirit Guardians, Thunder Step |  
-| 4th | Guardian of Nature, Stoneskin |  
-| 5th | Cone of Cold, Wrath of Nature |  
+| 1st | [Divine Favour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour), [Protection from Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#protection-from-evil-and-good) | 2 Character Points per Spell |
+| 2nd | Barkskin, Moonbeam | 4 Character Points per Spell |
+| 3rd | Spirit Guardians, Thunder Step | 6 Character Points per Spell |
+| 4th | Guardian of Nature, Stoneskin | 8 Character Points per Spell |
+| 5th | Cone of Cold, Wrath of Nature | 10 Character Points per Spell |
 
 ## Talents
 

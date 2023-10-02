@@ -15,7 +15,7 @@ When you take your first druid talent, you learn Druidic, the secret language of
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Wild Shape     | 5   | - |
-| Wild Companion | 5   | 1 Other Druid Talent* |
+| Wild Companion | 5   | 1 Other Druid Talent |
 | Timeless Body  | 40  | 9th Level Spells and 5 Other Druid Talents |
 | Beast Spells   | 40  | 9th Level Spells and 5 Other Druid Talents |
 | Archdruid      | 100 | 10th Level Spells and 6 Other Druid Talents |
@@ -64,21 +64,21 @@ When you cast the spell in this way, the familiar is a fey instead of a beast, a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 40 Character Points<br>**Prerequisite:**9th Level Spells and 5 Other Druid Talents
+#### **Cost:** 40 Character Points<br>**Prerequisite:** 9th Level Spells and 5 Other Druid Talents
 The primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
 ### Beast Spells
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 40 Character Points<br>**Prerequisite:**9th Level Spells and 5 Other Druid Talents
+#### **Cost:** 40 Character Points<br>**Prerequisite:** 9th Level Spells and 5 Other Druid Talents
 You can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren’t able to provide material components.
 
 ### Archdruid
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:**10th Level Spells and 6 Other Druid Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Other Druid Talents
 You are one with nature. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 Additionally, you can use your Wild Shape at 1st level an unlimited number of times, and you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren’t consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.

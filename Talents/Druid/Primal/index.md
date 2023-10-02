@@ -9,14 +9,14 @@ Those druids that have learned the ways of primal druidism generally look to the
 
 ## Branch Features
 
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
-
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Heroism, Protection from Evil and Good |   
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
+ 
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
+ 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Divine Favour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour), [Protection from Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#protection-from-evil-and-good) |   
 | 2nd | Barkskin, Moonbeam |  
 | 3rd | Spirit Guardians, Thunder Step |  
 | 4th | Guardian of Nature, Stoneskin |  
@@ -50,7 +50,7 @@ Your Wild Shape ability gains the following benefits:
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Enhanced Wild Shape
 *The claws and teeth of your beast shapes have been imbued with the divine power of nature.* 
 
-All Strike actions made while you are transformed using your Wild Shape are considered to be magical.
+When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) while you are transformed using your Wild Shape, those attacks are considered to be magical.
 
 ### Elemental Wild Shape
 

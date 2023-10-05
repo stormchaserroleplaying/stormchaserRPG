@@ -43,9 +43,11 @@ As your character goes on adventures and overcomes challenges, they gain experie
 ## Purchasing Improved Attributes
 A veteran adventurer may have trained or honed their natural abilities well enough to improve one of their six base attributes. While even the most determined development isn’t enough to turn complete ineptitude into gifted competence, a hard-working adventurer can hone their existing strengths considerably.
 
-The first and second time a that PC improves an attribute, it costs 5 character points and adds +1 to an attribute of their choice. The third improvement to their attributes costs 10 character points, the fifth 15, and so forth. Each improvement adds +1 to the attribute, potentially improving its modifier.
+Increasing an attribute uses the same character point value scale as at character creation. When you increase an attribute, you pay the difference in cost between the attribute's current value and its new value (see table below).
 
-| New Attribute | Point Cost |
+If you have a species or background bonus to an attribute, disregard this for the purposes of calculating the cost of your attribute increase. Thus, if you have a species or background bonus to an attribute, you can attain a higher value for less character points.
+
+| New Attribute | Character Point Cost |
 |:---------:|:----------:|
 | 7 | 2 |
 | 8 | 2 |

@@ -22,3 +22,5 @@ You have 3 mana with which to cast your spells of 1st level and higher. To cast 
 
 ## Stamina
 Your character's stamina defines how tough your character is in combat and other dangerous situations. You start with stamina equal to your Constitution score. This is also your **stamina maximum**.
+
+You can increase your stamina maximum by increasing your Constitution score, or increasing your [recovery die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Die/Recovery/) size.

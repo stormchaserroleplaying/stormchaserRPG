@@ -80,36 +80,4 @@ If you have a species or background bonus to an attribute, disregard this for th
 | 10th | 20 |
 
 ## Stamina
-Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your class multiplier to calculate your new stamina maximum. For example, if your warrior has a Constitution score of 17 and increases his Constitution score from 17 to 18, then his stamina maximum then increases by 4 from 68 to 72.
-
-## Starting Wealth
-The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.
-
-Note that this table assumes a standard fantasy game. Low-fantasy games might award only half this value, while high-fantasy games might double the value. It is assumed that some of this treasure is consumed in the course of an adventure (such as potions and scrolls) and that some of the less useful items are sold for half value so more useful gear can be purchased.
-
-###### Starting Wealth
-
-| Character Value | Wealth |
-|----------------:|-------:|
-| 150 Character Points* | - |
-| 160 Character Points  | 60 gp |
-| 175 Character Points  | 120 gp |
-| 190 Character Points  | 239 gp |
-| 210 Character Points  | 393 gp |
-| 230 Character Points  | 542 gp |
-| 255 Character Points  | 691 gp |
-| 280 Character Points  | 1339 gp |
-| 310 Character Points  | 1987 gp |
-| 340 Character Points  | 2912 gp |
-| 375 Character Points  | 4022 gp |
-| 410 Character Points  | 4947 gp |
-| 460 Character Points  | 5872 gp |
-| 510 Character Points  | 6797 gp |
-| 575 Character Points  | 7629 gp |
-| 640 Character Points  | 12363 gp |
-| 720 Character Points  | 17097 gp |
-| 800 Character Points  | 21831 gp |
-| 900 Character Points  | 28458 gp |
-| 1000 Character Points | 35085 gp |
-
-*For starting PCs, see backgrounds and character starting equipment.
+Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your recovery die multiplier to calculate your new stamina maximum. For example, if your character has a d10 recovery die and a Constitution score of 17 and increases their Constitution score from 17 to 18, then their stamina maximum then increases by 4 from 68 to 72.

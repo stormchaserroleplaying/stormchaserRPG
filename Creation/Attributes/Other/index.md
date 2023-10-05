@@ -17,7 +17,7 @@ Prior to any attack roll, a martial feat, or feat for short, can be declared. Th
 
 The feat die determines the feat's success. This is a d4 and can be enlarged by taking talents from the martial feat talent tree. If the feat die meets a DC (typically 3, but higher at GM discretion) and the attack hits, then the feat succeeds. If the feat die is not equal to or higher than the DC, or the overall attack misses, then the feat fails as well.
 
-### Mana
+## Mana
 You have 3 mana with which to cast your spells of 1st level and higher. To cast one of these spells, you must expend an amount of mana equal to the spell’s level. You regain all expended mana when you finish a long rest.
 
 ## Stamina

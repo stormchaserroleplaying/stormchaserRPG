@@ -23,3 +23,6 @@ For example, if a character attempts to climb up a dangerous cliff, the Game Mas
 
 ## Skills with Different Abilities
 Normally, a skill is associated with a specific attribute. For example, intimidation usually uses Charisma. However, the skill check might reasonably be governed by a different attribute. In such cases, the GM might ask for a check using an unusual combination of attribute and skill, or you might ask your GM if you can use a different attribute. For example, if a half-orc barbarian uses a display of raw strength to intimidate an enemy, the GM might ask for an intimidation check using Strength, even though intimidation is normally associated with Charisma. Thus, the barbarian may add their Strength bonus to in place of their Charisma bonus to the intimidation check.
+
+### Overrolling
+When the exact total of a check is relevant (for example, when determining the quality of a crafted item), for every die in your dice pool beyond the first that makes the target DC, you gain a +1 to your final result. For every natural 20 beyond the first, you gain a +2 to your final result.

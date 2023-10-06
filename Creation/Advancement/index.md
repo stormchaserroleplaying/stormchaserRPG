@@ -40,6 +40,12 @@ As your character goes on adventures and overcomes challenges, they gain experie
 * You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus the total cost to go from untrained to accented is 6 points.
 * When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
+## Expertise
+You can have expertise with a weapon, skill, tool, or defence that they are already trained with. A character with expertise benefits from an additional +1d on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.
+
+## Mastery
+You can be a master with a weapon, skill, tool, or defence that you are already an expert at. A character with mastery benefits from a third +1d on their d20 roll. Additionally, passive scores that benefit from mastery increase by an additional +1, for a total of +7 together with the proficiency and expertise bonuses.
+
 ## Purchasing Improved Attributes
 A veteran adventurer may have trained or honed their natural abilities well enough to improve one of their six base attributes. While even the most determined development isn’t enough to turn complete ineptitude into gifted competence, a hard-working adventurer can hone their existing strengths considerably.
 

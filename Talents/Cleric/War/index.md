@@ -42,11 +42,11 @@ When you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Com
 
 You can use this ability a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
-#### Guided Strike
+### Guided Strike
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity and War Priest
 *Your diety grants supernatural accuracy to your strikes.* 
 
 When you would roll to hit for an attack, you can instead use your Channel Divinity to take 20 for the attack roll.

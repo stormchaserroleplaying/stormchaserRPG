@@ -38,11 +38,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points
 You learn one necromancy cantrip of your choice from any spell list. When you cast any necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 
-#### Touch of Death
+### Touch of Death
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity and Reaper
 *You can use Channel Divinity to destroy another creature’s life force by touch.*
 
 When you hit a creature with a melee attack, you can use Channel Divinity to deal extra profane damage to the target. The damage equals 5× the cleric's maximum spell level.

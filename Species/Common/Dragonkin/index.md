@@ -72,7 +72,7 @@ You are descended from a specific colour of dragon. Choose one type from the tab
 | Sapphire | True Neutral    | 2d12 Sacred   | 30 ft. range, 5 ft. sphere<br>(Wisdom defence) |
 | Topaz    | Neutral Good    | 2d12 Energy   | 30 ft. range, 5 ft. sphere<br>(Constitution defence) |
 
-Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above. Additionally, your phenotype grants you one of the following features:
+Your breath weapon and damage resistance are determined by your phenotype, as shown in the table above.
 
 ## Size
 Dragonkin are tall and strongly built, often standing close to six-and-a-half feet tall and weighing three hundred pounds or more. Your size is Medium.

@@ -42,11 +42,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 
 If you cast a spell using mana and target an ally with the spell, that ally can use a free action at the beginning of their next turn to make one weapon or cantrip attack against a creature of your choice that you can see. If the spell targets more than one ally, you choose the ally who can make the attack.
 
-#### Order’s Demand
+### Order’s Demand
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity and Voice of Authority<br>**Actions:** 2
 *You exert an intimidating presence over others.*
 
 You present your holy symbol and use your Channel Divinity. Make a charm attack vs the Wisdom defence of each creature of your choice within 30 feet of you that can see or hear you. On a hit, a creature is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the end of your next turn, or until the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creature takes any damage. You can also cause any of the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) creatures to drop what they are holding when they are hit by your attack.

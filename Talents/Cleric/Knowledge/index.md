@@ -40,11 +40,11 @@ Once per short rest, you can use this feature to gain one of the following benef
 * You cast the [Comprehend Languages](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#comprehend-languages) spell using 1 action and requiring no components.
 * You gain +1d in your choice of the following skills for 1 hour: Arcana, History, Nature, or Theology.
 
-#### Knowledge of the Ages
+### Knowledge of the Ages
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Blessings of Knowledge and Channel Divinity<br>**Actions:** 2
 *You can use your Channel Divinity to tap into a divine well of knowledge.*
 
 When you would roll to [Recall Knowledge](), you can instead use your Channel Divinity to take 20 for the skill check.

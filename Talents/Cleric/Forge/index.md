@@ -42,11 +42,11 @@ At the end of a long rest, you can touch one nonmagical object that is a suit of
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
-#### Artisan's Blessing
+### Artisan's Blessing
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity
+#### **Prerequisite:** Blessing of the Forge and Channel Divinity
 *You can use your Channel Divinity to create simple items.*
 
 You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armour, ten pieces of ammunition, a set of tools, or another metal object (see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/) for examples of these items). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.

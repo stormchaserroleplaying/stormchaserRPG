@@ -42,11 +42,11 @@ Make an evocation attack roll vs the Dexterity defence of a creature within 5 fe
 
 You can use this feature a number of times equal to your spellcasting ability modifier and you regain all expended uses when you finish a long rest.
 
-#### Destructive Wrath
+### Destructive Wrath
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity
+#### **Prerequisite:** Channel Divinity and Wrath of the Storm
 *You wield the power of the storm with unchecked ferocity.*
 
 Before you roll electric or sonic damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.

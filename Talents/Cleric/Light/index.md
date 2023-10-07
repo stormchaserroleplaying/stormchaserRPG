@@ -61,7 +61,7 @@ This ability triggers once per round and automatically on the first attack to hi
 
 <div style="margin-top:-10px;"></div>
  
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity and Warding Flare<br>**Actions:** 2
 *You can harness sunlight, banishing darkness and dealing sacred damage to your foes.* 
 
 You use your Channel Divinity and present your holy symbol. Any magical darkness within 30 feet of you is dispelled. 

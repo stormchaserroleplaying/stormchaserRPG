@@ -44,11 +44,11 @@ You choose a number of willing creatures within 30 feet of you (this can include
 
 You can use this feature a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
 
-#### Balm of Peace
+### Balm of Peace
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity and Emboldening Bond<br>**Actions:** 2
 *You can make your very presence a soothing balm.*
 
 Using your Channel Divinity, you can move up to your speed without provoking opportunity attacks. When you move within 5 feet of any other creature during this action, you can restore an amount of stamina to that creature equal to 2dR + your spellcasting attribute modifier. A creature can receive this healing only one time on each of your turns when you use this ability.

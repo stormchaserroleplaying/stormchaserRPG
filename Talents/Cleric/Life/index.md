@@ -40,11 +40,11 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 
 Whenever you cast a spell using 1 or more mana to restore stamina to a creature, the creature regains additional stamina equal to 2 + the amount of mana used.
 
-#### Preserve Life
+### Preserve Life
 
 <div style="margin-top:-10px;"></div>
  
-##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity and Disciple of Life<br>**Actions:** 2
 *You can use your Channel Divinity to heal the badly injured.* 
 
 You present your holy symbol and evoke healing energy that can restore stamina up to a number of recovery dice equal to your maximum spell level. Choose any creatures within 30 feet of you and divide those recovery dice among them. Each selected creature can roll the recovery dice granted to them, plus your spellcasting attribute modifier, and recover that amount of stamina. You can’t use this feature on an undead or a construct.

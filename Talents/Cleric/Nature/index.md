@@ -45,11 +45,11 @@ You spend 10 minutes focusing your diety's power into a seed, flower, or other t
 
 You can have only one verdant weapon at a time. If you imbue a second seed or plant, your first immediately becomes a mundane specimen.
 
-#### Charm Animals and Plants
+### Charm Animals and Plants
 
 <div style="margin-top:-10px;"></div>
 
-##### **Prerequisite:** Channel Divinity<br>**Actions:** 2
+#### **Prerequisite:** Channel Divinity and Verdant Weapon<br>**Actions:** 2
 *You use your divine magic to influence animals and plants.*
 
 You present your holy symbol and invoke the name of your deity. Using your Channel Divinity, make a charm attack vs the Wisdom defence of each beast or plant creature that can see you within 30 feet of you. If it hits, a creature is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for 1 minute or until it takes damage. While it is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you, it is friendly to you and other creatures you designate.

@@ -30,7 +30,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Emboldening Bond | 5  | - |
 | Balm of Peace    | -  | Channel Divinity |
-| Protective Bond  | 10 | 3rd Level Spells and Emboldening Bond |
+| Protective Bond  | 20 | 3rd Level Spells and Emboldening Bond |
 | Expansive Bond   | 80 | 8th Level Spells and Protective Bond   |
 
 ### Emboldening Bond
@@ -57,7 +57,7 @@ Using your Channel Divinity, you can move up to your speed without provoking opp
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Emboldening Bond 
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Emboldening Bond 
 *The bond that you forge between people helps them to protect each other.* 
 
 When a creature affected by your Emboldening Bond takes damage, that damage is shared equally among all other bonded creatures within 60 feet of the creature that took the damage. Any remaining damage is taken by the creature that was hit. 

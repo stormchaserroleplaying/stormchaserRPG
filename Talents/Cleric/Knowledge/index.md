@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Blessings of Knowledge | 5  | - |
 | Knowledge of the Ages  | -  | Channel Divinity |
-| Read Thoughts          | 10 | 3rd Level Spells and Blessings of Knowledge |  
+| Read Thoughts          | 20 | 3rd Level Spells and Blessings of Knowledge |  
 | Visions of the Past    | 80 | 8th Level Spells and Read Thoughts |  
 
 ### Blessings of Knowledge
@@ -53,7 +53,7 @@ When you would roll to [Recall Knowledge](), you can instead use your Channel Di
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
 *You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.*
 
 Choose one creature that you can see within 60 feet of you. Make a divination attack vs the creature’s Wisdom defense. If the attack misses, then you can’t use this feature on the same creature again until you finish a long rest.

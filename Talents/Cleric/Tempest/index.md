@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Wrath of the Storm | 5  | - |
 | Destructive Wrath  | -  | Channel Divinity |
-| Thunderbolt Strike | 10 | 3rd Level Spells and Wrath of the Storm |  
+| Thunderbolt Strike | 20 | 3rd Level Spells and Wrath of the Storm |  
 | Stormborn          | 80 | 8th Level Spells and Thunderbolt Strike |  
 
 ### Wrath of the Storm
@@ -57,7 +57,7 @@ If the damage is from a spell cast by you, then you must expend mana equal to th
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Wrath of the Storm
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Wrath of the Storm
 When you deal electric damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
 ### Stormborn

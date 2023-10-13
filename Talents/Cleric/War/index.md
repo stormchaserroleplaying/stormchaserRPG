@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | War Priest         | 5  | - |
 | Guided Strike      | -  | Channel Divinity |
-| War God’s Blessing | 10 | 3rd Level Spells and Guided Strike |
+| War God’s Blessing | 20 | 3rd Level Spells and Guided Strike |
 | Avatar of Battle   | 80 | 8th Level Spells and War God’s Blessing |
 
 ### War Priest 
@@ -55,7 +55,7 @@ When you would roll to hit for an attack, you can instead use your Channel Divin
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Guided Strike<br>**Actions:** Free
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Guided Strike<br>**Actions:** Free
 *You grant the inspiration of your deity to an ally’s strikes.* 
 
 On your turn you can use your Channel Divinity to grant a creature within 30 feet of you the ability to take 20 on their next attack roll, instead of rolling to hit.

@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Disciple of Life | 5  | - |
 | Preserve Life    | -  | Channel Divinity |
-| Blessed Healer   | 10 | 3rd Level Spells and Disciple of Life |  
+| Blessed Healer   | 20 | 3rd Level Spells and Disciple of Life |  
 | Supreme Healing  | 80 | 8th Level Spells and Blessed Healer |  
 
 ### Disciple of Life
@@ -53,7 +53,7 @@ You present your holy symbol and evoke healing energy that can restore stamina u
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Disciple of Life
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Disciple of Life
 *The healing spells that you cast on others heal you as well.* 
 
 When you cast a spell using 1 or more mana that restores stamina to a creature other than you, you regain stamina equal to 2 + the amount of mana used.

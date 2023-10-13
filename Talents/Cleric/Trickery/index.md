@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Blessing of the Trickster | 5  | - |
 | Invoke Duplicity          | -  | Channel Divinity |
-| Cloak of Shadows          | 10 | 3rd Level Spells and Blessing of the Trickster |  
+| Cloak of Shadows          | 20 | 3rd Level Spells and Blessing of the Trickster |  
 | Improved Duplicity        | 80 | 8th Level Spells and Cloak of Shadows  |  
 
 ### Blessing of the Trickster
@@ -56,7 +56,7 @@ For the duration, you can cast spells as though you were in the illusion’s spa
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Trickster<br>**Actions:** 2
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Trickster<br>**Actions:** 2
 *Your trickster diety hides you from the sight.*
 
 Using your Channel Divinity, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.

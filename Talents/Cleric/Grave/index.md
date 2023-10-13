@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Circle of Mortality      | 5  | - |  
 | Eyes of the Grave        | 5  | - |
 | Path to the Grave        | -  | Channel Divinity |
-| Sentinel at Death’s Door | 10 | 3rd Level Spells, Circle of Mortality and Eyes of the Grave |  
+| Sentinel at Death’s Door | 20 | 3rd Level Spells, Circle of Mortality and Eyes of the Grave |  
 | Keeper of Souls          | 80 | 8th Level Spells and Sentinel at Death’s Door |  
 
 ### Circle of Mortality
@@ -67,7 +67,7 @@ You choose one creature you can see within 30 feet of you, cursing it until the 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells, Circle of Mortality and Eyes of the Grave<br>**Action:** Free<br>**Trigger:** A creature in range suffers a critical hit.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells, Circle of Mortality and Eyes of the Grave<br>**Action:** Free<br>**Trigger:** A creature in range suffers a critical hit.
 *You gain the ability to impede death’s progress.* 
 
 When you or a creature that you can see within 30 feet of you suffers a critical hit, that hit is turned into into a normal hit. Any effects triggered by a critical hit are canceled. 

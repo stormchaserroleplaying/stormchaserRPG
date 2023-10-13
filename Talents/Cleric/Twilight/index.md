@@ -29,7 +29,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Eyes of Night      | 5  | - |  
 | Vigilant Blessing  | 5  | - |
 | Twilight Sanctuary | -  | Channel Divinity |
-| Steps of Night     | 10 | 3rd Level Spells, Eyes of the Night, Vigilant Blessing |
+| Steps of Night     | 20 | 3rd Level Spells, Eyes of the Night, Vigilant Blessing |
 | Twilight Shroud    | 80 | 8th Level Spells and Steps of Night  |
 
 ### Eyes of Night
@@ -67,7 +67,7 @@ Using your Channel Divinity, you present your holy symbol and a sphere of twilig
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells, Eyes of the Night, Vigilant Blessing <br>**Actions:** 1
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells, Eyes of the Night, Vigilant Blessing <br>**Actions:** 1
 *You can draw on the mystical power of night to rise into the air.* 
 
 When you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.

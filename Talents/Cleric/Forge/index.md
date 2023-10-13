@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Blessing of the Forge   | 5  | - |
 | Artisan's Blessing      | -  | Channel Divinity |
-| Soul of the Forge       | 10 | 3rd Level Spells and Blessing of the Forge |  
+| Soul of the Forge       | 20 | 3rd Level Spells and Blessing of the Forge |  
 | Saint of Forge and Fire | 80 | 8th Level Spells and Soul of the Forge |  
 
 ### Blessing of the Forge
@@ -59,7 +59,7 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Forge
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessing of the Forge
 *Your mastery of the forge grants you special abilities.*
 
 You are resistant to fire damage. Additionally, while wearing heavy armour, you gain a +1 bonus to DR.

@@ -27,8 +27,8 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Enhanced Wild Shape  | 5  | Wild Shape |   
-| Primal Strike        | 10 | 3rd Level Spells and Enhanced Wild Shape|   
-| Elemental Wild Shape | 25 | 5th Level Spells and Primal Strike |   
+| Primal Strike        | 20 | 3rd Level Spells and Enhanced Wild Shape|   
+| Elemental Wild Shape | 30 | 5th Level Spells and Primal Strike |   
 | Mutable Body         | 50 | 5th Level Spells and Elemental Wild Shape |   
 
 ### Enhanced Wild Shape 
@@ -47,7 +47,7 @@ Your Wild Shape ability gains the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Enhanced Wild Shape
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Enhanced Wild Shape
 *The claws and teeth of your beast shapes have been imbued with the divine power of nature.* 
 
 When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) while you are transformed using your Wild Shape, those attacks are considered to be magical.
@@ -56,7 +56,7 @@ When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actio
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Primal Strike
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Primal Strike
 *The elements of the world are now part of your being.* 
 
 You can spend up to 5 mana to use your Wild Shape to transform into an elemental with a CR maximum equal to the amount of mana expended. 

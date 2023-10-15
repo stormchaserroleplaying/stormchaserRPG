@@ -27,8 +27,8 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Thorn Growth     | 5  | - |   
-| Plant Stride     | 10 | 3rd Level Spells and Thorn Growth |   
-| Burning Thorns   | 25 | 5th Level Spells and Plant Stride |   
+| Plant Stride     | 20 | 3rd Level Spells and Thorn Growth |   
+| Burning Thorns   | 30 | 5th Level Spells and Plant Stride |   
 | Scorching Spirit | 50 | 7th Level Spells and Burning Thorns |  
 
 ### Thorn Growth
@@ -49,14 +49,14 @@ These benefits last for 10 minutes, until you lose all the temporary stamina or 
 ### Plant Stride
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Thorn Growth<br>**Actions:** 1
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Thorn Growth<br>**Actions:** 1
 Moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 ### Burning Thorns
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 30 feet of you.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Extra Attack<br>**Actions:** Free<br>**Trigger:** You are hit by an attack from a creature within 30 feet of you.
 *You quickly expel some of your thorns with a burst of fiery energy.*
 
 Make an evocation attack roll vs the Dexterity defence of a creature within 30 feet of you that hit you with an attack within the last round. On a hit, it takes 1d8 piercing and 1d8 fire damage, or half as much on a miss.

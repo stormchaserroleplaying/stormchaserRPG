@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Thorn Growth     | 5  | - |   
 | Plant Stride     | 10 | 3rd Level Spells and Thorn Growth |   
-| Burning Thorns   | 25 | 5th Level Spells and Palnt Stride |   
+| Burning Thorns   | 25 | 5th Level Spells and Plant Stride |   
 | Scorching Spirit | 50 | 7th Level Spells and Burning Thorns |  
 
 ### Thorn Growth
@@ -39,7 +39,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 *You can sprout thorns and vines from your body. They protect you from incoming blows and can be used offensively.* 
 
 You can expend mana to sprout these vines. You gain 1d4 + 4 temporary stamina for the 1st point of mana spent and 5 additional temporary stamina for each point of mana spent thereafter. The maximum amount of mana that you may spend for one use is equal to the maximum spell level that you can cast. While this feature is active, you gain the following benefits:
-* You gain +1d to Strength ability checks and indirect Stregth defence.
+* You gain +1d to Strength ability checks and Strength defence vs attacks that are neither melee nor ranged.
 * Your thorns count as unarmed melee weapons with the [close](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#close) and [light](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#light) properties dealing 1dM + your Strength modifier piercing damage. 
 * When you successfully grapple a creature, the target takes 1d4 piercing damage.
 * You have a climbing speed equal to your walking speed.

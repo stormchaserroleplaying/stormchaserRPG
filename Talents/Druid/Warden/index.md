@@ -50,9 +50,9 @@ On subsequent turns, you can use 1 Action to move the spirit up to 60 feet to a 
 
 The spirit lasts for 1 minute or until you become incapacitated. You must finish a short or long rest to use this ability again. 
 
-**Ox Spirit:** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to Strength checks and indirect Strength defense checks.
+**Ox Spirit:** The sturdy ox spirit blesses those around it with its strength and fortitude. Each creature of your choice inside the aura when the spirit first appears gains temporary stamina equal to 8 + your spellcasting attribute modifier. Additionally, when you and your allies are inside the aura, each gains +1d to Strength checks and Strength defense vs attacks that are not melee or ranged.
 
-**Wolf Spirit:** The strength the pack is provided by the wolf spirit. As a free action on your turn, you can grant +1d to the next attack roll of a creature that is inside the aura of the spirit; this can only be done once per round. Additionally, you and your allies gain +1d on Perception checks while in the aura.
+**Wolf Spirit:** The strength the pack is provided by the wolf spirit. Once per round, as a free action on your turn, you can grant +1d to the next attack roll of a creature that is inside the aura of the spirit. Additionally, you and your allies gain +1d on Perception checks while in the aura.
 
 **Lion Spirit:** With its powerful presence, the lion spirit grants inspiration and protection. You and your allies gain +1d on skill checks made to detect creatures within the aura of the spirit. Additionally, when you cast a spell (whether you are inside or outside the aura) that restores stamina to a creature then each creature of your choice within the aura also regains stamina equal to 3 + your spellcasting attribute modifier.
 
@@ -92,6 +92,6 @@ Any fey or beast that you summon that ends its turn within the aura of Spirits o
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Spiritual Balm
 *In your last breath you call for aid from those you have protected.* 
 
-When you are reduced to 0 stamina or are incapacitated against your will, you gain the benefits of the Conjure Animals spell as if cast using 9 mana, though not requiring to be sustained each round. Four CR 2 or lower beasts of your choice appear within 20 feet of you. Their duty is to protect you from harm and attack your enemies. 
+When you are reduced to 0 stamina, or are incapacitated against your will, you gain the benefits of a 9th level Conjure Animals spell. This spell must not be sustained. Four CR 2 or lower beasts of your choice appear within 20 feet of you. Their duty is to protect you from harm and attack your enemies. 
 
 The spell lasts for one hour, or until you dismiss it (no action required). Once you use this ability, you can't use it again until you finish a long rest. 

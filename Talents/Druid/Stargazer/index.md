@@ -47,8 +47,8 @@ While holding the map, you have the following benefits:
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Summon the Stars | 5  | - |   
-| Wheel of Fortune | 10 | 3rd Level Spells and Summon the Stars |   
-| The Magician     | 25 | 5th Level Spells and Wheel of Fortune |   
+| Wheel of Fortune | 20 | 3rd Level Spells and Summon the Stars |   
+| The Magician     | 30 | 5th Level Spells and Wheel of Fortune |   
 | The Moon         | 50 | 7th Level Spells and The Magician |   
 
 ### Summon the Stars
@@ -72,7 +72,7 @@ The constellation lasts for 10 minutes. It ends early if you dismiss it (no acti
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon the Stars<br>**Action:** Free
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon the Stars<br>**Action:** Free
 *You seek guidance from the stars for sings of what the next day may bring.* 
 
 Whenever you finish a long rest, roll a die. You gain access to the below based on whether you rolled and even or odd number on the die:
@@ -87,7 +87,7 @@ You can use this free action a number of times equal to your spellcasting attrib
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Wheel of Fortune
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Wheel of Fortune
 *The constellation of The Magician represents raw power and inspiration.* 
 
 This constellation is summoned in addition to the constellation chosen by your Summon the Stars talent. The 1d8 of The Chariot and The Empress becomes 2d8. While The High Priestess is active, you have a flying speed of 20 feet and can hover.

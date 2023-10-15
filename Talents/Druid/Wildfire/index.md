@@ -40,7 +40,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 
 Using 2 Actions, you can expend mana to summon your wildfire spirit. The maximum amount of mana that you may spend at once is equal to the maximum level of spells that you can cast. 
 
-The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. When it appears, make a evocation attack vs the Dexterity defence of each creature within 10 feet of the spirit (other than you). On a hit the creature takes 2d6 fire damage.
+The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. When it appears, make an evocation attack vs the Dexterity defence of each creature within 10 feet of the spirit (other than you). On a hit the creature takes 2d6 fire damage.
 
 The spirit is friendly to you and your companions and obeys your commands. Statistics for the spirit are provided in the stat block below. You determine the spirit’s appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
@@ -97,9 +97,9 @@ In addition, when you cast a spell with a range other than self, the spell can o
 
 When a small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. As a free action at the beginning of your turn, you can extinguish the spectral flame there and either heal or deal fire damage to a creature that has passed through a flame during its last turn. The healing or fire damage equals 2d10 + your spellcasting attribute modifier. 
 
-You can use this ability once per round, and in total a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
+You can use this ability once per round and it has a number of uses equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
-### Blazing Reival
+### Blazing Revival
 
 <div style="margin-top:-10px;"></div>
 

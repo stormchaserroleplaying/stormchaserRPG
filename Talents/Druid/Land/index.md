@@ -93,12 +93,12 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Knowledge of the Land I   | 5  | - |  
-| Nature's Ward             | 5  | 3rd Level Spells and Knowledge of the Land I |
+| Nature's Ward             | 15 | 3rd Level Spells and Knowledge of the Land I |
 | Knowledge of the Land II  | 5  | 3rd Level Spells and Knowledge of the Land I | 
-| Power of the Land         | 20 | 5th Level Spells and Nature's Ward |
+| Power of the Land         | 25 | 5th Level Spells and Nature's Ward |
 | Knowledge of the Land III | 5  | 5th Level Spells and Knowledge of the Land II |
-| Nature's Sanctuary        | 40 | 7th Level Spells and Power of the Land |
-| Knowledge of the Land IV  | 10 | 7th Level Spells and Knowledge of the Land III |
+| Nature's Sanctuary        | 45 | 7th Level Spells and Power of the Land |
+| Knowledge of the Land IV  | 5  | 7th Level Spells and Knowledge of the Land III |
  
 ### Knowledge of the Land I
  
@@ -115,7 +115,7 @@ You can pass through non-magical plants without being slowed by them and without
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Knowledge of the Land I
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 3rd Level Spells and Knowledge of the Land I
 You can’t be [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) or [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) by beasts, elementals, fey or plants, and you are immune to poison and disease.
 
 ### Knowledge of the Land II
@@ -129,7 +129,7 @@ Select a second type of terrain to add to your Knowledge of the Land I talent.
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 5th Level Spells and Nature's Ward
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Nature's Ward
 *You are able to call upon the spirits of the land to augment your magical abilities.* 
 
 As part of a long rest, you can perform a ritual that allows you to change the branch spells list you know to any of the other branch spell lists shown above. 
@@ -145,7 +145,7 @@ Select a third type of terrain to add to your Knowledge of the Land I talent.
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 40 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land<br>**Action:** Free<br>**Trigger:** A beast, element, fey or plant attempts to attack you.
+#### **Cost:** 45 Character Points<br>**Prerequisite:** 7th Level Spells and Power of the Land<br>**Action:** Free<br>**Trigger:** A beast, element, fey or plant attempts to attack you.
 *Many creatures of the natural world sense your connection to nature and become hesitant to attack you.* 
 
 Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check vs your warding skill. If it fails, then the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours.
@@ -154,5 +154,5 @@ Before a beast, elemental, fey or plant attempts to attack you, it first must ma
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 7th Level Spells and Knowledge of the Land III
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 7th Level Spells and Knowledge of the Land III
 Select a fourth type of terrain to add to your Knowledge of the Land I talent.

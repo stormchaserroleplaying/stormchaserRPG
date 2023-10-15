@@ -30,7 +30,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-----------:|:------:|:----:|
 | 1st | [Create or Destroy Water](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#create-or-destroy-water), [Fog Cloud](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#fog-cloud) | 2 Character Points per Spell |
 | 2nd | Misty Step, Warding Wind | 4 Character Points per Spell |
-| 3rd | Tidal Wave, Water Breathing | 6Character Points per Spell |
+| 3rd | Tidal Wave, Water Breathing | 6 Character Points per Spell |
 | 4th | Control Water, Storm Sphere | 8 Character Points per Spell |
 | 5th | Control Winds, Maelstrom | 10 Character Points per Spell |
  
@@ -39,7 +39,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-----------:|:------:|:----:|
 | 1st | [Burning Hands](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#burning-hands), [Silent Image](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Illusion/#silent-image) | 2 Character Points per Spell |
 | 2nd | Blur, Dust Devil | 4 Character Points per Spell |
-| 3rd | Inflamed Feet, Wall of Sand | 4 Character Points per Spell |
+| 3rd | Inflamed Feet, Wall of Sand | 6 Character Points per Spell |
 | 4th | Blight, Hallucinatory Terrain | 8 Character Points per Spell |
 | 5th | Insect Plague, Wall of Stone | 10 Character Points per Spell |
  
@@ -107,7 +107,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 #### **Cost:** 5 Character Points
 *You know how to overcome the challenges of your chosen terrain.* 
 
-When in your chosen terrain, you gain +1d on Nature, Stealth and Survival skill checks.
+When in your chosen terrain, you gain +1d on Nature, Perception, Stealth and Survival checks.
 
 You can pass through non-magical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard. In addition, you gain +1d to your defense against plants that are magically created or manipulated to impede movement, such those created by the *entangle* spell.
 
@@ -149,7 +149,6 @@ Select a third type of terrain to add to your Knowledge of the Land I talent.
 *Many creatures of the natural world sense your connection to nature and become hesitant to attack you.* 
 
 Before a beast, elemental, fey or plant attempts to attack you, it first must make a Wisdom defense check vs your warding skill. If it fails, then the creature must choose a different target, or the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours.
-
 
 ### Knowledge of the Land IV
  

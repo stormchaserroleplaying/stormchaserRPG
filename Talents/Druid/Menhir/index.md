@@ -27,8 +27,8 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Spirit Sense     | 5  | - |
-| Pace Magic       | 10 | 3rd Level Spells and Spirit Sense |
-| Walk the Lines   | 25 | 5th Level Spells and Pace Magic |
+| Pace Magic       | 20 | 3rd Level Spells and Spirit Sense |
+| Walk the Lines   | 30 | 5th Level Spells and Pace Magic |
 | Scorching Spirit | 50 | 7th Level Spells and Walk the Lines |
 
 ### Spirit Sense
@@ -42,17 +42,17 @@ You can open your awareness to detect otherworldy and magical beings. Until the 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirit Sense<br>**Actions:** 1
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirit Sense<br>**Actions:** 1
 *A menhir savant learns to identify and tap into ley lines in different types of terrain.* 
 
-Using 1 action, you tap into the magic of a nearby ley line and increase your spellcasting ability bonus by +1 until the end of your next turn. You can use this ability a number of times per day equal to their base spellcasting ability modifier.
+Using 1 action, you tap into the magic of a nearby ley line and increase your spellcasting ability bonus by +1 until the end of your next turn. You can use this ability a number of times per day equal to your base spellcasting ability modifier.
 
 ### Walk the Lines
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th level Spells and Place Magic
-You use your connection to ley lines to cast [Transport via Plants]() a number of times per day equal to their spellcasting ability modifier.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th level Spells and Place Magic
+You use your connection to ley lines to cast [Transport via Plants]() a number of times per day equal to your spellcasting ability modifier.
 
 ### Scorching Spirit
 

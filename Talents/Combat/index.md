@@ -46,35 +46,6 @@ Every blow that hits your enemies make you feel closer to victory, making you sh
 * When you score a critical hit with an attack roll or reduce a creature to 0 stamina, you can make one [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) as a free action.
 * Whenever a creature you can see within 30 feet is reduce to 0 stamina, you go into a fervour gaining temporary stamina equal to your recovery die + your Constitution modifier.
 
-## Heavily Armoured
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Proficiency with Medium Armour
-You have trained to master the use of heavy armour. You gain proficiency with heavy armour.
-
-If you are already proficient with heavy armour, instead while you are wearing heavy armour, critical hits made against you are treated as normal hits and you ignore the bulky property for heavy armour that you are wearing.
-
-You can take this talent twice.
-
-## Lightly Armoured
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points
-You have trained to master the use of light armour. You gain proficiency with light armour.
-
-If you are already proficient with light armour, instead, while you are unarmoured or wearing light armour, your speed increases by 5 feet.
-
-## Moderately Armoured
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Proficiency with Light Armour
-You have trained to master the use of medium armour. You gain proficiency with medium armour.
-
-If you are already proficient with medium armour, instead, while you are wearing medium armour, you can add 1 to the armour's maximum Dexterity bonus to Dexterity defence. Additionally, you ignore the bulky and noisy properties of medium armour that you are wearing.
-
 ## Quick Reflexes
 
 <div style="margin-top:-10px;"></div>

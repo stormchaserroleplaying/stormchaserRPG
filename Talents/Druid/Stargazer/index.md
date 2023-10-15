@@ -62,7 +62,7 @@ You can expend 1 mana and choose which constellation you summon from the list be
 
 The constellation lasts for 10 minutes. It ends early if you dismiss it (no action required), become incapacitated, die, use this talent again, or use your Wild Shape.
 
-**The Chariot.** A brave warrior riding The Chariot springs into action. As part of the action when you first summon this constellation and using 1 action on your subsequent turns while it lasts, you can make a ranged spell attack, launching a shard of a star, against one creature within 60 feet of you. On a hit, the attack deals to 1d8 + your spellcasting attribute modifier sacred damage.
+**The Chariot.** A brave warrior riding The Chariot springs into action. As part of the action when you first summon this constellation and using 1 action on your subsequent turns while it lasts, you can make a ranged spell attack, launching a shard of a star, against one creature within 60 feet of you. On a hit, the attack deals 1d8 + your spellcasting attribute modifier in sacred damage.
 
 **The Empress.** The Empress brings you nurturing abundance when called. Whenever you cast a spell using mana that restores stamina to a creature, you or another creature within 30 feet of you can regain stamina equal to 1d8 + your spellcasting attribute modifier.
 
@@ -77,11 +77,11 @@ The constellation lasts for 10 minutes. It ends early if you dismiss it (no acti
 
 Whenever you finish a long rest, roll a die. You gain access to the below based on whether you rolled and even or odd number on the die:
 
-**Boon (even).** As a free action on your turn you may grant a creature that you can see within 30 feet of you +1d to their next attack roll or skill check. 
+**Boon (even).** Once per round, as a free action on your turn, you may grant a creature that you can see within 30 feet of you +1d to their next attack roll or skill check. 
 
-**Doom (odd).** As a free action on your turn you may grant a creature that you can see within 30 feet of you -1d to their next attack roll or skill check. 
+**Doom (odd).** Once per round, as a free action on your turn you may grant a creature that you can see within 30 feet of you -1d to their next attack roll or skill check. 
 
-You can use this free action a number of times equal to your spellcasting attribute modifier, though only one use per round. You regain all expended uses when you finish a long rest.
+You can use this free action a number of times equal to your spellcasting attribute modifier. You regain all expended uses when you finish a long rest.
 
 ### The Magician
 

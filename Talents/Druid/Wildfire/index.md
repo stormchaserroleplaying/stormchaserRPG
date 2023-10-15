@@ -27,8 +27,8 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Talent | CP | Prerequisites |
 |:-----------|:------:|:------------|
 | Summon Wildfire Spirit | 5  | 1st Level Spells and Wild Shape |   
-| Enhance Bond           | 10 | 3rd Level Spells and Summon Wildfire Spirt |   
-| Cauterising Flame      | 25 | 5th Level Spells and Enhance Bond |   
+| Enhance Bond           | 20 | 3rd Level Spells and Summon Wildfire Spirt |   
+| Cauterising Flame      | 30 | 5th Level Spells and Enhance Bond |   
 | Blazing Revival        | 50 | 7th Level Spells and Cauterising Flame |   
 
 ### Summon Wildfire Spirit
@@ -81,7 +81,7 @@ The spirit exists for 1 hour, until it is reduced to 0 stamina, until you use th
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon Wildfire Spirit
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Summon Wildfire Spirit
 *The bond with your wildfire spirit enhances your destructive and restorative spells.* 
 
 Whenever you cast a spell that deals fire damage or restores stamina while your wildfire spirit is summoned, roll a d8, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
@@ -92,7 +92,7 @@ In addition, when you cast a spell with a range other than self, the spell can o
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Enhanced Bond<br>**Actions:** Free<br>**Trigger:** A creature passes through the spectral flame.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Enhanced Bond<br>**Actions:** Free<br>**Trigger:** A creature passes through the spectral flame.
 *You can turn death into magical flames that can heal or incinerate.* 
 
 When a small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. As a free action at the beginning of your turn, you can extinguish the spectral flame there and either heal or deal fire damage to a creature that has passed through a flame during its last turn. The healing or fire damage equals 2d10 + your spellcasting attribute modifier. 

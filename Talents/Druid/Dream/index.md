@@ -9,26 +9,26 @@ Dream druids hail from regions that have strong ties to the hedge and its dreaml
 
 ## Branch Features
 
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
-
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
-
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Protection from Evil and Good, Sleep |   
-| 2nd | Prayer of Healing, Nathair's Mischief |  
-| 3rd | Aura of Vitality, Fear |  
-| 4th | Aura of Purity, Hallucinatory Terrain |  
-| 5th | Dispel Evil and Good, Hold Monster |  
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
+ 
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
+ 
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Protection from Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#protection-from-evil-and-good), [Sleep](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#sleep) | 2 Character Points per Spell |
+| 2nd | Prayer of Healing, Nathair's Mischief | 4 Character Points per Spell |
+| 3rd | Aura of Vitality, Fear | 6 Character Points per Spell |
+| 4th | Aura of Purity, Hallucinatory Terrain | 8 Character Points per Spell |
+| 5th | Dispel Evil and Good, Hold Monster | 10 Character Points per Spell |
 
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Balm of the Summer Court      | 5  | - |   
-| Hearth of Moonglow and Shadow | 10 | 3rd Level Spells and Balm of the Summer Court |   
-| Hidden Paths                  | 25 | 5th Level Spells and Hearth of Moonglow and Shadow |   
+| Hearth of Moonglow and Shadow | 20 | 3rd Level Spells and Balm of the Summer Court |   
+| Hidden Paths                  | 30 | 5th Level Spells and Hearth of Moonglow and Shadow |   
 | Walker in Dreams              | 50 | 7th Level Spells and Hidden Paths |   
 
 ### Balm of the Summer Court
@@ -48,7 +48,7 @@ You regain all expended dice when you finish a long rest.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Balm of the Summer Court
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Balm of the Summer Court
 *Home can be wherever you are.*
 
 During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
@@ -61,7 +61,7 @@ The sphere vanishes at the end of the rest or when you leave the sphere.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Hearth of Moonglow and Shadow<br>**Actions:** 1 or 2
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Hearth of Moonglow and Shadow<br>**Actions:** 1 or 2
 *You can use the hidden, magical pathways that some fey use to traverse space in the blink of an eye.* 
 
 You can use 1 Action to teleport up to 60 feet to an unoccupied space you can see. Alternatively, you can use 2 Actions to teleport one willing creature that you touch up to 30 feet to an unoccupied space that you can see.

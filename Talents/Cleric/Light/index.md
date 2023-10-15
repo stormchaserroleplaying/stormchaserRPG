@@ -41,7 +41,7 @@ Additionally, make a spellcasting attack vs the Constitution defense of each hos
 |:-------|:--:|:--------------|
 | Warding Flare         | 5  | - |
 | Radiance of the Dawn  | -  | Channel Divinity |
-| Improved Flare        | 10 | 3rd Level Spells and Warding Flare |  
+| Improved Flare        | 20 | 3rd Level Spells and Warding Flare |  
 | Corona of Light       | 80 | 8th Level Spells and Improved Flare |  
 
 ### Warding Flare
@@ -72,7 +72,7 @@ Additionally, make an evocation attack vs the Constitution defense of each hosti
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Warding Flare<br>**Action:** Free<br>**Trigger:** A creature within 30 feet of you is hit by an attack.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Warding Flare<br>**Action:** Free<br>**Trigger:** A creature within 30 feet of you is hit by an attack.
 
 You can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you.
 

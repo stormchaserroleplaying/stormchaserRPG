@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Arcane Initiate       | 5  | - |
 | Arcane Abjuration I   | -  | Channel Divinity |
-| Spell Breaker         | 10 | 3rd Level Spells and Arcane Initiate |
+| Spell Breaker         | 20 | 3rd Level Spells and Arcane Initiate |
 | AArcane Abjuration II | -  | 3rd Level Spells and Arcane Abjuration I |
 | Arcane Mastery        | 80 | 8th Level Spells and Spell Breaker |
 
@@ -52,7 +52,7 @@ A turned creature must spend its turns trying to move as far away from you as it
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Initiate
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Initiate
 When you restore stamina to an ally with a spell which you spend one mana or more on, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the amount of mana used to cast the healing spell.
 
 ### Arcane Abjuration II

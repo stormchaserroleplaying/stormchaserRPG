@@ -28,7 +28,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Reaper                  | 5  | - |  
 | Touch of Death          | -  | Channel Divinity |  
-| Inescapable Destruction | 10 | 3rd Level Spells and Reaper  |  
+| Inescapable Destruction | 20 | 3rd Level Spells and Reaper  |  
 | Improved Reaper         | 80 | 8th Level Spells and Inescapable Destruction |  
 
 ### Reaper
@@ -51,7 +51,7 @@ When you hit a creature with a melee attack, you can use Channel Divinity to dea
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Reaper
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Reaper
 *Your ability to channel negative energy becomes more potent.* 
 
 Profane damage dealt by your divine spells and Channel Divinity options ignore resistance to profane damage.

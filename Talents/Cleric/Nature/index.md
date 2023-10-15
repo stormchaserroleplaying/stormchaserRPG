@@ -30,7 +30,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Verdant Weapon           | 5  | - |
 | Charm Animals and Plants | -  | Channel Divinity |
-| Dampen Elements          | 10 | 3rd Level Spells and Verdant Weapon |
+| Dampen Elements          | 20 | 3rd Level Spells and Verdant Weapon |
 | Pristine Weapon          | 30 | 5th Level Spells and Verdant Weapon |  
 | Master of Nature         | 80 | 8th Level Spells and Dampen Elements |  
 
@@ -58,7 +58,7 @@ You present your holy symbol and invoke the name of your deity. Using your Chann
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Verdant Weapon<br>**Action:** Free<br>**Trigger:** You or an ally within 30 feet takes cold, corrosive, electric, fire, or sonic damage.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Verdant Weapon<br>**Action:** Free<br>**Trigger:** You or an ally within 30 feet takes cold, corrosive, electric, fire, or sonic damage.
 *Your attunement with nature allows you to reduce the strength of the elements.*
 
 When you or another creature within 30 feet of you takes cold, corrosive, electric, fire, or sonic damage, you grant resistance to the creature against that instance of the damage. 

@@ -30,7 +30,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 |:-------|:--:|:--------------|
 | Voice of Authority    | 5  | - |
 | Order's Demand        | -  | Channel Divinity |
-| Embodiment of the Law | 10 | 3rd Level Spells and Voice of Authority |  
+| Embodiment of the Law | 20 | 3rd Level Spells and Voice of Authority |  
 | Order's Wrath         | 80 | 8th Level Spells and Embodiment of the Law |  
 
 ### Voice of Authority 
@@ -55,7 +55,7 @@ You present your holy symbol and use your Channel Divinity. Make a charm attack 
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Voice of Authority 
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Voice of Authority 
 *You have become remarkably adept at channeling magical energy to compel others.*
 
 If you cast a charm spell using 1 or more mana, then you can change the spell’s casting time to 1 Action for this casting, provided that the spell’s casting time is normally 2 Actions.

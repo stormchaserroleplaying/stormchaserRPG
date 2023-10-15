@@ -105,7 +105,7 @@ Your Halo of Spores damage die increases to 1d8.
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Spreading Spores
 *The fungal spores in your body alter you.*
 
-You can’t be [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/), and any critical hit against you counts as a normal hit instead, unless you’re [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/).
+You can’t be [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), or [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/), and any critical hit against you is reduced by one hit, unless you’re [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/).
 
 ### Halo of Spores IV
 

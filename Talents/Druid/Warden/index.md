@@ -33,8 +33,8 @@ When you take your first talent in this branch, you learn the Sylvan language. Y
 |:-------|:--:|:--------------|
 | Spirits of the Wild | 5  | - |   
 | Locate Hedgeway     | 5  | Spirits of the Wild |   
-| Empowered Allies    | 10 | 3rd Level Spells and Spirits of the Wild |   
-| Spiritual Balm      | 25 | 5th Level Spells and Empowered Allies |   
+| Empowered Allies    | 20 | 3rd Level Spells and Spirits of the Wild |   
+| Spiritual Balm      | 30 | 5th Level Spells and Empowered Allies |   
 | Protect the Keeper  | 50 | 7th Level Spells and Spiritual Balm |   
 
 ### Spirits of the Wild
@@ -69,7 +69,7 @@ You can detect the distance and direction to the nearest portal to the Hedge wit
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirits of the Wild
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Spirits of the Wild
 *Beasts and fey that you conjure are more resilient than normal.* 
 
 Any beast or fey summoned or created by a spell that you cast gains the following benefits:
@@ -80,7 +80,7 @@ Any beast or fey summoned or created by a spell that you cast gains the followin
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Empowered Allies
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Empowered Allies
 *The aura from your Spirits of the Wild provides extra protection to those creatures that you summon.* 
 
 Any fey or beast that you summon that ends its turn within the aura of Spirits of the Wild recovers stamina equal to 3 + your spellcasting attribute modifier.

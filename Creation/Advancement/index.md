@@ -9,7 +9,9 @@ As your character goes on adventures and overcomes challenges, they gain experie
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
-| Armour Proficiency | 5 |
+| Armour Training | 1 |
+| Armour Expertise | 5 |
+| Armour Mastery | 15 |
 | Defence Training | 5 |
 | Defence Expertise | 15 |
 | Defence Mastery | 35 |

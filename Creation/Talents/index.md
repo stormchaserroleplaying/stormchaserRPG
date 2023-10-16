@@ -9,12 +9,14 @@ When creating a character, after generating your attribute scores, you typically
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
+| Armour Expertise | 5 |
 | Defence Training | 5 |
 | Spell School Training | 5 |
 | Weapon Training | 2 |
 | Skill Training | 2 |
 | Tool Expertise | 2 |
 | Language (Accented) | 2 |
+| Armour Training | 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |

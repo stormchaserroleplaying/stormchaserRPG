@@ -47,7 +47,7 @@ The armour tables show the cost, weight and other properties of the common types
 | Splint | Arms | +2 | 13 | Bulky, coverage 2, hard, noisy | 5 lb. | 50 gp |
 | Splint | Torso | +3 | 13 | Bulky, coverage 8-16, hard, noisy | 25 lb. | 100 gp |
 | Splint | Legs | +2 | 13 | Bulky, coverage 1 5-7, hard, noisy | 15 lb. | 50 gp |
-| Plate | Arms | +2 | 15 | Bulky, coverage 2, hard, noisy | 15 lb. | 375 gp |
+| Plate | Arms | +2 | 15 | Bulky, coverage 2, hard, noisy, parry | 15 lb. | 375 gp |
 | Breastplate | Torso | +5 | 15 | Coverage 8-16, hard, shirt | 20 lb. | 200 gp |
 | Plate | Legs | +2 | 15 | Bulky, coverage 1 5-7, hard, noisy | 15 lb. | 925 gp |
 | Plate Helmet | Head | — | 13 | Coverage 4, hard, visor | 10 lb. | 45 gp |

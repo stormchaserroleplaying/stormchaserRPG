@@ -74,7 +74,7 @@ These sleeves are constructed of metal strips reinforced with chain mail. A spli
 This shirt or jacket is constructed of hard-boiled leather carefully sewn together and reinforced with riveted metal segments.
 
 ### Chain Torso Armour Piece
-This armour piece is a shirt of chain mail. When worn without limb pieces, it is counted as medium armour and acts as a chain shirt.
+This armour piece is a shirt of chain mail. When worn without limb pieces, it is counted as light armour and acts as a chain shirt.
 
 ### Hide Torso Armour Piece
 This armour piece is a shirt, wrap, or jacket constructed of the tanned and preserved skin of a thick-skinned beast.

@@ -69,7 +69,7 @@ The shield is able to be used just as effectively whilst you are laying on the g
 ### Noisy
 Noisy armour reduces your ability to move quietly, due to metal components scraping against each other. When you wear Noisy armour, you suffer -1d on any Stealth checks to move silently. Other situations, such as hiding without movement or magical silence, are up to the GM.
 
-The penalties from multiple pieces of bulky armour stack.
+The penalties from multiple pieces of noisy armour stack.
 
 ### Non-Lethal
 Non-lethal shields are designed to incapacitate a target without killing it. Shields with this property deal their full damage when dealing non-lethal damage.

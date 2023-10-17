@@ -18,24 +18,24 @@ The armour tables show the cost, weight and other properties of the common types
 | Brigandine | Arms | +1 | 9 | Clothing | 1 lb. | 5 gp |
 | Brigandine | Torso | +1 | 9 | Clothing, coverage 14-16 | 10 lb. | 15 gp |
 | Brigandine | Legs | +1 | 9 | Clothing | 2 lb. | 5 gp |
-| Fur Cloak | Cloak | — | 9 | +1 DR vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, bulky, clothing | 5 lb. | 5 gp |
-| Overcoat | Cloak | — | 9 | +1 DR vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png">, bulky, clothing | 5 lb. | 5 gp |
-| Hide Cloak | Cloak | — | 9 | +1 DR vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png">, bulky, clothing | 5 lb. | 5 gp |
+| Fur Cloak | Cloak | +1 vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
+| Overcoat | Cloak | +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
+| Hide Cloak | Cloak | +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
 | Buckler | Shield | — | 9 | Bashing (1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
 
 ##### Medium Armour
 
 | Armour | Piece | DR | Strength | Properties | Weight | Cost |
 |:-------|:-----:|:--:|:--------:|:-----------|-------:|-----:|
-| Hide | Arms | +1 | 9 | Clothing | 2 lb. | 1 gp |
+| Hide | Arms | +1, +1 vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | Clothing | 2 lb. | 1 gp |
 | Hide | Torso | +2 | 9 | Clothing, coverage 14-16, soak <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 7 lb. | 7 gp |
-| Hide | Legs | +1 | 9 | Clothing | 3 lb. | 2 gp |
-| Scale | Arms | +1 | 11 | Bulky, coverage 2, noisy | 5 lb. | 10 gp |
+| Hide | Legs | +1, +1 vs <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | Clothing | 3 lb. | 2 gp |
+| Scale | Arms | +1, +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 11 | Bulky, coverage 2, noisy | 5 lb. | 10 gp |
 | Scale | Torso | +3 | 11 | Bulky, coverage 11-16, noisy, soak <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 15 lb. | 30 gp |
-| Scale | Legs | +1 | 11 | Bulky, coverage 1, noisy | 10 lb. | 10 gp |
-| Chain | Arms | +1 | 13 | Bulky, coverage 2, noisy | 5 lb. | 12 gp |
+| Scale | Legs | +1, +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 11 | Bulky, coverage 1, noisy | 10 lb. | 10 gp |
+| Chain | Arms | +1, +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 13 | Bulky, coverage 2, noisy | 5 lb. | 12 gp |
 | Chain Shirt | Torso | +4 | 13 | Concealed, coverage 11-16, shirt, soak <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 25 lb. | 50 gp |
-| Chain | Legs | +1 | 13 | Bulky, coverage 1, noisy | 10 lb. | 13 gp |
+| Chain | Legs | +1, +1 vs <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 13 | Bulky, coverage 1, noisy | 10 lb. | 13 gp |
 | Chain Coif | Head | — | 11 | Coverage 4 | 5 lb. | 15 gp |
 | Shield, wooden | Shield | — | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 5 lb. | 3 gp |
 | Shield, steel | Shield | — | 11 | Bashing (1d4 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), non-lethal, shield 2 | 6 lb. | 9 gp |

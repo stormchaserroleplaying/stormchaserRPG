@@ -26,8 +26,10 @@ Through a select, worthy few shines the power of the divine. Called paladins, th
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Actions:** 1 action
-You can use [Detect Evil](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level1/Divination/#detect-evil), as the spell, at will. You concentrate on a single item or individual within 60 feet and determine if it is evil. Additionally, studying the target for 3 rounds determines the strength of its aura. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+You always have the [Detect Evil](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-evil) spell prepared and it does not count against your number of spells prepared.
+
+Additionally, as an action, you can concentrate on a single item or individual that you can see within 60 feet and determine if it is evil. If you spend 3 actions studying the target, you determine the strength of its aura. You can spread these actions across up to three consecutive rounds.
 
 ### Lay on Hands
 
@@ -79,7 +81,7 @@ Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 4th Level Spells and 145 CP of Paladin Talents<br>**Actions:** 1 action
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 4th Level Spells and 145 CP of Paladin Talents<br>**Actions:** 1
 You can end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.

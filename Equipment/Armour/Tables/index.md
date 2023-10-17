@@ -21,7 +21,7 @@ The armour tables show the cost, weight and other properties of the common types
 | Fur Cloak | Cloak | +1 vs&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
 | Overcoat | Cloak | +1 vs&nbsp;<img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
 | Hide Cloak | Cloak | +1 vs&nbsp;<img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 9 | Bulky, clothing | 5 lb. | 5 gp |
-| Buckler | Shield | — | 9 | Bashing&nbsp;(1<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
+| Buckler | Shield | — | 9 | Bashing&nbsp;(1&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), finesse, light, non-lethal, parry, worn | 5 lb. | 5 gp |
 
 ##### Medium Armour
 
@@ -51,8 +51,8 @@ The armour tables show the cost, weight and other properties of the common types
 | Breastplate | Torso | +5 | 15 | Coverage 8-16, hard, shirt | 20 lb. | 200 gp |
 | Plate | Legs | +2 | 15 | Bulky, coverage 1 5-7, hard, noisy | 15 lb. | 925 gp |
 | Plate Helmet | Head | — | 13 | Coverage 4, hard, visor | 10 lb. | 45 gp |
-| Shield, wooden | Shield | — | 13 | Bashing&nbsp;(1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 10 lb. | 7 gp |
-| Shield, steel | Shield | — | 13 | Bashing&nbsp;(1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 15 lb. | 20 gp |
+| Shield, wooden | Shield | — | 13 | Bashing&nbsp;(1d6&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 10 lb. | 7 gp |
+| Shield, steel | Shield | — | 13 | Bashing&nbsp;(1d6&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">), bulky, non-lethal, shield 3, unwieldy | 15 lb. | 20 gp |
 | Shield, tower | Shield | — | 15 | Bulky, cover, shield 4 | 45 lb. | 30 gp |
 
 ##### Extras

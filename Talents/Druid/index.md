@@ -27,7 +27,7 @@ When you take your first druid talent, you gain access to the secret language of
 #### **Cost:** 10 Character Points
 You learn the [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-You have a separate pool of mana that you can draw upon to cast this spell. This pool is equal to your spellcasting attribute modifier and is replenished when you finish a long rest.
+You have a separate pool of mana that can only be used to cast this spell. This pool is equal to your spellcasting attribute modifier and is replenished when you finish a long rest.
 ### Wild Companion
 
 <div style="margin-top:-10px;"></div>

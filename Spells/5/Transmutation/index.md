@@ -36,7 +36,7 @@ Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stor
 When cast using 6 mana the following apply:
 The spell functions as above with the following exceptions:
 
-You transform into a medium-sized elemental.
+You transform into a medium-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +2dM total.
 
 *Air Elemental.* As above except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.<br>
 *Earth Elemental.* As above except that you gain a +4 bonus to your Strength score and a +5 natural DR bonus.<br>
@@ -46,7 +46,7 @@ You transform into a medium-sized elemental.
 When cast using 7 mana the following apply:
 The spell functions as above with the following exceptions:
 
-You transform into a large-sized elemental. Critical hits made against you are reduced by one hit.
+You transform into a large-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +3dM total.Critical hits made against you are reduced by one hit.
 
 *Air Elemental.* As above except that you gain a +2 bonus to your Strength score, +4 bonus to your Dexterity score and a +4 natural DR bonus.<br>
 *Earth Elemental.* As above except that you gain a +6 bonus to your Strength score, a -2 penalty to your Dexterity score, a +2 bonus to your Constitution score and a +6 natural DR bonus.<br>
@@ -56,7 +56,7 @@ You transform into a large-sized elemental. Critical hits made against you are r
 When cast using 8 mana the following apply:
 The spell functions as above with the following exceptions:
 
-You transform into a huge-sized elemental.
+You transform into a huge-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +4dM total.
 
 *Air Elemental.* As above except that you gain a +4 bonus to your Strength score, +6 bonus to your Dexterity score and a +4 natural DR bonus. You gain a fly speed of 120 feet.<br>
 *Earth Elemental.* As above except that you gain a +8 bonus to your Strength score, a -2 penalty to your Dexterity score, a +4 bonus to your Constitution score and a +6 natural DR bonus.<br>

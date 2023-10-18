@@ -76,7 +76,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 #### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
 *You can tap into your inner wellspring of magic to try to conjure success from failure.* 
 
-When you make an skill or spell school check that fails, you can spend mana to reroll a number of dice equal to the mana spent, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
+When you make a d20 roll that fails, you can spend mana to reroll a number of dice equal to the mana spent, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
 

@@ -31,17 +31,19 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 | Elemental Wild Shape | 30 | 5th Level Spells and Primal Strike |   
 | Mutable Body         | 50 | 5th Level Spells and Elemental Wild Shape |   
 
-### Enhanced Wild Shape 
+### Enhanced Wild Shape
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Wild Shape<br>**Actions:** 1
-*Your devotion to the beast within allows you to become more powerful animals.* 
+*Your devotion to the beast within allows you to become more powerful animals.*
 
-Your Wild Shape ability gains the following benefits:
-* You can cast Wild Shape with a single action.
-* While you are transformed by Wild Shape, you can use 1 action to expend 1 or more mana to recover 1d8 stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
-* You can transform into beasts with a CR maximum equal to the amount of mana expended.
+Your [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) spell is modified as follows:
+* You can cast the spell with 1 action.
+* When you roll damage for your form's natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), you deal additional damage equal to 1dM.
+* Your stamina and maximum stamina increase by 3 times the amount of mana expended for the duration.
+
+Additionally, while you are transformed by Beast Shape, you can use 1 action to expend 1 or more mana to recover 1dR stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
 	
 ### Primal Strike
 
@@ -57,9 +59,9 @@ When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actio
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Primal Strike
-*The elements of the world are now part of your being.* 
+*The elements of the world are now part of your being.*
 
-You can spend up to 5 mana to use your Wild Shape to transform into an elemental with a CR maximum equal to the amount of mana expended. 
+You learn the [Elemental Body](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#elemental-body) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day. This spell can be cast using the mana pool granted by your [Wild Shape](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Druid/#wild-shape) talent.
 
 ### Mutable Body
 

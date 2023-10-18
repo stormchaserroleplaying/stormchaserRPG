@@ -73,16 +73,16 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
 *You can tap into your inner wellspring of magic to try to conjure success from failure.* 
 
-When you make an ability check that fails, you can spend 1 mana to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
+When you make a d20 roll that fails, you can spend mana to reroll a number of dice equal to the mana spent, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
 Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Arcane Savant III

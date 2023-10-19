@@ -12,7 +12,7 @@ You try to force your way through a hostile creature's space.
 
 Stride and make an athletics check against the higher of the target's weapon skill and passive athletics score. The creature attempting the overrun has +1d on this check if it is larger than the target, or -1d if it is smaller.
 
-**Critical Success:** You can move through the target's space once this turn and do not provoke an attack of opportunity when leaving the target's reach. Additionally, the target takes damage equal to your recovery die plus your strength modifier.
+**Critical Success:** You can move through the target's space once this turn and do not provoke an attack of opportunity when leaving the target's reach. Additionally, the target takes damage equal to 1dM + your strength modifier.
 
 **Success:** You can move through the target's space once this turn and do not provoke an attack of opportunity when leaving the target's reach.
 

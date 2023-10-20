@@ -38,20 +38,20 @@ When cast using 1 mana the following apply:
 * You can take the form of small- or medium-sized beast.<br>
   a. If you take the form of a small-sized beast, you gain a +2 bonus to your Dexterity score and +1 natural DR bonus.<br>
   b. If you take the form of a medium-sized beast, you gain a +2 bonus to your Strength score and a +2 natural DR bonus.
-* Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) - a bite, claw, horn, or other appropriate attack. Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to the attack and damage rolls. On a hit, it does 1d4 (small) or 1d6 (medium) damage of an appropriate type - bludgeoning, piercing or slashing.
+* Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) - a bite, claw, horn, or other appropriate attack. Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, it does 1d4 (small) or 1d6 (medium) damage of an appropriate type - bludgeoning, piercing or slashing.
 * Your form can have one of the following special movement speeds: burrow 5 feet, fly 20 feet, swim 30 feet, climb 30 feet. This movement must be appropriate to the chosen form. If no special movement is selected, then you can increase your walking speed by 10 feet.
 * Choose one sense as a keen sense - hearing, sight or smell. You gain +1d to Perception checks using the chosen sense. Alternatively, you can choose that your form has low-light vision or darkvision to a range of 30 feet.
 
 When cast using 2 mana the following apply:
 * You can take the form of tiny- or large-sized beast.<br>
-  a. If you take the form of a tiny-sized beast, you gain a +4 bonus to your Dexterity score, a -2 penalty to your Strength score and +1 natural DR bonus.<br>
-  b. If you take the form of a large-sized beast, you gain a +4 bonus to your Strength score, a -2 penalty to your Dexterity score and a +3 natural DR bonus.
+  a. If you take the form of a tiny-sized beast, you gain a +3 bonus to your Dexterity score, a -1 penalty to your Strength score and +1 natural DR bonus.<br>
+  b. If you take the form of a large-sized beast, you gain a +3 bonus to your Strength score, a -1 penalty to your Dexterity score and a +3 natural DR bonus.
 * The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) is 1 (tiny) or 1d8 (large).
 * Choose an additional sense - hearing, sight or smell - as a keen sense, blindsight to a range of 10 feet, low-light vision, or darkvision.
-* Choose a special attack action that is appropriate to your form - [charge](), [constrict](), [grab](), [poison](), [pounce](), [rake](), [rend](), [trample]() or [trip]().
+* Choose a special attack action that is appropriate to your form - [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#charge), [Constrict](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#constrict), [Grab](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#grab), [Pack Tactics](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#pack-tactics). [Poison](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#poison), [Rake](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#rake), [Rend](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#rend) or [Trample](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#trample).
 
 When cast using 3 mana the following apply:
-* You can take the form of huge-sized beast. You gain a +6 bonus to your Strength score, a -4 penalty to your Dexterity score and a +5 natural DR bonus.
+* You can take the form of huge-sized beast. You gain a +5 bonus to your Strength score, a -3 penalty to your Dexterity score and a +5 natural DR bonus.
 * The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) is 2d6, and has a range of 10 feet.
 
 ## Catapult

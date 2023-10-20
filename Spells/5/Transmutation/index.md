@@ -15,7 +15,7 @@ grand_parent: Spells
 
 You magically assume the shape of a elemental - air, earth, fire or water. When the duration ends, you revert to your normal form, unless you expend further mana. You can revert to your normal form earlier by using 1 action on your turn. You automatically revert if you fall unconscious, drop to 0 stamina, or die.
 
-While you are transformed, the following rules apply all forms that you take:
+While you are transformed, the following rules apply all forms that you take:<br>
 * You retain all of your attribute scores and walking speed, though they can be modified as shown below depending on the chosen form. You also retain all your skill and defence proficiencies.
 * You can speak as normal while in this form, though the sound of your voice may be altered by the elemental you have chosen.
 * You can cast spells if they contain only a verbal component. Transforming doesn’t prevent you from sustaining a spell that you’ve already cast, or prevent you from taking actions that are part of a spell, such as *call lightning*, that you’ve already cast.
@@ -23,45 +23,46 @@ While you are transformed, the following rules apply all forms that you take:
 * Your gear is absorbed into your new form. Any persistent magical bonus granted by the gear still applies, however you cannot use any feature of your gear that requires you to activate it.
 * Your stamina and maximum stamina increase by 5 times the amount of mana expended for the duration.
 
-When cast using 5 mana the following apply:
-You transform into a small-sized elemental and gain darkvision to a range of 60 feet.
+When cast using 5 mana the following apply:<br>
+You transform into a small-sized elemental and gain darkvision to a range of 60 feet. Air, fire and water elementals can enter a hostile creature's space and stop there, and can move through a space as narrow as 1 inch wide without squeezing.
 
-Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to the attack and damage rolls. On a hit, 2d8 + 1dM damage of an appropriate type - slashing (air), bludgeoning (earth), fire (fire) or cold (water).
+Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, you do damage equal to 2d8 plus your chosen modifier of an appropriate type - slashing (air), bludgeoning (earth), fire (fire) or cold (water).
 
-*Air Elemental.* You gain a +2 bonus to your Dexterity score and a +2 natural DR bonus. You gain a fly speed of 60 feet. You can perform the [whirlwind]() special ability.<br>
-*Earth Elemental.* You gain a +2 bonus to your Strength score and a +4 natural DR bonus. You can perform the [earth glide]() special ability.<br>
-*Fire Elemental.*  You gain a +2 bonus to your Dexterity score and a +2 natural DR bonus. You have Resistance I to fire damage and Vulnerability I to cold damage. You can perform the [burn]() special ability.<br>
-*Water Elemental.* You gain a +2 bonus to your Constitution score and +4 natural DR bonus. You gain a swim speed of 60 feet and the ability to breathe underwater. You can perform the [vortex]() special ability.
+* *Air Elemental.* You gain a +2 bonus to your Dexterity score and a +2 natural DR bonus. You gain a fly speed of 60 feet. You can perform the [Whirlwind](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#whirlwind) special ability.
+* *Earth Elemental.* You gain a +2 bonus to your Strength score and a +4 natural DR bonus. You can perform the [Earth Glide](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#earth-glide) special ability and deal double damage against objects and structures.
+* *Fire Elemental.*  You gain a +2 bonus to your Dexterity score and a +2 natural DR bonus. You have Resistance I to fire damage and Vulnerability I to cold damage. You can perform the [Burn](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#burn) special ability. You shed bright light in a 20-foot radius and dim light in additional 20 feet.
+* *Water Elemental.* You gain a +2 bonus to your Constitution score and +4 natural DR bonus. You gain a swim speed of 60 feet and the ability to breathe underwater. You can perform the [Whelm](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Special/Shapechange/#whelm) special ability.
 
-When cast using 6 mana the following apply:
+When cast using 6 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
-You transform into a medium-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +2dM total.
+You transform into a medium-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, 2d8 + 1dM total.
 
-*Air Elemental.* As above except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.<br>
-*Earth Elemental.* As above except that you gain a +4 bonus to your Strength score and a +5 natural DR bonus.<br>
-*Fire Elemental.*  As above except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.<br>
-*Water Elemental.* As above except that you gain a +4 bonus to your Constitution score and +5 natural DR bonus.
+* *Air Elemental.* As above except that you gain a +3 bonus to your Dexterity score and a +3 natural DR bonus.
+* *Earth Elemental.* As above except that you gain a +3 bonus to your Strength score and a +5 natural DR bonus.
+* *Fire Elemental.*  As above except that you gain a +3 bonus to your Dexterity score and a +3 natural DR bonus.
+* *Water Elemental.* As above except that you gain a +3 bonus to your Constitution score and +5 natural DR bonus.
 
-When cast using 7 mana the following apply:
+When cast using 7 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
-You transform into a large-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +3dM total.Critical hits made against you are reduced by one hit.
+Critical hits made against you are reduced by one hit.
 
-*Air Elemental.* As above except that you gain a +2 bonus to your Strength score, +4 bonus to your Dexterity score and a +4 natural DR bonus.<br>
-*Earth Elemental.* As above except that you gain a +6 bonus to your Strength score, a -2 penalty to your Dexterity score, a +2 bonus to your Constitution score and a +6 natural DR bonus.<br>
-*Fire Elemental.*  As above except that you gain a +4 bonus to your Dexterity score, a +2 bonus to your Constitution score and a +4 natural DR bonus.<br>
-*Water Elemental.* As above except that you gain a +2 bonus to your Strength score, a -2 penalty to your Dexterity score, +6 bonus to your Constitution score and +6 natural DR bonus.
+* *Air Elemental.* As above except that you gain a +1 bonus to your Strength score, +4 bonus to your Dexterity score and a +4 natural DR bonus.
+* *Earth Elemental.* As above except that you gain a +5 bonus to your Strength score, a -2 penalty to your Dexterity score, a +1 bonus to your Constitution score and a +6 natural DR bonus.
+* *Fire Elemental.*  As above except that you gain a +4 bonus to your Dexterity score, a +2 bonus to your Constitution score and a +4 natural DR bonus.
+* *Water Elemental.* As above except that you gain a +1 bonus to your Strength score, a -2 penalty to your Dexterity score, +5 bonus to your Constitution score and +6 natural DR bonus.
 
-When cast using 8 mana the following apply:
+When cast using 8 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
-You transform into a huge-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, +4dM total.
+You transform into a huge-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 2dM, 2d8 + 2dM total.
 
-*Air Elemental.* As above except that you gain a +4 bonus to your Strength score, +6 bonus to your Dexterity score and a +4 natural DR bonus. You gain a fly speed of 120 feet.<br>
-*Earth Elemental.* As above except that you gain a +8 bonus to your Strength score, a -2 penalty to your Dexterity score, a +4 bonus to your Constitution score and a +6 natural DR bonus.<br>
-*Fire Elemental.*  As above except that you gain a +6 bonus to your Dexterity score, a +4 bonus to your Constitution score and a +4 natural DR bonus.<br>
-*Water Elemental.* As above except that you gain a +4 bonus to your Strength score, a -2 penalty to your Dexterity score, +8 bonus to your Constitution score and +6 natural DR bonus. You gain a swim speed of 120 feet.
+* *Air Elemental.* As above except that you gain a +2 bonus to your Strength score, +5 bonus to your Dexterity score and a +4 natural DR bonus. You gain a fly speed of 120 feet.
+* *Earth Elemental.* As above except that you gain a +6 bonus to your Strength score, a -2 penalty to your Dexterity score, a +2 bonus to your Constitution score and a +6 natural DR bonus.
+* *Fire Elemental.*  As above except that you gain a +5 bonus to your Dexterity score, a +3 bonus to your Constitution score and a +4 natural DR bonus.
+* *Water Elemental.* As above except that you gain a +2 bonus to your Strength score, a -2 penalty to your Dexterity score, +6 bonus to your Constitution score and +6 natural DR bonus. You gain a swim speed of 120 feet.
+
 
 ## Hot Ashes To Trees
 *5th Level Transmutation*<br>

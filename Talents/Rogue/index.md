@@ -29,11 +29,9 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The source of the advantage must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have advantage on the attack roll. The source of the advantage must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
-
-The amount of extra damage dice increases by 1 die for every 2 rogue talents that you have.
 
 Additionally, you can forego your Sneak Attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
 

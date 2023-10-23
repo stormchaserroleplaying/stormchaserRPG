@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # Arcane Spellcasting Talents
-
 In order to cast a spell, your spellcasting attribute must be equal to, or higher than, 10 + the spell's level.
 
 | Talent | CP | Spell Level Prerequisite | Character Value Prerequisite | Spellcasting Attribute Prerequisite |

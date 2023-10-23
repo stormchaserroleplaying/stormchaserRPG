@@ -7,14 +7,14 @@ nav_order: 2
 
 # Magic Talents
 
-#### Characters with Arcane and Divine Spellcasting
-If you have both Arcane and Divine spellcasting, you only receive the mana pool of your highest spell level. You still receive all prepared spells from each spellcasting talent, and you can obtain bonus spells for each spellcasting talent from any one branch or tree which you have talents already.
+## Characters with Arcane and Divine Spellcasting
+If you have talents from both the arcane spellcasting talent tree and the divine spellcasting talent tree, your maximum mana is determine by the higher spell level of the two. You receive all spells known and prepared from each spellcasting type and, for each spellcasting type, you can obtain bonus spells from any one talent tree branch from which you already have talents.
 
-For example, suppose a character has Level 1 Arcane Spellcasting and Level 1 Divine Spellcasting, and they use the same spellcasting attribute which has been raised to 18 (modifier of +4). They would have the following available to them:
+For example, a character with Level 1 Arcane Spellcasting, Level 1 Divine Spellcasting and a spellcasting attribute of 18 (+4) for both would have:
+* 4 arcane cantrips
+* 4 arcane spells known, plus 2 bonus spells from any one talent tree branch from which the character has talents
+* 4 divine cantrips
+* 4 levels of divine spells prepared, plus the option to purchase 2 bonus spells from any talent tree branch from which the character has talents
+* 3 mana
 
-- 4 Arcane cantrips plus 4 Divine cantrips
-- 4 Arcane spells known plus 2 bonus spells from any one branch/tree which the character has talents
-- 4 levels of Divine spells prepared plus 2 bonus spells from any one branch/tree which the character has talents
-- Mana Pool of 3
-
-If the character were to increase either Divine or Arcane spellcasting, they would gain the additional spells known or prepared as well as the increased mana pool from 3 to 6.  
+If the character were to increase the maximum level of either their arcane or divine spells, then they would gain the additional spells known or prepared, as well as increase their maximum mana from 3 to 6.

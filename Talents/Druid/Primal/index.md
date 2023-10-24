@@ -26,12 +26,12 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Enhanced Wild Shape  | 5  | Wild Shape |   
-| Primal Strike        | 20 | 3rd Level Spells and Enhanced Wild Shape|   
-| Elemental Wild Shape | 30 | 5th Level Spells and Primal Strike |   
-| Mutable Body         | 50 | 5th Level Spells and Elemental Wild Shape |   
+| Enhanced Beast Shape | 5  | Wild Shape |   
+| Primal Strike        | 20 | 3rd Level Spells and Enhanced Beast Shape|   
+| Elemental Body       | 30 | 5th Level Spells and Primal Strike |   
+| Mutable Body         | 50 | 5th Level Spells and Elemental Body |   
 
-### Enhanced Wild Shape
+### Enhanced Beast Shape
 
 <div style="margin-top:-10px;"></div>
 
@@ -54,7 +54,7 @@ Additionally, while you are transformed by Beast Shape, you can use 1 action to 
 
 When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) while you are transformed using your Wild Shape, those attacks are considered to be magical.
 
-### Elemental Wild Shape
+### Elemental Body
 
 <div style="margin-top:-10px;"></div>
 

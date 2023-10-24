@@ -6,6 +6,10 @@ parent: Skills
 # Intimidation
 Intimidation is a **Charisma**-based skill for when you attempt to influence someone through overt threats, hostile actions, and physical violence. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
+## Untrained Actions
+* [Coerce](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Coerce)
+* [Demoralize](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Demoralize)
+
 ## Subskills
 
 ### Savagery

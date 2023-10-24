@@ -14,17 +14,18 @@ When you take your first valour talent, you may choose to either gain a fighting
 
 ## Talents
 
-| Talent | CP | Prerequisites | Bard Talents Required |
-|:------:|:--:|:-------------:|:---------------------:|
-| Blade Flourish    | 5  | Bardic Performance | 1 |
-| Extra Attack      | 10 | Blade Flourish and 3 other Bard Talents | 4 |
-| Master's Flourish | 50 | Extra Attack and 9 other Bard Talents | 10 |
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Blade Flourish    | 5  | Bardic Performance |
+| Extra Attack      | 10 | Blade Flourish and 35 CP of Bard Talents |
+| Battle Magic      | 50 | Extra Attack and 245 CP of Bard Talents |
+| Master's Flourish | 50 | Extra Attack and 245 CP of Bard Talents |
 
 ### Blade Flourish
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Inspiration
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Performance 
 *You learn to perform impressive displays of martial prowess and speed that inspire others in battle.*
 
 Whenever you take the Strike action on your turn, your walking speed increases by 10 feet until the end of the turn. Once per turn, if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice.
@@ -41,12 +42,19 @@ Additionally, a creature benefitting from your Bardic Inspiration can instead ro
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 3 other Bard Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 35 CP of Bard Talents
 Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
+
+### Battle Magic
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack, Level 1 Spellcasting (Arcane or Divine), and 245 CP of Bard Talents
+Your close exposure to combat has made you adept at wielding blade and magic in tandem. When you cast a 2-Action spell, you can simultaneously make a weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). The spell must be one that uses an attack roll against a target, but the target does not need to be the same for the weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Both the spell and attack are considered for calculating multiple attack penalty (MAP) for the current turn, but the penalty does not apply to the Battle Magic attack rolls.
 
 ### Master's Flourish
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 9 other Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack and 245 CP of Bard talents
 You can use now a Blade Flourish without expending a use of your Bardic Performance.

@@ -1,10 +1,10 @@
 ---
 title: Monster Abilities
-parent: Beastiary
+parent: Bestiary
 has_children: true
 ---
 
 # Monster Abilities
 Special actions that monsters may have. 
 
-Some of these abilities can also gain by characters through some transformation, like the [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) or [Elemental Body](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#elemental-body) spells.
+Some of these abilities can also be gained by player characters through a transformation, such as the [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) or [Elemental Body](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#elemental-body) spells.

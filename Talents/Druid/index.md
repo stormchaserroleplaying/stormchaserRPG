@@ -14,20 +14,19 @@ When you take your first druid talent, you gain access to the secret language of
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Wild Shape     | 10  | - |
+| Beast Shape    | 10  | - |
 | Wild Companion | 5   | - |
 | Timeless Body  | 40  | 9th Level Spells and 120 Points in Druid Talents |
 | Beast Spells   | 40  | 9th Level Spells and 120 Points in Druid Talents |
 | Archdruid      | 100 | 10th Level Spells and 200 Points in Druid Talents |
 
-### Wild Shape
+### Beast Shape
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points
 You learn the [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
-You have a separate pool of mana that can only be used to cast this spell. This pool is equal to your spellcasting attribute modifier and is replenished when you finish a long rest.
 ### Wild Companion
 
 <div style="margin-top:-10px;"></div>

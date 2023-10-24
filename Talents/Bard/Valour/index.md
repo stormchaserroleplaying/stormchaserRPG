@@ -9,17 +9,13 @@ Bards of valour are daring skalds whose tales keep alive the memory of the great
 
 ## Branch Features
 
-### Bonus Proficiencies
-When you take your first valour talent, you may choose to either gain a fighting style, or gain proficiency with medium armour and 3 martial weapon groups.
-
 ## Talents
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
 | Blade Flourish    | 5  | Bardic Performance |
-| Extra Attack      | 10 | Blade Flourish and 35 CP of Bard Talents |
-| Battle Magic      | 50 | Extra Attack and 245 CP of Bard Talents |
-| Master's Flourish | 50 | Extra Attack and 245 CP of Bard Talents |
+| Battle Magic      | 20 | Level 1 Spell Casting |
+| Master's Flourish | 50 | Blade Flourish and 245 CP of Bard Talents |
 
 ### Blade Flourish
 
@@ -38,19 +34,16 @@ Whenever you take the Strike action on your turn, your walking speed increases b
 
 Additionally, a creature benefitting from your Bardic Inspiration can instead roll your martial feat die and add the number rolled to a weapon damage roll that it just made. If a creature has a bardic inspiration die from you and casts a spell that restores stamina or deals damage, then that creature can instead roll your martial feat die and choose a target affected by the spell. Add the number rolled as a bonus to the stamina regained or the damage dealt.
 
-### Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Blade Flourish and 35 CP of Bard Talents
-Each turn, the first [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action that you take does not count for the purposes of calculating your multiattack penalty.
-
 ### Battle Magic
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Extra Attack, Level 1 Spellcasting (Arcane or Divine), and 245 CP of Bard Talents
-Your close exposure to combat has made you adept at wielding blade and magic in tandem. When you cast a 2-Action spell, you can simultaneously make a weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). The spell must be one that uses an attack roll against a target, but the target does not need to be the same for the weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Both the spell and attack are considered for calculating multiple attack penalty (MAP) for the current turn, but the penalty does not apply to the Battle Magic attack rolls.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Level 1 Spellcasting (Arcane or Divine)
+*Your close exposure to combat has made you adept at wielding a weapon and magic in tandem.*
+
+When you cast a spell with a casting time of 2 actions, you can simultaneously make a weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). The spell and the weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) need not have the same target.
+
+Both the spell and the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) contribute to your multiple attack penalty (MAP) for the current turn. Howevr, the penalty does not apply to the Battle Magic attack rolls.
 
 ### Master's Flourish
 

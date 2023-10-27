@@ -22,6 +22,7 @@ Athletics checks based on Constitution are made when your character needs to pus
 
 ## Untrained Actions
 * [Balance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Balance)
+* [Climb](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Climb)
 * [Force Open](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Force)
 * [Jumping](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump)
 * [Swimming](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Swimming)

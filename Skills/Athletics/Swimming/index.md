@@ -28,3 +28,4 @@ If you are fighting while Swimming, there are many additional factors and danger
 | While wearing heavy armour | -2d |
 | While wearing medium armour | -1d |
 | Player is able to stand or control themselves with an object (such as a rope) | +1d |
+| Player has a swim speed | +1d |

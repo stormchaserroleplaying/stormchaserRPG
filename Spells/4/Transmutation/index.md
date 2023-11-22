@@ -22,7 +22,7 @@ While you are transformed, the following rules apply all forms that you take:<br
 * You retain the benefit of any features from your talents, species, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as low-light vision, unless your new form also has that sense.
 * Your gear is absorbed into your new form. Any persistent magical bonus granted by the gear still applies, however you cannot use any feature of your gear that requires you to activate it.
 
-When cast using 5 mana the following apply:<br>
+When cast using 4 mana the following apply:<br>
 You transform into a small-sized elemental and gain darkvision to a range of 60 feet. Air, fire and water elementals can enter a hostile creature's space and stop there, and can move through a space as narrow as 1 inch wide without squeezing.
 
 Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, you do damage equal to 2d8 plus your chosen modifier of an appropriate type - slashing (air), bludgeoning (earth), fire (fire) or cold (water).
@@ -32,7 +32,7 @@ Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stor
 * *Fire Elemental.*  You gain a +2 bonus to your Dexterity score and a +2 natural DR bonus. You have Resistance I to fire damage and Vulnerability I to cold damage. You can perform the [Burn](https://stormchaserroleplaying.com/stormchaserRPG/Beastiary/Abilities/Burn/) special ability. You shed bright light in a 20-foot radius and dim light in additional 20 feet.
 * *Water Elemental.* You gain a +2 bonus to your Constitution score and +4 natural DR bonus. You gain a swim speed of 60 feet and the ability to breathe underwater. You can perform the [Whelm](https://stormchaserroleplaying.com/stormchaserRPG/Beastiary/Abilities/Whelm/) special ability.
 
-When cast using 6 mana the following apply:<br>
+When cast using 5 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
 You transform into a medium-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, 2d8 + 1dM total.
@@ -42,7 +42,7 @@ You transform into a medium-sized elemental. The damage for your natural unarmed
 * *Fire Elemental.*  As above, except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.
 * *Water Elemental.* As above, except that you gain a +4 bonus to your Constitution score and +5 natural DR bonus.
 
-When cast using 7 mana the following apply:<br>
+When cast using 6 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
 Critical hits made against you are reduced by one hit.
@@ -52,7 +52,7 @@ Critical hits made against you are reduced by one hit.
 * *Fire Elemental.*  As above, except that you gain a +4 bonus to your Dexterity score, a +2 bonus to your Constitution score and a +4 natural DR bonus.
 * *Water Elemental.* As above, except that you gain a +2 bonus to your Strength score, a -2 penalty to your Dexterity score, +6 bonus to your Constitution score and +6 natural DR bonus.
 
-When cast using 8 mana the following apply:<br>
+When cast using 7 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
 You transform into a huge-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 2dM, 2d8 + 2dM total.

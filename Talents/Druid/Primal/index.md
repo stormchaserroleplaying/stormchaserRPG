@@ -41,7 +41,7 @@ If you have a branch spell that doesn’t appear on the [Divine Spell List](http
 Your [Beast Shape](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Transmutation/#beast-shape) spell is modified as follows:
 * You can cast the spell with 1 action.
 * When you roll damage for your form's natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), you deal additional damage equal to 1dM.
-* Your stamina and maximum stamina increase by 3 times the amount of mana expended for the duration.
+* For the spell's duration, you gain a bonus to your Constitution score equal to the amount of mana expended.
 
 Additionally, while you are transformed by Beast Shape, you can use 1 action to expend 1 or more mana to recover 1dR stamina per mana spent. The maximum amount of mana that you may spend on a single recovery is equal to the maximum level of spells that you can cast.
 	
@@ -61,7 +61,7 @@ When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actio
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Primal Strike
 *The elements of the world are now part of your being.*
 
-You learn the [Elemental Body](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#elemental-body) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day. This spell can be cast using the mana pool granted by your [Wild Shape](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Druid/#wild-shape) talent.
+You learn the [Elemental Body](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#elemental-body) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 ### Mutable Body
 

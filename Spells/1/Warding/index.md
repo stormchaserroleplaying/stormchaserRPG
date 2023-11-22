@@ -56,7 +56,7 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
-When this spell is cast, you gain resistance to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, wbhich you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
+When this spell is cast, you gain resistance to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, which you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
 
 ## Ceremony
 *1st Level Warding (Ritual)*<br>

@@ -1,10 +1,10 @@
 ---
-title: Demoralize
+title: Demoralise
 parent: Intimidation
 grand_parent: Skills
 ---
 
-# Demoralize
+# Demoralise
 
 <div style="margin-top:-10px;"></div>
 

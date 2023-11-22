@@ -44,14 +44,14 @@ When cast using 1 mana the following apply:
 
 When cast using 2 mana the following apply:
 * You can take the form of tiny- or large-sized beast.<br>
-  a. If you take the form of a tiny-sized beast, you gain a +3 bonus to your Dexterity score, a -1 penalty to your Strength score and +1 natural DR bonus.<br>
-  b. If you take the form of a large-sized beast, you gain a +3 bonus to your Strength score, a -1 penalty to your Dexterity score and a +3 natural DR bonus.
+  a. If you take the form of a tiny-sized beast, you gain a +4 bonus to your Dexterity score, a -2 penalty to your Strength score and +1 natural DR bonus.<br>
+  b. If you take the form of a large-sized beast, you gain a +4 bonus to your Strength score, a -2 penalty to your Dexterity score and a +4 natural DR bonus.
 * The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) is 1 (tiny) or 1d8 (large).
 * Choose an additional sense - hearing, sight or smell - as a keen sense, blindsight to a range of 10 feet, low-light vision, or darkvision.
 * Choose a special attack action that is appropriate to your form - [Constrict](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Constrict/), [Grab](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Grab/), [Pack Tactics](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Pack/). [Poisonous](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Poisonous/), [Rake](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Rake/), [Rend](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Rend/) [Rush](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Rush/) or [Trample](https://stormchaserroleplaying.com/stormchaserRPG/Beatiary/Abilites/Trample/).
 
 When cast using 3 mana the following apply:
-* You can take the form of huge-sized beast. You gain a +5 bonus to your Strength score, a -3 penalty to your Dexterity score and a +5 natural DR bonus.
+* You can take the form of huge-sized beast. You gain a +6 bonus to your Strength score, a -4 penalty to your Dexterity score and a +6 natural DR bonus.
 * The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) is 2d6, and has a range of 10 feet.
 
 ## Catapult

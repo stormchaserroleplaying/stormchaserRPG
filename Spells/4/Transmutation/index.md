@@ -7,7 +7,7 @@ grand_parent: Spells
 # Transmutation
 
 ## Elemental Body
-*rth Level Transmutation*<br>
+*4th Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(The element you plan to assume.)*<br>

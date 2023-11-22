@@ -38,30 +38,30 @@ The spell functions as above with the following exceptions:
 
 You transform into a medium-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 1dM, 2d8 + 1dM total.
 
-* *Air Elemental.* As above except that you gain a +3 bonus to your Dexterity score and a +3 natural DR bonus.
-* *Earth Elemental.* As above except that you gain a +3 bonus to your Strength score and a +5 natural DR bonus.
-* *Fire Elemental.*  As above except that you gain a +3 bonus to your Dexterity score and a +3 natural DR bonus.
-* *Water Elemental.* As above except that you gain a +3 bonus to your Constitution score and +5 natural DR bonus.
+* *Air Elemental.* As above, except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.
+* *Earth Elemental.* As above, except that you gain a +4 bonus to your Strength score and a +5 natural DR bonus.
+* *Fire Elemental.*  As above, except that you gain a +4 bonus to your Dexterity score and a +3 natural DR bonus.
+* *Water Elemental.* As above, except that you gain a +4 bonus to your Constitution score and +5 natural DR bonus.
 
 When cast using 7 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
 Critical hits made against you are reduced by one hit.
 
-* *Air Elemental.* As above except that you gain a +1 bonus to your Strength score, +4 bonus to your Dexterity score and a +4 natural DR bonus.
-* *Earth Elemental.* As above except that you gain a +5 bonus to your Strength score, a -2 penalty to your Dexterity score, a +1 bonus to your Constitution score and a +6 natural DR bonus.
-* *Fire Elemental.*  As above except that you gain a +4 bonus to your Dexterity score, a +2 bonus to your Constitution score and a +4 natural DR bonus.
-* *Water Elemental.* As above except that you gain a +1 bonus to your Strength score, a -2 penalty to your Dexterity score, +5 bonus to your Constitution score and +6 natural DR bonus.
+* *Air Elemental.* As above, except that you gain a +2 bonus to your Strength score, +4 bonus to your Dexterity score and a +4 natural DR bonus.
+* *Earth Elemental.* As above, except that you gain a +6 bonus to your Strength score, a -2 penalty to your Dexterity score, a +2 bonus to your Constitution score and a +6 natural DR bonus.
+* *Fire Elemental.*  As above, except that you gain a +4 bonus to your Dexterity score, a +2 bonus to your Constitution score and a +4 natural DR bonus.
+* *Water Elemental.* As above, except that you gain a +2 bonus to your Strength score, a -2 penalty to your Dexterity score, +6 bonus to your Constitution score and +6 natural DR bonus.
 
 When cast using 8 mana the following apply:<br>
 The spell functions as above with the following exceptions:
 
 You transform into a huge-sized elemental. The damage for your natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) increases by 2dM, 2d8 + 2dM total.
 
-* *Air Elemental.* As above except that you gain a +2 bonus to your Strength score, +5 bonus to your Dexterity score and a +4 natural DR bonus. You gain a fly speed of 120 feet.
-* *Earth Elemental.* As above except that you gain a +6 bonus to your Strength score, a -2 penalty to your Dexterity score, a +2 bonus to your Constitution score and a +6 natural DR bonus.
-* *Fire Elemental.*  As above except that you gain a +5 bonus to your Dexterity score, a +3 bonus to your Constitution score and a +4 natural DR bonus.
-* *Water Elemental.* As above except that you gain a +2 bonus to your Strength score, a -2 penalty to your Dexterity score, +6 bonus to your Constitution score and +6 natural DR bonus. You gain a swim speed of 120 feet.
+* *Air Elemental.* As above, except that you gain a +4 bonus to your Strength score, +6 bonus to your Dexterity score and a +4 natural DR bonus. You gain a fly speed of 120 feet.
+* *Earth Elemental.* As above, except that you gain a +8 bonus to your Strength score, a -2 penalty to your Dexterity score, a +4 bonus to your Constitution score and a +6 natural DR bonus.
+* *Fire Elemental.*  As above, except that you gain a +6 bonus to your Dexterity score, a +4 bonus to your Constitution score and a +4 natural DR bonus.
+* *Water Elemental.* As above, except that you gain a +4 bonus to your Strength score, a -2 penalty to your Dexterity score, +8 bonus to your Constitution score and +6 natural DR bonus. You gain a swim speed of 120 feet.
 
 
 ## Hot Ashes To Trees

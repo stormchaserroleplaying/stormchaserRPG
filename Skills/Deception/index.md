@@ -8,7 +8,7 @@ Deception is a **Charisma**-based skill that determines whether you can convinci
 
 ## Untrained Actions
 * [Coerce](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Coerce)
-* [Demoralize](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Demoralize)
+* [Demoralise](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Demoralise)
 
 ## Trained Actions
 * [Create a Forgery](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Forgery)

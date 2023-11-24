@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Armour Proficiency
-Anyone can put on a suit of armour or strap a shield to an arm. However, only those proficient in the armour's use know how to wear it effectively. Your class gives you proficiency with certain types of armour. If you wear armour that you lack proficiency with, you suffer disadvantage on any ability check or attack roll that involves Strength or Dexterity and you can't cast spells.
+Anyone can put on a suit of armour or strap a shield to an arm. However, only those proficient in the armour's use know how to wear it effectively. Proficiency with the three weight classes of of armour can be purchased as a [talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Armour/). If you wear armour that you lack proficiency with, you suffer -1d on any ability check or attack roll that involves Strength or Dexterity and you can't cast spells.
 
 ## Light Armour
 Made from supple and thin materials, light armour offers protection without sacrificing mobility.

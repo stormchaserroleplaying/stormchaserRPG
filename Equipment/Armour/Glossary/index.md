@@ -75,9 +75,9 @@ The penalties from multiple pieces of noisy armour stack.
 Non-lethal shields are designed to incapacitate a target without killing it. Shields with this property deal their full damage when dealing non-lethal damage.
 
 ### Parry
-When wearing a piece of armour with the parry property, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Parry/) action, which grants you a +1 bonus to your Strength defence vs melee attacks equal to the listed value.
+When wearing a piece of armour with the parry property, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Parry/) action, which grants you a +1 bonus to your Strength defence vs melee attacks.
 
-If you are wielding a finesse shield and parrying an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
+If you are wielding a finesse shield and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 ### Shield
 Most shields have the shield property, which grants a bonus to Strength and Dexterity defence vs melee and ranged attacks equal to the listed value.

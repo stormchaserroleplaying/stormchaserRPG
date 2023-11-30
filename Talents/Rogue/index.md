@@ -29,11 +29,9 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The source of the advantage must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have advantage on the attack roll. The source of the advantage must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
 
 You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
-
-The amount of extra damage dice increases by 1 die for every 2 rogue talents that you have.
 
 Additionally, you can forego your Sneak Attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
 
@@ -41,14 +39,14 @@ Additionally, you can forego your Sneak Attack damage to force your target to ro
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>#### **Prerequisite:** Sneak Attack
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Sneak Attack
 Content
 
 ### Bad Feeling 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>#### **Prerequisite:** Sneak Attack
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Sneak Attack
 You have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined.
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
@@ -57,35 +55,35 @@ Once you’ve used this feature, you can’t use it again until you finish a lon
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>#### **Prerequisite:** Cunning Action
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Cunning Action
 As a bonus action you can give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
 ### Uncanny Dodge
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>#### **Prerequisite:** 3 Rogue Talents
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 3 Rogue Talents
 Content
 
 ### ?
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>#### **Prerequisite:** 4 Other Rogue Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 4 Other Rogue Talents
 Content
 
 ### Evasion
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>#### **Prerequisite:** Uncanny Dodge and 4 Other Rogue Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Uncanny Dodge and 4 Other Rogue Talents
 Content
 
 ### Reliable Skill
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>#### **Prerequisite:** Evasion and 6 Other Rogue Talents
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Evasion and 6 Other Rogue Talents
 *You have refined your chosen skills until they approach perfection.*
 
 Whenever you make a skill check with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
@@ -94,28 +92,28 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>#### **Prerequisite:** Reliable Talent and 8 Other Rogue Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Reliable Talent and 8 Other Rogue Talents
 Content
 
 ### Slippery Mind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 65 Character Points<br>#### **Prerequisite:** Blindsense
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Blindsense
 Content
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>#### **Prerequisite:** Slippery Mind and 11 Other Rogue Talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Slippery Mind and 11 Other Rogue Talents
 Content
 
 ### Stroke of Luck
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>#### **Prerequisite:** Elusive
+#### **Cost:** 100 Character Points<br>**Prerequisite:** Elusive
 Content
 
 ## Rogue Talent Tree Branches

@@ -134,20 +134,18 @@ Non-lethal weapons are designed to incapacitate a target without killing it. Wea
 Defence checks to avoid being hit by an opportunity attack made with an opportunistic weapon are made at disadvantage.
 
 ### Parry
-When wielding a parry weapon, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, which grants you a bonus to your Strength defence vs melee attacks. This bonus is defined by how the weapon is wielded:
+When wielding a parry weapon, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Parry/) action, which grants you a bonus to your Strength defence vs melee attacks, as described on the table below:
 
-| Weapon Wielded In | Bonus to Strength Defence |
-|:-----------------:|:-------------------------:|
+| Item Wielded In | Bonus to Strength Defence |
+|:---------------:|:-------------------------:|
 | One Hand | +1 |
 | Two Hands | +2 |
 
 If you are wielding a finesse weapon and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
-If you are wielding an unwieldy parry weapon and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
+If you are wielding a parry weapon in each hand, you only benefit from one weapon's parry bonus to your Strength defence vs melee attacks, unless you are trained in the [dual wielding fighting style](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighting/Dual/).
 
-If you are wielding a parry weapon in each hand, you only benefit from one weapon's parry bonus to your Strength defence vs melee attacks, unless you are trained in the dual wielding fighting style.
-
-If you are wielding a bulky shield, than you cannot benefit from a parry bonus from a parry weapon in your other hand.
+If you are wielding a [cover](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Glossary/#cover) shield, than you cannot benefit from a parry bonus from a parry weapon in your other hand.
 
 ### Pellets
 This weapon uses free ammunition, such as stones, which do not leave a trace of the direction they were shot from unless the victim is alive to notice, or the wound is inspected with a DC 15 Intelligence (Investigation) check, or the environment is searched with a DC 20 Wisdom (Perception) check.

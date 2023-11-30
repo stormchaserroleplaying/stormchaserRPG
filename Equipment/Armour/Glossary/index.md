@@ -77,7 +77,7 @@ Non-lethal shields are designed to incapacitate a target without killing it. Shi
 ### Parry
 When wielding a parry shield, you gain a +1 parry bonus to your Strength defence vs melee attacks.
 
-If you are wielding a finesse shield and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
+If you are wielding a finesse shield and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 If you are wielding an unwieldy shield and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
 

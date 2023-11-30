@@ -1,5 +1,5 @@
 ---
-title: Armour Proficiency
+title: Proficiency
 parent: Armour and Shields
 grand_parent: Equipment
 nav_order: 1

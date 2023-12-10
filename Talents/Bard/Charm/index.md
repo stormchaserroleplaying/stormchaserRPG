@@ -5,12 +5,12 @@ grand_parent: Talents
 ---
 
 # Charm
-While charm bards may pick up more traditional arts, like music or painting, they excel the most in the art of conversation and captivation. Charm bards spend their studies learning how read people, and how to please them. As such, most charm bards know a little of everything, the better to entertain a wide variety of peoples and personalities. Some use their abilities for good, bringing catharsis to anyone who gives them a chance, while others use it for their own nefarious purposes; others still simply use it as a means to an end, putting their skills to use in fields where it will earn them some coin. Charm bards are taught unique ways to bolster their party's spirits, and demoralise their enemies, above and beyond what most other colleges teach.
+While charm bards may pick up more traditional arts, like music or painting, they excel the most in the art of conversation and captivation. Charm bards spend their studies learning how read people, and how to please them. As such, most charm bards know a little of everything, the better to entertain a wide variety of peoples and personalities. Some use their abilities for good, bringing catharsis to anyone who gives them a chance, while others use it for their own nefarious purposes; others still simply use it as a means to an end, putting their skills to use in fields where it will earn them some coin. Charm bards are taught unique ways to bolster their party's spirits, and demoralise their enemies, above and beyond what most other factions teach.
 
 ## Branch Features
 
 ### Bonus Proficiencies
-When you take your first talent from the College of Charm, you gain proficiency in Deception, Insight and Persuasion. If you are already proficient in these skills, then their character point value is refunded to you to spend elsewhere.
+When you take your first talent from the Charm branch, you gain proficiency in Deception, Insight and Persuasion. If you are already proficient in these skills, then their character point value is refunded to you to spend elsewhere.
 
 ### Bonus Equipment
 You have in your possession one or more trinkets from people with whom you shared a close relationship in the past. It could be a parent, relative, lover, friend, mentor, or anyone who had a strong emotional impact on your life. You use this as your focus for spellcasting.

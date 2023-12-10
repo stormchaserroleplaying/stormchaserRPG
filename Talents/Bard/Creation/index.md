@@ -37,7 +37,7 @@ When the creature uses the bardic inspiration die, the mote provides an addition
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 2 Character Points<br>**Prerequisite:** Bardic Performance<br>**Actions:** 1
+#### **Cost:** 2 Character Points<br>**Actions:** 1<br>**Prerequisite:** Bardic Performance
 You can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp The item glimmers softly and faint hear music can be heard by anyone touching it. The created item disappears after a number of hours equal to your Charisma bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
 
 Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend mana to use this feature again as detailed in the table below. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.

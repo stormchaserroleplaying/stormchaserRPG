@@ -16,7 +16,7 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 | Mote of Potential           | 5  | Bardic Performance |
 | Performance of Creation     | 10  | Bardic Performance |
 | Animating Performance       | 25  | Performance of Creation and 50 CP of Bard Talents |
-| Creative Crescendo          | 50  | Animating Performance and 270 CP of Bard Talents |
+| Creative Crescendo          | 50  | Animating Performance and 320 CP of Bard Talents |
 
 ### Mote of Potential
 

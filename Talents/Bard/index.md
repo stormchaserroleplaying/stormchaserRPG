@@ -11,7 +11,7 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Bardic Performance  | 5   | Trained in Performance |
+| Bardic Performance  | 15  | Trained in Performance |
 | Jack of All Trades  | 5   | - |
 | Vicious Mockery     | 5   | - |
 | Virtuoso            | 100 | 660 CP of Bard Talents |

@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S, M *(A shaving of licorice root.)*<br>
 **Duration:** Sustained, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +1d to Dexterity and Strength defence, and it gains an additional action on each of its turns. That action can be used only to take one of the following: [Crawl](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Crawl/), [Drop Prone](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Drop/), [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/), [Point Out](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Point/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), [Speak](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Speak/), [Stand](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stand/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/), [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), [Take Cover](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Cover/).
+Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +1d to Dexterity defence, and it gains an additional action on each of its turns. That action can be used only to take one of the following: [Crawl](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Crawl/), [Drop Prone](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Drop/), [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/), [Point Out](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Point/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), [Speak](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Speak/), [Stand](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stand/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/), [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), [Take Cover](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Cover/).
 
 When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
@@ -48,11 +48,9 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 **Components:** V, S, M *(A drop of molasses.)*<br>
 **Duration:** Sustained, up to 1 minute
 
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Make a transmutation attack vs the Wisdom defence of each target. On a hit, an affected target's speed is halved, it takes a −1d to Dexterity defence. It can't make more than one melee or ranged attack during its turn.
 
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
-
-If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
+If the creature attempts to cast a spell with a casting time of 2 actions, it must first roll a d20. On an 10 or lower, the spell doesn't take effect until the creature's next turn, and the creature must use 2 actions on that turn to complete the spell. If it can't, the spell is wasted.
 
 A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 

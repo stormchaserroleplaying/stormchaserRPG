@@ -26,7 +26,7 @@ With an aim as sharp as their wit, gunslingers pursue their own ends for their o
 | Deadeye II | 20 | Indomitable II and 10 Other Gunslinger Talents |
 | Cheat Death | 100 | 14 Gunslinger Talents |
 | Bad Medicine IV | 5 | - |
-| True Grit | 100 | 14 Gunslinger Talents |
+| True Grit | 80 | 12 Gunslinger Talents |
 | Golden Gun | 100 | 14 Gunslinger Talents |
 
 ### Deadeye
@@ -107,7 +107,7 @@ When you are forced to make a saving throw, you can spend 1 grit point to gain +
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Indomitable and 8 Other Fighter Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Snapshot Mastery and 8 Other Gunslinger Talents
 Other creatures provoke an attack of opportunity from you when they willingly move to a space within 10 feet of you and you can use ranged weapons when making attacks of opportunity.
 If you can already make attacks of opportunity at range, this distance is in addition to that range.
 
@@ -142,4 +142,4 @@ When you start your turn and have no grit points remaining, you regain 1 grit po
 
 You have +1d on ranged weapon attack rolls while the threshold for scoring a critical hit is 16 or lower.
 
-## Fighter Talent Tree Branches
+## Fighter Gunslinger Tree Branches

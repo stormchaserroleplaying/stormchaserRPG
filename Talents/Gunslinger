@@ -49,83 +49,97 @@ You can roll one additional weapon damage die when determining the extra damage 
 
 The number of additional dice increases as you gain levels in this class, as shown in the Bad Medicine column of the Gunslinger table.
 
-### Combat Superiority
+### Grit
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You learn two [maneuvers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) of your choice. Many maneuvers enhance an attack in some way. You may only use one maneuver per turn.
+The hard-fought battles of your past have instilled in you a wellspring of resolve, which is represented by grit points. You have a number of grit points equal to 1 + your Wisdom modifier (minimum of 1 point).
 
-As a fighter gains talents, they learn to use their combat superiority in new ways. When you take your 3rd fighter talent, you also learn a new [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/). You learn an additional [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) for every second fighter talent taken after the 3rd.
+You can spend these points to fuel various grit features. You start knowing four such features: Buck Up, Bullet Time, Covering Fire, and Dodge Roll. You learn more grit features as you gain levels in this class.
 
-Each time that you learn a new [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/), you can also replace one maneuver that you know with a different one.
+When you spend a grit point, it is unavailable until you regain it. You regain 1 expended grit point whenever you score a critical hit against a hostile creature, and you regain all expended grit points when you finish a short or long rest.
 
-### Action Surge 
+#### Buck Up
+You can spend 1 grit point and 1 action to spend one or more Hit Dice, following the normal rules for regaining hit points using Hit Dice. The maximum number of Hit Dice you can spend each time you use this feature equals your Constitution modifier + 1.
 
-<div style="margin-top:-10px;"></div>
+#### Bullet Time
+Spend 1 grit point. You gain +1d to your Dexterity defence vs the first ranged attack to target you before the start of your next turn. If you are not the target of a ranged attack, you regain the grit point at the start of your next turn.
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Fighter Talents
-*You can push yourself beyond your normal limits for a moment.*
+#### Covering Fire
+Declare a number of grit points up to your current total. Until the start of your next turn, allies within 60 feet of you gain +1d to their defences against a number of attacks equal to the number chosen. Once that number of attacks have been affected, the effect ends. 
 
-On your turn, you can take two additional actions.
+If at the start of your next turn fewer attacks than the number declared were made, you regain that many grit points.
 
-Once you use this feature, you must finish a short or long rest before you can use it again. 
+#### Dodge Roll
+You can spend 1 grit point and 1 action to move up to 10 feet without provoking opportunity attacks. You can’t take this action if your speed is 0.
 
-### Cunning Strategist
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 4 Fighter Talents
-Choose two from the following. You can perform each of the chosen options once as a free action:
-- Aid
-- Guard
-- Overrun
-- Seek
-- Tumble
-- While mounted on a controlled beast, having your beast make a single melee attack against a creature within its reach
-
-### Indomitable
+### Quickdraw
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 6 Fighter Talents
-You can reroll a failed defence check. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Gunslinger Talents
+*You're never caught unawares.*
 
-### Greater Extra Attack
+You have advantage on initiative rolls. In addition, whenever you draw or stow a firearm, you can draw or stow any number of weapons as part of the same move or action.
+
+### Lock N' Load
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Quickdraw and 4 other Gunslinger Talents
+You can load or reload a firearm you are holding as part of your move or your action.
+
+### Ace in the Hole
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 8 Fighter Talents
-You can now Strike with all three of your actions on your turn without suffering the multiattack penalty.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Grit and 6 other Gunslinger Talents
+Once per turn when you miss with an attack roll, you can spend 1 grit point to add your Wisdom modifier to the roll, potentially turning the miss into a hit.
 
-### Indomitable II
+### Born Lucky
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Grit and 8 other Gunslinger Talents
+When you are forced to make a saving throw, you can spend 1 grit point to gain +1d on the save.
+
+### Frontier Justice
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** Indomitable and 8 Other Fighter Talents
-You can now use your Indomitable talent twice before a long rest,
+Other creatures provoke an attack of opportunity from you when they willingly move to a space within 10 feet of you and you can use ranged weapons when making attacks of opportunity.
+If you can already make attacks of opportunity at range, this distance is in addition to that range.
 
-### Action Surge II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Action Surge and 10 Other Fighter Talents
-You can now use your Action Surge talent twice before a rest, but only once on the same turn.
-
-### Indomitable III
+### Skullcracker
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Indomatable II and 10 Other Fighter Talents
-You can now use your Indomitable talent three times before a long rest,
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Bad Medicine and 10 Other Gunslinger Talents
+When you deal damage with a ranged weapon attack to a creature that is concentrating, you gain +1d when you roll vs the creature’s Constitution defence to make them break their concentration.. If the attack is a critical hit, the target automatically loses concentration.
 
-### Master of Combat
+### Cheat Death
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 14 Fighter Talents
-*You are the master of combat.*
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Grit and 10 other Gunslinger Talents
+When you are reduced to 0 hit points but not killed outright, you can spend 1 grit point to drop to 1 hit point instead. Each time you do so, you gain 1 level of exhaustion.
 
-Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
+### True Grit
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Grit and 12 other Gunslinger Talents
+*Cool under fire.*
+
+When you start your turn and have no grit points remaining, you regain 1 grit point.
+
+### True Grit
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 14 Gunslinger Talents
+
+You have +1d on ranged weapon attack rolls while the threshold for scoring a critical hit is 16 or lower.
 
 ## Fighter Talent Tree Branches

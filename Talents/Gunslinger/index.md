@@ -23,7 +23,7 @@ With an aim as sharp as their wit, gunslingers pursue their own ends for their o
 | Skull Cracker | 20 | Bad Medicine and 10 Other Gunslinger Talents |
 | Deadeye II | 20 | Deadeye and 10 Other Gunslinger Talents |
 | Bad Medicine III | 40 | Bad Medicine II and 10 other Gunslinger Talents |
-| Cheat Death | 100 | Grit and 10 other Gunslinger Talents |
+| Cheat Death | 60 | Grit and 10 other Gunslinger Talents |
 | True Grit | 80 | Grit and 12 other Gunslinger Talents |
 | Golden Gun | 100 | 14 Gunslinger Talents |
 
@@ -141,7 +141,7 @@ The number of bonus Martial dice you can add when determining the extra damage f
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Grit and 10 other Gunslinger Talents
+#### **Cost:** 60 Character Points<br>**Prerequisite:** Grit and 10 other Gunslinger Talents
 When you are reduced to 0 hit points but not killed outright, you can spend 1 grit point to drop to 1 hit point instead. Each time you do so, you gain 1 level of exhaustion.
 
 ### True Grit

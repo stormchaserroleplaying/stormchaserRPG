@@ -13,11 +13,11 @@ grand_parent: Spells
 **Components:** V, S, M *(A piece of bat guano and sulfur.)*<br>
 **Duration:** Instantaneous
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 6d6 fire damage on a failed save, or half as much damage on a successful one.
+A roaring blast of fire appears at a point within range that you designate. Make an evocation attack roll vs the Dexterity defence of each creature within a 20-foot-radius sphere centered on that point. On a hit, a target takes 6d6 fire damage, or half as much on a miss.
 
-The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+The fire spreads around corners and ignites flammable objects in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using 4 or more mana, the damage increases by 1d6 for each additional mana.
+**At Higher Levels.** When you cast this spell using 4 or more mana, the damage increases by 1d6 for each additional point of mana.
 
 ## Gather Forth All the World's Waves
 *3rd level Evocation*<br>

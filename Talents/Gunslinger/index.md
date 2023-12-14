@@ -130,7 +130,7 @@ When you deal damage with a ranged weapon attack to a creature that is concentra
 
 Whenever you gain this benefit, you can gain it one additional time, but it still can’t reduce the threshold for scoring a critical hit below 16.
 
-### Bad Medicine II
+### Bad Medicine III
 
 <div style="margin-top:-10px;"></div>
 

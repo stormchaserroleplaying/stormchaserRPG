@@ -15,7 +15,7 @@ With an aim as sharp as their wit, gunslingers pursue their own ends for their o
 | Bad Medicine | 5 | - |
 | Grit | 5 | - |
 | Quickdraw | 5 | 2 Gunslinger Talents |
-| Lock N' Load | 5 | Quickdraw and 4 other Gunslinger Talents |
+| Lock N' Load | 10 | Quickdraw and 4 other Gunslinger Talents |
 | Ace in the Hole | 20 | Grit and 6 other Gunslinger Talents |
 | Bad Medicine II | 20 | Bad Medicine and 7 other Gunslinger Talents |
 | Born Lucky | 35 | Grit and 8 other Gunslinger Talents |
@@ -82,7 +82,7 @@ You have advantage on initiative rolls. In addition, whenever you draw or stow a
 ### Lock N' Load
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Quickdraw and 4 other Gunslinger Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Quickdraw and 4 other Gunslinger Talents
 You can load or reload a firearm you are holding as part of your move or your action.
 
 ### Ace in the Hole

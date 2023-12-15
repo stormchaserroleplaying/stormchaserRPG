@@ -6,6 +6,17 @@ grand_parent: Spells
 
 # Conjuration
 
+## Cozy Cabin
+*3rd level Conjuration (Ritual)*<br>
+**Casting Time:** 1 minute<br>
+**Range:** Self (20-foot square)<br>
+**Components:** V, S, M *(A tiny log cabin.)*<br>
+**Duration:** 12 Hours
+
+You create a cabin around yourself on a solid surface occupying no more that 20 square feet of space with walls up to 10 feet high. The structure is made of wood and you are allowed place small, glass windows within the walls. It has one wooden door. This door does not include a lock, but has a fastener to wich a lock can be applied. Other creatures can freely enter and exit the hut without damaging it, but if you exit the hut, the spell ends. You can dismiss the spell using 1 action.
+
+The interior has a chamber pot and a small fireplace, and comes equiped with 10 bedrolls. You can light a magical fire within the fireplace using 1 action, which can be [sustained](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustaining-spells) for the duration of the spell. The interior is lit with a small magical light that you can light or extinguish at will using 1 action. The climate inside the hut is comfortable and allows creatures inside it to withstand most hostile weather conditions, but incredible heat or cold, powerful storms, and winds of hurricane force or greater destroy the hut.
+
 ## Create Food and Water
 *3rd level Conjuration (Ritual)*<br>
 **Casting Time:** 2 Actions<br>

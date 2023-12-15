@@ -54,17 +54,3 @@ You scatter minerals strange and esoteric as a part of this spell's casting. A 3
 
 Make an evocation atack vs the Strength defence of any creature within the area holding or wearing any such object. On a hit, any such held object is pulled out of their hands, landing in a space of your choice immediately outside of the area. Additionally, any creature wearing any such object is pushed 10 feet in a direction of your choice. On a miss, this spell has no effect on a creature.
 
-## Tiny Hunt
-*3rd level Evocation (Ritual)*<br>
-**Casting Time:** 1 Minute<br>
-**Range:** Self (10-foot radius)<br>
-**Components:** V, S, M *(A small crystal bead.)*<br>
-**Duration:** 8 Hours
-
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
-
-Ten creatures, including yourself, of medium size or smaller can fit inside the dome. Creatures of large size can fit within the dome but they count as four towards the limit. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
-
-Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
-
-**At Higher Levels.** When you cast this spell using 4 or more mana, the radius increases by 5 feet and the maximum number creatures increases by 5.

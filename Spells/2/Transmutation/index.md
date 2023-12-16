@@ -48,6 +48,19 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 **Reduce.** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category. Until the spell ends, the target also has -1d on Strength checks, indirect attacks vs its Strength defence gain +1d, and its walking speed decreases by 5 feet. The target's weapons also shrink to match its new size and deal 1d4 less damage (this can't reduce the damage below 1).
 
+## Haste
+*2nd Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 feet<br>
+**Components:** V, S, M *(A shaving of licorice root.)*<br>
+**Duration:** Sustained, up to 1 minute
+
+Choose a willing creature that you can see within range. Magic empowers the target to act faster. Until the spell ends, the target's speed is doubled and it gains +1d to Dexterity defence.
+
+When the spell ends, the target can't move and suffers -1d to Dexterity defence until after its next turn, as a wave of lethargy sweeps over it.
+
+**At Higher Levels.** If you cast this spell using 3 mana or more, then the target also gains +1d to melee and ranged attacks. If you cast this spell using 4 mana or more, then the target gains an additional action on each of its turns.
+
 ## Paper Wings
 *2nd Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
@@ -56,6 +69,19 @@ You cause a creature or an object you can see within range to grow larger or sma
 **Duration:** Sustained, up to 10 minutes
 
 You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
+
+## Slow
+*2nd Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 feet (40-foot cube)<br>
+**Components:** V, S, M *(A drop of molasses.)*<br>
+**Duration:** Sustained, up to 1 minute
+
+You alter time around up to six creatures of your choice in a 40-foot cube within range. Make a transmutation attack vs the Strength defence of each target. On a hit, an affected target's speed is halved, it takes −1d to Dexterity defence.
+
+A creature affected by this spell makes a Strength defence check vs your transmutation skill at the end of each of its turns. On a success, the effect ends for it.
+
+**At Higher Levels.** If you cast this spell using 3 mana or more, then the target also suffers -1d to melee and ranged attacks. If you cast this spell using 4 mana or more, then the target has one less action available to it on each of its turns.
 
 ## Water Breathing
 *2nd Level Transmutation (Ritual)*<br>

@@ -13,20 +13,11 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Minute
 
-Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.
+You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opporunity. At the end of your turn, you vanish and reappear as above. 
+
+You can dismiss this spell as an action.
 
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
-
-## Haste
-*3rd Level Transmutation*<br>
-**Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
-**Components:** V, S, M *(A shaving of licorice root.)*<br>
-**Duration:** Sustained, up to 1 minute
-
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains +1d to Dexterity defence, and it gains an additional action on each of its turns. That action can be used only to take one of the following: [Crawl](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Crawl/), [Drop Prone](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Drop/), [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/), [Point Out](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Point/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), [Speak](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Speak/), [Stand](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stand/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/), [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/), [Take Cover](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Cover/).
-
-When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
 ## Inflamed Feet
 *3rd Level Transmutation*<br>
@@ -53,19 +44,6 @@ If you cast this spell using 2 actions, choose a point within range. All normal 
 If you cast this spell over 8 hours, you enrich the land, increasing the crop yield for farms, in addition to the other benefits of healthy plants. All plants in a half-mile radius centered on a point within range become enriched for 1 year, doubling the crop yield in the area.
 
 If you cast it in the area of a [*Blight*](), plant growth attempts to counteract the [*Blight*](), instead of producing its usual effect.
-
-## Slow
-*3rd Level Transmutation*<br>
-**Casting Time:** 2 Actions<br>
-**Range:** 120 feet (40-foot cube)<br>
-**Components:** V, S, M *(A drop of molasses.)*<br>
-**Duration:** Sustained, up to 1 minute
-
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Make a transmutation attack vs the Wisdom defence of each target. On a hit, an affected target's speed is halved, it takes −1d to Dexterity defence, and has 1 less action per turn.
-
-If the creature attempts to cast a spell with a casting time of 2 actions, it must first roll a d20. On an 10 or lower, the spell doesn't take effect until the creature's next turn, and the creature must use 2 actions on that turn to complete the spell. If it can't, the spell is wasted.
-
-A creature affected by this spell makes a Wisdom defence check vs your tansmutation skill at the end of each of its turns. On a success, the effect ends for it.
 
 ## Speak with Plants
 *3rd Level Transmutation*<br>

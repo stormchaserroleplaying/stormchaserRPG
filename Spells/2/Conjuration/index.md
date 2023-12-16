@@ -39,7 +39,7 @@ After any of these acts, the statue will turn into mud and disintegrate.
 *2nd Level Conjuration (Ritual)*<br>
 **Casting Time:** 10 Minutes<br>
 **Range:** 30 feet<br>
-**Components:** S, V<br>
+**Components:** V, S<br>
 **Duration:** 8 Hours
 
 You conjure a large, magical, equine creature that only you (or another medium or small creature that you choose) can ride. It appears on the ground in an unoccupied space of your choice within range. You may detrmine the creature's appearance, but it must be clearly phantasmal in nature. It is equipped with a saddle, bit and bridle that vanish in a puff of smoke if carried more than 10 feet away from the steed.

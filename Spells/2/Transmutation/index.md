@@ -24,7 +24,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 Make a transmutation attack vs a creature's Wisdom defence. On a hit, the creature becomes cursed for the duration of the spell. The victim of this spell grows hideously disfigured. The physical appearance of the deformity is subject to the caster’s whim (most demon worshipers choose deformities that reflect their Abyssal patron’s shape or form).
 
-**At Higher Levels.** When you cast this spell using a 3 or more mana, the spell's duration increases by 2 days for each additional mana.
+**At Higher Levels.** If you cast this spell using 3 or more mana, then the spell's duration increases by 2 days for each additional mana.
 
 ## Dusk that Settles On Mud
 *2nd level Transmutation (Ritual)*<br>
@@ -56,6 +56,17 @@ You cause a creature or an object you can see within range to grow larger or sma
 **Duration:** Sustained, up to 10 minutes
 
 You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
+
+## Water Breathing
+*2nd Level Transmutation (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 feet<br>
+**Components:** V, S, M *(A short reed or piece of straw)*<br>
+**Duration:** 1 Hour
+
+This spell grants up to 7 willing creatures that you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+
+**At Higher Levels.** If you cast this spell using 3 mana, then the spell's duration increases to 8 hours. If you cast this spell using 4 mana, then the spell's duration increases to 24 hours. If you cast this spell using 9 or more mana, then the spell lasts until it is dispelled.
 
 ## Wood Shape
 *2nd level Transmutation (Ritual)*<br>

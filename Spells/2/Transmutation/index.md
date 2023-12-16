@@ -17,9 +17,9 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 **Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
 
-**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.
+**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same. For example, if you're bipedal, you can't use this spell to become quadrupedal. At any time for the duration of the spell, you can use an action to change your appearance in this way again.
 
-**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. When you make an unarmed attack with these natural weapons, make a melee transmutation attack. On a hit, you deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose.
+**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. When you make an unarmed strike with these natural weapons, make a melee transmutation attack. On a hit, you deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon that you chose. Finally, the natural weapon is magical and you have a +1 bonus to the attack and damage rolls you that make using it.
 
 ## Barkskin
 *2nd level Transmutation*<br>
@@ -57,7 +57,7 @@ Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any 
 **Components:** V, S, M *(A miniature hand sculpted in clay.)*<br>
 **Duration:** Sustained, up to 1 minute
 
-You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. Make a transmutation attack vs the Strength defence of the creature. On hit, the target takes 2d6 bludgeoning damage and is [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) for the spell’s duration.
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature that you can see within 5 feet of it. Make a transmutation attack vs the Strength defence of the creature. On hit, the target takes 2d6 bludgeoning damage and is [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) for the spell’s duration.
 
 Using 2 actions you can cause the hand to crush the [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) target. Make a transmutation attack vs the Strength defence of the creature. On a hit, it takes 2d6 bludgeoning damage, or half as much damage on a miss.
 
@@ -74,11 +74,11 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
-*Bear's Endurance.* The target gains +1d on Constitution checks. It also gains 1dR temporary stamina, which are lost when the spell ends.
+*Bear's Endurance.* The target gains +1d on Constitution checks. It also gains +1dR temporary stamina, which are lost when the spell ends.
 
-*Bull's Strength.* The target gains +1d on Strength checks, and their carrying capacity doubles.
+*Bull's Strength.* The target gains +1d on Strength checks and their carrying capacity doubles.
 
-*Cat's Grace.* The target gains +1d on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
+*Cat's Grace.* The target gains +1d on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/).
 
 *Eagle's Splendor.* The target gains +1d on Charisma checks.
 
@@ -86,7 +86,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 *Owl's Wisdom.* The target gains +1d on Wisdom checks.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, you can target one additional creature for each additional mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, you can target one additional creature for each additional point of mana spent.
 
 ## Enlarge/Reduce
 *2nd level Transmutation*<br>
@@ -152,9 +152,11 @@ A creature affected by this spell makes a Strength defence check vs your transmu
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A drop of bitumen and a spider's leg.)*<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, up to 10 minutes
 
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+*Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface.*
+
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climb speed equal to its walking speed.
 
 ## Spike Growth
 **Casting Time:** 2 Actions<br>
@@ -162,7 +164,11 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 **Components:** V, S, M *(Seven sharp thorns.)*<br>
 **Duration:** Sustained, up to 10 minutes
 
-The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
+Any ground-covering vegetation in a 20-foot radius centered on a point within range becomes very hard and sharply pointed without changing its appearance. In areas of bare earth, roots and rootlets act in the same way. Typically, spike growth can be cast in any outdoor setting except open water, ice, heavy snow, sandy desert, or bare stone.
+
+The area becomes difficult terrain for the duration and any creature moving on foot into or through the spell's area takes 1d4 points of piercing damage for each 5 feet of movement through the spiked area.
+
+When a creature that takes damage from this spell must also succeed at a Dexterity defence check vs your transmutation DC or suffer injuries to its feet and legs that slow its speed by half. This speed penalty lasts for 24 hours or until the injured creature receives a [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) spell (which also restores lost Stamina). Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding on a Medicine check vs. your transmutation save DC.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Perception check vs your transmutation skill to recognize the terrain as hazardous before entering it.
 

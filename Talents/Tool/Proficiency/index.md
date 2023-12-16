@@ -25,5 +25,5 @@ Choose one [tool](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/To
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Tool Expertise
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Tool Expertise
 Choose one [tool](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/) with which you are an expert. You are considered to be a **master** of this tool. You add an additional +1d to checks made using your chosen tool, for a total of +3d.

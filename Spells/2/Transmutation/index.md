@@ -39,7 +39,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 Make a transmutation attack vs a creature's Wisdom defence. On a hit, the creature becomes cursed for the duration of the spell. The victim of this spell grows hideously disfigured. The physical appearance of the deformity is subject to the caster’s whim (most demon worshipers choose deformities that reflect their Abyssal patron’s shape or form).
 
-**At Higher Levels.** When you cast this spell using a 3 or more mana, the spell's duration increases by 2 days for each additional mana.
+**At Higher Levels.** If you cast this spell using 3 or more mana, then the spell's duration increases by 2 days for each additional mana.
 
 ## Dusk that Settles On Mud
 *2nd level Transmutation (Ritual)*<br>

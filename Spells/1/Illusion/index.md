@@ -49,6 +49,19 @@ You cast this spell on an object no more than 1 foot on a side, doubling the obj
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the maximum size of the object increases by 1 foot for each point of mana above the 1st.
 
+## Fear
+*1st Level Illusion*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 feet<br>
+**Components:** V, S<br>
+**Duration:** Sustained, up to 1 minute
+
+You plant fear in the target. Make an illusion attack vs the Wisdom defence of a creature that you can see within range. On a hit, the target becomes [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. Constructs and undead creatures are immune to effect.
+
+While [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) by this spell, a creature must [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn’t have line of sight to you, the creature can make a Wisdom defence check vs your illusion spell skill. On a success, the spell ends for that creature.
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st.
+
 ## Hidden Item
 *1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>

@@ -78,19 +78,6 @@ You bless up to three creatures of your choice within range. For the duration of
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st.
 
-## Cause Fear
-*1st Level Charm*<br>
-**Casting Time:** 2 Actions<br>
-**Range:** 60 Feet<br>
-**Components:** V<br>
-**Duration:** Sustained, up to 1 minute
-
-*You call upon the dread of one's worst nightmare.*
-
-Make a charm attack roll vs the Wisdom defence of one creature that you can see within range. On a hit, the creature becomes [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. The [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) creature can make a Charisma defence check vs your charms spell skill at the end of each of its turns, ending the effect on itself on a success. Constructs and undead creatures are immune to effect.
-
-**At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st. The creatures must be within 30 feet of each other when you target them.
-
 ## Charm Person
 *1st Level Charm*<br>
 **Casting Time:** 2 Actions<br>

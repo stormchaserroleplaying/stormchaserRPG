@@ -6,6 +6,19 @@ grand_parent: Spells
 
 # Evocation
 
+## Fireball
+*3rd level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 150 feet (20-foot radius)<br>
+**Components:** V, S, M *(A piece of bat guano and sulfur.)*<br>
+**Duration:** Instantaneous
+
+A roaring blast of fire appears at a point within range that you designate. Make an evocation attack roll vs the Dexterity defence of each creature within a 20-foot-radius sphere centered on that point. On a hit, a target takes 6d6 fire damage, or half as much on a miss.
+
+The fire spreads around corners and ignites flammable objects in the area that aren't being worn or carried.
+
+**At Higher Levels.** When you cast this spell using 4 or more mana, the damage increases by 1d6 for each additional point of mana.
+
 ## Gather Forth All the World's Waves
 *3rd level Evocation*<br>
 **Casting Time:** 2 Actions<br>
@@ -40,3 +53,4 @@ You can send the message across any distance and even to other planes of existen
 You scatter minerals strange and esoteric as a part of this spell's casting. A 30-foot cube magical zone is created originating from you. All metal objects not held or worn are thrown out of it with haste, as are objects made of stone or bone. 
 
 Make an evocation atack vs the Strength defence of any creature within the area holding or wearing any such object. On a hit, any such held object is pulled out of their hands, landing in a space of your choice immediately outside of the area. Additionally, any creature wearing any such object is pushed 10 feet in a direction of your choice. On a miss, this spell has no effect on a creature.
+

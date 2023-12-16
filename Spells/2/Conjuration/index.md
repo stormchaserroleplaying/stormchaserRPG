@@ -22,23 +22,23 @@ These birds swarm until somehow killed en masse, dispelled, or the crown is remo
 This spell cannot be used indoors.
 
 ## Find Steed
-*2nd level Conjuration (Ritual); Paladin*<br>
-**Casting Time:** 5 minutes<br>
-**Range:** <br>
+*2nd level Conjuration (Ritual)*<br>
+**Casting Time:** 10 minutes<br>
+**Range:** 30 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a *warhorse*, a *pony*, a *camel*, an *elk*, or a *mastiff*. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+You summon a spirit that assumes the form of an unusually intelligent, strong and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a [**Warhorse**](), a [**Pony**](), a [**Camel**](), an [**Elk**](), or a [**Mastiff**](). (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6 and it gains the ability to understand one language of your choice that you speak.
 
-Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
+Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell that you cast that targets only you also target your steed.
 
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time using 1 action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum. Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
+When the steed drops to 0 Stamina, it disappears, leaving behind no physical form. You can also dismiss your steed at any time using 1 action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its Stamina maximum. Whenever the mount disappears, it leaves behind any objects that it was wearing or carrying.
 
 While your steed is within 1 mile of you, you can communicate with each other telepathically.
 
 You can't have more than one steed bonded by this spell at a time. Using 1 action, you can release the steed from its bond at any time, causing it to disappear.
 
-**At Higher Levels:** When you cast this spell using 4 or more mana, the following can be summoned as your steed: a *griffon*, a *pegasus*, a *peryton*, a *dire wolf*, a *rhinoceros*, or a *saber-toothed tiger*.
+**At Higher Levels:** When you cast this spell using 4 or more mana, the following can be summoned as your steed: a [**Griffon**](), a [**Pegasus**](), a [**Peryton**](), a [**Dire Wolf**](), a [**Rhinoceros**](), or a [**Saber-Toothed Tiger**]().
 
 ## Misty Step
 *2nd level Conjuration*<br>
@@ -60,6 +60,8 @@ A statue of animated stone constructs itself. It stands twice your height and is
 * **Attack:** The statue charges to strike. Make a melee conjuration attack against a target that you can see within 30 feet of the statue. On a hit, this attack deals 5d6 bludgeoning damage.
 * **Defend:** The statue interposes itself between you and your enemies. This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +3 shield bonus vs melee and ranged attacks until the start of your next turn.
 * **Lift:** The status will lift one thing weighing 500 lbs. or less and move it up to 30 feet.
+
+After any of these acts, the statue will turn into mud and disintegrate.
 
 ## Phantom Steed
 *2nd Level Conjuration (Ritual)*<br>

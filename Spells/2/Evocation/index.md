@@ -12,10 +12,10 @@ grand_parent: Spells
 **Range:** Self (30-foot cone)<br>
 **Components:** S, M *(A vial of meltwater.)*<br>
 **Duration:** Instantaneous
- 
+
 A burst of cold energy emanates from you in a 30-foot cone. Make an evocation attack vs the Constitution defense of each creature in the area. On a hit, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a miss, a creature takes half as much damage and isn’t hindered by ice.
- 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional point of mana.
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional mana.
 
 ## Consecrate/Desecrate
 *2nd level Evocation*<br>
@@ -24,7 +24,7 @@ A burst of cold energy emanates from you in a 30-foot cone. Make an evocation at
 **Components:** V, S, M *(A vial of holy water and 25 gp worth of silver dust, all of which must be sprinkled around the area and are consumed.)*<br>
 **Duration:** 8 Hours
 
-This spell blesses or curses an area in a 20-foot radius sphere centered on a point which you touch. Choose one of the following effects when you cast the spell: 
+This spell blesses or curses an area in a 20-foot radius sphere centered on a point which you touch. Choose one of the following effects when you cast the spell:
 
 **Consecrate.** Undead cannot be created within or summoned into the area. If the consecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or aligned higher power, undead creatures within the area suffer -1d on attack rolls and other creatures gain +1d on attack rolls to hit them.
 
@@ -49,7 +49,7 @@ If the target being pushed would be moved into the space of a larger creature or
 
 If the target being pushed would be moved into a creature of its own size or smaller and your attack roll hits the second creature's Dexterity defence, then that creature takes 1d8 bludgeoning damage. If your attack roll hits the second creature's Strength defence, then that creature is pushed back 5 feet as well, with the first target moving into its former space. This forced movement then ends for both creatures and both creatures fall prone if the attack hit their Dexterity defence.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 and the distance pushed by 5 feet for each additional point of mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 and the distance pushed by 5 feet for each additional mana.
 
 ## Gust of Wind
 *2nd level Evocation*<br>
@@ -87,4 +87,30 @@ You gain +1d to hit shapechangers and they make their defence check with -1d. If
 
 On each of your turns after you cast this spell, you can use 2 actions to move the beam up to 60 feet in any direction.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d10 for each additional point of mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d10 for each additional mana.
+
+## Scorching Ray
+*2nd level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 feet<br>
+**Components:** V, S<br>
+**Duration:** Instantaneous
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+
+Make a ranged evocation attack for each ray. On a hit, the target takes 2d6 fire damage.
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, you create one additional ray for each additional mana.
+
+## Shatter
+*2nd level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet (10-foot radius)<br>
+**Components:** V, S, M *(A chip of mica.)*<br>
+**Duration:** Instantaneous
+
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Make an evocation attack vs the Constitution defence of each creature in a 10-foot-radius sphere centered on that point. A creature takes 3d8 sonic damage on a hit, or half as much damage on a miss. You gain +1d against creatures made of inorganic material such as stone, crystal, or metal.
+
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+
+**At Higher Levels**. When you cast this spell using 3 or more mana the damage increases by 1d8 for each additional mana.

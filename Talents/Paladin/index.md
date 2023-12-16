@@ -60,7 +60,7 @@ Divine magic flowing through you makes you immune to disease.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 20 CP of Paladin Talents
-You learn the [Find Steed](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Conjuration/#find-steed) spell.  You always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+You learn the [Find Steed](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Conjuration/#find-steed) spell. You always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
 
 ### Aura of Protection
 

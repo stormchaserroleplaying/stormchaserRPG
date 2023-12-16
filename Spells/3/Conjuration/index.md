@@ -8,14 +8,14 @@ grand_parent: Spells
 
 ## Cozy Cabin
 *3rd level Conjuration (Ritual)*<br>
-**Casting Time:** 1 minute<br>
-**Range:** Self (20-foot square)<br>
-**Components:** V, S, M *(A tiny log cabin.)*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** Self<br>
+**Components:** V, S, M *(A tiny model of a dwelling.)*<br>
 **Duration:** 12 Hours
 
-You create a a structure around yourself on a solid surface occupying no more that 20 square feet of space with walls up to 10 feet high. The structure can be a simple log cabin, or you can style it to match the environment - a cave grotto, straw roofed roundhut, or a small house in the city. It has one door that does not include a lock, but has a fastener to which a lock can be applied. Other creatures can freely enter and exit the hut without damaging it, but if you exit the hut, the spell ends. You may also end the spell using 1 action.
+You create a structure around yourself on a solid surface no more than 10 feet high and occupying no more that 16 5-foot-squares of space (e.g. a 20-foot by 20-foot square). The structure can be a simple log cabin, or you can style it to match the environment - a cave grotto, straw roofed roundhut, or a small house in the city. It has one door that does not include a lock, but has a fastener to which a lock can be applied. Other creatures can freely enter and exit the hut without damaging it, but if you exit the hut, the spell ends. You may also end the spell using 1 action.
 
-The interior has a a small fireplace, and comes equiped with 10 bedrolls and cooking utensils, which disappear when the spell ends. You can light a magical fire within the fireplace using 1 action, which can be [sustained](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustaining-spells) for the duration of the spell. The interior is lit with a small magical light that you can light or extinguish at will using 1 action. The climate inside the hut is comfortable and allows creatures inside it to withstand most hostile weather conditions, but incredible heat or cold, powerful storms, and winds of hurricane force or greater destroy the hut.
+The interior comes equipped with 8 cots, a chamber pot, cooking utensils and a small fireplace holding a magical fire, which disappear when the spell ends. The fireplace can be lit or extinguished at will using 1 action, which has the [concentrate]() trait. Additionally, the interior is lit with a small magical light that you can also light or extinguish at will using 1 action, which has the [concentrate]() trait. The climate inside the hut is comfortable and allows creatures inside it to withstand most hostile weather conditions, but incredible heat or cold, powerful storms, and winds of hurricane force or greater destroy the hut.
 
 ## Create Food and Water
 *3rd level Conjuration (Ritual)*<br>

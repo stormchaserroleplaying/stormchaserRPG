@@ -60,3 +60,16 @@ A statue of animated stone constructs itself. It stands twice your height and is
 * **Attack:** The statue charges to strike. Make a melee conjuration attack against a target that you can see within 30 feet of the statue. On a hit, this attack deals 5d6 bludgeoning damage.
 * **Defend:** The statue interposes itself between you and your enemies. This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +3 shield bonus vs melee and ranged attacks until the start of your next turn.
 * **Lift:** The status will lift one thing weighing 500 lbs. or less and move it up to 30 feet.
+
+## Phantom Steed
+*2nd Level Conjuration (Ritual)*<br>
+**Casting Time:** 10 Minutes<br>
+**Range:** 30 feet<br>
+**Components:** V, S<br>
+**Duration:** 8 Hours
+
+You conjure a large, magical, equine creature that only you (or another medium or small creature that you choose) can ride. It appears on the ground in an unoccupied space of your choice within range. You may detrmine the creature's appearance, but it must be clearly phantasmal in nature. It is equipped with a saddle, bit and bridle that vanish in a puff of smoke if carried more than 10 feet away from the steed.
+
+The creature uses the statistics for a [riding horse](), except that it has a speed of 50 feet. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use 1 action to dismiss it or if the steed is reduced to 0 Stamina.
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the steed's speed increases by 10 feet for each mana point beyond the 2nd.

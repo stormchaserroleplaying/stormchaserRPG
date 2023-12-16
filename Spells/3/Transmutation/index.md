@@ -46,11 +46,13 @@ Billowing flames grant you explosive speed. For the duration, your speed increas
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.
+You cause the plants within the area to be healthier and more fruitful. There are two possible uses for the spell, granting either immediate or long-term benefits.
 
 If you cast this spell using 2 actions, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
 
-If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
+If you cast this spell over 8 hours, you enrich the land, increasing the crop yield for farms, in addition to the other benefits of healthy plants. All plants in a half-mile radius centered on a point within range become enriched for 1 year, doubling the crop yield in the area.
+
+If you cast it in the area of a [*Blight*](), plant growth attempts to counteract the [*Blight*](), instead of producing its usual effect.
 
 ## Slow
 *3rd Level Transmutation*<br>
@@ -72,21 +74,12 @@ A creature affected by this spell makes a Wisdom defence check vs your tansmutat
 **Components:** V, S<br>
 **Duration:** 10 Minutes
 
-You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+You imbue plants and fungi within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell’s area within the past day, gaining information about creatures that have passed, weather and other circumstances. Cunning plant or fungus monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.
 
-You can also turn difficult terrain caused by plant life (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plant life is present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.
+You can also turn difficult terrain caused by plant life (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plant life is present into difficult terrain that lasts for the duration. For example, causing vines and branches to hinder pursuers.
 
-Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.
+Plants might be able to perform other tasks on your behalf, at the GM’s discretion. This spell does not enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.
 
-If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
+If a plant or fungi creature is in the area, then you can communicate with it as if you shared a common language. However, you gain no magical ability to influence it. This spell does not make plants and fungi more friendly or intelligent than normal. Most normal plants and fungi have a distinctive view of the world around them, so they don't recognise details about creatures or know anything about the world beyond their immediate vicinity.
 
 This spell can cause the plants created by the [Entangle](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#entangle) spell to release a [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) creature.
-
-## Water Breathing
-*3rd Level Transmutation [Ritual]*<br>
-**Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
-**Components:** V, S, M *(A short reed or piece of straw)*<br>
-**Duration:** 24 Hours
-
-This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.

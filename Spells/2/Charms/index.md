@@ -6,17 +6,6 @@ grand_parent: Spells
 
 # Charms
 
-## Hold Person
-*2nd level Charm*<br>
-**Casting Time:** 2 Action<br>
-**Range:** 60 feet<br>
-**Components:** V, S, M *(A small, straight piece of iron.)*<br>
-**Duration:** Sustained, up to 1 minute
-
-Make a charm attack vs the Wisdom defense of a humanoid within range that you can see. On a hit the target is [paralysed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/) for the duration. At the end of each of its turns, the target can make Wisdom defence check vs your charms skill. On a success, the spell ends on the target.
-
-**At Higher Levels.** When you cast this spell using 3 or more mana, you can target one additional humanoid for each additional mana. The humanoids must be within 30 feet of each other when you target them.
-
 ## To This Point, Bring the East!
 *2nd level Charm (Ritual)*<br>
 **Casting Time:** 1 Action<br>

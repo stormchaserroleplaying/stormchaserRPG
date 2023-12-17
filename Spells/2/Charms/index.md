@@ -24,10 +24,16 @@ At the end of each of its turns, a creature affected by this spell can make anot
 ## Zone of Truth
 *2nd level Charm*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 feet (15-foot radius sphere)<br>
+**Range:** 30 feet (20-foot radius sphere)<br>
 **Components:** V, S<br>
-**Duration:** Instantaneous
+**Duration:** 10 Minutes
 
-You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Make a charm attack vs the Charisma defence of each creature in the area. Additionally, until the spell ends, when a creature that enters the spell's area for the first time must make a Charisma defence check vs your charms skill. On a hit or failed defence check, a creature can't speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
+You designate a spherical zone with a radius of up to 20 foot (smaller at the caster's discretion) centered on a point within range in which creatures are compelled to speak only truth. Creatures within or entering the area have difficulty lying.
 
-An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
+When the spell is cast, make a charm attack vs the Charisma defence of each potentially affected creature. When a creature first enters the area, it must make a Charisma defence check vs your charms skill.
+
+If a creature leaves and reenters the area, you nevertheless continue to use the result of the initial roll.
+
+Affected creatures are aware of this enchantment; therefore, they can avoid answering questions to which they would normally respond with a lie, or they can be evasive as long as they remain within the boundaries of the truth.
+
+On a hit or failed defence check, a creature can't speak any deliberate and intentional lies while within the radius. On a critical hit, the target also suffers -1d to [deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) checks.

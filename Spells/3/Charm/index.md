@@ -22,7 +22,7 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 **Casting Time:** 2 Actions<br>
 **Range:** 60 feet<br>
 **Components:** V, S, M *(A small, straight piece of iron.)*<br>
-**Duration:** 1 Round, or 4 Rounds on Critical Hit
+**Duration:** Sustained, or 4 Rounds on Critical Hit
 
 *You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place.*
 

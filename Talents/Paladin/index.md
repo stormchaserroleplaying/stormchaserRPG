@@ -15,7 +15,7 @@ Through a select, worthy few shines the power of the divine. Called paladins, th
 | Lay on Hands | 5 | - |
 | Divine Smite | 10 | 10 CP of Paladin Talents |
 | Divine Health | 5 | 20 CP of Paladin Talents |
-| Find Steed | 5 | 20 CP of Paladin Talents |
+| Find Steed | 4 | 20 CP of Paladin Talents |
 | Aura of Protection | 20 | 2nd Level Spells and 35 CP of Paladin Talents |
 | Aura of Courage | 30 | 3rd Level Spells and 80 CP of Paladin Talents |
 | Greater Divine Smite | 35 | 3rd Level Spells, Divine Smite and 110 CP of Paladin Talents |

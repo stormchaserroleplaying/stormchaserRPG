@@ -15,7 +15,7 @@ grand_parent: Spells
 
 A burst of cold energy emanates from you in a 30-foot cone. Make an evocation attack vs the Constitution defense of each creature in the area. On a hit, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a miss, a creature takes half as much damage and isn’t hindered by ice.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional point of mana.
 
 ## Consecrate/Desecrate
 *2nd level Evocation*<br>
@@ -49,7 +49,7 @@ If the target being pushed would be moved into the space of a larger creature or
 
 If the target being pushed would be moved into a creature of its own size or smaller and your attack roll hits the second creature's Dexterity defence, then that creature takes 1d8 bludgeoning damage. If your attack roll hits the second creature's Strength defence, then that creature is pushed back 5 feet as well, with the first target moving into its former space. This forced movement then ends for both creatures and both creatures fall prone if the attack hit their Dexterity defence.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 and the distance pushed by 5 feet for each additional mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 and the distance pushed by 5 feet for each additional point of mana.
 
 ## Gust of Wind
 *2nd level Evocation*<br>
@@ -68,7 +68,7 @@ When the spell is first cast, make an evocation spell attack roll vs the Strengt
 
 Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to the spellcaster.
 
-The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
+The gust disperses gas or vapour, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
 On each of your turns before the spell ends, you can use 1 action to change the direction in which the line blasts from them.
 
@@ -81,26 +81,26 @@ On each of your turns before the spell ends, you can use 1 action to change the 
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
-When the spell is first cast and at the end of each of your turns for the spell's duration, any creature within the spell's area is engulfed in ghostly flames that cause searing pain. Make a evocation attack vs the Constitution defence of each creature inside the area. On a hit, it takes 2d10 sacred damage, or half as much damage on a miss. Additionally, any creature that enters the spell's area for the first time on a turn must also make a Constitution defence check vs your evocation spell skill. It takes 2d10 sacred damage on a failed check, or half as much damage on a successful one.
+When the spell is first cast and at the end of each of your turns for the spell's duration, any creature within the spell's area is engulfed in ghostly flames that cause searing pain. Make an evocation attack vs the Constitution defence of each creature inside the area. On a hit, it takes 2d12 sacred damage, or half as much damage on a miss. Additionally, any creature that enters the spell's area for the first time on a turn must also make a Constitution defence check vs your evocation spell skill. It takes 2d10 sacred damage on a failed check, or half as much damage on a successful one.
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
 On each of your turns after you cast this spell, you can use 2 actions to move the beam up to 60 feet in any direction.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d10 for each additional mana.
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 for each additional point of mana.
 
 ## Scorching Ray
 *2nd level Evocation*<br>
-**Casting Time:** 2 Actions<br>
+**Casting Time:** 1 Action<br>
 **Range:** 120 feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+You fire a ray of heat and flame. Make an evocation attack roll against a single creature. On a hit, the target takes 2d6 fire damage.
 
-Make a ranged evocation attack for each ray. On a hit, the target takes 2d6 fire damage.
+For each additional action you use when Casting the Spell, you can fire an additional ray at a different target, to a maximum of three rays targeting three different targets for 3 actions. These attacks each increase your multiple attack penalty, but you don't increase your multiple attack penalty until after you make all the spell attack rolls for scorching ray. If you spend 2 or more actions Casting the Spell, the damage increases to 4d6 fire damage on a hit.
 
-**At Higher Levels.** When you cast this spell using 3 or more mana, you create one additional ray for each additional mana.
+**At Higher Levels.** When you cast this spell using 3 mana, the damage to each target increases by 1d6 for the 1-action version, or by 2d6 for the 2-action and 3-action versions.
 
 ## Shatter
 *2nd level Evocation*<br>
@@ -109,8 +109,8 @@ Make a ranged evocation attack for each ray. On a hit, the target takes 2d6 fire
 **Components:** V, S, M *(A chip of mica.)*<br>
 **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Make an evocation attack vs the Constitution defence of each creature in a 10-foot-radius sphere centered on that point. A creature takes 3d8 sonic damage on a hit, or half as much damage on a miss. You gain +1d against creatures made of inorganic material such as stone, crystal, or metal.
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Make an evocation attack vs the Constitution defence of each creature in a 10-foot-radius sphere centered on that point. A creature takes 6d4 sonic damage on a hit, or half as much damage on a miss. You gain +1d against creatures made of inorganic material such as stone, crystal, or metal.
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
-**At Higher Levels**. When you cast this spell using 3 or more mana the damage increases by 1d8 for each additional mana.
+**At Higher Levels**. When you cast this spell using 3 or more mana the damage increases by 2d4 for each additional point of mana.

@@ -50,7 +50,7 @@ You can add one Martial Die of additional damage when determining the extra dama
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-The hard-fought battles of your past have instilled in you a wellspring of resolve, which is represented by grit points. You have a number of grit points equal to 1 + your Wisdom modifier (minimum of 1 point).
+The hard-fought battles of your past have instilled in you a wellspring of resolve, which is represented by grit points. You have a number of grit points equal to 1 + your Wisdom, Intelligence, or Charisma modifier (chosen when you acquire this talent)(minimum of 1 point).
 
 You can spend these points to fuel various grit features. You start knowing four such features: Buck Up, Bullet Time, Covering Fire, and Dodge Roll. You learn more grit features as you gain levels in this class.
 
@@ -90,7 +90,7 @@ You can load or reload a firearm you are holding as part of your move or your ac
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** Grit and 6 other Gunslinger Talents
-Once per turn when you miss with an attack roll, you can spend 1 grit point to add your Wisdom modifier to the roll, potentially turning the miss into a hit.
+Once per turn when you miss with an attack roll, you can spend 1 grit point to add your Grit modifier to the roll, potentially turning the miss into a hit.
 
 ### Bad Medicine II
 

@@ -37,7 +37,7 @@ You touch the body of a deceased creature, anointing it with the ceremonial oils
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has +1d on [Stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-**At Higher Levels:** When you cast this spell using 3 or more mana, the duration increases to 8 hours. If you case this spell using 5 or more mana, the duration increases to 24 hours.
+**At Higher Levels:** When you cast this spell using 3 mana, the duration increases to 8 hours. If you case this spell using 4 mana, the duration increases to 24 hours.
 
 ## Warding Bond
 *2nd level Ward (Ritual)*<br>

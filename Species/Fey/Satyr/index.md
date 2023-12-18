@@ -5,7 +5,7 @@ grand_parent: Species
 ---
 
 # Satyr
-Satyrs have a well-earned reputation for their good spirits, gregarious personalities, and love of revels. Most satyrs are driven by simple desires, to see the world and to sample its every pleasure. While their spontaneity and whimsy sometimes put them at odds with more stoic peoples, satyrs rarely let the moodiness of others hinder their own happiness. Life is a blessing from the gods, after all, and the proper response to such a gift, as far as most satyrs are concerned, is to accept it with relish.
+Satyrs are merry fey humanoids with the legs and horns of a goat. Also known as fauns, they delight in singing, dancing, feasting and debauchery.
 
 ## Age
 Satyrs mature and age at about the same rate as dwarves.

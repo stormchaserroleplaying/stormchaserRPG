@@ -41,21 +41,21 @@ As an action on your turn, you can move the lights up to 60 feet to a new spot w
 
 Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes the damage indicated below based upon your patron of choice plus your spellcasting modifier.
 
-For each additional action you use when Casting the Spell, you can fire an additional beam at a different target, to a maximum of three rays targeting three different targets for 3 actions. These attacks each increase your multiple attack penalty, but you don’t increase your multiple attack penalty until after you make all the spell attack rolls for this spell. If you spend 2 or more actions Casting the Spell, the damage increases as shown below.
+For each additional action you use when Casting the Spell, you can fire an additional beam at a different target, to a maximum of three beams targeting three different targets for 3 actions.
 
-| Patron | Damage Die, 1 action | Damage Die, 2+ action | Damage Type |
-| :----- | :------------------- | :-------------------- | :---------- |
-| The Archfey | 1d12 | 2d12 | Mental |
-| The Celestial | 1d12 | 2d12 |Sacred |
-| The Djinn - Fire | 2d6 | 4d6 | Fire |
-| The Djinn - Earth | 2d8 | 3d8 | Corrosive |
-| The Djinn - Air | 3d4 | 6d4| Sonic |
-| The Djinn - Water | 1d10 | 2d10 | Cold |
-| The Fiend | 2d6 or 1d12 |  4d6 or 2d12 |Fire or Profane |
-| The Great Old One | 1d12 | 2d12 |Mental |
-| The Hexblade | 1d12 | 2d12 |Energy |
-| The Undead | 1d12 | 2d12 |Decay or Profane |
-| The Undying | 1d12 | 2d12 |Energy |
+| Patron | Damage Die | Damage Type |
+| :----- | :------------------- | :---------- |
+| The Archfey | 1d12 | Mental |
+| The Celestial | 1d12 | Sacred |
+| The Djinn - Fire | 2d6 | Fire |
+| The Djinn - Earth | 2d8 | Corrosive |
+| The Djinn - Air | 3d4 | Sonic |
+| The Djinn - Water | 1d10 | Cold |
+| The Fiend | 2d6 or 1d12 | Fire or Profane |
+| The Great Old One | 1d12 | Mental |
+| The Hexblade | 1d12 | Energy |
+| The Undead | 1d12 | Decay or Profane |
+| The Undying | 1d12 | Energy |
 
 ## Fire Bolt
 *Evocation Cantrip*<br>

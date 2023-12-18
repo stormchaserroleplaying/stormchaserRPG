@@ -5,29 +5,29 @@ grand_parent: Species
 ---
 
 # Hobgoblin
-War is the lifeblood of hobgoblins. Its glories are the dreams that inspire them. Its horrors don't feature in their nightmares. Cowardice is more terrible to hobgoblins than dying, for they carry their living acts into the afterlife. A hero in death becomes a hero eternal. 
+Fierce and militaristic, hobgoblins survive by conquest. The raw materials to fuel their war machines come from raids, their armaments and buildings from the toil of slaves worked to death. Naturally ambitious and envious, hobgoblins seek to better themselves at the expense of others of their kind, yet in battle they put aside petty differences and fight with discipline rivaling that of the finest soldiers. Hobgoblins have little love or trust for one another, and even less for outsiders. Life for these brutes consists of duty to those of higher station, domination of those below, and the rare opportunities to seize personal glory and elevate their status.
 
 ## Age
-Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+Hobgoblins mature at the same rate as humans, but their lives are typically shorter.
 
 | Age Bracket | Age |
 |:-----------:|:---:|
-| Child       | <?? |
-| Young Adult | ??-?? |
-| Adult       | ??-?? |
-| Middle Aged | ??-?? |
-| Old         | ??-?? |
-| Venerable   | >?? |
-| Maximum Age | ?? + ?d?? |
+| Child       | <16 |
+| Young Adult | 16-22 |
+| Adult       | 23-29 |
+| Middle Aged | 30-44 |
+| Old         | 45-59 |
+| Venerable   | 60+ |
+| Maximum Age | 60 + 2d10 |
 
-| First Class Talent | Random Starting Age |
-|:------------------:|:-------------------:|
-| Barbarian, Rogue, Sorcerer and Warlock | ?? + 1d4 (??-??) years |
-| Bard, Fighter, Paladin and Ranger      | ?? + 1d6 (??-??) years |
-| Cleric, Druid, Monk and Wizard         | ?? + 2d6 (??-??) years |
+| First Talent Tree | Random Starting Age |
+|:-----------------:|:-------------------:|
+| Barbarian, Rogue, Sorcerer and Warlock | 15 + 1d4 (16-19) years |
+| Bard, Fighter, Paladin and Ranger      | 15 + 1d6 (16-21) years |
+| Cleric, Druid, Monk and Wizard         | 15 + 2d6 (17-27) years |
 
 ## Appearance
-Hobgoblins are generally taller than their goblin cousins but not quite as big as bugbears. They have curved, pointed ears and noses that turn bright red or blue during displays of emotion.
+Burly and muscled, hobgoblins stand a few inches shorter than the average human, and their long arms, thick torsos, and relatively short legs give them an almost apelike stature. Hobgoblins’ skin is a sickly gray-green that darkens to mossy green after long exposure to the sun. Their eyes burn fiery orange or red, and their broad faces and sharply pointed ears give their features a somewhat feline cast. Hobgoblins lack facial hair, and even hobgoblin women are bald. Except for their size, hobgoblins bear a strong physical resemblance to their goblin cousins.
 
 ## Features
 
@@ -48,9 +48,9 @@ When you use the Aid action in this way, choose one of the options below on a su
 * **Spite.** Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target gains -1d on the next attack roll it makes within the next minute.
 
 ## Size
-Hobgoblins are usually between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium.
+Hobgoblins are usually between around 5 feet tall and weigh between 150 and 200 pounds. Your size is Medium.
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Multiplier |
 |:------:|:-----------:|:---------------:|:-----------:|:-----------------:|
-| Hobgoblin, Male   | 4'10" | +2d10"<br>(5'0" – 6'6") | 120 lbs. | +(2d10 × 2d4) lbs.<br>(124 – 280 lbs.) |
-| Hobgoblin, Female | 4'5"  | +2d10"<br>(4'7" - 6'1") | 85 lbs.  | +(2d10 × 2d4) lbs.<br>(89 – 245 lbs.) |
+| Hobgoblin, Male   | 4'2" | +2d8"<br>(4'4" – 5'6") | 165 lbs. | +(2d8 × 2d4) lbs.<br>(169 – 293 lbs.) |
+| Hobgoblin, Female | 4'0"  | +2d8"<br>(4'2" - 5'4") | 145 lbs.  | +(2d8 × 2d4) lbs.<br>(149 – 273 lbs.) |

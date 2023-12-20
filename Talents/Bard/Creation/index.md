@@ -13,16 +13,16 @@ Dwarves and gnomes often encourage their bards to become students of the Song of
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Mote of Potential           | 5  | Bardic Performance |
-| Performance of Creation     | 10  | Bardic Performance |
-| Animating Performance       | 25  | Performance of Creation and 50 CP of Bard Talents |
-| Creative Crescendo          | 50  | Animating Performance and 320 CP of Bard Talents |
+| Mote of Potential       | 5  | Bardic Performance |
+| Performance of Creation | 5  | Bardic Performance |
+| Animating Performance   | 20 | Performance of Creation and 20 CP of Bard Talents |
+| Creative Crescendo      | 50 | Animating Performance and 70 CP of Bard Talents |
 
 ### Mote of Potential
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 3 Character Points<br>**Prerequisite:** Bardic Performance
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Performance
 When you select a target for Bardic Inspiration, you can utter a note from the song of creation to create a tiny mote of potential, which orbits within 5 feet of that creature. The mote is intangible and invulnerable. It lasts until the bardic inspiration die is lost. The mote looks like a musical note, a star, a flower, or another symbol of art or life that you choose.
 
 When the creature uses the bardic inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:
@@ -37,10 +37,10 @@ When the creature uses the bardic inspiration die, the mote provides an addition
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 2 Character Points<br>**Actions:** 1<br>**Prerequisite:** Bardic Performance
-You can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp The item glimmers softly and faint hear music can be heard by anyone touching it. The created item disappears after a number of hours equal to your Charisma bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
+#### **Cost:** 5 Character Points<br>**Actions:** 1<br>**Prerequisite:** Bardic Performance
+You can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 100 gp. The item glimmers softly and faint music can be heard by anyone touching it. The created item disappears after a number of hours equal to your Charisma bonus. For examples of items you can create, see [Equipment](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
 
-Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend mana to use this feature again as detailed in the table below. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
+Once you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend mana to use this feature again, as detailed in the table below. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.
 
 | Performance of Creation Size | Martial Feat Die Required | Mana Cost |
 |:------:|:--:|:-------------:|
@@ -53,7 +53,7 @@ Once you create an item with this feature, you can’t do so again until you fin
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Actions:** 1<br>**Prerequisite:** Performance of Creation and 50 CP of Bard Talents
+#### **Cost:** 20 Character Points<br>**Actions:** 1<br>**Prerequisite:** Performance of Creation and 20 CP of Bard Talents
 You can animate one large or smaller nonmagical item within 30 feet of you that isn’t being worn or carried. The animate item uses the Dancing Item stat block. The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 integrity, or until you die.
 
 In combat, the item shares your initiative count, but it takes its turn immediately after yours. It can move on its own, but the only action that it takes on its turn is the Dodge action, unless you spend an action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the item can take any action of its choice, not just dodge.
@@ -102,7 +102,7 @@ When you use your Bardic Performance talent, you can command the item as part of
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 45 Character Points<br>**Prerequisite:** Animating Performance and 270 CP of Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Animating Performance and 70 CP of Bard Talents
 When you use your Performance of Creation feature, you can create more than one item at once. The number of items equals your Charisma modifier (minimum of two items). If you create an item that would exceed that number, you choose which of the previously created items disappears. Only one of these items can be of the maximum size you can create; the rest must be small or tiny.
 
 You are no longer limited by gp value when creating items with Performance of Creation.

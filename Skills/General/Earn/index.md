@@ -8,7 +8,7 @@ grand_parent: Skills
 
 <div style="margin-top:-10px;"></div>
 
-#### *Downtime*<br>**Actions:** Special<br>**Required Proficiency:** Trained<br>**Applicable Skills:** History, Performance
+#### *Downtime*<br>**Actions:** Special<br>**Required Proficiency:** Trained<br>**Applicable Skills:** Lore, Performance
 You can use a [skill](https://stormchaserroleplaying.com/stormchaserRPG/Skills/) (typically [lore](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Lore/) or [performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/)) or [tool](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/) (typically [artisan's tools](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Artisan/)) to earn money during downtime. You must be trained to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Since this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won’t come up in every campaign.
 
 In some cases, the GM might let you use a different skill to Earn Income through specialised work. Usually, this is scholarly work, such as using [theology](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Theology/) in a monastery to

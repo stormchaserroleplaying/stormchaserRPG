@@ -9,9 +9,8 @@ General skill actions are skill actions that can be used with multiple different
 
 | Action | Proficiency | Applicable Skills |
 |:------:|:----------------------------:|:-----------------:|
-| Decipher Writing | Trained | Arcana, History, Insight Theology |
+| Decipher Writing | Trained | Arcana, History, Theology |
 | Earn Income | Trained | History, Performance |
-| Identify Magic | Trained | Arcana, Nature, Theology |
 | Learn a Spell | Trained | Arcana, Nature, Theology |
 | Recall Knowledge | Untrained | Arcana, History, Investigation, Medicine, Nature, Theology |
 | Subsist | Untrained | Persuasion, Survival |
@@ -23,5 +22,4 @@ General skill actions are skill actions that can be used with multiple different
 ## Trained Actions
 * [Decipher Writing](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/DecipherWriting)
 * [Earn Income](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/EarnIncome)
-* [Identify Magic](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/IdentifyMagic)
 * [Learn a Spell](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/LearnSpell)

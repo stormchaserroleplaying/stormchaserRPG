@@ -1,10 +1,10 @@
 ---
-title: History
+title: Lore
 parent: Skills
 ---
 
-# History
-History is an **Intelligence**-based skill that measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+# Lore
+Lore is an **Intelligence**-based skill that measures your ability to recall information about historical events, legendary people, ancient kingdoms, past disputes, recent wars and lost civilizations.
 
 ## Untrained Actions
 * [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)

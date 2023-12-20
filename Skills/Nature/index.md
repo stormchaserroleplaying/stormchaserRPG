@@ -9,10 +9,6 @@ Nature is an **Intelligence**-based skill that measures your ability to recall l
 ## Untrained Actions
 * [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
 
-## Trained Actions
-* [Identify Magic](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/IdentifyMagic)
-* [Learn a Spell](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/LearnSpell)
-
 ## Subskills
 
 ### Beast Lore

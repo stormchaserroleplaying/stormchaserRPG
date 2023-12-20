@@ -11,8 +11,6 @@ Theology is an **Intelligence**-based skill that measures your ability to recall
 
 ## Trained Actions
 * [Decipher Writing](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/DecipherWriting)
-* [Identify Magic](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/IdentifyMagic)
-* [Learn a Spell](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/LearnSpell)
 
 ## Subskills
 

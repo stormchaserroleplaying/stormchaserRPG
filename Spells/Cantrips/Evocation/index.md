@@ -50,12 +50,15 @@ For each additional action you use when Casting the Spell, you can fire an addit
 | The Djinn - Fire | 2d6 | Fire |
 | The Djinn - Earth | 2d8 | Corrosive |
 | The Djinn - Air | 3d4 | Sonic |
-| The Djinn - Water | 1d10 | Cold |
+| The Djinn - Water | 1d10 ** | Cold |
+| The Fathomless | 1d10 ** | Cold |
 | The Fiend | 2d6 or 1d12 | Fire or Profane |
 | The Great Old One | 1d12 | Mental |
 | The Hexblade | 1d12 | Energy |
 | The Undead | 1d12 | Decay or Profane |
 | The Undying | 1d12 | Energy |
+
+** If the target takes damage from this spell, it's speed is reduced by 10 feet until the beginning of your next turn
 
 ## Fire Bolt
 *Evocation Cantrip*<br>

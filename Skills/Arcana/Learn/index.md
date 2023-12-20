@@ -14,7 +14,7 @@ If you’re an arcane spellcaster, you can use the [arcana](https://stormchaserr
 You can gain access to a new spell from someone who knows that spell or from magical writing like a spellbook or scroll.
 
 To learn the spell, you must do the following:
-* Spend 1 hour per level of the spell, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
+* Spend 1 hour per level of the spell (10 minutes for cantrips), during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
 * Have materials of the cost indicated in the table below.
 * Attempt an [arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana/) check (DC determined by the GM, often close to the DC on the table below). Uncommon or rare spells have higher DCs.
 

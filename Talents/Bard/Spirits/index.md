@@ -18,7 +18,7 @@ You employ tools that aid you in channeling spirits, be they historical figures 
 |:------:|:--:|:-------------:|
 | Tales From Beyond   | 5  | Bardic Performance |
 | Spirit Session      | 20 | Tales From Beyond and 20 CP of Bard Talents |
-| Mystical Connection | 50 | Spirit Session and 7 CP of Bard Talents |
+| Mystical Connection | 50 | Spirit Session and 70 CP of Bard Talents |
 
 ### Tales From Beyond
 

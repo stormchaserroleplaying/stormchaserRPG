@@ -9,10 +9,6 @@ grand_parent: Skills
 <div style="margin-top:-10px;"></div>
 
 #### *Manipulate*<br>**Actions:** 2<br>**Required Proficiency:** Untrained
-You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer’s Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).
+You hide a small object on your person (such as a weapon with the [light](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#light) property). You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture.
 
-You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters Seeking in an area compare their Perception check results to your Stealth DC to determine whether they find the object.
-
-**Success:** The object remains undetected.
-
-**Failure:** The searcher finds the object.
+When you try to sneak a concealed object past someone who might notice it, when a creature is specifically you for an item, or when a creature is using the [seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) action in an area, the GM rolls a [perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) check for the obersever and compares it to your [stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) skill. If the creature succeeds, they find the object. If the creatures fails the check, the object remains undetected.

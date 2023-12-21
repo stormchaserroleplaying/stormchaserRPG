@@ -14,7 +14,7 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 | Bardic Performance  | 5  | Trained in Performance |
 | Jack of All Trades  | 5  | - |
 | Vicious Mockery     | 5  | - |
-| Virtuoso            | 50 | 190 CP of Bard Talents |
+| Virtuoso            | 100 | 190 CP of Bard Talents |
 
 ### Bardic Performance
 
@@ -53,7 +53,7 @@ Choose a creature that can hear you within 60 feet and make a [Performance](http
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 190 CP of Bard Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 190 CP of Bard Talents
 *You are the epitome of music and magic.*
 
 Your Dexterity and Charisma scores increase by 2. Your maximum for those scores also increases by 2. Additionally, when you roll initiative and have no uses of Bardic Performance left, you regain a number of uses equal to your Charisma modifier.

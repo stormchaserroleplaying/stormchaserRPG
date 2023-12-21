@@ -8,7 +8,7 @@ grand_parent: Skills
 
 <div style="margin-top:-10px;"></div>
 
-#### *Downtime, Manipulate*<br>**Actions:** Special<br>**Required Proficiency:** Trained<br>**Requirements:** You're holding or wearing an [Herbalism Kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/)
+#### *Downtime, Manipulate*<br>**Actions:** Special<br>**Required Proficiency:** Trained<br>**Requirements:** You're holding or wearing a [herbalism kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/) (consumes 1 use)
 You spend at least 8 hours caring for a diseased creature. Attempt a [medicine](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/) check against a DC of 10 + the disease’s attack roll. After you attempt to treat a disease for a creature, you can’t try again until after that creature’s next check against the disease.
 
 **Critical Success:** You grant the creature a +2d to its next check against the disease. Any check that you might have to make against contracting the disease from the sick creature benefits from the same bonus.

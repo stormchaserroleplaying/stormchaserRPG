@@ -11,16 +11,16 @@ Eloquence bards master the art of oratory. Persuasion is regarded as a high art 
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Bardic Performance: Unsettling Words | 5 | Bardic Performance |
-| Universal Speech                     | 10 | 20 CP of Other Bard Talents |
-| Unfailing Inspiration                | 10 | Bardic Performance: Unsettling Words and 20 CP of Bard Talents |
-| Infectious Inspiration               | 50 | Unfailing Inspiration, Universal Speech and 70 CP of Bard Talents |
+| Unsettling Words       | 5  | Bardic Performance |
+| Universal Speech       | 10 | 20 CP of Other Bard Talents |
+| Unfailing Inspiration  | 10 | Unsettling Words and 20 CP of Bard Talents |
+| Infectious Inspiration | 50 | Unfailing Inspiration, Universal Speech and 70 CP of Bard Talents |
 
-### Bardic Performance: Unsettling Words
+### Unsettling Words
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### *Bardic Performance*<br>**Cost:** 5 Character Points
 *You can spin words laced with magic that unsettle a creature and cause it to doubt itself.*
 
 Choose one creature that you can see within 60 feet of you. The next attack roll made vs that creature before the start of your next turn gains +1d.

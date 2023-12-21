@@ -8,10 +8,10 @@ grand_parent: Skills
 
 <div style="margin-top:-10px;"></div>
 
-#### *Manipulate*<br>**Actions:** 3<br>**Required Proficiency:** Trained<br>**Requirements:** You're holding or wearing an [Herbalism Kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/)
+#### *Manipulate*<br>**Actions:** 3<br>**Required Proficiency:** Trained<br>**Requirements:** You're holding or wearing a [herbalism kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/)
 You can treat a creature to slow the effect(s) of poison in their body. Spend one use of your [Herbalism Kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/) and make a medicine check against the poison's DC. If the target is proficient in Constitution defence, add its proficiency bonus to this check. If the check succeeds, the creature gains resistance against the next instance of damage the poison deals.
 
-# Neutralize Poison
+# Neutralise Poison
 
 <div style="margin-top:-10px;"></div>
 

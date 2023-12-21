@@ -13,28 +13,25 @@ Many other bards hate their whisper peers, viewing them as parasites that use a 
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Psychic Blades     | 3  | Bardic Performance |
-| Words of Terror    | 2  | Bardic Performance |
-| Psychic Blades II  | 5  | Psychic Blades and 50 CP of Bard Talents |
-| Mantle of Whispers | 10 | Words of Terror and 70 CP of Bard Talents |
-| Psychic Blades III | 5  | Psychic Blades II and 170 CP of Bard Talents |
-| Shadow Lore        | 50 | Mantle of Whispers and 320CP of Bard Talents |
-| Psychic Blades IV  | 5  | Psychic Blades III and 370 CP of Bard Talents |
+| Psychic Blades     | 5  | Bardic Performance |
+| Words of Terror    | 5  | Bardic Performance |
+| Mantle of Whispers | 20 | Words of Terror and 20 CP of Bard Talents |
+| Shadow Lore        | 50 | Mantle of Whispers and 70 CP of Bard Talents |
 
 ### Psychic Blades
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 3 Character Points<br>**Prerequisite:** Bardic Performance
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Bardic Performance
 *You gain the ability to make your weapon attacks magically toxic to a creature’s mind.*
 
-When you hit a creature with a weapon attack, you can spend a use of your Bardic Performance to deal an additional 2d6 psychic damage to that target. You can do so only once per round.
+When you hit a creature with a weapon attack, you can spend a use of your Bardic Performance to deal an additional 2dM psychic damage to that target.
 
-### Bardic Performance: Words of Terror
+### Words of Terror
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 2 Character Points<br>**Prerequisite:** Bardic Performance
+#### *Bardic Performance*<br>**Cost:** 5 Character Points<br>**Prerequisite:** Bardic Performance
 *You learn to infuse innocent-seeming words with an insidious magic that can inspire terror.*
 
 If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, make a proficient Charisma attack against the target's Wisdom defense. On a hit, the target is now [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you or another creature of your choice. The target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.
@@ -43,18 +40,11 @@ If the attack misses, then the target has no hint that you tried to frighten it.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
-### Psychic Blades II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades and 50 CP of Bard Talents
-The bonus damage that you inflict with Psychic Blades increases to 3d6.
-
 ### Mantle of Whispers
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Words of Terror and 70 CP of Bard Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Words of Terror and 20 CP of Bard Talents
 *You gain the ability to adopt a humanoid’s persona.*
 
 When a humanoid dies within 30 feet of you, you magically capture its shadow. You retain this shadow until you use it or you finish a long rest.
@@ -67,18 +57,11 @@ Another creature can see through this disguise by succeeding on an [Insight](htt
 
 Once you capture a shadow with this feature, you can’t capture another one with it until you finish a short or long rest.
 
-### Psychic Blades III
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades II and 170 CP of Bard Talents
-The bonus damage that you inflict with Psychic Blades increases to 5d6.
-
 ### Shadow Lore
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Mantle of Whispers and 320CP of Bard Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Mantle of Whispers and 70 CP of Bard Talents
 *You gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.*
 
 an action, magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. Make a [Performance](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/) check vs the target's wisdom defence. This check automatically fails if the target doesn’t share a language with you or if it cannot hear you. On a miss, your whisper sounds like unintelligible mumbling and has no effect.
@@ -90,10 +73,3 @@ The [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charm
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-
-### Psychic Blades IV
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Psychic Blades III and 370 CP of Bard Talents
-The bonus damage that you inflict with Psychic Blades increases to 8d6.

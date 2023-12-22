@@ -25,12 +25,12 @@ Athletics checks based on Constitution are made when your character needs to pus
 * [Climb](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Climb)
 * [Force Open](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Force)
 * [Jumping](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump)
-* [Swimming](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Swimming)
+* [Swimming](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Swim)
 * [Tumble](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Tumble)
 
 ## Trained Actions
 * [Reduce Damage from Falling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Falling)
-* [Maneuver in Flight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/ManeuverFlight)
+* [Maneuver in Flight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Maneuver)
 * [Squeeze](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Squeeze)
 
 ### Strength-based Subskills

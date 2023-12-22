@@ -11,7 +11,7 @@ If you wish for your character to benefit from a lineage's mechanical features, 
 
 Typically, these choices are made when you create your character. If you wish for your character to manifest the signs of a special lineage as a part of your character's advancement, then discuss this with your GM in advance.
 
-## Coming Soon
+## Roadmap
 * **Ifrit** blood burns with elemental fire, giving them reddened colouring and hair that flickers as if aflame.
 * **Oread** blood is grounded in elemental earth. They are strong and solidly built, with stone-like skin and hair.
 * **Sylph** blood is infused with elemental air. They tend to be pale and thin to the point of appearing delicate.

@@ -1,10 +1,10 @@
 ---
-title: Swimming
+title: Swim
 parent: Athletics
 grand_parent: Skills
 ---
 
-# Swimming
+# Swim
 
 <div style="margin-top:-10px;"></div>
 

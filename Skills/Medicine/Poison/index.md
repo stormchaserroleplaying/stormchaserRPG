@@ -30,7 +30,7 @@ You can treat a creature to slow the effect(s) of poison in their body. Spend on
 
 <div style="margin-top:-10px;"></div>
 
-#### **Actions:** Special<br>**Required Proficiency:** Expert
+#### **Required Proficiency:** Expert
 Through a careful mixture of medicinal plants and compounds, you are able to dilute the presence of harmful toxins and quicken a body's fight against them. After spending at least 10 minutes and three uses of your [herbalism kit](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/Herbalism/), make a [medicine](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/) check against the poison’s DC.
 
 **Critical Success:** You grant the creature +1d to its next check against the poison. If they fail this check, they have resistance to any damage received as a result.

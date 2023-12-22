@@ -9,7 +9,7 @@ grand_parent: Skills
 <div style="margin-top:-10px;"></div>
 
 #### *Move*<br>**Actions:** 1<br>**Required Proficiency:** Untrained<br>**Requirements:** None
-You can use [athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) to cross narrow surfaces and uneven ground without falling. You are flat-footed while on a narrow surface or uneven ground. If you take damage while using balancing, you must make another check at the same DC to avoid falling or being knocked prone.
+You can use [athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) to cross narrow surfaces and uneven ground without falling. You are [flat-footed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Flatfooted/) while on a narrow surface or uneven ground. If you take damage while using balancing, you must make another check at the same DC to avoid falling or being knocked prone.
 
 Use the following table to determine the base DC, which is modified by the second table below. An [athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/) check is only required to move across these surfaces if the final DC is 10 or higher.
 

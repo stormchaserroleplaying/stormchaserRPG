@@ -6,6 +6,12 @@ parent: Skills
 # Theology
 Theology is an **Intelligence**-based skill that measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
 
+## Untrained Actions
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
+
+## Trained Actions
+* [Decipher Writing](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/DecipherWriting)
+
 ## Subskills
 
 ### Celestial Lore

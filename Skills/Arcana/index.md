@@ -6,6 +6,14 @@ parent: Skills
 # Arcana
 Arcana is an **Intelligence**-based skill that measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
 
+## Untrained Actions
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
+
+## Trained Actions
+* [Decipher Writing](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/DecipherWriting)
+* [Identify Magic](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/IdentifyMagic)
+* [Learn a Spell](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/LearnSpell)
+
 ## Subskills
 
 ### Aberration Lore

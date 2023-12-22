@@ -7,13 +7,8 @@ has_children: true
 # Medicine
 Medicine is a **Wisdom**-based skill that lets you try to stabilize a dying companion or diagnose an illness.
 
-## Diagnose Illness
-<div style="margin-top:-10px;"></div>
-
-#### *Manipulate*<br>**Actions:** 2<br>**Required Proficiency:** Untrained
-If you spend one minute examining a creature, you can make a medicine check to identify a disease or poison affecting them. The DC is determined by the effect in question.
-
 ## Untrained Actions
+* [Diagnose Illness](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Diagnose)
 * [First Aid](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/FirstAid)
 * [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
 

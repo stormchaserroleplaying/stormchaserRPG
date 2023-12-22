@@ -1,6 +1,6 @@
 ---
 title: Recall Knowledge
-parent: General
+parent: General Actions
 grand_parent: Skills
 ---
 

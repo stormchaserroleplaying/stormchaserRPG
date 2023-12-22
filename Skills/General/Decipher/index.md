@@ -1,6 +1,6 @@
 ---
 title: Decipher Writing
-parent: General
+parent: General Actions
 grand_parent: Skills
 ---
 

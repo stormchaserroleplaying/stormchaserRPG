@@ -7,7 +7,7 @@ parent: Skills
 Investigation is an **Intelligence**-based skill for when you look around for clues and make deductions based on those clues. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an investigation check.
 
 ## Untrained Actions
-* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall/)
 
 ## Subskills
 

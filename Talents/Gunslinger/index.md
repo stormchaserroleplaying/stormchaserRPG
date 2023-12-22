@@ -5,7 +5,7 @@ has_children: true
 ---
 
 # Gunslinger Talent Tree
-With an aim as sharp as their wit, gunslingers pursue their own ends for their own reasons, beholden to no code except their own, and trusting no judgment save that learned through experience. The wild frontier breeds hard folk to hard ways, a dangerous land where life can hinge on a deal of the cards or the speed of the draw.
+With an aim as sharp as their wit, gunslingers pursue their own ends for their own reasons, beholden to no code except their own and trusting no judgment save that learned through experience. The wild frontier breeds hard folk to hard ways, a dangerous land where life can hinge on a deal of the cards or the speed of the draw.
 
 ## Core Talents
 
@@ -14,16 +14,16 @@ With an aim as sharp as their wit, gunslingers pursue their own ends for their o
 | Deadeye | 5 | - |
 | Bad Medicine | 5 | - |
 | Grit | 5 | - |
-| Quickdraw | 5 | 2 Gunslinger Talents |
-| Lock N' Load | 10 | Quickdraw and 4 other Gunslinger Talents |
-| Ace in the Hole | 20 | Grit and 6 other Gunslinger Talents |
-| Bad Medicine II | 20 | Bad Medicine and 7 other Gunslinger Talents |
-| Born Lucky | 35 | Grit and 8 other Gunslinger Talents |
-| Frontier Justice | 30 | Snapshot Mastery and 8 Other Gunslinger Talents |
-| Skull Cracker | 20 | Bad Medicine and 10 Other Gunslinger Talents |
-| Deadeye II | 20 | Deadeye and 10 Other Gunslinger Talents |
-| Bad Medicine III | 40 | Bad Medicine II and 10 other Gunslinger Talents |
-| Cheat Death | 60 | Grit and 10 other Gunslinger Talents |
+| Quickdraw | 5 | 10 CP in Gunslinger Talents |
+| Bad Medicine II | 15 | Bad Medicine and 7 other Gunslinger Talents |
+| Lock N' Load | 20 | Quickdraw and 4 other Gunslinger Talents |
+| Bad Medicine III | 20 | Bad Medicine II and 10 other Gunslinger Talents |
+| Ace in the Hole | 25 | Grit and 6 other Gunslinger Talents |
+| Born Lucky | 30 | Grit and 8 other Gunslinger Talents |
+| Frontier Justice | 35 | Snapshot Mastery and 8 Other Gunslinger Talents |
+| Skull Cracker | 50 | Bad Medicine and 10 Other Gunslinger Talents |
+| Deadeye II | 50 | Deadeye and 10 Other Gunslinger Talents |
+| Cheat Death | 65 | Grit and 10 other Gunslinger Talents |
 | True Grit | 80 | Grit and 12 other Gunslinger Talents |
 | Golden Gun | 100 | 14 Gunslinger Talents |
 
@@ -34,7 +34,7 @@ With an aim as sharp as their wit, gunslingers pursue their own ends for their o
 #### **Cost:** 5 Character Points
 *In combat, you find your flow with deadly efficiency.*
 
-Whenever you hit a creature with a ranged weapon attack, the lowest number you must roll on the d20 to score a critical hit with subsequent ranged weapon attacks decreases by one. You can gain this benefit multiple times, but it can’t reduce the threshold for scoring a critical hit below 16.
+Whenever you hit a creature with a ranged weapon attack, the lowest number you must roll on the d20 to score maximum damage with subsequent ranged weapon attacks decreases by one. You can gain this benefit multiple times, but it can’t reduce the threshold for dealing maximum damage below 16.
 
 You lose this benefit if you miss with an attack, you become incapacitated, or if your turn ends and you haven’t attacked a creature since your last turn.
 
@@ -43,14 +43,14 @@ You lose this benefit if you miss with an attack, you become incapacitated, or i
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You can add one Martial Die of additional damage when determining the extra damage for a critical hit with a firearm.
+You can add 1dM additional damage when determining the extra damage for a critical hit with a firearm.
 
 ### Grit
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-The hard-fought battles of your past have instilled in you a wellspring of resolve, which is represented by grit points. You have a number of grit points equal to 1 + your Wisdom, Intelligence, or Charisma modifier (chosen when you acquire this talent)(minimum of 1 point).
+The hard-fought battles of your past have instilled in you a wellspring of resolve, which is represented by grit points. You have a number of grit points equal to 1 + your Wisdom, Intelligence, or Charisma modifier (chosen when you acquire this talent).
 
 You can spend these points to fuel various grit features. You start knowing four such features: Buck Up, Bullet Time, Covering Fire, and Dodge Roll. You learn more grit features as you gain levels in this class.
 

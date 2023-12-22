@@ -8,14 +8,17 @@ has_children: true
 Medicine is a **Wisdom**-based skill that lets you try to stabilize a dying companion or diagnose an illness.
 
 ## Untrained Actions
-* [Diagnose Illness](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Diagnose)
-* [First Aid](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/FirstAid)
-* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge)
+* [Diagnose Illness](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Diagnose/)
+* [First Aid](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/FirstAid/)
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/RecallKnowledge/)
 
 ## Trained Actions
-* [Treat Disease](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Disease)
-* [Treat Poison](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Poison)
-* [Treat Wounds](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/TreatWounds)
+* [Treat Disease](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Disease/)
+* [Treat Poison](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Poison/)
+* [Treat Wounds](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/TreatWounds/)
+
+## Expert Actions
+* [Perform Surgery](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Medicine/Surgery/)
 
 ## Subskills
 

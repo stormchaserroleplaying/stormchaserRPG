@@ -6,7 +6,53 @@ nav_order: 1
 ---
 
 # Rage Powers
-Any barbarian who meets a power's prerequisites can select and use a rage power. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent and who also meets a power's prerequisites can acquire a rage power. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+
+| Rage Power | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Ancestral Guidance  | 5  | - |
+| Animalistic Fury  | 5  | - |
+| Armour Ripper     | 5  | 1 Feral Soul talent |
+| Auspicious Mark   | 5 | Ancestral Guidance |
+| Barreling Charge  | 10 | - |
+| Battle Roar  | 10  | Intimidating Glare |
+| Blood For Blood  | 5 | - |
+| Bone Breaker  | 10 | - |
+| Celestial Totem, Lesser  | 5  | - |
+| Celestial Totem | 15 | Celestial Totem, Lesser |
+| Celestial Totem, Greater  | 35 | Celestial Totem |
+| Clear Mind  | 5  | - |
+| Come and Get Me  | 10  | Blood For Blood |
+| Crippling Blow  | 15 | Powerful Blow |
+| Cult Totem, Lesser | 5  | - |
+| Cult Totem | 10 | Cult Totem, Lesser |
+| Death Dealer | 10 | - |
+| Fleshrender  | 20  | - |
+| Focus of the Ascetic  | 20 | - |
+| Fury Manifested | 25  | - |
+| Great Throw  | 15 | - |
+| Inspire Ferocity  | 10  | Reckless Attack |
+| Intimidating Glare  | 5  | - |
+| Knockdown  | 10 | - |
+| Leap to the Fray! | 20 | - |
+| Moon Totem, Lesser  | 5  | - |
+| Moon Totem  | 10 | Moon Totem, Lesser |
+| Moon Totem, Greater  | 25 | Moon Totem |
+| Powerful Blow  | 5  | - |
+| Primal Instinct  | 10 | - |
+| Raging Skald  | 5  | Berserker Cry |
+| Reaping | 10 | - |
+| Rip and Tear  | 15 | - |
+| Rolling Dodge  | 5  | - |
+| Scatter the Hordes  | 15 | - |
+| Seize the Prey | 10 | - |
+| Shadow Totem, Lesser  | 5  | - |
+| Shadow Totem  | 25 | Shadow Totem, Lesser |
+| Shadow Totem, Greater  | 35 | Shadow Totem |
+| Spell Sunder  | 10  | - |
+| Tear the Veil of Shadows  | 10  | - |
+| Trample  | 5  | - |
+| Whirlwind  | 10 | - |
 
 ## Ancestral Guidance
 

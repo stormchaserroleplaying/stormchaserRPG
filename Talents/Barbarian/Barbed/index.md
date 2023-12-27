@@ -14,10 +14,10 @@ In most settings, only dwarves can become barbed barbarians. They fill a particu
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Barbed Armour | 15  | - |
-| Reckless Abandon   | 20 | Barbed Armour and 50 CP of Barbarian Talents |
-| Bristling Charge | 30 | Reckless Abandon and 110 CP of Barbarian Talents |
-| Spiked Retribution | 50 | Bristling Charge and 225 CP of Barbarian Talents |
+| Barbed Armour | 15  |Rage and 15 CP of Barbarian talents |
+| Reckless Abandon   | 20 | Barbed Armour and 50 CP of Barbarian talents |
+| Bristling Charge | 30 | Reckless Abandon and 110 CP of Barbarian talents |
+| Spiked Retribution | 50 | Bristling Charge and 225 CP of Barbarian talents |
 
 ### Barbed Armour
 

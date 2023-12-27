@@ -29,7 +29,7 @@ You gain the ability to [sustain](https://stormchaserroleplaying.com/stormchaser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage, Arcane Spellcasting and 15 CP of Barbarian talents
 The power that lies dormant in your blood awakens.
 
 Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.

@@ -14,37 +14,37 @@ In most settings, only dwarves can become barbed barbarians. They fill a particu
 
 | Talent | CP | Prerequisites | Barbarian Talents Required |
 |:------:|:--:|:-------------:|:---------------------:|
-| Barbed Armour | 5  | - | - |
-| Reckless Abandon   | 10 | Barbed Armour and 4 other Barbarian Talents | 5 |
-| Bristling Charge | 25 | Reckless Abandon and 7 other Barbarian Talents | 8 |
-| Spiked Retribution | 50 | Bristling Charge and 10 other Barbarian Talents | 11 |
+| Barbed Armour | 15  | - |
+| Reckless Abandon   | 20 | Barbed Armour and 50 CP of Barbarian Talents |
+| Bristling Charge | 30 | Reckless Abandon and 110 CP of Barbarian Talents |
+| Spiked Retribution | 50 | Bristling Charge and 225 CP of Barbarian Talents |
 
 ### Barbed Armour
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-While you are wearing spiked armour and are raging, you can use a bonus action to make one unarmed strike against a target within 5 feet of you. If the attack hits, the spikes deal piercing damage equal to your martial feat die. You use your Strength modifier for the attack and damage rolls.
+#### **Cost:** 15 Character Points
+While you are wearing armour with the [armour spikes](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Tables/#extras) addition and are raging, you can make one unarmed strike against a target within 5 feet of you as an action. If the attack hits, the spikes deal 1dM piercing damage. You use your Strength modifier for the attack and damage rolls.
 
-Additionally, when you use the Attack action to grapple a creature, if your grapple check succeeds, then the target takes piercing damage equal to your martial feat die. This damage roll recurs on each round that you maintain the grapple.
+Additionally, when you successfully [grapple]((https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/)) a creature, the target takes 1dM piercing damage. This damage roll recurs on each round that you maintain the grapple.
 
 ### Reckless Abandon
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Barbed Armour and 4 Barbarian Talents
-When you use Reckless Attack while raging, you also gain temporary stamina equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Barbed Armour, Reckless Attack and 50 CP of Barbarian Talents
+When you use [Reckless Attack](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/Clarifications/Formatting/Talents/Barbarian/index.md#reckless-attack) while raging, you also gain 1dR temporary stamina. You lose any temporary stamina gained in this way when your rage ends.
 
-#### ### Bristling Charge
+### Bristling Charge
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Reckless Abandon and 7 Barbarian Talents
-You can take the Dash action as a bonus action while you are raging.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Reckless Abandon and 110 CP of Barbarian Talents
+While raging, you can [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/) with only 1 action instead of 2. Additionally, you can [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) (Slam and Tackle only) for 2 actions instead of 3.
 
 ### Spiked Retribution
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Bristling Charge and 10 Barbarian Talents
-When a creature within 5 feet of you hits you with a melee attack, the attacker takes piercing damage equal to your martial feat die if you are raging, aren’t incapacitated, and are wearing spiked armor.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Bristling Charge and 225 CP of Barbarian Talents
+When a creature within 5 feet of you hits you with a melee attack, the attacker takes 1dM piercing damage if you are raging, aren’t incapacitated, and are wearing armour with the [armour spikes](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Tables/#extras) addition

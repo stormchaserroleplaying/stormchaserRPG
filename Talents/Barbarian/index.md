@@ -83,7 +83,7 @@ You can throw aside all concern for defense to attack with fierce desperation. W
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** Reckless Attack plus 30 CP of Barbarian Talents
-Your speed increases by 10 feet while you aren’t wearing heavy armour.
+Your speed increases by 10 feet.
 
 ### Feral Instinct
 

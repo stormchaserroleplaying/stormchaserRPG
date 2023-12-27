@@ -14,8 +14,8 @@ Once your take your first talent from this branch, your soul is marked for endle
 
 ## Talents
 
-| Talent | CP | Prerequisites | Barbarian Talents Required |
-|:------:|:--:|:-------------:|:--------------------------:|
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
 | Divine Fury | 15  | Rage and 15 CP of Barbarian Talents |
 | Fanatical Focus | 20 | Divine Fury and 50 CP of Barbarian Talents |
 | Zealous Presence | 30 | Fanatical Focus and 110 CP of Barbarian Talents |

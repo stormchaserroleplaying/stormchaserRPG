@@ -16,31 +16,31 @@ Once your take your first talent from this branch, your soul is marked for endle
 
 | Talent | CP | Prerequisites | Barbarian Talents Required |
 |:------:|:--:|:-------------:|:--------------------------:|
-| Divine Fury | 5  | Rage | - |
-| Fanatical Focus | 10 | Divine Fury and 4 Other Barbarian Talents | 5 |
-| Zealous Presence | 25 | Fanatical Focus and 7 Other Barbarian Talents | 8 |
-| Rage Beyond Death | 50 | Zealous Presence and 10 Other Barbarian Talents | 11 |
+| Divine Fury | 15  | Rage and 15 CP of Barbarian Talents |
+| Fanatical Focus | 20 | Divine Fury and 50 CP of Barbarian Talents |
+| Zealous Presence | 30 | Fanatical Focus and 110 CP of Barbarian Talents |
+| Rage Beyond Death | 50 | Zealous Presence and 225 CP of Barbarian Talents |
 
 ### Divine Fury
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Rage
-You can channel divine fury into your weapon strikes. While you’re raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to your martial feat die. The extra damage is necrotic or radiant; you choose the type of damage when you gain this talent.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage and 15 CP of Barbarian Talents
+You can channel divine fury into your weapon strikes. While you’re raging, the first creature you hit on each of your turns with a weapon attack takes extra 1dM damage. The extra damage is necrotic or radiant; you choose the type of damage when you gain this talent.
 
 ### Fanatical Focus
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Divine Fury and 4 Other Barbarian Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Divine Fury and 50 CP of Barbarian Talents
 The divine power that fuels your rage can protect you. Each time that you rage, you gain +1d to your defences until the first time that you are hit by an attack.
 
 ### Zealous Presence
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Fanatical Focus and 7 Other Barbarian Talents
-You learn to channel divine power to inspire zealotry in others. As a bonus action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain +1d on attack rolls and defenses until the start of your next turn.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Fanatical Focus and 110 CP of Barbarian Talents
+You learn to channel divine power to inspire zealotry in others. As an action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain +1d on attack rolls and defenses until the start of your next turn.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
@@ -48,7 +48,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Zealous Presence and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Zealous Presence and 225 CP of Barbarian Talents
 The divine power that fuels your rage allows you to shrug off fatal blows.
 
-While you’re raging, having 0 stamina doesn’t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don’t die until your rage ends and you die then only if you still have 0 stamina.
+While you’re raging, having 0 stamina doesn’t knock you unconscious. You still make [recovery checks](https://stormchaserroleplaying.com/stormchaserRPG/General/Stamina/Recovery/#recovery-checks), and you suffer the normal effects of taking damage while at 0 stamina. However, if you would die due to failing [recovery checks](https://stormchaserroleplaying.com/stormchaserRPG/General/Stamina/Recovery/#recovery-checks), you don’t die until your rage ends and you die then only if you still have 0 stamina.

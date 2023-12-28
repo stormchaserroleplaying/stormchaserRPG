@@ -172,7 +172,7 @@ Shot attacks with this weapon do not add your ability modifier to damage unless 
 ### Stock
 Ranged weapons with the Stock property can improve your aim when set on firm ground. 
 
-If you lay prone (but not supine) and make a ranged attack with it, you can ignore -1d when shooting at long range (but no further than 1000 feet), but you suffer -1d if you shoot at targets within close range.
+If you lay prone (but not supine) and make a ranged attack with it, you can reduce your range penalty by one increment, but you suffer -1d if you shoot at targets within your first range increment.
 
 ### Strength
 Ranged weapons with the Strength property require raw strength to draw the string. You must have the minimum Strength score as listed in order to use them.
@@ -191,7 +191,7 @@ Attacks with an entangled weapon suffer -1d on the attack roll. An entangled shi
 The creature wielding the weapon used to make the attack can disentangle it using their object interaction. If the creature wielding the implement used to defend wishes to disentangle itself, then it must spend an attack as part of the attack action and make a successful melee attack roll vs the weapon skill of the creature wielding the entangling weapon.
 
 ### Trip
-Trip attempts made with a trip weapon are made with +1d.
+Trip attempts made with a trip weapon have +1d.
 
 ### Tripod
 Attempting to fire this weapon without a tripod imparts -1d on the attack roll.
@@ -204,7 +204,7 @@ Drawing a Thrown weapon is part of the attack, but you need a free hand. You may
 When you are hit by a thrown weapon and it causes an injury, the weapon remains lodged in the target. Any time you use your action during your turn with one or several lodged weapons in you, you take 1d4 piercing damage. Removing a lodged weapon is an action.
 
 ### Two-Handed
-A two-handed weapon requires two hands when you attack with it. When the weapon is held in two hands attempts to disarm you are made have -1d.
+A two-handed weapon requires two hands when you attack with it. When the weapon is held in two hands, attempts to disarm you suffer -1d.
 
 Wielding a melee weapon in two hands allows you to put more strength behind your blows. When you hit with an attack roll using Strength with a weapon wielded in two-hands with this property, you deal additional damage equal to half your Strength modifier (rounded up, minimum of +1), as shown on the table below.
 
@@ -226,7 +226,7 @@ Wielding a melee weapon in two hands allows you to put more strength behind your
 | +8 | +4 | +12 |
 
 ### Unwieldy
-Small creatures have -1d on attack rolls with unwieldy weapons. An unwieldy weapon's size and bulk make it too large for a Small creature to use effectively.
+Small creatures suffer -1d on attack rolls with unwieldy weapons. An unwieldy weapon's size and bulk make it too large for a Small creature to use effectively.
 
 Additionally, if you take the attack action with an unwieldy weapon and use all of your attacks for that round, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
 
@@ -236,7 +236,7 @@ Advanced firearms shoot projectiles at a higher velocity than all other ranged w
 When using weapons with the Velocity property the target does not benefit from any DR from armour components with the Hard property.
 
 ### Versatile
-A versatile weapon can be used with one or two hands. When the weapon is held in two hands attempts to disarm you are made with -1d.
+A versatile weapon can be used with one or two hands. When the weapon is held in two hands, attempts to disarm you suffer -1d.
 
 Wielding a melee weapon in two hands allows you to put more strength behind your blows. When you hit with an attack roll using Strength with a weapon wielded in two-hands with this property, you deal additional damage equal to half your Strength modifier (rounded up, minimum of +1), as shown on the [Two-handed Damage Bonus Table](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#two-handed) above.
 
@@ -254,7 +254,7 @@ Weapons with the worn property are equipped similarly to armour, by strapping th
 While the weapon benefits from the worn property, it cannot be disarmed unless the attack or skill check is a critical hit.
 
 ## Str/Dex
-If your Dexterity is less than the **Str/Dex** entry of the weapon, then you suffer -1d on your attack rolls with the weapon. If you are wielding a ranged weapon or the weapon as a finesse weapon, then this instead applies to your Strength.
+If your Dexterity is less than the **Str/Dex** entry of the weapon, then you suffer -1d on your attack rolls with the weapon. If you are wielding a ranged weapon, or if the weapon as a finesse weapon, then this instead applies to your Strength.
 
 ## Weight
 The weight of the weapon.

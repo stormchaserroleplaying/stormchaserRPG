@@ -14,7 +14,6 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Sneak Attack | 5 | - |
 | Cunning Action | 5 | 10 CP spent in Rogue talents  |
 | Bad Feeling | 5 | 10 CP spent in Rogue talents |
-| Steady Aim | 5 | 25 CP spent in Rogue talents |
 | Uncanny Dodge | 5 | 40 CP spent in Rogue talents |
 | Evasion | 15 | 60 CP spent in Rogue talents |
 | Reliable Skill | 35 | 95 CP spent in Rogue talents |
@@ -28,9 +27,9 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have advantage on the attack roll. The source of the advantage must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have +1d on the attack roll. The source of the +1d must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
+You don't need +1d on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
 
 Additionally, you can forego your Sneak Attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
 
@@ -39,7 +38,7 @@ Additionally, you can forego your Sneak Attack damage to force your target to ro
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
-One time per turn you can perform the one of the following as a free action: [Feint](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Feint/), [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/).
+One time per turn you can perform the one of the following as a free action: [Aim](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Ranged/Aim/), [Feint](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Feint/), [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/).
 
 ### Bad Feeling 
 
@@ -49,13 +48,6 @@ One time per turn you can perform the one of the following as a free action: [Fe
 You have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined.
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
-
-### Steady Aim
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 25 CP spent in Rogue talents
-As a bonus action you can give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
 ### Uncanny Dodge
 

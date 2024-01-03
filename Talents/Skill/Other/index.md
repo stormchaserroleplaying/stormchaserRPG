@@ -48,6 +48,13 @@ You've master the art of charming those around you. If you spend 1 minute talkin
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Insight Proficiency
 You possess keen insight into how other people think and feel. You can use an action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make an [Insight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Insight/) check vs the target’s passive [Deception](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Deception/) check. On a success, you have +1d on attack rolls and ability checks against the target until the end of your next turn.
 
+## Expert Tracker
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Trained in [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/)
+You take no penalty on [survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks made to [track](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/Track/) while moving at your normal speed.
+
 ## Investigator
 
 <div style="margin-top:-10px;"></div>

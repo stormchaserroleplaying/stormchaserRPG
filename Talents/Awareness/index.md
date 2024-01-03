@@ -30,7 +30,7 @@ You don't have to make a flat check before attacking a [concealed](https://storm
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:**Improved Initiative
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Improved Initiative
 Once per encounter, at any time after the first round, you can set your initiative Count to your current initiative +5.
 
 ## Weak Point
@@ -44,7 +44,7 @@ Once per encounter, you can use an action to ignore the damage reduction of a si
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:**Improved Initiative
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Improved Initiative
 Melee and ranged attacks targeting you do not benefit from +1d when you are struck by a hidden attacker, unless you are immobilised.
 
 If you are mounted, this talent applies to your mount.

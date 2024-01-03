@@ -12,15 +12,14 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Sneak Attack | 5 | - |
-| Cunning Action | 5 | 10 CP spent in Rogue talents  |
-| Bad Feeling | 5 | 10 CP spent in Rogue talents |
-| Uncanny Dodge | 5 | 40 CP spent in Rogue talents |
-| Evasion | 15 | 60 CP spent in Rogue talents |
-| Reliable Skill | 35 | 95 CP spent in Rogue talents |
-| Blindsense | 50 | 180 CP spent in Rogue talents |
-| Slippery Mind | 65 | 230 CP spent in Rogue talents|
-| Elusive | 80 | 375 CP spent in Rogue talents |
-| Stroke of Luck | 100 | 455 CP spent in Rogue talents |
+| Cunning Action | 10 | 5 CP spent in Rogue talents  |
+| Bad Feeling | 10 | 5 CP spent in Rogue talents |
+| Evasion | 25 | 20 CP spent in Rogue talents |
+| Reliable Skill | 35 | 75 CP spent in Rogue talents |
+| Blindsense | 50 | 150 CP spent in Rogue talents |
+| Slippery Mind | 65 | 200 CP spent in Rogue talents|
+| Elusive | 80 | 350 CP spent in Rogue talents |
+| Stroke of Luck | 100 | 450 CP spent in Rogue talents |
 
 ### Sneak Attack
 
@@ -37,37 +36,30 @@ Additionally, you can forego your Sneak Attack damage to force your target to ro
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 5 CP spent in Rogue talents
 One time per turn you can perform the one of the following as a free action: [Aim](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Ranged/Aim/), [Feint](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Feint/), [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/), [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/), [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/).
 
 ### Bad Feeling 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 5 CP spent in Rogue talents
 You have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined.
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
-
-### Uncanny Dodge
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 40 CP spent in Rogue talents
-Content
 
 ### Evasion
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** 60 CP spent in Rogue talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 20 CP spent in Rogue talents
 Content
 
 ### Reliable Skill
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 95 CP spent in Rogue talents
+#### **Cost:** 35 Character Points<br>**Prerequisite:** 75 CP spent in Rogue talents
 *You have refined your chosen skills until they approach perfection.*
 
 Whenever you make a skill check with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
@@ -76,28 +68,28 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 180 CP spent in Rogue talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 150 CP spent in Rogue talents
 Content
 
 ### Slippery Mind
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 65 Character Points<br>**Prerequisite:** 230 CP spent in Rogue talents
+#### **Cost:** 65 Character Points<br>**Prerequisite:** 200 CP spent in Rogue talents
 Content
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 375 CP spent in Rogue talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 350 CP spent in Rogue talents
 Content
 
 ### Stroke of Luck
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 455 CP spent in Rogue talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 450 CP spent in Rogue talents
 
 Content
 

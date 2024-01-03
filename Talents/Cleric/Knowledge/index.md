@@ -9,51 +9,54 @@ The gods of knowledge value learning and understanding above all. Some teach tha
 
 ## Branch Features
  
-### Bonus Spells
-You gain the following spells once you can cast spells of that level. Once you gain a bonus spell, you always have it prepared and it doesn’t count against the number of spells that you can prepare each day.
+### Branch Spells
+Once you can cast spells of the corresponding level, you may spend character points equal to twice the spell's level to have that spell always prepared. Spells bought in this manner don't count against the number of spells that you can prepare.
  
-If you have a bonus spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
+If you have a branch spell that doesn’t appear on the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), that spell is nevertheless a divine spell for you.
  
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | Command, Identify |
-| 2nd | Suggestion, Zone of Truth | 
-| 3rd | Nondetection, Speak with Dead | 
-| 4th | Arcane Eye, Confusion | 
-| 5th | Legend Lore, Scrying | 
-
-### Knowledge of the Ages
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Prerequisite:** Channel Divinity<br>**Actions:** 2
-*You can use your Channel Divinity to tap into a divine well of knowledge.*
-
-You can choose one skill or tool. For 10 minutes, you gain +1d on checks using the chosen skill or tool.
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | [Command](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#command), [Identify](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#identify) | 2 Character Points per Spell |
+| 2nd | Suggestion, Zone of Truth | 4 Character Points per Spell |
+| 3rd | Nondetection, Speak with Dead | 6 Character Points per Spell |
+| 4th | Arcane Eye, Confusion | 8 Character Points per Spell |
+| 5th | Legend Lore, Scrying | 10 Character Points per Spell |
 
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Blessings of Knowledge | 5  | - |  
-| Read Thoughts          | 10 | 3rd Level Spells and Blessings of Knowledge |  
+| Blessings of Knowledge | 5  | - |
+| Knowledge of the Ages  | -  | Channel Divinity |
+| Read Thoughts          | 20 | 3rd Level Spells and Blessings of Knowledge |  
 | Visions of the Past    | 80 | 8th Level Spells and Read Thoughts |  
 
 ### Blessings of Knowledge
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-You learn two languages (accented) of your choice. You also gain expertise in your choice of two of the following skills: Arcana, History, Nature, or Religion.
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+Once per short rest, you can use this feature to gain one of the following benefits:
+* You cast the [Comprehend Languages](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#comprehend-languages) spell using 1 action and requiring no components.
+* You gain +1d in your choice of the following skills for 1 hour: Arcana, History, Nature, or Theology.
+
+### Knowledge of the Ages
+
+<div style="margin-top:-10px;"></div>
+ 
+#### **Prerequisite:** Blessings of Knowledge and Channel Divinity<br>**Actions:** 2
+*You can use your Channel Divinity to tap into a divine well of knowledge.*
+
+When you would roll to [Recall Knowledge](), you can instead use your Channel Divinity to take 20 for the skill check.
 
 ### Read Thoughts
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Blessings of Knowledge<br>**Actions:** 2
 *You can use your Channel Divinity to read a creature’s thoughts. You can then use your access to the creature’s mind to command it.*
 
-Choose one creature that you can see within 60 feet of you. Make a spellcasting attack vs the creature’s Wisdom defense. If the attack misses, then you can’t use this feature on the same creature again until you finish a long rest.
+Choose one creature that you can see within 60 feet of you. Make a divination attack vs the creature’s Wisdom defense. If the attack misses, then you can’t use this feature on the same creature again until you finish a long rest.
 
 If the attack hits, you can read the creature's surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute. During that time, you can use 2 Actions to end this effect and cast the Suggestion spell on the creature without expending mana. The spellcasting attack for this spell automatically hits.
 

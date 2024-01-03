@@ -55,8 +55,8 @@ Magic items always defend. A magic item's defences are equal to 13 + 1 per rarit
 ##### Animated Objects
 Animated objects count as creatures for purposes of determining their Dexterity defence (do not treat them as inanimate objects).
 
-> #### Blocking With An Item
-> A weapon or shield can be pushed beyond its limits, damaging it in the process. When you make a Strength defence check to block an attack, you may choose to brace your weapon or shield against the threat. The item takes the damage that the attack would deal to you and you benefit from advantage on the Strength defence check.
+> #### Raising a Shield
+> When you have raised a shield, it takes the damage that melee and ranged attacks would deal to you (see [Breaking an Object](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/Objects/#breaking-an-object).
 
 ###### Substance DR and Integrity
 

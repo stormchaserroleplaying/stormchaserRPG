@@ -13,7 +13,7 @@ grand_parent: Talents
 #### **Cost:** 5 Character Points
 You are skilled at fighting with two weapons. While you are wielding separate weapons with which you are proficient in each hand, you gain the following benefits:
 * When you [Dual Wield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Dual/), you can add your ability modifier to the damage of your Two-Weapon Fighting attack as long as it doesn't already include that modifier.
-* When you [Dual Wield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Dual/), if you are wielding two weapons with the parry property, then you may apply both of their parry bonuses to your Strength defence vs melee attacks.
+* When you [Dual Wield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Dual/), if you are wielding two weapons with the parry property, then you may apply both of their parry bonuses to your Strength defence vs melee attacks, when you take the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Parry/) action.
 
 ## Mastery
 

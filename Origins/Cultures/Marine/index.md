@@ -15,12 +15,13 @@ The denizens of marine realms love freedom, variety, and self-expression, so the
 ### Friend of the Sea
 Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.
 
-### Weapon Training
-You are trained with simple polearms, simple flexible weapons and simple crossbows. Additionally, treat any weapon with the word “elven” in its name or properties as a martial weapon.
+### Marine Lore
+You gain the Swimming and Marine Lore subskills.
 
-If your class grants training with simple polearms, or simple flexible weapons, you gain training in martial polearms, or martial flexible weapons, respectively. If your class grants training with martial polearms, martial flexible weapons, or simple crossbowss, you gain 2 proficiency point. If your class grants proficiency in two of the above, you gain 4 proficiency points. If your class grants proficiency in all three of the above, you gain 6 proficiency points.
+### Exotic Weapon Training
+You are trained with any weapon with the word “elven” in its name or properties.
 
 ## Languages
-You can speak, read and write Elvish, Aquan and one other language.
+You speak, read and write either Elvish or Aquan with native proficiency and the other with accented proficiency.
 
 Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.

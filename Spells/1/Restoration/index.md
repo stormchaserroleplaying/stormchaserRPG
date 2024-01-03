@@ -17,7 +17,7 @@ A creature you touch recovers up to two levels of exhaustion on its next long re
 **At Higher Levels.** When you cast this spell using 2 or more mana, the target recovers one additional level of exhaustion for each point of mana above the 1st.
 
 ## Heal
-*1st Level Restoration*<br>
+*1st Level Restoration (Ritual)*<br>
 *Healing, Positive*<br>
 **Casting Time:** 1 to 3 Actions<br>
 **Range:** Varies<br>

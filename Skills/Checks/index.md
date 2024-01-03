@@ -12,7 +12,6 @@ For every skill check, the GM decides which of the six attributes is relevant to
 
 | Task Difficulty | DC |
 |:---------------:|:--:|
-| Very Easy |0 |
 | Easy | 5 |
 | Medium | 10 |
 | Hard | 15 |

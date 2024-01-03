@@ -18,26 +18,20 @@ Most who hail from a mountain hall are lawful, believing firmly in the benefits 
 
 ## Features
 
-### Weapon Training
-You are proficient with simple axes and simple bludgeoning weapons. Additionally, you treat any weapon with the word “dwarven” in its name or properties as a martial weapon.
+### Ancestor Worship
+You have trained proficiency with the dwarven history and dwarven religion subskills.
 
-If your class grants proficiency with simple axes or simple bludgeoning weapons, you instead gain proficiency in martial axes, or martial bludgeoning weapons, respectively.
+### Artisan Trades
+You are trained in the use of one of the following sets of artisan’s tools: [brewer’s supplies](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#brewers-supplies), [mason’s tools](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#masons-tools), or [smith’s tools](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Tools/ArtisansTools/#smiths-tools).
 
-### Armour Training
-You have proficiency with light armour.
-
-If your class grants proficiency with light armour, you instead gain proficiency with medium armour.
-
-If your class grants proficiency with both light and medium armour, then you instead gain proficiency with heavy armour.
+### Exotic Weapon Training
+You are trained with any weapon with the word “dwarven” in its name or properties.
 
 ### Mountain Born
 You’re acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. You’re also naturally adapted to cold climates.
 
-### Tool Proficiency
-You gain proficiency with one of the following sets of artisan’s tools: brewer’s supplies, mason’s tools, or smith’s tools.
-
 ## Languages
-You can speak, read and write Dwarvish, Gnomish and one other language.
+You speak, read and write either Dwarvish or Gnomish with native proficiency and the other with accented proficiency.
 
 Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 

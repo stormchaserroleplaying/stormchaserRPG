@@ -6,5 +6,4 @@ grand_parent: Spells
 
 # Necromancy
 
-## Resurrection
-Resurrection can be cast as a ritual.
+

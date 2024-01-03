@@ -16,17 +16,18 @@ A village is a community that relies upon and sustains itself. Every person cont
 
 ## Features
 
-### Farm Life
-You are trained in [Animal Handling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/).
+### Agrarian Life
+Life in the countryside is simple and peaceful. However, when danger approaches the village and there are no adventurers around, it's often left to the villagers to defend themselves with whatever they have on hand.
 
-### Sharpened Tools
-When danger approaches the village and there are no adventurers around, it's often left to the villagers to defend themselves with whatever they have on hand. You are trained with improvised weapons.
+You are trained in your choice of [Animal Handling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/), or improvised weapons.
 
 ### Tall Tales
-Life along the crossroads rarely offers an opportunity for proper schooling, but the roads carry with them legends and stories from far and wide. You may always choose to use Wisdom when making [History](https://stormchaserroleplaying.com/stormchaserRPG/Skills/History/), [Nature](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Nature/), or [Theology](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Theology/) checks. However, the GM may decide that the results of a check made in this way are distorted or exaggerated forms of the truth.
+Life along the crossroads rarely offers an opportunity for proper schooling, but the roads carry with them legends and stories from far and wide. You may choose to use Wisdom when making [History](https://stormchaserroleplaying.com/stormchaserRPG/Skills/History/), [Nature](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Nature/), or [Theology](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Theology/) checks. However, the GM may decide that the results of a check made in this way are distorted or exaggerated forms of the truth.
 
 ### Village Watch
 You have +1d to Perception while keeping watch during a rest.
 
 ## Languages
-You can speak, read and write your local language. For example, a village from the kingdom of Breanne speaks Breannian.
+You speak, read and write your local language with native proficiency. For example, a villager from the kingdom of Breanne speaks Breannian.
+
+Choose one language from a neighbouring region. You speak, read and write this language with accented proficiency.

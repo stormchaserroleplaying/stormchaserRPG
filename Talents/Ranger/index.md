@@ -2,7 +2,6 @@
 title: Ranger Talents
 parent: Talents
 has_children: true
-nav_order: 9
 ---
 
 # Ranger Talent Tree
@@ -44,9 +43,7 @@ You have +1d on Survival checks to track your favoured enemies, as well as on ch
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 *You focus your senses on a specific enemy*
 
-Using 1 action, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain a bounus to damage rolls with weapon attacks against this creature equal to your martial feat die. In addition,you have +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) and [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creture.
-
-You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a short or long rest.
+Using 1 action and expending 1 mana, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain +1dM to damage rolls with weapon attacks against this creature. In addition, you have +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) and [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creature within 90 feet.
 
 ### Exploration Knacks
 

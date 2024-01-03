@@ -23,4 +23,4 @@ Many thanks to all of my dedicated patrons and the members of the Stormchaser Ro
 * Sphynxy - Playtesting
 * Trent - Cleric, Druid, Ranger, Sorcerer and Warlock Talent Branches, Spells, Playtesting
 
-* Daniel Duane Harcourt (August 1978 — December 2021). The Witcher archetype was written in collaboration with and is dedicated to our friend, fellow player, games master and brewer... We miss you, Dan. Rest in peace.
+* Daniel Duane Harcourt (August 1978 — December 2021). The witcher branch of the ranger talent tree was written in collaboration with and is dedicated to our friend, fellow player, games master and brewer... We miss you, Dan. Rest in peace.

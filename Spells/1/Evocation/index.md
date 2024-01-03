@@ -166,7 +166,7 @@ Make an evocation attack roll vs the Dexterity defence of a creature that damage
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d6 for each point of mana above the 1st.
 
-## Magic Missiles
+## Magic Missile
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet<br>

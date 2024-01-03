@@ -11,10 +11,20 @@ When hordes last for years, decades, or even centuries, generations of people ar
 
 Characters raised in the hordling culture share a variety of features in common with one another.
 
+## Aligmnent
+
 ## Features
 
 ### Pack Tactics
 You have +1d on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
+### Trained for War
+You can use this trait to take the Aid action on your turn as a free action and you can do so a number of times equal to your Constitution modifier. You may only do so once per turn. You regain all expended uses when you finish a long rest.
+
+When you use the Aid action in this way, choose one of the options below on a success:
+* **Hold.** You and the creature you aid each gain an amount of temporary stamina equal to 1dR + Constitution modifier.
+* **March.** You and the creature you aid each increase your walking speeds by 10 feet until the start of your next turn.
+* **Strike.** Until the start of your next turn, the first time the creature that you help hits a target with an attack roll, that target gains -1d on the next attack roll it makes within the next minute.
+
 ## Languages
-You can speak, read and write Goblin, Orc and one other language.
+You speak, read and write either Goblin or Orc with native proficiency and the other with accented proficiency.

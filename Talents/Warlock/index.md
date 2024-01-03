@@ -2,33 +2,16 @@
 title: Warlock Talents
 parent: Talents
 has_children: true
-nav_order: 12
 ---
 
 # Warlock Talent Tree
-
-## Spell School Proficiencies
-If your first talent is a warlock talent, then you are trained in the following spell schools: Conjuration, Charms and three additional schools of your choice.
-
-## Spellcasting
-When you take your first warlock talent, your spellcasting class feature for the mage class is affected in the following ways.
-
-### Spellcasting Ability
-Choose Charisma, Intelligence or Wisdom as your spellcasting ability for your arcane spells. You use use your chosen ability whenever an arcane spell refers to your spellcasting ability. You also use the modifier of your chosen ability when making an attack roll with an arcane spell.
-
-### Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the [arcane spell list]().
-
-Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional arcane spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new arcane spells of 1st or 2nd level.
-
-Additionally, whenever you gain a warlock talent, you can choose one of the arcane spells that you know and replace it with another spell from the arcane spell list, which must also be of a level that you can cast.
 
 ## Core Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Eldritch Invocations | 5   | 1 Warlock Talent |
-| Pact Boon            | 5   | Eldritch Invocations |
+| Eldritch Invocations | 5   | 1 Warlock Branch Talent |
+| Pact Boon            | 15  | 2nd Level Spells and Eldritch Invocations |
 | Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
 
 ### Eldritch Invocations
@@ -46,7 +29,7 @@ Additionally, when you gain a new talent in this class or a spellcasting talent,
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Eldritch Invocations
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and Eldritch Invocations
 *Your otherworldly patron bestows a gift upon you for your loyal service.*
 
 You gain one of the following features of your choice.
@@ -77,7 +60,7 @@ If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Warlock Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells and 125 Points of Warlock Talents
 You have grown beyond mortal limits. Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.
 
 ## Warlock Talent Tree Branches

@@ -11,7 +11,9 @@ grand_parent: Talents
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You are skilled at using your weight to your advantage. Your unarmed strike and improvised weapon damage die increases by one step (e.g. from 1 to 1d4).
+You are skilled at using your weight to your advantage. You gain the following benefits:
+* Your unarmed strike and improvised weapon damage die increases by one step (e.g. from 1 to 1d4).
+* When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can attempt to grapple the target as a free action.
 
 > The damage die size increases from brawling fighting style and brawling mastery **do** apply to the damage die of natural weapons. For example, the damage die of a longtooth shifter's fangs increases from 1d6 to 1d8.
 > 

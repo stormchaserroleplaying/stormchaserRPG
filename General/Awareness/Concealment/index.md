@@ -1,6 +1,6 @@
 ---
 title: Concealment and Invisibility
-parent: Perception
+parent: Awareness
 grand_parent: General Rules
 nav_order: 5
 ---

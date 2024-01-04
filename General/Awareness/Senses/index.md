@@ -1,12 +1,12 @@
 ---
 title: Senses
-parent: Perception
+parent: Awareness
 grand_parent: General Rules
 nav_order: 2
 ---
 
 # Senses
-The ways that a creature can use perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in: observed, hidden, or undetected. Vision, hearing, and scent are three prominent senses, but they don’t have the same degree of acuity.
+The ways that a creature can use awareness depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in: observed, hidden, or undetected. Vision, hearing, and scent are three prominent senses, but they don’t have the same degree of acuity.
 
 ## Precise Senses
 Average vision is a precise sense, i.e. a sense that can be used to perceive the world in nuanced detail. The only way to target a creature without having drawbacks is to use a precise sense. You can usually detect a creature automatically with a precise sense unless that creature is hiding or obscured by the environment, in which case you can use the Seek basic action to better detect the creature.

@@ -1,6 +1,6 @@
 ---
 title: Special Senses
-parent: Perception
+parent: Awareness
 grand_parent: General Rules
 nav_order: 3
 ---
@@ -8,7 +8,7 @@ nav_order: 3
 # Special Senses
 While a human might have a difficult time making creatures out in dim light, an elf can see those creatures just fine. Similarly, although elves have no problem seeing on a moonlit night, their vision cannot penetrate complete darkness, whereas a dragon’s can.
 
-Special senses grant greater awareness that allows a creature with these senses to either ignore or reduce the effects of the undetected, hidden, or concealed conditions (described in [Detecting Creatures](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Detecting/)) when it comes to situations that foil average vision. The following are a few examples of common special senses.
+Special senses grant greater awareness that allows a creature with these senses to either ignore or reduce the effects of the undetected, hidden, or concealed conditions (described in [Detecting Creatures](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Detecting/)) when it comes to situations that foil average vision. The following are a few examples of common special senses.
 
 ## Darkvision
 A creature with darkvision or greater darkvision can see perfectly well in areas of darkness. However, darkvision cannot discern colour in darkness, only shades of grey.

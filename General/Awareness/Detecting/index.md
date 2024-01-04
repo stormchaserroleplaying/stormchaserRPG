@@ -1,6 +1,6 @@
 ---
 title: Detecting Creatures
-parent: Perception
+parent: Awareness
 grand_parent: General Rules
 nav_order: 4
 ---

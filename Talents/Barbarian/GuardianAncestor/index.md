@@ -37,9 +37,7 @@ On your turn (or when you roll initiative), you can declare a specific creature 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** Ancestral Protectors and 50 CP of Barbarian talents
 *The guardian spirits that aid you can provide supernatural protection to those you defend.*
 
-While you are raging, the first time each round that you or an ally that you can see within 30 feet of you takes damage from an attack, that damage is reduced by 2dM.
-
-On your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round. This effect can only trigger once per round. The effect on the target ends early if your rage ends.
+As an action while you are raging, you grant a creature within 30 feet that you can see 2dM temporary stamina. This benefit lasts while you are raging or until you spend an action to use this talent again. If you use this talent's effect after the first application, reroll the temporary stamina amount and grant it to the target creature. If the creature had temporary stamina from this talent already, it is replaced with the new value.
 
 ### Consult the Spirits
 

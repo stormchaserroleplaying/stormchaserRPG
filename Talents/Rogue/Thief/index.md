@@ -23,16 +23,16 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses and oth
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 5 CP spent in Rogue talents
 *Professional Thieves are adept at working in areas commonly overlooked by the common watchmen.*
 
-You can use the free action granted by Cunning Action to make a Sleight of Hand check, use your thieves' tools to disarm a trap or open a lock, or take the [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action.
+You can use your Cunning Action to make a [Sleight of Hand](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/) check to, for example, [Steal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/Steal/) or [Pick a Lock](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PickLock/), or take the [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action.
 
-You also gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+You also gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a [long jump](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump/#long-jump), the distance you cover increases by a number of feet equal to your Dexterity modifier.
 
 ### Supreme Sneak
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** 40 CP spent in Rogue talents
-You gain +1d on Dexterity (Stealth) checks if you move no more than half your speed on the same turn.
+You gain +1d on Stealth checks if you move no more than half your speed on the same turn.
 
 ### Use Magic Device
 
@@ -46,4 +46,4 @@ You have learned enough about the workings of magic that you can improvise the u
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 40 Character Points<br>**Prerequisite:** 250 CP spent in Rogue talents
-You have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are [Surprised]().
+You have become adept at laying ambushes and quickly escaping danger. You gain one addititional action during the first round of any combat. You can't use this feature when you are [flat-footed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Flatfooted/).

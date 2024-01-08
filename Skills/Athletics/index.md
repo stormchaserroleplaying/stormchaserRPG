@@ -58,9 +58,6 @@ Crossing narrow bridges, riding choppy seas, or running across ice, most players
 #### Diving
 Sometimes a belly flop is fine, but most players want to avoid taking damage when falling into water. Slipping unnoticed into water to evade a dock guard might come in handy for port rogues.
 
-#### Escapology
-Between spider webs and bounty hunter manacles, a quick Escape is sometimes the better part of valor.
-
 #### Tumbling
 Avoiding damage from a big fall or sliding through an opponents legs, mobile characters often need to tumble.
 

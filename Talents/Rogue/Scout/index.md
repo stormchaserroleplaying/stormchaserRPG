@@ -21,14 +21,14 @@ You are skilled in stealth and surviving far from the streets of a city, allowin
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 5 CP spent in Rogue talents 
-You are difficult to pin down during a fight. When an enemy ends its turn within 5 feet of you, you automatically move away up to half your movement, avoiding damage and difficult terrain as much as possible. This movement doesn't provoke opportunity attacks.
+You are difficult to pin down during a fight. At the beginning of your turn, if an enemy is its turn within 5 feet of you, you can [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) up to half your speed, avoiding damage and difficult terrain as much as possible. This movement doesn't provoke opportunity attacks.
 
 ### Superior Mobility
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 40 CP spent in Rogue talents 
-All of your movement speeds increase by 10 feet.
+Your speed increases by 10 feet.
 
 ### Ambush Master
 

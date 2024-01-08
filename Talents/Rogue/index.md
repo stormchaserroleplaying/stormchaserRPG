@@ -14,7 +14,7 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Sneak Attack | 5 | - |
 | Cunning Action | 10 | 5 CP spent in Rogue talents  |
 | Bad Feeling | 10 | 5 CP spent in Rogue talents |
-| Hard to Hold | 15 | 10 CP spent in Rogue talents |
+| Hard to Hold | 15 | 15 CP spent in Rogue talents |
 | Evasion | 25 | 20 CP spent in Rogue talents |
 | Reliable Skill | 35 | 75 CP spent in Rogue talents |
 | Blindsense | 50 | 150 CP spent in Rogue talents |
@@ -53,7 +53,7 @@ Once you’ve used this feature, you can’t use it again until you finish a lon
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 15 CP spent in Rogue talents
 *You know how to contort and leverge your limbs to find a way out of the grasp of someone.*
 
 You gain +1d to unarmed attacks when you [Escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
@@ -83,7 +83,7 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 150 CP spent in Rogue talents
 *Your keen ears make it hard for invisible creatures sneak up on you.*
 
-Hearing is a precise sense to a range of 10 feet while you are not [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened).
+Hearing is a precise sense to a range of 30 feet.
 
 ### Slippery Mind
 

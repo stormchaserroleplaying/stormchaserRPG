@@ -54,7 +54,7 @@ Once you’ve used this feature, you can’t use it again until you finish a lon
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
-*You know how to twist, contort and leverge your limbs to find the way out of the grasp of someone.*
+*You know how to contort and leverge your limbs to find a way out of the grasp of someone.*
 
 You gain +1d to unarmed attacks when you [Escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
 
@@ -63,7 +63,7 @@ You gain +1d to unarmed attacks when you [Escape](https://stormchaserroleplaying
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 20 CP spent in Rogue talents
-*You can quickly dip, duck, dive and dodge out of the way of effects that , like the fiery breath of a dragon.*
+*You can quickly dodge, duck, dip and dive out of the way of effects that cover large areas, like the fiery breath of a dragon.*
 
 If an attack vs your Dexterity defence that is neither melee nor ranged misses you and you would still take half damage, you instead take no damage, and only half damage if it hits. 
 
@@ -92,14 +92,14 @@ Hearing is a precise sense to a range of 10 feet while you are not [deafened](ht
 #### **Cost:** 65 Character Points<br>**Prerequisite:** 200 CP spent in Rogue talents
 *Your mind becomes as quick as your body.*
 
-You gain +1d to you Wisdom defence.
+You gain +1d to your Wisdom defence.
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 350 CP spent in Rogue talents
-*It's never over when you opponent has the high ground.*
+*It's never over when your opponent has the high ground.*
 
 While you are not [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), melee and ranged attacks against you can only apply their proficiency to the roll (environmental sources to gain +1d do not apply).
 

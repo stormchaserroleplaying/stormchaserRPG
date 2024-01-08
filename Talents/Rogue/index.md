@@ -14,6 +14,7 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Sneak Attack | 5 | - |
 | Cunning Action | 10 | 5 CP spent in Rogue talents  |
 | Bad Feeling | 10 | 5 CP spent in Rogue talents |
+| Hard to Hold | 15 | 10 CP spent in Rogue talents |
 | Evasion | 25 | 20 CP spent in Rogue talents |
 | Reliable Skill | 35 | 75 CP spent in Rogue talents |
 | Blindsense | 50 | 150 CP spent in Rogue talents |
@@ -48,12 +49,23 @@ You have a wary eye, bordering on paranoia. When you roll for initiative, you ca
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
 
+### Hard to Hold
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 10 CP spent in Rogue talents
+*You know how to twist, contort and leverge your limbs to find the way out of the grasp of someone.*
+
+You gain +1d to unarmed attacks when you [Escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
+
 ### Evasion
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** 20 CP spent in Rogue talents
-Content
+*You can quickly dip, duck, dive and dodge out of the way of effects that , like the fiery breath of a dragon.*
+
+If an attack vs your Dexterity defence that is neither melee nor ranged misses you and you would still take half damage, you instead take no damage, and only half damage if it hits. 
 
 ### Reliable Skill
 
@@ -69,28 +81,35 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 150 CP spent in Rogue talents
-Content
+*Your keen ears make it hard for invisible creatures sneak up on you.*
+
+Hearing is a precise sense to a range of 10 feet while you are not [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened).
 
 ### Slippery Mind
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 65 Character Points<br>**Prerequisite:** 200 CP spent in Rogue talents
-Content
+*Your mind becomes as quick as your body.*
+
+You gain +1d to you Wisdom defence.
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 350 CP spent in Rogue talents
-Content
+*It's never over when you opponent has the high ground.*
+
+While you are not [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), melee and ranged attacks against you can only apply their proficiency to the roll (environmental sources to gain +1d do not apply).
 
 ### Stroke of Luck
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 450 CP spent in Rogue talents
+*In pivotal moments you know how to make your efforts count.*
 
-Content
+If your melee or ranged attack misses a target within range, you can turn it into a hit. Alternatively, if you fail a check, you can choose to take 20 on the roll. Once you use this feature, you cannot use it again until you finish a short or long rest.  
 
 ## Rogue Talent Tree Branches

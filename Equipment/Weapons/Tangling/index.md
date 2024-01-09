@@ -12,11 +12,11 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
 | Lasso | 1 sp | — | 5 lb. | 9 | Break, finesse, restraining (body/legs), tangle, thrown 10 |
 | Net | 1 gp | — | 3 lb. | 9 | Break, finesse, restraining (all/hand/legs), thrown 5 |
-| Whip | 1 gp | 1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 2 lb. | 9 | Disarm, finesse, non-lethal, reach, restraining (hand/legs), tangle, trip |
-| Spiked Whip | 5 gp | 1d4 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 3 lb. | 9 | Disarm, finesse, reach, restraining (hand/legs), tangle, trip, vicious |
+| Whip | 1 gp | 1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 2 lb. | 9 | Disarm, finesse, non-lethal, reach, restraining (hand/legs), tangle, tripping |
+| Spiked Whip | 5 gp | 1d4 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 3 lb. | 9 | Disarm, finesse, reach, restraining (hand/legs), tangle, tripping, vicious |
 | Barbed Net | 20 gp | 1d4 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 9 | As the net, plus: ongoing (1), tangle, vicious |
-| Light Chain | 15 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Break, disarm, finesse, reach, restraining (hand/body/legs), tangle, trip, two-handed |
-| Spiked Chain | 25 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 10 lb. | 11 | Break, disarm, finesse, ongoing (1), reach, restraining (hand/body/legs), tangle, trip, two-handed, vicious |
-| Flail | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 11 | Disarm, tangle, trip, versatile, vicious |
-| Heavy Flail | 15 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 13 | Disarm, tangle, trip, two-handed, unwieldy, vicious |
-| Dorn-Dergar | 50 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 7 lb. | 15 | Disarm, exotic (dwarf), reach, tangle, trip, two-handed, unwieldy, vicious |
+| Light Chain | 15 gp | 1d6 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 9 | Break, disarm, finesse, reach, restraining (hand/body/legs), tangle, tripping, two-handed |
+| Spiked Chain | 25 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 10 lb. | 11 | Break, disarm, finesse, ongoing (1), reach, restraining (hand/body/legs), tangle, tripping, two-handed, vicious |
+| Flail | 8 gp | 1d8 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 2 lb. | 11 | Disarm, tangle, tripping, versatile, vicious |
+| Heavy Flail | 15 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 5 lb. | 13 | Disarm, tangle, tripping, two-handed, unwieldy, vicious |
+| Dorn-Dergar | 50 gp | 1d10 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | 7 lb. | 15 | Disarm, exotic (dwarf), reach, tangle, tripping, two-handed, unwieldy, vicious |

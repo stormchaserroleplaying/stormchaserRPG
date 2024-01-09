@@ -14,16 +14,16 @@ In most settings, only dwarves can become barbed barbarians. They fill a particu
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Barbed Armour | 15  | Rage and 15 CP of Barbarian talents |
+| Barbed Armour | 15  | Rage |
 | Reckless Abandon   | 20 | Barbed Armour and 50 CP of Barbarian talents |
-| Bristling Charge | 30 | Reckless Abandon and 110 CP of Barbarian talents |
+| Bristling Charge | 30 | Reckless Abandon and 125 CP of Barbarian talents |
 | Spiked Retribution | 50 | Bristling Charge and 225 CP of Barbarian talents |
 
 ### Barbed Armour
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage and 15 CP of Barbarian talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
 While you are wearing armour with the [armour spikes](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Tables/#extras) addition and are raging, you can make one unarmed strike against a target within 5 feet of you as an action. If the attack hits, the spikes deal 1dM piercing damage. You use your Strength modifier for the attack and damage rolls.
 
 Additionally, when you successfully [grapple]((https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/)) a creature, the target takes 1dM piercing damage. This damage roll recurs on each round that you maintain the grapple.
@@ -39,7 +39,7 @@ When you use [Reckless Attack](https://github.com/stormchaserroleplaying/stormch
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Reckless Abandon and 110 CP of Barbarian Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Reckless Abandon and 125 CP of Barbarian Talents
 While raging, you can [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/) with only 1 action instead of 2. Additionally, you can [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) (Slam and Tackle only) for 2 actions instead of 3.
 
 ### Spiked Retribution

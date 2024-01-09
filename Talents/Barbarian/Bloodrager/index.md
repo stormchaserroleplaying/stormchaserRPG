@@ -20,16 +20,16 @@ You gain the ability to [sustain](https://stormchaserroleplaying.com/stormchaser
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Bloodline | 15 | Rage, Arcane Spellcasting and 15 CP of Barbarian talents  |
+| Bloodline | 15 | Rage, Arcane Spellcasting |
 | Blood Sanctuary | 20 | Bloodline and 50 CP of Barbarian Talents |
-| Bloodrage | 30 | Blood Sanctuary and 110 CP of Barbarian Talents |
+| Bloodrage | 30 | Blood Sanctuary and 125 CP of Barbarian Talents |
 | Greater Bloodline | 50 | Bloodrage and 225 CP of Barbarian Talents |
 
 ### Bloodline
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage, Arcane Spellcasting and 15 CP of Barbarian talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage, Arcane Spellcasting
 The power that lies dormant in your blood awakens.
 
 Each bloodrager has a source of magic somewhere in their heritage that empowers their rage. Sometimes this source reflects a distant blood relationship to a powerful being, or is due to an extreme event involving such a creature somewhere in their family's past. Regardless of the source, this influence manifests in a number of ways.
@@ -119,7 +119,7 @@ Due to the power of your blood, you can stand confidently amid the effects of sp
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Blood Sanctuary and 110 CP of Barbarian Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Blood Sanctuary and 125 CP of Barbarian Talents
 Upon entering a rage, you can apply the effects of a spell that you know to yourself. The spell must have a range of touch or self. If the spell's duration is greater than 1 round, it instead lasts for the duration of the rage. This use consumes mana as if you had cast the spell.
 
 ### Greater Bloodline

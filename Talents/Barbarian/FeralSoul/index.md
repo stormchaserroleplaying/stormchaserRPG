@@ -11,13 +11,13 @@ Feral Soul barbarians draw their rage from a bestial spark burning within their 
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Form of the Beast | 15 | Rage and 15 CP of Barbarian Talents |
+| Form of the Beast | 15 | Rage |
 | Bestial Soul      | 20 | Form of the Beast and 50 CP of Barbarian Talents |
-| Infectious Fury   | 30 | Bestial Soul and 110 CP of Barbarian Talents |
+| Infectious Fury   | 30 | Bestial Soul and 125 CP of Barbarian Talents |
 | Call the Hunt     | 50 | Infectious Fury and 225 CP of Barbarian Talents | 
 
 ### Form of the Beast
-#### *Cost:* 15 Character Points<br>*Prerequisite:* Rage and 15 CP of Barbarian Talents 
+#### *Cost:* 15 Character Points<br>*Prerequisite:* Rage
 When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. You are trained with this weapon, but your proficiency increases with your Martial Feat Die. When your Martial Feat die increases to d8, your proficiency with these natural weapons increases to expert. When your Martial Feat die increases to d10, proficiency increases again to master.
 
 You choose the weapon’s form each time you rage:
@@ -43,7 +43,7 @@ When you jump, you can make an athletics check and extend your jump by a number 
 **Swimming**
 You gain a swimming speed equal to your walking speed and you can breathe underwater.
 
-### Infectious Fury<br>*Cost:* 30 Character Points<br>*Prerequisite:* Bestial Soul and 110 CP of Barbarian Talents
+### Infectious Fury<br>*Cost:* 30 Character Points<br>*Prerequisite:* Bestial Soul and 125 CP of Barbarian Talents
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. If your attack roll exceeds the target's wisdom defense, they suffer one of the following effects (your choice):
 - The target must use one of its actions on its next turn to attack another creature of your choice that you can see.
 - The target takes 2dM psychic damage.

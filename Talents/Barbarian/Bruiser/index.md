@@ -11,16 +11,16 @@ Most barbarians require weapons. However, for Bruiser barbarians everything is t
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Reckless Strikes        | 15  | 15 CP of Barbarian talents |
+| Reckless Strikes        | 15 | Rage |
 | Shattering Strikes      | 20 | Reckless Strikes and 50 CP of Barbarian talents |
-| Stop Hitting Each Other | 30 | Shattering Strikes and 110 CP of Barbarian talents |
+| Stop Hitting Each Other | 30 | Shattering Strikes and 125 CP of Barbarian talents |
 | Hulking Smash           | 50 | Stop Hitting Each Other and 225 CP of Barbarian talents |
 
 ### Reckless Strikes
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points**Prerequisite:** 15 CP of Barbarian talents
+#### **Cost:** 15 Character Points**Prerequisite:** Rage
 The base damage of your unarmed strikes is now 1dM.
 
 While you are raging and not wielding a shield, when you hit a creature with an unarmed strike or improvised weapon, you can choose to suffer -1d on the attack roll to make the attack a reckless strike.
@@ -51,7 +51,7 @@ While raging, you gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Shattering Strikes and 110 CP of Barbarian talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Shattering Strikes and 125 CP of Barbarian talents
 You can [grapple](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) creatures up to two sizes larger than you, instead of one size larger than you. 
 
 Additionally, you can use creatures that you have [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) that are at least one size smaller than you as improvised weapons. When you do so and you hit with an attack using a creature as a weapon, the [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) creature takes damage equal to your Strength modifier. While raging, you can instead use creatures your size or smaller as improvised weapons.

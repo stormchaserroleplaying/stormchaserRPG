@@ -13,9 +13,9 @@ Barbarians who draw on their guardian ancestors can better fight to protect thei
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Ancestral Protectors          | 15 | Rage and 15 CP of Barbarian talents |
+| Ancestral Protectors          | 15 | Rage |
 | Spirit Shield                 | 20 | Ancestral Protectors and 50 CP of Barbarian talents |
-| Consult the Spirits           | 30 | Spirit Shield and 110 CP of Barbarian talents |
+| Consult the Spirits           | 30 | Spirit Shield and 125 CP of Barbarian talents |
 | Vengeful Ancestors            | 40 | Consult the Spirits and 225 CP of Barbarian talents |
 | Ancestral Protectors, Greater | 10 | Ancestral Protectors and 225 CP of Barbarian talents |
 
@@ -23,7 +23,7 @@ Barbarians who draw on their guardian ancestors can better fight to protect thei
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage and 15 CP of Barbarian talents 
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
 *When you enter your rage, a spectral warrior appears to defend you and your allies.*
 
 While you are raging, the first time each round that you or an ally that you can see within 15 feet of you is targeted by an attack, the target receives +1d to its defences vs that attack.
@@ -43,7 +43,7 @@ As an action while you are raging, you grant a creature within 30 feet that you 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Spirit Shield and 110 CP of Barbarian talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Spirit Shield and 125 CP of Barbarian talents
 *You gain the ability to consult with your ancestral spirits.*
 
 You can cast the [augury]() and [clairvoyance]() spells as rituals, without using mana or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.

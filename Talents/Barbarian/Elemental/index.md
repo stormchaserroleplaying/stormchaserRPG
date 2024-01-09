@@ -13,16 +13,16 @@ Elemental storm barbarians are typically elite champions who train alongside dru
 
 | Talent | CP | Prerequisites | Barbarian Talents Required |
 |:------:|:--:|:-------------:|:--------------------------:|
-| Storm Aura | 15  | Rage and 15 CP of Barbarian talents |
+| Storm Aura | 15  | Rage |
 | Storm Soul| 20 | Storm Aura and 50 CP of Barbarian talents |
-| Shielding Storm | 30 | Storm Soul and 110 CP of Barbarian talents |
+| Shielding Storm | 30 | Storm Soul and 125 CP of Barbarian talents |
 | Raging Storm | 50 | Shielding Storm and 225 CP of Barbarian talents |
 
 ### Storm Aura
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage and 15 CP of Barbarian talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
 You emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover.
 
 Your aura has an effect that activates when you begin raging. You can activate the effect again on each of your turns as an action. Choose fire, lightning, or cold. Your aura’s effect depends on that chosen element, as detailed below.
@@ -50,7 +50,7 @@ The storm grants you benefits even when your aura isn’t active. The benefits a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Storm Soul and 110 CP of Barbarian talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Storm Soul and 125 CP of Barbarian talents
 You learn to use your mastery of the storm to protect others. Each creature of your choice within your Storm Aura gains the damage resistance granted by the Storm Soul feature.
 
 ### Raging Storm

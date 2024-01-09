@@ -7,11 +7,6 @@ grand_parent: Talents
 # Wild Magic
 Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Hedge, the higher planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians carry the Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
 
-## Features
-
-### Magic Awareness
-When you take your first talent from this branch, you become aware of the presence of concentrated magic. When you activate this ability as an action, you know the location of any spell or magic item within 60 feet of you until the end of your next turn. When you sense a spell, you learn which school of magic it belongs to.
-
 ## Talents
 
 | Talent | CP | Prerequisites |
@@ -23,6 +18,8 @@ When you take your first talent from this branch, you become aware of the presen
 
 ### Wild Surge
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
+You become aware of the presence of concentrated magic around you. You gain the [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic) spell.
+
 The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the table below to determine the magical effect produced.
 
 | d8 | Effect |

@@ -10,16 +10,16 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 | Name | Cost | Damage | Weight | Str/Dex | Properties |
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
-| Light Lance | 7 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 4 lb. | 9 | Brutal 1, finesse, long, mounted, trip, two-handed |
+| Light Lance | 7 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 4 lb. | 9 | Brutal 1, finesse, long, mounted, two-handed |
 | Pincer Staff | 20 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 9 | Long, preventing, trip, two-handed |
 | Hooked Spear | 2 gp | 2d3 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 9 | Brace, brutal 1, finesse, hooked, sharp 1, trip, versatile |
 | Talon Spear | 5 gp | 2d3 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 9  | Brace, brutal 1, disarm, finesse, sharp 1, trip, versatile |
 | Trident | 5 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 11 | Brace, disarm, finesse, sharp 1, thrown (20/60), trip, versatile |
-| Combat Lance | 10 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 11 | Brutal 1, long, mounted, trip, two-handed |
+| Combat Lance | 10 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 11 | Brutal 1, long, mounted, two-handed |
 | Ranseur | 10 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 11 | Brace, brutal 1, disarm, long, sharp 1, trip, two-handed, unwieldy |
 | War Scythe | 25 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 10 lb. | 11 | Brace, Brutal 1, long, trip, two-handed, unwieldy |
 | Longspear | 5 gp | 2d4 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 4 lb. | 9 | Brace, brutal 1, long, mounted, sharp 1, shield, trip, two-handed, unwieldy |
-| Great Lance | 20 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 10 lb. | 13 | Brutal 1, long, mounted, trip, two-handed, unwieldy |
+| Great Lance | 20 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 10 lb. | 13 | Brutal 1, long, mounted, two-handed, unwieldy |
 | Glaive | 8 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 6 lb. | 11 | Brutal 1, cleave, reach, trip, two-handed, unwieldy |
 | Pike | 5 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 10 lb. | 11 | Brace, brutal 1, long, sharp 1, trip, two-handed, unwieldy |
 | Guisarme | 9 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 lb. | 11 | Brace, brutal 1, hooked, long, trip, two-handed, unwieldy |

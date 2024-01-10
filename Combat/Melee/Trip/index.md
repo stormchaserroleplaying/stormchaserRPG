@@ -8,8 +8,10 @@ grand_parent: Combat
 *Attack*<br>
 **Actions:** 1
 
-Make an unarmed attack roll vs the target's unarmed weapon skill. If your target is smaller than you, you have +1d. If the target is larger than you, you suffer -1d. On a hit, the target is knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/.)
+Make an unarmed attack roll vs the target's unarmed weapon skill.
 
-The target of a trip may be no more than one size larger than you and must be within your reach.
+If your target is smaller than you, you have +1d. If the target is larger than you, you suffer -1d. The target of a trip may be no more than one size larger than you and must be within your reach.
 
-Critical Success: The target takes 1dM physical damage for every critical hit die.
+**Success:** The target is knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+
+**Critical Success:** The target takes an additional 1dM bludgeoning damage for every additional hit in your dice pool.

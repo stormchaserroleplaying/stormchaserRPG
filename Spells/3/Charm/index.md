@@ -17,6 +17,19 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 
 **At Higher Levels.** When you cast this spell using 4 mana or more, the temporary hit points increase by 5 for each point of mana beyond the first.
 
+## Paralyse
+*3rd level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M *(A small, straight piece of iron.)*<br>
+**Duration:** Sustained, or 4 Rounds on Critical Hit
+
+*You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place.*
+
+Make a charm attack vs the Wisdom defense of a creature within range that you can see. On a hit the target is [paralysed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/) for the duration. At the end of each of its turns, the target can make Wisdom defence check vs your charms skill. On a success, the spell ends on the target.
+
+**At Higher Levels.** When you cast this spell using 4 or more mana, you can target two additional creatures for each additional point of mana.
+
 ## Psychic Spy
 *3rd Level Charm*<br>
 **Casting Time:** 2 Actions<br>

@@ -1,5 +1,6 @@
 ---
 title: Sleight of Hand
+has_children: true
 parent: Skills
 ---
 
@@ -7,13 +8,13 @@ parent: Skills
 Sleight of hand is a **Dexterity**-based skill for whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person. The GM might also call for a sleight of hand check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
 
 ## Untrained Actions
-* [Palm an Object]()
-* [Steal]()
-* [Tie a Knot]()
+* [Palm an Object](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PalmObject)
+* [Steal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/Steal)
+* [Tie a Knot](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/TieKnot)
 
 ## Trained Actions
-* [Disable a Device]()
-* [Pick a Lock]()
+* [Disable a Device](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/DisableDevice)
+* [Pick a Lock](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PickLock)
 
 ## Subskills
 

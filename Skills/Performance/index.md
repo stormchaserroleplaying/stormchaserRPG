@@ -1,10 +1,17 @@
 ---
 title: Performance
+has_children: true
 parent: Skills
 ---
 
 # Performance
 Performance is a **Charisma**-based skill that determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+
+## Untrained Actions
+* [Perform](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Performance/Perform)
+
+## Trained Actions
+* [Earn Income](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/EarnIncome)
 
 ## Subskills
 

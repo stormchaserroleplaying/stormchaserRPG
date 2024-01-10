@@ -6,6 +6,13 @@ parent: Skills
 # Deception
 Deception is a **Charisma**-based skill that determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.
 
+## Untrained Actions
+* [Coerce](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Coerce)
+* [Demoralise](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Demoralise)
+
+## Trained Actions
+* [Create a Forgery](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/Forgery)
+
 ## Subskills
 
 ### Acting

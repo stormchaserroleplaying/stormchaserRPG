@@ -27,11 +27,16 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have +1d on the attack roll. The source of the +1d must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
+*You know how to strike subtly and exploit a foe's distraction.*
 
-You don't need +1d on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
+Once per turn, if you have +1d on an attack roll, you can deal an additional 3dM damage to one creature you hit with that attack, with the following conditions:
+* The source of the +1d must be environmental (proficiency does not count). 
+* The attack may not use a weapon with the [unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#unwieldy) property.
+* These dice are not multiplied on a [critical hit](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#critical-hits).
 
-Additionally, you can forego your Sneak Attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
+If another enemy of the target is within 5 feet of it and that enemy isn't [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), then you don't need +1d on the attack roll.
+
+Additionally, you can forego your sneak attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
 
 ### Cunning Action
 

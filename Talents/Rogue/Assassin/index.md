@@ -30,7 +30,7 @@ When you take your first talent from this branch, you gain proficiency with the 
 
 Any creature that hasn’t yet taken a turn in the combat is [flat-footed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Flatfooted/) towards you.
 
-Additionally, any hit that you score against a creature to which you are [undetected](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Detecting/#undetected) is treated as though you had rolled a natural 20.
+You may [coup de grace](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Coup/) creatures to which you are [undetected](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Detecting/#undetected), provided that you hit the creature with a melee or ranged attack roll.
 
 ### Infiltration Expertise
 
@@ -57,4 +57,4 @@ Your ruse is indiscernible to the casual observer. If a wary creature suspects t
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Imposter and 250 CP spent in Rogue talents
 *You become a master of instant death.*
 
-You may [coup de grace](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Coup/) creatures to which you are [undetected](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Detecting/#undetected), provided that you hit the creature with a melee or ranged attack roll.
+You may [coup de grace](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Coup/) as a single action.

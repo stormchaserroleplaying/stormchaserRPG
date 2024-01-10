@@ -13,16 +13,16 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Totem Spirit        | 15 | Rage and 15 CP of Barbarian Talents |
+| Totem Spirit        | 15 | Rage |
 | Aspect of the Beast | 20 | Totem Spirit and 50 CP of Barbarian Talents |
-| Spirit Walker       | 30 | Aspect of the Beast and 110 CP of Barbarian Talents |
+| Spirit Walker       | 30 | Aspect of the Beast and 125 CP of Barbarian Talents |
 | Totemic Attunement  | 50 | Spirit Walker and 225 CP of Barbarian Talents |
 
 ### Totem Spirit
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage and 15 CP of Barbarian Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
 Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the [Beast Sense]() and [Speak With Animals](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#speak-with-animals) spells. 
 
 When you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object (an amulet or similar adornment) that incorporates fur or feathers, claws, teeth, or bones of an animal connected with the spirit. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow. Many animals can represent a totem spirit, and an animal may also  represent several totem spirits. A soaring hawk is both consumate hunter and highly agile predator. Lions stalk their prey unseen, waiting for the proper time, then overwhelm their prey as a coordinated pack.
@@ -68,7 +68,7 @@ You gain a magical benefit based on the totem animal of your choice. You can cho
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Aspect of the Beast and 110 CP of Barbarian Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Aspect of the Beast and 125 CP of Barbarian Talents
 You can cast the [Commune With Nature]() spell, but only as a ritual. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement

@@ -191,7 +191,7 @@ Attacks with an entangled weapon suffer -1d on the attack roll. An entangled shi
 The creature wielding the weapon used to make the attack can disentangle it using their object interaction. If the creature wielding the implement used to defend wishes to disentangle itself, then it must spend an attack as part of the attack action and make a successful melee attack roll vs the weapon skill of the creature wielding the entangling weapon.
 
 ### Trip
-Trip attempts made with a trip weapon have +1d.
+You can perform the [trip](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Trip/) action using your weapon's attack roll instead of your unarmed attack roll.
 
 ### Tripod
 Attempting to fire this weapon without a tripod imparts -1d on the attack roll.

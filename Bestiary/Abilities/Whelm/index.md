@@ -1,6 +1,6 @@
 ---
 title: Whelm
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

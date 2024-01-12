@@ -1,6 +1,6 @@
 ---
 title: Earth Glide
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

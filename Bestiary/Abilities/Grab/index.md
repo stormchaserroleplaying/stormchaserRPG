@@ -1,6 +1,6 @@
 ---
 title: Grab
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

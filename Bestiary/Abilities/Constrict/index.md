@@ -1,6 +1,6 @@
 ---
 title: Constrict
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

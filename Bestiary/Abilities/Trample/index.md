@@ -1,6 +1,6 @@
 ---
 title: Trample
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

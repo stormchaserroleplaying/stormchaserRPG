@@ -1,6 +1,6 @@
 ---
 title: Poisonous
-parent: Abilities
+parent: Monster Abilities
 grand_parent: Bestiary
 ---
 

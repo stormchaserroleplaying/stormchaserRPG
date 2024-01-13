@@ -19,7 +19,7 @@ When you take your first talent from this branch, you gain proficiency with the 
 | Assassinate            | 15 | - |
 | Infiltration Expertise | 30 | Assassinate and 70 CP spent in Rogue talentss |
 | Impostor               | 50 | Infiltration Expertise and 125 CP spent in Rogue talents |
-| Death Strike           | 80 | Imposter and 300 CP spent in Rogue talents |
+| Death Strike           | 80 | Imposter and 225 CP spent in Rogue talents |
 
 ### Assassinate
 
@@ -54,7 +54,7 @@ Your ruse is indiscernible to the casual observer. If a wary creature suspects t
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Imposter and 300 CP spent in Rogue talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Imposter and 225 CP spent in Rogue talents
 *You become a master of instant death.*
 
 You may [coup de grace](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Coup/) as a single action.

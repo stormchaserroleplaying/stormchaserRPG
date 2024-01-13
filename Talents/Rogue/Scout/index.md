@@ -11,7 +11,7 @@ You are skilled in stealth and surviving far from the streets of a city, allowin
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Skirmisher        | 15  | - |
+| Skirmisher        | 15 | - |
 | Superior Mobility | 30 | Skrmisher and 70 CP spent in Rogue talents |
 | Ambush Master     | 50 | Superior Mobility and 125 CP spent in Rogue talents |
 | Sudden Strike     | 80 | Ambush Master and 300 CP spent in Rogue talents |

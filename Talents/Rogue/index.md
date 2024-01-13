@@ -12,15 +12,15 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Sneak Attack | 5 | - |
-| Cunning Action | 10 | 5 CP spent in Rogue talents  |
-| Bad Feeling | 10 | 5 CP spent in Rogue talents |
-| Hard to Hold | 15 | 15 CP spent in Rogue talents |
-| Evasion | 25 | 20 CP spent in Rogue talents |
-| Reliable Skill | 35 | 75 CP spent in Rogue talents |
-| Blindsense | 50 | 150 CP spent in Rogue talents |
-| Slippery Mind | 65 | 200 CP spent in Rogue talents|
-| Elusive | 80 | 350 CP spent in Rogue talents |
-| Stroke of Luck | 100 | 450 CP spent in Rogue talents |
+| Cunning Action | 5 | 5 CP spent in Rogue talents  |
+| Bad Feeling | 5 | 5 CP spent in Rogue talents |
+| Hard to Hold | 20 | 25 CP spent in Rogue talents |
+| Evasion | 25 | 40 CP spent in Rogue talents |
+| Reliable Skill | 35 | 100 CP spent in Rogue talents |
+| Blindsense | 50 | 175 CP spent in Rogue talents |
+| Slippery Mind | 65 | 225 CP spent in Rogue talents|
+| Elusive | 80 | 375 CP spent in Rogue talents |
+| Stroke of Luck | 100 | 475 CP spent in Rogue talents |
 
 ### Sneak Attack
 

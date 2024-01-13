@@ -18,9 +18,8 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Evasion | 25 | 40 CP spent in Rogue talents |
 | Reliable Skill | 35 | 100 CP spent in Rogue talents |
 | Blindsense | 50 | 175 CP spent in Rogue talents |
-| Slippery Mind | 65 | 225 CP spent in Rogue talents|
-| Elusive | 80 | 375 CP spent in Rogue talents |
-| Stroke of Luck | 100 | 475 CP spent in Rogue talents |
+| Elusive | 80 | 300 CP spent in Rogue talents |
+| Stroke of Luck | 100 | 375 CP spent in Rogue talents |
 
 ### Sneak Attack
 
@@ -58,16 +57,16 @@ Once you’ve used this feature, you can’t use it again until you finish a lon
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** 15 CP spent in Rogue talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 25 CP spent in Rogue talents
 *You know how to contort and leverge your limbs to find a way out of the grasp of someone.*
 
-You gain +1d to unarmed attacks when you [Escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
+You gain +1d to unarmed attacks when you [escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
 
 ### Evasion
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 20 CP spent in Rogue talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 40 CP spent in Rogue talents
 *You can quickly dodge, duck, dip and dive out of the way of effects that cover large areas, like the fiery breath of a dragon.*
 
 If an attack vs your Dexterity defence that is neither melee nor ranged misses you and you would still take half damage, you instead take no damage, and only half damage if it hits. 
@@ -76,7 +75,7 @@ If an attack vs your Dexterity defence that is neither melee nor ranged misses y
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 75 CP spent in Rogue talents
+#### **Cost:** 35 Character Points<br>**Prerequisite:** 100 CP spent in Rogue talents
 *You have refined your chosen skills until they approach perfection.*
 
 Whenever you make a skill check with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
@@ -85,25 +84,16 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 150 CP spent in Rogue talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 175 CP spent in Rogue talents
 *Your keen ears make it hard for invisible creatures sneak up on you.*
 
 Hearing is a precise sense to a range of 30 feet.
-
-### Slippery Mind
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 65 Character Points<br>**Prerequisite:** 200 CP spent in Rogue talents
-*Your mind becomes as quick as your body.*
-
-You gain +1d to your Wisdom defence.
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 350 CP spent in Rogue talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 300 CP spent in Rogue talents
 *It's never over when your opponent has the high ground.*
 
 While you are not [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), melee and ranged attacks against you can only apply their proficiency to the roll (environmental sources to gain +1d do not apply).
@@ -112,9 +102,11 @@ While you are not [incapacitated](https://stormchaserroleplaying.com/stormchaser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 450 CP spent in Rogue talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 375 CP spent in Rogue talents
 *In pivotal moments you know how to make your efforts count.*
 
-If your melee or ranged attack misses a target within range, you can turn it into a hit. Alternatively, if you fail a check, you can choose to take 20 on the roll. Once you use this feature, you cannot use it again until you finish a short or long rest.  
+If your melee or ranged attack misses a target within range, you can turn it into a hit. Alternatively, if you fail a check, you can choose to take 20 on the roll.
+
+Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ## Rogue Talent Tree Branches

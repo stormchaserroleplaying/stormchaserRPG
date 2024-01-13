@@ -14,7 +14,7 @@ You are skilled in stealth and surviving far from the streets of a city, allowin
 | Skirmisher        | 15 | - |
 | Superior Mobility | 30 | Skrmisher and 70 CP spent in Rogue talents |
 | Ambush Master     | 50 | Superior Mobility and 125 CP spent in Rogue talents |
-| Sudden Strike     | 80 | Ambush Master and 300 CP spent in Rogue talents |
+| Sudden Strike     | 80 | Ambush Master and 225 CP spent in Rogue talents |
 
 ### Skirmisher
 
@@ -43,7 +43,7 @@ You gain +1d on initiative rolls. In addition, any creature that you hit during 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Ambush Master and 300 CP spent in Rogue talents 
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Ambush Master and 225 CP spent in Rogue talents 
 *You can strike with deadly speed.*
 
 If you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action on your turn, your next [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on the same turn does not suffer from multiple attack penalty. This second attack can benefit from your [sneak attack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Rogue/#sneak-attack) even if you have already used it this turn, but you can't use your [sneak attack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Rogue/#sneak-attack) against the same target more than once in a turn.

@@ -16,7 +16,7 @@ When you take your first talent from this branch, you gain proficiency with the 
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Assassinate            | 15  | - |
+| Assassinate            | 15 | - |
 | Infiltration Expertise | 30 | Assassinate and 70 CP spent in Rogue talentss |
 | Impostor               | 50 | Infiltration Expertise and 125 CP spent in Rogue talents |
 | Death Strike           | 80 | Imposter and 300 CP spent in Rogue talents |

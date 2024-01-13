@@ -14,7 +14,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses and oth
 | Cat Burglar      | 15 | Cunning Action |
 | Supreme Sneak    | 30 | Cat Burglar and 70 CP spent in Rogue talents |
 | Use Magic Device | 50 | Supreme Sneak and 125 CP spent in Rogue talents |
-| Thief's Reflexes | 80 | Use Magic Device and 300 CP spent in Rogue talents |
+| Thief's Reflexes | 80 | Use Magic Device and 225 CP spent in Rogue talents |
 
 ### Cat Burglar
 
@@ -47,7 +47,7 @@ You ignore all class, species and culture requirements on the use of magic items
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Use Magic Device and 300 CP spent in Rogue talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Use Magic Device and 225 CP spent in Rogue talents
 *You have become adept at laying ambushes and quickly escaping danger.*
 
 You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature unless you have [noticed](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Detecting/#unnoticed) a foe.

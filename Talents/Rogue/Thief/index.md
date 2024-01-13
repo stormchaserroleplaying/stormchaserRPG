@@ -23,7 +23,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses and oth
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Cunning Action
 *Professional Thieves are adept at working in areas commonly overlooked by the common watchmen.*
 
-You can use your Cunning Action to make a [Sleight of Hand](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/) check to, for example, [Steal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/Steal/) or [Pick a Lock](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PickLock/), or take the [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action.
+You can use your [cunning action](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Rogue/#cunning-action) to make a [sleight of hand](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/) check such as [steal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/Steal/) or [pick a lock](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PickLock/), or to take the [interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action.
 
 You also gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a [long jump](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump/#long-jump), the distance that you cover increases by a number of feet equal to your Dexterity modifier.
 

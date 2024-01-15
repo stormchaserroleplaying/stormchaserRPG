@@ -13,17 +13,21 @@ See [the Arden campaign setting](https://stormchaserroleplaying.com/Arden/Specie
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 10 Character Points
 Those with infernal lineage share certain features as a result of their fiendish descent.
 
-### Darkvision
-Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+### Low-Light Vision
+*Thanks to your infernal heritage, you have superior vision in dark and dim conditions.*
+
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
+
+If your species already grants you [low-light vision](https://stormchaserroleplaying.com/stormchaserRPG/Species/Common/Elf/#low-light-vision), you instead gain [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#infravision).
 
 ### Hellish Resistance
 You have resistance to fire damage.
 
 ### Infernal Legacy
-You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and can cast the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell once per long rest. Charisma is your spellcasting ability for these spells.
+You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell. Charisma is your spellcasting ability for these spells.
 
 ## Phenotypes
 Numerous bloodlines descended from a variety of different kinds of fiends have resulted in numerous phenotypes that exhibit various magical powers.

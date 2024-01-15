@@ -13,20 +13,21 @@ See [the Arden campaign setting](https://stormchaserroleplaying.com/Arden/Specie
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 10 Character Points
 Your character has the following features.
 
-### Darkvision
-Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
+### Celestial Legacy
+You know the [Light](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#light) cantrip and the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) spell. Charisma is your spellcasting ability for these spells.
 
-### Celestial Resistance
+### Low-Light Vision
+*Blessed with a radiant soul, your vision can easily cut through darkness.*
+
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
+
+If your species already grants you [low-light vision](https://stormchaserroleplaying.com/stormchaserRPG/Species/Common/Elf/#low-light-vision), you instead gain [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#infravision).
+
+### Heavenly Resistance
 You have resistance to sacred damage.
-
-### Healing Hands
-As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this ability, you can’t use it again until you finish a long rest.
-
-### Light Bearer
-You know the light cantrip. Charisma is your spellcasting ability for it.
 
 ## Phenotypes
 Four celestial phenotypes exist: fallen, herald, protector and scourge. Choose one of them for your character.

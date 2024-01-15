@@ -4,7 +4,7 @@ parent: Species Talents
 grand_parent: Talents
 ---
 
-# Aasimar Talentsᴮᴳ
+# Aasimar Talents
 
 ## Celestial Legacy
 

@@ -4,7 +4,7 @@ parent: Species Talents
 grand_parent: Talents
 ---
 
-# Tiefling Talentsᴮᴳ
+# Tiefling Talents
 
 ## Greater Infernal Legacy
 

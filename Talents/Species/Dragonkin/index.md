@@ -4,7 +4,7 @@ parent: Species Talents
 grand_parent: Talents
 ---
 
-# Dragonkin Talentsᴮᴳ
+# Dragonkin Talents
 
 ## Earth Dragon
 

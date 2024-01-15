@@ -23,8 +23,8 @@ You can see in dim light as though it were bright light, so you ignore the conce
 
 If your species already grants you [low-light vision](https://stormchaserroleplaying.com/stormchaserRPG/Species/Common/Elf/#low-light-vision), you instead gain [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#infravision).
 
-### Hellish Resistance
-You have resistance to fire damage.
+### Infernal Resistance
+You have resistance to profane damage.
 
 ### Infernal Legacy
 You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell. Charisma is your spellcasting ability for these spells.

@@ -43,6 +43,17 @@ This spell blesses or curses an area in a 20-foot radius sphere centered on a po
 
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
+## Darkness
+*2nd Level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 feet (20-foot radius)<br>
+**Components:** V, M *(Bat fur and a drop of pitch or piece of coal)*<br>
+**Duration:** 1 Minute
+
+You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell's level or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.
+
+**At Higher Levels.**  If cast using 4 or more mana, creatures with [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) can barely see through the darkness. They treat targets seen through the darkness as [concealed](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Concealment/#concealed).
+
 ## Force Punch
 *2nd Level Evocation*<br>
 **Casting Time:** 2 Actions<br>

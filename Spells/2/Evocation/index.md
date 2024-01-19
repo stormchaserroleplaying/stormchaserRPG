@@ -17,6 +17,17 @@ A burst of cold energy emanates from you in a 30-foot cone. Make an evocation at
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional point of mana.
 
+## Branding Smite
+*2nd Level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V<br>
+**Duration:** Sustained, up to 1 minute
+
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 sacred damage to the target, which becomes visible if it is [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/), and the target sheds dim light in a 5-foot radius and can’t become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) until the spell ends. 
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the extra damage increases by 1d6 for each additional point of mana.
+
 ## Consecrate/Desecrate
 *2nd level Evocation*<br>
 **Casting Time:** 2 Actions<br>

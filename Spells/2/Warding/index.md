@@ -17,6 +17,19 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell 3 or more mana, a target's stamina increases by an additional 5 for each additional point of mana.
 
+## Arcane Lock
+*2nd level Ward*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(Gold dust worht 25 gp, which is consumed.)*<br>
+**Duration:** Until Dispelled
+
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting [knock]() on the object suppresses [arcane lock]() for 10 minutes.
+
+While affected by this spell, any attempt to break or [pick a lock](https://stormchaserroleplaying.com/stormchaserRPG/Skills/SleightofHand/PickLock/) the object is made by a skill check vs your warding skill.
+
+**At Higher Levels.** When you cast this spell with 3 or more mana, the DC to break a locked device increases by 1 for each additional point of mana. 
+
 ## Let the Soul Pass
 *2nd level Ward (Ritual)*<br>
 **Casting Time:** 3 actions<br>

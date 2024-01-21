@@ -1,6 +1,7 @@
 ---
 title: Intimidation
 parent: Skills
+has_children: true
 ---
 
 # Intimidation

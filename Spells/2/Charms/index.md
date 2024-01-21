@@ -6,6 +6,19 @@ grand_parent: Spells
 
 # Charms
 
+## Crown of Madness
+*2nd level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 feet<br>
+**Components:** V, S<br>
+**Duration:** Sustained, up to 1 minute
+
+Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
+
+When you cast this spell and as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can designate another creature that the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) target must attempt to [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on each of its turns. The target can act normally on its turn if you choose no creature or if none are within its attack range.
+
+A creature affected by this spell can make a Wisdom defense check vs your charm skill at the end of each of its turns. On a success, the spell ends.
+
 ## To This Point, Bring the East!
 *2nd level Charm (Ritual)*<br>
 **Casting Time:** 1 Action<br>

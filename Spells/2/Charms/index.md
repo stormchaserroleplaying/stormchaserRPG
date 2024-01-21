@@ -11,9 +11,9 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained
 
-Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
+Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head and a madness glows in its eyes.
 
 When you cast this spell and as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can designate another creature that the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) target must attempt to [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on each of its turns. The target can act normally on its turn if you choose no creature or if none are within its attack range.
 

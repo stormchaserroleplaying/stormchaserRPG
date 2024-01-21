@@ -120,7 +120,7 @@ When the spell is first cast and at the end of each of your turns for the spell'
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
-On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell you can morve the beam up to 60 feet in any direction.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell you can move the beam up to 60 feet in any direction.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 for each additional point of mana.
 

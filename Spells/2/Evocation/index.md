@@ -54,6 +54,19 @@ You create a shroud of darkness that prevents light from penetrating or emanatin
 
 **At Higher Levels.**  If cast using 4 or more mana, creatures with [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) can barely see through the darkness. They treat targets seen through the darkness as [concealed](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Concealment/#concealed).
 
+## Flame Blade
+*2nd Level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V, S, M *(A leaf of sumac.)*<br>
+**Duration:** 1 Minute
+
+You evoke a fiery, scimitar-shaped blade in your free hand. While the spell lasts, you can [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with this blade. When you do so, make a melee evocation attack. On a hit, the target takes 3d6 fire damage.
+
+The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+**At Higher Levels.**  When you cast this spell using 3 or more mana, the damage increases by 1d6 for every additional point of mana. 
+
 ## Force Punch
 *2nd Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
@@ -107,7 +120,7 @@ When the spell is first cast and at the end of each of your turns for the spell'
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
-On each of your turns after you cast this spell, you can use 2 actions to move the beam up to 60 feet in any direction.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell you can morve the beam up to 60 feet in any direction.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 for each additional point of mana.
 

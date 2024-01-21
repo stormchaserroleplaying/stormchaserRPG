@@ -22,9 +22,9 @@ A burst of cold energy emanates from you in a 30-foot cone. Make an evocation at
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** 1 Minute
 
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 sacred damage to the target, which becomes visible if it is [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/), and the target sheds dim light in a 5-foot radius and can’t become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) until the spell ends. 
+The next time that you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 sacred damage to the target, which becomes visible if it is [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/), and the target sheds dim light in a 5-foot radius and can’t become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) until the spell ends. 
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the extra damage increases by 1d6 for each additional point of mana.
 
@@ -47,7 +47,7 @@ You cannot consecrate/desecrate an area with a similar fixture of a deity other 
 *2nd Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet (20-foot radius)<br>
-**Components:** V, M *(Bat fur and a drop of pitch or piece of coal)*<br>
+**Components:** V, M *(Bat fur and a drop of pitch or piece of coal.)*<br>
 **Duration:** 1 Minute
 
 You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell's level or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.
@@ -120,7 +120,7 @@ When the spell is first cast and at the end of each of your turns for the spell'
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
-On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell you can move the beam up to 60 feet in any direction.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can move the beam up to 60 feet in any direction.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 for each additional point of mana.
 

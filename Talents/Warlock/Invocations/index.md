@@ -17,7 +17,6 @@ grand_parent: Talents
 | Eldritch Sight                 | 5  | - |
 | Eldritch Spear                 | 5  | [Eldritch Blast]() Cantrip |
 | Eldritch Whip                  | 5  | [Eldritch Blast]() Cantrip |
-| Eyes of the Rune Keeper        | 5  | - |
 | Fiendish Vigor                 | 5  | - |
 | Gaze of Two Minds              | 5  | - |
 | Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
@@ -34,6 +33,7 @@ grand_parent: Talents
 | Voice of the Chain Master      | 5  | - |
 | Cloak of Flies                 | 10 | 3rd Level Spells |
 | Eldritch Smite                 | 10 | 3rd Level Spells and Pact of the Blade |
+| Eyes of the Rune Keeper        | 10 | - |
 | Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
 | Frigid Tomb                    | 10 | 3rd Level Spells |
 | Gift of the Depths             | 10 | 3rd Level Spells |
@@ -129,13 +129,6 @@ When you cast [Eldritch Blast](), its range is 300 feet.
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** [Eldritch Blast]() Cantrip
 Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
-
-### Eyes of the Rune Keeper
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points
-You can read all writing.
 
 ### Fiendish Vigour
 
@@ -268,6 +261,13 @@ Once you use this invocation, you can’t use it again until you finish a short 
 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade
 Once per turn, when you hit a creature with your pact weapon, you can expend mana to deal an extra 1d8 energy damage to the target, plus another 1d8 per mana expended, and you can knock the target prone if it is Huge or smaller.
+
+### Eyes of the Rune Keeper
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can read any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
 
 ### Far Scribe
 

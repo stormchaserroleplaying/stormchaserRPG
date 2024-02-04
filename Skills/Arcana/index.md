@@ -1,6 +1,7 @@
 ---
 title: Arcana
 parent: Skills
+has_children: true
 ---
 
 # Arcana

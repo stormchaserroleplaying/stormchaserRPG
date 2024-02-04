@@ -21,6 +21,9 @@ Sleight of hand is a **Dexterity**-based skill for whenever you attempt an act o
 ### Concealment
 While pickpocketing is great for liberating things from less observant targets, Concealment is great for making sure perceptive individuals aren't going to notice objects you've hidden. The GM should set the DC based on the size of the object and how difficult it would be to hide.
 
+#### Escapology
+Between spider webs and bounty hunter manacles, a quick Escape is sometimes the better part of valor.
+
 ### Juggling
 Whether catching something to prevent it from falling or entertaining a crowd, it's not an uncommon skill for those with quick reflexes to pick up. 
 

@@ -6,6 +6,9 @@ parent: Skills
 # Nature
 Nature is an **Intelligence**-based skill that measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
 
+## Untrained Actions
+* [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall/)
+
 ## Subskills
 
 ### Beast Lore

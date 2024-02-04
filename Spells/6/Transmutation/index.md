@@ -8,15 +8,15 @@ grand_parent: Spells
 
 ## Investment of Translucent Alabaster
 *6th Level Transmutation*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Sustained, up to 10 minutes
 
 Until the spell ends, your body is encased in flakes of white stone, and you gain the following benefits:
-* You have resistance to necrotic damage, immunity to all disease and, as long as you have at least 1 hit point, you regain 1d8 hit points at the start of each of your turns.
+* You have gain 1 level of resistance to profane damage, immunity to all disease and, as long as you have at least 1 stamina, you regain 1d8 stamina at the start of each of your turns.
 * You can understand all languages and speak them with perfect diction.
-* You act with more conviction, gaining advantage on all Charisma checks.
+* You act with more conviction, gaining +1d on all Charisma checks.
 * You gain mastery over all swarms of creatures. They will do your bidding when ordered as if magically charmed.
 
 ## Ironwood
@@ -32,9 +32,15 @@ Further, if you make only half as much *ironwood* as the spell would normally al
 
 ## Serve
 *6th level Transmutation*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V<br>
 **Duration:** Instantaneous
 
-You utter a word of power. This utterance forces the world to serve you. You can use this spell to part water up to 10" deep, or lower the water level of a body of water by 50%. You can create weather of any kind, or raise up great walls 100 feet tall and 500 feet wide. Casting this spell allows only one of these feats to be achieved.
+You utter a word of power. This utterance forces the world to serve you. 
+
+You can use this spell to perform one of the following effects:
+* Part water up to 100 feet deep.
+* Lower the water level of a body of water by 50%.
+* You can create weather of any kind.
+* Raise up great walls 100 feet tall and 500 feet wide. 

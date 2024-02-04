@@ -7,29 +7,16 @@ has_children: true
 # Sorcerer Talent Tree
 Scions of innately magical bloodlines, the chosen of deities, the spawn of monsters, pawns of fate and destiny, or simply flukes of fickle magic, sorcerers look within themselves for arcane prowess and draw forth might few mortals can imagine. Emboldened by lives ever threatening to be consumed by their innate powers, these magic-touched souls endlessly indulge in and refine their mysterious abilities, gradually learning how to harness their birthright and coax forth ever greater arcane feats. Just as varied as these innately powerful spellcasters’ abilities and inspirations are the ways in which they choose to utilise their gifts. While some seek to control their abilities through meditation and discipline, becoming masters of their fantastic birthright, others give in to their magic, letting it rule their lives with often explosive results. Regardless, sorcerers live and breathe that which other spellcasters devote their lives to mastering, and for them magic is more than a boon or a field of study; it is life itself.
 
-## Spellcasting
-When you take your first sorcerer talent, your spellcasting class feature for the mage class is affected in the following ways.
-
-### Spellcasting Ability
-Choose Constitution or Charisma as your spellcasting ability for your arcane spells. The power of your spells relies on your ability to harness the magic in your blood and project your will onto the world. You use use your chosen ability whenever a mage spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a mage spell that you cast.
-
-### Spells Known of 1st Level and Higher
-You know two 1st-level spells of your choice from the mage spell list.
-
-Each time that you gain the ability to cast spells of a higher spell level, you learn 2 additional mage spells of your choice. Each of these spells must be of a level that you can cast. For example, when you take the *2nd Level Spells* talent, you learn two new spells of 1st or 2nd level.
-
-Additionally, whenever you gain a sorcerer talent, you can choose one of the mage spells that you know and replace it with another spell from the mage spell list, which must also be of a level that you can cast.
-
 ## Core Talents
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Arcane Savant I       | 5  | 1 Other Sorcerer Talent |
-| Magical Guidance      | 5  | 2nd Level Spells and 2 Other Sorcerer Talents |
-| Arcane Savant II      | 25 | 5th Level Spells and 3 Other Sorcerer Talents |
-| Arcane Savant III     | 65 | 8th Level Spells and 5 Other Sorcerer Talents |
-| Sorcerous Restoration | 50 | 10th Level Spells and 6 Other Sorcerer Talents |
-| Apotheosis            | 50 | 10th Level Spells and 6 Other Sorcerer Talents |
+| Arcane Savant I       | 5  | 1 Sorcerer Branch Talent |
+| Magical Guidance      | 15 | 2nd Level Spells and 10 Points of Sorcerer Talents |
+| Arcane Savant II      | 30 | 5th Level Spells and 45 Points of Sorcerer Talents |
+| Arcane Savant III     | 65 | 8th Level Spells and 125 Points of Sorcerer Talents |
+| Sorcerous Restoration | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
+| Apotheosis            | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
 
 ### Arcane Savant
  
@@ -86,16 +73,16 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
 *You can tap into your inner wellspring of magic to try to conjure success from failure.* 
 
-When you make an ability check that fails, you can spend 1 mana to reroll the d20, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
+When you make a d20 roll that fails, you can spend mana to reroll a number of dice equal to the mana spent, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
 
 ### Arcane Savant II
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
 Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Arcane Savant III

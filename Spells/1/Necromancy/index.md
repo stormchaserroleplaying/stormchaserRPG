@@ -15,7 +15,7 @@ grand_parent: Spells
 
 *A corpse explodes with a poisonous cloud.*
 
-You target the corpse of one creature that you can see within range and cause it to explode. Make a necromancy attack vs the Constitution defence of each creature within a 10-foot radius of the corpse. On a hit, a creature takes 4d4 sonic damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of a construct. On a miss, a creature takes half as much damage and is not [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/).
+You target the corpse of one creature that you can see within range and cause it to explode. Make a necromancy attack vs the Constitution defence of each creature within a 10-foot radius of the corpse. On a hit, a creature takes 2d4 bludgeoning plus 2d4 sonic damage and is [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) until the beginning of your next turn. This spell has no effect on the corpse of a construct. On a miss, a creature takes half as much damage and is not [Poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/).
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, you may target an additional corpse for every 2 points of mana beyond the 1st.
 

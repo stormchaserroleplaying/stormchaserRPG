@@ -1,5 +1,5 @@
 ---
-title: Armour Table Glossary
+title: Glossary
 parent: Armour and Shields
 grand_parent: Equipment
 nav_order: 4
@@ -24,11 +24,6 @@ Whenever damage reduction completely negates the damage from an attack, it also 
 
 Damage reduction is applied *before* damage *resistance*.
 
-## Maximum Dexterity Bonus
-This number is the maximum Dexterity bonus to Dexterity Defence that this type of armour allows. Dexterity bonuses in excess of this number are reduced to this number for the purposes of determining the wearer’s Dexterity defence. Heavier armours limit mobility, reducing the wearer’s ability to dodge blows. This restriction doesn't affect any other Dexterity-related abilities.
-
-A character’s encumbrance (the amount of gear carried, including armour) may also restrict the maximum Dexterity bonus that can be applied to his Dexterity Defence.
-
 ## Properties
 
 ### Bashing
@@ -36,9 +31,13 @@ A shield with the bashing property can be used as a weapon, rolling the damage d
 
 ### Bulky
 Bulky armour cannot be hidden from plain sight and may provoke use of the *heat metal* spell from hostile spellcasters. You cannot benefit from the concealed armour property while wearing bulky armour. Furthermore, if you are wearing a bulky shield you cannot make use of a weapon's parry property.
+
 Wearing bulky armour imposes:
-* Disadvantage on Athletics checks to swim, climb, run, and similar activities. This can be avoided if your Strength score is at least 2 points higher than the armour's Strength requirement.
-* Disadvantage on initiative checks. This can be avoided if your Strength score is at least 4 points higher than the armour's Strength requirement.
+* -1d on Athletics checks to swim, climb, run, and similar activities.
+* -1d on initiative checks. This can be avoided if your Strength score is at least 2 points higher than the armour's Strength requirement.
+* -50% overland travel time before making endurance checks. E.g. 4 hours instead of 8.
+
+The penalties from multiple pieces of bulky armour stack.
 
 ### Clothing
 It is generally considered socially acceptable to wear armour with the clothing property in public.
@@ -68,20 +67,22 @@ Light shields are small and easy to handle, making them ideal for use when fight
 The shield is able to be used just as effectively whilst you are laying on the ground or whilst you are standing. When you are prone and attack with this shield, you do not suffer disadvantage if you are proficient with the weapon.
 
 ### Noisy
-Noisy armour reduces your ability to move quietly, due to metal components scraping against each other. When you wear Noisy armour, you suffer disadvantage on any Dexterity (Stealth) checks to move silently. Other situations, such as hiding without movement or magical silence, are up to the GM.
+Noisy armour reduces your ability to move quietly, due to metal components scraping against each other. When you wear Noisy armour, you suffer -1d on any Stealth checks to move silently. Other situations, such as hiding without movement or magical silence, are up to the GM.
+
+The penalties from multiple pieces of noisy armour stack.
 
 ### Non-Lethal
 Non-lethal shields are designed to incapacitate a target without killing it. Shields with this property deal their full damage when dealing non-lethal damage.
 
 ### Parry
-When wielding a parry shield, you gain a +1 parry bonus to your Strength defence vs melee attacks.
+When wearing a piece of armour with the parry property, you may use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Parry/) action, which grants you a +1 bonus to your Strength defence vs melee attacks.
 
-If you are wielding a finesse shield and blocking an attack from a weapon the is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
-
-If you are wielding an unwieldy shield and use all of your attacks when taking the attack action on your turn, then you do not benefit from the weapon's parry bonus to Strength defence until the end of your next turn.
+If you are wielding a finesse shield and blocking an attack from a weapon that is being wielded in one hand, then you may use your Dexterity to calculate your Strength defence.
 
 ### Shield
 Most shields have the shield property, which grants a bonus to Strength and Dexterity defence vs melee and ranged attacks equal to the listed value.
+
+A shield can also be [raised](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) to provide additional protection.
 
 ### Shirt
 These torso armour pieces are considered to be one weight category lower when worn without other arm, head, or leg pieces. A chain torso armour piece worn alone is a chain shirt (light armour), and a plate torso armour piece worn alone is a breastplate (medium armour). When worn in this manner, the maximum possible Dexterity bonus when wearing the armour increases by 2 and the Strength requirement is reduced by 4.

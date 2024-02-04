@@ -14,25 +14,25 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 | Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|:----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
-| Ballista, 1-lb. | 1,960 gp | 10/50 | +10 | 750/900 | 4d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 2 | Medium | 1/2 |
-| Ballista, 2-lb. | 2,450 gp | 10/50 | +9 | 750/950 | 5d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Medium | 1/2 |
-| Ballista, 5-lb. | 2,940 gp | 10/50 | +9 | 800/1000 | 6d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Medium | 1 |
-| Ballista, 10-lb. | 3,430 gp | 10/50 | +8 | 850/1100 | 7d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 4 | Large | 1 |
-| Ballista, 15-lb. | 3,920 gp | 15/50 | +8 | 900/1100 | 8d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 6 | Large | 1 |
-| Ballista, 20-lb. | 4,410 gp | 15/50 | +8 | 900/1200 | 9d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 7 | Large | 1 |
-| Ballista, 30-lb. | 4,900 gp | 15/50 | +7 | 950/1250 | 10d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 2 | 18 | Large | 2 |
-| Ballista, 60-lb. | 5,880 gp | 20/50 | +7 | 950/1300 | 12d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 3 | 27 | Huge | 4 |
-| Ballista, 180-lb. | 7,840 gp | 20/50 | +6 | 1000/1300 | 16d10 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 6 | 66 | Huge | 12 |
-| Carroballista, .5-lb. | 1,470 gp | 10/50 | +10 | 650/800 | 3d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 1 | Large | 1/2 |
-| Gastraphetes, 1-lb. | 1,470 gp | 10/50 | +10 | 950/1200 | 3d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Compact | — |
-| Gastraphetes, 4-lb. | 2,450 gp | 10/50 | +7 | 900/1100 | 5d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 6 | Medium | 1/5 |
-| Scorpion, 27", .5-lb. | 1,470 gp | 10/50 | +10 | 650/850 | 3d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 1 | Medium | 1/3 |
-| Scorpion, 36", 1.2-lb. | 1,960 gp | 15/50 | +9 | 700/900 | 4d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 2 | Large | 1/2 |
-| Scorpion, 45", 2.25-lb. | 2,450 gp | 15/50 | +8 | 750/950 | 5d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Large | 1 |
-| Scorpion, 54" 4-lb. | 2,940 gp | 20/50 | +7 | 750/950 | 6d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 4 | Huge | 1 |
-| Scorpion, 72" 10-lb. | 3,430 gp | 20/50 | +6 | 800/1050 | 7d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 5 | Huge | 1 |
-| Arbalest, 0.5-lb. | 1,470 gp | 10/50 | +2 | 1100/1400 | 3d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 4 | Medium | 1/3 |
-| Springald 2-lb. | 2,450 gp | 10/50 | +5 | 250/350 | 5d8 <img src="https://img.icons8.com/material/12/FFFFFF/archers-arrow.png"> | 1 | 3 | Medium | 1 |
+| Ballista, 1-lb. | 1,960 gp | 10/50 | +10 | 750/900 | 4d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 2 | Medium | 1/2 |
+| Ballista, 2-lb. | 2,450 gp | 10/50 | +9 | 750/950 | 5d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 3 | Medium | 1/2 |
+| Ballista, 5-lb. | 2,940 gp | 10/50 | +9 | 800/1000 | 6d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 3 | Medium | 1 |
+| Ballista, 10-lb. | 3,430 gp | 10/50 | +8 | 850/1100 | 7d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 4 | Large | 1 |
+| Ballista, 15-lb. | 3,920 gp | 15/50 | +8 | 900/1100 | 8d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 6 | Large | 1 |
+| Ballista, 20-lb. | 4,410 gp | 15/50 | +8 | 900/1200 | 9d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 7 | Large | 1 |
+| Ballista, 30-lb. | 4,900 gp | 15/50 | +7 | 950/1250 | 10d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 | 18 | Large | 2 |
+| Ballista, 60-lb. | 5,880 gp | 20/50 | +7 | 950/1300 | 12d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 | 27 | Huge | 4 |
+| Ballista, 180-lb. | 7,840 gp | 20/50 | +6 | 1000/1300 | 16d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 6 | 66 | Huge | 12 |
+| Carroballista, .5-lb. | 1,470 gp | 10/50 | +10 | 650/800 | 3d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 1 | Large | 1/2 |
+| Gastraphetes, 1-lb. | 1,470 gp | 10/50 | +10 | 950/1200 | 3d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 3 | Compact | — |
+| Gastraphetes, 4-lb. | 2,450 gp | 10/50 | +7 | 900/1100 | 5d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 6 | Medium | 1/5 |
+| Scorpion, 27", .5-lb. | 1,470 gp | 10/50 | +10 | 650/850 | 3d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 1 | Medium | 1/3 |
+| Scorpion, 36", 1.2-lb. | 1,960 gp | 15/50 | +9 | 700/900 | 4d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 2 | Large | 1/2 |
+| Scorpion, 45", 2.25-lb. | 2,450 gp | 15/50 | +8 | 750/950 | 5d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 3 | Large | 1 |
+| Scorpion, 54" 4-lb. | 2,940 gp | 20/50 | +7 | 750/950 | 6d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 4 | Huge | 1 |
+| Scorpion, 72" 10-lb. | 3,430 gp | 20/50 | +6 | 800/1050 | 7d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 5 | Huge | 1 |
+| Arbalest, 0.5-lb. | 1,470 gp | 10/50 | +2 | 1100/1400 | 3d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 4 | Medium | 1/3 |
+| Springald 2-lb. | 2,450 gp | 10/50 | +5 | 250/350 | 5d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 | 3 | Medium | 1 |
 
 ##### Medieval Indirect Firing Mechanical Artillery
 
@@ -56,32 +56,32 @@ In a campaign where siege warfare is essential, the GM should introduce Siege We
 
 | Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|-----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
-| Rocket, 1.2-lb. | 100 gp | —/25 | +4 | 0/2500 | 2d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 2 | Compact | — |
-| Bombard, 50-lb. | 5,850 gp | 15/75 | +1 | 250/1650 | 13d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1 |
-| Bombard, 430-lb. | 16,200 gp | 20/75 | +1 | 400/2200 | 36d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Huge | 8 |
-| Crapaudeau .12-lb. | 450 gp | 15/50 | +4 | 50/500 | 1d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1/5 |
-| Veuglaire 2.5-lb. | 1,800 gp | 15/50 | +4 | 150/1050 | 4d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1/3 |
+| Rocket, 1.2-lb. | 100 gp | —/25 | +4 | 0/2500 | 2d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 2 | Compact | — |
+| Bombard, 50-lb. | 5,850 gp | 15/75 | +1 | 250/1650 | 13d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Large | 1 |
+| Bombard, 430-lb. | 16,200 gp | 20/75 | +1 | 400/2200 | 36d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Huge | 8 |
+| Crapaudeau .12-lb. | 450 gp | 15/50 | +4 | 50/500 | 1d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Large | 1/5 |
+| Veuglaire 2.5-lb. | 1,800 gp | 15/50 | +4 | 150/1050 | 4d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Large | 1/3 |
 
 ##### Renaissance Gunpowder Artillery
 
 | Name | Cost | DR/Integrity | Aim | Range | Damage | Crew | Load | Size | Weight | 
 |:-----|-----:|:-----:|:----|:-----:|-------:|-----:|-----:|-----:|-------:|
-| Rabinet, 0.6-lb. | 2,000 gp | 15/50 | +6 | 270/2550 | 5d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/5 |
-| Falconet, 1.5-lb. | 2,800 gp | 15/150 | +5 | 350/3000 | 7d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/4 |
-| Falcon, 3-lb. | 4,000 gp | 15/75 | +5 | 400/3900 | 10d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/3 |
-| Saker, 10-lb. | 6,000 gp | 15/75 | +5 | 650/5700 | 15d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 3 | 27 | Large | 1 |
-| Culverin, 30-lb. | 9,600 gp | 15/75 | +4 | 900/6500 | 24d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 6 | 66 | Large | 2 |
-| Cannon, 80-lb. | 12,000 gp | 15/75 | +5 | 1050/7800 | 30d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 12 | 192 | Huge | 3 |
-| Field Cannon, support, 3-lb. | 5,600 gp | 15/100 | +6 | 600/5400 | 14d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 9 | Large | 1/2 |
-| Field Cannon, large, 12-lb. | 9,600 gp | 15/100 | +5 | 900/7200 | 24d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 5 | 45 | Huge | 2 |
-| Field Cannon, fort, 24-lb. | 12,000 gp | 20/150 | +4 | 1100/8100 | 30d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 7 | 77 | Huge | 4 |
-| Ship's Gun, 4-lb. | 7,200 gp | 15/100 | +6 | 810/6900 | 18d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 2 | 18 | Large | 1/2 |
-| Ship's Gun, 9-lb. | 9,600 gp | 15/100 | +5 | 900/7200 | 24d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Huge | 2 |
-| Ship's Gun, 18-lb. | 11,200 gp | 20/150 | +4 | 1000/7800 | 28d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 6 | 66 | Huge | 3 |
-| Ship's Gun, 42-lb. | 14,400 gp | 20/150 | +3 | 1100/8400 | 36d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 11 | 154 | Huge | 4 |
-| Swivel Gun, 2.5-lb. | 2,400 gp | 15/50 | +3 | 250/2700 | 6d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 1 | 3 | Large | 1/5 |
-| Crouching Tiger Gun, 1.2-lb. | 2,400 gp | 15/150 | +2 | 200/1650 | 6d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1/5 |
-| Long-Range Awe-Gun 3-lb. | 2,800 gp | 20/200 | +2 | 400/3600 | 7d12 <img src="https://img.icons8.com/ios/12/FFFFFF/flash-bang-filled.png"> | 4 | 36 | Large | 1/2 |
+| Rabinet, 0.6-lb. | 2,000 gp | 15/50 | +6 | 270/2550 | 5d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 9 | Large | 1/5 |
+| Falconet, 1.5-lb. | 2,800 gp | 15/150 | +5 | 350/3000 | 7d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 9 | Large | 1/4 |
+| Falcon, 3-lb. | 4,000 gp | 15/75 | +5 | 400/3900 | 10d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 9 | Large | 1/3 |
+| Saker, 10-lb. | 6,000 gp | 15/75 | +5 | 650/5700 | 15d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 3 | 27 | Large | 1 |
+| Culverin, 30-lb. | 9,600 gp | 15/75 | +4 | 900/6500 | 24d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 6 | 66 | Large | 2 |
+| Cannon, 80-lb. | 12,000 gp | 15/75 | +5 | 1050/7800 | 30d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 12 | 192 | Huge | 3 |
+| Field Cannon, support, 3-lb. | 5,600 gp | 15/100 | +6 | 600/5400 | 14d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 9 | Large | 1/2 |
+| Field Cannon, large, 12-lb. | 9,600 gp | 15/100 | +5 | 900/7200 | 24d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 5 | 45 | Huge | 2 |
+| Field Cannon, fort, 24-lb. | 12,000 gp | 20/150 | +4 | 1100/8100 | 30d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 7 | 77 | Huge | 4 |
+| Ship's Gun, 4-lb. | 7,200 gp | 15/100 | +6 | 810/6900 | 18d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 2 | 18 | Large | 1/2 |
+| Ship's Gun, 9-lb. | 9,600 gp | 15/100 | +5 | 900/7200 | 24d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Huge | 2 |
+| Ship's Gun, 18-lb. | 11,200 gp | 20/150 | +4 | 1000/7800 | 28d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 6 | 66 | Huge | 3 |
+| Ship's Gun, 42-lb. | 14,400 gp | 20/150 | +3 | 1100/8400 | 36d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 11 | 154 | Huge | 4 |
+| Swivel Gun, 2.5-lb. | 2,400 gp | 15/50 | +3 | 250/2700 | 6d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 1 | 3 | Large | 1/5 |
+| Crouching Tiger Gun, 1.2-lb. | 2,400 gp | 15/150 | +2 | 200/1650 | 6d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Large | 1/5 |
+| Long-Range Awe-Gun 3-lb. | 2,800 gp | 20/200 | +2 | 400/3600 | 7d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/flash-bang.png"> | 4 | 36 | Large | 1/2 |
 
 ##### Siege Weapon Ammunition
 

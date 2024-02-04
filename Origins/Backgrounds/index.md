@@ -22,7 +22,7 @@ Like cultures, your background can also allow you to learn additional languages.
 Each occupation provides examples of one acquaintance, ally, or enemy that has had an effect on your character’s life. This could be a childhood friend, a sparring partner, or even a business competitor. Make sure to include your GM when choosing your connection; you never know when they’ll show back up.
 
 ## Equipment
-Suggested equipment sets are included with each occupation, along with an associated gold cost.  If you use [the optional rule to spend coin on gear](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/), you do not receive the starting equipment from your background.
+Suggested equipment sets are included with each occupation, along with an associated gold cost.  If you use [the optional rule to spend coin on gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Starting/), you do not receive the starting equipment from your background.
 
 ## Memento
 Each occupation includes options for a memento. This is a sentimental item reflective of your background and the occurrences that have built you into who you are, typically worth less than 30 gold.

@@ -5,27 +5,7 @@ nav_order: 1
 ---
 
 # Starting Equipment
-
-When you create your character, you receive equipment based on a combination of your class and background. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the equipment lists. See the Starting Wealth by Class table to determine how much gold you have to spend.
-
-##### Starting Wealth by Class
-
-| Class | Funds | Average |
-|:-----:|:-----:|:-------:|
-| Barbarian | 2d4×10 gp | 50 gp |
-| Bard | 5d4×10 gp | 125 gp |
-| Cleric | 5d4×10 gp | 125 gp |
-| Druid | 2d4×10 gp | 50 gp |
-| Fighter | 5d4×10 gp | 125 gp |
-| Monk | 5d4 gp | 13 gp |
-| Paladin | 5d4×10 gp | 125 gp |
-| Ranger | 5d4×10 gp | 125 gp |
-| Rogue | 4d4×10 gp | 100 gp |
-| Sorcerer | 3d4×10 gp | 75 gp |
-| Warlock | 4d4×10 gp | 100 gp |
-| Wizard | 4d4×10 gp | 100 gp |
-
-You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armour and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
+When you create your character, you receive equipment based on your background. Alternatively, you can start with a number of gold pieces based on your background and spend them on items from the equipment lists. You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armour and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
 ## Advanced Characters
 The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.

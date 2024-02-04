@@ -10,7 +10,7 @@ Start by generating your character's attributes. These six scores are your chara
 
 Much of what your character does in the game depends on their six attributes: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom** and **Charisma**. Each attribute has a score, which is a number that you record on your character sheet.
 
-The six attributes and their use in the game are described in detail [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/). A quick reference for what qualities are measured by each attribute follows below:
+The six attributes and their use in the game are described in detail [here](https://stormchaserroleplaying.com/stormchaserRPG/Attributes/). A quick reference for what qualities are measured by each attribute follows below:
 
 * **Strength** measures athleticism and bodily power.
 * **Dexterity** measures agility, reflexes, balance and poise.

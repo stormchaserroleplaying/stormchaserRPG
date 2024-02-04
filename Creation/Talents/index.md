@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # 4. Choose Talents
-When creating a character, after generating your attribute scores, you typically begin play with 120 character points to spend on talents. These points are spent as described in the table below:
+When creating a character, after generating your attribute scores (e.g. for 30 character points), you typically begin play with an additional 120 character points to spend on [talents](https://stormchaserroleplaying.com/stormchaserRPG/Talents/). These points are spent as described in the table below:
 
 | Benefit | Character Points |
 |:-------:|:----------------:|
@@ -46,6 +46,6 @@ You can purchase training with your character points and some cultures also gran
 Proficiency cannot apply to a single die roll or other number more than once. If a circumstance suggests that your proficiency applies more than once to the same roll, you nevertheless benefit only once.
 
 ## Starting With Additional Character Points
-Typically, a character starts with a total of 150 character points for attributes and talents and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
+Typically, a character starts with a total of 150 character points (30+120) for attributes (30) and talents (120) and advances by adventuring and gaining experience. A starting character is inexperienced in the adventuring world, although they might have been a soldier or a pirate and done dangerous things before.
 
 Starting off with 150 character points marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing campaign, your GM might decide to have you begin with more character points, on the assumption that your character has already survived a few harrowing adventures.

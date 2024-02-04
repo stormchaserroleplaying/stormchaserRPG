@@ -22,4 +22,4 @@ Humans are known to be stubborn and often refuse to give up, even against the wo
 You gain 10 character points.
 
 ## Phenotype
-Many diverse human phenotypes exist, such as [Norscans](https://stormchaserroleplaying.com/Arden/Species/Humans/Norscans/) in the world of [Arden](https://stormchaserroleplaying.com/Arden/).
+Many diverse human phenotypes exist, such as [Norscans](https://stormchaserroleplaying.com/Arden/Species/Common/Humans/#norscan) in the world of [Arden](https://stormchaserroleplaying.com/Arden/).

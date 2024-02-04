@@ -5,17 +5,16 @@ nav_order: 5
 ---
 
 # 5. Choose Equipment
+Your background determines your character’s **starting equipment**, including weapons, armour and other adventuring gear. Record this equipment on your character sheet. All such items are detailed under [Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
 
-Your class and background determine your character’s **starting equipment**, including weapons, armour and other adventuring gear. Record this equipment on your character sheet. All such items are detailed under [Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/).
-
-Instead of taking the gear given to you by your class and background, you can purchase your starting equipment. You have a number of **gold pieces** (gp) to spend based on your class (see [Starting Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/)). Extensive lists of equipment, with prices, also appear in [Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/). If you wish, you can also have one trinket at no cost (see [Trinkets](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/#trinkets)).
+Instead of taking the gear given to you by your background, you can purchase your starting equipment. You have a number of **gold pieces** (gp) to spend based on your background (see [Starting Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Starting/)). Extensive lists of equipment, with prices, also appear in [Equipment](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/). If you wish, you can also have one trinket at no cost (see [Trinkets](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Starting/#trinkets)).
 
 Your Strength score limits the amount of gear you can carry. [Lifting and Carrying](http://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/UsingEachAbility/Strength/#lifting-and-carrying) has more information on carrying capacity.
 
 ## Armour
 Armour grants **Damage Reduction** (DR), which represents how well protected your character is. However, not all characters wear armour.
 
-Your character needs to be proficient with armour to wear and use it effectively. Your armour proficiencies are determined by your class. There are drawbacks to wearing armour if you lack the required proficiency, as explained [here](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourProficiency/).
+Your character needs to be proficient with armour to wear and use it effectively. Your armour proficiencies are determined by your class. There are drawbacks to wearing armour if you lack the required proficiency, as explained [here](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Proficiency/).
 
 ## Weapons
 For each weapon your character wields, calculate the modifier you use when you attack with the weapon and the damage you deal when you hit.

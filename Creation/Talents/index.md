@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # 4. Choose Talents
-When creating a character, after generating your attribute scores, you typically begin play with 120 character points to spend on talents. These points are spent as described in the table below:
+When creating a character, after generating your attribute scores, you typically begin play with 120 character points to spend on [talents](https://stormchaserroleplaying.com/stormchaserRPG/Talents/). These points are spent as described in the table below:
 
 | Benefit | Character Points |
 |:-------:|:----------------:|

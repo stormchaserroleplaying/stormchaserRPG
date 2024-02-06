@@ -109,7 +109,7 @@ When you successfully demoralise an opponent using your [Intimidating Glare](htt
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
 *No one strikes you without reprisal in kind.*
 
-At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) vs the last creature to hit you. Subsequent Strikes do not incur the multiple attack penalty.
+At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) vs the last creature to hit you. This attack does not accumulate multiple attack penalty for the turn.
 
 ## Bone Breaker
 
@@ -358,11 +358,9 @@ You let loose a primal roar that affects all creatures within 30 feet. Make a Ra
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-As an action, you can attempt to overrun any creature that is the same size as you or smaller. This works just like the overrun combat action, but the barbarian does not need to make a check, it merely has to move over opponents in its path.
+You perform the [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/) action against a target, treating a success as a critical success. If you do not succeed on your roll, it is considered a normal success.
 
-Targets of the overrun take an amount of damage equal to your martial feat die + your Constitution modifier and may make an attack of opportunity, but with -1d. If a target forgoes its opportunity attack, it may attempt to avoid you and make a Dexterity defence check against your weapon skill to take half damage.
-
-You can only deal this damage to each target once per round, no matter how many times your movement takes you over a target creature.
+You can only deal this damage to a target once per round, no matter how many times your movement takes you over a target creature.
 
 ## Whirlwind
 

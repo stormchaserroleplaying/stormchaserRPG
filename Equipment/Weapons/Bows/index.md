@@ -11,12 +11,12 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 The 'longbows' presented here are consistent with the tabletop RPG concept of a longbow and represent 3 to 4-foot bows. A full sized, 6-foot english longbow is best treated as a greatbow.
 
 | Name | Cost | Damage | Weight | Range | Strength | Properties | 
-|:-----|-----:|:-------|-------:|:-----:|:-----------|
+|:-----|-----:|:-------|-------:|:-----:| :------: | :-----------|
 | Self Shortbow | 30 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 90 | 7 | ammunition, brutal 1, capacity 1, load 1, two-handed |
 | Composite Shortbow | 75 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 150 | 9 | ammunition, brutal 1, load 1,two-handed |
 | Recurve Composite Shortbow | 150 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 300  | 11 |  ammunition, brutal 1, load 1,two-handed |
 | Self Longbow | 50 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 150 | 9 | ammunition, brutal 1, load 1, tall, two-handed, unwieldy |
-| Composite Longbow | 100 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 11 | 300 | ammunition, brutal 1, load 1, tall, two-handed, unwieldy |
+| Composite Longbow | 100 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 300 | 11 | ammunition, brutal 1, load 1, tall, two-handed, unwieldy |
 | Recurve Composite Longbow | 200 gp | 1d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 500 | 13 | ammunition, brutal 1, load 1, tall, two-handed, unwieldy |
 | Greatbow | 150 gp | 1d12 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb.| 500 | 13 | ammunition, brutal 1, tall, two-handed, unwieldy, volley |
 | Orc Hornbow | 130 gp | 2d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 80 | 15 | ammunition, brutal 1, two-handed |

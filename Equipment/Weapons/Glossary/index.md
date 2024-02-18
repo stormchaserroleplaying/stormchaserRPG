@@ -16,9 +16,9 @@ The damage dealt by the weapon.
 ## Properties
 
 ### Ammunition
-A weapon that uses ammunition can only make ranged attacks if ammunition to shoot from the weapon is available. Each time that an attack is made with the weapon, one piece of ammunition is expended. 
+A weapon that uses ammunition can only make ranged attacks if ammunition has been loaded. Each time that an attack is made with the weapon, one piece of ammunition is expended. 
 
-Some ranged weapons can be loaded with more than one piece of ammuition. If a value is given, then that is the total number of pieces of ammunition the weapon can hold. As long as there is ammunition in the weapon, it may ignore the load property.
+Some ranged weapons can be loaded with more than one piece of ammuition. If a value is given with this property, then that is the total number of pieces of ammunition the weapon can hold. As long as there is ammunition in the weapon it may ignore the load property.
 
 After battle, half of the expended ammunition can be recovered by taking a minute to search the battlefield. This does not apply to bullets.
 
@@ -32,9 +32,10 @@ When a hostile creature enters the reach of a brace weapon after moving 10 feet 
 A critical hit with a brutal weapons deals the listed number of additional weapon damage die.
 
 ### Caliber
-Ranged weapons with the Caliber property deal additional damage when you shoot from an advantageous position. The following conditions allow you to add extra damage dice of the same damage type up to the value shown in parenthesis.
-* If your target is within 15 feet distance of you, the attack deals 1 additional damage die
-* For each 3 points by which you beat the target's Dexterity defence, the attack deals 1 additional damage die.
+Ranged weapons with the Caliber property deal additional damage die when you shoot from an advantageous position. The following conditions allow you to add extra damage dice of the same damage type up to the value shown.
+
+* If your target is within 15 feet distance of you.
+* For each 3 points by which you beat the target's Dexterity defence.
 
 ### Cleave
 When a melee attack with a cleave weapon reduces a creature to 0 stamina, any excess damage from that attack can carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature is likewise reduced to 0 stamina, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 stamina. 

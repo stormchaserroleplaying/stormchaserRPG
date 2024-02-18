@@ -12,7 +12,7 @@ The 'longbows' presented here are consistent with the tabletop RPG concept of a 
 
 | Name | Cost | Damage | Weight | Range | Strength | Properties | 
 |:-----|-----:|:-------|-------:|:-----:| :------: | :-----------|
-| Self Shortbow | 30 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 90 | 7 | Ammunition, brutal 1, capacity 1, load 1, two-handed |
+| Self Shortbow | 30 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 90 | 7 | Ammunition, brutal 1, load 1, two-handed |
 | Composite Shortbow | 75 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 150 | 9 | Ammunition, brutal 1, load 1,two-handed |
 | Recurve Composite Shortbow | 150 gp | 1d10 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 3 lb. | 300  | 11 | Ammunition, brutal 1, load 1,two-handed |
 | Self Longbow | 50 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 150 | 9 | Ammunition, brutal 1, load 1, tall, two-handed, unwieldy |

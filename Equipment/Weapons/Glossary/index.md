@@ -16,9 +16,9 @@ The damage dealt by the weapon.
 ## Properties
 
 ### Ammunition
-A weapon that uses ammunition can only make ranged attacks if ammunition to shoot from the weapon is available. Each time that an attack is made with the weapon, one piece of ammunition is expended. Drawing the ammunition from a quiver, case, or other container is part of the attack.
+A weapon that uses ammunition can only make ranged attacks if ammunition to shoot from the weapon is available. Each time that an attack is made with the weapon, one piece of ammunition is expended. 
 
-Some ranged weapons can be loaded with an amount of ammunition equal to a listed value. As long as there is ammunition in the weapon, it may ignore the load property.
+Some ranged weapons can be loaded with more than one piece of ammuition. If a value is given, then that is the total number of pieces of ammunition the weapon can hold. As long as there is ammunition in the weapon, it may ignore the load property.
 
 After battle, half of the expended ammunition can be recovered by taking a minute to search the battlefield. This does not apply to bullets.
 
@@ -108,7 +108,7 @@ Light weapons are small and easy to handle, making them ideal for use when fight
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer -1d on their attack roll, if they are proficient with the weapon.
 
 ### Load
-This weapon takes a number of actions equal to the listed value to reload.
+Because of the time required to load this weapon, you must spend a number of [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) actions to reload a single piece of ammunition, equal to the listed value.
 
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer -1d.
@@ -252,6 +252,9 @@ A worn weapon attaches to the arm but the hand remains unoccupied.
 Weapons with the worn property are equipped similarly to armour, by strapping them firmly to the body. It takes up to 1 minute to don or doff the weapon and you can do it as part of donning or doffing armour. The GM may allow you to skip the required time if you ignore the worn property of the weapon.
 
 While the weapon benefits from the worn property, it cannot be disarmed unless the attack or skill check is a critical hit.
+
+## Range
+You can attack out to the listed range without any penalty. For each increment beyond the listed value you have a -1d penalty. 
 
 ## Str/Dex
 If your Dexterity is less than the **Str/Dex** entry of the weapon, then you suffer -1d on your attack rolls with the weapon. If you are wielding a ranged weapon, or if the weapon as a finesse weapon, then this instead applies to your Strength.

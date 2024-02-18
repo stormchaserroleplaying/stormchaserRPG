@@ -12,4 +12,4 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 |:-----|-----:|:-------|-------:|:-------:|:-----------|
 | Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 lb. | — | Brutal, close, concealed, finesse, light |
 | Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 1 lb. | — | Close, finesse, light, vicious, worn |
-| Unarmed strike | — | 1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | — | Non-lethal |
+| Unarmed strike | — | 1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | — | Light, non-lethal |

@@ -104,7 +104,7 @@ Whilst your weapon is restraining the creature and you are holding your weapon, 
 Whilst your weapon is grappling the target (see Grappling weapon property) and you are holding your weapon, the target is also suffocating. If the target attempts to break your weapon's grapple by moving out of reach, it must make a Strength (Athletics) check against your Weapon Skill DC. It can only move away from you if it succeeds on the check.
 
 ### Light
-Light weapons are small and easy to handle, making them ideal for use when fighting with two weapons (see [the rules for two-weapon fighting](https://stormchaserroleplaying.com/stormchaserRPG/Combat/MakinganAttack/MeleeAttacks/#two-weapon-fighting-)).
+Light weapons are small and easy to handle, making them ideal for use when fighting with two weapons. If you make a second [Strike]() on your turn using a light weapon the multiple attack pentaly does not apply. (see [the rules for multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty)).
 
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer -1d on their attack roll, if they are proficient with the weapon.
 

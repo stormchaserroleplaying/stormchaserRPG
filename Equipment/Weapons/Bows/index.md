@@ -10,7 +10,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 
 The 'longbows' presented here are consistent with the tabletop RPG concept of a longbow and represent 3 to 4-foot bows. A full sized, 6-foot english longbow is best treated as a greatbow.
 
-| Name | Cost | Damage | Weight | Range | Strength | Properties | 
+| Name | Cost | Damage | Weight | Range | Str/Dex | Properties | 
 |:-----|-----:|:-------|-------:|:-----:| :------: | :-----------|
 | Self Shortbow | 30 gp | 1d6 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 90 | 7 | Ammunition, brutal 1, load 1, two-handed |
 | Composite Shortbow | 75 gp | 1d8 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 2 lb. | 150 | 9 | Ammunition, brutal 1, load 1,two-handed |

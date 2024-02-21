@@ -12,7 +12,7 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Sneak Attack | 5 | - |
-| Cunning Action | 5 | 5 CP spent in Rogue talents  |
+| Cunning Action | 10 | 5 CP spent in Rogue talents  |
 | Bad Feeling | 5 | 5 CP spent in Rogue talents |
 | Hard to Hold | 20 | 25 CP spent in Rogue talents |
 | Evasion | 25 | 40 CP spent in Rogue talents |

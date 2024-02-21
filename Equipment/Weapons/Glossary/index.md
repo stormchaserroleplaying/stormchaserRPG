@@ -108,9 +108,6 @@ Light weapons are small and easy to handle, making them ideal for use when fight
 
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer -1d on their attack roll, if they are proficient with the weapon.
 
-### Load
-Because of the time required to load this weapon, you must spend a number of [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) actions to reload a single piece of ammunition, equal to the listed value.
-
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer -1d.
 
@@ -154,6 +151,9 @@ Ranged weapons with the Point Blank property allow for exact precision when poin
 
 ### Reach
 The weapon has an extended length. This weapon adds 5 feet to your Reach when you attack with it, and when determining your Reach for attacks of opportunity with it.
+
+### Ready
+Because of the time required to load this weapon, you must spend a number of [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) actions to prepare the weapon for your next [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with it.
 
 ### Sharp
 When you use a sharp weapon to attack a target with 4 or less DR, you ignore DR equal to the value listed.

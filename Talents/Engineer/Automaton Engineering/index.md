@@ -21,41 +21,38 @@ Those engineers who choose the Automaton Engineering discipline focus on craftin
 ### Automaton Companion
 #### *Cost:* 5 Character Points
 #### *Prerequisite:* 5 Total Character Points
-You learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton, which has the following features:.
+You learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton. When you create the cannon, you determine its appearance and whether it has legs and it has the following statistics and features:
 
 <!--***_BELOW NEEDS CHECKING_***-->
-#### Stamina Points
-* **Recovery Die:** d8
-* **Stamina Points:** 3× automaton's Constitution score.<br>
+#### Statistics
+- **Recovery Die:** d8
+- **Stamina Points:** 3× automaton's Constitution score.<br>
+- **Creature Type:** Construct<br>
+- **Size:** Medium<br>
+- **Speed:** = ( Strength Score + Dexterity Score )<br>
+- **Condition Immununities:** Charmed, Exhaustion, Frightened, Paralysed, Poisoned
+- **Damage Immunities:** Necrotic, Poison, Psychic<br>
+- **Vulnerabilities:** Lightning. Additionally, your automaton has -1d on defence checks against effects that would deal lightning damage.
+- **Ability Scores:** Your automaton has an Intelligence score of 3 and a Charisma score of 1. Assign your automaton’s remaining ability scores as you see fit, using the following scores: 15, 14, 13, 12.
 
 #### Proficiencies
-* **Armor:** Armour Training, Expertise, and Mastery<br>
-* **Weapons:** Choose 5 [weapon proficiencies](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Proficiency/).<br>
-* **Tools:** None<br>
-* **Languages:** Automatons can understand common and one language of your choice.<br>
-* **Saving Throws:** Strength, Constitution<br>
-* **Skills:** Two of Athletics STR, Intimidation, Perception, or Stealth
+- **Armor:** Armour Training, Expertise, and Mastery<br>
+- **Weapons:** Choose 5 [weapon proficiencies](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Proficiency/).<br>
+- **Tools:** None<br>
+- **Languages:** Automatons can understand common and one language of your choice.<br>
+- **Defenses:** Choose two from Strength, Dexterity, Constitution, or Wisdom. <br>
+- **Skills:** Two of Athletics STR, Intimidation, Perception, or Stealth
 
 #### Features
-* **Creature Type:** Construct<br>
-* **Size:** Medium<br>
-* **Speed:** = ( Strength Score + Dexterity Score )<br>
-* **Condition Immununities:** Charmed, Exhaustion, Frightened, Paralysed, Poisoned
-* **Damage Immunities:** Necrotic, Poison, Psychic<br>
-* **Vulnerabilities:** Lightning. Additionally, your automaton has -1d on defence checks against effects that would deal lightning damage.
-
-Your automaton has an Intelligence score of 3 and a Charisma score of 1. Assign your automaton’s remaining ability scores as you see fit, using the following scores:
-* 15, 14, 13, 12.
-
-An automaton cannot benefit from magical healing or rests, and is instead restored to full hit points after it undergoes maintenance. If the mending spell is cast on it, it regains 2d6 hit points. If your automaton is irreparably destroyed, or you want to construct a different automaton, it costs 50 gp + 50 gp for every Automaton Upgrades talent you have as well as one full day of work. You may only have one automaton companion at a time and it takes 1 hour to change the target of this feature. 
+Your automaton gains a variety of benefits while it is your companion:
+- The automaton obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your automaton acts on its own.
+- Whenever you gain an Ability Score Improvement your automaton can increase one ability score of your choice. Your automaton cannot increase its Intelligence or Charisma, and, as normal, it cannot increase an ability score above 20 using this feature, unless its description specifies otherwise.
+- Your automaton cannot wear armour, but you can integrate armour into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armour in order to integrate it into your automaton. Your automaton must be proficient in armour in order to have it integrated.
+- An automaton cannot benefit from magical healing or rests, and is instead restored to full hit points after it undergoes maintenance. If the mending spell is cast on it, it regains 2d6 hit points.
+- If your automaton is irreparably destroyed, or you want to construct a different automaton, it costs 50 gp + 50 gp for every Automaton Upgrades talent you have as well as one full day of work.
+- You may only have one automaton companion at a time and it takes 1 hour to change the target of this feature. 
 
 Additionally, you can upgrade your automaton. Your automaton companion has 1 upgrade slot which can be used to install Automaton Upgrades. Over the course of a long rest, you can replace or remove a number of upgrades up to your Intelligence modifier (minimum of one).
-
-Your automaton gains a variety of benefits while it is your companion:
-
-* The automaton obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your automaton acts on its own.
-* Whenever you gain an Ability Score Improvement your automaton can increase one ability score of your choice. Your automaton cannot increase its Intelligence or Charisma, and, as normal, it cannot increase an ability score above 20 using this feature, unless its description specifies otherwise.
-* Your automaton cannot wear armour, but you can integrate armour into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armour in order to integrate it into your automaton. Your automaton must be proficient in armour in order to have it integrated.
 <!--***_ABOVE NEEDS CHECKING_***-->
 
 ### Automaton Upgrades

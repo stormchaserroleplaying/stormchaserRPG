@@ -21,51 +21,48 @@ Those engineers who choose the Automaton Engineering discipline focus on craftin
 ### Automaton Companion
 #### *Cost:* 5 Character Points
 #### *Prerequisite:* 5 Total Character Points
-At 3rd level, you learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton, which has the following features:.
+You learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton, which has the following features:.
 
-<!--***_BELOW NEEDS REWORKING_***-->
-#### Hit Points
-* **Hit Dice:** 1d8 per automaton level<br>
-* **Hit Points at 1st Level:** 8 + its Constitution modifier<br>
-* **Hit Points at Higher Levels:** 1d8 (or 5) + its Constitution modifier per automaton level after 1st
+<!--***_BELOW NEEDS CHECKING_***-->
+#### Stamina Points
+* **Recovery Die:** d8
+* **Stamina Points:** 3× automaton's Constitution score.<br>
 
 #### Proficiencies
-* **Armor:** All armour<br>
-* **Weapons:** Simple weapons, martial weapons<br>
+* **Armor:** Armour Training, Expertise, and Mastery<br>
+* **Weapons:** Choose 5 [weapon proficiencies](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Proficiency/).<br>
 * **Tools:** None<br>
 * **Languages:** Automatons can understand common and one language of your choice.<br>
 * **Saving Throws:** Strength, Constitution<br>
-* **Skills:** Two of Athletics, Intimidation, Perception, Stealth
+* **Skills:** Two of Athletics STR, Intimidation, Perception, or Stealth
 
 #### Features
 * **Creature Type:** Construct<br>
 * **Size:** Medium<br>
-* **Speed:** 30 ft.<br>
+* **Speed:** = ( Strength Score + Dexterity Score )<br>
 * **Condition Immununities:** Charmed, Exhaustion, Frightened, Paralysed, Poisoned
 * **Damage Immunities:** Necrotic, Poison, Psychic<br>
-* **Vulnerabilities:** Lightning. Additionally, your automaton has disadvantage on saving throws against effects that would deal lightning damage.
+* **Vulnerabilities:** Lightning. Additionally, your automaton has -1d on defence checks against effects that would deal lightning damage.
 
 Your automaton has an Intelligence score of 3 and a Charisma score of 1. Assign your automaton’s remaining ability scores as you see fit, using the following scores:
 * 15, 14, 13, 12.
 
-An automaton cannot benefit from magical healing or rests, and is instead restored to full hit points after it undergoes maintenance. If your automaton is irreparably destroyed, or you want to construct a different automaton, it costs 50 gp per automaton level and one full day of work. You may only have one automaton companion at a time and it takes 1 hour to change the target of this feature. 
+An automaton cannot benefit from magical healing or rests, and is instead restored to full hit points after it undergoes maintenance. If the mending spell is cast on it, it regains 2d6 hit points. If your automaton is irreparably destroyed, or you want to construct a different automaton, it costs 50 gp + 50 gp for every Automaton Upgrades talent you have as well as one full day of work. You may only have one automaton companion at a time and it takes 1 hour to change the target of this feature. 
 
-Additionally, you can upgrade your automaton. Your automaton companion has 1 upgrade slot, and it gains more at higher levels, as shown in the Upgrades column of the engineer class table. Over the course of a long rest, you can replace or remove a number of upgrades up to your Intelligence modifier (minimum of one).
+Additionally, you can upgrade your automaton. Your automaton companion has 1 upgrade slot which can be used to install Automaton Upgrades. Over the course of a long rest, you can replace or remove a number of upgrades up to your Intelligence modifier (minimum of one).
 
 Your automaton gains a variety of benefits while it is your companion:
 
 * The automaton obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your automaton acts on its own.
-* Your automaton's level equals your engineer level, and for each engineer level you gain after 3rd, your automaton companion gains an additional Hit Die and increases its hit points accordingly.
-* Your automaton has the proficiency bonus of a player character of the same level.
-* Whenever you gain the Ability Score Improvement class feature, your automaton's abilities also improve. Your automaton can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. Your automaton cannot increase its Intelligence or Charisma, and, as normal, it cannot increase an ability score above 20 using this feature, unless its description specifies otherwise.
+* Whenever you gain an Ability Score Improvement your automaton can increase one ability score of your choice. Your automaton cannot increase its Intelligence or Charisma, and, as normal, it cannot increase an ability score above 20 using this feature, unless its description specifies otherwise.
 * Your automaton cannot wear armour, but you can integrate armour into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armour in order to integrate it into your automaton. Your automaton must be proficient in armour in order to have it integrated.
-<!--***_ABOVE NEEDS REWORKING_***-->
+<!--***_ABOVE NEEDS CHECKING_***-->
 
 ### Automaton Upgrades
 #### *Cost:* 5 Character Points
 #### *Prerequisite:* 35 Total Character Points
 
-Your Automaton Companion gains 1 Upgrade Slot which can be used to install Automaton Upgrades. Over the course of a long rest, you can replace or remove a number of Upgrades up to your Intelligence modifier (minimum of one).
+Your Automaton Companion gains an additional Upgrade Slot which can be used to install Automaton Upgrades. Over the course of a long rest, you can replace or remove a number of Upgrades up to your Intelligence modifier (minimum of one).
 
 This talent can be taken multiple times when your character reaches specific Character Point totals (70, 115, 145, 180, 220, 325, 395, and 545).
 

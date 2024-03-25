@@ -1,3 +1,10 @@
+---
+title: 1st-Level Inventions
+parent: Engineer Talents
+grand_parent: Engineer
+has_children: true
+---
+
 # 1st-Level Inventions
 
 ## Ablative Armour

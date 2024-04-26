@@ -9,6 +9,21 @@ An Arcane Marksman studies a unique magical method of marksmanship that weaves m
 
 Arcane Marksmen stand watch over the fringes of elven domains, keep a keen eye out for trespassers of wizard academies, and use their magic-infused ammunition to defeat the monsters of the wilds. 
 
+## Branch Features
+
+### Bonus Spells
+You gain the following bonus spells once you can cast spells of that level. Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+
+If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
+
+| Spell Level | Spells |
+|:-----------:|:------:|
+| 1st | Hail of Thorns, Zephyr Strike |
+| 2nd | Cordon of Arrows, Acid Arrow |
+| 3rd | Conjure Barrage, Lightning Arrow |
+| 4th | Elemental Bane, Freedom of Movement |
+| 5th | Conjure Volley, Swift Quiver |
+
 ## Talents
 
 | Talent | CP | Prerequisites |

@@ -22,7 +22,7 @@ Those engineers who choose the Automaton Engineering discipline focus on craftin
 ### Automaton Companion
 #### *Cost:* 5 Character Points
 #### *Prerequisite:* 5 Total Character Points
-You learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton. When you create the cannon, you determine its appearance and whether it has legs and it has the following statistics and features:
+You learn to employ all the knowledge you've accumulated to create and customize your own personalised automaton companion. Over the course of 8 hours, which can be done during a long rest, you can expend 50 gp worth of materials to finally finish your automaton. When you create the automaton, you determine its appearance and whether it has legs; additionally it has the following statistics and features:
 
 <!--***_BELOW NEEDS CHECKING_***-->
 #### Statistics
@@ -62,7 +62,9 @@ Additionally, you can upgrade your automaton. Your automaton companion has 1 upg
 
 Your Automaton Companion gains an additional Upgrade Slot which can be used to install Automaton Upgrades. Over the course of a long rest, you can replace or remove a number of Upgrades up to your Intelligence modifier (minimum of one).
 
-This talent can be taken multiple times when your character reaches specific Character Point totals (70, 115, 145, 180, 220, 325, 395, and 545).
+Additionally your automaton gains 2 Character Points it can use on Language, Skill, Subskill, or Tool [Advancements](https://stormchaserroleplaying.com/stormchaserRPG/Creation/Advancement/). These character points can be spent immediately or saved and used at the end of a long rest.
+
+This talent can be taken multiple times when your character reaches specific Character Point totals (70, 115, 145, 180, 220, 325, 395, and 545), gaining and additional Upgrade Slot and additional Character Points.
 
 ### Potent Integration
 #### *Cost:* 5 Character Points

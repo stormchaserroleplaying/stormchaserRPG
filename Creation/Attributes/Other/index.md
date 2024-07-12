@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Other Statistics
-Every character begins play with a d4 [recovery die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Die/Recovery/) and a d4 [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Die/Martial/). Many talents (such as martial arts, rage, or sneak attack) use your martial die to determine how much damage you do. Your recovery die also determines how quickly you recover from damage, such as during a short rest or as the target of a healing spell.
+Every character begins play with a d4 for their [recovery die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Die/Recovery/), [power die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/) and [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Die/Martial/). Many talents (such as martial arts, rage, or sneak attack) use your martial die to determine how much damage you do. Your recovery die also determines how quickly you recover from damage, such as during a short rest or as the target of a healing spell. Your power die is primarily used to regenerate mana.
 
 In addition to this, your martial die determines your probability of success when performing martial feats.
 

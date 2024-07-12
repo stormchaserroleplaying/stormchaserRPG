@@ -28,7 +28,7 @@ You’re sleeping, or you’ve been knocked out. You can’t act. You cannot add
 * If you are simply asleep, the GM decides you wake up either because you have had a restful night’s sleep or something disrupted that rest.
 
 ## Wounded
-You have been seriously injured during a fight. Anytime that you lose the dying condition, you become wounded 1 if you didn’t already have the wounded condition. If you already have the wounded condition, your wounded condition value instead increases by 1. If you gain the dying condition while wounded, then increase the dying condition’s value by your wounded value. The wounded condition ends if someone successfully restores Stamuina to you with Treat Wounds, or if you are restored to full Stamina and rest for 10 minutes.
+You have been seriously injured during a fight. Anytime that you lose the dying condition, you become wounded 1 if you didn’t already have the wounded condition. If you already have the wounded condition, your wounded condition value instead increases by 1. If you gain the dying condition while wounded, then increase the dying condition’s value by your wounded value. The wounded condition ends if someone successfully restores Stamina to you with Treat Wounds, or if you are restored to full Stamina and rest for 10 minutes.
 
 ## Doomed
 Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were doomed 1, you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you’re no longer doomed.

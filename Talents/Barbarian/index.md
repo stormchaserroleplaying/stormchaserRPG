@@ -13,18 +13,18 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 |:-------|:--:|:--------------|
 | Rage | 5 | - |
 | Natural Resilience | 5 | - |
-| Rimehand | 10 | 10 CP of Barbarian Talents |
-| Reckless Attack | 10 | Rage plus 10 CP of Barbarian talents |
+| Rimehand | 10 | 5 CP of Barbarian Talents |
+| Reckless Attack | 10 | Rage plus 5 CP of Barbarian talents |
 | Fast Movement | 20 | Reckless Attack plus 30 CP of Barbarian Talents |
-| Feral Instinct | 15 | Natural Resilience plus 50 CP of Barbarian Talents |
-| Instinctive Pounce | 10 | Fast Movement plus 50 CP of Barbarian Talents |
-| Brutal Critical | 30 | Instinctive Pounce plus 60 CP of Barbarian Talents |
-| Relentless Rage | 35 | Rage and Feral Instinct plus 90 CP of Barbarian Talents |
-| Brutal Critical II | 50 | Brutal Critical and Relentless Rage plus 125 CP of Barbarian Talents | 
-| Persistent Rage | 65 | Relentless Rage plus 175 CP of Barbarian Talents |
-| Brutal Critical III | 80 | Brutal Critical II and Persistent Rage plus 240 CP of Barbarian Talents |
-| Indomitable Might | 80 | Brutal Critical III plus 320 CP of Barbarian Talents |
-| Primal Champion | 100 | Indomitable Might plus 400 CP of Barbarian Talents |
+| Feral Instinct | 15 | Natural Resilience plus 75 CP of Barbarian Talents |
+| Instinctive Pounce | 10 | Fast Movement plus 75 CP of Barbarian Talents |
+| Brutal Critical | 30 | Instinctive Pounce plus 100 CP of Barbarian Talents |
+| Relentless Rage | 35 | Rage and Feral Instinct plus 150 CP of Barbarian Talents |
+| Brutal Critical II | 50 | Brutal Critical and Relentless Rage plus 175 CP of Barbarian Talents | 
+| Persistent Rage | 65 | Relentless Rage plus 275 CP of Barbarian Talents |
+| Brutal Critical III | 80 | Brutal Critical II and Persistent Rage plus 350 CP of Barbarian Talents |
+| Indomitable Might | 80 | Brutal Critical III plus 425 CP of Barbarian Talents |
+| Primal Champion | 100 | Indomitable Might plus 500 CP of Barbarian Talents |
 
 ### Rage
 
@@ -44,9 +44,9 @@ Rage points gained in these ways may exceed your rage point maximum. When you fi
 As an action on your turn, you can spend a rage point to enter a furious bloodlust. While raging, you gain the following benefits:
 * You have advantage on Strength checks.
 * When you make a melee weapon attack, you deal additional damage equal to your martial feat die.
-* You have resistance to bludgeoning, piercing, and slashing damage.
+* You have resistance to bludgeoning, piercing and slashing damage.
 
-If you are able to cast spells, you can’t cast them or sustain them while raging.
+If you are able to cast spells, you can’t cast or sustain them while raging.
 
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious. You can also end your rage at any time (no action required).
 
@@ -65,7 +65,7 @@ Additionally, you gain an uncanny sense of when things nearby aren’t as they s
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost: 10 Character Points**<br>**Prerequisite:** 10 CP of Barbarian Talents
+#### **Cost: 10 Character Points**<br>**Prerequisite:** 5 CP of Barbarian Talents
 When you rage, you gain the following benefits:
 * You gain resistance to cold damage.
 * Your defences gain +1d vs extreme cold and effects that deal cold damage.
@@ -75,7 +75,7 @@ When you rage, you gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Rage plus 10 CP of Barbarian talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Rage plus 5 CP of Barbarian talents
 You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you +1d to weapon attack rolls during this turn, but attack rolls against you gain +1d until your next turn.
 
 ### Fast Movement
@@ -89,7 +89,7 @@ Your speed increases by 10 feet.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Natural Resilience plus 50 CP of Barbarian Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Natural Resilience plus 75 CP of Barbarian Talents
 Your instincts are so honed that you have +1d on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren’t [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
@@ -98,21 +98,21 @@ Additionally, if you are surprised at the beginning of combat and aren’t [inca
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Fast Movement plus 50 CP of Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Fast Movement plus 75 CP of Barbarian Talents
 As part of the action you take to enter your rage, you can move up to half your speed.
 
 ### Brutal Critical
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Instinctive Pounce plus 60 CP of Barbarian Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Instinctive Pounce plus 100 CP of Barbarian Talents
 You can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Relentless Rage
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Rage and Feral Instinct plus 90 CP of Barbarian Talents
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Rage and Feral Instinct plus 150 CP of Barbarian Talents
 Your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution defence check at the start of your next turn. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this talent after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
@@ -121,35 +121,35 @@ Each time you use this talent after the first, the DC increases by 5. When you f
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Brutal Critical and Relentless Rage plus 125 CP of Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Brutal Critical and Relentless Rage plus 175 CP of Barbarian Talents
 You can now roll two additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Persistent Rage
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 65 Character Points<br>**Prerequisite:** Relentless Rage plus 175 CP of Barbarian Talents
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Relentless Rage plus 275 CP of Barbarian Talents
 Your rage is so fierce that it ends early only if you fall [unconscious](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Unconscious/) or if you choose to end it.
 
 ### Brutal Critical III
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Brutal Critical II and Persistent Rage plus 240 CP of Barbarian Talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Brutal Critical II and Persistent Rage plus 350 CP of Barbarian Talents
 You can now roll three additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 
 ### Indomitable Might
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Brutal Critical III plus 320 CP of Barbarian Talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Brutal Critical III plus 425 CP of Barbarian Talents
 If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
 ### Primal Champion
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** Indomitable Might plus 400 CP of Barbarian Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** Indomitable Might plus 500 CP of Barbarian Talents
 You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ## Barbarian Talent Tree Branches

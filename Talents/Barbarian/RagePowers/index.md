@@ -6,7 +6,9 @@ nav_order: 1
 ---
 
 # Rage Powers
-Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent and who also meets a power's prerequisites can acquire a rage power. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent can spend character points on a rage power if they meet its prerequisites.
+
+Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
 
 | Rage Power | CP | Prerequisites |
 |:-------|:--:|:--------------|
@@ -106,10 +108,10 @@ When you successfully demoralise an opponent using your [Intimidating Glare](htt
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Points
 *No one strikes you without reprisal in kind.*
 
-At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) vs the last creature to hit you. This attack does not accumulate multiple attack penalty for the turn.
+At the start of your turn, if you were hit in melee during the last round, you gain +1d on attack rolls made to hit the last creature to hit you.
 
 ## Bone Breaker
 

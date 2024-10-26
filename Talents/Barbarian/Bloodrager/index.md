@@ -144,7 +144,7 @@ When you rage, you sprout a pair of dragon wings from your back, gaining a flyin
 
 You can't manifest your wings while wearing armour unless the armour is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
 
-Once per turn as an action, you can beat your wings to create a great burst of wind. Make an unarmed strike vs. the STR defense of each creature within 10 feet of you. On a hit, they suffer 1dM physical damage and are knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+Once per turn as an action, you can beat your wings to create a great burst of wind. Make an unarmed strike vs. the STR defense of each creature within 10 feet of you. On a hit, they suffer 1dM bludgeoning damage and are knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 #### Elemental
 When you rage, you gain special movement based on your element.

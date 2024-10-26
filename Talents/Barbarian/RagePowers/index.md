@@ -6,7 +6,55 @@ nav_order: 1
 ---
 
 # Rage Powers
-Any barbarian who meets a power's prerequisites can select and use a rage power. Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent can spend character points on a rage power if they meet its prerequisites.
+
+Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
+
+| Rage Power | CP | Prerequisites |
+|:-------|:--:|:--------------|
+| Ancestral Guidance  | 5  | - |
+| Animalistic Fury  | 5  | - |
+| Armour Ripper     | 5  | 1 Feral Soul talent |
+| Auspicious Mark   | 5 | Ancestral Guidance |
+| Barreling Charge  | 10 | - |
+| Battle Roar  | 10  | Intimidating Glare |
+| Blood For Blood  | 5 | - |
+| Bone Breaker  | 10 | - |
+| Celestial Totem, Lesser  | 5  | - |
+| Celestial Totem | 15 | Celestial Totem, Lesser |
+| Celestial Totem, Greater  | 35 | Celestial Totem |
+| Clear Mind  | 5  | - |
+| Come and Get Me  | 10  | Blood For Blood |
+| Crippling Blow  | 15 | Powerful Blow |
+| Cult Totem, Lesser | 5  | - |
+| Cult Totem | 10 | Cult Totem, Lesser |
+| Death Dealer | 10 | - |
+| Fleshrender  | 20  | - |
+| Focus of the Ascetic  | 20 | - |
+| Fury Manifested | 25  | - |
+| Great Throw  | 15 | - |
+| Inspire Ferocity  | 10  | Reckless Attack |
+| Intimidating Glare  | 5  | - |
+| Knockdown  | 10 | - |
+| Leap to the Fray! | 20 | - |
+| Moon Totem, Lesser  | 5  | - |
+| Moon Totem  | 10 | Moon Totem, Lesser |
+| Moon Totem, Greater  | 25 | Moon Totem |
+| Powerful Blow  | 5  | - |
+| Primal Instinct  | 10 | - |
+| Raging Skald  | 5  | Berserker Cry |
+| Reaping | 10 | - |
+| Rip and Tear  | 15 | - |
+| Rolling Dodge  | 5  | - |
+| Scatter the Hordes  | 15 | - |
+| Seize the Prey | 10 | - |
+| Shadow Totem, Lesser  | 5  | - |
+| Shadow Totem  | 25 | Shadow Totem, Lesser |
+| Shadow Totem, Greater  | 35 | Shadow Totem |
+| Spell Sunder  | 10  | - |
+| Tear the Veil of Shadows  | 10  | - |
+| Trample  | 5  | - |
+| Whirlwind  | 10 | - |
 
 ## Ancestral Guidance
 
@@ -60,10 +108,10 @@ When you successfully demoralise an opponent using your [Intimidating Glare](htt
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Points
 *No one strikes you without reprisal in kind.*
 
-At the start of your turn, if you were hit in melee during the last round, you can immediately make a melee or thrown weapon [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) vs the last creature to hit you. Subsequent Strikes do not incur the multiple attack penalty.
+At the start of your turn, if you were hit in melee during the last round, you gain +1d on attack rolls made to hit the last creature to hit you.
 
 ## Bone Breaker
 
@@ -312,11 +360,9 @@ You let loose a primal roar that affects all creatures within 30 feet. Make a Ra
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-As an action, you can attempt to overrun any creature that is the same size as you or smaller. This works just like the overrun combat action, but the barbarian does not need to make a check, it merely has to move over opponents in its path.
+You perform the [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/) action against a target, treating a success as a critical success. If you do not succeed on your roll, it is considered a normal success.
 
-Targets of the overrun take an amount of damage equal to your martial feat die + your Constitution modifier and may make an attack of opportunity, but with -1d. If a target forgoes its opportunity attack, it may attempt to avoid you and make a Dexterity defence check against your weapon skill to take half damage.
-
-You can only deal this damage to each target once per round, no matter how many times your movement takes you over a target creature.
+You can only deal this damage to a target once per round, no matter how many times your movement takes you over a target creature.
 
 ## Whirlwind
 

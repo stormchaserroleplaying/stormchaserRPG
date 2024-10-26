@@ -23,12 +23,12 @@ Most barbarian tribes consider a totem animal to be kin to a particular clan. In
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the [Beast Sense]() and [Speak With Animals](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#speak-with-animals) spells. 
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the [Beast Sense]() and [Speak With Animals](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#speak-with-animals) spells.
 
 When you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object (an amulet or similar adornment) that incorporates fur or feathers, claws, teeth, or bones of an animal connected with the spirit. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow. Many animals can represent a totem spirit, so the player may choose a different animal that relates to those listed.
 
 | Totem | Sample Animals |
-|:------:|:--:|
+|:-----:|:--------------:|
 | Bear | Bear, Boar, Bull, Turtle, Whale |
 | Stag | Deer, Dolphin, Elk |
 | Eagle | Dragon, Eagle, Hawk, Roc |
@@ -37,15 +37,15 @@ When you adopt this path, you choose a totem spirit and gain its feature. You mu
 
 While you are raging, you gain the following benefit based on your chosen Totem Spirit.
 
-**Bear:** You have resistance to all damage except mental damage. The Hide Totem makes you tough enough to stand up to any punishment.
+**Bear:** You have resistance to all damage except mental damage. The Bear Totem makes you tough enough to withstand any punishment.
 
-**Stag:** While you aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.
+**Eagle:** You have +1d on defence checks to avoid opportunity attacks and you can [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once per turn without using an action. The Eagle Totem makes you extraordinarily swift.
 
-**Eagle:** You have +1d on defence checks to avoid opportunity attacks and you can [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once per turn without using an action. The Strider Totem makes you extraordinarily swift.
+**Stag:** While you aren't wearing heavy armour, your walking speed increases by 15 feet. The spirit of the stag makes you extraordinarily swift.
 
-**Wolf:** Your allies have +1d on melee attack rolls against any creature within 5 feet of you that is hostile to you. The Pack Totem makes you a leader of hunters.
+**Tiger:** Each turn, the first time that you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) a creature that you have [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) you deal double damage.
 
-**Tiger:** When you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) a creature you have [Grapple](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) for the first time each turn, you can perform a second [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) as part of the same action. This second attack does not count for MAP on that turn. You cannot attack twice in this way on the same turn you [Grapple](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) a target.
+**Wolf:** Your allies have +1d on melee attack rolls against any creature within 5 feet of you that is hostile to you. The Wolf Totem makes you a leader of hunters.
 
 ### Aspect of the Beast
 
@@ -56,11 +56,11 @@ You gain a magical benefit based on the totem animal of your choice. You can cho
 
 **Bear:** You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled and you have +1d on Strength checks made to push, pull, lift, or break objects.
 
-**Stag:** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/), for rules on travel pace). The elk spirit helps you roam far and fast.
-
 **Eagle:** You gain the eyesight of an eagle. You gain low-light vision with a distance of 1 mile.
 
-**Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/), for rules on travel pace).
+**Stag:** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/) for the rules on travel pace). The elk spirit helps you roam far and fast.
+
+**Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace and you can move stealthily while traveling at a normal pace (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/) for the rules on travel pace).
 
 **Tiger:** ***Pending rewrite*** ~~You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.~~
 
@@ -69,7 +69,7 @@ You gain a magical benefit based on the totem animal of your choice. You can cho
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** Aspect of the Beast and 125 CP of Barbarian Talents
-You can cast the [Commune With Nature]() spell, but only as a ritual. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+You can cast the [Commune With Nature]() spell. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement
 
@@ -82,10 +82,10 @@ While raging, you gain a benefit listed below based on your chosen totem animal:
 
 **Bear:** Any creature within 5 feet of you that’s hostile to you has -1d on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you, or if it can’t be frightened.
 
-**Stag:** When you [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/), you can do so with only one action instead of two. Additionally, [Charging](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) only takes two actions instead of three, and you only need to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once before attacking the target.
-
 **Eagle:** You have a flying speed equal to your current walking speed.
 
-**Wolf:** When you deal damage to a target in melee, they are automatically knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/)
+**Stag:** When you [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/), you can do so with only one action instead of two. Additionally, [Charging](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) only takes two actions instead of three and you only need to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once before attacking the target.
 
-**Tiger:** After you successfully [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) a creature, you can immediately [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) them. This does not count towards MAP for the turn.
+**Tiger:** After you successfully [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) a creature, you can immediately [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) them as a free action.
+
+**Wolf:** When you deal damage to a target in melee, they are automatically knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).

@@ -12,9 +12,9 @@ Most barbarians require weapons. However, for Bruiser barbarians everything is t
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
 | Reckless Strikes        | 15 | Rage |
-| Shattering Strikes      | 20 | Reckless Strikes and 50 CP of Barbarian talents |
-| Stop Hitting Each Other | 30 | Shattering Strikes and 125 CP of Barbarian talents |
-| Hulking Smash           | 50 | Stop Hitting Each Other and 225 CP of Barbarian talents |
+| Shattering Strikes      | 20 | Reckless Strikes and 50 CP of Barbarian Talents |
+| Stop Hitting Each Other | 30 | Shattering Strikes and 125 CP of Barbarian Talents |
+| Hulking Smash           | 50 | Stop Hitting Each Other and 225 CP of Barbarian Talents |
 
 ### Reckless Strikes
 
@@ -31,7 +31,7 @@ You can use these feature a number of times equal to your Constitution modifier.
 You gain temporary stamina equal to 1dR + your Constitution modifier. If the target is [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) by you, then you instead gain temporary stamina equal to 2dR + your Constitution modifier.
 
 #### Punishing Strike
-The creature is [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) until the start of its next turn. If the target is [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) by you, it is instead [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) until the start of its next turn.
+On a hit, if your attack roll also hits the target's Constitution defence, then the creature is [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/) until the start of its next turn. If the target is [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) by you, it is instead [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) until the start of its next turn.
 
 #### Staggering Strike
 Tthe target is pushed back 10 feet. If the target is [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) by you, it is instead knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/). If the target hits an object before the end of this forced movement, it takes bludgeoning damage equal to your Strength modifier.
@@ -44,8 +44,8 @@ Tthe target is pushed back 10 feet. If the target is [grappled](https://stormcha
 *Your rage causes your strikes to overcome the hardest of materials.*
 
 While raging, you gain the following benefits:
-- Your unarmed strikes and improved weapons count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
-- Your unarmed strikes and improved weapons deal double damage against structures and objects.
+- Your unarmed strikes and improvised weapons count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+- Your unarmed strikes and improvised weapons deal double damage to structures and objects.
 
 ### Stop Hitting Each Other
 
@@ -61,4 +61,4 @@ Additionally, you can use creatures that you have [grappled](https://stormchaser
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br> **Prerequisite:** Stop Hitting Each Other and 225 CP of Barbarian talents
-When you would make an unarmed strike or attack with an improvised weapon with a circumstancial +1d, you can choose to forgo the +1d. If you do so and hit the target, (add one successful die for the purpose of calculating a critical hit.) **or** (treat one die rolled as a 20 to maximize its damage).
+When you would make an unarmed strike or attack with an improvised weapon with a circumstancial +1d, you can choose to forgo the +1d. If you do so and hit the target, all rolled damage from that attack instead deals the maximum possible value.

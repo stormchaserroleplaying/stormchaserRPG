@@ -16,5 +16,6 @@ For example, a character with Level 1 Arcane Spellcasting, Level 1 Divine Spellc
 * 4 divine cantrips
 * 4 levels of divine spells prepared, plus the option to purchase 2 bonus spells from any talent tree branch from which the character has talents
 * 3 mana
+* d4 power die
 
 If the character were to increase the maximum level of either their arcane or divine spells, then they would gain the additional spells known or prepared, as well as increase their maximum mana from 3 to 6.

@@ -25,11 +25,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Sanctuary, Sleep* |
-| 2nd | *Calm Emotions, Hold Person* |
-| 3rd | *Counterspell, Hypnotic Pattern* |
-| 4th | *Otiluke's Resilient Sphere, Stoneskin* |
-| 5th | *Hold Monster, Wall of Force* |
+| 1st | *Sanctuary, Sleep* | 2 Character Points per Spell |
+| 2nd | *Calm Emotions, Hold Person* | 4 Character Points per Spell |
+| 3rd | *Counterspell, Hypnotic Pattern* | 6 Character Points per Spell |
+| 4th | *Otiluke's Resilient Sphere, Stoneskin* | 8 Character Points per Spell |
+| 5th | *Hold Monster, Wall of Force* | 10 Character Points per Spell |
 
 ## Talents
 

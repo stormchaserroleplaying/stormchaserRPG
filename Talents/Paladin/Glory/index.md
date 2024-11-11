@@ -23,11 +23,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Guiding Bolt, Heroism* |
-| 2nd | *Enhance Ability, Magic Weapon* |
-| 3rd | *Haste, Protection from Energy* |
-| 4th | *Compulsion, Freedom of Movement* |
-| 5th | *Commune, Flame Strike* |
+| 1st | *Guiding Bolt, Heroism* | 2 Character Points per Spell |
+| 2nd | *Enhance Ability, Magic Weapon* | 4 Character Points per Spell |
+| 3rd | *Haste, Protection from Energy* | 6 Character Points per Spell |
+| 4th | *Compulsion, Freedom of Movement* | 8 Character Points per Spell |
+| 5th | *Commune, Flame Strike* | 10 Character Points per Spell |
 
 ## Talents
 

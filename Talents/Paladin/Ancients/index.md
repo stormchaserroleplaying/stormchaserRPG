@@ -23,11 +23,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Ensnaring Strike, Speak with Animals* |
-| 2nd | *Moonbeam, Misty Step* |
-| 3rd | *Plant Growth, Protection from Energy* |
-| 4th | *Ice storm, Stoneskin* |
-| 5th | *Commune with Nature, Tree Stride* |
+| 1st | *Ensnaring Strike, Speak with Animals* | 2 Character Points per Spell |
+| 2nd | *Moonbeam, Misty Step* | 4 Character Points per Spell |
+| 3rd | *Plant Growth, Protection from Energy* | 6 Character Points per Spell |
+| 4th | *Ice storm, Stoneskin* | 8 Character Points per Spell |
+| 5th | *Commune with Nature, Tree Stride* | 10 Character Points per Spell |
 
 ## Talents
 

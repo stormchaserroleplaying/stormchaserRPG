@@ -22,11 +22,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Ensnaring Strike, Hail of Thorns* |
-| 2nd | *Cordon of Arrows, Pass Without Trace* |
-| 3rd | *Flame Arrows, Lightning Arrow* |
-| 4th | *Hallucinatory Terrain, Locate Creature* |
-| 5th | *Conjure Volley, Swift Quiver* |
+| 1st | *Ensnaring Strike, Hail of Thorns* | 2 Character Points per Spell |
+| 2nd | *Cordon of Arrows, Pass Without Trace* | 4 Character Points per Spell |
+| 3rd | *Flame Arrows, Lightning Arrow* | 6 Character Points per Spell |
+| 4th | *Hallucinatory Terrain, Locate Creature* | 8 Character Points per Spell |
+| 5th | *Conjure Volley, Swift Quiver* | 10 Character Points per Spell |
 
 ## Talents
 

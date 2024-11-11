@@ -25,11 +25,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Alarm, Detect Magic* |
-| 2nd | *Moonbeam, See Invisibility* |
-| 3rd | *Counterspell, Nondetection* |
-| 4th | *Aura of Purity, Banishment* |
-| 5th | *Hold Monster, Scrying* |
+| 1st | *Alarm, Detect Magic* | 2 Character Points per Spell |
+| 2nd | *Moonbeam, See Invisibility* | 4 Character Points per Spell |
+| 3rd | *Counterspell, Nondetection* | 6 Character Points per Spell |
+| 4th | *Aura of Purity, Banishment* | 8 Character Points per Spell |
+| 5th | *Hold Monster, Scrying* | 10 Character Points per Spell |
 
 ## Talents
 

@@ -16,11 +16,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Hellish Rebuke, Inflict Wounds* |
-| 2nd | *Crown of Madness, Darkness* |
-| 3rd | *Animate Dead, Bestow Curse* |
-| 4th | *Blight, Confusion* |
-| 5th | *Contagion, Dominate Person* |
+| 1st | *Hellish Rebuke, Inflict Wounds* | 2 Character Points per Spell |
+| 2nd | *Crown of Madness, Darkness* | 4 Character Points per Spell |
+| 3rd | *Animate Dead, Bestow Curse* | 6 Character Points per Spell |
+| 4th | *Blight, Confusion* | 8 Character Points per Spell |
+| 5th | *Contagion, Dominate Person* | 10 Character Points per Spell |
 
 ## Talents
 

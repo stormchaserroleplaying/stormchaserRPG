@@ -24,11 +24,11 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | *Bane, Hunter's Mark* |
-| 2nd | *Hold Person, Misty Step* |
-| 3rd | *Haste, Protection from Energy* |
-| 4th | *Banishment, Dimension Door* |
-| 5th | *Hold Monster, Scrying* |
+| 1st | *Bane, Hunter's Mark* | 2 Character Points per Spell |
+| 2nd | *Hold Person, Misty Step* | 4 Character Points per Spell |
+| 3rd | *Haste, Protection from Energy* | 6 Character Points per Spell |
+| 4th | *Banishment, Dimension Door* | 8 Character Points per Spell |
+| 5th | *Hold Monster, Scrying* | 10 Character Points per Spell |
 
 ## Talents
 

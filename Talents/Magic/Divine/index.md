@@ -52,7 +52,7 @@ You can prepare and cast 2nd level spells. Your maximum mana increases to 6.
 
 You can prepare spells with a total number of levels equal to your 2× your spellcasting attribute modifier. For example, if you have a spellcasting attribute of 16, you can prepare a total of 6 spell levels worth of spells. This could be 3 2nd level spells, 6 1st level spells, or anything in between.
 
-Use the base level of each spell when you determine how many spell levels you must investing in preparing that spell, even if the spell can be upcast. For example, if you prepare a 1st-level spell, such as [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal), you can nevertheless cast it at 1st or 2nd level (or higher, if you can cast higher level spells).
+Use the base level of each spell when you determine how many spell levels you must invest to prepare that spell, even if the spell can be upcast. For example, if you prepare a 1st-level spell, such as [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal), you can nevertheless cast it at 1st or 2nd level (or higher, if you can cast higher level spells).
 
 ## 3rd Level Divine Spells
 

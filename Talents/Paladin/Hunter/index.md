@@ -31,7 +31,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Oath of the Hunter | 5  | - |
 | Shared Precision   | 15 | *Oath of the Hunter and Aura of Protection* |
 | Back in the Fight  | 65 | *Cleansing Touch and Shared Precision* |

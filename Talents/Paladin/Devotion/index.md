@@ -23,7 +23,7 @@ As a devotion paladin, you gain the following spells once you can cast spells of
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells | Cost |
-|:-----------:|:------:|:-----:|
+|:-----------:|:------:|:----:|
 | 1st | *Protection from evil and good, Sanctuary* | 2 Character Points per Spell |
 | 2nd | *lesser restoration, zone of truth* | 4 Character Points per Spell |
 | 3rd | *Beacon of Hope, Dispel Magic* | 6 Character Points per Spell |
@@ -33,7 +33,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------:|
+|:-------|:--:|:--------------|
 | Oath of Devotion | 5  | - |
 | Aura of Devotion | 15 | *Oath of Devotion and Aura of Protection* |
 | Purity of Spirit | 65 | *Cleansing Touch and Aura of Devotion* |

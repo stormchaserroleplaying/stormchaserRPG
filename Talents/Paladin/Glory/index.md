@@ -32,7 +32,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Oath of Glory    | 5  | - |
 | Aura of Alacrity | 15 | *Oath of the Glory and Aura of Protection* |
 | Glorious Defense | 65 | *Cleansing Touch and Aura of Alacrity* |

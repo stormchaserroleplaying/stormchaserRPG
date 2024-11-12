@@ -10,7 +10,7 @@ Through a select, worthy few shines the power of the divine. Called paladins, th
 ## Core Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Divine Sense | 5 | - |
 | Lay on Hands | 5 | - |
 | Divine Smite | 10 | 10 CP of Paladin Talents |

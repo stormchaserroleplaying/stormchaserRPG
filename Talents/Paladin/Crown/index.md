@@ -32,7 +32,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Oath of the Crown | 5  | - |
 | Divine Allegiance | 15 | *Oath of the Crown and Aura of Protection* |
 | Unyielding Spirit | 65 | *Cleansing Touch and Divine Allegiance* |

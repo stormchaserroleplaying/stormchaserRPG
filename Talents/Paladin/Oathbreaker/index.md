@@ -25,7 +25,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Oath of the Breaker     | 5  | - |
 | Aura of Hate            | 15 | *Oath of the Breaker and Aura of Protection* |
 | Supernatural Resistance | 65 | *Cleansing Touch and Aura of Hate* |

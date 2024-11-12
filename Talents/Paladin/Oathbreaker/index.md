@@ -15,7 +15,7 @@ As an oathbreaker paladin, you gain the following spells once you can cast spell
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells | Cost |
-|:-----------:|:------:|:-----|
+|:-----------:|:------:|:-----:|
 | 1st | *Hellish Rebuke, Inflict Wounds* | 2 Character Points per Spell |
 | 2nd | *Crown of Madness, Darkness* | 4 Character Points per Spell |
 | 3rd | *Animate Dead, Bestow Curse* | 6 Character Points per Spell |

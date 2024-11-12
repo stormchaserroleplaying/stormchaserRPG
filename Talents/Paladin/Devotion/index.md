@@ -22,13 +22,13 @@ As a devotion paladin, you gain the following spells once you can cast spells of
 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | *Protection from evil and good, Sanctuary* |
-| 2nd | *lesser restoration, zone of truth* |
-| 3rd | *Beacon of Hope, Dispel Magic* |
-| 4th | *Freedom of Movement, Guardian of Faith* |
-| 5th | *Commune, Flame Strike* |
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | *Protection from evil and good, Sanctuary* | 2 Character Points per Spell |
+| 2nd | *lesser restoration, zone of truth* | 4 Character Points per Spell |
+| 3rd | *Beacon of Hope, Dispel Magic* | 6 Character Points per Spell |
+| 4th | *Freedom of Movement, Guardian of Faith* | 8 Character Points per Spell |
+| 5th | *Commune, Flame Strike* | 10 Character Points per Spell |
 
 ## Talents
 

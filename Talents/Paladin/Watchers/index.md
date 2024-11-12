@@ -23,8 +23,8 @@ As a watchers paladin, you gain the following spells once you can cast spells of
 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
-| Spell Level | Spells |
-|:-----------:|:------:|
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:-----|
 | 1st | *Alarm, Detect Magic* | 2 Character Points per Spell |
 | 2nd | *Moonbeam, See Invisibility* | 4 Character Points per Spell |
 | 3rd | *Counterspell, Nondetection* | 6 Character Points per Spell |

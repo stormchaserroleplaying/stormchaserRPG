@@ -31,7 +31,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-------|:--:|:--------------:|
 | Oath of Conquest     | 5  | - |
 | Aura of Conquest     | 15 | *Oath of Conquest and Aura of Protection* |
 | Scornful Rebuke      | 65 | *Cleansing Touch and Aura of Conquest* |

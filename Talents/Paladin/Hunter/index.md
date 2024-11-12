@@ -21,7 +21,7 @@ As a hunter paladin, you gain the following spells once you can cast spells of t
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells | Cost |
-|:-----------:|:------:|:-----:|
+|:-----------:|:------:|:----:|
 | 1st | *Ensnaring Strike, Hail of Thorns* | 2 Character Points per Spell |
 | 2nd | *Cordon of Arrows, Pass Without Trace* | 4 Character Points per Spell |
 | 3rd | *Flame Arrows, Lightning Arrow* | 6 Character Points per Spell |
@@ -31,7 +31,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------:|
+|:-------|:--:|:--------------|
 | Oath of the Hunter | 5  | - |
 | Shared Precision   | 15 | *Oath of the Hunter and Aura of Protection* |
 | Back in the Fight  | 65 | *Cleansing Touch and Shared Precision* |

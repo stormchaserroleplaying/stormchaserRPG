@@ -24,7 +24,7 @@ As a redemption paladin, you gain the following spells once you can cast spells 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
 | Spell Level | Spells | Cost |
-|:-----------:|:------:|:-----:|
+|:-----------:|:------:|:----:|
 | 1st | *Sanctuary, Sleep* | 2 Character Points per Spell |
 | 2nd | *Calm Emotions, Hold Person* | 4 Character Points per Spell |
 | 3rd | *Counterspell, Hypnotic Pattern* | 6 Character Points per Spell |
@@ -34,7 +34,7 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 ## Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------:|
+|:-------|:--:|:--------------|
 | Oath of Redemption     | 5  | - |
 | Aura of the Guardian   | 15 | *ath of Redemption and Aura of Protection* |
 | Protective Spirit      | 65 | *Cleansing Touch and Aura of the Guardian* |

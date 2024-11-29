@@ -33,6 +33,6 @@ Gnolls are feral, hyena-headed humanoids that attack without warning, slaughteri
 **Rampage:** When the gnoll reduces a creature to 0 stamina with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
 ## Other
-**Senses:** Darkvision (60 ft.), Passive Perception 10
+**Senses:** Low-Light Vision (60 ft.), Awareness 14 (+1d)
 
 **Languages:** Gnoll

@@ -16,7 +16,7 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom (Perception) sco
 ## Sleeping in Armour
 Sleeping in light armour has no adverse effect on the wearer, but sleeping in medium or heavy armour makes it difficult to recover fully during a long rest.
 
-When you finish a long rest during which you slept in medium or heavy armour, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn't reduce your exhaustion level.
+When you finish a long rest during which you slept in medium or heavy armour, the rest doesn't reduce your exhaustion level, should you have any levels of exhaustion. If you do not already have any levels of exhaustion, then you suffer one exhaustion level.
 
 ## Going Without A Long Rest
 A long rest is never mandatory, but going without sleep does have its consequences.

@@ -41,7 +41,7 @@ Hyenakin are feral, hyena-headed humanoids that attack without warning, slaughte
 * *Languages:* Beastkin (Native)
 
 #### Senses
-* Awareness 14 (+1d)
+* Awareness 14 (2d20kh1)
 * Low-Light Vision (60 ft.)
 
 ## Hyenakin Warrior
@@ -80,5 +80,5 @@ Hyenakin are feral, hyena-headed humanoids that attack without warning, slaughte
 * *Languages:* Beastkin (Native)
 
 #### Senses
-* Awareness 16 (+2d)
+* Awareness 16 (3d20kh1+1)
 * Low-Light Vision (60 ft.)

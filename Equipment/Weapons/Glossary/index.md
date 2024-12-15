@@ -253,6 +253,11 @@ Weapons with the worn property are equipped similarly to armour, by strapping th
 
 While the weapon benefits from the worn property, it cannot be disarmed unless the attack or skill check is a critical hit.
 
+## Range
+Ranged and thrown weapons each have a listed range increment and attacks with them grow less accurate against targets farther away. As long as your target is at or within the listed range increment, also called the first range increment, you take no penalty to your dice pool for the attack roll. If you’re attacking beyond that range increment, you take a –1d penalty for each additional increment beyond the first. You can attempt to attack with a ranged weapon or thrown weapon up to four range increments away, but the farther away that you are, the harder it is to hit your target.
+
+For example, the range increment of a light crossbow is 80 feet. If you are shooting at a target no farther away than that distance, you take no penalty due to range. If they’re beyond 80 feet, but no more than 160 feet away, you take a –1d penalty due to range. If they’re beyond 160 feet, but no more than 240 feet away, you take a –2d penalty due to range and so on, until you reach the last range increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
+
 ## Str/Dex
 If your Dexterity is less than the **Str/Dex** entry of the weapon, then you suffer -1d on your attack rolls with the weapon. If you are wielding a ranged weapon, or if the weapon as a finesse weapon, then this instead applies to your Strength.
 

@@ -33,9 +33,11 @@ Hyenakin are feral, hyena-headed humanoids that attack without warning, slaughte
 ### Special Abilities
 **Rampage:** When the hyenakin reduces a creature to 0 stamina with a melee attack on its turn, then the gnoll can immdiately move up to half its speed and make a bite attack.
 
-### Other
-**Languages:** Beastkin
+#### Proficiencies
+* *Armour:* Training, Expertise
+* *Weapons:* Bows (Trained), Simple Weapons (Trained), Unarmed (Trained)
+* *Languages:* Beastkin (Native)
 
-**Proficiencies:** Bows (Trained), Simple Weapons (Trained), Unarmed (Trained)
-
-**Senses:** Low-Light Vision (60 ft.), Awareness 14 (+1d)
+#### Senses
+* Awareness 14 (+1d)
+* Low-Light Vision (60 ft.)

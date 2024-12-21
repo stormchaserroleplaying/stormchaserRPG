@@ -21,7 +21,7 @@ Hyenakin are feral, hyena-headed humanoids that attack without warning, slaughte
 ### Ability Scores
 **STR:** 14 (+2), **DEX:** 12 (+1), **CON:** 11 (+0), **INT:** 6 (-2), **WIS:** 10 (+0), **CHA:** 7 (-2)
 
-**Speed:** 35 feet
+**Speed:** 26 feet
 
 ### Actions
 **Bite:** *Melee Weapon Attack:* 2d20kh1+2 to hit, reach 5 ft., one creature. *Hit:* 1d4+2 piercing damage.
@@ -58,7 +58,7 @@ Hyenakin are feral, hyena-headed humanoids that attack without warning, slaughte
 ### Ability Scores
 **STR:** 16 (+3), **DEX:** 14 (+2), **CON:** 13 (+1), **INT:** 8 (-1), **WIS:** 12 (+1), **CHA:** 9 (-1)
 
-**Speed:** 35 feet
+**Speed:** 30 feet
 
 ### Actions
 **Bite:** *Melee Weapon Attack:* 3d20kh1+3 to hit, reach 5 ft., one creature. *Hit:* 1d4+3 piercing damage.

@@ -39,7 +39,7 @@ Make an evocation attack roll vs the Strength defence of each creature in the ar
 **Components:** V, S, M *(A bit of fur and a rod of amber, crystal, or glass.)*<br>
 **Duration:** Instantaneous
 
-A bolt of lightning strikes outward from your hand. Make an evocation attack roll vs the Dexterity defence of each creature within a a line 100 feet long and 5 feet wide extending from yourself. On a hit, a target takes 12d4 electric damage, or half as much on a miss.
+A bolt of lightning strikes outward from your hand. Make an evocation attack roll vs the Dexterity defence of each creature within a line 100 feet long and 5 feet wide extending from yourself. On a hit, a target takes 12d4 electric damage, or half as much on a miss.
 
 When a lightning bolt strikes a solid surface before it has travelled 100 feet, the bolt reflects from the surface at an angle equal to the angle of incidence (like light off a mirror). A creature crossed more than once by the bolt takes additional damage for each time that it is struck.
 

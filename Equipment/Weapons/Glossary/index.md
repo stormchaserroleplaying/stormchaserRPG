@@ -108,7 +108,16 @@ Light weapons are small and easy to handle, making them ideal for use when fight
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer -1d on their attack roll, if they are proficient with the weapon.
 
 ### Load
-This weapon takes a number of actions equal to the listed value to reload.
+This weapon takes a number of actions equal to the listed value to reload. This value is modified as follows by your proficiency with the weapon that you are reloading.
+
+| Proficiency | Load Multiplier |
+|:-----------:|:---------------:|
+| Untrained | ×2 |
+| Trained | ×1 |
+| Expert | ×0.5 |
+| Master | ×0.25 |
+
+Modified load values of 0.5 or above round up to 1. Modified load values below 0.5 round down to 0.
 
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer -1d.
@@ -228,7 +237,7 @@ Wielding a melee weapon in two hands allows you to put more strength behind your
 ### Unwieldy
 Small creatures suffer -1d on attack rolls with unwieldy weapons. An unwieldy weapon's size and bulk make it too large for a Small creature to use effectively.
 
-Additionally, if you take the attack action with an unwieldy weapon and use all of your attacks for that round, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
+Additionally, if you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action more than once in one round with an unwieldy weapon, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
 
 ### Velocity
 Advanced firearms shoot projectiles at a higher velocity than all other ranged weapons. While causing less bleeding than arrows, bullets deal more trauma and are very effective at killing quickly. When rolling for damage, roll one additional weapon die then remove the die with the lowest result.

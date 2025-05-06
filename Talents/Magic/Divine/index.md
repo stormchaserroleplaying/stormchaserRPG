@@ -2,7 +2,7 @@
 title: Divine Spellcasting
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 2
+nav_order: 3
 ---
 
 # Divine Spellcasting Talents

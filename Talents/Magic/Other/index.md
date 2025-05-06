@@ -2,7 +2,7 @@
 title: Other
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 3
+nav_order: 4
 ---
 
 # Other Magic Talents

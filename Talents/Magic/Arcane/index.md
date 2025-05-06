@@ -2,7 +2,7 @@
 title: Arcane Spellcasting
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 1
+nav_order: 2
 ---
 
 # Arcane Spellcasting Talents

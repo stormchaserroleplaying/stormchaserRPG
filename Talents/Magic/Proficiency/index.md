@@ -18,12 +18,12 @@ Choose one [spell school](https://stormchaserroleplaying.com/stormchaserRPG/Spel
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Weapon Training
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Spell School Training and a d6 Power Die
 Choose one [spell school](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/) that you are trained to cast spells from. You are considered to be an **expert** in the casting of spells of this school. You add an additional +1d to your attack rolls and spellcasting skill when casting a spell from this school, for a total of +2d.
 
 ## Spell School Mastery
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Weapon Expertise
+#### **Cost:** 35 Character Points<br>**Prerequisite:** Spell School Expertise and a d10 Power Die
 Choose one [spell school](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/) that you are an expert in casting spells from. You are considered to be a **master** of this spell school. You add an additional +1d to your attack rolls and spellcasting skill when casting a spell from this school, for a total of +3d.

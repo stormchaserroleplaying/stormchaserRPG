@@ -51,26 +51,9 @@ You can be a master with a weapon, skill, tool, or defence that you are already 
 ## Purchasing Improved Attributes
 A veteran adventurer may have trained or honed their natural abilities well enough to improve one of their six base attributes. While even the most determined development isn’t enough to turn complete ineptitude into gifted competence, a hard-working adventurer can hone their existing strengths considerably.
 
-Increasing an attribute uses the same character point value scale as at character creation. When you increase an attribute, you pay the difference in cost between the attribute's current value and its new value (see table below).
+Increasing an attribute uses the same character point value scale as at character creation. When you increase an attribute, you pay the difference in cost between the attribute's current value and its new value ([see table](https://stormchaserroleplaying.com/stormchaserRPG/Creation/Attributes/Generation/)).
 
 If you have a species or background bonus to an attribute, disregard this for the purposes of calculating the cost of your attribute increase. Thus, if you have a species or background bonus to an attribute, you can attain a higher value for less character points.
-
-| New Attribute | Character Point Cost |
-|:---------:|:----------:|
-| 7 | 2 |
-| 8 | 2 |
-| 9 | 1 |
-| 10 | 1 |
-| 11 | 1 |
-| 12 | 2 |
-| 13 | 2 |
-| 14 | 5 |
-| 15 | 5 |
-| 16 | 10 |
-| 17 | 10 |
-| 18 | 15 |
-| 19 | 15 |
-| 20 | 20 |
 
 ## Purchasing Additional Spells
 

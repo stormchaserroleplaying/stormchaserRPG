@@ -6,6 +6,20 @@ grand_parent: Talents
 
 # Dragonkin Talents
 
+## Chromatic Warding
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Chromatic Dragonkin Phenotype
+Using 2 actions, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your dragonkin phenotype. Once you use this trait, you can't do so again until you finish a long rest.
+
+## Draconic Flight
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Dragonkin (or only Gem only??)
+You can use 1 action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this talent, you can't do so again until you finish a long rest.
+
 ## Earth Dragon
 
 <div style="margin-top:-10px;"></div>
@@ -19,6 +33,20 @@ You have a burrow speed equal to your walking speed.
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Silver or White Dragonkin Phenotype
 You can move across and climb icy surfaces without needing to make a skill check. Difficult terrain made of ice or snow does not cost you extra movement.
+
+## Metallic Breath Weapon
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Metallic Dragonkin Phenotype
+
+As an action you can use your breath weapon's destructive energy in new ways. Your phenotype determines the size and shape of the exhalation. When you use this trait, choose one of the following:
+
+- **Enervating Breath.** When you use your enervating breath, make a trained Constitution attack roll vs the Constitution defence of each creature in the area. On a hit, a creature becomes incapacitated until the start of your next turn.
+
+- **Repulsion Breath.** When you use your repulsion breath, make a trained Constitution attack roll vs the Constitution defence of each creature in the area. On a hit, a creature is pushed 20 feet away from you and knocked prone.
+
+Once you use your Metallic Breath Weapon, you can't do so again until you finish a long rest.
 
 ## Mountain Dragon
 

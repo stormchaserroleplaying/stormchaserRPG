@@ -26,9 +26,9 @@ Your phenotype ability improves:
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Fallen Celestial Lineage Phenotype<br>**Actions:** 1
 *You unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back.*
 
-The instant that you transform, make a trained Charisma attack roll vs the Charisma defence of other creatures within 10 feet of you that can see you. On a hit, they become frightened of you until the end of your next turn.
+The instant that you transform, make an innate attack roll vs the Charisma defence of all other creatures within 10 feet of you that can see you. On a hit, they become frightened of you until the end of your next turn.
 
-Your transformation lasts for 1 minute or until you end it as an action. During it, once on each of your turns, you can deal extra decay damage to one target when you deal damage to it with an attack or a spell. The extra decay damage equals your Charisma modifier.
+Your transformation lasts for 1 minute or until you end it as an action. During it, once on each of your turns, you can deal extra decay damage to one target when you deal damage to it with an attack or a spell. The extra decay damage is equal to your Constitution modifier.
 
 Once you use this trait, you can't use it again until you finish a long rest.
 

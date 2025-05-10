@@ -10,14 +10,14 @@ grand_parent: Talents
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Chromatic Dragonkin Phenotype
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Chromatic Dragonkin Phenotype and 3rd level spells or a d6 martial die
 Using 2 actions, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the damage type associated with your dragonkin phenotype. Once you use this trait, you can't do so again until you finish a long rest.
 
 ## Draconic Flight
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Dragonkin (or only Gem only??)
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Dragonkin and 3rd level spells or a d6 martial die
 You can use 1 action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this talent, you can't do so again until you finish a long rest.
 
 ## Earth Dragon
@@ -38,9 +38,9 @@ You can move across and climb icy surfaces without needing to make a skill check
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Metallic Dragonkin Phenotype
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Metallic Dragonkin Phenotype and 3rd level spells or a d6 martial die
 
-As an action you can use your breath weapon's destructive energy in new ways. Your phenotype determines the size and shape of the exhalation. When you use this trait, choose one of the following:
+Using 2 actions you can use your breath weapon's destructive energy in new ways. Your phenotype determines the size and shape of the exhalation. When you use this trait, choose one of the following:
 
 - **Enervating Breath.** When you use your enervating breath, make a trained Constitution attack roll vs the Constitution defence of each creature in the area. On a hit, a creature becomes incapacitated until the start of your next turn.
 

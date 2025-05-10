@@ -8,32 +8,7 @@ nav_order: 1
 When you create your character, you receive equipment based on your background. Alternatively, you can start with 5d4 × 10 gp (average 125 gp) and spend them on items from the equipment lists. You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. You might have been equipped with a weapon, armour and a backpack as part of military service. You might even have stolen your gear. A weapon could be a family heirloom, passed down from generation to generation until your character finally took up the mantle and followed in an ancestor's adventurous footsteps.
 
 ## Advanced Characters
-The Starting Wealth table lists the amount of treasure that each PC is expected to have at a specific number of talents, in addition to their starting equipment from background and class.
-
-##### Starting Wealth
-
-| Number of Talents | Wealth |
-|------------------:|-------:|
-| 1* | - |
-| 2 | 60 gp |
-| 3 | 120 gp |
-| 4 | 239 gp |
-| 5 | 393 gp |
-| 6 | 542 gp |
-| 7 | 691 gp |
-| 8 | 1339 gp |
-| 9 | 1987 gp |
-| 10 | 2912 gp |
-| 11 | 4022 gp |
-| 12 | 4947 gp |
-| 13 | 5872 gp |
-| 14 | 6797 gp |
-| 15 | 7629 gp |
-| 16 | 12363 gp |
-| 17 | 17097 gp |
-| 18 | 21831 gp |
-| 19 | 28458 gp |
-| 20 | 35085 gp |
+The [Starting Wealth table](https://stormchaserroleplaying.com/stormchaserRPG/Creation/Equipment/#starting-wealth) lists the amount of treasure that each PC is expected to have at a specific character point value, in addition to their starting equipment from their background.
 
 Note that this table assumes a standard fantasy game. Low-fantasy games might award only half this value, while high-fantasy games might double the value. It is assumed that some of this treasure is consumed in the course of an adventure (such as potions and scrolls) and that some of the less useful items are sold for half value so more useful gear can be purchased.
 

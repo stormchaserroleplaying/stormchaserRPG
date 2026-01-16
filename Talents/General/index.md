@@ -7,13 +7,11 @@ parent: Talents
 
 ## Actorᴮᴳ
 Skilled at mimicry and dramatics, you gain the following benefits:
-* Increase your Charisma score by 1, to a maximum of 20.
-* You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
+* You have +1d on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
 * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
 
 ## Athleteᴮᴳ
 You have undergone extensive physical training to gain the following benefits:
-* Increase your Strength or Dexterity score by 1, to a maximum of 20.
 * When you are prone, standing up uses only 5 feet of your movement.
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
@@ -34,27 +32,23 @@ You have the wisdom associated with the most renowned sages, granting the follow
 
 ## Dungeon Delverᴮᴳ
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
-* Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-* You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
-* Traps have disadvantage to attack you.
-* You have resistance to the damage dealt by traps.
+* You have +1d on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
+* You have +1d to your defences vs. traps.
+* You have resistance vs. damage dealt by traps.
 * You can search for traps while traveling at a normal pace, instead of only at a slow pace.
 
 ## Durableᴮᴳ
 Hardy and resilient, you gain the following benefits:
-* Increase your Constitution score by 1, to a maximum of 20.
 * When you roll a recovery die to regain stamina, the minimum amount of stamina that you regain from the roll is equal to twice your Constitution modifier (minimum of 2).
 
 ## Force of Personalityᴮᴳ
 Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will.
-* Your Charisma score increase by 1, to a maximum of 20.
 * You can use your Charisma modifier instead of your Wisdom modifier when making Insight checks.
 * When an attack would target your Wisdom defence, you can instead use your Charisma Defence.
 
 ## Hagglerᴮᴳ
 Your skills at bartering have granted you the following benefits:
-* Increase your Charisma score by 1 up to a maximum of 20.
-* You have advantage on Charisma (Persuasion) and Charisma (Deception) checks when attempting to barter or trade.
+* You have +1d on Charisma (Persuasion) and Charisma (Deception) checks when attempting to barter or trade.
 * You are always aware of the current monetary value for any mundane or common magical item. Whenever you identify an item, you gain a rough estimate of its current monetary value.
 
 ## Healerᴮᴳ
@@ -69,22 +63,22 @@ You can spend 10 minutes inspiring your companions, shoring up their resolve to 
 
 ## Keen Mindᴮᴳ
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.
-* Increase your Intelligence score by 1, to a maximum of 20.
 * You always know which way is north.
 * You always know the number of hours left before the next sunrise or sunset.
 * You can accurately recall anything you have seen or heard within the past month.
 
 ## Linguistᴮᴳ
 You have studied languages and codes, gaining the following benefits:
-* Increase your Intelligence score by 1, to a maximum of 20.
 * You learn three languages of your choice.
 * You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
 ## Observantᴮᴳ
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
 Quick to notice details of your environment, you gain the following benefits:
-* Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
-* You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks.
 
 ## Overwhelming Presence
 *Prerequisite: Charisma 20 or +2 species bonus to Charisma*<br>

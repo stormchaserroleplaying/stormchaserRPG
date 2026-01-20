@@ -51,24 +51,12 @@ You can be a master with a weapon, skill, tool, or defence that you are already 
 ## Purchasing Improved Attributes
 A veteran adventurer may have trained or honed their natural abilities well enough to improve one of their six base attributes. While even the most determined development isn’t enough to turn complete ineptitude into gifted competence, a hard-working adventurer can hone their existing strengths considerably.
 
-Increasing an attribute uses the same character point value scale as at character creation. When you increase an attribute, you pay the difference in cost between the attribute's current value and its new value ([see table](https://stormchaserroleplaying.com/stormchaserRPG/Creation/Attributes/Generation/)).
+Increasing an attribute uses the same character point value scale as at character creation. When you increase an attribute, you pay the difference in cost between the attribute's current value and its new value ([see table](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Attributes/)).
 
 If you have a species or background bonus to an attribute, disregard this for the purposes of calculating the cost of your attribute increase. Thus, if you have a species or background bonus to an attribute, you can attain a higher value for less character points.
 
 ## Purchasing Additional Spells
-
-| Spell Level | Character Point Cost |
-|:-----------:|:--------------------:|
-| 1st  | 2 |
-| 2nd  | 4 |
-| 3rd  | 6 |
-| 4th  | 8 |
-| 5th  | 10 |
-| 6th  | 12 |
-| 7th  | 14 |
-| 8th  | 16 |
-| 9th  | 18 |
-| 10th | 20 |
+Sponataneous spellcasters, such as sorcerers and warlocks, can purchase additional spells ([see spells](https://stormchaserroleplaying.com/stormchaserRPG/Spells/)).
 
 ## Stamina
 Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your recovery die multiplier to calculate your new stamina maximum. For example, if your character has a d10 recovery die and a Constitution score of 17 and increases their Constitution score from 17 to 18, then their stamina maximum then increases by 4 from 68 to 72.

@@ -56,7 +56,7 @@ Increasing an attribute uses the same character point value scale as at characte
 If you have a species or background bonus to an attribute, disregard this for the purposes of calculating the cost of your attribute increase. Thus, if you have a species or background bonus to an attribute, you can attain a higher value for less character points.
 
 ## Purchasing Additional Spells
-Sponataneous spellcasters, such as sorcerers and warlocks, can purchase additional spells ([see spells](https://stormchaserroleplaying.com/stormchaserRPG/Spells/)).
+Spontaneous spellcasters, such as sorcerers and warlocks, can purchase additional spells ([see spells](https://stormchaserroleplaying.com/stormchaserRPG/Spells/#purchasing-additional-spells)).
 
 ## Stamina
 Character points can be spent to increase your attributes. When your Constitution score increases, your stamina maximum also increases. Multiply your new Constitution score by your recovery die multiplier to calculate your new stamina maximum. For example, if your character has a d10 recovery die and a Constitution score of 17 and increases their Constitution score from 17 to 18, then their stamina maximum then increases by 4 from 68 to 72.

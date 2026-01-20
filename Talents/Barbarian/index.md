@@ -13,7 +13,7 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 |:-------|:--:|:--------------|
 | Rage | 5 | - |
 | Natural Resilience | 5 | - |
-| Berserker's Cry | 5 | Charisma 13 |
+| Berserker's Cry | 5 | Constitution 13 |
 | Rimehand | 10 | 5 CP of Barbarian Talents |
 | Reckless Attack | 10 | Rage plus 5 CP of Barbarian talents |
 | Fast Movement | 20 | Reckless Attack plus 30 CP of Barbarian Talents |
@@ -66,7 +66,7 @@ Additionally, you gain an uncanny sense of when things nearby aren’t as they s
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Charisma 13
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Constitution 13
 *Your cry of bloodthirsty fury inspires those around you to greater acts of violence.*
 
 Once per short rest, as an action, you can unleash a powerful, bloodthirsty scream of battle lust and fury. Allies within 60 feet who can hear your berserker’s cry (including yourself) are heartened and gain a +1 morale bonus on damage rolls made with melee attacks for a number of rounds equal to your Charisma bonus (minimum 1). If you have the ability to rage, you can use this ability as a free action when entering the rage, instead of as a separate action.

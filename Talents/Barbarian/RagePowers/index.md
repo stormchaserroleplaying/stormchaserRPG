@@ -280,8 +280,8 @@ You unleash a terrifying roar that numbs your higher reasoning, but allows you t
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Berserker Cry, 13 Charisma<br>**Rage Point Cost:** 2 Points
-If you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Barbarian/index.md#berserkers-cry) as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Charisma bonus (minimum 1).
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Berserker Cry, 13 Charisma<br>**Rage Point Cost:** 1 Points
+If you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Barbarian/index.md#berserkers-cry) as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Charisma bonus.
 
 ## Reaping
 

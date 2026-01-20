@@ -18,6 +18,6 @@ The GM might call for a Constitution check when you try to accomplish tasks like
 * Quaff an entire stein of ale in one go
 
 ## Stamina
-In combination with your class multiplier, your Constitution score determines your stamina maximum.
+In combination with your recovery die multiplier, your Constitution score determines your stamina maximum.
 
 If your Constitution score changes, your stamina maximum changes as well, as though you had the new score from character creation. For example, if you raise your Constitution score and your Constitution score increases from 13 to 14, you adjust your stamina maximum as though the score had always been 14. So you gain 1 stamina multiplied by your class multiplier. Or if some effect lowers your Constitution score, your stamina maximum is reduced in kind.

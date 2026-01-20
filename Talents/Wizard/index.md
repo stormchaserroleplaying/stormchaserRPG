@@ -11,16 +11,16 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Spellbook        | 5  | Arcane Spellcasting (Wizardry) |
-| Spell Mastery    | 80 | 9th Level Spells and and 110 Points of Wizard Talents |
-| Signature Spells | 50 | 10th Level Spells and 190 Points of Wizard Talents |
-| Archmage         | 50 | 10th Level Spells and 190 Points of Wizard Talents* |
+| Spellbook        | 5  | Arcane Spellcasting |
+| Spell Mastery    | 80 | 9th Level Spells |
+| Signature Spells | 50 | 10th Level Spells |
+| Archmage         | 50 | 10th Level Spells |
 
 ### Spellbook
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting (Wizardry)
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 Your spellbook is the repository of the arcane spells that you know. On your adventures, you might find other spells that you can add to your spellbook.
 
 #### Copying a Spell into the Book

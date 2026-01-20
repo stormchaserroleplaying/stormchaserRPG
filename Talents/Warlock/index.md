@@ -51,11 +51,6 @@ Your patron gives you an amulet, a talisman that can aid the wearer when the nee
 
 If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
 
-#### Pact of the Tome
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose any three cantrips from the arcane or divine list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the arcan spell list, they are nonetheless arcane spells for you.
-
-If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
-
 ### Unchained
 
 <div style="margin-top:-10px;"></div>

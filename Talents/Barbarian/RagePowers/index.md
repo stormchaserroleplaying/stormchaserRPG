@@ -42,7 +42,7 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Moon Totem, Greater  | 25 | Moon Totem |
 | Powerful Blow  | 5  | - |
 | Primal Instinct  | 10 | - |
-| Raging Skald  | 5  | Berserker Cry |
+| Raging Skald  | 5 | Berserker's Cry |
 | Reaping | 10 | - |
 | Rip and Tear  | 15 | - |
 | Rolling Dodge  | 5  | - |
@@ -223,7 +223,9 @@ As an action, you can grant allies within 30 feet the benefit (and penalty) of y
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds. If the check exceeds the target's defense by 5 or more, the duration is extended by 1 round for every 5 points above the target's defense score.
+Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds.
+
+If multiple dice in your Intimidation dice pool hit the target's Charisma defence, then the duration is extended by 1 round for every additional die beyond the first.
 
 ## Knockdown
 
@@ -280,8 +282,8 @@ You unleash a terrifying roar that numbs your higher reasoning, but allows you t
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Berserker Cry, 13 Charisma<br>**Rage Point Cost:** 1 Points
-If you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Barbarian/index.md#berserkers-cry) as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Charisma bonus.
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Berserker's Cry, 13 Charisma<br>**Rage Point Cost:** 1 Point
+When you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Barbarian/index.md#berserkers-cry) as you enter a rage or during a rage, the damage bonus increases to +2 and lasts an additional number of rounds equal to your Charisma bonus.
 
 ## Reaping
 

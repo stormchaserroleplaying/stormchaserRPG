@@ -223,7 +223,7 @@ As an action, you can grant allies within 30 feet the benefit (and penalty) of y
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe as an action. If your skill check equals or exeeds the target's passive insight, then the foe is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds + 1 round for every 5 points by which your check exceeds the DC.
+Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds. If the check exceeds the target's defense by 5 or more, the duration is extended by 1 round for every 5 points above the target's defense score.
 
 ## Knockdown
 
@@ -281,7 +281,7 @@ You unleash a terrifying roar that numbs your higher reasoning, but allows you t
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Berserker Cry<br>**Rage Point Cost:** 2 Points
-If you unleash a [Berserker’s Cry]() as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Constitution bonus (if any).
+If you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Combat/index.md#berserkers-cry) as you enter a rage or during a rage, the bonus granted increases to +2 and lasts an additional number of rounds equal to your Charisma bonus (minimum 1).
 
 ## Reaping
 

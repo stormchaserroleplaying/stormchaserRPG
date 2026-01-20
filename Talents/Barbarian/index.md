@@ -13,6 +13,7 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 |:-------|:--:|:--------------|
 | Rage | 5 | - |
 | Natural Resilience | 5 | - |
+| Berserker's Cry | 5 | Charisma 13 |
 | Rimehand | 10 | 5 CP of Barbarian Talents |
 | Reckless Attack | 10 | Rage plus 5 CP of Barbarian talents |
 | Fast Movement | 20 | Reckless Attack plus 30 CP of Barbarian Talents |

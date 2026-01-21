@@ -46,7 +46,7 @@ You always have the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spe
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 10 CP of Paladin Talents
-When you hit a creature with a melee weapon attack, you can expend mana to deal sacred damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per point of mana expended. The maximum amount of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
+When you hit a creature with a melee weapon attack, you can expend mana to deal sacred damage to the target, in addition to the weapon's damage. The extra damage is 1dP per point of mana expended. The maximum amount of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1dP if the target is an undead or a fiend.
 
 ### Divine Health
 

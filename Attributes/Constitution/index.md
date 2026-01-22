@@ -20,4 +20,4 @@ The GM might call for a Constitution check when you try to accomplish tasks like
 ## Stamina
 In combination with your recovery die multiplier, your Constitution score determines your stamina maximum.
 
-If your Constitution score changes, your stamina maximum changes as well, as though you had the new score from character creation. For example, if you raise your Constitution score and your Constitution score increases from 13 to 14, you adjust your stamina maximum as though the score had always been 14. So you gain 1 stamina multiplied by your class multiplier. Or if some effect lowers your Constitution score, your stamina maximum is reduced in kind.
+Your maximum stamina is determined by your Constitution score and [Recovery Die](https://github.com/stormchaserroleplaying/stormchaserRPG/blob/main/Talents/Die/Recovery/index.md#d6-recovery-die) size. At minimum, your stamina equals your Constitution score. Each time you increase your Recovery die size, your maximum stamina increases. If you are missing any stamina at that time, you stay at the same stamina amount. 

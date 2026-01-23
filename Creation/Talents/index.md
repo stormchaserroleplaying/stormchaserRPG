@@ -10,20 +10,20 @@ When creating a character, after generating your attribute scores (e.g. for 30 c
 | Benefit | Character Points |
 |:-------:|:----------------:|
 | Armour Expertise | 5 |
+| Language (Accented) | 5 |
+| Tool Expertise | 5 |
 | Defence Training | 5 |
 | Spell School Training | 5 |
 | Weapon Training | 2 |
 | Skill Training | 2 |
-| Tool Expertise | 2 |
-| Language (Accented) | 2 |
 | Armour Training | 1 |
 | Subskill | 1 |
 | Tool Training | 1 |
 | Language (Broken) | 1 |
 
 * Feature costs are listed in the entry for that specific talent.
-* You cannot purchase expertise in a tool, unless you are already trained with that tool. Thus, the total cost to go from untrained to expert is 3 points.
-* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus, the total cost to go from untrained to accented is 3 points.
+* You cannot purchase expertise in a tool, unless you are already trained with that tool. Thus, the total cost to go from untrained to expert is 6 points.
+* You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus, the total cost to go from untrained to accented is 6 points.
 * You may purchase only one subskill in an untrained skill. If you would purchase a second subskill, then the two points combine to grant training in that skill and you lose both subskills.
 * When you permanently increase your Intelligence modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 

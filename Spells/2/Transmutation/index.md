@@ -30,6 +30,15 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance and they gain DR 8 and coverage 1-2, 8-16. The effects of this spell do not stack with worn armour.
 
+## Darkvision
+*2nd level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(A drided carrot.)*<br>
+**Duration:** 8 hours
+
+For the duration, a willing creature you touch has [darkvison](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) to a range of 150 feet.
+
 ## Disfiguring Touch
 *2nd level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
@@ -113,6 +122,17 @@ Choose a willing creature that you can see within range. Magic empowers the targ
 When the spell ends, the target can't move and suffers -1d to Dexterity defence until after its next turn, as a wave of lethargy sweeps over it.
 
 **At Higher Levels.** If you cast this spell using 3 mana or more, then the target also gains +1d to melee and ranged attacks. If you cast this spell using 4 mana or more, then the target gains an additional action on each of its turns.
+
+## Levitate
+*2nd Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M *(A metal spring.)* <br>
+**Duration:** Sustained, 10 minutes
+
+One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution defence check is unaffected.
+
+**At Higher Levels.** When you cast this spell using 3 or mana, you can choose to add an additional 20 feet or lift an additional 500 pounds for each additional mana used.
 
 ## Magic Weapon
 *2nd Level Transmutation*<br>

@@ -24,7 +24,7 @@ The creature becomes indifferent about creatures of your choice that it’s host
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet<br>
 **Components:** V, S<br>
-**Duration:** Sustained
+**Duration:** Sustained, 1 mintue
 
 Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head and a madness glows in its eyes.
 
@@ -57,7 +57,7 @@ At the end of each of its turns, a creature affected by this spell can make anot
 **At Higher Levels:** When you cast this spell using 3 or more mana, the distance from the stele at which the spell is effective increases by 10 feet for every point of mana beyond the first.
 
 ## Zone of Truth
-*2nd level Charm*<br>
+*2nd level Charm (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet (20-foot radius sphere)<br>
 **Components:** V, S<br>

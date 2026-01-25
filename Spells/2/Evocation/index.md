@@ -91,7 +91,7 @@ If the target being pushed would be moved into a creature of its own size or sma
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A legume seed.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 For the spell's duration, a line of strong wind 60 feet long and 10 feet wide blasts from you in a direction of your choice.
 
@@ -112,7 +112,7 @@ On each of your turns before the spell ends, you can use 1 action to change the 
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet (5-foot radius)<br>
 **Components:** V, S, M *(Several seeds of any moonseed plant and a piece of opalescent feldspar.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 

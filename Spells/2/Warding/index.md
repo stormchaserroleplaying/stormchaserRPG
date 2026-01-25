@@ -52,6 +52,15 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 **At Higher Levels:** When you cast this spell using 3 mana, the duration increases to 8 hours. If you case this spell using 4 mana, the duration increases to 24 hours.
 
+## Protection from Poison
+*2nd level Ward (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S
+**Duration:** 1 Hour
+
+You touch a creature and end the [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) condition on it. For the duration, the target has +1d on defence checks to avoid or end the [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) condition, and it gains 1 instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) against poison damage.
+
 ## Warding Bond
 *2nd level Ward (Ritual)*<br>
 **Casting Time:** 2 Actions<br>

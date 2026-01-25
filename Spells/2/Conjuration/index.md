@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 For the duration, you are encased fully in a bubble of air. The bubble is a sphere that extends out in a 10 foot radius centered on you, moves with you, and is fully transparent and permeable by creatures, weapons, items, objects, spells, and terrain, none of which pop the bubble. Any creatures within the bubble are able to breathe fresh air, regardless of what is outside the bubble. Should the bubble be submerged in liquid, creatures within the bubble cannot swim. Rather, creatures other than yourself may use their normal movement speed to exit the bubble, and, while inside the bubble with you, friendly creatures move along with the bubble. 
 
@@ -67,7 +67,7 @@ You disappear in a cloud of mist, teleporting up to 30 feet to an unoccupied spa
 **Casting Time:** 1 Minute<br>
 **Range:** Touch<br>
 **Components:** V, S, M<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 A statue of animated stone constructs itself. It stands twice your height and is decorated and painted to mimic that of a famed warlord. It will follow in your footsteps for the spell's duration, or until you use 1 action to command it to take one of the following actions:
 * **Attack:** The statue charges to strike. Make a melee conjuration attack against a target that you can see within 30 feet of the statue. On a hit, this attack deals 5d6 bludgeoning damage.

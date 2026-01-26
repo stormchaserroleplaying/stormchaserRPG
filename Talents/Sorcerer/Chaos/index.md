@@ -26,6 +26,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 Your spellcasting can unleash surges of untamed magic. Once per turn, after you cast an arcane spell of 1st level or higher, you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration.
 
 #### Wild Magic Surge
+
 | d100 | Effect |
 |:----:|:-------|
 | 1-2    | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |

@@ -15,18 +15,18 @@ grand_parent: Spells
 
 *You hurl a bubble of acid.*
 
-Choose one or two targets that you can see within range. If you choose two, then they must be within 5 feet of each other. Make a conjuration attack roll vs the target's Dexterity defence. On a hit, a target takes 1d6 + your spellcasting ability modifier corrosive damage.
+Choose one or two targets that you can see within range. If you choose two, then they must be within 5 feet of each other. Make a conjuration attack roll vs the target's Dexterity defence. On a hit, a target takes 2d8 + your spellcasting ability modifier corrosive damage.
 
 ## Create Bonfire
 *Conjuration Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *You create a bonfire on the ground.*
 
-Until the spell ends, the magic bonfire fills a 5-foot cube on ground that you can see. Make a conjuration attack roll vs the Dexterity defence of any creature in the bonfire’s space when you cast the spell. On a hit, the creature takes 1d8 fire damage. A creature must also make a Dexterity defence check vs your conjuration spell skill when it moves into the bonfire’s space for the first time on a turn or ends its turn there. On a failure, the creature takes 1d8 + your spellcasting ability modifier fire damage.
+Until the spell ends, the magic bonfire fills a 5-foot cube on ground that you can see. Make a conjuration attack roll vs the Dexterity defence of any creature in the bonfire’s space when you cast the spell. On a hit, the creature takes 2d6 + your spellcasting ability modifier fire damage. A creature must also make a Dexterity defence check vs your conjuration spell skill when it moves into the bonfire’s space for the first time on a turn or ends its turn there. On a failure, the creature takes 2d6 + your spellcasting ability modifier fire damage.
 
 The bonfire ignites flammable objects in its area that aren't being worn or carried.
 
@@ -39,7 +39,7 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 
 *You cause a cloud of mites, fleas and other parasites to appear momentarily.*
 
-Make a conjuration attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d6 + your spellcasting ability modifier poison damage and moves 5 feet in a random direction, if it can move and its speed is at least 5 feet. Roll a d8 for the direction: 1, north; 2, northeast; 3, east; 4, southeast; 5, south; 6, southwest; 7, west; 8, northwest. This movement does not provoke attacks of opportunity. If the direction rolled is blocked, then the target does not move.
+Make a conjuration attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 2d8 + your spellcasting ability modifier poison damage and moves 5 feet in a random direction, if it can move and its speed is at least 5 feet. Roll a d8 for the direction: 1, north; 2, northeast; 3, east; 4, southeast; 5, south; 6, southwest; 7, west; 8, northwest. This movement does not provoke attacks of opportunity. If the direction rolled is blocked, then the target does not move.
 
 ## Mage Hand
 *Conjuration Cantrip*<br>
@@ -56,8 +56,6 @@ You can use 2 actions to control the hand. You can use the hand to manipulate an
 
 The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the weight limit increases to 20 pounds.
-
 ## Poison Spray
 *Conjuration Cantrip*<br>
 **Casting Time:** 2 Actions<br>
@@ -67,7 +65,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *A puff of noxious gas sprays from the palm of your hand.*
 
-Make a conjuration attack roll vs the Constitution defence of one creature that you can see within range. On a hit, it takes 1d12 + your spellcasting ability modifier poison damage.
+Make a conjuration attack roll vs the Constitution defence of one creature that you can see within range. On a hit, it takes 2d8 + your spellcasting ability modifier poison damage.
 
 ## Produce Flame
 *Conjuration Cantrip*<br>
@@ -80,7 +78,7 @@ Make a conjuration attack roll vs the Constitution defence of one creature that 
 
 You summon a flame in the palm of your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as a free action, or if you cast it again.
 
-You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as 2 actions on a later turn, you can hurl the flame at a target within 30 feet of you. Make a ranged conjuration attack. On a hit, the target takes 1d8 + your spellcasting ability modifier fire damage.
+You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as 2 actions on a later turn, you can hurl the flame at a target within 30 feet of you. Make a ranged conjuration attack. On a hit, the target takes 2d6 + your spellcasting ability modifier fire damage.
 
 ## Sword Burst
 *Conjuration Cantrip*<br>
@@ -91,4 +89,4 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 *You create a momentary circle of spectral blades that sweep around you.*
 
-Make conjuration attack rolls vs the Dexterity defence of all other creatures within 5 feet of you. On a hit, they take 1d6 + your spellcasting ability modifier energy damage.
+Make conjuration attack rolls vs the Dexterity defence of all other creatures within 5 feet of you. On a hit, they take 1d12 + your spellcasting ability modifier energy damage.

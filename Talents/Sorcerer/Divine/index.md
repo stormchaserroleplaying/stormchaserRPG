@@ -73,7 +73,7 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 If you already know any of these spells (e.g. from [Celestial Legacy](https://stormchaserroleplaying.com/stormchaserRPG/Species/Lineages/Celestial/#celestial-legacy), or [Lay on Hands](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Paladin/#lay-on-hands)), then you may pick another spell of the same level and [school of magic](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/).
 
 ### Divine Magic
-When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes a mage spell for you.
+When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes an arcane spell for you.
 
 ## Talents
  

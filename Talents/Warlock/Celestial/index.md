@@ -30,16 +30,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Healing Light        | 5  | - |
-| Radiant Soul         | 10 | 3rd Level Spells and Healing Light |
-| Celestial Resilience | 35 | 5th Level Spells and Radiant Soul |
-| Searing Vengeance    | 50 | 7th Level Spells and Celestial Resilience |
+| Healing Light        | 5  | Arcane Spellcasting |
+| Radiant Soul         | 20 | 3rd Level Arcane Spells and Healing Light |
+| Celestial Resilience | 30 | 5th Level Arcane Spells and Radiant Soul |
+| Searing Vengeance    | 50 | 7th Level Arcane Spells and Celestial Resilience |
 
 ###  Healing Light
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *You channel celestial energy to heal wounds.*
 
 You have a pool of recovery dice that you spend to fuel this healing. The number of dice in the pool equals two times your maximum spell level.
@@ -52,7 +52,7 @@ Your pool regains all expended dice when you finish a long rest.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Healing Light
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Healing Light
 *Your link to the celestial allows you to serve as a conduit for sacred energy.*
 
 You have resistance to sacred damage.
@@ -63,7 +63,7 @@ Additionally, when you cast a spell of 1st level or higher that deals sacred or 
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Radiant Soul
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Radiant Soul
 *Your patron bolsters the vigour of you and your allies.*
 
 When you finish a short or long rest, you gain temporary Stamina equal to twice your maximum spell level plus your spellcasting ability modifier. Additionally, choose up to five creatures that you can see at the end of the rest. Those creatures each gain temporary Stamina equal to your maximum spell level plus your spellcasting ability modifier.
@@ -72,7 +72,7 @@ When you finish a short or long rest, you gain temporary Stamina equal to twice 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Celestial Resilience
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Celestial Resilience
 *The radiant energy that you channel allows you to resist death.*
 
 When you have to make a recovery check at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain Stamina equal to half your maximum stamina and can stand if you so choose. Each creature of your choice that is within 30 feet of you takes sacred damage equal to 2d8 + your spellcasting ability modifier, and it is [Blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/) until the end of the current turn.

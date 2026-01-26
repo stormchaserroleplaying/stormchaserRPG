@@ -58,7 +58,7 @@ For each additional action you use when Casting the Spell, you can fire an addit
 | The Undead | 1d12 | Decay or Profane |
 | The Undying | 1d12 | Energy |
 
-** If you hit the target with this spell, the damage can apply to the stamina of the target of the integity that the target is wearing or carrying.
+** If you hit the target with this spell, the damage can apply to the stamina of the target or the integity of an item that the target is wearing or carrying.
 *** If the target takes damage from this spell, it's speed is reduced by 10 feet until the beginning of your next turn
 
 ## Fire Bolt
@@ -92,7 +92,7 @@ Make an evocation attack roll vs the Constitution defence of one creature that y
 
 *Your weapon is covered in a green flame that can leap to another nearby foe.*
 
-You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one creature. On a hit, the target suffers the weapon attack’s normal effects and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes 1d6 fire damage.
+You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one creature. On a hit, the target suffers the weapon attack’s normal effects and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The melee attack deals an extra 1d6 fire damage to the target on a hit and the second creature takes fire damage equal to 1d6 + your spellcasting attribute modifier.
 
 ## Light
 *Evocation Cantrip*<br>
@@ -118,7 +118,7 @@ You can create a permanent light by casting this spell on the same object every 
 
 *You create a rope of lightning that pulls your target closer to you then delivers a shock them.*
 
-Make an evocation attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 3d4 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
+Make an evocation attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 2d4 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
 
 ## Ray of Frost
 *Evocation Cantrip*<br>
@@ -173,7 +173,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 *You emit a burst of thunderous energy.*
 
-Make an evocation attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 3d4 + your spellcasting ability modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
+Make an evocation attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 2d4 + your spellcasting ability modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
 
 ## Touch of Combustion
 *Evocation Cantrip*<br>
@@ -184,7 +184,7 @@ Make an evocation attack roll vs the Constitution defence of each creature other
 
 *You set a creature alight with fire that can spread to others.*
 
-Make a melee evocation attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 1d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make an evocation attack vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they take 1d6 fire damage.
+Make a melee evocation attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 2d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make an evocation attack vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they also take 2d6 fire damage.
 
 ## Word of Radiance
 *Evocation Cantrip*<br>

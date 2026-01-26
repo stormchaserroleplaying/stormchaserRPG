@@ -10,19 +10,19 @@ The Stormchaser RPG allows you to build a character with a set of attributes tha
 
 | Attribute | Point cost at creation |
 |:---------:|:----------------------:|
-| 6 | -6 |
-| 7 | -4 |
-| 8 | -2 |
-| 9 | -1 |
-| 10 | 0 |
-| 11 | 1 |
-| 12 | 3 |
-| 13 | 5 |
-| 14 | 10 |
-| 15 | 15 |
-| 16 | 25 |
-| 17 | 35 |
-| 18 | 50 |
+| 6  | -14 |
+| 7  | -9  |
+| 8  | -4  |
+| 9  | -2  |
+| 10 | 0   |
+| 11 | 1   |
+| 12 | 3   |
+| 13 | 5   |
+| 14 | 10  |
+| 15 | 15  |
+| 16 | 25  |
+| 17 | 35  |
+| 18 | 55  |
 
 For example, a score of 14 is worth 10 points. 
 

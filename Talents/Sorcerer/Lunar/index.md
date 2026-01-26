@@ -50,19 +50,18 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Lunar Embodiment  | 5  | - |
-| Moon Fire         | 5  | - |
-| Lunar Boons I     | 5  | 3nd Level Spells, Lunar Embodiment and Moon Fire |
-| Waxing & Waning   | 5  | 3nd Level Spells, Lunar Embodiment and Moon Fire |
-| Lunar Boons II    | 5  | 7th Level Spells, Lunar Boons I and Waxing & Waning |
-| Lunar Empowerment | 45 | 7th Level Spells, Lunar Boons I and Waxing & Waning |
-| Lunar Phenomenon  | 80 | 9th Level Spells and Lunar Empowerment |
+| Lunar Embodiment  | 2  | Arcane Spellcasting |
+| Moon Fire         | 3  | Arcane Spellcasting |
+| Lunar Boons       | 10 | 3nd Level Arcane Spells, Lunar Embodiment and Moon Fire |
+| Waxing & Waning   | 10 | 3nd Level Arcane Spells, Lunar Embodiment and Moon Fire |
+| Lunar Empowerment | 50 | 7th Level Arcane Spells, Lunar Boons and Waxing & Waning |
+| Lunar Phenomenon  | 80 | 9th Level Arcane Spells and Lunar Empowerment |
 
 ###  Lunar Embodiment
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 2 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *The moon provides you with an additional well of power.*
 
 You can cast the 1st level spell on your chosen lunar phase spell list one time without expending any mana. Once you cast a spell in this way, you can’t do so again until you finish a long rest.
@@ -71,16 +70,16 @@ You can cast the 1st level spell on your chosen lunar phase spell list one time 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 3 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *You call down the radiant light of the moon on command.*
 
 You learn the [Sacred Flame](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#sacred-flame) spell, which doesn’t count against the number of mage cantrips you know. When you cast this spell, you can target one creature as normal or target two creatures within range that are within 5 feet of each other.
 
-### Lunar Boons I
+### Lunar Boons
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3nd Level Spells, Lunar Embodiment and Moon Fire
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3nd Level Arcane Spells, Lunar Embodiment and Moon Fire
 *The moon influences the flow of magic for your other abilities.*
 
 Your current lunar phase can affect your Arcane Savant feature. Each phase is associated with certain schools of magic, as shown here:
@@ -91,31 +90,24 @@ Your current lunar phase can affect your Arcane Savant feature. Each phase is as
 
 **Crescent Moon:** Illusion and transmutation spells
 
-Whenever you use an Arcane Savant option on a spell of a school of magic associated with your current phase, you can reduce the additional mana needed to use the option by 1 (minimum 0). Once you reduce the mana in this way, you can’t do so again until you complete a short or long rest.
+Whenever you use an Arcane Savant option on a spell from a school of magic associated with your current Lunar Embodiment phase, you can reduce the additional mana needed to use the option by 1 (minimum 0). You can reduce the mana spent on Arcane Savant a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
 
 ###  Waxing & Waning
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3nd Level Spells, Lunar Embodiment and Moon Fire<br>**Actions:** 1
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3nd Level Arcane Spells, Lunar Embodiment and Moon Fire<br>**Actions:** 1
 *You gain greater control over the phases of your lunar magic.*
 
 You can spend 1 mana to change your current lunar phase to a different one.
 
 You can now cast one 1st level spell from each lunar phase bonus spell list once without expending a spell slot, provided your current phase is the same as the lunar phase spell. Once you cast a lunar phase spell in this way, you can’t do so again until you finish a long rest.
 
-### Lunar Boons II
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 7th Level Spells, Lunar Boons I and Waxing & Waning
-You can now use your Lunar Boon ability twice before needing to complete a rest.
-
 ### Lunar Empowerment
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 45 Character Points<br>**Prerequisite:** 7th Level Spells, Lunar Boons I and Waxing & Waning
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells, Lunar Boons and Waxing & Waning
 *The power of a lunar phase saturates your being.*
 
 You gain the following benefit associated with your chosen lunar phase:
@@ -130,7 +122,7 @@ You gain the following benefit associated with your chosen lunar phase:
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Lunar Empowerment<br>**Actions:** 1
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Lunar Empowerment<br>**Actions:** 1
 *You can tap into a special power of your current lunar phase.*
 
 Using 1 Action, or as part of the 1 Action you take to change your lunar phase using the Waxing & Waning feature, you can immediately use the power of the lunar phase you are in or entering:

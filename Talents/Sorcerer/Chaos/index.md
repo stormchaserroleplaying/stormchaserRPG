@@ -84,16 +84,16 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, after you 
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Tides of Chaos    | 5  | - |  
-| Bend Luck         | 10 | 3nd Level Spells and Tides of Chaos |  
-| Controlled Chaos  | 50 | 7th Level Spells and Bend Luck |  
-| Spell Bombardment | 80 | 9th Level Spells and Controlled Chaos |  
+| Tides of Chaos    | 5  | Arcane Spellcasting |  
+| Bend Luck         | 20 | 3nd Level Arcane Spells and Tides of Chaos |  
+| Controlled Chaos  | 50 | 7th Level Arcane Spells and Bend Luck |  
+| Spell Bombardment | 80 | 9th Level Arcane Spells and Controlled Chaos |  
 
 ###  Tides of Chaos
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *You manipulate the forces of chance and chaos.* 
 
 You can grant yourself +1d on one attack roll, ability check, or defense check. Once you do so, you must finish a long rest before you can use this feature again.
@@ -104,7 +104,7 @@ Any time before you regain the use of this feature, if you roll on the Wild Magi
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Tides of Chaos<br> **Actions:** Free<br>**Trigger:** A creature you see, besides yourself, makes an attack roll, ability check or defense check. 
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Tides of Chaos<br> **Actions:** Free<br>**Trigger:** A creature you see, besides yourself, makes an attack roll, ability check or defense check. 
 *You draw upon your wild magic to twist fate of others.*
 
 You expend 2 mana to apply a bonus or penalty of 1d to the creature’s roll.
@@ -115,7 +115,7 @@ When you roll initiative and on your turn you can declare what creature you wish
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Bend Luck
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Bend Luck
 *You gain a shread of control over the chaos that fuels your magic.* 
 
 Whenever you roll on the Wild Magic Surge table, you can roll twice and use either number.
@@ -124,7 +124,7 @@ Whenever you roll on the Wild Magic Surge table, you can roll twice and use eith
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Controlled Chaos
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Controlled Chaos
 *The harmful energy of your spells intensifies.* 
 
 When you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use the ability only once per turn.

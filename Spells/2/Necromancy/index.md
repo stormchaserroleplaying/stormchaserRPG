@@ -28,4 +28,4 @@ You invoke both death and life upon a 10-foot-radius sphere centered on a point 
 
 In addition, one creature of your choice in that area gains Stamina equal to 1dR plus your spellcasting ability modifier.
 
-**At higher levels:** When you cast this spell using 3 or more mana, the damage is increased by 1d6 and the Stamina gained is increased by 1dR.
+**At higher levels:** When you cast this spell using 3 or more mana, the damage is increased by 1d6 and the Stamina gained is increased by 1dR for each additional mana used. 

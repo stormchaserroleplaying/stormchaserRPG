@@ -20,7 +20,7 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Battle Roar  | 10  | Intimidating Glare |
 | Blood For Blood  | 5 | - |
 | Bone Breaker  | 10 | - |
-| Celestial Totem, Lesser  | 5  | - |
+| Celestial Totem, Lesser  | 5 | - |
 | Celestial Totem | 15 | Celestial Totem, Lesser |
 | Celestial Totem, Greater  | 35 | Celestial Totem |
 | Clear Mind  | 5  | - |
@@ -47,6 +47,7 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Rend | 10 | - |
 | Rip and Tear  | 15 | - |
 | Rolling Dodge  | 5  | - |
+| Savage Resurgence | 5 | - |
 | Scatter the Hordes  | 15 | - |
 | Seize the Prey | 10 | - |
 | Shadow Totem, Lesser  | 5  | - |
@@ -126,21 +127,21 @@ When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormch
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Whenever you are subject to a spell that restores Stamina, you can activate this power at the start of your next turn to recover additional stamina equal to double the amount of mana spent on the spell.
+You can spend one rage point to cast the [Detect Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-evil-and-good) spell.
 
 ## Celestial Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Celestial Totem, Lesser<br>**Rage Point Cost:** 2 Points
-This effect bestows a halo of gleaming light upon you while raging. The halo shines as if it were daylight and removes the [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) condition from all creatures in a 15 foot radius. If an ally with a negative condition begins their turn in this light, then they receive +1d on the first check to remove the condition.
+You can spend two rage points to bestow a halo of gleaming light upon yourself while raging. The halo shines as if it were daylight and removes the [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) condition from all non-good creatures in your square and each adjacent square.
 
 ## Celestial Totem, Greater
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Celestial Totem<br>**Rage Point Cost:** 2 Points
-While raging, the first time you are affected by a hostile spell each round, you receive +1d to the targeted defense. The first time you would take damage from a spell each round, reduce the damage by -1d. If the spell only has 1 damage die, you gain resistance to the damage instead.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Celestial Totem<br>**Rage Point Cost:** 2 Points
+You can spend two rage points to gain +1d to all defenses vs spells with the Evil trait and +1d to all defences vs spells and effects from evil creatures.
 
 ## Clear Mind
 
@@ -316,6 +317,13 @@ When you use the Rend rage power to deal additional damage to a target, you may 
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
 Your Dexterity defense vs ranged attacks increases by +1d for a number of rounds equal to your Constitution modifier.
+
+## Savage Resurgence
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+Whenever you are subject to a spell that restores Stamina, you can activate this power at the start of your next turn to recover additional stamina equal to double the amount of mana spent on the spell.
 
 ## Scatter the Hordes
 

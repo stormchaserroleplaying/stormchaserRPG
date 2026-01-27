@@ -44,6 +44,7 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Primal Instinct  | 10 | - |
 | Raging Skald  | 5 | Berserker's Cry |
 | Reaping | 10 | - |
+| Rend | 10 | - |
 | Rip and Tear  | 15 | - |
 | Rolling Dodge  | 5  | - |
 | Scatter the Hordes  | 15 | - |
@@ -188,7 +189,7 @@ When you roll a martial feat die to deal damage, you can change the damage type 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Rage Point Cost:** 3 Points
-When you hit with a melee attack, you can make a free rage attack roll vs. the target's Constitution defense. On a hit, you force the target to roll for a [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
+When you hit with a melee attack, you can spend three rage points to make a rage attack roll vs the target's Constitution defense as a free action. On a hit, you force the target to roll for a [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
 
 ## Focus of the Ascetic
 
@@ -295,12 +296,19 @@ When you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1-3 Points
 When you hit a target, you can expend rage points to gain temporary Stamina equal to 1dR per rage point spent.
 
+## Rend
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Points
+When you deal damage to the same target with two separate weapons in a single turn, you spend one rage point to inflict additional damage equal to your Strength modifier. This damage takes the same type as one of the original attacks.
+
 ## Rip and Tear
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Rage Point Cost:** 2 Points
-Immediately after you deal damage with two consecutive [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) actions, you can inflict additional damage equal to your Strength modifier to the target. This damage takes the same type as one of the original attacks.
+#### **Cost:** 15 Character Points<br>**Prerequisites:** Rend and Fleshrender<br>**Rage Point Cost:** 1 Points
+When you use the Rend rage power to deal additional damage to a target, you may spend one rage point to trigger the Fleshrender rage power, instead of the usual three rage points.
 
 ## Rolling Dodge
 

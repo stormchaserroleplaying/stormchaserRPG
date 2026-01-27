@@ -41,6 +41,11 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 Hardy and resilient, you gain the following benefits:
 * When you roll a recovery die to regain stamina, the minimum amount of stamina that you regain from the roll is equal to twice your Constitution modifier (minimum of 2).
 
+## Eidetic Recall
+COST: 20 CHARACTER POINTS
+
+Whenever you make a skill check from the following skills (Arcana, Lore, Nature, or Theology) with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10. 
+
 ## Force of Personalityᴮᴳ
 Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will.
 * You can use your Charisma modifier instead of your Wisdom modifier when making Insight checks.
@@ -60,6 +65,14 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 *Prerequisite: Charisma 13 or higher*
 
 You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature gains temporary stamina equal to your Charisma score. A creature can’t gain temporary stamina from this feat again until it has finished a short or long rest.
+
+## Intellectual Alacrity
+COST: 5 CHARACTER POINTS
+
+You have learned to let your mind guide your actions over your body in moments of stress. 
+
+When you roll for Initiative, you may roll using your Intelligence modifier in lieu of your Dexterity modifier.
+
 
 ## Keen Mindᴮᴳ
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.

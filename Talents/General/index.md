@@ -24,6 +24,14 @@ You have undergone extensive physical training to gain the following benefits:
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
+## Cryptographer
+
+<div style="margin-top:-10px;"></div>
+
+#### **Prerequisite:** Intelligence 13 or higher
+You have studied languages and codes, gaining the following benefits:
+* You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Investigation check (DC equal to your Investigation skill), or they use magic to decipher it.
+
 ## Cunning Intellect
 
 <div style="margin-top:-10px;"></div>
@@ -108,15 +116,6 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 * You always know which way is north.
 * You always know the number of hours left before the next sunrise or sunset.
 * You can accurately recall anything you have seen or heard within the past month.
-
-## Linguist
-
-<div style="margin-top:-10px;"></div>
-
-#### **Prerequisite:** Intelligence 13 or higher
-You have studied languages and codes, gaining the following benefits:
-* You learn three languages of your choice.
-* You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
 
 ## Observant
 

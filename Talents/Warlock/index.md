@@ -11,8 +11,8 @@ has_children: true
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Eldritch Invocations | 5   | 1 Warlock Branch Talent |
-| Pact Boon            | 15  | 2nd Level Spells and Eldritch Invocations |
-| Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
+| Pact Boon            | 15  | 2nd Level Arcane Spells and Eldritch Invocations |
+| Unchained            | 100 | 10th Level Arcane Spells |
 
 ### Eldritch Invocations
 

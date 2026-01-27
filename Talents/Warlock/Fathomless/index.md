@@ -33,11 +33,11 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Tentacle of the Deep | 3  | Arcane Spellcasting |
-| Gift of the Sea         | 2  | Arcane Spellcasting |
-| Oceanic Soul            | 10 | 3rd Level Arcane Spells and Gift of the Sea |
-| Guardian Coil           | 10 | 3rd Level Arcane Spells and Tentacle of the Deep |
-| Grasping Tentacles      | 30 | 5th Level Arcane Spells and Guardian Coil |
-| Fathomless Plunge       | 50 | 7th Level Arcane Spells and Grasping Tentacles |
+| Gift of the Sea      | 2  | Arcane Spellcasting |
+| Oceanic Soul         | 10 | 3rd Level Arcane Spells and Gift of the Sea |
+| Guardian Coil        | 10 | 3rd Level Arcane Spells and Tentacle of the Deep |
+| Grasping Tentacles   | 30 | 5th Level Arcane Spells and Guardian Coil |
+| Fathomless Plunge    | 50 | 7th Level Arcane Spells and Grasping Tentacles |
 
 ###  Tentacle of the Deep
 

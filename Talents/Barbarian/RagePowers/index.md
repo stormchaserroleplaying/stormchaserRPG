@@ -6,12 +6,12 @@ nav_order: 1
 ---
 
 # Rage Powers
-Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent can spend character points on a rage power if they meet its prerequisites.
+Any character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent can spend character points on a rage power if they meet its prerequisites. Some rage powers create supernatural effects. which extend beyond strength and skill at arms. These powers frequently call for a 'rage attack roll'. A character with the [Rage](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/#rage) talent is considered trained in rage attacks, which add the character's Constitution modifier to the attack roll, rather than the character's Strength or Dexterity. A character's proficiency with rage attacks can be increased to expert and master proficiency using the same progression of character point costs and requirements as listed for [Weapon Proficiency](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Weapon/Proficiency/).
 
 Totem rage powers grant powers related to a theme. A barbarian cannot select from more than one group of totem rage powers. For example, a barbarian who selects a beast totem rage power cannot later choose to gain any of the dragon totem rage powers (any rage power with "dragon totem" in its title).
 
 | Rage Power | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:-----------|:--:|:--------------|
 | Ancestral Guidance  | 5  | - |
 | Animalistic Fury  | 5  | - |
 | Armour Ripper     | 5  | 1 Feral Soul talent |
@@ -20,7 +20,7 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Battle Roar  | 10  | Intimidating Glare |
 | Blood For Blood  | 5 | - |
 | Bone Breaker  | 10 | - |
-| Celestial Totem, Lesser  | 5  | - |
+| Celestial Totem, Lesser  | 5 | - |
 | Celestial Totem | 15 | Celestial Totem, Lesser |
 | Celestial Totem, Greater  | 35 | Celestial Totem |
 | Clear Mind  | 5  | - |
@@ -44,8 +44,10 @@ Totem rage powers grant powers related to a theme. A barbarian cannot select fro
 | Primal Instinct  | 10 | - |
 | Raging Skald  | 5 | Berserker's Cry |
 | Reaping | 10 | - |
+| Rend | 10 | - |
 | Rip and Tear  | 15 | - |
 | Rolling Dodge  | 5  | - |
+| Savage Resurgence | 5 | - |
 | Scatter the Hordes  | 15 | - |
 | Seize the Prey | 10 | - |
 | Shadow Totem, Lesser  | 5  | - |
@@ -72,7 +74,7 @@ When you make a skill check, you can activate this rage power for +1d to the rol
 
 Activating this rage power grants you a bite attack that deals 1d4 piercing damage plus your Strength modifier. If you already have a bite attack, its damage die increases by one step.
 
-Additionally, you can use this bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple attack is made and, if the bite attack hits, then the grapple attack has +1d.
+Additionally, you can use this bite attack as part of the action to maintain, advance, or break free from a grapple. This attack is resolved before the grapple action is made and, if the bite attack hits, then the grapple attack has +1d.
 
 ## Armour Ripper
 
@@ -102,7 +104,7 @@ When you hit with a [Charge](https://stormchaserroleplaying.com/stormchaserRPG/C
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Intimidating Glare<br>**Rage Point Cost:** 1 Point
-When you successfully demoralise an opponent using your [Intimidating Glare](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/RagePowers/#intimidating-glare), you can activate this Rage Power to also deal your martial feat die in thunder damage to that opponent.
+When you successfully demoralise an opponent using your [Intimidating Glare](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Barbarian/RagePowers/#intimidating-glare), make a rage attack roll vs. the target's Constitution defense. On a hit, you deal 1dM + your Constitution modifier in sonic damage.
 
 ## Blood For Blood
 
@@ -118,28 +120,28 @@ At the start of your turn, if you were hit in melee during the last round, you g
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
-When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can activate this Rage Power to impose the [Weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. At the end of each of its turns, an affected creature may make a Constitution defence check vs your Rage skill to end the condition.
+When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can activate this Rage Power to impose the [Weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. At the end of each of its turns, an affected creature may make a Constitution defence check vs your rage skill to end the condition.
 
 ## Celestial Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
-Whenever you are subject to a spell that restores Stamina, you can activate this power to regain an additional amount of stamina equal to twice the spell’s level.
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+You can spend one rage point to cast the [Detect Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-evil-and-good) spell.
 
 ## Celestial Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Celestial Totem, Lesser<br>**Rage Point Cost:** 2 Points
-This effect bestows a halo of gleaming light upon you. The halo shines as if it were daylight and removes the [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) condition from all non-good creatures in your square and each adjacent square.
+You can spend two rage points to bestow a halo of gleaming light upon yourself while raging. The halo shines as if it were daylight and removes the [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) condition from all non-good creatures in your square and each adjacent square.
 
 ## Celestial Totem, Greater
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Celestial Totem<br>**Rage Point Cost:** 2 Points
-You gain +1d to all defenses vs spells with the Evil trait. You also gain +1d to all defences against spells and effects from evil creatures.
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Celestial Totem<br>**Rage Point Cost:** 2 Points
+You can spend two rage points to gain +1d to all defenses vs spells with the Evil trait and +1d to all defences vs spells and effects from evil creatures.
 
 ## Clear Mind
 
@@ -160,14 +162,14 @@ As a free action, you may leave yourself open to attack while preparing devastat
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Powerful Blow<br>**Rage Point Cost:** 2 Points
-When using your Powerful Blow rage power, you can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead roll your martial feat die and deal the damage as ability damage to the target’s Strength or Dexterity score. At the start of its next turn, the target can attempt a Constitution check vs your weapon skill to halve this ability damage.
+When using the Powerful Blow rage power, you can forgo the normal bonus to damage and instead reduce the target’s Strength or Dexterity score by your Strength modifier. At the start of its next turn, the target can attempt a Constitution defence check vs your weapon skill to halve this ability damage.
 
 ## Cult Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Whenever you would gain +1d to attack from a morale bonus or from flanking, you instead add one additional martial feat die to your damage roll.
+Whenever a morale bonus, or flanking, would grant you +1d to an attack roll, you instead add +1dM to your damage roll.
 
 ## Cult Totem
 
@@ -181,14 +183,14 @@ Whenever a creature within your reach damages an ally of yours with a melee atta
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Point
-When you hit with an attack, you can change the damage type of your rage damage die to decay damage that cannot be reduced.
+When you roll a martial feat die to deal damage, you can change the damage type to decay damage. This damage cannot be reduced.
 
 ## Fleshrender
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Rage Point Cost:** 3 Points
-Make a melee attack roll against a target. On a hit, make a rage attack roll against the target's Constitution defence. On a hit, you force the target to roll for a [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
+When you hit with a melee attack, you can spend three rage points to make a rage attack roll vs the target's Constitution defense as a free action. On a hit, you force the target to roll for a [Physical Injury](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Injuries/).
 
 ## Focus of the Ascetic
 
@@ -202,7 +204,7 @@ When you begin your rage, you can use this power to gain blindsight (30', imprec
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Rage Point Cost:** 4 Points
-When you hit a target with a melee or thrown weapon attack, you push the target 10' away from you leave them [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) until the beginning of your next turn. If you critically hit the target when triggering this rage power, then they are [Stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the beginning of your next turn.
+When you hit a target with a melee or thrown weapon attack, you push the target 10' away from you and leave them [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) until the beginning of your next turn. If you critically hit the target when triggering this rage power, then they are [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the beginning of your next turn.
 
 ## Great Throw
 
@@ -223,7 +225,7 @@ As an action, you can grant allies within 30 feet the benefit (and penalty) of y
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check against one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds.
+Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check vs one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds.
 
 If multiple dice in your Intimidation dice pool hit the target's Charisma defence, then the duration is extended by 1 round for every additional die beyond the first.
 
@@ -232,7 +234,7 @@ If multiple dice in your Intimidation dice pool hit the target's Charisma defenc
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
-Make a melee or thrown weapon attack. On a hit, you knock the target prone and inflict the [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) condition until the end of its next turn.
+When you hit with a melee or thrown weapon attack, you can knock the target [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/) and inflict the [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) condition until the beginning of your next turn.
 
 ## Leap to the Fray!
 
@@ -267,7 +269,7 @@ While raging, you ignores the miss chance for concealment and treat total concea
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-You add your martial feat die to a single damage roll. This power is declared before the roll to hit is made and can only be used once per rage.
+You add your Strength modifier to a single damage roll, in addition to any modifiers that you normally add to add to your damage. This power is declared before the roll to hit is made and can only be used once per rage.
 
 ## Primal Instinct
 
@@ -276,7 +278,10 @@ You add your martial feat die to a single damage roll. This power is declared be
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions** 1
 *You shut out the world with a terrifying cry, reverting your mind to its most basic instincts*
 
-You unleash a terrifying roar that numbs your higher reasoning, but allows you to perceive the world through primal instinct. For 1 minute, you have -1d on all Intelligence checks, but +1d vs conditions inflicted by spells from the Charm and Illusion schools. Additionally, you gain a vague sense that can perceive [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and illusions.
+You unleash a terrifying roar that numbs your higher reasoning, but allows you to perceive the world through primal instinct. For the next minute, you are subject to the following effects:
+- -1d on all Intelligence checks
+- +1d vs conditions inflicted by spells from the charm and illusion schools
+- You gain a vague sense that can perceive [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and illusions
 
 ## Raging Skald
 
@@ -290,14 +295,21 @@ When you unleash a [Berserker’s Cry](https://github.com/stormchaserroleplaying
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1-3 Points
-When you hit a target, you can expend rage points to gain temporary Stamina. When you do so, the amount of Semporary stamina gained is equal to the number of rage points spent, multiplied by 5.
+When you hit a target, you can expend rage points to gain temporary Stamina equal to 1dR per rage point spent.
+
+## Rend
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Points
+When you deal damage to the same target with two separate weapons in a single turn, you spend one rage point to inflict additional damage equal to your Strength modifier. This damage takes the same type as one of the original attacks.
 
 ## Rip and Tear
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** None<br>**Rage Point Cost:** 3 Points
-Immediately after you deal damage with two consecutive [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) actions, you can inflict the damage caused by one of the attacks plus 1-1/2 times your Strength modifier to the target.
+#### **Cost:** 15 Character Points<br>**Prerequisites:** Rend and Fleshrender<br>**Rage Point Cost:** 1 Points
+When you use the Rend rage power to deal additional damage to a target, you may spend one rage point to trigger the Fleshrender rage power, instead of the usual three rage points.
 
 ## Rolling Dodge
 
@@ -306,33 +318,48 @@ Immediately after you deal damage with two consecutive [Strike](https://stormcha
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 2 Points
 Your Dexterity defense vs ranged attacks increases by +1d for a number of rounds equal to your Constitution modifier.
 
+## Savage Resurgence
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
+Whenever you are subject to a spell that restores Stamina, you can activate this power at the start of your next turn to recover additional stamina equal to double the amount of mana spent on the spell.
+
 ## Scatter the Hordes
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Rage Point Cost:** 3 Points
-While you are grappling a target of equal or smaller size, you can choose to throw them across the battlefield. As an action, make an unarmed attack roll. On a hit, you throw them a distance equal to 5 times your Strength modifier in any direction that you choose. If the target hits something before the end of this distance, roll your rage damage die once for every 5 feet of distance remaining. The target takes this much damage. At the end of this movement, the target falls prone.
+While you are grappling a target of equal or smaller size, you can choose to throw them across the battlefield. As an action, make an unarmed attack roll. On a hit, you throw them a distance equal to 5 times your Strength modifier in any direction that you choose. If the target hits something before the end of this distance, they take 1dM bludgeoning damage for every 5 feet of distance remaining. At the end of this movement, the target falls [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 ## Seize the Prey
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
-While you grappling a target, if you have a free hand, you can attempt to strangle the target in place of an unarmed attack. Make a rage attack roll. On a hit, you deal no damage, but begin strangling the target. A target one size larger than you requires two hands to do this. A target two sizes larger than you cannot be strangled in this way. Each round, you must spend an action in order to maintain the strangle hold. As long as you do so, the target is [Suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/).
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points
+If you have at least one free hand, then you can attempt to clamp down on a target's throat and strangle them. Make an unarmed attack roll. On a hit, you deal no damage and the target is both [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) by you and [suffocating](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/TheEnvironment/Suffocating/). Each round, you must spend an action in order to maintain the grapple.
+
+A target one size larger than you requires two hands to do this. A target two or more sizes larger than you cannot be strangled in this way without some form of tool, such as a rope or chain. 
 
 ## Shadow Totem, Lesser
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 4 Points
-While raging, each time that you score a critical hit, your weapon surges with draining shadows. Make a rage attack vs the Constitution defence of the target. On a hit, the target takes 1d4 Strength damage. This is a negative energy effect.
+Landing a critical hit makes your weapons surge with draining shadows. Whenever you score a critical hit, you can make a rage attack roll vs the Constitution defence of the target. On a hit, the target suffers Strength damage equal to your Constitution modifier. This is a negative energy effect.
 
 ## Shadow Totem
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Shadow Totem, Lesser<br>**Rage Point Cost:** 4 Points
-Once per rage, as an action, you can take on a shadowy form until the end of your turn. While in this form, you gain the incorporeal subtype. You have resistance to damage from corporeal sources, as long as they are magic (and no damage from non-magical weapons and objects). Likewise, corporeal creatures have resistance to damage dealt by any magical effects that you create. Your manufactured and natural weapons count as ghost touch weapons while incorporeal in this manner. Spells and other effects that do not deal damage function normally. While you are incorporeal, you can pass through a wall or other surface that is up to 5 feet thick per barbarian talent that you have. You must exit the solid material by the end of your turn.
+Once per rage, as an action, you can take on a shadowy form until the end of your turn. While in this form, you are subject to the following effects:
+- You gain the incorporeal subtype.
+- You take no damage from non-magical weapons and objects.
+- You have resistance to damage from all magical corporeal sources.
+- Corporeal creatures have resistance to damage dealt by any magical effects that you create. (Spells and other effects that do not deal damage function normally.)
+- Your weapons and natural weapons count as ghost touch weapons while incorporeal in this manner.
+- While you are incorporeal, you can pass through walls and other surfaces. You must exit the solid material by the end of your turn.
 
 ## Shadow Totem, Greater
 
@@ -345,8 +372,10 @@ While raging, you see perfectly to any distance in darkness, including magical d
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points
-Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action. For any effect other than one on a creature, you must make your [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) roll against a DC of 15 plus the spell's level. To sunder an effect on a creature, the melee attack must also hit the creature, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect for 1 round, or 2 rounds if you exceed the DC by 5 or more.
+#### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 1
+Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a rage attack roll vs a DC of 15 plus the spell's level. If the effect is on a creature, such as [Hold Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Charms/#hold-person) or [Charm Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#charm-person), then the attack must also hit the target in melee, ignoring any miss chance caused by a spell or spell-like ability. If successful, then you suppress the effect for a number of rounds equal to your Constitution modifier.
+
+The effect still ends after the total number of rounds have passed since it began. Thus, a spell with a duration of 10 rounds suppressed for 3 rounds would have a total effective duration of 7 rounds. The target does not make saves to end the effect during this time, but resumes making saves when the effect returns.
 
 ## Tear the Veil of Shadows
 
@@ -355,7 +384,7 @@ Once per rage, you can attempt to sunder an ongoing spell effect by succeeding a
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 2
 *Your rage overflows and surges forth, creating a psychic tidal wave that dispels the works of creatures that skulk about unseen.*
 
-You let loose a primal roar that affects all creatures within 30 feet. Make a Rage Power Attack against the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any effect in the area caused by an affected Aberration, Fey, Fiend, or Undead that can be dispelled, use the result of your Rage Attack Roll as a check against the effect's DC to insantly remove the effect.
+You let loose a primal roar that affects all creatures within 30 feet. Make a rage attack roll vs the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any dispellable effect in the area caused by an affected Aberration, Fey, Fiend, or Undead, use the result of your rage attack roll as a check vs the effect's DC to insantly remove the effect.
 
 ## Trample
 
@@ -371,4 +400,4 @@ You can only deal this damage to a target once per round, no matter how many tim
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 1 Point
-Your rage drives you across the battlefield on a vicious, reaping path. Following a [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action against a target, [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) to another target and [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) it. The second target must be close enough to reach in melee. This movement does not provoke opportunity attacks and the second attack does not suffer from the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
+Your rage drives you across the battlefield on a vicious, reaping path. Following a successful [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) to another target and [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) it. The second target must be close enough to reach in melee. This movement does not provoke opportunity attacks and the second attack does not suffer from the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).

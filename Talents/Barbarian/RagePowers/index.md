@@ -120,7 +120,7 @@ At the start of your turn, if you were hit in melee during the last round, you g
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 2 Points
-When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can activate this Rage Power to impose the [Weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. At the end of each of its turns, an affected creature may make a Constitution defence check vs. your rage skill to end the condition.
+When hit a creature with the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you can activate this Rage Power to impose the [Weakened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Weakened/) condition on the target. At the end of each of its turns, an affected creature may make a Constitution defence check vs your rage skill to end the condition.
 
 ## Celestial Totem, Lesser
 
@@ -162,7 +162,7 @@ As a free action, you may leave yourself open to attack while preparing devastat
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Powerful Blow<br>**Rage Point Cost:** 2 Points
-When using the Powerful Blow rage power, you can forgo the normal bonus to damage and instead reduce the target’s Strength or Dexterity score by your Strength modifier. At the start of its next turn, the target can attempt a Constitution defence check vs. your weapon skill to halve this ability damage.
+When using the Powerful Blow rage power, you can forgo the normal bonus to damage and instead reduce the target’s Strength or Dexterity score by your Strength modifier. At the start of its next turn, the target can attempt a Constitution defence check vs your weapon skill to halve this ability damage.
 
 ## Cult Totem, Lesser
 
@@ -225,7 +225,7 @@ As an action, you can grant allies within 30 feet the benefit (and penalty) of y
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Rage Point Cost:** 1 Point
-Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check vs. one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds.
+Make an [Intimidation](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Intimidation/) check vs one adjacent foe's Charisma defense as an action. On a hit, the target is [Shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1d4 rounds.
 
 If multiple dice in your Intimidation dice pool hit the target's Charisma defence, then the duration is extended by 1 round for every additional die beyond the first.
 
@@ -346,7 +346,7 @@ A target one size larger than you requires two hands to do this. A target two or
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 4 Points
-Landing a critical hit makes your weapons surge with draining shadows. Whenever you score a critical hit, you can make a rage attack roll vs. the Constitution defence of the target. On a hit, the target suffers Strength damage equal to your Constitution modifier. This is a negative energy effect.
+Landing a critical hit makes your weapons surge with draining shadows. Whenever you score a critical hit, you can make a rage attack roll vs the Constitution defence of the target. On a hit, the target suffers Strength damage equal to your Constitution modifier. This is a negative energy effect.
 
 ## Shadow Totem
 
@@ -373,7 +373,9 @@ While raging, you see perfectly to any distance in darkness, including magical d
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 1
-Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a rage attack roll vs. a DC of 15 plus the spell's level. If the effect is on a creature, such as [Hold Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Charms/#hold-person) or [Charm Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#charm-person), then the attack must also hit the target in melee, ignoring any miss chance caused by a spell or spell-like ability. If successful, you suppress the effect a number of rounds equal to your Constitution modifier. The effect still ends after the total number of rounds have passed since it began. Thus, a spell with a duration of 10 rounds suppressed for 3 rounds would have a total effective duration of 7 rounds. The target does not make saves to end the effect during this time but resumes making saves when the effect returns.
+Once per rage, you can attempt to sunder an ongoing spell effect by succeeding at a rage attack roll vs a DC of 15 plus the spell's level. If the effect is on a creature, such as [Hold Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Charms/#hold-person) or [Charm Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#charm-person), then the attack must also hit the target in melee, ignoring any miss chance caused by a spell or spell-like ability. If successful, then you suppress the effect for a number of rounds equal to your Constitution modifier.
+
+The effect still ends after the total number of rounds have passed since it began. Thus, a spell with a duration of 10 rounds suppressed for 3 rounds would have a total effective duration of 7 rounds. The target does not make saves to end the effect during this time, but resumes making saves when the effect returns.
 
 ## Tear the Veil of Shadows
 
@@ -382,7 +384,7 @@ Once per rage, you can attempt to sunder an ongoing spell effect by succeeding a
 #### **Cost:** 10 Character Points<br>**Rage Point Cost:** 3 Points<br>**Actions:** 2
 *Your rage overflows and surges forth, creating a psychic tidal wave that dispels the works of creatures that skulk about unseen.*
 
-You let loose a primal roar that affects all creatures within 30 feet. Make a rage attack roll vs. the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any effect in the area caused by an affected Aberration, Fey, Fiend, or Undead that can be dispelled, use the result of your rage attack roll as a check against the effect's DC to insantly remove the effect.
+You let loose a primal roar that affects all creatures within 30 feet. Make a rage attack roll vs the Wisdom defense of any Aberration, Fey, Fiend, or Undead creature in the area. On a hit, the target is [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of your for 1 minute. On a miss, the target is [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) for 1 round. Additionally, if there is any dispellable effect in the area caused by an affected Aberration, Fey, Fiend, or Undead, use the result of your rage attack roll as a check vs the effect's DC to insantly remove the effect.
 
 ## Trample
 

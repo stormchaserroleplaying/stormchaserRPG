@@ -17,21 +17,19 @@ You gain proficiency with smith's tools, and you learn to speak, read, and write
 
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
-| Rune Carver         | 5  | - |
-| Giant's Might       | 5  | - |
-| Runic Shield        | 10 | Giant's Might and 4 other Fighter Talents |
-| Additional Rune I   | 5  | Rune Carver and 4 other Fighter Talents |
-| Great Stature       | 20 | Runic Shield and 6 other Fighter Talents |
-| Additional Rune II  | 5  | Additional Rune I and 6 other Fighter Talents |
-| Master of Runes     | 60 | Great Stature and 9 other Fighter Talents |
-| Additional Rune III | 5  | Additional Rune II and 9 other Fighter Talents |
-| Runic Juggernaut    | 80 | Master of Runes  and 11 other Fighter Talents |
+| Rune Carver      | 5  | Smith's Tools Proficiency |
+| Giant's Might    | 5  | Accented Giant Language |
+| Additional Rune  | 5  | Rune Carver |
+| Runic Shield     | 10 | Giant's Might |
+| Great Stature    | 20 | Runic Shield |
+| Master of Runes  | 60 | Great Stature |
+| Runic Juggernaut | 80 | Master of Runes |
 
 ### Rune Carver
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Smith's Tools Proficiency
 You can use magic runes to enhance your gear. You learn two runes of your choice from among the runes described below. Each time that you take a fighter talent, you can replace one rune you know with a different one from this feature. When you reach certain talents in this class, you learn additional runes.
 
 Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know and inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else that you can wear or hold in a hand. Your rune remains on an object until you finish a long rest and an object can bear only one of your runes at a time.
@@ -92,11 +90,18 @@ In addition, you can invoke the rune using 1 action to enter a prophetic state f
 
 Once you invoke this rune, you can't do so again until you finish a short or long rest.
 
+### Additional Rune
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Rune Carver
+You learn an additional Rune. You may take this talent up to three times, to a maximum of five Runes.
+
 ### Giant's Might
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Accented Giant Language<br>**Actions:** 1
 *You have learned how to imbue yourself with the might of giants.*
 
 You magically gain the following benefits, which last for 1 minute:
@@ -106,61 +111,40 @@ You magically gain the following benefits, which last for 1 minute:
 
 You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses of it when you finish a long rest.
 
-### Additional Rune I
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Rune Carver and 4 Other Fighter Talents
-You learn an additional Rune, to a maximum of 3.
-
 ### Runic Shield
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Giant's Might and 4 Other Fighter Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Giant's Might
 *You learn to invoke your rune magic to protect your allies.*
 
 Once per round, the first time that an allied creature that you can see within 60 feet of you is hit by an attack roll, you impart -1d. On your turn you can designate which creatures are can be targeted by this effect.
 
 You can use this feature a number of times equal to your Constitution modifier, and you regain all expended uses when you finish a long rest.
 
-### Additional Rune II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Additional Rune I and 6 Other Fighter Talents
-You learn an additional Rune, to a maximum of 4.
-
 ### Great Stature
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Runic Shield and 6 Other Fighter Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Runic Shield
 *The magic of your runes permanently alters you.*
 
 When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll.
 
 Moreover, the extra damage that you deal with your Giant's Might feature increases to 1d8.
 
-### Additional Rune III
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Additional Rune II and 9 Other Fighter Talents
-You learn an additional Rune, to a maximum of 5.
-
 ### Master of Runes
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 60 Character Points<br>**Prerequisite:** Great Stature and 9 Other Fighter Talents
+#### **Cost:** 60 Character Points<br>**Prerequisite:** Great Stature
 You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.
 
 ### Runic Juggernaut
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Additional Rune III, Master of Runes and 11 Other Fighter Talents
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Master of Runes
 *You learn how to amplify your rune-powered transformation.*
 
 As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.

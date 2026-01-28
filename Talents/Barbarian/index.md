@@ -13,6 +13,7 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 |:-------|:--:|:--------------|
 | Rage | 5 | - |
 | Natural Resilience | 5 | - |
+| Berserker's Cry | 5 | Constitution 13 |
 | Rimehand | 10 | 5 CP of Barbarian Talents |
 | Reckless Attack | 10 | Rage plus 5 CP of Barbarian talents |
 | Fast Movement | 20 | Reckless Attack plus 30 CP of Barbarian Talents |
@@ -60,6 +61,17 @@ Some [rage powers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Bar
 You have innate Damage Reduction equal to your Constitution modifier. This DR does not stack with armour, but when wearing armour you may use the better of your Constitution modifier or the armour's DR.
 
 Additionally, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger. Attack rolls for effects that you can see, such as traps and spells, that target your Dexterity defence suffer a -1d penalty. You also gain +1d on Dexterity defence checks against such effects. To gain this benefit, you can’t be [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), or [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/).
+
+## Berserker's Cry
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Constitution 13
+*Your cry of bloodthirsty fury inspires those around you to greater acts of violence.*
+
+Once per short rest, as an action, you can unleash a powerful, bloodthirsty scream of battle lust and fury. Allies within 60 feet who can hear your berserker’s cry (including yourself) are heartened and gain a +1 morale bonus on damage rolls made with melee attacks for a number of rounds equal to your Constitution bonus. If you have the ability to rage, then you can use this ability as a free action when entering the rage, instead of as a separate action.
+
+A creature may be under the effect of only one berserker’s cry at a time.
 
 ### Rimehand
 

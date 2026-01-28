@@ -69,17 +69,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Draconic Resilience   | 5  | - |  
-| Elemental Affinity I  | 10 | 3rd Level Spells and Draconic Resilience | 
-| Dragon Wings          | 50 | 7th Level Spells and Elemental Affinity I |  
-| Elemental Affinity II | 50 | 7th Level Spells and Elemental Affinity I |
-| Draconic Presence     | 80 | 9th Level Spells and Dragon Wings |  
-| Sight of Dragons      | 80 | 9th Level Spells and Dragon Wings |  
+| Draconic Resilience | 5  | Arcane Spellcasting |  
+| Elemental Affinity  | 20 | 3rd Level Arcane Spells and Draconic Resilience | 
+| Dragon Wings        | 50 | 7th Level Arcane Spells and Elemental Affinity |  
+| Draconic Presence   | 80 | 9th Level Arcane Spells and Dragon Wings |  
+| Sight of Dragons    | 80 | 9th Level Arcane Spells and Dragon Wings |  
 
 ###  Draconic Resilience
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Your dragon ancestor provides you with vigour and protection in the form of a thin layer of dragon-like scales.*
 
 When you take this talent, your hit point maximum increases by double your maximum spell level.
@@ -90,10 +89,14 @@ Additionally, you gain DR 4 and coverage 11-16. This ability does not stack with
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Draconic Resilience
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Draconic Resilience
 *The blood from your ancestor empowers your spells.*
 
-When you cast a spell that deals damage of the type associated with your draconic ancestry, you can treat any 1 on a damage die as a 2. At the same time, you can spend 1 additional mana to gain resistance to that damage type for 1 hour.
+When you cast a spell that deals damage of the type associated with your draconic ancestry:
+* You can treat any 1 on a damage die as a 2.
+* You can spend 2 additional mana to ignore one instance of resistance that a damaged creature has.
+
+You can also spend 1 additional mana to gain resistance to that damage type for 1 hour.
 
 ### Dragon Wings 
 <div style="margin-top:-10px;"></div>
@@ -104,15 +107,6 @@ When you cast a spell that deals damage of the type associated with your draconi
 You gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. They last until you dismiss them using 1 Action on your turn.
 
 You can’t manifest your wings while wearing armour, unless the armour is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
-
-### Elemental Affinity II
- 
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Elemental Affinity I
-*The blood from your ancestor empowers some of your spells.*
-
-When you cast a spell that deals damage of the type associated with your draconic ancestry, you can spend 2 additional mana to ignore one instance of resistance that a damaged creature has.
 
 ### Draconic Presence
  
@@ -129,4 +123,4 @@ You can spend 5 mana to draw on this power and exude an aura of awe or fear (you
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Dragon Wings<br>**Actions:** 1
 *It is difficult for creatures to hide from your 
 
-You gain [blindsight]() out to a distance of 60 feet for 10 minutes. Once you use this ability, you can’t do so again until you finish a short or long rest, unless you expend 5 mana to use it again.
+You gain [blindsight](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/VisionandLight/#blindsight) out to a distance of 60 feet for 10 minutes. Once you use this ability, you can’t do so again until you finish a short or long rest, unless you expend 5 mana to use it again.

@@ -6,6 +6,29 @@ has_children: true
 
 # Species Talents
 
+## Innate Ability Proficiency
+
+### Innate Ability Training
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 2 Character Points
+You are considered to be **trained** in the use of any innate abilities that your species possesses. You add +1d to your attack rolls and skill when wielding such an ability.
+
+### Innate Ability Expertise
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Innate Ability Training and a d6 Martial Die
+You are considered to be an **expert** in the use of any innate abilities that your species possesses. You add an additional +1d to your attack rolls and skill when wielding such an abiity, for a total of +2d.
+
+### Innate Ability Mastery
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Innate Ability Expertise and a d10 Martial Die
+You are considered to be a **master** in the use of any innate abilities that your species possesses. You add an additional +1d to your attack rolls and skill when wielding such an ability, for a total of +3d.
+
 ## Prehensile Tail
 
 <div style="margin-top:-10px;"></div>

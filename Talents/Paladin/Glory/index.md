@@ -21,13 +21,13 @@ As a glory paladin, you gain the following spells once you can cast spells of th
 
 If you have an oath spell that doesn’t appear on the divine spell list, that spell is nevertheless a divine spell for you.
 
-| Spell Level | Spells |
-|:-----------:|:------:|
-| 1st | *Guiding Bolt, Heroism* |
-| 2nd | *Enhance Ability, Magic Weapon* |
-| 3rd | *Haste, Protection from Energy* |
-| 4th | *Compulsion, Freedom of Movement* |
-| 5th | *Commune, Flame Strike* |
+| Spell Level | Spells | Cost |
+|:-----------:|:------:|:----:|
+| 1st | *Guiding Bolt, Heroism* | 2 Character Points per Spell |
+| 2nd | *Enhance Ability, Magic Weapon* | 4 Character Points per Spell |
+| 3rd | *Haste, Protection from Energy* | 6 Character Points per Spell |
+| 4th | *Compulsion, Freedom of Movement* | 8 Character Points per Spell |
+| 5th | *Commune, Flame Strike* | 10 Character Points per Spell |
 
 ## Talents
 

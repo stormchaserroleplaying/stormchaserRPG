@@ -5,7 +5,7 @@ nav_exclude: true
 
 The Stormchaser Roleplaying Game (formerly 'SC5e') has come a long way since it's inception. What began in 2018 as a few house rules for a personal campaign has bloomed into an expansive compendium of rules that makes up a lone standing roleplaying game.
 
-I've taken great pleasure in writing and playtesting this game, but it wouldn't be where it is today without my faithful players and patrons. Throughout the development process, members of the [Stormchaser Roleplaying community](https://www.patreon.com/stormchaserroleplaying "Stormchaser Roleplaying on Patreon") have contributed both their ideas and their time to brainstorming, reviewing, proof-reading and trialling the contents. I'd like to take this opportunity to thank everyone involved.
+I've taken great pleasure in writing and playtesting this game, but it wouldn't be where it is today without my faithful players and patrons. Throughout the development process, members of the [Stormchaser Roleplaying community](https://discord.gg/HX9EK4A "Join us on Discord!") have contributed both their ideas and their time to brainstorming, reviewing, proof-reading and trialling the contents. I'd like to take this opportunity to thank everyone involved.
 
 Though inspired by many popular RPGs, including *Dungeons and Dragons 3rd Edition*, the *Pathfinder Roleplaying Game*, the *Warhammer Fantasy Roleplaying Game*, *GURPS* and *World of Darkness*, this game was originally based on *Dungeons and Dragons 5th Edition*. If you have questions about the intent behind these rules, please seek me out and I'll be happy to answer any questions.
 

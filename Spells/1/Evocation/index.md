@@ -222,7 +222,7 @@ Additionally, when the melee weapon attack hits, add your spellcasting attribute
 
 ## Witch Bolt
 *1st Level Evocation*<br>
-**Casting Time:** 2 Actions<sbr>
+**Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A twig from a tree that has been stuck by lightning.)*<br>
 **Duration:** Sustained, up to 1 minute

@@ -38,61 +38,46 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Restore Balance I   | 5  | - |  
-| Bastion of Law      | 5  | 3rd Level Spells and Restore Balance I |  
-| Restore Balance II  | 5  | 3rd Level Spells and Restore Balance I |  
-| Trance of Order     | 45 | 7th Level Spells and Bastion of Law   |  
-| Restore Balance III | 5  | 7th Level Spells and Restore Balance II |  
-| Clockwork Cavalcade | 75 | 9th Level Spells and Trance of Order  |  
-| Restore Balance IV  | 5  | 9th Level Spells and Restore Balance III |  
+| Restore Balance     | 5  | Arcane Spellcasting |  
+| Bastion of Law      | 20 | 3rd Level Arcane Spells and Restore Balance |  
+| Trance of Order     | 50 | 7th Level Arcane Spells and Bastion of Law  |
+| Clockwork Cavalcade | 80 | 9th Level Arcane Spells and Trance of Order |
 
-### Restore Balance I
+### Restore Balance
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Action:** Free
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Action:** Free
 *Your connection to the plane of absolute order allows you to equalize chaotic moments.*
 
 On your turn, you can designate a creature within 60 feet. Until the beginning of your next turn, that creature does not benefit or suffer from circumstantial sources of +/-1d.
 
-Once you use this ability, you can’t use it again until you complete a short or long rest.
+You can use this feature a number of times equal to your spellcasting attribute modifier, and you regain all expended uses when you finish a long rest.
 
 ### Bastion of Law
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Restore Balance I<br>**Action:** 2, Free<br>**Trigger:** A warded creature takes damage.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Restore Balance<br>**Action:** 2, Free<br>**Trigger:** A warded creature takes damage.
 *You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order.*
 
 Using 2 Actions, you can expend 1 to 5 sorcery points to create a magical ward around yourself or another creature you can see within 30 feet of you. The ward lasts until you finish a long rest or until you use this feature again. 
 
 The ward is represented by a number of d8s equal to the number of sorcery points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 
-### Restore Balance II
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Restore Balance I
-You can now use your Restore Balance ability twice before a rest.
-
 ### Trance of Order
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 45 Character Points<br>**Prerequisite:** 7th Level Spells and Bastion of Law
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Bastion of Law
 You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can’t benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.
 
 Once you use this bonus action, you can’t use it again until you finish a long rest, unless you spend 5 sorcery points to use it again.
-
-### Restore Balance III
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 7th Level Spells and Restore Balance II
-You can now use your Restore Balance ability three times before a rest.
 
 ### Clockwork Cavalcade
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Trance of Order<br>**Actions:** 2
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Trance of Order<br>**Actions:** 2
 *You summon spirits of order to expunge disorder around you.* 
 
 You summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, and they create the following effects within the cube before vanishing:
@@ -101,9 +86,3 @@ You summon the spirits in a 30-foot cube originating from you. The spirits look 
 * Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.
 
 Once you use this action, you can’t use it again until you finish a long rest, unless you spend 7 mana to use it again.
-
-### Restore Balance IV
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 9th Level Spells and Restore Balance III
-You can now use your Restore Balance ability four times before a rest.

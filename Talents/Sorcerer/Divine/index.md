@@ -70,23 +70,25 @@ You gain the your bonus spells once you can cast spells of that level. Once you 
  
 If you have a bonus spell that doesn’t appear on the arcane spell list, that spell is nevertheless an arcane spell for you.
 
+If you already know any of these spells (e.g. from [Celestial Legacy](https://stormchaserroleplaying.com/stormchaserRPG/Species/Lineages/Celestial/#celestial-legacy), or [Lay on Hands](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Paladin/#lay-on-hands)), then you may pick another spell of the same level and [school of magic](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/).
+
 ### Divine Magic
-When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes a mage spell for you.
+When your spellcasting talents let you learn or replace a mage cantrip or a spell of 1st level or higher, you can choose the new spell from the divine spell list or the mage spell list. You must otherwise obey all the restrictions for selecting the spell and it becomes an arcane spell for you.
 
 ## Talents
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Favored by the Gods | 5  | - |  
-| Empowered Healing   | 10 | 3rd Level Spells and Favored by the Gods |  
-| Otherworldly Wings  | 50 | 7th Level Spells and Empowered Healing  |  
-| Unearthly Recovery  | 80 | 9th Level Spells and Otherworldly Wings |  
+| Favored by the Gods | 5  | Arcane Spellcasting |  
+| Empowered Healing   | 20 | 3rd Level Arcane Spells and Favored by the Gods |  
+| Otherworldly Wings  | 50 | 7th Level Arcane Spells and Empowered Healing  |  
+| Unearthly Recovery  | 80 | 9th Level Arcane Spells and Otherworldly Wings |  
 
 ###  Favored by the Gods
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Divine power guards your destiny.* 
 
 If you fail an ability or defense check or miss with an attack roll, you can reroll 1d20, possibly changing the outcome. Once you use this feature, you can’t use it again until you finish a short or long rest.
@@ -95,7 +97,7 @@ If you fail an ability or defense check or miss with an attack roll, you can rer
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Favored by the Gods
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Favored by the Gods
 *The divine energy coursing through you can empower healing spells.* 
 
 Whenever you cast a spell that would cause you to roll dice to determine the number of stamina a spell restores, you can spend 1 additional mana to reroll any number of those dice once. You can use this ability only once per turn.
@@ -104,7 +106,7 @@ Whenever you cast a spell that would cause you to roll dice to determine the num
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Empowered Healing<br>**Actions** 1
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Empowered Healing<br>**Actions** 1
 *Your faith bestows upon wings to soar through the skies.*
 
 You conjure spectral wings from your back. While the wings are present, you have a flying speed equal to your speed. The wings last until you’re incapacitated, you die, or you dismiss them using 1 Action.
@@ -115,7 +117,7 @@ The divine affinity that you chose determines the appearance of the wings. For e
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Otherworldly Wings<br>**Actions:** 1
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Otherworldly Wings<br>**Actions:** 1
 *You gain the ability to overcome grievous injuries.* 
 
 When you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.

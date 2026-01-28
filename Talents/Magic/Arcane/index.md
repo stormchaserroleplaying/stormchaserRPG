@@ -2,7 +2,7 @@
 title: Arcane Spellcasting
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 1
+nav_order: 2
 ---
 
 # Arcane Spellcasting Talents
@@ -44,7 +44,7 @@ You use your chosen ability whenever a spell refers to your spellcasting ability
 ### Spells Known
 You begin play knowing a number of spells from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier ever changes, you learn new spells, or lose access to existing spells, depending on whether the modifier increases or decreases.
 
-Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 1st level spells listed in that branch's bonus spells table.
+Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 1st level spells listed in that branch's bonus spells table. If you have talents from multiple sorcerer, warlock and wizard branches, then you must choose **one** branch to be the one that grants you bonus spells known. You may purchase spells known from the bonus spell tables of your other sorcerer, warlock and wizard branches at half the normal rate. (1 CP per spell level, instead of 2 CP per spell level.)
 
 ### Spellcasting Focus
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your arcane spells.

@@ -11,8 +11,35 @@ Discuss the nature of the ship you previously sailed with your GM. Was it a merc
 
 What were your duties on board? Boatswain, captain, navigator, cook, or some other position? Who were the captain and first mate? Did you leave your ship on good terms with your fellows, or on the run?
 
+## Attribute Score Increase
+Increase one mental attribute of your choice by 1 and add +1 to your Awareness.
+
+## Connections
+1. Your first captain: a cheerful merchant shipmaster and opportunistic pirate.
+2. The cruel naval captain who flogged you out of the service.
+3. The scoundrelly shipmate who ran off with the other half of your treasure map.
+4. The naval captain who won’t rest until you are caught.
+5. The mutineers who left you on a deserted island.
+6. The fisherman with whom you tried to reel in the King of the Sea.
+7. A friendly shipmate who is eager to tell everyone the tale of how you saved their life.
+8. Your former shipmate, a bent and aged mariner with an eerie gift for foretelling bad weather and other calamities.
+9. Your retired mentor who first taught you the difference between a mainbrace and a marlinspike.
+10. The pirate who sunk your ship, leaving you the sole survivor.
+
 ## Equipment
 A belaying pin (club), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on [the Trinkets table](http://stormchaserroleplaying.com/stormchaserRPG/Equipment/StartingEquipment/#trinkets)), a set of common clothes and a pouch containing 10 gp.
+
+## Mementos
+1. A dagger with a handle carved from a dragon turtle’s tooth.
+2. A scroll tube filled with nautical charts.
+3. A harpoon (treat as a javelin with its butt end fastened to a rope).
+4. A scar with a famous tale behind it.
+5. A treasure map.
+6. A codebook which lets you decipher a certain faction’s signal flags.
+7. A necklace bearing a scale, shell, tooth, or other nautical trinket.
+8. Several bottles of alcohol.
+9. A tale of an eerie encounter with a strange monster, a ghost ship, or other mystery.
+10. A half-finished manuscript outlining an untested theory about how to rerig a ship to maximize speed.
 
 ## Feature: Ship’s Passage
 When you need to, you can secure free passage on a sailing ship for yourself and your adventuring companions. You might sail on the ship you served on, or another ship you have good relations with (perhaps one captained by a former crewmate). Because you’re calling in a favor, you can’t be certain of a schedule or route that will meet your every need. Your GM will determine how long it takes to get where you need to go. In return for your free passage, you and your companions are expected to assist the crew during the voyage.

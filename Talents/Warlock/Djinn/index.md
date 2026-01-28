@@ -39,16 +39,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Djinn's Vessel   | 5  | - |
-| Elemental Gift   | 10 | 3rd Level Spells and Genie's Vessel |
-| Sanctuary Vessel | 35 | 5th Level Spells and Elemental Gift |
-| Limited Wish     | 50 | 7th Level Spells and Sanctuary Vessel |
+| Djinn's Vessel   | 5  | Arcane Spellcasting |
+| Elemental Gift   | 20 | 3rd Level Arcane Spells and Genie's Vessel |
+| Sanctuary Vessel | 30 | 5th Level Arcane Spells and Elemental Gift |
+| Limited Wish     | 50 | 7th Level Arcane Spells and Sanctuary Vessel |
 
 ###  Djinn's Vessel
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Your patron gifts you a magical vessel that grants you a safe resting place and a measure of the djinn’s power.*
 
 The vessel is a tiny object and you can use it as a spellcasting focus for your arcane spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie’s Vessel table.
@@ -77,7 +77,7 @@ If the vessel is destroyed, or you lose it, you can perform a 1-hour ceremony to
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Djinn's Vessel
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Djinn's Vessel
 *You begin to take on characteristics of your patron.*
 
 You now have resistance to a damage type determined by your patron’s kind: corrosive (earth), sonic (air), fire (fire), or cold (water).
@@ -88,7 +88,7 @@ Using 1 Action, you can give yourself a flying speed equal to your movement spee
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Elemental Gift
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Elemental Gift
 *You can welcome others into the safety of your vessel.*
 
 When you enter your djinn’s Vessel via the Bottled Respite feature, you can now choose up to five willing creatures that you can see within 30 feet of you, and the chosen creatures are drawn into the vessel with you.
@@ -99,7 +99,7 @@ Using 1 action, you can eject any number of creatures from the vessel and everyo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Sanctuary Vessel<br>**Actions:** 2
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Sanctuary Vessel<br>**Actions:** 2
 *You entreat your patron to grant you a small wish.*
 
 You can speak your desire to your djinn’s Vessel, requesting the effect of one spell that is 6th level or lower. The spell can be from any spell list and you don’t need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.

@@ -21,25 +21,21 @@ If you cast this spell while concentrating on a spell or an ability that allows 
 
 Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 24 hours.
-
 ## Friends
 *Charms Cantrip*<br>
 *Casting Time:* 2 Actions<br>
 **Range:** Self<br>
 **Components:** S, M *(A small amount of makeup applied to the face as this spell is cast.)*<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 For the duration, you have +1d on all Charisma checks directed at one creature of your choice that isn't hostile towards you. When the spell ends, the creature realises that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
-
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 10 minutes.
 
 ## Mind Sliver
 *Charms Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V<br>
-**Duration:** 1 round
+**Duration:** 1 Round
 
 *You drive a disorienting spike of psychic energy into the mind of a creature.*
 

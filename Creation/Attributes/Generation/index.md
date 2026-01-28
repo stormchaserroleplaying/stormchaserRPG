@@ -8,23 +8,25 @@ nav_order: 1
 # Generating Attributes
 The Stormchaser RPG allows you to build a character with a set of attributes that you choose individually. The character point values of attributes can be found below.
 
-| Attribute | Point Cost |
-|:---------:|:----------:|
-| 6 | -6 |
-| 7 | -4 |
-| 8 | -2 |
-| 9 | -1 |
-| 10 | 0 |
-| 11 | 1 |
-| 12 | 3 |
-| 13 | 5 |
-| 14 | 10 |
-| 15 | 15 |
-| 16 | 25 |
-| 17 | 35 |
-| 18 | 50 |
+| Attribute | Point cost at creation |
+|:---------:|:----------------------:|
+| 6  | -14 |
+| 7  | -9  |
+| 8  | -4  |
+| 9  | -2  |
+| 10 | 0   |
+| 11 | 1   |
+| 12 | 3   |
+| 13 | 5   |
+| 14 | 10  |
+| 15 | 15  |
+| 16 | 25  |
+| 17 | 35  |
+| 18 | 55  |
 
 For example, a score of 14 is worth 10 points. 
+
+At creation, your score may not exceed 18. Apply a species bonus to your attribute score only after spending points to increase it.
 
 Your GM will tell you how many points you have to spend on your attributes. Typically, this is a portion of your total character point budget, e.g. 30 points out of 150. 18 is the highest attribute that you can end up with, before applying species and background increases, and 6 is the lowest.
 

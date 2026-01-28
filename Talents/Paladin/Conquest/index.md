@@ -22,8 +22,8 @@ If you have an oath spell that doesn’t appear on the divine spell list, that s
 
 | Spell Level | Spells | Cost |
 |:-----------:|:------:|:----:|
-| 1st | *Armor of Agathys, Command* | 2 Character Points per Spell |
-| 2nd | *Hold Oerson, Spiritual Weapon* | 4 Character Points per Spell |
+| 1st | *[Winter's Ward](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#winters-ward), [Command](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#command)* | 2 Character Points per Spell |
+| 2nd | *Hold Person, Spiritual Weapon* | 4 Character Points per Spell |
 | 3rd | *Bestow Curse, Fear* | 6 Character Points per Spell |
 | 4th | *Dominate Beast, Stoneskin* | 8 Character Points per Spell |
 | 5th | *Cloudkill, Dominate Person* | 10 Character Points per Spell |

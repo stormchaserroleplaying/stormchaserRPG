@@ -20,7 +20,7 @@ Your Strength score rises by 2.
 ### Breath Weapon
 As an action you can exhale destructive energy. Your phenotype determines the size, shape, and damage of the exhalation.
 
-When you use your breath weapon, make a trained Constitution attack roll vs each creature in the area. The defence that the target uses is determined by your draconic ancestry. On a hit, a creature takes damage according to the phenotype table, or half as much damage on a miss.
+When you use your breath weapon, make an innate attack roll vs each creature in the area. The defence that the target uses is determined by your draconic ancestry. On a hit, a creature takes damage according to the phenotype table, or half as much damage on a miss.
 
 You can use your breath weapon a number of times equal to your Constitution modifier. The number of uses resets when you complete a short or a long rest.
 

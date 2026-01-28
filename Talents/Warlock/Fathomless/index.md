@@ -32,23 +32,21 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Tentacle of the Deep I  | 3  | - |
-| Gift of the Sea         | 2  | - |
-| Oceanic Soul            | 5  | 3rd Level Spells and Gift of the Sea |
-| Guardian Coil  I        | 5  | 3rd Level Spells and Tentacle of the Deep I |
-| Grasping Tentacles      | 25 | 5th Level Spells and Guardian Coil I |
-| Tentacle of the Deep II | 5  | 5th Level Spells and Guardian Coil I |
-| Guardian Coil  II       | 5  | 5th Level Spells and Guardian Coil I |
-| Fathomless Plunge       | 50 | 7th Level Spells and Grasping Tentacles |
+| Tentacle of the Deep | 3  | Arcane Spellcasting |
+| Gift of the Sea      | 2  | Arcane Spellcasting |
+| Oceanic Soul         | 10 | 3rd Level Arcane Spells and Gift of the Sea |
+| Guardian Coil        | 10 | 3rd Level Arcane Spells and Tentacle of the Deep |
+| Grasping Tentacles   | 30 | 5th Level Arcane Spells and Guardian Coil |
+| Fathomless Plunge    | 50 | 7th Level Arcane Spells and Grasping Tentacles |
 
-###  Tentacle of the Deep I
+###  Tentacle of the Deep
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 3 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *You summon a spectral tentacle that strikes at your foes.*
 
-You create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle. When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+You create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle. When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d10 cold damage + your spellcasting attribute modifier, and its speed is reduced by 10 feet until the start of your next turn.
 
 On subsequent turns, using 1 Action, you can move the tentacle up to 30 feet and repeat the attack. You can summon the tentacle a number of times equal to your spellcasting attribute modifier, and you regain all expended uses when you finish a long rest.
 
@@ -56,26 +54,26 @@ On subsequent turns, using 1 Action, you can move the tentacle up to 30 feet and
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
-You can swim a distance equal to your speed, and you can breathe underwater.
+#### **Cost:** 2 Character Points<br>**Prerequisite:** Arcane Spellcasting
+You can swim a distance equal to your speed and you can breathe underwater.
 
 ### Oceanic Soul
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells and Gift of the Sea
+#### **Cost:** 10 Character Points<br>**Prerequisite:**  3rd Level Arcane Spells and Gift of the Sea
 *You are now even more at home in the depths.*
 
 You gain resistance to cold damage. In addition, when you are fully submerged, any creature that is also fully submerged can understand your speech and you can understand theirs.
 
-### Guardian Coil I
+### Guardian Coil
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:**  3rd Level Spells and Tentacle of the Deep I<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
+#### **Cost:** 10 Character Points<br>**Prerequisite:**  3rd Level Arcane Spells and Tentacle of the Deep<br>**Actions:** Free<br>**Trigger:** A creature you see takes damage within 10 feet of the tentacle.
 *The tentacle you summon can defend you and others.*
 
-You can choose one creature damaged within the range of your tentacle and reduce the damage to that creature by 1d8.
+You can choose one creature damaged within the range of your tentacle and reduce the damage to that creature by 1d10.
 
 This ability automatically triggers once per round the first time that a creature within the range of your tentacle takes damage, with the following exceptions: on your turn, or when you roll initiative, you may declare that your Guardian Coil only be triggered when a specific creature takes damage, or not to use it at all.
 
@@ -83,30 +81,16 @@ This ability automatically triggers once per round the first time that a creatur
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 5th Level Spells and Guardian Coil I
-You learn the spell [Black Tentacles](). It counts as an arcane spell for you, but it doesn’t count against the number of spells that you know. You can also cast it once expending mana and you regain the ability to do so when you finish a long rest.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Guardian Coil
+You learn the spell [Black Tentacles](). It counts as an arcane spell for you, but it doesn’t count against the number of spells that you know. You can also cast it once without expending mana and you regain the ability to do so when you finish a long rest.
 
 Whenever you cast this spell, your patron’s magic bolsters you, granting you an amount of temporary Stamina equal to twice your maximum spell level. Moreover, damage can’t break your concentration on this spell.
-
-###  Tentacle of the Deep II
-
-<div style="margin-top:-10px;"></div>
- 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
-Attacks made by your tentacle now do 2d8 cold damage.
-
-### Guardian Coil II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 5th Level Spells, Oceanic Soul and Guardian Coil I
-Your tentacle now reduces damage by 2d8.
 
 ### Fathomless Plunge
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Grasping Tentacles<br>**Actions:** 2
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Grasping Tentacles<br>**Actions:** 2
 *You magically open temporary conduits to watery destinations.*
 
 You can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water that you’ve seen (pond size or larger), or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.

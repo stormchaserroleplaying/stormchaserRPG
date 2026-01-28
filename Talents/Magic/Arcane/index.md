@@ -2,7 +2,7 @@
 title: Arcane Spellcasting
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 1
+nav_order: 2
 ---
 
 # Arcane Spellcasting Talents
@@ -44,7 +44,7 @@ You use your chosen ability whenever a spell refers to your spellcasting ability
 ### Spells Known
 You begin play knowing a number of spells from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier ever changes, you learn new spells, or lose access to existing spells, depending on whether the modifier increases or decreases.
 
-Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 1st level spells listed in that branch's bonus spells table.
+Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 1st level spells listed in that branch's bonus spells table. If you have talents from multiple sorcerer, warlock and wizard branches, then you must choose **one** branch to be the one that grants you bonus spells known. You may purchase spells known from the bonus spell tables of your other sorcerer, warlock and wizard branches at half the normal rate. (1 CP per spell level, instead of 2 CP per spell level.)
 
 ### Spellcasting Focus
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your arcane spells.
@@ -66,7 +66,7 @@ Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 2nd Level Arcane Spells, Spellcasting Attribute of 13 or Higher and Character Value 210 Points
-You can prepare and cast 3rd level arcane spells. Your maximum mana increases to 9.
+You can prepare and cast 3rd level arcane spells. Your maximum mana increases to 9 and your power die increases to a d6.
 
 Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 3rd level spells listed in that branch's bonus spells table.
 
@@ -84,7 +84,7 @@ Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 4th Level Arcane Spells, Spellcasting Attribute of 15 or Higher and Character Value 310 Points
-You can prepare and cast 5th level arcane spells. Your maximum mana increases to 21.
+You can prepare and cast 5th level arcane spells. Your maximum mana increases to 21 and your power die increases to a d8.
 
 Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 5th level spells listed in that branch's bonus spells table.
 
@@ -100,7 +100,7 @@ You can prepare and cast 6th level arcane spells. Your maximum mana increases to
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 6th Level Arcane Spells, Spellcasting Attribute of 17 or Higher and Character Value 460 Points
-You can prepare and cast 7th level arcane spells. Your maximum mana increases to 24.
+You can prepare and cast 7th level arcane spells. Your maximum mana increases to 24 and your power die increases to a d10.
 
 ## 8th Level Arcane Spells
 
@@ -114,7 +114,7 @@ You can prepare and cast 8th level arcane spells. Your maximum mana increases to
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Arcane Spells, Spellcasting Attribute of 19 or Higher and Character Value 720 Points
-You can prepare and cast 9th level arcane spells. Your maximum mana increases to 31.
+You can prepare and cast 9th level arcane spells. Your maximum mana increases to 31 and your power die increases to a d12.
 
 ## 10th Level Arcane Spells
 

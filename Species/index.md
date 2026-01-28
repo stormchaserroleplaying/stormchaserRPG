@@ -19,6 +19,8 @@ You can choose any age for your character. Advanced age modifies your attribute 
 ## Features
 The description of each species includes features that are common to members of that species. For example, every species increases one or more of a character's physical attribute scores.
 
+If a feature calls for an innate attack roll, then this is a Constitution-based attack roll. Proficieny talents for innate attacks can be found [here](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Species/#innate-ability-proficiency).
+
 ## Phenotype
 Some species can be classified into distinct phenotypical groupings. Members of a given phenotype have all of the features of their species, along with some specific to their phenotype. Relationships between phenotypical groups vary significantly.
 

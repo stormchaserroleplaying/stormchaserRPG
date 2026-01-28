@@ -10,14 +10,6 @@ Those who emulate the archetypal Battle Master employ martial techniques passed 
 ## Branch Features
 You gain the following features when taking your first Talent in this Branch.
 
-#### Bonus Proficiency
-You gain proficiency with one type of artisan's tools of your choice.
-
-#### Improved Combat Superiority
-Your tactical skill in combat improves, granting bonuses to your Combat Superiority.
-
-You learn two additional [maneuvers](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) of your choice. You also gain an additinal [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Maneuvers/) for every two fighter talents of fighter taken after the 3rd.
-
 ## Talents
 
 | Talent | CP | Prerequisites |

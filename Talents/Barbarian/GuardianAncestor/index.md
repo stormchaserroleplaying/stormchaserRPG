@@ -11,69 +11,48 @@ Barbarians who draw on their guardian ancestors can better fight to protect thei
 
 ## Talents
 
-| Talent | CP | Prerequisites | Barbarian Talents Required |
-|:------:|:--:|:-------------:|:---------------------:|
-| Ancestral Protectors, Lesser  | 5  | - | - |
-| Spirit Shield, Lesser         | 10 | Ancestral Protectors, Lesser and 4 Other Barbarian Talents | 5 |
-| Consult the Spirits           | 15 | Spirit Shield, Lesser and 7 Other Barbarian Talents | 8 |
-| Ancestral Protectors          | 5  | Ancestral Protectors, Lesser and 7 Other Barbarian Talents | 8 |
-| Spirit Shield                 | 5  | Spirit Shield, Lesser and 7 Other Barbarian Talents | 8 |
-| Vengeful Ancestors            | 35 | Consult the Spirits and 10 Other Barbarian Talents | 11 |
-| Ancestral Protectors, Greater | 10 | Ancestral Protectors and 10 Other Barbarian Talents | 11 |
-| Spirit Shield, Greater        | 5  | Spirit Shield and 10 Other Barbarian Talents | 11 |
-
-### Ancestral Protectors, Lesser
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Rage 
-*When you enter your rage, a spectral warrior appears to defend you and your allies.*
-
-While you are raging, the first time each round that you or an ally that you can see within 10 feet of you is targeted by an attack, the target receives +1d to its defences vs that attack.
-
-On your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round. This effect can only trigger once per round. The effect on the target ends early if your rage ends.
-
-### Spirit Shield, Lesser
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Ancestral Protectors and 4 Other Barbarian Talents
-*The guardian spirits that aid you can provide supernatural protection to those you defend.*
-
-While you are raging, the first time each round that you or an ally that you can see within 30 feet of you takes damage from an attack, that damage is reduced by 2d6.
-
-On your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round. This effect can only trigger once per round. The effect on the target ends early if your rage ends.
-
-This increases to 3d6 when you take your 3rd Guardian Ancestor talent and to 4d6 when you take your 4th Guardian Ancestor talent.
-
-### Consult the Spirits
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Spirit Shield and 7 Other Barbarian Talents
-*You gain the ability to consult with your ancestral spirits.*
-
-You can cast the augury and clairvoyance spells as rituals, without using mana or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Ancestral Protectors          | 15 | Rage |
+| Spirit Shield                 | 20 | Ancestral Protectors and 50 CP of Barbarian talents |
+| Consult the Spirits           | 30 | Spirit Shield and 125 CP of Barbarian talents |
+| Vengeful Ancestors            | 40 | Consult the Spirits and 225 CP of Barbarian talents |
+| Ancestral Protectors, Greater | 10 | Ancestral Protectors and 225 CP of Barbarian talents |
 
 ### Ancestral Protectors
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Ancestral Protectors, Lesser and 7 Other Barbarian Talents
-The range of your Ancestral Protectors increases to 15 feet.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
+*When you enter your rage, a spectral warrior appears to defend you and your allies.*
+
+While you are raging, the first time each round that you or an ally that you can see within 15 feet of you is targeted by an attack, the target receives +1d to its defences vs that attack.
+
+On your turn (or when you roll initiative), you can declare a specific creature to trigger this ability, or to not use it for the next round. This effect can only trigger once per round. The effect on the target ends early if your rage ends.
 
 ### Spirit Shield
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Spirit Shield, Lesser and 7 Other Barbarian Talents
-The damage reduction of your Spirit Shield increases to 3d6.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Ancestral Protectors and 50 CP of Barbarian talents
+*The guardian spirits that aid you can provide supernatural protection to those you defend.*
+
+As an action while you are raging, you grant a creature within 30 feet that you can see 2dR temporary stamina. This benefit persists for the duration of your rage, or until you spend an action to use this talent again. If you use this talent's effect after the first application, reroll the temporary stamina amount and grant it to the target creature. If the creature had temporary stamina from this talent already, it is replaced with the new value.
+
+### Consult the Spirits
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Spirit Shield and 125 CP of Barbarian talents
+*You gain the ability to consult with your ancestral spirits.*
+
+You can cast the [augury]() and [clairvoyance]() spells as rituals, without using mana or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 ### Vengeful Ancestors
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** Consult the Spirits and 10 Other Barbarian Talents
+#### **Cost:** 40 Character Points<br>**Prerequisite:** Consult the Spirits and 225 CP of Barbarian talents
 *Your ancestral spirits grow powerful enough to retaliate.*
 
 When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of sacred damage equal to the damage that your Spirit Shield prevents.
@@ -82,12 +61,5 @@ When you use your Spirit Shield to reduce the damage of an attack, the attacker 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Ancestral Protectors and 10 Other Barbarian Talents
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Ancestral Protectors and 225 CP of Barbarian talents
 You can now protect every ally within range using your Ancestral Protectors. Each ally can benefit from its effect only once per round for the first attack against them.
-
-### Spirit Shield, Greater
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Spirit Shield and 10 Other Barbarian Talents
-The damage reduction of your Spirit Shield increases to 4d6.

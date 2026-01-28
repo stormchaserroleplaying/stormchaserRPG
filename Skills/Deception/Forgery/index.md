@@ -20,9 +20,9 @@ If the document’s handwriting doesn’t need to be specific to a person and yo
 | Expert with the writing tool used                                                   | +1d      |
 | Master with the writing tool used                                                   | +2d      |
 | You have seen a sample of the document and does not need to mimic a specific person | +1d      |
-| Mimicking a specific person's writing                                               | -1d      |
+| Mimicking a specific person's writing (requires a writing sample)                   | -1d      |
 | Your proficiency with the forgery's language is Accented                            | -1d      |
-| Your proficiency with the forgery's language is Accented                            | -2d      |
+| Your proficiency with the forgery's language is Broken                              | -2d      |
 
 **Success:** The observer does not detect the forgery.
 

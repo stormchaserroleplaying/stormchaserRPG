@@ -9,29 +9,27 @@ Feral Soul barbarians draw their rage from a bestial spark burning within their 
 
 ## Talents
 
-| Talent | CP | Prerequisites | Barbarian Talents Required |
-|:------:|:--:|:-------------:|:--------------------------:|
-| Form of the Beast | 5  | *Rage* | - |
-| Bestial Soul | 10 | Form of the Beast and 4 Other Barbarian Talents | 5 |
-| Infectious Fury | 25 | Bestial Soul and 7 Other Barbarian Talents | 8 |
-| Call the Hunt | 50 | Infectious Fury and 10 Other Barbarian Talents | 11 |
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Form of the Beast | 15 | Rage |
+| Bestial Soul      | 20 | Form of the Beast and 50 CP of Barbarian Talents |
+| Infectious Fury   | 30 | Bestial Soul and 125 CP of Barbarian Talents |
+| Call the Hunt     | 50 | Infectious Fury and 225 CP of Barbarian Talents | 
 
 ### Form of the Beast
-#### *Cost:* 5 Character Points
-#### *Prerequisite:* Rage
-When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. Your proficiency with this weapon is trained and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
+When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. You proficiency with this weapon matches your profiency in rage attacks.
 
 You choose the weapon’s form each time you rage:
 
-**Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain stamina equal to your recovery die, provided that you have less than half your stamina when you hit.
+**Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1dM piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain 1dR stamina if you have less than half your stamina.
 
-**Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the Attack action, you can make one additional claw attack as part of the same action.
+**Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1dM slashing damage on a hit, and has the finesse and light properties. You can [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) using the [dual wield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Dual/) action.
 
-**Tail.** You grow a lashing, spiny tail, which deals 1d8 piercing damage on a hit and has the reach property. Each round, the first time that a creature that you can see within 10 feet of you hits you with a melee or ranged attack roll, you swipe your tail and add +1d to your defense, potentially causing the attack to miss you.
+**Tail.** You grow a lashing, spiny tail, which deals 1dM piercing damage on a hit and has the reach property. Each round, the first time that a creature that you can see within 10 feet of you hits you with a melee or ranged attack roll, you swipe your tail and add +1d to your defense, potentially causing the attack to miss you.
 
 ### Bestial Soul
-#### *Cost:* 10 Character Points
-#### *Prerequisite:* Form of the Beast and 4 Other Barbarian Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Form of the Beast and 50 CP of Barbarian Talents
 The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:
@@ -46,17 +44,15 @@ When you jump, you can make an athletics check and extend your jump by a number 
 You gain a swimming speed equal to your walking speed and you can breathe underwater.
 
 ### Infectious Fury
-#### *Cost:* 25 Character Points
-#### *Prerequisite:* Bestial Soul and 7 Other Barbarian Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Bestial Soul and 125 CP of Barbarian Talents
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. If your attack roll exceeds the target's wisdom defense, they suffer one of the following effects (your choice):
-- The target instantly makes a melee attack against another creature of your choice that you can see. Compare the attacker's weapon skill to the defender's defence. If the attacker's weapon skill is higher, the defender takes the attacker's melee damage.
-- The target takes 2d12 psychic damage.
+- The target must use one of its actions on its next turn to attack another creature of your choice that you can see.
+- The target takes 2dM psychic damage.
 
-You can use this feature a number of times equal to constitution modifier, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a long rest.
 
 ### Call the Hunt
-#### *Cost:* 50 Character Points
-#### *Prerequisite:* Infectious Fury and 10 Other Barbarian Talents
-The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 5 temporary stamina for each creature that accepts this feature. Until the rage ends, the chosen creatures gain 1d6 extra damage on their attacks
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Infectious Fury and 225 CP of Barbarian Talents
+The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 1dR temporary stamina for each creature that accepts this feature. Until the rage ends, the chosen creatures can add 1dM to one damage roll each turn.
 
-You can use this feature a number of times equal to your constitution modifier, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a long rest.

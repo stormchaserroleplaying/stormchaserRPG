@@ -12,12 +12,12 @@ Nearly all checks allow you to add an attribute modifier to the roll. An attribu
 
 When attempting a check that involves something that you have some training in, you will also add dice to your dice pool. This depends on your proficiency rank: untrained, trained, expert, or master. If you’re untrained, then you gain no additional dice and must rely on luck, the raw talent represented by your modifier and any bonuses from the situation. Otherwise, the number of bonus dice that are added to your dice pool depends on your proficiency rank. If you are trained, then this bonus is equal to 1d20 for a base dicepool of 2d20-keep-the-highest-one (2d20kh1). Higher proficiency ranks further increase the number of dice that you add to your pool.
 
-| Proficiency Rank | Dice Pool |
-|:----------------:|:---------:|
-| Untrained | 1d20    |
-| Trained   | 2d20kh1 |
-| Expert    | 3d20kh1 |
-| Master    | 4d20kh1 |
+| Proficiency Rank | Dice Pool | Score |
+|:----------------:|:---------:|:-----:|
+| Untrained | 1d20    | 10 + modifier |
+| Trained   | 2d20kh1 | 14 + modifier |
+| Expert    | 3d20kh1 | 16 + modifier |
+| Master    | 4d20kh1 | 17 + modifier |
 
 Your dice pool can be futher modified by circumstances, such as when you are [hidden](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Detecting/#hidden) or [flanking](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Flanking/).
 

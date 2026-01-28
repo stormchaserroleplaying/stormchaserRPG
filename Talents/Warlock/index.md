@@ -11,8 +11,8 @@ has_children: true
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Eldritch Invocations | 5   | 1 Warlock Branch Talent |
-| Pact Boon            | 15  | 2nd Level Spells and Eldritch Invocations |
-| Unchained            | 100 | 10th Level Spells and 6 Warlock Talents |
+| Pact Boon            | 15  | 2nd Level Arcane Spells and Eldritch Invocations |
+| Unchained            | 100 | 10th Level Arcane Spells |
 
 ### Eldritch Invocations
 
@@ -50,11 +50,6 @@ When you cast the spell, you can choose one of the normal forms for your familia
 Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails a d20 roll, they can roll an additional d20, potentially turning the roll into a success. This benefit can be used a number of times equal to your spellcasting ability modifier and all expended uses are restored when you finish a long rest.
 
 If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
-
-#### Pact of the Tome
-Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose any three cantrips from the arcane or divine list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the arcan spell list, they are nonetheless arcane spells for you.
-
-If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 ### Unchained
 

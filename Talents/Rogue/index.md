@@ -12,25 +12,30 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
 | Sneak Attack | 5 | - |
-| Cunning Action | 10 | 5 CP spent in Rogue talents  |
-| Bad Feeling | 10 | 5 CP spent in Rogue talents |
-| Evasion | 25 | 20 CP spent in Rogue talents |
-| Reliable Skill | 35 | 75 CP spent in Rogue talents |
-| Blindsense | 50 | 150 CP spent in Rogue talents |
-| Slippery Mind | 65 | 200 CP spent in Rogue talents|
-| Elusive | 80 | 350 CP spent in Rogue talents |
-| Stroke of Luck | 100 | 450 CP spent in Rogue talents |
+| Cunning Action | 5 | 5 CP spent in Rogue talents  |
+| Bad Feeling | 5 | 5 CP spent in Rogue talents |
+| Hard to Hold | 20 | 25 CP spent in Rogue talents |
+| Evasion | 25 | 40 CP spent in Rogue talents |
+| Reliable Skill | 35 | 100 CP spent in Rogue talents |
+| Blindsense | 50 | 175 CP spent in Rogue talents |
+| Elusive | 80 | 300 CP spent in Rogue talents |
+| Stroke of Luck | 100 | 375 CP spent in Rogue talents |
 
 ### Sneak Attack
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an additional 3dM damage to one creature you hit with an attack if you have +1d on the attack roll. The source of the +1d must be environmental (proficiency does not count). The attack may not use a weapon with the slow property.
+*You know how to strike subtly and exploit a foe's distraction.*
 
-You don't need +1d on the attack roll if another enemy of the target is within 5 feet of it and that enemy isn't incapacitated.
+Once per turn, if you have +1d on an attack roll, you can deal an additional 3dM damage to one creature you hit with that attack, with the following conditions:
+* The source of the +1d must be environmental (proficiency does not count). 
+* The attack may not use a weapon with the [unwieldy](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#unwieldy) property.
+* These dice are not multiplied on a [critical hit](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#critical-hits).
 
-Additionally, you can forego your Sneak Attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
+If another enemy of the target is within 5 feet of it and that enemy isn't [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), then you don't need +1d on the attack roll.
+
+Additionally, you can forego your sneak attack damage to force your target to roll on the [injury table](https://stormchaserroleplaying.com/stormchaserRPG/Combat/DamageandHealing/Injuries/) instead of taking stamina damage.
 
 ### Cunning Action
 
@@ -48,18 +53,29 @@ You have a wary eye, bordering on paranoia. When you roll for initiative, you ca
 
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
 
+### Hard to Hold
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 25 CP spent in Rogue talents
+*You know how to contort and leverge your limbs to find a way out of the grasp of someone.*
+
+You gain +1d to unarmed attacks when you [escape](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Escape/).
+
 ### Evasion
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** 20 CP spent in Rogue talents
-Content
+#### **Cost:** 25 Character Points<br>**Prerequisite:** 40 CP spent in Rogue talents
+*You can quickly dodge, duck, dip and dive out of the way of effects that cover large areas, like the fiery breath of a dragon.*
+
+If an attack vs your Dexterity defence that is neither melee nor ranged misses you and you would still take half damage, you instead take no damage, and only half damage if it hits. 
 
 ### Reliable Skill
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 75 CP spent in Rogue talents
+#### **Cost:** 35 Character Points<br>**Prerequisite:** 100 CP spent in Rogue talents
 *You have refined your chosen skills until they approach perfection.*
 
 Whenever you make a skill check with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
@@ -68,29 +84,29 @@ Whenever you make a skill check with proficiency and the highest d20 roll is a 9
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 150 CP spent in Rogue talents
-Content
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 175 CP spent in Rogue talents
+*Your keen ears make it hard for invisible creatures sneak up on you.*
 
-### Slippery Mind
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 65 Character Points<br>**Prerequisite:** 200 CP spent in Rogue talents
-Content
+Hearing is a precise sense to a range of 30 feet.
 
 ### Elusive
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 350 CP spent in Rogue talents
-Content
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 300 CP spent in Rogue talents
+*It's never over when your opponent has the high ground.*
+
+While you are not [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/), melee and ranged attacks against you can only apply their proficiency to the roll (environmental sources to gain +1d do not apply).
 
 ### Stroke of Luck
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 450 CP spent in Rogue talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** 375 CP spent in Rogue talents
+*In pivotal moments you know how to make your efforts count.*
 
-Content
+If your melee or ranged attack misses a target within range, you can turn it into a hit. Alternatively, if you fail a check, you can choose to take 20 on the roll.
+
+Once you use this feature, you cannot use it again until you finish a short or long rest.
 
 ## Rogue Talent Tree Branches

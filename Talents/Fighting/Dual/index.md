@@ -21,5 +21,6 @@ You are skilled at fighting with two weapons. While you are wielding separate we
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Dual Wielding Fighting Style
 You've mastered fighting with two weapons, becoming a flurry of motion. While you are wielding separate weapons in each hand with which you are proficient, you gain the following benefits:
-* You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't finesse or light. Instead, these weapons may not be unwieldy or versatile.
+* You can use [Dual Wield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Dual/) even when the one-handed melee weapons you are wielding aren't finesse or light. Instead, these weapons may not be unwieldy or versatile.
+* When you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action and attack with a close or light melee weapon that you’re holding in one hand, you deal +1 damage if the weapon has the light property and +2 damage if the weapon has the close property.
 * When you make an opportunity attack, you can attack with both of your weapons.

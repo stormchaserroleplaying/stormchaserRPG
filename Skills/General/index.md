@@ -2,6 +2,7 @@
 title: General Actions
 has_children: true
 parent: Skills
+nav_order: 3
 ---
 
 # General Skill Actions

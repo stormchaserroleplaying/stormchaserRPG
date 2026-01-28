@@ -17,6 +17,17 @@ A burst of cold energy emanates from you in a 30-foot cone. Make an evocation at
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional point of mana.
 
+## Branding Smite
+*2nd Level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V<br>
+**Duration:** 1 Minute
+
+The next time that you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 sacred damage to the target, which becomes visible if it is [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/), and the target sheds dim light in a 5-foot radius and can’t become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) until the spell ends. 
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the extra damage increases by 1d6 for each additional point of mana.
+
 ## Consecrate/Desecrate
 *2nd level Evocation*<br>
 **Casting Time:** 2 Actions<br>
@@ -31,6 +42,30 @@ This spell blesses or curses an area in a 20-foot radius sphere centered on a po
 **Desecrate.** Undead creatures created within or summoned into the area gain stamina equal to your spellcasting attribute modifier. If the desecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity or aligned higher power, undead creatures within the area gain +1d on attack rolls and other creatures suffer -1d to hit them.
 
 You cannot consecrate/desecrate an area with a similar fixture of a deity other than your own patron. Instead, the spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
+
+## Darkness
+*2nd Level Evocation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 120 feet (20-foot radius)<br>
+**Components:** V, M *(Bat fur and a drop of pitch or piece of coal.)*<br>
+**Duration:** 1 Minute
+
+You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell's level or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.
+
+**At Higher Levels.**  If cast using 4 or more mana, creatures with [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) can barely see through the darkness. They treat targets seen through the darkness as [concealed](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Concealment/#concealed).
+
+## Flame Blade
+*2nd Level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** V, S, M *(A leaf of sumac.)*<br>
+**Duration:** 1 Minute
+
+You evoke a fiery, scimitar-shaped blade in your free hand. While the spell lasts, you can [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with this blade. When you do so, make a melee evocation attack. On a hit, the target takes 3d6 fire damage.
+
+The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+**At Higher Levels.**  When you cast this spell using 3 or more mana, the damage increases by 1d6 for every additional point of mana. 
 
 ## Force Punch
 *2nd Level Evocation*<br>
@@ -85,7 +120,7 @@ When the spell is first cast and at the end of each of your turns for the spell'
 
 You gain +1d to hit shapechangers and they make their defence check with -1d. If one is hit or fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
 
-On each of your turns after you cast this spell, you can use 2 actions to move the beam up to 60 feet in any direction.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can move the beam up to 60 feet in any direction.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d12 for each additional point of mana.
 

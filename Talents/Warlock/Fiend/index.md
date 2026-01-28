@@ -28,16 +28,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Dark One's Blessing  | 5  | - |
-| Dark One's Own Luck  | 10 | 3rd Level Spells and Dark One's Blessing |
-| Fiendish Resilience  | 35 | 5th Level Spells and Dark One's Own Luck |
-| Hurl Through Hell    | 50 | 7th Level Spells and Fiendish Resilience |
+| Dark One's Blessing  | 5  | Arcane Spellcasting |
+| Dark One's Own Luck  | 20 | 3rd Level Arcane Spells and Dark One's Blessing |
+| Fiendish Resilience  | 30 | 5th Level Arcane Spells and Dark One's Own Luck |
+| Hurl Through Hell    | 50 | 7th Level Arcane Spells and Fiendish Resilience |
 
 ###  Dark One's Blessing
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Your patron rewards you with vigour when you send a soul to hell.*
 
 When you reduce a hostile creature to 0 Stamina, you gain temporary Stamina equal to your spellcasting attribute modifier plus your maximum spell level.
@@ -46,7 +46,7 @@ When you reduce a hostile creature to 0 Stamina, you gain temporary Stamina equa
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Dark One's Blessing
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Dark One's Blessing
 *You call on your patron to alter fate in your favour.*
 
 When you make an ability or defense check you can gain +1d. Additionally, you may declare when you roll initiative or at the end of your turn that the next indirect spell attack against you gains -1d, or not to use it at all.
@@ -57,7 +57,7 @@ Once you use this feature, you can’t use it again until you finish a short or 
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Dark One's Own Luck
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Dark One's Own Luck
 *Your patron grants you whatever protection you desire.*
 
 You can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance.
@@ -66,7 +66,7 @@ You can choose one damage type when you finish a short or long rest. You gain re
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Fiendish Resilience
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Fiendish Resilience
 *You damn those whom you strike to briefly endure hell.*
 
 When you hit a creature with an attack, you can instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.

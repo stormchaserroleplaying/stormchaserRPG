@@ -28,16 +28,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Awakened Mind  | 5  | - |
-| Entropic Ward  | 10 | 3rd Level Spells and Awakened Mind |
-| Thought Shield | 35 | 5th Level Spells and Entropic Ward |
-| Create Thrall  | 50 | 7th Level Spells and Thought Shield |
+| Awakened Mind  | 5  | Arcane Spellcasting |
+| Entropic Ward  | 20 | 3rd Level Arcane Spells and Awakened Mind |
+| Thought Shield | 30 | 5th Level Arcane Spells and Entropic Ward |
+| Create Thrall  | 50 | 7th Level Arcane Spells and Thought Shield |
 
 ###  Awakened Mind
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Your alien knowledge gives you the ability to touch the minds of other creatures.*
 
 You can telepathically speak to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
@@ -46,7 +46,7 @@ You can telepathically speak to any creature you can see within 30 feet of you. 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Awakened Mind<br>**Actions:** Free<br>**Trigger:** A creature makes a melee or ranged attack roll against you.
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Awakened Mind<br>**Actions:** Free<br>**Trigger:** A creature makes a melee or ranged attack roll against you.
 *You learn to magically ward yourself against attack and to turn an enemy’s failed strike into good luck for yourself.*
 
 When a creature makes an attack roll against you, you can add +1d to your defence. If the attack misses you, your next attack roll against the creature gains +1d, if you make it before the end of your next turn.
@@ -59,7 +59,7 @@ Once you use this feature, you cannot use it again until you finish a short or l
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Entropic Ward
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Entropic Ward
 *Your patron causes your mind to appear muddied to others.*
 
 Your thoughts can’t be read by telepathy, or other means, unless you allow it. You also have resistance to psychic damage and, whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do.
@@ -68,7 +68,7 @@ Your thoughts can’t be read by telepathy, or other means, unless you allow it.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Thought Shield<br>**Actions:** 2
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Thought Shield<br>**Actions:** 2
 *You gain the ability to infect a humanoid’s mind with the alien magic of your patron.*
 
 You touch an [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) humanoid, that then becomes [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until a [Remove Curse]() spell is cast on it, the [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition is removed from it, or you use this ability again.

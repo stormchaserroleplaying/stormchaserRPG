@@ -1,6 +1,7 @@
 ---
 title: Deception
 parent: Skills
+has_children: true
 ---
 
 # Deception

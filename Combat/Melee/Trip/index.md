@@ -8,4 +8,10 @@ grand_parent: Combat
 *Attack*<br>
 **Actions:** 1
 
-While wielding a melee weapon with the Reach property, or any polearm weapon, you can perform the [Shove](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Shove/) action using your weapon's attack roll instead of your unarmed attack roll.
+Make an unarmed attack roll vs the target's unarmed weapon skill.
+
+If your target is smaller than you, you have +1d. If the target is larger than you, you suffer -1d. The target of a trip may be no more than one size larger than you and must be within your reach.
+
+**Success:** The target is knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+
+**Critical Success:** The target takes an additional 1dM bludgeoning damage for every additional hit in your dice pool.

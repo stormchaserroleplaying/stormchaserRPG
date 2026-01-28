@@ -9,15 +9,13 @@ grand_parent: Talents
 | Invocation | CP | Prerequisites |
 |:-----------|:--:|:--------------|
 | Armour of Shadows               | 5  | - | 
-| Aspect of the Moon             | 5  | Pact of the Tome | 
+| Aspect of the Moon             | 5  | Spellbook | 
 | Beast Speech                   | 5  | - |
-| Book of Ancient Secrets        | 5  | Pact of the Tome |
 | Devil's Sight                  | 5  | - |
 | Eldritch Mind                  | 5  | - |
 | Eldritch Sight                 | 5  | - |
 | Eldritch Spear                 | 5  | [Eldritch Blast]() Cantrip |
 | Eldritch Whip                  | 5  | [Eldritch Blast]() Cantrip |
-| Eyes of the Rune Keeper        | 5  | - |
 | Fiendish Vigor                 | 5  | - |
 | Gaze of Two Minds              | 5  | - |
 | Gift of the Ever-Living Ones   | 5  | Pact of the Chain |
@@ -34,7 +32,8 @@ grand_parent: Talents
 | Voice of the Chain Master      | 5  | - |
 | Cloak of Flies                 | 10 | 3rd Level Spells |
 | Eldritch Smite                 | 10 | 3rd Level Spells and Pact of the Blade |
-| Far Scribe                     | 10 | 3rd Level Spells and Pact of the Tome |
+| Eyes of the Rune Keeper        | 10 | - |
+| Far Scribe                     | 10 | 3rd Level Spells and Spellbook |
 | Frigid Tomb                    | 10 | 3rd Level Spells |
 | Gift of the Depths             | 10 | 3rd Level Spells |
 | Maddening Hex                  | 10 | 3rd Level Spells and Hex spell or other ability that curses |
@@ -51,7 +50,7 @@ grand_parent: Talents
 | Sculptor of Flesh              | 15 | 4th Level Spells |
 | Trickster's Escape             | 15 | 4th Level Spells |
 | Ascendant Step                 | 25 | 5th Level Spells |
-| Gift of the Protectors         | 25 | 5th Level Spells and Pact of the Tome |
+| Gift of the Protectors         | 25 | 5th Level Spells and Spellbook |
 | Minions of Chaos               | 25 | 5th Level Spells |
 | Otherworldly Leap              | 25 | 5th Level Spells |
 | Whispers of the Grave          | 25 | 5th Level Spells |
@@ -76,8 +75,8 @@ You can cast [Mage Armour](https://stormchaserroleplaying.com/stormchaserRPG/Spe
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Tome 
-You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Spellbook 
+You no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your spellbook and keeping watch.
 
 ### Beast Speech
 
@@ -85,15 +84,6 @@ You no longer need to sleep and can’t be forced to sleep by any means. To gain
 
 #### **Cost:** 5 Character Points
 You can cast [Speak with Animals]() at will, without expending mana.
-
-### Book of Ancient Secrets
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisites:** Pact of the Tome 
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag. The spells appear in the book and don’t count against the number of spells that you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
-
-On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
 ### Devil’s Sight
 
@@ -129,13 +119,6 @@ When you cast [Eldritch Blast](), its range is 300 feet.
 
 #### **Cost:** 5 Character Points<br>**Prerequisites:** [Eldritch Blast]() Cantrip
 Once on each of your turns when you hit a creature with your [Eldritch Blast](), you can move that creature in a straight line 10 feet closer to you.
-
-### Eyes of the Rune Keeper
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points
-You can read all writing.
 
 ### Fiendish Vigour
 
@@ -269,12 +252,19 @@ Once you use this invocation, you can’t use it again until you finish a short 
 #### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Blade
 Once per turn, when you hit a creature with your pact weapon, you can expend mana to deal an extra 1d8 energy damage to the target, plus another 1d8 per mana expended, and you can knock the target prone if it is Huge or smaller.
 
+### Eyes of the Rune Keeper
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You can read any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
+
 ### Far Scribe
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute modifier.
+#### **Cost:** 10 Character Points<br>**Prerequisites:** 3rd Level Spells and Spellbook
+A new page appears in your spellbook. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to your spellcasting attribute modifier.
 
 You can cast the [Sending]() spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.
 
@@ -406,8 +396,8 @@ You can cast [Levitate]() on yourself at will, without expending mana or materia
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells and Pact of the Tome
-A new page appears in your Book of Shadows. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
+#### **Cost:** 25 Character Points<br>**Prerequisites:** 5th Level Spells and Spellbook
+A new page appears in your spellbook. With your permission, a creature can use 2 actions to write its name on that page, which can contain a number of names equal to spellcasting attribute modifier.
 
 When any creature whose name is on the page is reduced to 0 Stamina but not killed outright, the creature magically drops to 1 stamina instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.
 

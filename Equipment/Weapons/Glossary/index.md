@@ -108,7 +108,16 @@ Light weapons are small and easy to handle, making them ideal for use when fight
 A light weapon can also be used effectively while the wielder is prone or supine. Creatures that attack with a light weapon while prone or supine do not suffer -1d on their attack roll, if they are proficient with the weapon.
 
 ### Load
-This weapon takes a number of actions equal to the listed value to reload.
+This weapon takes a number of actions equal to the listed value to reload. This value is modified as follows by your proficiency with the weapon that you are reloading.
+
+| Proficiency | Load Multiplier |
+|:-----------:|:---------------:|
+| Untrained | ×2 |
+| Trained | ×1 |
+| Expert | ×0.5 |
+| Master | ×0.25 |
+
+Modified load values of 0.5 or above round up to 1. Modified load values below 0.5 round down to 0.
 
 ### Long
 Long weapons add 5 feet to your reach when you attack with them, as well as when determining your reach for opportunity attacks with them. However, long weapon attacks vs targets at a distance of 5 feet or less suffer -1d.
@@ -191,7 +200,7 @@ Attacks with an entangled weapon suffer -1d on the attack roll. An entangled shi
 The creature wielding the weapon used to make the attack can disentangle it using their object interaction. If the creature wielding the implement used to defend wishes to disentangle itself, then it must spend an attack as part of the attack action and make a successful melee attack roll vs the weapon skill of the creature wielding the entangling weapon.
 
 ### Trip
-Trip attempts made with a trip weapon have +1d.
+You can perform the [trip](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Trip/) action using your weapon's attack roll instead of your unarmed attack roll.
 
 ### Tripod
 Attempting to fire this weapon without a tripod imparts -1d on the attack roll.
@@ -228,7 +237,7 @@ Wielding a melee weapon in two hands allows you to put more strength behind your
 ### Unwieldy
 Small creatures suffer -1d on attack rolls with unwieldy weapons. An unwieldy weapon's size and bulk make it too large for a Small creature to use effectively.
 
-Additionally, if you take the attack action with an unwieldy weapon and use all of your attacks for that round, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
+Additionally, if you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action more than once in one round with an unwieldy weapon, then hostile creatures leaving your reach do not have to make a defence check to avoid taking damage from an opportunity attack.
 
 ### Velocity
 Advanced firearms shoot projectiles at a higher velocity than all other ranged weapons. While causing less bleeding than arrows, bullets deal more trauma and are very effective at killing quickly. When rolling for damage, roll one additional weapon die then remove the die with the lowest result.
@@ -252,6 +261,11 @@ A worn weapon attaches to the arm but the hand remains unoccupied.
 Weapons with the worn property are equipped similarly to armour, by strapping them firmly to the body. It takes up to 1 minute to don or doff the weapon and you can do it as part of donning or doffing armour. The GM may allow you to skip the required time if you ignore the worn property of the weapon.
 
 While the weapon benefits from the worn property, it cannot be disarmed unless the attack or skill check is a critical hit.
+
+## Range
+Ranged and thrown weapons each have a listed range increment and attacks with them grow less accurate against targets farther away. As long as your target is at or within the listed range increment, also called the first range increment, you take no penalty to your dice pool for the attack roll. If you’re attacking beyond that range increment, you take a –1d penalty for each additional increment beyond the first. You can attempt to attack with a ranged weapon or thrown weapon up to four range increments away, but the farther away that you are, the harder it is to hit your target.
+
+For example, the range increment of a light crossbow is 80 feet. If you are shooting at a target no farther away than that distance, you take no penalty due to range. If they’re beyond 80 feet, but no more than 160 feet away, you take a –1d penalty due to range. If they’re beyond 160 feet, but no more than 240 feet away, you take a –2d penalty due to range and so on, until you reach the last range increment: beyond 240 feet, but no more than 320 feet away, where you take a –3d penalty due to range.
 
 ## Str/Dex
 If your Dexterity is less than the **Str/Dex** entry of the weapon, then you suffer -1d on your attack rolls with the weapon. If you are wielding a ranged weapon, or if the weapon as a finesse weapon, then this instead applies to your Strength.

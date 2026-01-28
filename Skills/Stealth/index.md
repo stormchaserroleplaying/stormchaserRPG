@@ -8,12 +8,12 @@ has_children: true
 Stealth is a **Dexterity**-based skill for when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
 
 ## Untrained Actions
-* Hide(https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/)
-* Conceal an Object(https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Conceal/)
-* Distraction(https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Distraction/)
+* [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/)
+* [Conceal an Object](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Conceal/)
+* [Distraction](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Distraction/)
 
 ## Trained Actions
-* Move Silently(https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Move/)
+* [Move Silently](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Move/)
 
 ## Subskills
 

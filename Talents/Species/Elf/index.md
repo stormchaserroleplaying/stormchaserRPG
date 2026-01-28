@@ -4,7 +4,7 @@ parent: Species Talents
 grand_parent: Talents
 ---
 
-# Elf Talentsᴮᴳ
+# Elf Talents
 
 ## Blessing of the Raven Queen
 

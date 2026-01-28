@@ -1,6 +1,6 @@
 ---
 title: Conceal an Object
-parent: Stalth
+parent: Stealth
 grand_parent: Skills
 ---
 

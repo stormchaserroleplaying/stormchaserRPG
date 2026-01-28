@@ -13,17 +13,21 @@ See [the Arden campaign setting](https://stormchaserroleplaying.com/Arden/Specie
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 10 Character Points
 Those with infernal lineage share certain features as a result of their fiendish descent.
 
-### Darkvision
-Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+### Low-Light Vision
+*Thanks to your infernal heritage, you have superior vision in dark and dim conditions.*
 
-### Hellish Resistance
-You have resistance to fire damage.
+You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light.
+
+If your species already grants you [low-light vision](https://stormchaserroleplaying.com/stormchaserRPG/Species/Common/Elf/#low-light-vision), you instead gain [infravision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#infravision).
+
+### Infernal Resistance
+You have resistance to profane damage.
 
 ### Infernal Legacy
-You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and can cast the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell once per long rest. Charisma is your spellcasting ability for these spells.
+You know the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip and the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell. Charisma is your spellcasting ability for these spells.
 
 ## Phenotypes
 Numerous bloodlines descended from a variety of different kinds of fiends have resulted in numerous phenotypes that exhibit various magical powers.
@@ -32,22 +36,22 @@ Numerous bloodlines descended from a variety of different kinds of fiends have r
 Those who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Searing Smite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#searing-smite).
 
 ### Second Circle
-Those who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self]().
+Those who's lineage can be traced to the second circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Illusion/#disguise-self).
 
 ### Third Circle
-Those who's lineage can be traced to the third circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Floating Disc]().
+Those who's lineage can be traced to the third circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Floating Disc](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#floating-disc).
 
 ### Fourth Circle
-Those who's lineage can be traced to the fourth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Friends](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#friends) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Charm Person]().
+Those who's lineage can be traced to the fourth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Friends](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#friends) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Charm Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#charm-person).
 
 ### Fifth Circle
 Those who's lineage can be traced to the fifth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Ray of Frost](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#ray-of-frost) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Winter's Ward](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Warding/#winters-ward).
 
 ### Sixth Circle
-Those who's lineage can be traced to the sixth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self]().
+Those who's lineage can be traced to the sixth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Minor Illusion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#minor-illusion) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Disguise Self](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Illusion/#disguise-self).
 
 ### Seventh Circle
-Those who's lineage can be traced to the seventh circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Ray of Sickness]().
+Those who's lineage can be traced to the seventh circle of hell replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Ray of Sickness](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Necromancy/#ray-of-sickness).
 
 ### Eighth Circle
-Those who's lineage can be traced to the eighth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Burning Hands]().
+Those who's lineage can be traced to the eighth circle of hell replace the [Thaumaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thaumaturgy) cantrip from their Infernal Legacy with the [Mage Hand](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#mage-hand) cantrip. Additionally, they replace the [Hellish Rebuke](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#hellish-rebuke) spell from their Infernal Legacy with [Burning Hands](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#burning-hands).

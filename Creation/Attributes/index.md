@@ -6,11 +6,11 @@ nav_order: 1
 ---
 
 # 1. Choose Attributes
-Start by generating your character's attributes. These six scores are your character's most basic statistics and are used to determine a wide variety of details and statistics. Some classes require better than average scores for one or more attributes. There are several methods to choose from for generating these scores so consult your GM to determine which method they are using.
+Start by generating your character's attributes. These six scores are your character's most basic statistics and are used to determine a wide variety of details and statistics.
 
 Much of what your character does in the game depends on their six attributes: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom** and **Charisma**. Each attribute has a score, which is a number that you record on your character sheet.
 
-The six attributes and their use in the game are described in detail [here](https://stormchaserroleplaying.com/stormchaserRPG/UsingAbilityScores/). A quick reference for what qualities are measured by each attribute follows below:
+The six attributes and their use in the game are described in detail [here](https://stormchaserroleplaying.com/stormchaserRPG/Attributes/). A quick reference for what qualities are measured by each attribute follows below:
 
 * **Strength** measures athleticism and bodily power.
 * **Dexterity** measures agility, reflexes, balance and poise.

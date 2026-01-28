@@ -2,7 +2,7 @@
 title: Divine Spellcasting
 parent: Magic Talents
 grand_parent: Talents
-nav_order: 2
+nav_order: 3
 ---
 
 # Divine Spellcasting Talents
@@ -52,14 +52,14 @@ You can prepare and cast 2nd level spells. Your maximum mana increases to 6.
 
 You can prepare spells with a total number of levels equal to your 2× your spellcasting attribute modifier. For example, if you have a spellcasting attribute of 16, you can prepare a total of 6 spell levels worth of spells. This could be 3 2nd level spells, 6 1st level spells, or anything in between.
 
-Use the base level of each spell when you determine how many spell levels you must investing in preparing that spell, even if the spell can be upcast. For example, if you prepare a 1st-level spell, such as [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal), you can nevertheless cast it at 1st or 2nd level (or higher, if you can cast higher level spells).
+Use the base level of each spell when you determine how many spell levels you must invest to prepare that spell, even if the spell can be upcast. For example, if you prepare a 1st-level spell, such as [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal), you can nevertheless cast it at 1st or 2nd level (or higher, if you can cast higher level spells).
 
 ## 3rd Level Divine Spells
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 2nd Level Divine Spells, Spellcasting Attribute of 13 or Higher and Character Value 210 Points
-You can prepare and cast 3rd level spells. Your maximum mana increases to 9.
+You can prepare and cast 3rd level spells. Your maximum mana increases to 9 and your power die increases to a d6.
 
 You can prepare spells with a total number of levels equal to your 3× your spellcasting attribute modifier. For example, if you have a spellcasting attribute of 16, you can prepare a total of 9 spell levels worth of spells. This could be 3 3rd level spells, 9 1st level spells, or anything in between.
 
@@ -77,7 +77,7 @@ You can prepare spells with a total number of levels equal to your 4× your spel
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 4th Level Divine Spells, Spellcasting Attribute of 15 or Higher and Character Value 310 Points
-You can prepare and cast 5th level spells. Your maximum mana increases to 21.
+You can prepare and cast 5th level spells. Your maximum mana increases to 21 and your power die increases to a d8.
 
 You can prepare spells with a total number of levels equal to your 5× your spellcasting attribute modifier. For example, if you have a spellcasting attribute of 16, you can prepare a total of 15 spell levels worth of spells. This could be 3 5th level spells, 5 3rd level spells, 15 1st level spells, or anything in between.
 
@@ -95,7 +95,7 @@ The number of levels of spells that you can prepare does not increase.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Prerequisite:** 6th Level Divine Spells, Spellcasting Attribute of 17 or Higher and Character Value 460 Points
-You can prepare and cast 7th level spells. Your maximum mana increases to 24.
+You can prepare and cast 7th level spells. Your maximum mana increases to 24 and your power die increases to a d10.
 
 The number of levels of spells that you can prepare does not increase.
 
@@ -113,7 +113,7 @@ The number of levels of spells that you can prepare does not increase.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** 8th Level Divine Spells, Spellcasting Attribute of 19 or Higher and Character Value 720 Points
-You can prepare and cast 9th level spells. Your maximum mana increases to 31.
+You can prepare and cast 9th level spells. Your maximum mana increases to 31 and your power die increases to a d12.
 
 The number of levels of spells that you can prepare does not increase.
 

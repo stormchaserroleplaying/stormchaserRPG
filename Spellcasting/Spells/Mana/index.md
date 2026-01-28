@@ -35,22 +35,6 @@ Some spells, such as *magic missile* and *cure wounds*, are more powerful when c
 | 10 | 38 |
 
 ## Recovering Mana
-Finishing a long rest restores any expended mana (see [the rules on resting](https://stormchaserroleplaying.com/stormchaserRPG/Adventuring/Resting/)).
+Finishing a long rest restores any expended mana (see [the rules on resting](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Resting/)).
 
-When a spellcaster takes a breather or a short rest, they may spend their recovery dice to recover mana, instead of using them to recover stamina. A spellcaster who chooses to do this rolls their recovery die and recovers that amount of mana.
-
-> ## Variant: Short Rest Mana Recovery
-> If you wish to play a disciple or mage that normally recovers its mana on a long rest, but you would prefer to recover your mana on a short rest, see the table below. Such classes have roughly one third as much mana as a long rest caster, including expected mana recovery via recovery dice. It is expected that characters have two short rests per day.
-> 
-> | Maximum Spell Level | Mana |
-> |:-------------------:|:----:|
-> | 1 | 3 |
-> | 2 | 6 |
-> | 3 | 9 |
-> | 4 | 12 |
-> | 5 | 15 |
-> | 6 | 16 |
-> | 7 | 18 |
-> | 8 | 21 |
-> | 9 | 24 |
-> | 10 | 27 |
+When a spellcaster takes a breather or a short rest, they may roll 1dP + their spellcasting attribute modifier to recover mana.

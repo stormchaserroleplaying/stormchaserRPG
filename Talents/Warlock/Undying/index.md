@@ -28,16 +28,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Among the Dead      | 5  | - |
-| Defy Death          | 10 | 3rd Level Spells and Among the Dead |
-| Undying Nature      | 35 | 5th Level Spells and Defy Death |
-| Indestructible Life | 50 | 7th Level Spells and Undying Nature |
+| Among the Dead      | 5  | Arcane Spellcasting |
+| Defy Death          | 20 | 3rd Level Arcane Spells and Among the Dead |
+| Undying Nature      | 30 | 5th Level Arcane Spells and Defy Death |
+| Indestructible Life | 50 | 7th Level Arcane Spells and Undying Nature |
 
 ###  Among the Dead
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Being on the edge of death, it’s difficult for the undead to determine if you stand with them.*
 
 You gain +1d to your defenses vs disease.
@@ -48,7 +48,7 @@ Additionally, the undead have difficulty harming you. If an undead creature targ
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Among the Dead
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Among the Dead
 *You can give yourself vitality when you cheat death or when you help someone else cheat it.*
 
 when you succeed on a recovery check or when you stabilise a creature with [Spare the Dying](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Restoration/#spare-the-dying), you can regain Stamina equal to 1d8 + your Constitution modifier.
@@ -59,7 +59,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Defy Death
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Defy Death
 *You have one foot in the grave!*
 
 You can hold your breath indefinitely and you don’t require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.
@@ -70,7 +70,7 @@ In addition, you age at a slower rate. For every 10 years that pass, your body a
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Undying Nature<br>**Actions:** 1
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Undying Nature<br>**Actions:** 1
 *You partake of some of the true secrets of the Undying.*
 
 You can regain Stamina equal to 1d8 + twice your maximum spell level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.

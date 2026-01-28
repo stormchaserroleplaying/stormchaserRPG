@@ -37,16 +37,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Psionic Adept       | 5  | - |  
-| Psionic Sorcery     | 5  | 3rd Level Spells and Psionic Adept |  
-| Psionic Defense     | 5  | 3rd Level Spells and Psionic Adept |  
-| Revelation in Flesh | 50 | 7th Level Spells, Psionic Sorcery and Psionic Defense |  
-| Warping Implosion   | 80 | 9th Level Spells and Revelation in Flesh |  
+| Psionic Adept       | 5  | Arcane Spellcasting |  
+| Psionic Sorcery     | 10 | 3rd Level Arcane Spells and Psionic Adept |  
+| Psionic Defense     | 10 | 3rd Level Arcane Spells and Psionic Adept |  
+| Revelation in Flesh | 50 | 7th Level Arcane Spells, Psionic Sorcery and Psionic Defense |  
+| Warping Implosion   | 80 | 9th Level Arcane Spells and Revelation in Flesh |  
 
 ### Psionic Adept
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *You can form a telepathic connection between your mind and the mind of another.*
 
 Choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your spellcasting ability modifier. To understand each other, you each must speak mentally in a language the other knows.
@@ -57,21 +57,21 @@ The telepathic connection lasts for a number of minutes equal to two times the m
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Psionic Adept
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Psionic Adept
 When you cast any spell of 1st level or higher from your Bonus Spell list, you can cast it by expending mana as normal, or by doubling the mana spent. If you cast the spell by doubling the mana spent, it requires no verbal, somatic components, or material components (unless the material components are consumed by the spell).
 
 ### Psionic Defense
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Psionic Adept
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Psionic Adept
 You gain resistance to psychic damage and you benefit from +1d to your defenses against being charmed or frightened.
 
 ### Revelation in Flesh
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Psionic Sorcery, Psionic Defense<br>**Actions:** 1
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells, Psionic Sorcery, Psionic Defense<br>**Actions:** 1
 *You can unleash the aberrant truth hidden within yourself.* 
 
 You can spend one or more mana to magically transform your body for 10 minutes. For each mana you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
@@ -84,7 +84,7 @@ You can spend one or more mana to magically transform your body for 10 minutes. 
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Revelation in Flesh<br>**Actions:** 2
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Revelation in Flesh<br>**Actions:** 2
 *You can unleash your aberrant power as a space-warping anomaly.* 
 
 You can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, make a spellcasting attack against each creature within 30 feet of the space you left must vs their Strength defense. On a hit, a creature takes 3d10 energy damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a miss, the creature takes half as much damage and isn’t pulled.

@@ -39,14 +39,14 @@ Additionally, as an action, you can concentrate on a single item or individual t
 #### **Cost:** 5 Character Points
 *Your blessed touch can revitalise and heal.*
 
-You always have the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) and [Lesser Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared.
+You always have the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) and [Lesser Restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Level2/Abjuration/#lesser-restoration) spells prepared and they do not count against your number of spells prepared. If you already know these spells (e.g. from [Celestial Legacy](https://stormchaserroleplaying.com/stormchaserRPG/Species/Lineages/Celestial/#celestial-legacy), or being a [Divine Soul](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Sorcerer/Divine/#good)), then you may pick another [restoration](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/) spell of the same level.
 
 ### Divine Smite
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** 10 CP of Paladin Talents
-When you hit a creature with a melee weapon attack, you can expend mana to deal sacred damage to the target, in addition to the weapon's damage. The extra damage is 1d8 per point of mana expended. The maximum amount of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1d8 if the target is an undead or a fiend.
+When you hit a creature with a melee weapon attack, you can expend mana to deal sacred damage to the target, in addition to the weapon's damage. The extra damage is 1dP per point of mana expended. The maximum amount of mana that you can spend is equal to the highest level of spells that you can cast. The damage increases by an additional 1dP if the target is an undead or a fiend.
 
 ### Divine Health
 

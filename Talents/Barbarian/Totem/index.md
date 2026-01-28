@@ -9,76 +9,83 @@ The growth of a Totem Warrior is a spiritual journey, as the barbarian accepts a
 
 Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.
 
-## Features
-
-### Rituals
-Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. When you take your first talent from this branch, you gain the ability to cast the *beast sense* and *speak with animals* spells, but only as rituals, as described [here](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/WhatisaSpell/Rituals/).
-
 ## Talents
 
-| Talent | CP | Prerequisites | Barbarian Talents Required |
-|:------:|:--:|:-------------:|:--------------------------:|
-| Totem Spirit        | 5  | Rage | - |
-| Aspect of the Beast | 10 | Totem Spirit and 4 Other Barbarian Talents | 5 |
-| Spirit Walker       | 25 | Aspect of the Beast and 7 Other Barbarian Talents | 8 |
-| Totemic Attunement  | 50 | Spirit Walker and 10 Other Barbarian Talents | 11 |
+| Talent | CP | Prerequisites |
+|:------:|:--:|:-------------:|
+| Totem Spirit        | 15 | Rage |
+| Aspect of the Beast | 20 | Totem Spirit and 50 CP of Barbarian Talents |
+| Spirit Walker       | 30 | Aspect of the Beast and 125 CP of Barbarian Talents |
+| Totemic Attunement  | 50 | Spirit Walker and 225 CP of Barbarian Talents |
 
 ### Totem Spirit
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Rage
-When you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object (an amulet or similar adornment) that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Rage
+Yours is a path that seeks attunement with the natural world, giving you a kinship with beasts. You gain the [Beast Sense]() and [Speak With Animals](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#speak-with-animals) spells.
 
-Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
+When you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object (an amulet or similar adornment) that incorporates fur or feathers, claws, teeth, or bones of an animal connected with the spirit. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow. Many animals can represent a totem spirit, so the player may choose a different animal that relates to those listed.
 
-**Bear:** While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+| Totem | Sample Animals |
+|:-----:|:--------------:|
+| Bear | Bear, Boar, Bull, Turtle, Whale |
+| Stag | Deer, Dolphin, Elk |
+| Eagle | Dragon, Eagle, Hawk, Roc |
+| Wolf | Hyena, Lion, Wolf |
+| Tiger | Lion, Tiger, Crocodile, Snake, Shark |
 
-**Eagle:** While you’re raging, you have +1d on defence checks to avoid opportunity attacks and you can use the Dash action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
+While you are raging, you gain the following benefit based on your chosen Totem Spirit.
 
-**Elk:** While you are raging and aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.
+**Bear:** You have resistance to all damage except mental damage. The Bear Totem makes you tough enough to withstand any punishment.
 
-**Tiger:** While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps.
+**Eagle:** You have +1d on defence checks to avoid opportunity attacks and you can [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once per turn without using an action. The Eagle Totem makes you extraordinarily swift.
 
-**Wolf:** While you’re raging, your friends have +1d on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
+**Stag:** While you aren't wearing heavy armour, your walking speed increases by 15 feet. The spirit of the stag makes you extraordinarily swift.
+
+**Tiger:** Each turn, the first time that you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) a creature that you have [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Grapple/) you deal double damage.
+
+**Wolf:** Your allies have +1d on melee attack rolls against any creature within 5 feet of you that is hostile to you. The Wolf Totem makes you a leader of hunters.
 
 ### Aspect of the Beast
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Totem Spirit and 4 Other Barbarian Talents
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Totem Spirit and 50 CP of Barbarian Talents
 You gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected for Totem Spirit or a different one.
 
 **Bear:** You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled and you have +1d on Strength checks made to push, pull, lift, or break objects.
 
-**Eagle:** You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose -1d on your sight-based perception checks.
+**Eagle:** You gain the eyesight of an eagle. You gain low-light vision with a distance of 1 mile.
 
-**Elk:** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/), for rules on travel pace). The elk spirit helps you roam far and fast.
+**Stag:** Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/) for the rules on travel pace). The elk spirit helps you roam far and fast.
 
-**Tiger:** You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.
+**Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace and you can move stealthily while traveling at a normal pace (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/) for the rules on travel pace).
 
-**Wolf:** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see [Speed](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Movement/Speed/), for rules on travel pace).
+**Tiger:** ***Pending rewrite*** ~~You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.~~
 
 ### Spirit Walker
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Spirit Seeker and 7 Other Barbarian Talents
-You can cast the *Commune With Nature* spell, but only as a ritual. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Aspect of the Beast and 125 CP of Barbarian Talents
+You can cast the [Commune With Nature]() spell. When you do so, a spiritual version of one of the animals that you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
 
 ### Totemic Attunement
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** Aspect of the Beast and 10 Other Barbarian Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Spirit Walker and 225 CP of Barbarian Talents
 You gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.
 
-**Bear:** While you’re raging, any creature within 5 feet of you that’s hostile to you has -1d on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you, or if it can’t be frightened.
+While raging, you gain a benefit listed below based on your chosen totem animal:
 
-**Eagle:** While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
+**Bear:** Any creature within 5 feet of you that’s hostile to you has -1d on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you, or if it can’t be frightened.
 
-**Elk:** While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. When you do so, make a rage attack roll against the target's strength defense. On a hit, the target is knocked prone and takes bludgeoning damage equal to 1d12 + your Strength modifier. On a miss, the target takes half damage and is not knocked prone.
+**Eagle:** You have a flying speed equal to your current walking speed.
 
-**Tiger:** While you’re raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.
+**Stag:** When you [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/), you can do so with only one action instead of two. Additionally, [Charging](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) only takes two actions instead of three and you only need to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) once before attacking the target.
 
-**Wolf:** While you’re raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
+**Tiger:** After you successfully [Charge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Charge/) a creature, you can immediately [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) them as a free action.
+
+**Wolf:** When you deal damage to a target in melee, they are automatically knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).

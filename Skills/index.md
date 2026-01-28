@@ -14,10 +14,10 @@ The skills related to each attribute are shown in the following list. See each s
 * **Dexterity**: Athletics, Sleight of Hand, Stealth
 * **Constitution**: Athletics
 * **Intelligence**: Arcana, History, Investigation, Nature, Theology 
-* **Wisdom**: Animal Handling, Insight, Medicine, Perception, Survival
+* **Wisdom**: Animal Handling, Insight, Medicine, Survival
 * **Charisma**: Deception, Intimidation, Performance, Persuasion
 
-Sometimes, the GM might ask for check using a specific skill. For example, "make a perception check". At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means that an individual can make checks that involve that skill with +1d. Without proficiency in the skill, the individual rolls a single d20.
+Sometimes, the GM might ask for check using a specific skill. For example, "make an investigation check". At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means that an individual can make checks that involve that skill with +1d. Without proficiency in the skill, the individual rolls a single d20.
 
 For example, if a character attempts to climb up a dangerous cliff, the Game Master might ask for an athletics check. If the character is proficient in athletics, then the character makes the check with +1d. If the character lacks that proficiency, then they just roll a single d20.
 

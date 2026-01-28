@@ -42,7 +42,7 @@ You must choose an attribute to be your spellcasting attribute. The attributes t
 You use your chosen ability whenever a spell refers to your spellcasting ability. In addition, you use the modifier of your chosen ability when making an attack roll with a spell that you cast.
 
 ### Spells Known
-You begin play knowing a number of spells from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier ever changes, you learn new spells, or lose access to existing spells, depending on whether the modifier increases or decreases.
+You begin play knowing a number of 1st level spells from the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier ever changes, you learn new spells, or lose access to existing spells, depending on whether the modifier increases or decreases.
 
 Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(s) from. You gain the bonus 1st level spells listed in that branch's bonus spells table. If you have talents from multiple sorcerer, warlock and wizard branches, then you must choose **one** branch to be the one that grants you bonus spells known. You may purchase spells known from the bonus spell tables of your other sorcerer, warlock and wizard branches at half the normal rate. (1 CP per spell level, instead of 2 CP per spell level.)
 

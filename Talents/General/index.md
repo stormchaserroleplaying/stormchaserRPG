@@ -28,10 +28,10 @@ You have undergone extensive physical training to gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Intelligence 20 or +2 species bonus to Intelligence
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Intelligence 20 or +2 species bonus to Intelligence
 You have the cunning of the most prolific scholars, granting the following benefits:
-* When you engage in the Training downtime activity, during resolution, you roll the check with proficiency. If you would already roll the check with proficiency, you instead roll the check with expertise.
-* Whenever you make an ability check that uses your Intelligence as is not rolled with proficiency, you can reroll the check, but you must take the result.
+* Whenever you make a skill check from the following skills (Arcana, Lore, Nature, or Theology) with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
+* Whenever you make an ability check that uses your Intelligence, you may reroll a single d20 from your die pool, but you must take the result even if it's lower.
 
 ## Exalted Awareness
 
@@ -60,13 +60,6 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Constitution 13 or higher
 Hardy and resilient, you gain the following benefits:
 * When you roll a recovery die to regain stamina, the minimum amount of stamina that you regain from the roll is equal to twice your Constitution modifier.
-
-## Eidetic Recall
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Intelligence 13 or higher
-Whenever you make a skill check from the following skills (Arcana, Lore, Nature, or Theology) with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10. 
 
 ## Force of Personality
 

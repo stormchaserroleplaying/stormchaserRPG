@@ -91,7 +91,7 @@ If the target being pushed would be moved into a creature of its own size or sma
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A legume seed.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 For the spell's duration, a line of strong wind 60 feet long and 10 feet wide blasts from you in a direction of your choice.
 
@@ -112,7 +112,7 @@ On each of your turns before the spell ends, you can use 1 action to change the 
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet (5-foot radius)<br>
 **Components:** V, S, M *(Several seeds of any moonseed plant and a piece of opalescent feldspar.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
@@ -149,3 +149,16 @@ A sudden loud ringing noise, painfully intense, erupts from a point of your choi
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
 **At Higher Levels**. When you cast this spell using 3 or more mana the damage increases by 2d4 for each additional point of mana.
+
+## Spiritual Weapon
+*2nd level Evocation*<br>
+**Casting Time:** 1 Action<br>
+**Range:** 60 feet<br>
+**Components:** V, S*<br>
+**Duration:** Sustained, 1 minute
+
+You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The weapon appears within range in a space of your choice, and you can immediately make one evotaion melee spell attack against one creature within 5 feet of the force. The target takes force damage equal to 1d8 plus your spellcasting ability modifier on a hit.
+
+As an action on your later turns, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
+
+**At Higher Levels**. When you cast this spell using 3 or more mana the damage increases by 1d8 for each additional point of mana.

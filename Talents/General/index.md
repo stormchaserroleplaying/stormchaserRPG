@@ -28,7 +28,7 @@ You have undergone extensive physical training to gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Prerequisite:** Intelligence 13 or higher
+#### **Cost:** 2 Character Points<br>**Prerequisite:** Intelligence 13 or higher
 You have studied languages and codes, gaining the following benefits:
 * You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Investigation check (DC equal to your Investigation skill), or they use magic to decipher it.
 
@@ -36,16 +36,16 @@ You have studied languages and codes, gaining the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Intelligence 20 or +2 species bonus to Intelligence
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Intelligence 20
 You have the cunning of the most prolific scholars, granting the following benefits:
-* Whenever you make a skill check from the following skills (Arcana, Lore, Nature, or Theology) with proficiency and the highest d20 roll is a 9 or lower, you can treat that roll as a 10.
+* Whenever you make an Arcana, Lore, Nature, or Theology skill check with trained or higher proficiency and the highest d20 roll is a 9 or lower, then you treat that roll as a 10.
 * Whenever you make an ability check that uses your Intelligence, you may reroll a single d20 from your die pool, but you must take the result even if it's lower.
 
 ## Exalted Awareness
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Wisdom 20 or +2 species bonus to Wisdom
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Wisdom 20
 You have the wisdom associated with the most renowned sages, granting the following benefits:
 * Creatures within 60 feet of you have -1d on Stealth checks made to hide from you.
 * As an action, you can sense the presence of illusions and other effects designed to deceive the senses within 30 feet of you, provided that you aren't blinded or deafened. You sense that an effect is trying to trick you, but you gain no insight into what is hidden or its true nature. Once you've used this feature, you must complete a short or long rest before you can use it again.
@@ -122,19 +122,11 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 * You always know the number of hours left before the next sunrise or sunset.
 * You can accurately recall anything you have seen or heard within the past month.
 
-## Linguist
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Intelligence 13 or higher
-You have studied languages and codes, gaining the following benefits:
-* You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.
-
 ## Lip Reader
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Wisdom 13 or higher
+#### **Cost:** 1 Character Point<br>**Prerequisite:** Wisdom 13 or higher
 Quick to notice details of your environment, you gain the following benefits:
 * If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
 
@@ -142,7 +134,7 @@ Quick to notice details of your environment, you gain the following benefits:
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Charisma 20 or +2 species bonus to Charisma
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Charisma 20
 You have the presence of the most affluent of leaders, granting the following benefits:
 * While you are conscious, up to five friendly creatures within 30 feet of you who can see or hear you and who can understand you can gain a bonus to their Intelligence, Wisdom, or Charisma defence equal to your Charisma modifier. Once they've done so, they can’t do so again until they finish a short or long rest.
 * As an action, you can attempt to distract up to five creatures you can see within 30 feet of you. Make a Charisma attack roll vs the creatures' Wisdom defences. Any creature immune to being charmed is unaffected. If you or your companions are fighting a creature, you have disadvantage on the attack roll. On a hit, for the next minute, a creature has -1d on Perception checks made to perceive any creature other than you until the effect ends or until the target can no longer see or hear you. The feature ends early if you are incapacitated.
@@ -152,4 +144,15 @@ You have the presence of the most affluent of leaders, granting the following be
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You gain strength after eating the heart of a defeated enemy. As part of a short rest, you can eat the heart of one living creature that you helped defeat within the last hour. The creature must have an edible heart. Eating the heart requires 10 minutes of tearing it free, chewing, and swallowing, after which you heal one of your own rolled recovery die for each recovery die of the defeated creature.
+You gain strength after eating the heart of a defeated enemy. As part of a short rest, you can eat the heart of one living creature that you helped defeat within the last hour. The creature must have an edible heart.
+
+Eating the heart requires 10 minutes of tearing it free, chewing, and swallowing. Once you have consumed the creature's heart, roll a number of recovery dice, as listed on the table below. You recover this many points of stamina, up to your stamina maximum.
+
+| Creature Size | Stamina Recovery |
+|:-------------:|:----------------:|
+| Small | 1dR |
+| Medium | 2dR |
+| Large | 3dR |
+| Huge | 4dR |
+| Gargantuan | 5dR |
+| Colossal | 6dR |

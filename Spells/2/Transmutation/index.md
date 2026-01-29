@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Sustained, up to 1 hour
 
-You assume a different form. When you cast the spell, you can assume the form of a creature listed in the [Species](https://stormchaserroleplaying.com/stormchaserRPG/Species/) section. If the form you assume has any of the following abilities, you gain the ability: [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) 60 feet, [low-light vistion](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#low-light-vision), [scent](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#scent), and swim 30 feet. 
+You assume a different form. When you cast the spell, you can take the form of a creature listed in the [Species](https://stormchaserroleplaying.com/stormchaserRPG/Species/) section. If the form you take has any of the following abilities, you gain the ability: [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) 60 feet, [low-light vision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#low-light-vision), [scent](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#scent), and swim 30 feet. 
 
 Alternatively, when you cast this spell you grow claws, fangs, spines, horns, or a different natural weapon of your choice. When you make an unarmed strike with this natural weapons, make a melee transmutation attack. On a hit, you deal 1d6 + your spellcasting modifier magical bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon that you chose. 
 

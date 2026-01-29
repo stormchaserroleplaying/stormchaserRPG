@@ -40,7 +40,7 @@ When cast using 1 mana the following apply:
   b. If you take the form of a medium-sized beast, you gain a +2 bonus to your Strength score and a +2 natural DR bonus.
 * Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) - a bite, claw, horn, or other appropriate attack. Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, it does 1d4 (small) or 1d6 (medium) damage of an appropriate type - bludgeoning, piercing or slashing.
 * Your form can have one of the following special movement speeds: burrow 5 feet, fly 20 feet, swim 30 feet, climb 30 feet. This movement must be appropriate to the chosen form. If no special movement is selected, then you can increase your walking speed by 10 feet.
-* Choose one sense as a keen sense - hearing, sight or smell. You gain +1d to Perception checks using the chosen sense. Alternatively, you can choose that your form has low-light vision or darkvision to a range of 30 feet.
+* Choose one sense as a keen sense - hearing, sight or smell. You gain +1d to Awareness checks using the chosen sense. Alternatively, you can choose that your form has low-light vision or darkvision to a range of 30 feet.
 
 When cast using 2 mana the following apply:
 * You can take the form of tiny- or large-sized beast.<br>

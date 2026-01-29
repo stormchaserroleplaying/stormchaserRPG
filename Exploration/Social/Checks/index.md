@@ -38,8 +38,14 @@ After interacting with a creature long enough to get a sense of its personality 
 
 Given time, adventurers can also learn about a creature’s characteristics from other sources, including its friends and allies, personal letters, and publicly told stories. Acquiring such information might be the basis of an entirely different set of social interactions.
 
-## 3. Charisma Check
-When the adventurers get to the point of their request, demand, or suggestion — or if you decide the conversation has run its course — call for a Charisma check. Any character who has actively participated in the conversation can make the check. Depending on how the adventurers handled the conversation, the Persuasion, Deception, or Intimidation skill might apply to the check. The creature’s current attitude determines the DC required to achieve a specific reaction, as shown in the tables below:
+## 3. Making the Check
+When the adventurers get to the point of their request, demand, or suggestion — or if you decide the conversation has run its course — call for a social skill check. Any character who has actively participated in the conversation can make the check. Depending on how the adventurers handled the conversation, the [Deception](), [Intimidation](), [Persuasion](), [Socialise](), or [Streetwise]() skill might apply to the check. The creature’s current attitude determines the DC required to achieve a specific reaction, as shown in the tables below:
+
+| DC | Helpful Creature's Reaction |
+|:--:|:----------------------------:|
+| 0 | The creature accepts a minor risk or sacrifice to do as asked. |
+| 10 | The creature accepts a significant risk or sacrifice to do as asked. They may risk some minor injury or hardship, but not their life or lives of others. |
+| 20 | The creature accepts a significant risk or sacrifice to do as asked. They might be convinced to risk their life if the cause is significant enough. |
 
 | DC | Friendly Creature's Reaction |
 |:--:|:----------------------------:|
@@ -53,11 +59,17 @@ When the adventurers get to the point of their request, demand, or suggestion �
 | 10 | The creature does as asked as long as no risks or sacrifices are involved. |
 | 20 | 	The creature accepts a minor risk or sacrifice to do as asked. |
 
+| DC | Unfriendly Creature's Reaction |
+|:--:|:----------------------------:|
+| 0 | The creature opposes the adventurers’ actions and might take risks to do so. |
+| 10 | The creature offers no help but does no harm. They may provide aid to a more friendly creature or group if they are opposed to the player. |
+| 20 | The creature does as asked as long as no risks or sacrifices are involved. They will avoid active participation when possible. |
+
 | DC | Hostile Creature's Reaction |
 |:--:|:----------------------------:|
 | 0 | The creature opposes the adventurers’ actions and might take risks to do so. |
-| 10 | The creature offers no help but does no harm. |
-| 20 | The creature does as asked as long as no risks or sacrifices are involved. |
+| 10 | The creature delays attacking or impeding the adventurer, giving a chance to negotiate, but still intends harm. |
+| 20 | The creature offers no help but does no harm. |
 
 ### Aiding the Check
 Other characters who make substantial contributions to the conversation can help the character making the check. If a helping character says or does something that would influence the interaction in a positive way, the character making the Charisma check can do so with advantage. If the other character inadvertently says something counterproductive or offensive, the character making the Charisma check has disadvantage on that check.

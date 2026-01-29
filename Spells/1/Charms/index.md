@@ -138,7 +138,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 *You instill a friend with bravery.*
 
-You touch a willing creature and, until the spell ends, the creature is immune to being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and gains temporary Stamina equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the creature loses any remaining temporary Stamina from this spell.
+You touch a willing creature and, until the spell ends, the creature is immune to being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and gains temporary Stamina equal to your spellcasting attribute modifier at the start of each of its turns. When the spell ends, the creature loses any remaining temporary Stamina from this spell.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st.
 

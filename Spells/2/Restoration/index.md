@@ -15,7 +15,7 @@ grand_parent: Spells
 
 You call forth a spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit takes on a transparent form of your choice.
 
-Until the spell ends, whenever you or a friendly creature that you can see moves into the spirit’s space for the first time on a turn or starts its turn in the spirit's space, you can cause the spirit to restore 1dR + you spellcasting modifier stamina to that creature (no action required). The spirit can’t heal constructs or undead.
+Until the spell ends, whenever you or a friendly creature that you can see moves into the spirit’s space for the first time on a turn or starts its turn in the spirit's space, you can cause the spirit to restore 1dR + you spellcasting attribute modifier stamina to that creature (no action required). The spirit can’t heal constructs or undead.
 
 Using 1 action on your turn, you can move the spirit up to 30 feet to a space you can see.
 

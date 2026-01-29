@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Minute
 
-You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opporunity. At the end of your turn, you vanish and reappear as above. 
+You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opportunity. At the end of your turn, you vanish and reappear as above. 
 
 You can dismiss this spell as an action.
 

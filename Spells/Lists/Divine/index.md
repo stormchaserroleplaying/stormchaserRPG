@@ -61,7 +61,7 @@ grand_parent: Spells
 * [Detect Evil and Good](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-evil-and-good) (Divination)
 * [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic) (Divination)
 * [Detect Poison and Disease](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-poison-and-disease) (Divination)
-* [Divine Favor](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour) (Evocation)
+* [Divine Favour](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#divine-favour) (Evocation)
 * [Earth Tremor](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#earth-tremor) (Evocation)
 * [Entangle](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#entangle) (Conjuration)
 * [Faerie Fire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#faerie-fire) (Evocation)

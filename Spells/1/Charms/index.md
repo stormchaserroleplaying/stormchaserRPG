@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A morsel of food.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *You send someone's mind and body into overdrive, forcing it to become restless and hyperactive.*
 
@@ -48,7 +48,7 @@ Make a charm attack vs the Wisdom defence of a creature within 10 feet of you. O
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A drop of blood.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *You inflict a minor curse upon your enemies making it harder for them to hit their mark.*
 
@@ -70,7 +70,7 @@ Take the preserved heart of a slave and wrap it in hempen cord when you cast thi
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A sprinkling of holy water.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *Through the power of your patron, the attacks of you and your allies receive guidance.*
 
@@ -83,7 +83,7 @@ You bless up to three creatures of your choice within range. For the duration of
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S<br>
-**Duration:** 1 hour
+**Duration:** 1 Hour
 
 *Your words are honey and your visage seems bathed in a dreamy haze.*
 
@@ -121,7 +121,7 @@ Some typical commands and their effects follow. You might issue a command other 
 **Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
 **Components:** V<br>
-**Duration:** 1 minute
+**Duration:** 1 Minute
 
 *You attempt you coerce another, making it difficult for them to attack anyone but you.*
 
@@ -129,16 +129,25 @@ Make a charm attack vs the Charisma defence of one creature that you can see wit
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
+## Heel
+*1st Level Charm*<br>
+**Casting Time:** 1 Action<br>
+**Range:** 60 Feet<br>
+**Components:** V, S, M *(A leash.)*<br>
+**Duration:** Instantaneous
+
+With a spoken command and a gesture toward your feet, you attempt to pull a creature to heel. Make a charm attack vs the Charisma defence of one creature within range that can see and hear you. On a hit, the creature is pulled to an unoccupied space of the ground or floor adjacent to you, becoming [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/) as it kneels at your feet.
+
 ## Heroism
 *1st Level Charm*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *You instill a friend with bravery.*
 
-You touch a willing creature and, until the spell ends, the creature is immune to being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and gains temporary Stamina equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the creature loses any remaining temporary Stamina from this spell.
+You touch a willing creature and, until the spell ends, the creature is immune to being [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and gains temporary Stamina equal to your spellcasting attribute modifier at the start of each of its turns. When the spell ends, the creature loses any remaining temporary Stamina from this spell.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, you can target one additional creature for each point of mana above the 1st.
 
@@ -147,7 +156,7 @@ You touch a willing creature and, until the spell ends, the creature is immune t
 **Casting Time:** 1 Action<br>
 **Range:** 90 Feet<br>
 **Components:** V, S, M *(A petrified eye of newt.)*<br>
-**Duration:** 1 hour
+**Duration:** 1 Hour
 
 *You place a curse on a creature that makes your attacks more impactful.*
 
@@ -164,13 +173,24 @@ A [Remove Curse]() cast on the target ends this spell early.
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(Tiny tarts and a feather that is waved in the air.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *Your words or actions - funny or not - are perceived to be so hilarious that it causes some to fall to the ground in fits of laughter.*
 
 Make a charm attack vs the Wisdom defence of one creature within range that you can see. On a hit, the creature falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/), becoming [Incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 
 At the end of each of its turns the creature can make a Wisdom defence check vs your charms spell skill. Additionally, the creature can make a Wisdom defence check vs your charms spell skill at the beginning of its turn if it has taken damage since the end of its last turn; the creature has +1d on the check if it's triggered by damage. On a success, the spell ends.
+
+## Reprimand
+*1st Level Charm*<br>
+**Casting Time:** Free action<br>
+**Range:** 60 Feet<br>
+**Components:** V<br>
+**Duration:** 1 Round
+
+You let loose a scathing chastisement upon a creature that can see and hear you. The target has -1d on attack rolls against you and you have +1d on defence checks you are required to make for spells they cast until the end of their next turn.
+
+This spell automatically triggers when a creature makes an attack against you, with the following exceptions: on your turn, or when you roll initiative, you may declare a specific trigger for this spell, or not to use it at all.
 
 ## Sleep
 *1st Level Charm*<br>
@@ -188,3 +208,16 @@ Starting with the creature that has the lowest current Stamina, each creature af
 Undead and creatures immune to being [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) aren’t affected by this spell.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, roll an additional 4d10 for each point of mana above the 1st.
+
+## Vision of Exquisite Pleasure
+*1st Level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** V, S*<br>
+**Duration:** 1 Round
+
+*Images of tantalizing and overwhelming sexual pleasure consume the affected target, causing him to pause in his tracks and revel in eroticism.* 
+
+Make a charm attack vs the Wisdom defense of a humanoid within range. On a hit, the creature is [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) for the duration. An affected creature can make a Wisdom defence check vs your charm skill at the end of its turn to shake off the effect.
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, the duration is increased by 1 round for each point of mana above the 1st.

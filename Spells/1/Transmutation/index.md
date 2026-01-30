@@ -6,6 +6,16 @@ grand_parent: Spells
 
 # Transmutation
 
+## Anatomical Compatibility
+*1st Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 5 Feet<br>
+**Components:** V, S, M *(A ring of pliant material.)*<br>
+**Duration:** 1 Hour
+
+A willing target’s anatomy becomes magically malleable, allowing for consensual copulation with a creature of vastly different size than it without harm. This may occur via the creature’s anatomy expanding, the other creature’s anatomy shrinking upon entering the target, or whatever effect the GM decides is appropriate; but this effect may never prevent damage or harm being taken from a hostile creature.
+
+
 ## Ant Haul
 *1st Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
@@ -87,7 +97,7 @@ You either create or destroy water.
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained, 10 Minutes
 
 You become [Fleeing](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fleeing/) for the duration. As long as you are [Fleeing](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fleeing/), you gain a +10-foot bonus to all your Speeds for the duration. You immediately [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/).
 
@@ -163,7 +173,7 @@ You touch one willing creature and its speed increases by 10 feet until the spel
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A bit of pork rind or butter)*<br>
-**Duration:** Sustained, up to 1 Minute
+**Duration:** Sustained, 1 Minute
 
 *You cover the skin of a creature in a slippery substance.*
 
@@ -177,7 +187,7 @@ Make a transmutation attack vs the Dexterity defence of a creature in range. On 
 ## Magnify Gravity
 *1st Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 Feet (10-foot radius sphere)<br>
+**Range:** 60 Feet (10-Foot radius sphere)<br>
 **Components:** V, S, M *(A pinch of dirt.)*<br>
 **Duration:** 1 Round
 
@@ -192,10 +202,21 @@ Until the start of your next turn, any object that isn’t being worn or carried
 ## Purify Food and Drink
 *1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 10 Feet (5-foot radius sphere)<br>
+**Range:** 10 Feet (5-Foot radius sphere)<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
 *You make food and drink safe to consume.*
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+
+## Thaumic Sigil: Sterility
+*1st Level Transmutation (Ritual)*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** 5 Feet<br>
+**Components:** V, S, M *(A small copper "T"-shaped amulet. Precious gems worth at least 100 gp, which the spell consumes.)*<br>
+**Duration:** Until Dispelled
+
+As part of casting this spell, a sigil is imprinted onto the skin of the target. This sigil can neither be removed nor will an illusion mask its presence. When this spell ends the sigil fades. A creature may only be marked with only one Thaumic Sigil at a time and any subsequent Thaumic Sigil marking causes the previous sigil to vanish. This effect may only be ended by the spells [Greater Restoration]() or [Wish]().
+
+Make a charm attack vs the Charisma defence of a target within range. On a hit, the sigil is applied and they become unable to conceive children via any means.

@@ -6,6 +6,17 @@ grand_parent: Spells
 
 # Transmutation
 
+## Alter Sex
+*Transmutation Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** V, S<br>
+**Duration:** 24 Hours
+
+You assume a different form, taking on the genitalia of your choosing. You may choose the specifics of the genitalia such as whether it is circumcised or the hymen is intact. In addition, you may make subtle alterations to your physique such as gaining or losing breasts, changing your jawline, or hair length/ style but you must remain the same race you were before casting the spell. Any creature that is familiar with you will still recognize you despite these changes. If a creature is affected by this spell with the same specific details every day for a month, the effects become permanent. You may cast this spell using a spell slot to increase its capabilities (see below).
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, you may instead target a willing creature within 5 feet of you. When you cast it using 5 or more mana, you may make the effect permanent on either yourself or another target as described above.
+
 ## Control Flames
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
@@ -24,7 +35,21 @@ You choose a non-magical flame that you can see within range and that fits withi
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the cube of fire that can be controlled is increased to 10 feet.
+## Dommaturgy
+*Transmutation Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 Feet<br>
+**Components:** V, S<br>
+**Duration:** Instantaneous
+
+You exert your dominance via a minor magical feat. You may do any of the following within range:
+
+* Alter the appearance of your eyes for 1 minute.
+* Cut a piece of rope no thicker than 2 inches in diameter.
+* Fasten or unfasten a buckle or clasp.
+* Lock or unlock a mundane lock used to secure a cage, straps, or manacles without requiring a key.
+* Manipulate a piece of chain, leather, or rope.
+* Tie or untie a moderately complex knot.
 
 ## Druidcraft
 *Transmutation Cantrip*<br>
@@ -42,8 +67,6 @@ You create one of the following effects within range:
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell's range increases to 60 feet.
-
 ## Gust
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
@@ -59,8 +82,6 @@ You create one of the following effects at a point that you can see within range
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the distance that you can push a creature or object is increased by 5 feet.
-
 ## Magic Stone
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -70,7 +91,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You imbue small stones with magic making them more potent for striking.*
 
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged transmutation attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged transmutation attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting attribute modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting attribute modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
@@ -87,8 +108,6 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the size of the break or tear that you can mend increases to 2 feet.
-
 ## Message
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
@@ -102,14 +121,12 @@ You point your finger toward a creature within range and whisper a message. Only
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the range increases to 240 feet.
-
 ## Mold Earth
 *Transmutation cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** S<br>
-**Duration:** Instantaneous or 1 hour (see below)
+**Duration:** Instantaneous or 1 Hour (see below)
 
 *Some will move heaven and earth for someone. This spell makes the latter much easier.*
 
@@ -120,8 +137,6 @@ You choose a portion of dirt or stone that you can see within range and that fit
 * If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
-
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the cube of earth that can be controlled increases to 10 feet.
 
 ## Prestidigitation
 *Transmutation Cantrip*<br>
@@ -143,8 +158,6 @@ You create one of the following magical effects within range:
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, you can create a total of 6 non-instantaneous effects.
-
 ## Primal Savagery
 *Transmutation Cantrip*<br>
 *Casting Time:* 2 Actions<br>
@@ -154,7 +167,7 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack.*
 
-Make a melee transmutation attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting ability modifier corrosive damage. After you make the attack, your teeth or fingernails return to normal.
+Make a melee transmutation attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting attribute modifier corrosive damage. After you make the attack, your teeth or fingernails return to normal.
 
 ## Shape Water
 *Transmutation Cantrip*<br>
@@ -174,8 +187,6 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the cube of water that can be controlled increases to 10 feet.
-
 ## Shillelagh
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
@@ -186,6 +197,23 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 *"Get stick!"*
 
 The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
+
+## Subbadigitation
+*Transmutation Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** None
+**Duration:** 1 Minute
+
+In a display of submission, you create a minor magical effect. You may do any of the following for the duration:
+
+* Cause a creature that you are intimate with to become erect or wet
+* Cause one of your orifices to self-lubricate, even if it normally can’t
+* Cause your eyes to moisten or cry
+* Ensure blood flow to your limbs and extremities, no matter how tightly they are tied
+* Release milk from your nipples or cause them to become erect
+* Remove your gag reflex
+* Slightly alter your facial features to appear more cute, tempting, or vulnerable such as make your eyes appear larger or cause your cheeks to flush
 
 ## Thaumaturgy
 *Transmutation Cantrip*<br>
@@ -207,8 +235,6 @@ You create one of the following magical effects within range:
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, you can create a total of 6 non-instantaneous effects.
-
 ## Thorn Whip
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
@@ -218,4 +244,4 @@ When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormcha
 
 *You create a long, vine-like whip covered in thorns that lashes out at your command.*
 
-Make a melee transmutation attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting ability modifier piercing damage, and if the creature is large or smaller, you pull the creature up to 10 feet closer to you.
+Make a melee transmutation attack against a target that you can see within range. If the attack hits, the creature takes 1d6 + your spellcasting attribute modifier piercing damage, and if the creature is large or smaller, you pull the creature up to 10 feet closer to you.

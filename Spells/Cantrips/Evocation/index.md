@@ -15,14 +15,14 @@ grand_parent: Spells
 
 *You cause your weapon to be sheathed in booming energy.*
 
-You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one target. On a hit, the target suffers the weapon attack’s normal effects and becomes surrounded by thunderous energy. If the target willingly moves 5 feet or more before the beginning of your next turn, the target takes 2d4 + your spellcasting ability modifier sonic damage and the spell ends.
+You brandish the weapon used in the spell’s casting and make a melee weapon attack with it against one target. On a hit, the target suffers the weapon attack’s normal effects and becomes surrounded by thunderous energy. If the target willingly moves 5 feet or more before the beginning of your next turn, the target takes 2d4 + your spellcasting attribute modifier sonic damage and the spell ends.
 
 ## Dancing Lights
 *Evocation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet<br>
 **Components:** V, S, M *(A bit of phosphorus or wychwood, or a glowworm.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *You create a handful of small lights that bob through the air.*
 
@@ -32,16 +32,16 @@ As an action on your turn, you can move the lights up to 60 feet to a new spot w
 
 ## Eldritch Blast
 *Evocation Cantrip*<br>
-**Casting Time:** 1 Action<br>
+**Casting Time:** 1, 2 or 3 Actions<br>
 **Range:** 120 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
 *A beam of crackling energy bestowed upon you by your patron streaks toward your foe.*
 
-Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes the damage indicated below based upon your patron of choice plus your spellcasting modifier.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes the damage indicated below based upon your patron of choice plus your spellcasting attribute modifier.
 
-For each additional action you use when Casting the Spell, you can fire an additional beam at a different target, to a maximum of three beams targeting three different targets for 3 actions.
+For each additional action you use when casting the spell, you can fire an additional beam at a different target, to a maximum of three beams targeting three different targets for 3 actions.
 
 | Patron | Damage Die | Damage Type |
 | :----- | :------------------- | :---------- |
@@ -70,7 +70,7 @@ For each additional action you use when Casting the Spell, you can fire an addit
 
 *You hurl a mote of fire.*
 
-Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 2d6 + your spellcasting ability modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+Make a ranged evocation attack against a target that you can see within range. On a hit, the target takes 2d6 + your spellcasting attribute modifier fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 ## Frostbite
 *Evocation Cantrip*<br>
@@ -81,7 +81,7 @@ Make a ranged evocation attack against a target that you can see within range. O
 
 *You cause numbing frost to form.*
 
-Make an evocation attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d10 + your spellcasting ability modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
+Make an evocation attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 1d10 + your spellcasting attribute modifier cold damage and has -1d on the next weapon attack roll that it makes before the end of its next turn.
 
 ## Green-Flame Blade
 *Evocation Cantrip*<br>
@@ -118,7 +118,7 @@ You can create a permanent light by casting this spell on the same object every 
 
 *You create a rope of lightning that pulls your target closer to you then delivers a shock them.*
 
-Make an evocation attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 2d4 + your spellcasting ability modifier electric damage if it is within 5 feet of you.
+Make an evocation attack roll vs the Strength defence of one target that you can see within range. On a hit, it is pulled up to 10 feet in a straight line towards you and then takes 2d4 + your spellcasting attribute modifier electric damage if it is within 5 feet of you.
 
 ## Ray of Frost
 *Evocation Cantrip*<br>
@@ -129,7 +129,7 @@ Make an evocation attack roll vs the Strength defence of one target that you can
 
 *A frigid beam of blue-white light slows down attackers.*
 
-Make a ranged evocation attack against a target that you can see within range. On a hit, it takes 1d10 + your spellcasting ability modifier cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+Make a ranged evocation attack against a target that you can see within range. On a hit, it takes 1d10 + your spellcasting attribute modifier cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
 ## Sacred Flame
 *Evocation Cantrip*<br>
@@ -140,7 +140,7 @@ Make a ranged evocation attack against a target that you can see within range. O
 
 *Flame-like radiance descends from the heavens.*
 
-Make an evocation attack roll vs the Dexterity defence of a target that you can see within range. On a hit, the target takes 1d12 + your spellcasting ability modifier sacred damage. The target gains no benefit from cover for this attack.
+Make an evocation attack roll vs the Dexterity defence of a target that you can see within range. On a hit, the target takes 1d12 + your spellcasting attribute modifier sacred damage. The target gains no benefit from cover for this attack.
 
 ## Shock
 *Evocation Cantrip*<br>
@@ -162,7 +162,7 @@ Make a ranged evocation attack against a target that you can see within range. O
 
 *Reaching out, you deliver a jolt to the system of a creature causing them to sieze up and allowing you to slip away.*
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee evocation attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 2d4 + your spellcasting ability modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee evocation attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 2d4 + your spellcasting attribute modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
 
 ## Thunderclap
 *Evocation Cantrip*<br>
@@ -173,7 +173,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 *You emit a burst of thunderous energy.*
 
-Make an evocation attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 2d4 + your spellcasting ability modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
+Make an evocation attack roll vs the Constitution defence of each creature other than you within range. On a hit, a creature takes 2d4 + your spellcasting attribute modifier sonic damage. The sound from this spell can be heard up to 100 feet away.
 
 ## Touch of Combustion
 *Evocation Cantrip*<br>
@@ -184,7 +184,7 @@ Make an evocation attack roll vs the Constitution defence of each creature other
 
 *You set a creature alight with fire that can spread to others.*
 
-Make a melee evocation attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 2d6 + your spellcasting ability modifier fire damage and setting the target on fire. On your next turn, make an evocation attack vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they also take 2d6 fire damage.
+Make a melee evocation attack against a target you can see within range. On a hit, the target ignites in a violent burst of flame, dealing 2d6 + your spellcasting attribute modifier fire damage and setting the target on fire. On your next turn, make an evocation attack vs the Dexterity defence of all creatures adjacent to the original target. On a hit, they also take 2d6 fire damage.
 
 ## Word of Radiance
 *Evocation Cantrip*<br>
@@ -195,4 +195,4 @@ Make a melee evocation attack against a target you can see within range. On a hi
 
 *You utter a divine word and burning radiance erupts from you.*
 
-Make an evocation attack roll vs the Dexterity defence of each creature of your choice within range. On a hit, a creature takes 1d12 + your spellcasting ability modifier sacred damage.
+Make an evocation attack roll vs the Dexterity defence of each creature of your choice within range. On a hit, a creature takes 1d12 + your spellcasting attribute modifier sacred damage.

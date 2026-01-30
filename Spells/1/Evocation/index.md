@@ -22,7 +22,7 @@ Make a melee evocation attack against a creature that hit you with a melee attac
 ## Burning Hands
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (15-foot cone)<br>
+**Range:** Self (15-Foot cone)<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
@@ -78,9 +78,9 @@ Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you
 ## Corrosive Stream
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (30-foot line)<br>
+**Range:** Self (30-Foot line)<br>
 **Components:** V, S, M *(A bit of rotten food.)*<br>
-**Duration:** Sustained, Up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *A gout of acid flows from you and adheres to those who are not quick enough to avoid it.*
 
@@ -93,7 +93,7 @@ Make an evocation attack vs the Dexterity defense of each creature in the line. 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, Up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *Your prayer empowers your strikes with divine energy.*
 
@@ -128,7 +128,7 @@ Any attack roll against an affected creature or object has +1d if the attacker c
 ## Frost Fingers
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (15-foot cone)<br>
+**Range:** Self (15-Foot cone)<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
@@ -184,7 +184,7 @@ You create three glowing darts. Each dart hits a target of your choice that you 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *Your weapon is imbued with a searing heat.*
 
@@ -195,7 +195,7 @@ The next time that you hit a creature with a melee weapon attack during the spel
 ## Thunderwave
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (15-foot cube)<br>
+**Range:** Self (15-Foot cube)<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
@@ -212,7 +212,7 @@ In addition, unsecured objects that are completely within the area of effect are
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Instantaneous
 
 *Your weapon strikes with the power of the storm.*
 
@@ -220,12 +220,15 @@ The first time you hit with a melee weapon attack during this spell’s duration
 
 Additionally, when the melee weapon attack hits, add your spellcasting attribute modifier to the d20 of the melee attack roll, if that total hits the target's Strength defence, the target is pushed 10 feet away from you and knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
+**At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d4 for each point of mana above the 1st.
+
+
 ## Witch Bolt
 *1st Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A twig from a tree that has been stuck by lightning.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained
 
 *A beam of crackling, blue energy locks onto your target.*
 
@@ -238,10 +241,12 @@ Make a ranged evocation attack against a creature that you can see in range. On 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 *Your weapon strikes with such ferocity that it causes your target to be filled with fear.*
 
 The next time you hit with a melee weapon attack during this spell’s duration, your attack deals an extra 1d12 psychic damage.
 
-Additionally, when the melee weapon attack hits, add your spellcasting attribute modifier to the d20 of the melee attack roll, if that total hits the target's Wisdom defence, the target is [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. Using 2 actions, the creature can make a Wisdom defence check vs your evocation spell skill to steel its resolve and end this spell.
+Additionally, when the melee weapon attack hits, add your spellcasting attribute modifier to the d20 of the melee attack roll, if that total hits the target's Wisdom defence, the target is [fightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. Using 2 Actions, the creature can make a Wisdom defence check vs your evocation spell skill to steel its resolve and end this spell.
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, the damage increases by 1d12 for each point of mana above the 1st.

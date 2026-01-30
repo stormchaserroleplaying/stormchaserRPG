@@ -26,7 +26,7 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 *Casting Time:* 2 Actions<br>
 **Range:** Self<br>
 **Components:** S, M *(A small amount of makeup applied to the face as this spell is cast.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 For the duration, you have +1d on all Charisma checks directed at one creature of your choice that isn't hostile towards you. When the spell ends, the creature realises that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.
 

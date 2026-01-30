@@ -9,7 +9,7 @@ grand_parent: Spells
 ## Colour Spray
 *1st Level Illusion*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (15-foot cone)<br>
+**Range:** Self (15-Foot cone)<br>
 **Components:** V, S, M *(A pinch of powder or sand that is colored red, yellow and blue.)*<br>
 **Duration:** 1 Round
 
@@ -39,7 +39,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 ## Distort Value
 *1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Touch (1-foot cube)<br>
+**Range:** Touch (1-Foot cube)<br>
 **Components:** V<br>
 **Duration:** 8 Hours
 
@@ -54,7 +54,7 @@ You cast this spell on an object no more than 1 foot on a side, doubling the obj
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 Minute
 
 You plant fear in the target. Make an illusion attack vs the Wisdom defence of a creature that you can see within range. On a hit, the target becomes [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) of you until the spell ends. Constructs and undead creatures are immune to effect.
 
@@ -65,7 +65,7 @@ While [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/
 ## Hidden Item
 *1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Touch (1-foot cube)<br>
+**Range:** Touch (1-Foot cube)<br>
 **Components:** S<br>
 **Duration:** 1 Hour
 
@@ -95,9 +95,9 @@ A creature with [truesight](https://stormchaserroleplaying.com/stormchaserRPG/Ex
 ## Silent Image
 *1st Level Illusion (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 Feet (15-foot cube)<br>
+**Range:** 60 Feet (15-Foot cube)<br>
 **Components:** V, S, M *(A bit of fleece.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained, 10 Minutes
 
 *You create a large illusion with convincing movements.*
 

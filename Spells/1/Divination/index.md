@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A bit of fur wrapped in cloth.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *You link your mind with an animal.*
 
@@ -37,7 +37,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V, S, M *(A divine focus.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *Your persistent gaze will unveil hidden evil.*
 
@@ -54,7 +54,7 @@ If you are of good alignment and the strongest evil aura’s power is overwhelmi
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained
 
 *Many creatures cannot hide from your eyes.*
 
@@ -69,7 +69,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 **Casting Time:** 2 Actions<br>
 **Range:** Self (30-foot radius)<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *You can see the color of magic.*
 
@@ -82,9 +82,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 ## Detect Poison and Disease
 *1st Level Divination (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (30-foot radius)<br>
+**Range:** Self (30-Foot radius)<br>
 **Components:** V, S, M *(A yew leaf.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *You can sense the presence and location of poisons, poisonous creatures, and diseases.*
 

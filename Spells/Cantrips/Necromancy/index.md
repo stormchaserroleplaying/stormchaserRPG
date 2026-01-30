@@ -28,7 +28,7 @@ If you hit an undead target, it also has -1d on attack rolls against you until t
 
 *You sap the vitality of a creature.*
 
-Make a necromancy attack roll vs the Constitution defence of a target that you can see within range. On a hit, the target takes 1d4 + your spellcasting ability modifier profane damage and falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+Make a necromancy attack roll vs the Constitution defence of a target that you can see within range. On a hit, the target takes 1d4 + your spellcasting attribute modifier profane damage and falls [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 
 ## Toll the Dead
 *Necromancy Cantrip*<br>

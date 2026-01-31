@@ -67,7 +67,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 ## Detect Magic
 *1st Level Divination (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (30-foot radius)<br>
+**Range:** Self (30-Foot radius)<br>
 **Components:** V, S<br>
 **Duration:** Sustained
 

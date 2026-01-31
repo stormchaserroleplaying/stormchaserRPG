@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A morsel of food.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You send someone's mind and body into overdrive, forcing it to become restless and hyperactive.*
 
@@ -48,7 +48,7 @@ Make a charm attack vs the Wisdom defence of a creature within 10 feet of you. O
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A drop of blood.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You inflict a minor curse upon your enemies making it harder for them to hit their mark.*
 
@@ -70,7 +70,7 @@ Take the preserved heart of a slave and wrap it in hempen cord when you cast thi
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A sprinkling of holy water.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *Through the power of your patron, the attacks of you and your allies receive guidance.*
 
@@ -143,7 +143,7 @@ With a spoken command and a gesture toward your feet, you attempt to pull a crea
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You instill a friend with bravery.*
 
@@ -173,7 +173,7 @@ A [Remove Curse]() cast on the target ends this spell early.
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(Tiny tarts and a feather that is waved in the air.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *Your words or actions - funny or not - are perceived to be so hilarious that it causes some to fall to the ground in fits of laughter.*
 

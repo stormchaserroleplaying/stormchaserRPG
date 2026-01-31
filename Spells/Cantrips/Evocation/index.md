@@ -22,7 +22,7 @@ You brandish the weapon used in the spell’s casting and make a melee weapon at
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet<br>
 **Components:** V, S, M *(A bit of phosphorus or wychwood, or a glowworm.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 10 minute
 
 *You create a handful of small lights that bob through the air.*
 
@@ -58,7 +58,7 @@ For each additional action you use when casting the spell, you can fire an addit
 | The Undead | 1d12 | Decay or Profane |
 | The Undying | 1d12 | Energy |
 
-** If you hit the target with this spell, the damage can apply to the stamina of the target or the integity of an item that the target is wearing or carrying.
+** If you hit the target with this spell, the damage can apply to the stamina of the target or the integrity of an item that the target is wearing or carrying.
 *** If the target takes damage from this spell, it's speed is reduced by 10 feet until the beginning of your next turn
 
 ## Fire Bolt
@@ -160,7 +160,7 @@ Make a ranged evocation attack against a target that you can see within range. O
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*Reaching out, you deliver a jolt to the system of a creature causing them to sieze up and allowing you to slip away.*
+*Reaching out, you deliver a jolt to the system of a creature causing them to seize up and allowing you to slip away.*
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee evocation attack against a target that you see within range. You have +1d on the attack roll if the target is wearing armour made of metal. On a hit, the target takes 2d4 + your spellcasting attribute modifier electric damage, and it can’t make attacks of opportunity or take other free actions until the start of its next turn.
 

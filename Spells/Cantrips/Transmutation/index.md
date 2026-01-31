@@ -22,7 +22,7 @@ You assume a different form, taking on the genitalia of your choosing. You may c
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** S<br>
-**Duration:** Instantaneous or 1 hour (see below)
+**Duration:** Varies
 
 *Flames bend to you your will.*
 
@@ -78,7 +78,7 @@ You create one of the following effects within range:
 
 You create one of the following effects at a point that you can see within range:
 
-* Make a transmutation attack roll vs the Strength defence of one Medium or smaller creature within range. On a hit, the creature is either pushed up to 5 feet away from you or knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
+* Make a transmutation attack roll vs the Strength defence of one Medium or smaller creature within range. On a hit, the creature is either pushed up to 5 feet away from you or knocked [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/).
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
@@ -145,7 +145,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 **Components:** V, S<br>
 **Duration:** Up to 1 hour
 
-*This spell is a minor magical trick that novice spellcasters use for practice.*
+*A minor magical trick that novice spellcasters use for practice.*
 
 You create one of the following magical effects within range:
 
@@ -165,7 +165,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 **Components:** S<br>
 **Duration:** Instantaneous
 
-*You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack.*
+*Animalistic magic causes your teeth or fingernails to sharpen and grow, ready to deliver a corrosive attack.*
 
 Make a melee transmutation attack against one creature within 5 feet of you. On a hit, the target takes 1d10 + your spellcasting attribute modifier corrosive damage. After you make the attack, your teeth or fingernails return to normal.
 
@@ -174,7 +174,7 @@ Make a melee transmutation attack against one creature within 5 feet of you. On 
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** S<br>
-**Duration:** Instantaneous or 1 hour (see below)
+**Duration:** Varies
 
 *You can make the waters dance.*
 
@@ -220,7 +220,7 @@ In a display of submission, you create a minor magical effect. You may do any of
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V<br>
-**Duration:** Up to 1 Minute
+**Duration:** Varies
 
 *You manifest a minor wonder, a sign of supernatural power.*
 

@@ -7,7 +7,7 @@ grand_parent: Spells
 # Transmutation
 
 ## Anatomical Compatibility
-*1st Level Transmutation*<br>
+*1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 5 Feet<br>
 **Components:** V, S, M *(A ring of pliant material.)*<br>
@@ -17,7 +17,7 @@ A willing target’s anatomy becomes magically malleable, allowing for consensua
 
 
 ## Ant Haul
-*1st Level Transmutation*<br>
+*1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
@@ -50,7 +50,7 @@ When cast using 1 mana the following apply:
   b. If you take the form of a medium-sized beast, you gain a +2 bonus to your Strength score and a +2 natural DR bonus.
 * Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) - a bite, claw, horn, or other appropriate attack. Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, it does 1d4 (small) or 1d6 (medium) damage of an appropriate type - bludgeoning, piercing or slashing.
 * Your form can have one of the following special movement speeds: burrow 5 feet, fly 20 feet, swim 30 feet, climb 30 feet. This movement must be appropriate to the chosen form. If no special movement is selected, then you can increase your walking speed by 10 feet.
-* Choose one sense as a keen sense - hearing, sight or smell. You gain +1d to Perception checks using the chosen sense. Alternatively, you can choose that your form has low-light vision or darkvision to a range of 30 feet.
+* Choose one sense as a keen sense - hearing, sight or smell. You gain +1d to Awareness checks using the chosen sense. Alternatively, you can choose that your form has low-light vision or darkvision to a range of 30 feet.
 
 When cast using 2 mana the following apply:
 * You can take the form of tiny- or large-sized beast.<br>
@@ -78,7 +78,7 @@ Choose one object weighing 1 to 5 pounds within range that isn’t being worn or
 **At Higher Levels.** When you cast this spell using 2 or more mana, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each point of mana above the 1st.
 
 ## Create or Destroy Water
-*1st Level Transmutation*<br>
+*1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet (30-foot cube)<br>
 **Components:** V, S, M *(A drop of water if creating water or a few grains of sand if destroying it.)*<br>
@@ -127,12 +127,12 @@ This spell automatically triggers when a friendly creature would take falling da
 
 *"No, these aren't poisonous... anymore."*
 
-You imbue one ripe berry with with the bounty of nature, turning it into a goodberry that can heal and sustain far beyond its normal capacity. A creature can eat the goodberry with an Interact action to regain 1d6 + 4 stamina. A berry not consumed during the duration withers away. Every six goodberries consumed give as much nourishment as one square meal for a typical human. 
+You imbue one ripe berry with with the bounty of nature, turning it into a goodberry that can heal and sustain far beyond its normal capacity. A creature can eat the goodberry with an [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action to regain 1d6 + 4 stamina. A berry not consumed during the duration withers away. Every six goodberries consumed give as much nourishment as one square meal for a typical human. 
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, for each point of mana beyond the 1st you can target an additional berry and a creature can consume an additional goodberry from the same casting with a single Interact action.
 
 ## Jump
-*1st Level Transmutation*<br>
+*1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A grasshopper's hind leg.)*<br>
@@ -156,7 +156,7 @@ You jump 30 feet in any direction without touching the ground. You must land on 
 You kneel down and meditate for one minute - adjusting to the darkness. After completing this meditation, your eyes have a slight glow and you are granted the ability to see in the dark. For the duration, you have [Darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Special/#darkvision) out to a range of 60 feet. If exposed to bright light, you must make a DC 10 concentration check in order to maintain the spell.
 
 ## Longstrider
-*1st Level Transmutation*<br>
+*1st Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A pinch of dirt.)*<br>
@@ -173,7 +173,7 @@ You touch one willing creature and its speed increases by 10 feet until the spel
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A bit of pork rind or butter)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You cover the skin of a creature in a slippery substance.*
 

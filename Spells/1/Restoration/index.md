@@ -3,6 +3,9 @@ title: Restoration
 parent: Level 1
 grand_parent: Spells
 ---
+
+# Restoration
+
 ## Bedrest
 *1st Level Restoration (Ritual)*<br>
 **Casting Time:** 1 Minute<br>

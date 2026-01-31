@@ -21,9 +21,16 @@ If the spell’s duration is “sustained,” it lasts until the end of your nex
 > ### Sustain a Spell
 > *Concentrate*<br>**Actions:** 1<br>**Requirements:** You have at least one spell active with a sustained duration, and you are not fatigued.
 >
-> Choose one spell with a sustained duration that you have in effect and expend mana equal to the spell's level minus 1. The duration of that spell continues until the end of your next turn. Some spells might have slightly different or expanded effects if you sustain them. Sustaining a Spell for more than 10 minutes (100 rounds) ends the spell and makes you fatigued unless the spell lists a different maximum duration (such as “sustained up to 1 minute” or “sustained up to 1 hour”).
+> Choose one spell with a sustained duration that you have in effect and expend the mana shown below. The duration of that spell continues until the end of your next turn. Some spells might have slightly different or expanded effects if you sustain them. Sustaining a Spell for more than 10 minutes (100 rounds) ends the spell and makes you [Fatigued](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fatigued/) unless the spell lists a different maximum duration (such as “sustained up to 1 minute” or “sustained up to 1 hour”).
 >
 > If your Sustain a Spell action is disrupted, the spell immediately ends.
+>
+> | Spell Level | Mana to Sustain |
+> |:-----:|:------:|
+> | 1 - 3 | 0 |
+> | 4 - 6 | 1 |
+> | 7 - 9 | 2 |
+> | 10 | 3 |
 
 ## Long Durations
 If a spell’s duration says it lasts until your next daily preparations, on the next day you can refrain from preparing a new spell in that spell’s slot. (If you are a spontaneous caster, you can instead expend a spell slot during your preparations.) Doing so extends the spell’s duration until your next daily preparations. This effectively Sustains the Spell over a long period of time. If you prepare a new spell in the slot (or don’t expend a spell slot), the spell ends. You can’t do this if the spell didn’t come from one of your spell slots. If you are dead or otherwise incapacitated at the 24-hour mark after the time you Cast the Spell or the last time you extended its duration, the spell ends. Spells with an unlimited duration last until counteracted or Dismissed. You don’t need to keep a spell slot open for these spells.

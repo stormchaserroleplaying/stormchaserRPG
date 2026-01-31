@@ -71,7 +71,7 @@ While [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/
 
 *You make an object invisible.*
 
-You cast this spell on an object no more than 1 foot on a side [invisible](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Concealment/#invisible). A creature can [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) to attempt to locate the hidden object vs your illusion spell skill.
+You cast this spell on an object no larger than 1 foot on a side causing it to become [Invisible](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/Concealment/#invisible). A creature can [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/) to attempt to locate the hidden object vs your illusion spell skill.
 
 If the item is used as part of a hostile action, the spell ends after that hostile action is completed. Making a weapon invisible typically doesn't give any advantage to the attack, except that an invisible thrown weapon or piece of ammunition can be used for an attack without necessarily giving information about the attacker's hiding place unless the weapon returns to the attacker.
 
@@ -97,7 +97,7 @@ A creature with [truesight](https://stormchaserroleplaying.com/stormchaserRPG/Ex
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet (15-Foot cube)<br>
 **Components:** V, S, M *(A bit of fleece.)*<br>
-**Duration:** Sustained, 10 Minutes
+**Duration:** Sustained
 
 *You create a large illusion with convincing movements.*
 

@@ -24,7 +24,7 @@ Make a melee conjuration attack against each creature within range, other than y
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet (20-Foot square)<br>
 **Components:** V, S<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You cause grasping weeds and vines sprout from the ground.*
 

@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet<br>
 **Components:** V, S<br>
-**Duration:** 1 round
+**Duration:** 1 Round
 
 *You create a ghostly, skeletal hand that assails a creature with the chill of the grave.*
 
@@ -37,6 +37,6 @@ Make a necromancy attack roll vs the Constitution defence of a target that you c
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
-*The sound of dolorous bells around a creature, for a momnet.*
+*The sound of dolorous bells around a creature, for a moment.*
 
-You point at one creature that you can see within range and make a necromancy attack roll vs the target's Wisdom defence. On a hit, the target takes 1d8 + your spellcasting attribute modifier profane damage. If the target is missing any of its Stamina, it instead takes 1d12 + your Spellcasting attribute modifier profane damage.
+You point at one creature that you can see within range and make a necromancy attack roll vs the target's Wisdom defence. On a hit, the target takes 1d8 + your spellcasting attribute modifier profane damage. If the target is missing any of its Stamina, it instead takes 1d12 + your spellcasting attribute modifier profane damage.

@@ -37,7 +37,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
 ## Block the Seed
-*1st Level Warding*<br>
+*1st Level Warding (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A lemon rind.)*<br>
@@ -63,7 +63,7 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S, M *(An executioner's hood.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
@@ -80,7 +80,7 @@ When this spell is cast, you gain 1 instance of [resistance](https://stormchaser
 
 When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
-**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a DC 20 warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
+**Atonement.** You touch one willing creature who has broken an oath or breached their deity's principals. Make a DC 20 warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
 
 **Bless Water.** You touch one vial of water and cause it to become holy water.
 
@@ -108,7 +108,7 @@ Until the spell ends, the target gains DR 4 and coverage 11-16. The effects of t
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(Holy water or powdered silver and iron, which the spell consumes.)*<br>
-**Duration:** Sustained, 10 Minutes
+**Duration:** Sustained
 
 *You protect one against many types of creatures.*
 
@@ -121,7 +121,7 @@ The protection grants several benefits. Creatures of those types have -1d on att
 **Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A small silver mirror.)*<br>
-**Duration:** Sustained
+**Duration:** Sustained, up to 1 minute
 
 *Creatures think twice before attacking those with this spell's protection.*
 
@@ -134,7 +134,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 **Casting Time:** 1 Action<br>
 **Range:** 60 feet<br>
 **Components:** V, S, M *(A small parchment with a bit of holy text written on it.)*<br>
-**Duration:** Sustained, 10 Minutes
+**Duration:** Sustained
 
 *A shimmering shield of divine energy appears to provide additional protection.*
 
@@ -165,7 +165,7 @@ You must cover one eye in its entirety when you cast this spell. While the eye i
 For the spell's duration, any hostile creature that attempts to target you with a spell must make a Charisma defence check. On a failure, the creature may not target you with the spell, but must instead target the creature nearest to you. This spell lasts until your eye is uncovered.
 
 ## Winter's Ward
-*1st Level Warding*<br>
+*1st Level Warding (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V,S,M *(A cup of water.)*<br>

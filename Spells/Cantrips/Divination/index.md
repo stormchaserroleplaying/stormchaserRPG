@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *You aid someone by providing them a touch of divine guidance.*
 

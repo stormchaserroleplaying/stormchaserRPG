@@ -83,7 +83,7 @@ Make a conjuration attack roll vs the Constitution defence of one creature that 
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** 10 Minutes
+**Duration:** Sustained, up to 10 minutes
 
 *A flickering flame appears in your hand - useful for providing light or attacking your enemies.*
 

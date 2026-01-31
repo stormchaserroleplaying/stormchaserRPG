@@ -37,6 +37,6 @@ Touch one willing creature. The next time before the spell ends that the creatur
 
 *You raise a magical shield of force.*
 
-This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +1 shield bonus vs melee and ranged attacks until the start of your next turn, but it doesn't require a hand to use.
+This counts as using the [Raise Shield](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Raise/) action, giving you a +1 shield bonus vs melee and ranged attacks until the start of your next turn, but it doesn't require a free hand to use.
 
 Additionally, until the start of your next turn you take no damage from [Magic Missiles](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#magic-missile).

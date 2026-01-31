@@ -80,7 +80,7 @@ Choose cold, corrosive, electric, fire, poison, or sonic for the type of orb you
 **Casting Time:** 2 Actions<br>
 **Range:** Self (30-Foot line)<br>
 **Components:** V, S, M *(A bit of rotten food.)*<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *A gout of acid flows from you and adheres to those who are not quick enough to avoid it.*
 
@@ -93,7 +93,7 @@ Make an evocation attack vs the Dexterity defense of each creature in the line. 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *Your prayer empowers your strikes with divine energy.*
 
@@ -184,7 +184,7 @@ You create three glowing darts. Each dart hits a target of your choice that you 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *Your weapon is imbued with a searing heat.*
 
@@ -228,7 +228,7 @@ Additionally, when the melee weapon attack hits, add your spellcasting attribute
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
 **Components:** V, S, M *(A twig from a tree that has been stuck by lightning.)*<br>
-**Duration:** Sustained
+**Duration:** Sustained, up to 1 minute
 
 *A beam of crackling, blue energy locks onto your target.*
 
@@ -241,7 +241,7 @@ Make a ranged evocation attack against a creature that you can see in range. On 
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** Sustained, 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 *Your weapon strikes with such ferocity that it causes your target to be filled with fear.*
 

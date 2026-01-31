@@ -6,6 +6,15 @@ grand_parent: Spells
 
 # Restoration
 
+## Aura of Purity
+*4th level Restoration*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self (30-foot sphere)<br>
+**Components:** V<br>
+**Duration:** Sustained, 10 minutes
+
+An aura radiates from you in a 30-foot emanation for the duration. While in the aura, you and your allies gain 1 instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) to poison damage and gain +1d on checks to avoid or end effects that include the [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), [nauseated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Nauseated/)[paralyzed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/), [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/), [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) or [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) condition.
+
 ## Resuscitate
 *4th level Restoration (Ritual)*<br>
 **Casting Time:** 2 Actions<br>

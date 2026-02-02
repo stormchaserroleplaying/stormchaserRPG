@@ -30,6 +30,15 @@ While affected by this spell, any attempt to break or [pick](https://stormchaser
 
 **At Higher Levels.** When you cast this spell with 3 or more mana, the DC to break a locked device increases by 1 for each additional point of mana. 
 
+## Flash Armour
+*2nd level Ward (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(A nude statuette or depiction.)*<br>
+**Duration:** 8 Hours
+
+You touch a willing creature who is wearing neither armor nor clothing. Until the spell ends, the target may not put on armor or clothing. When they attempt to put on armor or clothing, they find it falls off of them harmlessly without the garment ever sitting upon their body. In addition, the target’s Strength and Dexterity defence vs melee and attacks becomes 10 plus the number of other creatures with an Intelligence 8 or higher that can see them, to a maximum of 18, if its typical unarmoured Dexterity defence would be lower than that.
+
 ## Let the Soul Pass
 *2nd level Ward (Ritual)*<br>
 **Casting Time:** 3 actions<br>

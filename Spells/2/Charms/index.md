@@ -48,7 +48,7 @@ At the end of each of its turns, a creature affected by this spell can make anot
 ## Zone of Truth
 *2nd level Charm (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 Feet (20-Foot radius sphere)<br>
+**Range:** 30 Feet (20-foot radius sphere)<br>
 **Components:** V, S<br>
 **Duration:** 10 Minutes
 

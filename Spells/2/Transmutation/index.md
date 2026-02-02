@@ -41,6 +41,17 @@ Make a transmutation attack vs a creature's Wisdom defence. On a hit, the creatu
 
 **At Higher Levels.** If you cast this spell using 3 or more mana, then the spell's duration increases by 2 days for each additional mana.
 
+## Disrobe
+*2nd level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 Feet<br>
+**Components:** V, S*<br>
+**Duration:** Instantaneous
+
+The creature's clothing, including undergarments, belts, and footwear, loosen and fall off its body, leaving it naked. Nonmagical jewelry, including rings, earrings, and necklaces also fall, sliding off as if covered in grease. Objects that are held remain in the creature's grasp, as well as magic items that are worn. 
+
+If a target wears nonmagical armour, make a transmutation attack vs its Dexterity defense. On a hit, the creature becomes [flat-footed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Flatfooted/) and [staggered](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Staggered/) due to the clumsy way which their armour dangles off its body. These conditions persist until the armour is either donned properly or completely removed. It takes half the time as normal to perform either the [donning or removal](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Wearing/#donning-and-doffing-armour-suits). It requires a full-round action to don regular clothes. 
+
 ## Dusk that Settles On Mud
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
@@ -53,7 +64,7 @@ Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any 
 ## Earthen Grasp
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet (5-foot cube)<br>
+**Range:** 30 Feet (5-foot cube)<br>
 **Components:** V, S, M *(A miniature hand sculpted in clay.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -91,7 +102,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 ## Enlarge/Reduce
 *2nd level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 ft<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A pinch of powdered iron.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -104,7 +115,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 ## Haste
 *2nd Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A shaving of licorice root.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -130,7 +141,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A sheet of paper.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
 
@@ -152,7 +163,7 @@ A creature affected by this spell makes a Strength defence check vs your transmu
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A drop of bitumen and a spider's leg.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface.*
 
@@ -160,9 +171,9 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ## Spike Growth
 **Casting Time:** 2 Actions<br>
-**Range:** 150 feet (20-foot radius sphere)<br>
+**Range:** 150 Feet (20-foot radius sphere)<br>
 **Components:** V, S, M *(Seven sharp thorns.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 Any ground-covering vegetation in a 20-foot radius centered on a point within range becomes very hard and sharply pointed without changing its appearance. In areas of bare earth, roots and rootlets act in the same way. Typically, spike growth can be cast in any outdoor setting except open water, ice, heavy snow, sandy desert, or bare stone.
 

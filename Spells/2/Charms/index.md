@@ -6,16 +6,27 @@ grand_parent: Spells
 
 # Charms
 
+## Beckon
+*2nd level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** V, S, M *(An article of attractive clothing which you are wearing.)*<br>
+**Duration:** Sustained, up to 1 minute
+
+You weave magic into an alluring command, enrapturing those around you. Make a charm attack vs the Wisdom defense of one creature within range that you can see. On a hit, the target becomes obsessed with being near you. During this time, it cannot willingly move further away from you and if it does not begin its turn adjacent to you, it must use at least 1 action to [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Stride/) toward you, expending at least half of its movement to do so. This effect cannot compel a creature to cross through dangerous terrain nor willingly harm itself to make this movement, such as by running off a cliff.
+
+**At Higher Levels:** When you cast this spell using more than 2 mana, you may choose an additional target for each additional mana spent.
+
 ## Crown of Madness
 *2nd level Charm*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 120 feet<br>
+**Range:** 120 Feet<br>
 **Components:** V, S<br>
 **Duration:** Sustained
 
 Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head and a madness glows in its eyes.
 
-When you cast this spell and as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can designate another creature that the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) target must attempt to [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on each of its turns. The target can act normally on its turn if you choose no creature or if none are within its attack range.
+When you cast this spell and as part of the action to [Sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can designate another creature that the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) target must attempt to [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on each of its turns. The target can act normally on its turn if you choose no creature or if none are within its attack range.
 
 A creature affected by this spell can make a Wisdom defense check vs your charm skill at the end of each of its turns. On a success, the spell ends.
 
@@ -23,21 +34,21 @@ A creature affected by this spell can make a Wisdom defense check vs your charm 
 *2nd level Charm (Ritual)*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S, M *(A stone stele worth 50 sp)*<br>
+**Components:** V, S, M *(A stone stele worth 50 sp.)*<br>
 **Duration:** Instantaneous
 
 Take a stone stele and affix it into a point of your choosing when you cast this spell. The stele weighs 86 lbs, has 45 integrity and DR 8. The spell ends when the stele is reduced to 0 integrity, or until dispelled.
 
-Any creature that attacks you within 20 feet of the stele must first make a Charisma defence check vs your charms skill. On a success, the spell has no effect on the creature. On a failure, the creature is drawn to destroy the stele instead. An affected creature must use its actions to moves towards the stele and damage it.
+Any creature that attacks you within 20 feet of the stele must first make a Charisma defence check vs your charms skill. On a success, the spell has no effect on the creature. On a failure, the creature is drawn to destroy the stele instead. An affected creature must use its actions to move towards the stele and damage it.
 
 At the end of each of its turns, a creature affected by this spell can make another Charisma defence check.
 
-**At Higher Levels:** When you cast this spell using 3 or more mana, the distance from the stele at which the spell is effective increases by 10 feet for every point of mana beyond the first.
+**At Higher Levels:** When you cast this spell using 3 or more mana, the distance from the stele at which the spell is effective increases by 10 feet for every point of mana above the first.
 
 ## Zone of Truth
-*2nd level Charm*<br>
+*2nd level Charm (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet (20-foot radius sphere)<br>
+**Range:** 30 Feet (20-Foot radius sphere)<br>
 **Components:** V, S<br>
 **Duration:** 10 Minutes
 

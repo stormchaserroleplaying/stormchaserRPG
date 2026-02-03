@@ -38,3 +38,16 @@ Make a charm attack vs the Wisdom defense of a creature within range that you ca
 **Duration:** Special, see text.
 
 With this spell, you can try to steal the elation from the mind of one humanoid that you can see within 60 feet. Make a charm attack roll vs the Charisma defence of the target. On a hit, you can steal one beneficial effect that they currently possess, such as an ongoing spell (as long as its level is equal to or less than the level that psychic spy was cast at), temporary hit points, or possession of a Bardic Inspiration die. The effect ends for the target and transfers to you for the remainder of its normal duration. If the effect is being sustained, you must sustain it instead of the original caster.
+
+## Zone of Comfort
+*3rd level Charm (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self (20-foot radius sphere)<br>
+**Components:** V, S<br>
+**Duration:** Sustained, up to 1 minute
+
+You designate an area around you as your zone of comfort. This zone may appear as you wish, but is obviously an illusionary effect to any who perceive it and it never obscures vision. While within this zone all creatures are immune to being [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/), and have +1d on defence checks against being [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). If a creature inside the zone was already [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) or [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), those conditions are suppressed.
+
+This spell ends when you leave the zone. Any creatures that spent the full duration of this spell within the zone gain 2dP temporary stamina.
+
+**At Higher Levels:** When you cast this spell using 4 or more mana, the temporary stamina gained increases by 2dP for each additional mana spent.

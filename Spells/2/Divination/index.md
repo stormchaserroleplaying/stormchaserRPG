@@ -39,7 +39,16 @@ Questions verbally directed at the target creature naturally shape the course of
 
 You can also use this spell to detect the presence of thinking creatures that you cannot see. When you cast the spell, or as part of the action to sustain the spell during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower, or one that doesn't speak any languages.
 
-Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it. However, it must still be within range.
+Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if yo
+
+## Magic Probe
+*2nd level Divination (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(A pearl worth at lease 100 gp and small steel rod.)*<br>
+**Duration:** Instantaneous
+
+When you touch a willing creature, you learn the name of all spells affecting it and the spell level of each spell, but no other details. 
 
 ## Mind Spike
 *2nd level Divination*<br>
@@ -61,4 +70,4 @@ You reach into the mind of one creature that you can see within range. Make a di
 
 For the duration, you can see [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and objects, as well as creatures and objects in the ethereal plane. They appear to you as translucent shapes and are concealed to you.
 
-**At Higher Levels.** When you cast this spell using 3 mana, the spell's duration increases to 1 hour.When you cast this spell using 3 mana, the spell's duration increases to 1 hour. When you cast this spell using 5 mana, the spell's duration increases to 24 hours. 
+**At Higher Levels.** When you cast this spell using 3 mana, the duration increases to 1 hour. When you cast this spell using 4 mana, the duration increases to 1 hour. When you cast this spell using 5 mana, the duration increases to 24 hours. 

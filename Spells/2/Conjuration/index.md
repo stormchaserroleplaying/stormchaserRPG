@@ -66,12 +66,23 @@ After any of these acts, the statue will turn into mud and disintegrate.
 ## Phantom Steed
 *2nd Level Conjuration (Ritual)*<br>
 **Casting Time:** 10 Minutes<br>
-**Range:** 30 feet<br>
+**Range:** 30 Feet<br>
 **Components:** V, S<br>
 **Duration:** 8 Hours
 
-You conjure a large, magical, equine creature that only you (or another medium or small creature that you choose) can ride. It appears on the ground in an unoccupied space of your choice within range. You may detrmine the creature's appearance, but it must be clearly phantasmal in nature. It is equipped with a saddle, bit and bridle that vanish in a puff of smoke if carried more than 10 feet away from the steed.
+You conjure a large, magical, equine creature that only you (or another medium or small creature that you choose) can ride. It appears on the ground in an unoccupied space of your choice within range. You may determine the creature's appearance, but it must be clearly phantasmal in nature. It is equipped with a saddle, bit and bridle that vanish in a puff of smoke if carried more than 10 feet away from the steed.
 
 The creature uses the statistics for a [riding horse](), except that it has a speed of 50 feet. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use 1 action to dismiss it or if the steed is reduced to 0 Stamina.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the steed's speed increases by 10 feet for each mana point beyond the 2nd.
+
+## Sour Stomach
+*2nd Level Conjuration*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** V, S, M *(A bit of sheepskin.)*<br>
+**Duration:** Instantaneous
+
+You manifest a vile substance within a creature's stomach, attempting to sicken them. Make a conjuration attack vs Constitution defence of one creature that you can see within range. On a hit, the target takes 2d8 poison damage, becomes [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 minute, and is [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the end of its next turn as it vomits. On a miss, the target takes half as much damage and has -1d on attack rolls it makes until the end of its next turn.
+
+**At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional mana spent.

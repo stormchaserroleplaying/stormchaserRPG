@@ -9,7 +9,7 @@ grand_parent: Spells
 ## Aid
 *2nd level Ward (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A tiny strip of white cloth.)*<br>
 **Duration:** 8 hours
 
@@ -41,7 +41,7 @@ You touch a willing creature who is wearing neither armor nor clothing. Until th
 
 ## Let the Soul Pass
 *2nd level Ward (Ritual)*<br>
-**Casting Time:** 3 actions<br>
+**Casting Time:** 3 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(Oils, salts and strips of linen worth 100gp which the spell consumes.)*<br>
 **Duration:** Instantaneous
@@ -61,7 +61,31 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 **At Higher Levels:** When you cast this spell using 3 mana, the duration increases to 8 hours. If you case this spell using 4 mana, the duration increases to 24 hours.
 
-## Warding Bond
+## Safeguard Existence
+*2nd level Ward*<br>
+**Casting Time:** Free Action<br>
+**Range:** 120 Feet<br>
+**Components:** V, S*<br>
+**Duration:** Instantaneous
+
+In a desperate maneuver, you shunt aside the worst of death’s intent and leave a creature on death’s door. Rather than dying, the creature's Stamina becomes 0, and they have the following conditions:  [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone/), [unconscious](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Unconscious/) and [wounded](https://stormchaserroleplaying.com/stormchaserRPG/General/Stamina/Conditions/#wounded) 3.
+
+This spell automatically triggers when a friendly creature you see within range suffers an effect that would kill it, except for when they become [dying](https://stormchaserroleplaying.com/stormchaserRPG/General/Stamina/Conditions/#dying) 4 from a failed recovery check. Additional exceptions can be applied on your turn, or when you roll initiative; you may declare a specific trigger for this spell, or not to use it at all.
+
+# Touch Me Not
+*2nd level Ward (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** V<br>
+**Duration:** 1 Round
+
+This spell charges your body with protective energy. You gain a +2 bonus to Strength and Dexterity defence vs melee and ranged attacks for the duration. In addition, an opponent that touches or grapples you takes 1d8 sacred damage plus you spellcasting attribute modifier.
+
+This spell is purely defensive. It does not make you armed, nor can you use it to make a touch attack, though it does deal damage on any enemy with whom you grapple. An ally can touch you without taking damage. 
+
+**At Higher Levels:** When you cast this spell using 3 mana or more, the duration increases by 1 round for each additional point of mana. 
+
+# Warding Bond
 *2nd level Ward (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>

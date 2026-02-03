@@ -22,7 +22,7 @@ A burst of cold energy emanates from you in a 30-foot cone. Make an evocation at
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
 **Components:** V<br>
-**Duration:** 1 Minute
+**Duration:** Sustained, up to 1 minute
 
 The next time that you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 sacred damage to the target, which becomes visible if it is [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/), and the target sheds dim light in a 5-foot radius and can’t become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) until the spell ends. 
 
@@ -46,7 +46,7 @@ You cannot consecrate/desecrate an area with a similar fixture of a deity other 
 ## Darkness
 *2nd Level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 120 feet (20-foot radius)<br>
+**Range:** 120 Feet (20-foot radius)<br>
 **Components:** V, M *(Bat fur and a drop of pitch or piece of coal.)*<br>
 **Duration:** 1 Minute
 
@@ -61,7 +61,7 @@ You create a shroud of darkness that prevents light from penetrating or emanatin
 **Components:** V, S, M *(A leaf of sumac.)*<br>
 **Duration:** 1 Minute
 
-You evoke a fiery, scimitar-shaped blade in your free hand. While the spell lasts, you can [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with this blade. When you do so, make a melee evocation attack. On a hit, the target takes 3d6 fire damage.
+You evoke a fiery, scimitar-shaped blade in your free hand. While the spell lasts, you can [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with this blade. When you do so, make a melee evocation attack. On a hit, the target takes 3d6 fire damage.
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
@@ -105,12 +105,12 @@ Any creature in the line must spend 2 feet of movement for every 1 foot it moves
 
 The gust disperses gas or vapour, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
-On each of your turns before the spell ends, you can use 1 action to change the direction in which the line blasts from them.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can change the direction in which the line blasts from them.
 
 ## Moonbeam
 *2nd level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 120 feet (5-foot radius)<br>
+**Range:** 120 Fet (5-foot radius)<br>
 **Components:** V, S, M *(Several seeds of any moonseed plant and a piece of opalescent feldspar.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -127,7 +127,7 @@ On each of your turns after you cast this spell, as part of the action to [susta
 ## Scorching Ray
 *2nd level Evocation*<br>
 **Casting Time:** 1 Action<br>
-**Range:** 120 feet<br>
+**Range:** 120 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
@@ -140,7 +140,7 @@ For each additional action you use when Casting the Spell, you can fire an addit
 ## Shatter
 *2nd level Evocation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 feet (10-foot radius)<br>
+**Range:** 60 Feet (10-foot radius)<br>
 **Components:** V, S, M *(A chip of mica.)*<br>
 **Duration:** Instantaneous
 

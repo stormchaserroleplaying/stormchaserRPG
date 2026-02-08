@@ -9,7 +9,7 @@ grand_parent: Spells
 ## Motivational Speech
 *3rd level Charm*<br>
 **Casting Time:** 1 Minute<br>
-**Range:** 60 ft<br>
+**Range:** 60 Feet<br>
 **Components:** V<br>
 **Duration:** 1 Hour
 
@@ -20,9 +20,9 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 ## Paralyse
 *3rd level Charm*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 feet<br>
+**Range:** 60 Feet<br>
 **Components:** V, S, M *(A small, straight piece of iron.)*<br>
-**Duration:** Sustained, or 4 Rounds on Critical Hit
+**Duration:** 1 Round, or 4 Rounds on Critical Hit
 
 *You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place.*
 
@@ -37,7 +37,7 @@ Make a charm attack vs the Wisdom defense of a creature within range that you ca
 **Components:** V, S<br>
 **Duration:** Special, see text.
 
-With this spell, you can try to steal the elation from the mind of one humanoid that you can see within 60 feet. Make a charm attack roll vs the Charisma defence of the target. On a hit, you can steal one beneficial effect that they currently possess, such as an ongoing spell (as long as its level is equal to or less than the level that psychic spy was cast at), temporary hit points, or possession of a Bardic Inspiration die. The effect ends for the target and transfers to you for the remainder of its normal duration. If the effect is being sustained, you must sustain it instead of the original caster.
+With this spell, you can try to steal the elation from the mind of one humanoid that you can see within 60 feet. Make a charm attack vs the Charisma defence of the target. On a hit, you can steal one beneficial effect that they currently possess, such as an ongoing spell (as long as its level is equal to or less than the level that psychic spy was cast at), temporary hit points, or possession of a Bardic Inspiration die. The effect ends for the target and transfers to you for the remainder of its normal duration. If the effect is being sustained, you must sustain it instead of the original caster.
 
 ## Zone of Comfort
 *3rd level Charm (Ritual)*<br>

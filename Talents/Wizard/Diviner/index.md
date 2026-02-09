@@ -37,7 +37,7 @@ Once you can cast spells of a given level, select two spells of that spell level
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
-When you select this talent, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. These are your foretelling die. On your turn, as an Action, you can designate any creature that you can see to use one of your foretelling die on any d20 roll made by that creature on their next turn. You can replace a roll in this way only once per turn.
+At the end of a creature's turn, you can expend one of your foretelling die to replace any one attack roll, skill check, or defence check made by that creature. The creature treats the results of all die rolled as part of that check as if they rolled the number on your foretelling die. You can replace a roll in this way only once per turn.
 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 

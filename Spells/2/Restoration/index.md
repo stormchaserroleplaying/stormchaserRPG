@@ -22,10 +22,10 @@ Using 1 action on your turn, you can move the spirit up to 30 feet to a space yo
 **At Higher Levels.** When you cast this spell using 3 or more mana, the healing increases by 1dR for each additional point of mana spent.
 
 ## Lesser Restoration
-*2nd level Ward (Ritual)*<br>
-**Casting Time:** 3 actions<br>
+*2nd level Restoration (Ritual)*<br>
+**Casting Time:** 3 Actions<br>
 **Range:** Touch<br>
-**Components:** V, S, 
+**Components:** V, S 
 **Duration:** Instantaneous
 
 You touch a creature and remove a condition afflicting it. The condition can be [blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/), [dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/), [deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/), [nauseated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Nauseated/), [pain-wracked](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Pain-wracked/), [paralysed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/), or [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/). Alternatively, you may relieve the creature of one level of [exhaustion](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Exhaustion/) or a [disease](https://stormchaserroleplaying.com/stormchaserRPG/Afflictions/Diseases/).

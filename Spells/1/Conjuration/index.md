@@ -9,7 +9,7 @@ grand_parent: Spells
 ## Alien Arms
 *1st Level Conjuration*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** Self (10-foot radius)<br>
+**Range:** Self (10-Foot radius)<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 
@@ -22,7 +22,7 @@ Make a melee conjuration attack against each creature within range, other than y
 ## Entangle
 *1st Level Conjuration*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 120 Feet (20-foot square)<br>
+**Range:** 120 Feet (20-Foot square)<br>
 **Components:** V, S<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -88,7 +88,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 ## Ice Knife
 *1st Level Conjuration*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 Feet (5-foot radius)<br>
+**Range:** 60 Feet (5-Foot radius)<br>
 **Components:** S, M *(A drop of water or piece of ice.)*<br>
 **Duration:** Instantaneous
 
@@ -103,7 +103,7 @@ Hit or miss, the shard then explodes. Make a conjuration attack vs the Dexterity
 ## Oil Slick
 *1st Level Conjuration (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 60 Feet (10-foot square)<br>
+**Range:** 60 Feet (10-Foot square)<br>
 **Components:** V, S, M *(A drop of oil.)*<br>
 **Duration:** Instantaneous
 

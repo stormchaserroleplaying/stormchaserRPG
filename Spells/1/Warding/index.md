@@ -36,6 +36,17 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
 
+## Block the Seed
+*1st Level Warding (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** V, S, M *(A lemon rind.)*<br>
+**Duration:** 1 day
+
+You are incapable of getting someone pregnant or becoming impregnated for the duration of this spell.
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, the duration is increased by 1 day for each mana used after the 1st. 
+
 ## But I Get Up Again
 *1st Level Warding (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
@@ -56,7 +67,7 @@ You are immune to the [Prone](https://stormchaserroleplaying.com/stormchaserRPG/
 
 *You surround yourself with a dampening magical field and collect the energy of a foe’s attack to use against them.*
 
-When this spell is cast, you gain resistance to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, which you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
+When this spell is cast, you gain 1 instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) to physical damage for the duration. If you are hit by a weapon attack while this spell is active, you gain a retribution charge, which you can choose to spend before the spell ends to deal an additional 2d12 energy damage when you hit with a weapon attack. Once you expend the charge, the spell ends.
 
 ## Ceremony
 *1st Level Warding (Ritual)*<br>
@@ -69,7 +80,7 @@ When this spell is cast, you gain resistance to physical damage for the duration
 
 When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
-**Atonement.** You touch one willing creature who has broken an oath or breached their diety's principals. Make a DC 20 warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
+**Atonement.** You touch one willing creature who has broken an oath or breached their deity's principals. Make a DC 20 warding check. On a successful check, the target is absolved of its transgressions. A creature can benefit from this rite once every 7 days.
 
 **Bless Water.** You touch one vial of water and cause it to become holy water.
 
@@ -97,7 +108,7 @@ Until the spell ends, the target gains DR 4 and coverage 11-16. The effects of t
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(Holy water or powdered silver and iron, which the spell consumes.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *You protect one against many types of creatures.*
 
@@ -123,7 +134,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 **Casting Time:** 1 Action<br>
 **Range:** 60 feet<br>
 **Components:** V, S, M *(A small parchment with a bit of holy text written on it.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *A shimmering shield of divine energy appears to provide additional protection.*
 
@@ -154,7 +165,7 @@ You must cover one eye in its entirety when you cast this spell. While the eye i
 For the spell's duration, any hostile creature that attempts to target you with a spell must make a Charisma defence check. On a failure, the creature may not target you with the spell, but must instead target the creature nearest to you. This spell lasts until your eye is uncovered.
 
 ## Winter's Ward
-*1st Level Warding*<br>
+*1st Level Warding (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V,S,M *(A cup of water.)*<br>

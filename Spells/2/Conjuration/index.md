@@ -6,6 +6,19 @@ grand_parent: Spells
 
 # Conjuration
 
+## Air Bubble
+*2nd level Conjuration*<br>
+**Casting Time:** 2 Action<br>
+**Range:** Self<br>
+**Components:** V, S<br>
+**Duration:** Sustained, 1 hour
+
+For the duration, you are encased fully in a bubble of air. The bubble is a sphere that extends out in a 10 foot radius centered on you, moves with you, and is fully transparent and permeable by creatures, weapons, items, objects, spells, and terrain, none of which pop the bubble. Any creatures within the bubble are able to breathe fresh air, regardless of what is outside the bubble. Should the bubble be submerged in liquid, creatures within the bubble cannot swim. Rather, creatures other than yourself may use their normal movement speed to exit the bubble, and, while inside the bubble with you, friendly creatures move along with the bubble. 
+
+The bubble floats halfway submerged at the surface of any liquid by default, and you may use your normal movement speed to move the bubble in any direction horizontally. You may also cause the bubble to float or sink by using 1 action. A floating or sinking bubble slowly rises or drops, respectively, 30 feet at the end of your turn until you make contact with the ground, another solid object, or the liquid's surface. Should you land on a solid surface of ground beneath a liquid, you may walk along this ground using your normal movement speed, the bubble and other friendly creatures travelling along with you as usual. The bubble may be used to safely submerge in acid or any liquid with a caustic or poisonous nature, without taking damage. Lava or any liquid that would deal damage due to heat, cold, or magical properties still causes damage to those within the bubble, but all creatures within gain 1 instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) to that damage type.
+
+**At Higher Levels:** If you cast this spell using 4 or more mana, the duration becomes sustained, up to 24 hours, and the bubble extends out to a 20 foot radius. 
+
 ## Beget the Nest of Crowns
 *2nd level Conjuration*<br>
 **Casting Time:** 1 Action<br>
@@ -54,7 +67,7 @@ You disappear in a cloud of mist, teleporting up to 30 feet to an unoccupied spa
 **Casting Time:** 1 Minute<br>
 **Range:** Touch<br>
 **Components:** V, S, M<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 A statue of animated stone constructs itself. It stands twice your height and is decorated and painted to mimic that of a famed warlord. It will follow in your footsteps for the spell's duration, or until you use 1 action to command it to take one of the following actions:
 * **Attack:** The statue charges to strike. Make a melee conjuration attack against a target that you can see within 30 feet of the statue. On a hit, this attack deals 5d6 bludgeoning damage.

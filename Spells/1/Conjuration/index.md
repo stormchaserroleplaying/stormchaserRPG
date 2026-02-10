@@ -77,13 +77,27 @@ If you move more than 100 feet from the disc (typically because it can't move ar
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet (20-foot radius)<br>
 **Components:** V, S<br>
-**Duration:** 1 hour
+**Duration:** 1 Hour
 
 *A small area of fog appears, hiding everything within it.*
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 **At Higher Levels.** When you cast this spell using 2 or more mana, the radius of the fog increases by 20 feet for each point of mana above the 1st.
+
+## Healing Elixir
+*1st Level Conjuration*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** Self<br>
+**Components:** V, S, M *(Alchemist's supplies.)*<br>
+**Duration:** 24 Hours
+
+You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it’s consumed, at which point the vial vanishes.
+
+A creature can drink the elixir or administer it to another creature as part of the [Interact](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Interact/) action. The elixir restores Stamina equal to 1dP + spellcasting attribute modifier. 
+
+**At Higher Levels.** When you cast this spell using 2 or more mana, the amount restored by the elixir increases by 1dP for each mana above the 1st.
+
 
 ## Ice Knife
 *1st Level Conjuration*<br>

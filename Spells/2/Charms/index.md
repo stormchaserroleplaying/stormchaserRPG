@@ -6,18 +6,40 @@ grand_parent: Spells
 
 # Charms
 
+## Calm Emmotions
+*2nd level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet (20-foot radius sphere)<br>
+**Components:** V, S<br>
+**Duration:** Sustained, 1 minute
+
+Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma defence check or be affected by one of the following effects (choose for each creature):
+
+The creature becomes immune to the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) conditions until the spell ends. If the creature is already affected by those conditions, those conditions are suppressed for the duration.
+
+The creature becomes indifferent about creatures of your choice that it’s hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature’s attitude returns to normal.
+
 ## Crown of Madness
 *2nd level Charm*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet<br>
 **Components:** V, S<br>
-**Duration:** Sustained
+**Duration:** Sustained, 1 mintue
 
 Make a charm attack vs the Wisdom defence of one humanoid of your choice that you can see within range. On a hit, it becomes [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you for the duration. While the target is [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) in this way, a twisted crown of jagged iron appears on its head and a madness glows in its eyes.
 
 When you cast this spell and as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can designate another creature that the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) target must attempt to [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) on each of its turns. The target can act normally on its turn if you choose no creature or if none are within its attack range.
 
 A creature affected by this spell can make a Wisdom defense check vs your charm skill at the end of each of its turns. On a success, the spell ends.
+
+## Hold Person
+*2nd level Charm*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M *(A straight piece of iron.)*<br>
+**Duration:** Sustained, 1 minute
+
+Make a charm attack vs the Wisdom defense of one hummanoid target that you can see within range. On a hit the target becomes [paralyzed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/) for the duration. At the end of each of its turns, the target makes a Wisdom defense check vs your charm spell skill, ending the spell on itself on a success.
 
 ## To This Point, Bring the East!
 *2nd level Charm (Ritual)*<br>
@@ -35,7 +57,7 @@ At the end of each of its turns, a creature affected by this spell can make anot
 **At Higher Levels:** When you cast this spell using 3 or more mana, the distance from the stele at which the spell is effective increases by 10 feet for every point of mana beyond the first.
 
 ## Zone of Truth
-*2nd level Charm*<br>
+*2nd level Charm (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet (20-foot radius sphere)<br>
 **Components:** V, S<br>

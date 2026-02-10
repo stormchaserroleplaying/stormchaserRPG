@@ -23,7 +23,7 @@ While you are transformed, the following rules apply all forms that you take:<br
 * Your gear is absorbed into your new form. Any persistent magical bonus granted by the gear still applies, however you cannot use any feature of your gear that requires you to activate it.
 
 When cast using 4 mana the following apply:<br>
-You transform into a small-sized elemental and gain darkvision to a range of 60 feet. Air, fire and water elementals can enter a hostile creature's space and stop there, and can move through a space as narrow as 1 inch wide without squeezing.
+You transform into a small-sized elemental and gain [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) to a range of 60 feet. Air, fire and water elementals can enter a hostile creature's space and stop there, and can move through a space as narrow as 1 inch wide without squeezing.
 
 Your form has a natural unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). Make a melee weapon attack roll using your unarmed proficiency. Choose your Dexterity or Strength bonus to add to the attack and damage rolls. On a hit, you do damage equal to 2d8 plus your chosen modifier of an appropriate type - slashing (air), bludgeoning (earth), fire (fire) or cold (water).
 
@@ -62,13 +62,31 @@ You transform into a huge-sized elemental. The damage for your natural unarmed [
 * *Fire Elemental.*  As above, except that you gain a +6 bonus to your Dexterity score, a +4 bonus to your Constitution score and a +4 natural DR bonus.
 * *Water Elemental.* As above, except that you gain a +4 bonus to your Strength score, a -2 penalty to your Dexterity score, +8 bonus to your Constitution score and +6 natural DR bonus. You gain a swim speed of 120 feet.
 
+## Polymorph
+*4th Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M (A caterpillar cocoon.)<br>
+**Duration:** Sustained, 1 hour
+
+*(Work in progress...)*
+
 ## Role Reversal
 *4th Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
 **Components:** V, S, M (A sugar pill.)<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained,  1 hour
 
 *The universal muse comes over you, inspiring you to break it all down.*
 
 Choose two willing humanoids that you can see within range. The targets exchange one talent (other than spellcasting) with each other, losing their ability but gaining access to the other party's talent for the duration. For example, you could choose barbarian and bard talents, granting the Bardic Inspiration feature to the barbarian and Rage to the bard. A creature cannot gain an ability that it already has through this spell, and abilities that have limited uses are not recharged at any point: the creature gaining the ability inherits however many uses were remaining at the time the spell was cast, and the original owner of the ability is left with only as many uses as were unspent at the end of the spell's duration.
+
+## Stoneskin
+*4th Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M (Diamond dust worth at least 100 gp, which the spell consumes.)<br>
+**Duration:** Sustained, 1 hour
+
+Until the spell ends, one willing creature you touch gains one instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) to bludgeoning, piercing, and slashing damage.

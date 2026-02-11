@@ -13,7 +13,7 @@ As a conjurer, you favor spells that produce objects and creatures out of thin a
 The time and cost of copying conjurations to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) is halved.
 
 ### Bonus Spells
-Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells that can be added to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook), as per the [Arcane Spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Arcane/). Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells that are added to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook), as per the [Arcane Spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Arcane/). Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 | Spell Level | Spells |
 |:-----------:|:------:|

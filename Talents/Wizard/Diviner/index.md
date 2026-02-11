@@ -5,7 +5,7 @@ grand_parent: Talents
 ---
 
 # Diviner ([Wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard))
-The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 
 ## Branch Features
 
@@ -13,7 +13,7 @@ The counsel of a diviner is sought by royalty and commoners alike, for all seek 
 The time and cost of copying divinations to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) is halved.
 
 ### Bonus Spells
-Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells known, as per the [Arcane Spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Arcane/). Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
+Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells that are added to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook), as per the [Arcane Spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Arcane/). Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.
 
 | Spell Level | Spells |
 |:-----------:|:------:|
@@ -27,17 +27,17 @@ Once you can cast spells of a given level, select two spells of that spell level
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Portent      | 5  | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
-| Expert Divination     | 20 | 3rd Level Spells and Portent      |
-| The Third Eye   | 30 | 5th Level Spells and Expert Divination     |
-| Greater Portent   | 50 | 7th Level Spells and The Third Eye  |
+| Portent | 5 | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
+| Expert Divination | 20 | 3rd Level Spells and Portent |
+| The Third Eye | 30 | 5th Level Spells and Expert Divination |
+| Greater Portent | 50 | 7th Level Spells and The Third Eye |
 
 ### Portent
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
-At the end of a creature's turn, you can expend one of your foretelling die to replace any one attack roll, skill check, or defence check made by that creature. The creature treats the results of all die rolled as part of that check as if they rolled the number on your foretelling die. You can replace a roll in this way only once per turn.
+Your dreams provide a glimpse of future possibility. When you finish a long rest, roll two d20s and record these numbers. These rolls become your foretelling dice. At the end of a creature's turn as a free action, you can expend one of your foretelling die to replace any one attack roll, skill check or defence check made by that creature. The creature treats the results of all dice rolled as part of that check as if they rolled the number on your foretelling die. You can replace a roll in this way only once per turn.
 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
@@ -45,27 +45,24 @@ Each foretelling roll can be used only once. When you finish a long rest, you lo
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Minor Conjuration
-Casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a [divination spell](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) of 2nd level or higher you may regain mana equal to the amount of mana expended minus one. The amount of mana recovered cannot exceed five. 
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Portent
+Casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell using two or more mana you may regain mana equal to the amount of mana expended minus one. The amount of mana recovered cannot exceed five. 
 
 ### The Third Eye
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Benign Transposition
-As an Action you can increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can’t use the feature again until you finish a short or long rest.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Expert Divination
+Using one Action you can increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can’t use the feature again until you finish a short or long rest.
 
-Darkvision. You gain [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) out to a range of 60 feet. 
-
-Ethereal Sight. You can see into the Ethereal Plane within 60 feet of you.
-
-Greater Comprehension. You can read any language.
-
-See Invisibility. You can see invisible creatures and objects within 10 feet of you that are within line of sight.
+- **Darkvision.** You gain [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) out to a range of 60 feet. If you already have darkvision, its range is increased by 60 feet. 
+- **Ethereal Sight.** You can see into the Ethereal Plane within 60 feet of you.
+- **Greater Comprehension.** You can read any language.
+- **See Invisibility.** You can see invisible creatures and objects within 10 feet of you that are within line of sight.
 
 ### Greater Portent
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Focused Conjuration
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and The Thrid Eye
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.

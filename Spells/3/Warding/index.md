@@ -84,7 +84,7 @@ When you inscribe the glyph, you set its trigger and choose whether it’s an ex
 
 **Spell Glyph.** You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell needs to be sustained, it lasts until the end of its full duration.
 
-**At higher levels:** The damage of an explosive rune increases by 1d8 for each mana spent above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
+**At higher levels:** The damage of an explosive rune increases by 1d8 for each mana spent above 3. If you create a spell glyph, you can store any spell up to a level equal to the amount of mana you use for the Glyph of Warding.
 
 ## Remove Curse
 *3rd level Ward*<br>

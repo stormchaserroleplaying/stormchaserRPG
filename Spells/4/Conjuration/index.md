@@ -17,7 +17,7 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity defence check vs your conjuration spell skill, taking 20 radiant damage on a failed check or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**At Higher Levels.** When you cast this spell using 5 or more mana, the total damage dealt increases by 20.
+**At Higher Levels.** When you cast this spell using 5 or more mana, the total damage dealt increases by 20 per additional point of mana expended. 
 
 ## Summon Elemental
 *4th level Conjuration*<br>

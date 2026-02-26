@@ -157,7 +157,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 **Components:** V, S*<br>
 **Duration:** Sustained, 1 minute
 
-You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The weapon appears within range in a space of your choice, and you can immediately make one evotaion melee spell attack against one creature within 5 feet of the force. The target takes force damage equal to 1d8 plus your spellcasting ability modifier on a hit.
+You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The weapon appears within range in a space of your choice, and you can immediately make one Evocation melee spell attack against one creature within 5 feet of the force. The target takes force damage equal to 1d8 plus your spellcasting ability modifier on a hit.
 
 As an action on your later turns, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.
 

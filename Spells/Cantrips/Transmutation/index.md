@@ -47,7 +47,6 @@ You exert your dominance via a minor magical feat. You may do any of the followi
 * Alter the appearance of your eyes for 1 minute.
 * Cut a piece of rope no thicker than 2 inches in diameter.
 * Fasten or unfasten a buckle or clasp.
-* Lock or unlock a mundane lock used to secure a cage, straps, or manacles without requiring a key.
 * Manipulate a piece of chain, leather, or rope.
 * Tie or untie a moderately complex knot.
 

@@ -52,8 +52,8 @@ Casting divination spells comes so easily to you that it expends only a fraction
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Expert Divination
-Using one Action you can increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can’t use the feature again until you finish a short or long rest.
+#### **Cost:** 30 Character Points<br>**Action:** 2 Actions<br>**Prerequisite:** 5th Level Spells and Expert Divination
+You can increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can’t use the feature again until you finish a short or long rest.
 
 - **Darkvision.** You gain [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) out to a range of 60 feet. If you already have darkvision, its range is increased by 60 feet. 
 - **Ethereal Sight.** You can see into the Ethereal Plane within 60 feet of you.

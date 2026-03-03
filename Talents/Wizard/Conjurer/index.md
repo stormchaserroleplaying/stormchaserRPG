@@ -36,8 +36,8 @@ Once you can cast spells of a given level, select two spells of that spell level
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
-When you select this talent, you can use one Action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+#### **Cost:** 5 Character Points<br>**Action:** 2 Actions<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
+When you select this talent, you can conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
 
 The object disappears after 1 hour, when you use this feature again, or if it takes or deals any damage.
 
@@ -45,8 +45,8 @@ The object disappears after 1 hour, when you use this feature again, or if it ta
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Minor Conjuration
-Using one Action you can teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+#### **Cost:** 20 Character Points<br>**Action:** 2 Actions<br>**Prerequisite:** 3rd Level Spells and Minor Conjuration
+You can teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
 
 Once you use this feature, you can’t use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
 

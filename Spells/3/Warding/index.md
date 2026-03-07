@@ -81,10 +81,10 @@ A word of your choosing is imbued with energy as you speak it. Any spell or magi
 ## Role Reversal
 *3rd level Ward*<br>
 **Casting Time:** Free Action<br>
-**Range:** 60 feet<br>
+**Range:** 30 feet<br>
 **Components:** V<br>
 **Duration:** Instantaneous
 
-In a twist of either fate or skill, you reverse the impending perilous situation. The creature that is attempting to grapple or restrain you must make a Charisma Defence Check. On a failure, they become Grappled or Restrained in the same manner that you would have been had this spell not intervened (or if not possible, such as if they were using tentacles you don’t have, then they become Grappled or Restrained in a possible method of your choosing). 
+In a twist of either fate or skill, you reverse the impending perilous situation. When you cast this spell, you cause a creature within range that has you [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) to releases their and hold on you and they then become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in the same manner that found yourself in - if not possible, such as if they were using tentacles you don’t have, then they become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in a possible method of your choosing). 
 
-If they become Grappled or Restrained by a spell that requires it to be Sustained, they may not willingly drop it for this effect until the end of the start of their next turn. Receiving damage or other effects that would interrupt Sustained still function normally when a creature is in this state.
+If they become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by a spell that requires it to be Sustained, they may not willingly drop it for this effect until the end of the start of their next turn. Receiving damage or other effects that would interrupt Sustained still function normally when a creature is in this state.

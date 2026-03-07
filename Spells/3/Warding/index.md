@@ -77,3 +77,14 @@ Make a warding attack roll against vs the Charisma defence of the possessing cre
 **Duration:** Instantaneous
 
 A word of your choosing is imbued with energy as you speak it. Any spell or magical effects that cause a creature of your choosing within range to be [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/), [paralyzed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Paralysed/), or to reduce their speed to 0 are ended. In addition, that creature may spend 5 feet of movement on its next turn to escape any non-magical restraints, grapple, or imprisoning device (e.g. a cage). If the target is adjacent to a hostile creature, you may teleport them to an empty space adjacent to you.
+
+## Role Reversal
+*3rd level Ward*<br>
+**Casting Time:** Free Action<br>
+**Range:** 60 feet<br>
+**Components:** V<br>
+**Duration:** Instantaneous
+
+In a twist of either fate or skill, you reverse the impending perilous situation. The creature that is attempting to grapple or restrain you must make a Charisma Defence Check. On a failure, they become Grappled or Restrained in the same manner that you would have been had this spell not intervened (or if not possible, such as if they were using tentacles you don’t have, then they become Grappled or Restrained in a possible method of your choosing). 
+
+If they become Grappled or Restrained by a spell that requires it to be Sustained, they may not willingly drop it for this effect until the end of the start of their next turn. Receiving damage or other effects that would interrupt Sustained still function normally when a creature is in this state.

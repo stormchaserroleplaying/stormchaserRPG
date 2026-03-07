@@ -15,7 +15,6 @@ grand_parent: Spells
 
 You apparate a heavy leather collar encircling the throat of a creature, willing it to pull tight and strangle. Make a conjuration attack roll vs the target's Strength defence. On a hit, it begins to suffocate. While suffocating that creature cannot breathe, satisfy the verbal component for spells, and cannot speak other than in vague vocalizations. A suffocating creature may as an Action attempt to remove the collar from their throat by making a Strength check vs you conjuration spell skill, ending the spell upon a success.
 
-
 ## Cozy Cabin
 *3rd level Conjuration (Ritual)*<br>
 **Casting Time:** 1 Minute<br>

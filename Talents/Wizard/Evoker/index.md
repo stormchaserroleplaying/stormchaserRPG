@@ -44,14 +44,14 @@ You can create pockets of relative safety within the effects of your evocation s
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Sculpt Spells  
-Whenever you target a creature with a damaging cantrip and you miss, you still deal damage equal to half the normal damage to the target. The target is not affected by any other additional effects of that cantrip.   
+Whenever you make an attack with a damaging cantrip and all dice in your dice pool miss, you still deal damage equal to half the normal damage to the target as if one die hit. The target is not affected by any other additional effects of that cantrip.   
 
 ### Explosive Evocation  
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Potent Cantrip
-When you cast an evocation spell, if you roll the maximum value on any damage die, you may roll that die again and add the result to the total damage. If the additional roll is also the maximum value, you may repeat this process.
+When you cast an evocation spell, if you roll the maximum value on any damage die, you may roll that die again and add the result to the total damage. If the additional roll is also the maximum value, you may repeat this process. This process continues until the maximum value is not rolled.
 
 This feature applies only to damage dice that are actually rolled. It cannot be used in conjunction with any feature or effect that maximizes a spell’s damage or sets a die to its maximum value without rolling.
 

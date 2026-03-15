@@ -41,7 +41,7 @@ You can change your list of prepared spells when you finish a short rest. Prepar
 You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your divine spells.
 
 ### Cantrips
-You may choose a number of cantrips from the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier increases, then you learn additional cantrips of your choice.
+Cantrips form the rudimentary structures divine manifestationss. When a spellcaster becomes comfortable with the rites and devotions, they can cast these spells without expending mana. You learn a number of cantrips based on your proficiency in the various spellcasting schools. You only learn cantrips in this way from the school(s) for which you have training.
 
 ## 2nd Level Divine Spells
 

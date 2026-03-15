@@ -50,7 +50,7 @@ Choose one sorcerer, warlock, or wizard talent tree branch that you have talent(
 You can use an arcane focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Gear/)) as a spellcasting focus for your arcane spells.
 
 ### Cantrips
-You may choose a number of cantrips from [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) equal to your spellcasting attribute modifier. If your spellcasting attribute modifier increases, then you learn additional cantrips of your choice.
+Cantrips form the rudimentary structures of magical formulae. When a spellcaster becomes comfortable with the basic forms and structures, they can cast these spells without expending mana. You learn a number of cantrips based on your proficiency in the various spellcasting schools. You only learn cantrips in this way from the school(s) for which you have training.
 
 ## 2nd Level Arcane Spells
 

@@ -27,30 +27,30 @@ Once you can cast spells of a given level, select two spells of that spell level
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Hypnotic Gaze  | 5 | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
+| Hypnotic Gaze     | 5  | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
 | Instinctive Charm | 20 | 3rd Level Spells and Hypnotic Gaze  |
-| Split Enchantment  | 30 | 5th Level Spells and Instinctive Charm |
-| Alter Memories   | 50 | 7th Level Spells and Split Enchantment  |
+| Split Enchantment | 30 | 5th Level Spells and Instinctive Charm |
+| Alter Memories    | 50 | 7th Level Spells and Split Enchantment  |
 
 ### Hypnotic Gaze 
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Action:** 2 Actions<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
-When you choose this talent, your soft words and enchanting gaze can magically enthrall another creature. Choose one creature that you can see within 5 feet of you that can see or hear you. Make a Charms attack vs the target's Wisdom defence. On a hit the target will be [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the end of your next turn. The charmed creature’s speed drops to 0, and the creature is [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) and visibly dazed.
+Your soft words and enchanting gaze can magically enthrall another creature. Choose one creature that you can see within 5 feet of you. The creature must be able to see or hear you. Make a Charm attack vs the target's Wisdom defence. On a hit the target will be [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) by you until the end of your next turn. The charmed creature’s speed drops to 0, and the creature is [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/) and visibly dazed.
 
-On subsequent turns, you can [Sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you or if the creature takes damage.
+On subsequent turns, you can [Sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
 
-Once the effect ends, or if you miss on your initial Charms attack against this effect, you can’t use this feature on that creature again until you finish a long rest.
+Once the effect ends, or if you miss on your initial Charm attack, you can’t use this feature on that creature again until you finish a long rest.
 
 ### Instinctive Charm
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Action:** Free<br>**Prerequisite:** 3rd Level Spells and Hypnotic Gaze 
-The first time each round that you are attacked by a creature within 30 feet of you that you can see, you can activate your instincitve charm to prevent that attack from targeting you. On your turn, you may decide not to use this feature for the next round, or that it is only to be triggered by certain creatures. This ability triggers once per round and automatically on the first attack to hit you each round, unless you declare on your turn or when you roll intitiative that it will trigger from attacks by a specified creature, or not to use it at all.
+The first time each round that you are attacked by a creature within 30 feet of you that you can see, you can activate your Instinctive Charm to prevent that attack from targeting you. On your turn, you may decide not to use this feature for the next round, or that it is only to be triggered by certain creatures. Otherwise, this ability automatically triggers once per round on the first attack to hit you each round.
 
-When this ability is triggered the attacker must make a Wisdom defence check vs your Charms skill. On a failure, the attacker must target the next closest creature to it, not including you or itself. If multiple creatures are considered closest, the attacker chooses which one to target. On a success, the target creature is unaffacted and you cannot use this feature on that same creature again until you finish a long rest. 
+When this ability is triggered, the attacker must make a Wisdom defence check vs your Charms skill. On a failure, the attacker must target the next closest creature to it, not including you or itself. If multiple creatures are considered closest, the attacker chooses which one to target. On a success, the target creature is unaffacted and you cannot use this feature on that same creature again until you finish a long rest. 
 
 This ability has no affect on creatures that are immune to [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/).
 
@@ -66,6 +66,6 @@ When you cast a Charm spell of 1st level or higher that targets only one creatur
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 50 Character Points<br>**Action:** 2 Actions<br>**Prerequisite:** 7th Level Spells and Split Enchantment
-You gain the ability to make a creature unaware of your magical influence on it. When you cast a Charm spell that imposes the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition on one or more creatures, you can alter one creature’s understanding so that it remains unaware of being [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/).
+You gain the ability to make a creature unaware of your magical influence on it. When you cast a charm that imposes the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) condition on one or more creatures, you can alter one creature’s understanding so that it remains unaware of being [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/).
 
-Additionally, once before the spell expires, you can try to make the chosen creature forget some of the time it spent [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). You make a Charms attack targeting the creature's Intelligence defence, on a hit you force the target to lose a number of hours of its memories to a maxium amount of  1 + your Charisma attribute modifier (minimum 1). 
+Additionally, once before the spell expires, you can try to make the chosen creature forget some of the time that it spent [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/). Make a Charm attack vs the creature's Intelligence defence. On a hit, you force the target to lose a number of hours of its memories up to a maxium of 1 + your Charisma attribute modifier (minimum 1).

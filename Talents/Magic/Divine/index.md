@@ -41,7 +41,7 @@ You can change your list of prepared spells when you finish a short rest. Prepar
 You can use a holy symbol or druidic focus (see [Adventuring Gear](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/AdventuringGear/)) as a spellcasting focus for your divine spells.
 
 ### Cantrips
-Cantrips form the rudimentary structures divine manifestationss. When a spellcaster becomes comfortable with the rites and devotions, they can cast these spells without expending mana. You learn a number of cantrips based on your [Spell School Proficiencies](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Proficiency/). You only learn cantrips in this way from the school(s) for which you have training.
+Cantrips are essential divine rotes and manifestations. Once a spellcaster has become comfortable with these rites, then they can cast these spells without expending mana. The number of cantrips that you know is derived from your [Spell School Proficiencies](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Proficiency/), which teach you cantrips from the school(s) in which you have been trained. Some cantrips, such as [Eldritch Blast](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#eldritch-blast), can only be learned via specific talent trees.
 
 ## 2nd Level Divine Spells
 

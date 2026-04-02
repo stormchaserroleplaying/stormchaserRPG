@@ -13,11 +13,11 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** Sustained, 1 minute
 
-Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma defence check or be affected by one of the following effects (choose for each creature):
+Select a number of Humanoids up to your spellcasting modifier in a 20-foot-radius sphere centered on a point you choose within range. Make a Charms spell attack against their CHA defense. On a hit, they are affected by one of the following effects (choose for each creature):
 
 The creature becomes immune to the [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/), [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/) and [shaken](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Shaken/) conditions until the spell ends. If the creature is already affected by those conditions, those conditions are suppressed for the duration.
 
-The creature becomes indifferent about creatures of your choice that it’s hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature’s attitude returns to normal.
+The creature's attitude becomes Indifferent towards others it was Hostile or Unfriendly towards. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature’s attitude returns to normal.
 
 ## Crown of Madness
 *2nd level Charm*<br>

@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Minute
 
-You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opporunity. At the end of your turn, you vanish and reappear as above. 
+You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opporunity. At the end of your turn, you vanish and reappear as above.
 
 You can dismiss this spell as an action.
 
@@ -25,7 +25,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 **Range:** Self<br>
 **Components:** V, S<br>
 **Duration:** Sustained, up to 1 minute
- 
+
 Billowing flames grant you explosive speed. For the duration, your speed increases by 10 feet and moving doesn’t provoke attacks of opportunity. When you move within 5 feet of a creature or an object that isn’t being worn or carried, it takes 1d6 fire damage from your trail of heat. A creature or object can take this damage only once during a turn.
 
 **At Higher Levels.** When you cast this spell using 4 or more mana, your speed increases by 5 feet and the spell deals an additional 1d6 fire damage for each additional mana.
@@ -61,3 +61,12 @@ Plants might be able to perform other tasks on your behalf, at the GM’s discre
 If a plant or fungi creature is in the area, then you can communicate with it as if you shared a common language. However, you gain no magical ability to influence it. This spell does not make plants and fungi more friendly or intelligent than normal. Most normal plants and fungi have a distinctive view of the world around them, so they don't recognise details about creatures or know anything about the world beyond their immediate vicinity.
 
 This spell can cause the plants created by the [Entangle](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#entangle) spell to release a [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) creature.
+
+## Water Breathing
+*3rd Level Transmutation (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 feet<br>
+**Components:** V, S, M *(A short reed.)*<br>
+**Duration:** 24 Hours
+
+This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.

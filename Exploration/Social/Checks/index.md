@@ -103,7 +103,7 @@ Once the baseline DC is determined, the GM decides on the applicable skill and p
 | Target's attitude is Friendly | -1d |
 | Target's attitude is Unfriendly | +1d |
 | Target has the Charmed, Frightened, or Pain-Wracked condition | -2d |
-| Target has the Dazed, Nauseated, Panicked, or Shaken condition | -2d |
+| Target has the Dazed, Nauseated, Panicked, or Shaken condition | -1d |
 
 ### Aiding the Check
 Other characters who make substantial contributions to the conversation can help the character making the check. If a helping character says or does something that would influence the interaction in a positive way, the character making the Charisma check can do so with advantage. If the other character inadvertently says something counterproductive or offensive, the character making the Charisma check has disadvantage on that check.

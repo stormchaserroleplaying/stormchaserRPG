@@ -49,7 +49,7 @@ Once you create the ward, you can’t create it again until you finish a long re
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Arcane Ward
+#### **Cost:** 20 Character Points<br>**Actions:** 1<br>**Prerequisite:** 3rd Level Spells and Arcane Ward
 You gain the ability to temporarily project your ward onto another creature. On your turn, you can declare a specific creature that you can see within 30' to trigger this ability. When that creature takes damage, you cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 Integrity, then the warded creature takes any remaining damage. 
 
 ### Improved Warding

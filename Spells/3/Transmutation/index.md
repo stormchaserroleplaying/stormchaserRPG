@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Minute
 
-You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opporunity. At the end of your turn, you vanish and reappear as above. 
+You blink quickly between the Material Plane and the Ethereal Plane (the spell fails and the casting is wasted if you were already on the Ethereal plane). You gain Resistance I to all damage, except force. You can [Sustain the Spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/CastingaSpell/Duration/#sustain-a-spell) to vanish and reappear 10 feet away in a random direction determined by the GM; the movement doesn't trigger Attacks of Opportunity. At the end of your turn, you vanish and reappear as above. 
 
 You can dismiss this spell as an action.
 
@@ -30,10 +30,19 @@ Billowing flames grant you explosive speed. For the duration, your speed increas
 
 **At Higher Levels.** When you cast this spell using 4 or more mana, your speed increases by 5 feet and the spell deals an additional 1d6 fire damage for each additional mana.
 
+## Liar's Curse
+*3rd Level Transmutation*<br>
+**Casting Time:** 2 Action<br>
+**Range:** 30 Feet<br>
+**Components:** V, S<br>
+**Duration:** Until Dispelled
+ 
+Make a transmutation attack vs the Wisdom defence of a creature you can see within range. On a hit, the target becomes the subject of a curse. Choose either to focus on the target's penis or nose, each time the target lies, the chosen body part becomes larger.
+
 ## Plant Growth
 *3rd Level Transmutation*<br>
 **Casting Time:** 2 Actions or 8 Hours<br>
-**Range:** 150 feet<br>
+**Range:** 150 Feet<br>
 **Components:** V, S<br>
 **Duration:** Instantaneous
 

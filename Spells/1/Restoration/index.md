@@ -3,6 +3,9 @@ title: Restoration
 parent: Level 1
 grand_parent: Spells
 ---
+
+# Restoration
+
 ## Bedrest
 *1st Level Restoration (Ritual)*<br>
 **Casting Time:** 1 Minute<br>
@@ -26,7 +29,7 @@ A creature you touch recovers up to two levels of exhaustion on its next long re
 
 *You channel positive energy to heal the living or damage the undead.*
 
-If the target is a willing living creature, you roll one of its recovery die, add your spellcasting attribute modifier and heal that amount of Stamina. If the target is undead, then make a spellcasting attack vs its Constitution defence. On a hit, you deal the same amount of sacred damage to it.
+If the target is a willing living creature, you roll 2dP, add your spellcasting attribute modifier and heal that amount of Stamina. If the target is undead, then make a restoration attack vs its Constitution defence. On a hit, you deal the same amount of sacred damage to it.
 
 This spell has no effect on constructs.
 

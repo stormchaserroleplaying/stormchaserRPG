@@ -20,7 +20,7 @@ You target the corpse of one creature that you can see within range and cause it
 **At Higher Levels.** When you cast this spell using 3 or more mana, you may target an additional corpse for every 2 points of mana beyond the 1st.
 
 ## False Life
-*1st Level Necromancy*<br>
+*1st Level Necromancy (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A small amount of alcohol or distilled spirits.)*<br>

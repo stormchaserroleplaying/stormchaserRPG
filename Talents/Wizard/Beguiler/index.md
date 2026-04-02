@@ -10,7 +10,7 @@ As a member of the School of Charms, you have honed your ability to magically en
 ## Branch Features
 
 ### Charms Savant
-The time and cost of copying Charms to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) is halved.
+The time and cost of copying charms to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) is halved.
 
 ### Bonus Spells
 Once you can cast spells of a given level, select two spells of that spell level from the list below as bonus spells that are added to your [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook), as per the [Arcane Spellcasting talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Arcane/). Once you gain a bonus spell, you always know it and it doesn’t count against the number of spells that you know.

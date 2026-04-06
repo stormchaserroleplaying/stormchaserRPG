@@ -68,7 +68,7 @@ Cover your ears and close your eyes as a part of this spell's casting. Then, wal
 
 Protective spirits flit around you in a 15-foot sphere for the duration. Their spectral form appears in your choice of angelic, fey or fiendish.
 
-When you cast this spell, you can designate creatures to be unaffected by it. Affected creature’s Speed is halved within the emanation. Make a conjuration attack vs the Wisdom defense of creatures of your choice within the emanation. Additionally, when an affected creature enters the emanation or ends its turn there, the creature must make a Wisdom defense check vs your conjuration skill. On a hit or failed check, the creature takes 3d8 radiant or necrotic damage - your choice, or half as much damage on a miss or successful check.
+When you cast this spell, you can designate creatures to be unaffected by it. Affected creature’s Speed is halved within the emanation. Make a conjuration attack vs the Wisdom defense of creatures of your choice within the emanation. Additionally, when an affected creature enters the emanation or ends its turn there, the creature must make a Wisdom defense check vs your conjuration skill. On a failed check, the creature takes 3d8 damage or half as much damage on a miss or successful check. The damage is either sacred or profane, chosen when the spell is cast.
 
 **At Higher Levels.** When you cast this spell using 4 or more mana, the damage increases by 1d8 for each additional mana.
 

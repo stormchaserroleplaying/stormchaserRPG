@@ -1,4 +1,4 @@
---
+---
 title: Conjuration
 parent: Level 4
 grand_parent: Spells
@@ -26,7 +26,28 @@ Any enemy that moves to a space within 10 feet of the guardian for the first tim
 **Components:** V, S, M *(Air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP)*<br>
 **Duration:** Sustained, 1 hours
 
-You call forth an [elemental spirit](). It manifests in an unoccupied space that you can see within range and uses the [elemental spirit]() stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 Stamina or when the spell ends.
+You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range and uses the stat block shown below. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 Stamina or when the spell ends.
+
+### Elemental Spirit
+*Medium Elemental, Unaligned*<br>
+**STR:** 14, **DEX:** 12, **CON:** 13, **INT:** 7, **WIS:** 10, **CHA:** 13<br>
+#### Defences
+**Stamina:** 34 + 5 for each mana spent above 4<br>
+**Damage Reduction:**  1 + 1 for each mana spent above 4<br>
+**Damage Resistances:** acid (Water only); electric and sonic (Air only); piercing and slashing (Earth only)<br>
+**Damage Immunities:** poison; fire (Fire only)<br>
+**Condition Immunities:** exhaustion, paralysed, petrified, poisoned, unconscious<br>
+#### Ability Scores
+**STR:** 18 (+4), **DEX:** 15 (+2), **CON:** 17 (+3), **INT:** 4 (-3), **WIS:** 10 (+0), **CHA:** 16 (+3)<br>
+**Speed:** 30 feet; burrow 30 feet (Earth only); fly 30 feet, hover (Air only); swim 30 feet (Water only)<br>
+#### Actions
+**Slam:** *Melee Weapon Attack:* Spell attack modifier to hit; reach 5 feet; one target. Hit: 1d10 + 4 + mana spent bludgeoning damage (Earth and Water only), slashing damage (Air only), or fire damage (Fire only)
+#### Special Abilities
+**Amorphous Form (Air, Fire and Water only):** The elemental can move through a space as narrow as 1 inch wide without squeezing.
+#### Other
+* [Darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) 60 feet<br>
+* Awareness 10 (1d20)<br>
+* Languages: Primordial, understands languages you speak<br>
 
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its movement to avoid danger.
 

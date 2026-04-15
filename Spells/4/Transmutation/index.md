@@ -87,6 +87,6 @@ Choose two willing humanoids that you can see within range. The targets exchange
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M (Diamond dust worth at least 100 gp, which the spell consumes.)<br>
-**Duration:** Sustained, 1 hour
+**Duration:** 1 hour
 
 Until the spell ends, one willing creature you touch gains one instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) to bludgeoning, piercing, and slashing damage.

@@ -216,7 +216,7 @@ Undead and creatures immune to being [Charmed](https://stormchaserroleplaying.co
 **Components:** V, S*<br>
 **Duration:** 1 Round
 
-*Images of tantalizing and overwhelming sexual pleasure consume the affected target, causing him to pause in his tracks and revel in eroticism.* 
+*Images of tantalizing and overwhelming carnal pleasure consume the affected target, causing them to pause in their tracks and revel in ecstasy.* 
 
 Make a charm attack vs the Wisdom defense of a humanoid within range. On a hit, the creature is [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) for the duration. An affected creature can make a Wisdom defence check vs your charm skill at the end of its turn to shake off the effect.
 

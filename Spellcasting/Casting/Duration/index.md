@@ -19,7 +19,7 @@ Many spells are instantaneous. The spell harms, heals, creates, or alters a crea
 If the spell’s duration is “sustained,” it lasts until the end of your next turn unless you use a Sustain a Spell action on that turn to extend the duration of that spell.
 
 > ### Sustain a Spell
-> *Concentrate*<br>**Actions:** 1<br>**Requirements:** You have at least one spell active with a sustained duration, and you are not fatigued.
+> *Concentrate*<br>**Actions:** 1<br>**Requirements:** You have at least one spell active with a sustained duration, and you are not [fatigued](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fatigued).
 >
 > Choose one spell with a sustained duration that you have in effect and expend the mana shown below. The duration of that spell continues until the end of your next turn. Some spells might have slightly different or expanded effects if you sustain them. Sustaining a Spell for more than 10 minutes (100 rounds) ends the spell and makes you [Fatigued](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fatigued/) unless the spell lists a different maximum duration (such as “sustained up to 1 minute” or “sustained up to 1 hour”).
 >

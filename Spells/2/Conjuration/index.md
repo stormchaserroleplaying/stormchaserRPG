@@ -83,6 +83,6 @@ The creature uses the statistics for a [riding horse](), except that it has a sp
 **Components:** V, S, M *(A bit of sheepskin.)*<br>
 **Duration:** Instantaneous
 
-You manifest a vile substance within a creature's stomach, attempting to sicken them. Make a conjuration attack vs Constitution defence of one creature that you can see within range. On a hit, the target takes 2d8 poison damage, becomes [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 minute, and is [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the end of its next turn as it vomits. On a miss, the target takes half as much damage and has -1d on attack rolls it makes until the end of its next turn.
+You manifest a vile substance within a creature's stomach, attempting to sicken them. Make a conjuration attack vs Constitution defence of one creature that you can see within range. On a hit, the target takes 2d8 poison damage, becomes [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) for 1 minute, and is [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the end of its next turn as it vomits. On a miss, the target is not [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/), takes half as much damage and has -1d on attack rolls it makes until the end of its next turn.
 
 **At Higher Levels.** When you cast this spell using 3 or more mana, the damage increases by 1d8 for each additional mana spent.

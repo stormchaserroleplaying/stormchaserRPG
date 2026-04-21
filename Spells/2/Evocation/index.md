@@ -105,7 +105,7 @@ Any creature in the line must spend 2 feet of movement for every 1 foot it moves
 
 The gust disperses gas or vapour, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 
-On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can change the direction in which the line blasts from them.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell, you can change the direction in which the line blasts from you.
 
 ## Moonbeam
 *2nd level Evocation*<br>

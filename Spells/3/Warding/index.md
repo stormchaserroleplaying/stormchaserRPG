@@ -13,7 +13,7 @@ grand_parent: Spells
 **Components:** V, S<br>
 **Duration:** 1 Round
 
-Choose a creature within range that you can see that.  The target is protected for the duration from becoming grappled or restrained. If another creature successfully grapples or restrains a target, it instead fails the attempt and the spell ends. If a target is already grappled or restrained when the spell is cast, it automatically breaks free of the grapple or restraint and the spell ends.  
+Choose a creature within range that. The target is protected for the duration from becoming [grappled]((https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained]((https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/). If another creature successfully grapples or restrains a target, it instead fails the attempt and the spell ends. If a target is already grappled or restrained when the spell is cast, it automatically breaks free of the grapple or restraint and the spell ends.  
 
 In addition, after the spell ends on a target it gains a bonus to its next damage roll made to a with a melee attack equal to your spellcasting attribute modifier.
 
@@ -67,7 +67,7 @@ The conditions must be specific. For example:
 
 Make an unarmed attack roll vs a creature that is possessed or under the influence of a minor curse. On a hit, you grab the creature by the throat and press a polished opal to its forehead.
 
-Make a warding attack roll against vs the Charisma defence of the possessing creature, or the DC of the curse. On a hit, when you pull the opal back and the curse or entity possessing the creature will exit the creature in the form of black, ichor-filled vomit. Afterwards, the creature is no longer cursed or possessed.
+Make a warding attack roll vs. the Charisma defence of the possessing creature, or the DC of the curse. On a hit, you pull the opal back and the curse or entity possessing the creature will exit the creature in the form of black, ichor-filled vomit. Afterwards, the creature is no longer cursed or possessed.
 
 ## Power Word: Freedom
 *3rd level Ward*<br>
@@ -85,6 +85,6 @@ A word of your choosing is imbued with energy as you speak it. Any spell or magi
 **Components:** V<br>
 **Duration:** Instantaneous
 
-In a twist of either fate or skill, you reverse the impending perilous situation. When you cast this spell, you cause a creature within range that has you [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) to releases their and hold on you and they then become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in the same manner that found yourself in - if not possible, such as if they were using tentacles you don’t have, then they become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in a possible method of your choosing). 
+In a twist of either fate or skill, you reverse the impending perilous situation. When you cast this spell, you cause a creature within range that has you [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) to releases their hold on you. They then become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in the same manner that found yourself in - if not possible, such as if they were using tentacles you don’t have, then they become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) in a possible method of your choosing). 
 
-If they become [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by a spell that requires it to be Sustained, they may not willingly drop it for this effect until the end of the start of their next turn. Receiving damage or other effects that would interrupt Sustained still function normally when a creature is in this state.
+If the [grappled](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Grappled/) or [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) condition was applied by a [Sustained](https://stormchaserroleplaying.com/stormchaserRPG/spellcasting/Casting/Duration/#sustaining-spells) spell, it is applied to the original caster and they may not willingly drop this effect until the start of their next turn. Receiving damage or other effects that would interrupt [Sustained](https://stormchaserroleplaying.com/stormchaserRPG/spellcasting/Casting/Duration/#sustaining-spells) still function normally when a creature is in this state.

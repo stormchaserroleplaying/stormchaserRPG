@@ -37,7 +37,7 @@ Billowing flames grant you explosive speed. For the duration, your speed increas
 **Components:** V, S<br>
 **Duration:** Until Dispelled
  
-Make a transmutation attack vs the Wisdom defence of a creature you can see within range. On a hit, the target becomes the subject of a curse. Choose either to focus on the target's penis or nose, each time the target lies, the chosen body part becomes larger.
+Make a transmutation attack vs the Wisdom defence of a creature you can see within range. On a hit, the target becomes the subject of a curse. Choose a minor appendage on the target, such as a finger, toe, nose, ear, genitals, etc. Each time the target lies, the chosen body part becomes larger.
 
 ## Plant Growth
 *3rd Level Transmutation*<br>

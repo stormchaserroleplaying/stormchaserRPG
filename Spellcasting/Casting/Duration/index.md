@@ -23,7 +23,7 @@ If the spell’s duration is “sustained,” it lasts until the end of your nex
 >
 > Choose one spell with a sustained duration that you have in effect and expend the mana shown below. The duration of that spell continues until the end of your next turn. Some spells might have slightly different or expanded effects if you sustain them. Sustaining a Spell for more than 10 minutes (100 rounds) ends the spell and makes you [Fatigued](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Fatigued/) unless the spell lists a different maximum duration (such as “sustained up to 1 minute” or “sustained up to 1 hour”).
 >
-> If your Sustain a Spell action is disrupted, the spell immediately ends.
+> Enemy attacks can potentially interrupt you while you Sustain a Spell. If an attack roll against you also exceeds your spellcasting skill, your Sustain a Spell action is disrupted and the spell immediately ends.
 >
 > | Spell Level | Mana to Sustain |
 > |:-----:|:------:|

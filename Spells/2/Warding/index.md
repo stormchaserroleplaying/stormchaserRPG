@@ -46,11 +46,20 @@ You touch the body of a deceased creature, anointing it with the ceremonial oils
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(Ashes from a burned leaf of mistletoe and a sprig of spruce.)*<br>
-**Duration:** 1 Hour
+**Duration:** 1 hour
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has +1d on [Stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
 **At Higher Levels:** When you cast this spell using 3 mana, the duration increases to 8 hours. If you case this spell using 4 mana, the duration increases to 24 hours.
+
+## Protection from Poison
+*2nd level Ward (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S
+**Duration:** 1 hour
+
+You touch a creature and end the [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) condition on it. For the duration, the target has +1d on defence checks to avoid or end the [poisoned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Poisoned/) condition, and it gains 1 instance of [resistance](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Resistance/#resistance-and-vulnerability) against poison damage.
 
 ## Warding Bond
 *2nd level Ward (Ritual)*<br>

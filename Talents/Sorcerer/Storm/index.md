@@ -28,17 +28,17 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Tempestuous Magic  | 5  | - |  
-| Heart of the Storm  | 5  | 3nd Level Spells and Tempestuous Magic |  
-| Storm Guide | 5 | 3rd Level Spells and Tempestuous Magic |  
-| Storm’s Fury  | 50 | 7th Level Spells, Heart of the Storm and Storm Guide |  
-| Wind Soul | 80 | 9th Level Spells and Storm’s Fury |  
+| Tempestuous Magic  | 5  | Arcane Spellcasting |  
+| Heart of the Storm | 10 | 3nd Level Arcane Spells and Tempestuous Magic |  
+| Storm Guide        | 10 | 3rd Level Arcane Spells and Tempestuous Magic |  
+| Storm’s Fury       | 50 | 7th Level Arcane Spells, Heart of the Storm and Storm Guide |  
+| Wind Soul          | 80 | 9th Level Arcane Spells and Storm’s Fury |  
 
 ###  Tempestuous Magic
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *The winds carry you to safety.*
 
 Immediately before or after you cast a spell using mana, you cause a gust of wind to briefly surround you, allowing you to fly up to 10 feet without provoking attacks of opportunity. 
@@ -47,7 +47,7 @@ Immediately before or after you cast a spell using mana, you cause a gust of win
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Tempestuous Magic
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Tempestuous Magic
 *Your body holds back the storm until it’s unleashed by your magic.*
 
 Whenever you cast a spell using mana that deals electric or sonic damage, the elements of the storm explode from within. This eruption causes creatures of your choice that you can see within 10 feet of you to take electric or sonic damage (choose each time you use this ability) equal to your maximum spell level.
@@ -58,7 +58,7 @@ In addition, you gain resistance to electric and sonic damage.
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Tempestuous Magic<br>**Actions:** 1, 2
+#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Tempestuous Magic<br>**Actions:** 1, 2
 *You can subtly control the weather around you.*
 
 If it is raining, you can use 2 Actions to cause the rain to stop falling in a 20-foot-radius sphere centered on you. You can end this effect using 1 Action.
@@ -69,7 +69,7 @@ If it is windy, you can use 1 Action each round to choose the direction that the
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells, Heart of the Storm and Storm Guide<br>**Actions:** Free<br>**Trigger:** You are hit by a melee attack.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells, Heart of the Storm and Storm Guide<br>**Actions:** Free<br>**Trigger:** You are hit by a melee attack.
 *The tempest confined inside you is released against your attackers.*
 
 When a creature hits you with a melee attack, you automatically deal electric or sonic damage (choose each time you use this ability) to the attacker. The damage equals two times your maximum spell level. The attacker must also make a Strength defense check vs your evocation skill. On a fail, the attacker is pushed in a straight line up to 20 feet away from you.
@@ -80,7 +80,7 @@ This ability triggers once per round and automatically on the first attack to hi
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Storm’s Fury<br>**Actions:** 2
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Storm’s Fury<br>**Actions:** 2
 *Your control over the elements of air allows you and your allies to take to the skies.*
 
 You gain a magical flying speed equal to twice your speed. Using 2 Actions, you can reduce your flying speed to be equal to your speed for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your spellcasting modifier. The chosen creatures gain a magical flying speed equal to their speed for 1 hour. Once you reduce your flying speed in this way, you can’t do so again until you finish a short or long rest.

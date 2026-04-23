@@ -11,18 +11,18 @@ Scions of innately magical bloodlines, the chosen of deities, the spawn of monst
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Arcane Savant I       | 5  | 1 Sorcerer Branch Talent |
-| Magical Guidance      | 15 | 2nd Level Spells and 10 Points of Sorcerer Talents |
-| Arcane Savant II      | 30 | 5th Level Spells and 45 Points of Sorcerer Talents |
-| Arcane Savant III     | 65 | 8th Level Spells and 125 Points of Sorcerer Talents |
-| Sorcerous Restoration | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
-| Apotheosis            | 50 | 10th Level Spells and 270 Points of Sorcerer Talents |
+| Arcane Savant I       | 5  | Arcane Spellcasting |
+| Magical Guidance      | 15 | 2nd Level Arcane Spells and Arcane Savant I |
+| Arcane Savant II      | 30 | 5th Level Arcane Spells and Arcane Savant I |
+| Arcane Savant III     | 65 | 8th Level Arcane Spells and Arcane Savant II |
+| Sorcerous Restoration | 50 | 10th Level Arcane Spells and 1 Sorcerer Branch Capstone Talent |
+| Apotheosis            | 50 | 10th Level Arcane Spells and 1 Sorcerer Branch Capstone Talent |
 
 ### Arcane Savant
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Other Sorcerer Talent
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *You tap into a deep wellspring of magic within yourself.*
 
 This wellspring is represented by additional mana and the ability to create a variety of magical effects.
@@ -73,7 +73,7 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Spells and 2 Other Sorcerer Talents
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 2nd Level Arcane Spells and Arcane Savant I
 *You can tap into your inner wellspring of magic to try to conjure success from failure.* 
 
 When you make a d20 roll that fails, you can spend mana to reroll a number of dice equal to the mana spent, potentially turning the failure into a success. However, you must use the new roll, even if it is worse.
@@ -82,28 +82,28 @@ When you make a d20 roll that fails, you can spend mana to reroll a number of di
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and 3 Other Sorcerer Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Arcane Savant I
 Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Arcane Savant III
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 65 Character Points<br>**Prerequisite:** 8th Level Spells and 5 Other Sorcerer Talents
+#### **Cost:** 65 Character Points<br>**Prerequisite:** 8th Level Arcane Spells and Arcane Savant II
 Choose one additional Arcane Savant option. Additionally, you can replace one Arcane Savant option that you already know with another option from the list.
 
 ### Sorcerous Restoration
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Other Sorcerer Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 10th Level Spells and 1 Sorcerer Branch Capstone
 You regain 4 expended mana whenever you finish a short rest.
 
 ### Apotheosis
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 10th Level Spells and 6 Other Sorcerer Talents
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 10th Level Spells and 1 Sorcerer Branch Capstone
 *Your veins flow with pure arcane power.* 
 
 Your spellcasting ability score increases by 4, and your maximum for this score also increases by 4.

@@ -30,5 +30,5 @@ Once an image is hit, it is destroyed. If an attack roll fails to hit you, it de
 
 You can use your action to dismiss the illusory duplicates.
 
-Each time a creature targets you with an attack during the spell's duration, it must first roll a d20 to determine whether the attack instead targets one of your duplicates.
+Each time a creature targets you with an attack during the spell's duration, it must first roll the die indicated above to determine whether the attack instead targets one of your duplicates.
 A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as [blindsight](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/VisionandLight/#blindsight), or if it can perceive illusions as false, as with [truesight](https://stormchaserroleplaying.com/stormchaserRPG/Exploration/Environment/VisionandLight/#truesight).

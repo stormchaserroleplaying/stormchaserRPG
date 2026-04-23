@@ -28,16 +28,16 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
 
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Form of Dread     | 5  | - |
-| Grave Touched     | 10 | 3rd Level Spells and Form of Dread |
-| Necrotic Husk     | 35 | 5th Level Spells and Grave Touched |
-| Spirit Projection | 50 | 7th Level Spells and Necrotic Husk |
+| Form of Dread     | 5  | Arcane Spellcasting |
+| Grave Touched     | 20 | 3rd Level Arcane Spells and Form of Dread |
+| Necrotic Husk     | 30 | 5th Level Arcane Spells and Grave Touched |
+| Spirit Projection | 50 | 7th Level Arcane Spells and Necrotic Husk |
 
 ###  Form of Dread
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Actions:** 1
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting<br>**Actions:** 1
 *You manifest an aspect of your patron’s dreadful power.*
 
 You transform into this eerie form for 1 minute. You gain the following benefits while transformed:
@@ -54,7 +54,7 @@ The appearance of your Form of Dread reflects some aspect of your patron. For ex
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Form of Dread
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Form of Dread
 *Your patron’s powers have a profound effect on your body and magic.*
 
 You don’t need to eat, drink, or breathe.
@@ -65,7 +65,7 @@ In addition, once during each of your turns, when you hit a creature with an att
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Grave Touched<br>**Actions:** Free<br>**Trigger:** You are reduced to 0 stamina.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Grave Touched<br>**Actions:** Free<br>**Trigger:** You are reduced to 0 stamina.
 *Your connection to undeath now saturates your body.*
 
 You have resistance to profane damage. If you are transformed using your Form of Dread, you instead become immune to profane damage.
@@ -80,7 +80,7 @@ Once you use this ability, you can’t do so again until you finish 1d4 long res
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Necrotic Husk<br>**Actions:** 1
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Necrotic Husk<br>**Actions:** 1
 *Your spirit can become untethered from your physical form.*
 
 You can project your spirit from your body. The body that you leave behind is unconscious and in a state of suspended animation.

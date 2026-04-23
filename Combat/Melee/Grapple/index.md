@@ -24,7 +24,7 @@ While a creature is restrained by you, you can use the Grapple action to positio
 If the creature that you are shielding yourself with becomes stunned, paralysed or unconscious, make an [Athletics](https://stormchaserroleplaying.com/stormchaserRPG/Skills/) check with a DC of 15. If the creature is a size category larger than you, then the DC is 20. On a failure, you do not benefit from the cover.
 
 ## Stealth Grapple
-While hidden from your target and all nearby targets, you can perform a grapple attack. On a miss, you provoke an [Attack of Opportunity](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Triggers/#attack-of-opportunity) from your target. On a hit, you may follow the grapply with one of the following moves. For as long as the stealth grapple is maintained, the move applies and creatures other than the target have +1d on melee and ranged attack rolls to hit the grappler.
+While hidden from your target and all nearby targets, you can perform a grapple attack. On a miss, you provoke an [Attack of Opportunity](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Triggers/#attack-of-opportunity) from your target. On a hit, you may follow the grapple with one of the following moves. For as long as the stealth grapple is maintained, the move applies and creatures other than the target have +1d on melee and ranged attack rolls to hit the grappler.
 
 ### Gag
 You gag the target's mouth to prevent it from making any sound. Make a second grapple attack vs your target. On a success, the target is gagged until the grapple ends. A gagged creature cannot cast spells with verbal components and its speech is muffled and difficult to understand.

@@ -11,25 +11,19 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
-**Duration:** Concentration, up to 1 minute
+**Duration:** Sustained, up to 1 minute
 
 *You aid someone by providing them a touch of divine guidance.*
 
 You touch one willing creature. Once before the spell ends, the target has +1d on a skill check of its choice. The spell then ends.
 
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the spell can affect a second roll within the duration.
-
 ## True Strike
 *Divination Cantrip*<br>
-**Casting Time:** 1 Action<br>
-**Range:** 30 Feet<br>
-**Components:** S<br>
-**Duration:** Concentration, up to 1 round
+**Casting Time:** 2 Actions<br>
+**Range:** Self<br>
+**Components:** S, M *(A weapon with which you are proficient.)*<br>
+**Duration:** Instantaneous
 
-*A glimpse into the future ensures your next blow strikes true.*
+*Magical insight guides the next strike of your weapon.*
 
-You point a finger at a target in range. You have +1d on your next attack roll against that target, provided that this spell hasn't ended.
-
-The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.
-
-When you learn the [Potent Cantrips](https://stormchaserroleplaying.com/stormchaserRPG/Classes/Mage/#potent-cantrips) feature, the duration increases to 2 rounds.
+You make one attack with the weapon used in the spell's casting. The attack uses your spellcasting attribute modifier for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be sacred damage or the weapon's normal damage type (your choice).

@@ -30,9 +30,9 @@ You gain proficiency with smith's tools, and you learn to speak, read, and write
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Smith's Tools Proficiency
-You can use magic runes to enhance your gear. You learn two runes of your choice from among the runes described below. Each time that you take a fighter talent, you can replace one rune you know with a different one from this feature. When you reach certain talents in this class, you learn additional runes.
+You can use magic runes to enhance your gear. You learn one rune of your choice from among the runes described below. You can learn additional runes by taking the [Additional Rune](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/RunicWarrior/#additional-rune) talent.
 
-Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know and inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else that you can wear or hold in a hand. Your rune remains on an object until you finish a long rest and an object can bear only one of your runes at a time.
+Whenever you finish a long rest, you can touch a number of objects equal to the number of runes that you know and inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else that you can wear or hold in a hand. Your rune remains on an object until you finish a long rest and an object can bear only one of your runes at a time.
 
 The following runes are available to you when you learn a rune. If a rune requires a creature to make a defence check on its turn, your Rune Magic defence DC equals 10 + your Constitution modifier.
 
@@ -95,7 +95,7 @@ Once you invoke this rune, you can't do so again until you finish a short or lon
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Rune Carver
-You learn an additional Rune. You may take this talent up to three times, to a maximum of five Runes.
+You learn an additional Rune. You may take this talent up to four times, to a maximum of five Runes. Each time that you take this talent, you can replace one rune that you know with a different one from this feature. 
 
 ### Giant's Might
 

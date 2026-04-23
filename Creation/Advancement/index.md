@@ -40,7 +40,6 @@ As your character goes on adventures and overcomes challenges, they gain experie
 * You cannot increase an attribute score above 20.
 * You cannot purchase expertise in a skill, tool, or weapon group, unless you are already trained with that skill, tool, or weapon group. Thus the total cost to go from untrained to expert is 12 points for a skill, or weapon group and 6 points for a tool.
 * You cannot purchase a language at accented level, unless you already speak that language at broken level. Thus the total cost to go from untrained to accented is 6 points.
-* When you permanently increase your Intelligence modifier or your proficiency modifier, you may spend additional points as normal. Proficiencies learned by spending points cannot be lost once gained.
 
 ## Expertise
 You can have expertise with a weapon, skill, tool, or defence that they are already trained with. A character with expertise benefits from an additional +1d on their d20 roll. Additionally, passive scores that benefit from expertise increase by an additional +2, for a total of +6 together with the proficiency bonus.

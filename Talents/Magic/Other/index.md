@@ -66,4 +66,4 @@ You've practiced casting powers in the midst of combat, learning techniques that
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points
-A deep wellspring of magical power resides within you. Increase your mana by one per short rest, or by three per long rest.
+A deep wellspring of magical power resides within you. Increase your mana by three.

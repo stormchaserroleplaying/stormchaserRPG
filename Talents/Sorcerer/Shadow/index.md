@@ -37,19 +37,19 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Strength of the Grave     | 5  | - |  
-| Eyes of the Dark          | 5  | 2nd Level Spells and Strength of the Grave |  
-| Hound of Ill Omen         | 5  | 3rd Level Spells and Eyes of the Dark |  
-| Shadow Walk               | 50 | 7th Level Spells and Hound of Ill Omen |  
-| Umbral Form               | 80 | 9th Level Spells and Shadow Walk |  
-| Master of the Shadow Pack | 80 | 9th Level Spells and Shadow Walk |  
+| Strength of the Grave     | 5  | Arcane Spellcasting |  
+| Eyes of the Dark          | 5  | 2nd Level Arcane Spells and Strength of the Grave |  
+| Hound of Ill Omen         | 15 | 3rd Level Arcane Spells and Eyes of the Dark |  
+| Shadow Walk               | 50 | 7th Level Arcane Spells and Hound of Ill Omen |  
+| Umbral Form               | 80 | 9th Level Arcane Spells and Shadow Walk |  
+| Master of the Shadow Pack | 80 | 9th Level Arcane Spells and Shadow Walk |  
 
 
 ###  Strength of the Grave
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *Your existence in a twilight state between life and death makes you difficult to defeat.*
 
 When damage reduces you to 0 Stamina, you can make a defense check using your spellcasting attribute vs 5 + the damage taken. On a success, you instead drop to 1 Stamina. You can’t use this feature if you are reduced to 0 stamina by sacred damage or by a critical hit.
@@ -60,18 +60,18 @@ After a success, you can’t use this ability again until you finish a long rest
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Spells and Strength of the Grave
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 2nd Level Arcane Spells and Strength of the Grave
 *No darkness can block your sight.*
 
-You have darkvision with a range of 60 feet. If you already have darkvision, then the range of your darkvision increases by 60 feet.
+You have [darkvision](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) with a range of 60 feet. If you already have darkvision, then the range of your darkvision increases by 60 feet.
 
-You also learn the [Darkness]() spell, which doesn’t count against your number of mage spells known. Additionally, you gain the ability to see through the darkness created by the spell.
+You also learn the [Darkness](https://stormchaserroleplaying.com/stormchaserRPG/Spells/2/Evocation/#darkness) spell, which doesn’t count against your number of mage spells known. Additionally, you gain the ability to see through the darkness created by the spell.
 
 ###  Hound of Ill Omen
  
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 3rd Level Spells and Eyes of the Dark<br>**Actions:** 2
+#### **Cost:** 15 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Eyes of the Dark<br>**Actions:** 2
 *You curse an enemy and call forth a howling creature of darkness to dispatch them.*
 
 You mark one creature that you can see within 120 feet of you for death. Spend 3 Mana to magically summon a hound of ill omen in an unoccupied space of your choice within 30 feet of the target. The hound uses the [Dire Wolf]() statistics, with the following changes:
@@ -90,7 +90,7 @@ The hound disappears if it is reduced to 0 Stamina, if the marked creature is re
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Hound of Ill Omen<br>**Actions:** 1
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Hound of Ill Omen<br>**Actions:** 1
 *You can step from one shadow into another.*
 
 When you are in dim light or darkness, you can magically teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.
@@ -99,7 +99,7 @@ When you are in dim light or darkness, you can magically teleport up to 120 feet
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk<br>**Actions:** 1
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Shadow Walk<br>**Actions:** 1
 *You transform yourself into a shadowy specter.*
 
 You can spend 6 Mana to magically transform yourself into this shadowy form. In this form, you have resistance to all damage except for energy and sacred damage, and you can move through other creatures and objects as if they were difficult terrain. If you end your turn within a creature or object, you both take 5 profane damage.
@@ -110,7 +110,7 @@ You remain in this form for 1 minute. It ends early if you are incapacitated, if
  
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Spells and Shadow Walk
+#### **Cost:** 80 Character Points<br>**Prerequisite:** 9th Level Arcane Spells and Shadow Walk
 *Cry "Havoc!" and let slip the hounds of shadow!*
 
 When you use your Hound of Ill Omen abiliity, you can spend 5 Mana to summon 2 hounds, or 7 Mana to summon 3. You can mark as many creatures within range for your hounds to target, either individually or as a group, as you have hounds. 

@@ -10,10 +10,10 @@ The character point costs to increase attribute scores can be found below.
 | Attribute | Point cost to advance to this value |
 |:---------:|:-----------------------------------:|
 | 6 | - |
-| 7 | 2 |
-| 8 | 2 |
-| 9 | 1 |
-| 10 | 1 |
+| 7 | 5 |
+| 8 | 5 |
+| 9 | 2 |
+| 10 | 2 |
 | 11 | 1 |
 | 12 | 2 |
 | 13 | 2 |

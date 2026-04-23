@@ -28,19 +28,19 @@ If you have a bonus spell that doesn’t appear on the arcane spell list, that s
  
 | Talent | CP | Prerequisites |
 |:-------|:--:|:--------------|
-| Hex Warrior      | 5  | - |
-| Accursed Specter | 10 | 3rd Level Spells and Hex Warrior |
-| Armor of Hexes   | 35 | 5th Level Spells and Accursed Specter |
-| Master of Hexes  | 50 | 7th Level Spells and Armor of Hexes |
+| Hex Warrior      | 5  | Arcane Spellcasting |
+| Accursed Specter | 20 | 3rd Level Arcane Spells and Hex Warrior |
+| Armor of Hexes   | 30 | 5th Level Arcane Spells and Accursed Specter |
+| Master of Hexes  | 50 | 7th Level Arcane Spells and Armor of Hexes |
 
 ###  Hex Warrior
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Arcane Spellcasting
 *The influence of your patron also allows you to mystically channel your will through a particular weapon and you gain the ability to place a baleful curse on someone.*
 
-Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your spellcasting attribute modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon that you conjure with that feature, no matter the weapon’s type.
+Whenever you finish a long rest, you can touch one weapon that you are proficient with. When you attack with that weapon, you can use your spellcasting attribute modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon that you conjure with that feature.
 
 **Hexblade’s Curse:** As an action, choose one creature that you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/). Until the curse ends, you gain the following benefits:
 
@@ -54,7 +54,7 @@ You can’t use this feature again until you finish a short or long rest.
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** 3rd Level Spells and Hex Warrior
+#### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Arcane Spells and Hex Warrior
 *You can curse the soul of a person that you slay, temporarily binding it to your service.*
 
 When you slay a humanoid, you can cause its spirit to rise from its corpse as a [specter](), the statistics for which are in the [Bestiary](https://stormchaserroleplaying.com/stormchaserRPG/Bestiary/). When the specter appears, it gains temporary Stamina equal to your maximum spell level. The specter shares your initiative count, but acts directly after you. It obeys your verbal commands and its attack rolls are modified by your spellcasting attribute modifier.
@@ -67,7 +67,7 @@ Once you bind a specter with this feature, you can’t use the feature again unt
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 5th Level Spells and Accursed Specter<br>**Action:** Free<br>**Trigger:** A creature cursed by your Hexblade’s Curse hits you with an attack roll.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Arcane Spells and Accursed Specter<br>**Action:** Free<br>**Trigger:** A creature cursed by your Hexblade’s Curse hits you with an attack roll.
 *Your hex grows more powerful.*
 
 If the target cursed by your Hexblade’s Curse hits you with an attack roll, it must roll a d6. On a 4 or higher, the attack misses you, regardless of its roll.
@@ -78,7 +78,7 @@ This ability automatically triggers once per round the first time that a cursed 
 
 <div style="margin-top:-10px;"></div>
  
-#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Spells and Armor of Hexes<br>**Actions:** Free<br>**Trigger:** A creature cursed by Hexblade’s Curse dies.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** 7th Level Arcane Spells and Armor of Hexes<br>**Actions:** Free<br>**Trigger:** A creature cursed by Hexblade’s Curse dies.
 *You can spread your Hexblade’s Curse from a slain creature to another creature.*
 
 You can apply the curse to a different creature that you can see within 30 feet of you, provided that you aren’t [incapacitated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Incapacitated/). When you apply the curse in this way, you don’t regain Stamina from the death of the previously cursed creature.

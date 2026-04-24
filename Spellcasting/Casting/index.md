@@ -11,7 +11,7 @@ When a character casts any spell, the same basic rules are followed, regardless 
 Each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect.
 
 ## Spellcasting Skill
-Sometimes you must roll to affect an enemy with a spell or contend with an enemy's spell effect. A creature only adds its proficiency bonus to its spellcasting skill if it is proficient in the spell school of the spell that has been cast.
+Sometimes you must roll to contend with an enemy's spell effect. A creature only adds its proficiency bonus to its spellcasting skill if it is proficient in the spell school of the spell that has been cast.
 
 <center>
 

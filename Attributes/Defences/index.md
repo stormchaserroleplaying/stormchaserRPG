@@ -9,7 +9,7 @@ Your defences represent your ability to resist spells, traps, poison, disease an
 
 You have six defence scores and each class grants training in three defences. For example, the warrior is trained in two physical defences and one mental defence. Training in a defence lets a character add their training bonus to that defence score. Most monsters also have one or more trained defence.
 
-If a defence check is called for, make a check using the named attribute. If you are trained in the defence, then you roll with +1d as usual. If you have +1d to a score, then this grants a bonus to the score. The second die in your pool grants +4 to your score, the third +2, and +1 thereafter to a maximum of total dice pool modifier of +10.
+If a defence check is called for, make a check using the named attribute. If you are trained in the defence, then you roll with +1d as usual. If you have +1d to a score, then this grants a bonus to the score. The second die in your pool grants +4 to your score, the third +2 and +1 thereafter to a maximum total dice pool modifier of +10.
 
 | Dice Pool Size | Score |
 |:--------------:|:-----:|
@@ -22,7 +22,7 @@ If a defence check is called for, make a check using the named attribute. If you
 
 ## Strength Defence
 
-<center><strong>10 + Strength modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Strength Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Strength defence represents their physical power. How well can they oppose a force that would physically move or bind them?
 
@@ -33,7 +33,7 @@ When defending in melee you can choose to use your Strength defence to block an 
 
 ## Dexterity Defence
 
-<center><strong>10 + Dexterity modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Dexterity Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Dexterity defence represents their physical finesse. How well can they dodge out of harm's way?
 
@@ -41,24 +41,24 @@ In combat, most attacks target a creature's Dexterity Defence. You take +1d to y
 
 ## Constitution Defence
 
-<center><strong>10 + Constituion modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Constituion Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Constitution defence represents their physical resistance. How well can they endure a disease, poison, or other hazard that saps vitality?
 
 ## Intelligence Defence
 
-<center><strong>10 + Intelligence modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Intelligence Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Intelligence defence represents their mental finesse. How well can they disbelieve certain illusions and refute mental assaults with logic, sharp memory, or both?
 
 ## Wisdom Defence
 
-<center><strong>10 + Wisdom modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Wisdom Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Wisdom defence represents their mental resistance. How well can they resist effects that charm, frighten, or otherwise assault their willpower.
 
 ## Charisma Defence
 
-<center><strong>10 + Charisma modifier + proficiency bonus + other bonuses + penalties</strong></center>
+<center><strong>10 + Charisma Modifier + Proficiency Bonus + Other Bonuses + Penalties</strong></center>
 
 A character's Charisma defence represents their mental power. How well can they withstand effects, such as possession, that would subsume their personality or hurl them to another plane of existence?

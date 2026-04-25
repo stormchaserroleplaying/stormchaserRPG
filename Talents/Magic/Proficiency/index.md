@@ -14,6 +14,23 @@ nav_order: 1
 #### **Cost:** 5 Character Points
 Choose one [spell school](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/). You are considered to be **trained** in the casting of spells of this school. You add +1d to your attack rolls and spellcasting skill when casting a spell from this school.
 
+<center>
+
+<strong>Spellcasting Skill = 10 + Spellcasting Ability Modifier + Spell School Proficiency Bonus + Other Bonuses + Penalties</strong>
+
+</center>
+
+If you have +1d to a score, such as spellcasting skill, then this grants a bonus to the score. The second die in your pool grants +4 to your score, the third +2 and +1 thereafter to a maximum total dice pool modifier of +10.
+
+| Dice Pool Size | Score |
+|:--------------:|:-----:|
+| 2d20kh1 | 14 + modifier |
+| 3d20kh1 | 16 + modifier |
+| 4d20kh1 | 17 + modifier |
+| 5d20kh1 | 18 + modifier |
+| 6d20kh1 | 19 + modifier |
+| 7d20kh1 | 20 + modifier |
+
 You learn one cantrip from your chosen spell school. The cantrip must be from either the [Arcane Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/), or the [Divine Spell List](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Divine/), depending on your spellcasting type. If you practice both arcane and divine spellcasting, then you can choose a cantrip from either list, but still only learn one cantrip from your chosen school.
 
 ## Spell School Expertise

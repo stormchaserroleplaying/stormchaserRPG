@@ -6,6 +6,24 @@ grand_parent: Spells
 
 # Divination
 
+## Detect Disease
+*2nd level Divination (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Self (60-foot cone)<br>
+**Components:** V, S<br>
+**Duration:** Sustained
+
+You can sense the presence of disease. The amount of information revealed depends on how long you study a particular area of subject. 
+
+* 1 Round: Presence or absence of disease. 
+* 2 Rounds: Number of diseased individuals in the area. 
+* 3 Rounds: The status (see below) and location of each individual present. If a diseased individual is outside of your line of sight, then you discern its direction but not its exact location.The caster also knows the type of infection, the incubation period, and the damage the disease does.  
+
+> *Status:* 
+> * Incubating: The individual is suffering from a disease still in its incubation period. 
+> * Infected: The individual has a disease that has manifested. 
+> * Immune but Transmitting: The individual carries a disease and is able to transmit it but is not itself infected.  
+
 ## Detect Thoughts
 *2nd level Divination*<br>
 **Casting Time:** 2 Actions<br>
@@ -22,6 +40,15 @@ Questions verbally directed at the target creature naturally shape the course of
 You can also use this spell to detect the presence of thinking creatures that you cannot see. When you cast the spell, or as part of the action to sustain the spell during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can't detect a creature with an Intelligence of 3 or lower, or one that doesn't speak any languages.
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it. However, it must still be within range.
+
+## Magic Probe
+*2nd level Divination (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(A pearl worth at lease 100 gp and small steel rod.)*<br>
+**Duration:** Instantaneous
+
+When you touch a willing creature, you learn the name of all spells affecting it and the spell level of each spell, but no other details. 
 
 ## Mind Spike
 *2nd level Divination*<br>
@@ -43,4 +70,4 @@ You reach into the mind of one creature that you can see within range. Make a di
 
 For the duration, you can see [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) creatures and objects, as well as creatures and objects in the ethereal plane. They appear to you as translucent shapes and are concealed to you.
 
-**At Higher Levels.** When you cast this spell using 3 mana, the spell's duraction increases to 1 hour.When you cast this spell using 3 mana, the spell's duraction increases to 1 hour. When you cast this spell using 5 mana, the spell's duration increases to 24 hours. 
+**At Higher Levels.** When you cast this spell using 3 mana, the duration increases to 1 hour. When you cast this spell using 4 mana, the duration increases to 1 hour. When you cast this spell using 5 mana, the duration increases to 24 hours. 

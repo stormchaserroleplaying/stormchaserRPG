@@ -7,12 +7,6 @@ grand_parent: Talents
 # Spellblade
 The archetypal Spellblade combines the martial mastery common to all fighters with the powers of magic. Spellblade use magical techniques similar to those practiced by many magical orders.
 
-## Branch Features
-You gain the following features when taking your first Talent in this Branch.
-
-### Bonus Proficiency
-You also gain your choice of proficiency in the [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana), [Nature](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Nature), or [Theology](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Theology) skill.
-
 ## Talents
 
 | Talent | CP | Prerequisites |

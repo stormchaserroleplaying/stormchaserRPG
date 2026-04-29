@@ -41,6 +41,17 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 
 Make a conjuration attack roll vs the Constitution defence of one creature that you can see within range. On a hit, the target takes 2d8 + your spellcasting attribute modifier poison damage and moves 5 feet in a random direction, if it can move and its speed is at least 5 feet. Roll a d8 for the direction: 1, north; 2, northeast; 3, east; 4, southeast; 5, south; 6, southwest; 7, west; 8, northwest. This movement does not provoke attacks of opportunity. If the direction rolled is blocked, then the target does not move.
 
+## Imaginary Weapon
+**Conjuration Cantrip**<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Special<br>
+**Components:** M, S, V *(A small bit of metal or wood)*<br>
+**Duration:** Instantaneous
+
+You summon a weapon of any type you choose and make a spell attack roll against the target's DEX defense. On a hit, the target takes 1d4 plus your spellcasting modifier force damage.
+
+You can choose to summon a ranged weapon with this spell. If you do, the range is the same as a regular weapon.
+
 ## Kinkcraft
 **Conjuration Cantrip**<br>
 **Casting Time:** 2 Actions<br>
@@ -101,6 +112,15 @@ You can also attack with the flame, although doing so ends the spell. When you c
 *You create a momentary circle of spectral blades that sweep around you.*
 
 Make conjuration attack rolls vs the Dexterity defence of all other creatures within 5 feet of you. On a hit, they take 1d12 + your spellcasting attribute modifier energy damage.
+
+## Virulent Pests
+*Conjuration Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** M, S, V<br>
+**Duration:** Instantaneous
+
+Insects begin crawling over the skin of the target, delivering a dozen small bites to cripple their fortitude. Make a spell attack against the target's CON defense. On a hit, the target becomes [Nauseated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Nauseated/) for a number of rounds equal to your spellcasting modifier.
 
 ## Yank
 *Conjuration Cantrip*<br>

@@ -12,7 +12,7 @@ grand_parent: Spells
 **Range:** 30 Feet<br>
 **Components:** S, V<br>
 **Duration:** Sustained
-**Prerequisite**: [Discern Secrets]
+**Prerequisite**: [Discern Secrets](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/#discern-secrets)
 
 Your patron whispers bits of knowledge into the mind of a willing target. For the spell duration, the target can use the [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), or [Sense Motive](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Sense/) action once per round as a free action. If you [Sustain the spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Duration/#sustaining-spells/) the spell, they receive +1d after the first round.
 

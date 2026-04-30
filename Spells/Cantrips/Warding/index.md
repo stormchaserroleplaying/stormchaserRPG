@@ -10,18 +10,29 @@ grand_parent: Spells
 *Warding Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** 1 Round
 
 *You produce a ward that dampens a strike from a weapon.*
 
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you gain one instance of resistance against bludgeoning, piercing and slashing damage dealt by weapon attacks.
 
+## Forbidden Thought
+*Warding Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 Feet<br>
+**Components:** S, V<br>
+**Duration:** 1 Round
+
+*You place a mental block in a target's mental process that makes it difficult to proceed with an action.*
+
+Make a spell attack against the target's Intelligence defense. On a hit, the target cannot perform 1 specific action while the spell is in effect. If the action is a [Melee](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/) or [Ranged](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Ranged/) combat action, or the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, your attack receives -1d. The target can make an Intelligence check to remove the effect and end the spell.
+
 ## Resistance
 *Warding Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
-**Components:** V, S, M *(A miniature cloak.)*<br>
+**Components:** M, S, V *(A miniature cloak.)*<br>
 **Duration:** 1 Minute
 
 *You ward a creature against harm.*
@@ -32,7 +43,7 @@ Touch one willing creature. The next time before the spell ends that the creatur
 *Warding Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Self<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** 1 Round
 
 *You raise a magical shield of force.*

@@ -15,6 +15,7 @@ grand_parent: Spells
 * [Frostbite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#frostbite) (Evocation)
 * [Guidance](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Divination/#guidance) (Divination)
 * [Gust](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#gust) (Transmutation)
+* [Healing Plaster](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Restoration/#healing-plaster) (Restoration)
 * [Infestation](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#infestation) (Conjuration)
 * [Kinkcraft](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#kinkcraft) (Conjuration)
 * [Light](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#light) (Evocation)

@@ -4,7 +4,7 @@ parent: Humanoids
 grand_parent: Bestiary
 ---
 
-# Goblin
+# Goblin (stat block 1)
 *Small Humanoid, Neutral Evil*
 
 ### Defences
@@ -27,6 +27,41 @@ Leather Armour, Buckler, 1 Melee Weapon, 1 Ranged Weapon
 
 ### Skill Training
 Stealth(Trained)
+
+### Special Actions
+**Nimble Escape:** Once per turn, when the goblin takes the [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) or [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action, it can first use the [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action for free.
+
+### Senses
+**Awareness:** 9 (1d20)<br>
+**Low-Light Vision (60 ft.)**<br>
+**Languages:** Goblin(Fluent), Common(Broken)
+<br>
+<br>
+# Goblin (stat block 2)
+
+| Attribute    | Score | Modifier | Defense | Proficiency |
+|:------------:|:-----:|:---------|:--------|:------------|
+| Strength     | 8     | -1       | 9       | No          |
+| Dexterity    | 14    | +2       | 12      | No          |
+| Constitution | 10    | +0       | 10      | No          |
+| Intelligence | 10    | +0       | 10      | No          |
+| Wisdom       | 8     | -1       | 9       | No          |
+| Charisma     | 8     | -1       | 9       | No          |
+
+**Speed:** 25 feet<br>
+**Stamina:** 10<br>
+**Damage Reduction:** 1 (Leather Armour), +1 DR vs. Slashing damage<br>
+**Coverage:** None <br>
+
+### Skill Training
+Stealth(Trained)
+
+### Equipment
+Leather Armour, Buckler, 1 Melee Weapon, 1 Ranged Weapon
+
+### Actions
+**- Shortsword:** *Trained Melee Weapon Attack,* 2d20kh1+2 to hit, range 5 ft., one target. *Hit:* 2d3+2 Piercing/Slashing damage.<br>
+**- Shortbow:** *Trained Ranged Weapon Attack,* 2d20kh1+2 to hit, range 90 ft., one target. *Hit:* 1d6+2 piercing damage. [Brutal 1](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#brutal)
 
 ### Special Actions
 **Nimble Escape:** Once per turn, when the goblin takes the [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) or [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action, it can first use the [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action for free.

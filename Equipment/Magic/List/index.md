@@ -21,12 +21,12 @@ You regain stamina when you drink this potion. The amount depends on the potion'
 
 ###### Potions of Healing
 
-| Potion of ... | Rarity | Stamina Restored |
-|:-------------:|:------:|:------:|:-------:|
-| Healing | Common | 2d + Constitution Modifier |
-| Greater Healing | Uncommon | 4d + Constitution Modifier |
-| Superior Healing | Rare | 8d + Constitution Modifier |
-| Supreme Healing | Very Rare | 10d + Constitution Modifier |
+| Potion of ...    | Rarity    | Stamina Restored            |
+|:----------------:|:---------:|:---------------------------:|
+| Healing          | Common    | 2d + Constitution Modifier  |
+| Greater Healing  | Uncommon  | 4d + Constitution Modifier  |
+| Superior Healing | Rare      | 8d + Constitution Modifier  |
+| Supreme Healing  | Very Rare | 10d + Constitution Modifier |
 
 ## Potion of Healing, Shifty
 *Potion, common (10 gp)*
@@ -52,12 +52,12 @@ You regain mana when you drink this potion. The amount depends on the potion's r
 
 ###### Potions of Mana
 
-| Potion of ... | Rarity | Mana Restored |
-|:-------------:|:------:|:------:|:-------:|
-| Mana | Uncommon | 2d + Spellcasting Ability Modifier |
-| Greater Mana | Rare | 4d + Spellcasting Ability Modifier |
-| Superior Mana | Very Rare | 8d + Spellcasting Ability Modifier |
-| Supreme Mana | Legendary | 10d + Spellcasting Ability Modifier |
+| Potion of ...   | Rarity    | Mana Restored                       |
+|:---------------:|:---------:|:-----------------------------------:|
+| Mana            | Uncommon  | 2d + Spellcasting Ability Modifier  |
+| Greater Mana    | Rare      | 4d + Spellcasting Ability Modifier  |
+| Superior Mana   | Very Rare | 8d + Spellcasting Ability Modifier  |
+| Supreme Mana    | Legendary | 10d + Spellcasting Ability Modifier |
 
 ## Scroll of Telescription
 *Scroll, uncommon.*<br>

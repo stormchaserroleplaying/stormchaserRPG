@@ -197,21 +197,21 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 #### Corrosive
 **Usage:** Etched onto a weapon.
 
-Acid sizzles across the surface of the weapon. When you hit with the weapon, add 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target’s armour (if any) takes 3d6 acid damage. If the target has a shield, the shield takes this damage instead.
+Acid sizzles across the surface of the weapon. When you hit with the weapon, add 1d8 corrosive damage to the damage dealt. In addition, on a critical hit, the target’s armour (if any) takes 2d8 corrosive damage. If the target has a shield, the shield takes this damage instead.
 
-**Greater:** Increase the acid damage dealt to armour or a shield on a critical hit to 6d6. 
+**Greater:** Increase the corrosive damage dealt to armour or a shield on a critical hit to 4d8.
 
 | Corrosive | Damage | Rune Level | Price |
 |----------:|-------:|-----------:|------:|
-| Standard | 1d6 | 8 | 2000 gp |
-| Greater | 2d6 | 15 | 8000 gp |
+| Standard | 1d8 | 8 | 2000 gp |
+| Greater | 2d8 | 15 | 8000 gp |
 
 #### Flaming
 **Usage:** Etched onto a weapon.
 
-This weapon is empowered by flickering flame. You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 1d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword. The weapon deals an additional 1d10 persistent fire damage on a critical hit.
+This weapon is empowered by flickering flame. You can use an action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 1d6 fire damage to any target it hits. The flames last until you use an action to speak the command word again or until you drop or sheathe the sword. The weapon deals an additional 2d6 persistent fire damage on a critical hit.
 
-**Greater:** Increase the persistent damage on a critical hit to 2d10.
+**Greater:** Increase the persistent damage on a critical hit to 3d6.
 
 | Flaming | Damage | Rune Level | Price |
 |--------:|-------:|-----------:|------:|
@@ -221,38 +221,41 @@ This weapon is empowered by flickering flame. You can use a bonus action to spea
 #### Frost
 **Usage:** Etched onto a weapon.
 
-This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful strike. In addition, while you hold the sword, you have resistance to fire damage. In freezing temperatures, the weapon sheds bright light in a 10-foot radius and dim light for an additional 10 ft.
+**Lesser:** This weapon is empowered with freezing ice. If its attack roll exceeds the target's Constitution defence, then the target suffers the [Slowed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Slowed/) (1) condition.
+
+**Standard:** This weapon deals an additional 1d10 cold damage on a successful strike. In addition, while you hold the sword, you have resistance to fire damage. In freezing temperatures, the weapon sheds bright light in a 10-foot radius and dim light for an additional 10 ft.
 
 **Greater:** When you draw this weapon, you can extinguish all non-magical flames within 30 feet of you. This property can be used no more than once per hour.
 
 | Frost | Damage | Rune Level | Price |
 |------:|-------:|-----------:|------:|
-| Standard | 1d6 | 8 | 2000 gp |
-| Greater | 2d6 | 15 | 8000 gp |
+| Lesser | - | 4 | 400 gp |
+| Standard | 1d10 | 8 | 2000 gp |
+| Greater | 2d10 | 15 | 8000 gp |
 
 #### Shocking
 **Usage:** Etched onto a weapon.
 
-Electric arcs crisscross this weapon, dealing an extra 1d6 lightning damage on a hit. On a critical hit, electricity arcs out to deal an equal amount of lightning damage to all other creatures of your choice within 5 feet of the target.
+Electric arcs crisscross this weapon, dealing an extra 1d4 electric damage on a hit. On a critical hit, electricity arcs out to deal an equal amount of lightning damage to all other creatures of your choice within 5 feet of the target.
 
 **Greater:** The electricity arcs to all other creatures of your choice within 10 feet of the target.
 
 | Shocking | Damage | Rune Level | Price |
 |---------:|-------:|-----------:|------:|
-| Standard | 1d6 | 8 | 2000 gp |
-| Greater | 2d6 | 15 | 8000 gp |
+| Standard | 1d4 | 8 | 2000 gp |
+| Greater | 2d4 | 15 | 8000 gp |
 
 #### Thundering
 **Usage:** Etched onto a weapon.
 
-This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 thunder damage on a successful strike. On a critical hit, roll with a +5 attack bonus vs the target's Constitution defence. On a hit, they are deafened for 1 minute (or 1 hour on a critical hit).
+This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful strike. On a critical hit, if the attack roll also hits the target's Constitution defence, then they are deafened for 1 minute (or 1 hour on a critical hit).
 
-**Greater:** The attack bonus is +10, and the deafness is permanent.
+**Greater:** The deafness is permanent.
 
 | Thundering | Damage | Rune Level | Price |
 |-----------:|-------:|-----------:|------:|
-| Standard | 1d6 | 8 | 2000 gp |
-| Greater | 2d6 | 15 | 8000 gp |
+| Standard | 1d4 | 8 | 2000 gp |
+| Greater | 2d4 | 15 | 8000 gp |
 
 #### Dancing
 **Usage:** Etched onto a melee weapon.

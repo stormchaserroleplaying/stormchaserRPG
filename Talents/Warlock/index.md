@@ -9,8 +9,9 @@ has_children: true
 ## Core Talents
 
 | Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
+|:--------------------:|:---:|:-----------------------:|
 | Eldritch Invocations | 5   | 1 Warlock Branch Talent |
+| Evil Eye             | 3   | 1 Warlock Branch Talent |
 | Pact Boon            | 15  | 2nd Level Arcane Spells and Eldritch Invocations |
 | Unchained            | 100 | 10th Level Arcane Spells |
 
@@ -18,12 +19,19 @@ has_children: true
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Talent
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 1 Warlock Branch Talent
 *In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.*
 
 You gain an [Eldritch Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) of your choice. As you gain Character Points, you may purchase additional [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/). If an [Eldritch Invocation]((https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/)) has prerequisites, then you must meet them to learn it. You can learn the [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) at the same time that you meet its prerequisites.
 
 Additionally, when you gain a new talent in this class or a spellcasting talent, you can choose one of the [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you know and replace it with another [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you could learn, provided that they share the same Character Point cost. 
+
+### Evil Eye
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 3 Character Points<br>**Prerequisite:** 1 Warlock Branch Talent
+You learn the [Evil Eye](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#evil-eye) cantrip. This spell does not count against your limit of cantrips known.
 
 ### Pact Boon
 

@@ -56,47 +56,17 @@ You may add your Wisdom modifier to your Dexterity Defense.
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Monk Talents
-Your training allows you to harness the mystic energy of chi. Your access to this energy is represented by a number of chi points equal to your Wisdom score.
+Your training allows you to harness the mystic inner energy of chi, which is another term for Mana. As long as you have mana remaining, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+You can expend mana to fuel various chi powers. Some chi powers require you to make a chi attack roll versus your target’s defence. This is an attack roll using your unarmed proficiency and your Wisdom bonus. You start knowing one such Chi power.
 
-You can spend these points to fuel various chi features. You start knowing 7 such features: Deflect Missiles, Flurry of Blows, Focussed Aim, Patient Defense, Quickened Healing and Step of the Wind.
-
-When you spend a chi point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended chi back into yourself. You must spend at least 30 minutes of the rest meditating to regain your chi points.
-
-As long as you have 1 chi point remaining, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
-
-Some of your chi features require you to make a chi attack roll versus your target's defence. This is an attack roll using your unarmed proficiency and your Wisdom bonus.
-
-#### Dedicated Weapon
-Whenever you finish a short or long rest, you can touch one weapon, focus your chi on it, and then count that weapon as a monk weapon until you use this feature again.
-
-The chosen weapon must meet these criteria:
-* You must be trained with it.
-* It must lack the two-handed and unwieldy properties.
-
-#### Deflect Missiles
-If you catch a missile that was shot at you, you can spend 1 chi point to immediately make a ranged attack as a free action with the weapon or piece of ammunition you just caught. The missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
-
-#### Flurry of Blows
-When you take the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action, you may spend 1 chi point to ignore the [multiple attack penalty](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Attack/#multiple-attack-penalty).
-
-#### Focussed Aim
-When you miss with an attack roll, you can spend 2 chi points to reroll your attack roll, potentially turning the miss into a hit.
-
-#### Patient Defense
-You can spend 1 chi point to [Dodge](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Dodge/) using only a single action.
-
-#### Quickened Healing
-As an action, you can spend 2 chi points and roll your recovery die. You regain an amount of Stamina equal to the number rolled plus your wisdom bonus.
-
-#### Step of the Wind
-You can spend 1 chi point to [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Step/) or [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) as a free action on your turn. Additionally, your jump distance is doubled for that turn.
+While you have at least 1 mana point remaining, the damage die of your [Unarmed Strikes](https://stormchaserroleplaying.com/stormchaserRPG/) increases by 1 step (1 becomes 1d4, 1d4 becomes 1d6, 1d6 becomes 1d8, etc.).
 
 ### Stunning Strike
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Chi and 3 Other Monk Talents
-You can interfere with the flow of chi in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 chi point to attempt a stunning strike. If your chi attack hits the target's Constitution defence, they are stunned until the end of your next turn.
+You can interfere with the flow of energy in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 mana to attempt a stunning strike. If your chi attack hits the target's Constitution defence, they are [stunned](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Stunned/) until the end of your next turn.
 
 ### Calm in the Storm
 
@@ -105,7 +75,7 @@ You can interfere with the flow of chi in an opponent’s body. When you hit ano
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Stunning Strike and 5 Other Monk Talents
 Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a fireball spell. When you are subjected to an effect that deals only half damage on a miss, you instead take no damage on a miss, and only half damage on a hit.
 
-Additionally, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+Additionally, you can use your action to end one effect on yourself that is causing you to be [charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed/) or [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/).
 
 ### Flying Crane
 
@@ -114,7 +84,7 @@ Additionally, you can use your action to end one effect on yourself that is caus
 #### **Cost:** 20 Character Points<br>**Prerequisite:** Calm in the Storm
 When you fall, reduce any falling damage that you take by an amount equal to five times your number of monk talents.
 
-Additionally, your unarmoured speed bonus increass to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
+Additionally, your unarmoured speed bonus increases to 20 feet and you gain the ability to move along vertical surfaces and across liquids on your turn without falling during your move.
 
 ### Purity of Body
 
@@ -137,7 +107,7 @@ You learn to touch the chi of other minds so that you understand all spoken lang
 #### **Cost:** 50 Character Points<br>**Prerequisite:** Tongue of the Sun and Moon and 10 Other Monk Talents
 You mastery of chi grants +1d to all defenses.
 
-Additionally, whenever you make a defence check and fail, you may spend 1 chi point to reroll it and take the second result.
+Additionally, whenever you make a defence check and fail, you may spend 1 mana to reroll it and take the second result.
 
 ### Timeless Body
 
@@ -153,9 +123,9 @@ You can't be aged magically. However, you can still die of old age. In addition,
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Timeless Body and 13 Other Monk Talents
-As an action, you can 4 chi points to become invisible for 1 minute. During that time, you also have resistance to all damage except energy.
+As an action, you can 4 mana to become [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible/) for 1 minute. During that time, you also have resistance to all damage except energy.
 
-Additionally, you can spend 8 Chi points to cast the [Astral Projection]() spell, without needing material components. When you do so, you cannot take any other creatures with you.
+Additionally, you can spend 8 Chi points to cast the [Astral Projection](https://stormchaserroleplaying.com/stormchaserRPG/Spells/9/Necromancy/#astralprojection) spell, without needing material components. When you do so, you cannot take any other creatures with you.
 
 ### Perfect Self
 
@@ -166,6 +136,6 @@ Additionally, you can spend 8 Chi points to cast the [Astral Projection]() spell
 
 Your Dexterity and Wisdom scores increase by 2. Your maximum for those scores increases by 22. 
 
-Additionally, when you roll for initiative and have no chi points remaining, you regain a number of chi points equal to your Wisdom modifier.
+Additionally, when you roll for initiative and have no mana remaining, you regain a number of mana equal to your Wisdom modifier.
 
 ## Monk Talent Tree Branches

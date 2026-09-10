@@ -13,6 +13,7 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 |:-------|:--:|:--------------|
 | Martial Arts | 5 | - |
 | Dance of the Crane | 5 | - |
+| Enlightened Reflexes | 5 | - |
 | Chi | 5 | 2 Monk Talents |
 | Stunning Strike | 5 | Chi and 3 Other Monk Talents |
 | Calm in the Storm | 15 | Stunning Strike and 5 Other Monk Talents |
@@ -29,23 +30,26 @@ For the truly exemplary, martial skill transcends the battlefield. It is a lifes
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are short swords and simple melee weapons that don't have the two-handed or unwieldy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes with an efficiency that others would find with traditional weapons.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armour or wielding a shield:
-* You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
-* You can roll your martial feat die in place of the normal damage of your unarmed strike or monk weapon.
-* You learn the brawling fighting style. If you already know the brawling fighting style, gain 5 character points.
+- Your [Unarmed Strikes](https://stormchaserroleplaying.com/stormchaserRPG/) have the Light and Finesse properties.
+- Your [Unarmed Strike](https://stormchaserroleplaying.com/stormchaserRPG/) damage now scales with increased training.
 
 ### Dance of the Crane
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-While you are wearing no armor and not wielding a shield, your speed increases by 10 feet and you may use your Wisdom defence in place of your Strength or Dexterity defence versus melee and ranged attacks.
+While you are wearing no armor and not wielding a shield, your speed increases by 10 feet.
 
-Additionally, the first time each round that you are hit by a ranged weapon attack, you deflect the missile as a free action. When you do so, the damage that you take from the attack is reduced by 1d10 + your Dexterity modifier.
+Additionally, the first time each round that you are hit by a ranged weapon attack, you deflect the missile as a free action. When you do so, the damage that you take from the attack is reduced by 1d10 + your Dexterity modifier. If you reduce the damage to 0, then you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
 
-If you reduce the damage to 0, then you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
+### Enlightened Reflexes
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You may add your Wisdom modifier to your Dexterity Defense.
 
 ### Chi
 

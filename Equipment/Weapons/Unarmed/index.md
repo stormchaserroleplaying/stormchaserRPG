@@ -17,3 +17,6 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 Fighting unarmed when untrained is particularly dangerous and provokes an [attack of opportunity](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Triggers/#attack-of-opportunity), while expertise, or even mastery of unarmed techniques makes them significantly more effective:
 * A creature with expert proficiency in unarmed strikes increases their base damage to 1d4.
 * A creature with master proficiency in unarmed strikes increases their base damage to 1d6.
+
+> The damage die size increases from unarmed expertise and mastery **do** apply to the damage die of natural weapons. For example, the damage die of a longtooth shifter's fangs increases from 1d6 to 1d8.
+

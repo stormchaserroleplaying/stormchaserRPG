@@ -13,3 +13,7 @@ Damage types are represented by icons: <img src="https://img.icons8.com/ios-glyp
 | Dagger, punch | 2 gp | +1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> | 1 lb. | — | Brutal, close, concealed, finesse, light |
 | Gauntlet, clawed | 5 gp | +1 <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> | 1 lb. | — | Close, finesse, light, vicious, worn |
 | Unarmed strike | — | 1 <img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png"> | — | — | Non-lethal |
+
+Fighting unarmed when untrained is particularly dangerous and provokes an [attack of opportunity](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Triggers/#attack-of-opportunity), while expertise, or even mastery of unarmed techniques makes them significantly more effective:
+* A creature with expert proficiency in unarmed strikes increases their base damage to 1d4.
+* A creature with master proficiency in unarmed strikes increases their base damage to 1d6.

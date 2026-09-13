@@ -1,42 +1,44 @@
 ---
-title: Goblins
+title: Goblin
 parent: Humanoids
 grand_parent: Bestiary
 ---
 
-# Goblin (stat block 1)
-*Small Humanoid, Neutral Evil*
+# Goblin
+*Small Humanoid (Goblinoid), Neutral Evil*
 
 ### Defences
 **STR:** 9, **DEX:** 12, **CON:** 10, **INT:** 10, **WIS:** 9, **CHA:** 9<br>
-**Stamina:** 10 (d4 Recovery Die)<br>
-**Damage Reduction:** 1 (Leather Armour), +1 DR vs. Slashing damage<br>
-**Coverage:** None <br>
-The goblin can use the [Parry](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/ArmourandShields/ArmourTableGlossary/#parry) action while equipped with a buckler and/or shortsword
++1 [parry](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Glossary/#parry) bonus vs. melee attacks (Scimitar, Buckler)
+
+**Stamina:** 20 (d6 Recovery Die)
+
+**Damage Reduction:** 1, +1 vs. <img src="https://img.icons8.com/ios-filled/12/FFFFFF/sword.png"> (Leather Armour)
 
 ### Ability Scores
-**STR:** 8 (-1), **DEX:** 14 (+2), **CON:** 10 (+0), **INT:** 10 (+0), **WIS:** 8 (-1), **CHA:** 8 (-1)<br>
-**Speed:** 25 feet
+**STR:** 8 (-1), **DEX:** 14 (+2), **CON:** 10 (+0), **INT:** 10 (+0), **WIS:** 8 (-1), **CHA:** 8 (-1)
 
-### Equipment
-Leather Armour, Buckler, 1 Melee Weapon, 1 Ranged Weapon
+**Speed:** 22 feet
 
 ### Actions
-**- Shortsword:** *Trained Melee Weapon Attack,* 2d20kh1+2 to hit, range 5 ft., one target. *Hit:* 2d3+2 Piercing/Slashing damage.<br>
-**- Shortbow:** *Trained Ranged Weapon Attack,* 2d20kh1+2 to hit, range 90 ft., one target. *Hit:* 1d6+2 piercing damage. [Brutal 1](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#brutal)
+**Scimitar:** *Melee Weapon Attack,* 2d20kh1+2 to hit, reach 5 ft., one creature. *Hit:* 1d6+2 slashing damage.
 
-### Skill Training
-Stealth(Trained)
+**Self Shortbow:** *Ranged Weapon Attack,* 2d20kh1+2 to hit, ([strength](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Glossary/#strength) 7, [two-handed](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#two-handed)), range 90 ft., one target. *Hit:* 1d6+2 piercing damage ([ammunition](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#ammunition) 20, [brutal](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/WeaponTableGlossary/#brutal) 1).
 
-### Special Actions
-**Nimble Escape:** Once per turn, when the goblin takes the [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) or [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action, it can first use the [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Momves/Step) action for free.
+**Buckler Bash:** *Melee Weapon Attack,* 2d20kh1+2 to hit, reach 5 ft., one creature. *Hit:* 3 bludgeoning damage.
+
+### Special Abilities
+**Nimble Escape:** One time per turn, the goblin can [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/), or [Step](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Step/) as a free action.
+
+### Proficiencies
+* *Armour.* Training
+* *Weapons.* Blades (Trained), Bows (Trained), Simple Weapons (Trained)
+* *Languages.* Goblin (Native) and one other common language (Accented)
 
 ### Senses
-**Awareness:** 9 (1d20)<br>
-**Low-Light Vision (60 ft.)**<br>
-**Languages:** Goblin(Fluent), Common(Broken)
-<br>
-<br>
+* Awareness 9 (1d20)
+* Low-Light Vision (60 ft.)
+
 # Goblin (stat block 2)
 
 | Attribute    | Score | Modifier | Defense | Proficiency |
@@ -70,8 +72,7 @@ Leather Armour, Buckler, 1 Melee Weapon, 1 Ranged Weapon
 **Awareness:** 9 (1d20)<br>
 **Low-Light Vision (60 ft.)**<br>
 **Languages:** Goblin(Fluent), Common(Broken)
-<br>
-<br>
+
 # Goblin Boss
 *Small Humanoid, Neutral Evil*
 

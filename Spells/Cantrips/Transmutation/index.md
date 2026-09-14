@@ -10,7 +10,7 @@ grand_parent: Spells
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** 24 Hours
 
 You assume a different form, taking on the genitalia of your choosing. You may choose the specifics of the genitalia such as whether it is circumcised or the hymen is intact. In addition, you may make subtle alterations to your physique such as gaining or losing breasts, changing your jawline, or hair length/ style but you must remain the same race you were before casting the spell. Any creature that is familiar with you will still recognize you despite these changes. If a creature is affected by this spell with the same specific details every day for a month, the effects become permanent. You may cast this spell using a spell slot to increase its capabilities (see below).
@@ -39,7 +39,7 @@ If you cast this spell multiple times, you can have up to three non-instantaneou
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** Instantaneous
 
 You exert your dominance via a minor magical feat. You may do any of the following within range:
@@ -54,7 +54,7 @@ You exert your dominance via a minor magical feat. You may do any of the followi
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** Instantaneous
 
 *Whispering to the spirits of nature, you can perform a minor manipulation to your environment.*
@@ -66,11 +66,20 @@ You create one of the following effects within range:
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
+## Eat Fire
+*Transmutation Cantrip*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Self<br>
+**Components:** S<br>
+**Duration:** 1 Round
+
+You consume a source of fire up to the size of a torch's flame. Until the end of your next turn, you can spend 1 additional action to exhale a cloud of smoke to fill a 20 foot cube in front of you. Anything within or seen through the area becomes Heavily Obscured for 1 round, then Lightly Obscured for 1 minute. A strong wind will disperse the smoke.
+
 ## Gust
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** Instantaneous
 
 *You seize the air and compel it push creatures and objects.*
@@ -81,11 +90,20 @@ You create one of the following effects at a point that you can see within range
 * You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
+## Live Wire
+*Transmutation Cantrip*<br>
+**Casting Time:** 1 Action<br>
+**Range:** Touch<br>
+**Components:** M, S, V *(10 feet of rope and small piece of metal)*<br>
+**Duration:** 1 Minute
+
+You transmute a length of rope into a metal-laced whip charged with electricity. When you attack, it is considered a [Spiked Whip](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Weapons/Tangling/) and damage type is converted to Electric. You use your Transmutation Proficiency for attack rolls.
+
 ## Magic Stone
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** 1 Minute
 
 *You imbue small stones with magic making them more potent for striking.*
@@ -98,7 +116,7 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Minute<br>
 **Range:** Touch<br>
-**Components:** V, S, M *(Two lodestones.)*<br>
+**Components:** M, S, V *(Two lodestones.)*<br>
 **Duration:** Instantaneous
 
 *You repair a small tear or break in an object - does not work on broken hearts.*
@@ -111,7 +129,7 @@ This spell can physically repair a magic item or construct, but the spell can’
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 Feet<br>
-**Components:** V, S, M *(A short piece of copper wire.)*<br>
+**Components:** M, S, V *(A short piece of copper wire.)*<br>
 **Duration:** 1 Round
 
 *You whisper a message that magically finds its way to the ears of another.*
@@ -141,7 +159,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 10 Feet<br>
-**Components:** V, S<br>
+**Components:** S, V<br>
 **Duration:** Up to 1 hour
 
 *A minor magical trick that novice spellcasters use for practice.*
@@ -190,7 +208,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 *Transmutation Cantrip*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
-**Components:** V, S, M *(Mistletoe, a shamrock leaf and a club or quarterstaff.)*<br>
+**Components:** M, S, V *(Mistletoe, a shamrock leaf and a club or quarterstaff.)*<br>
 **Duration:** 1 Minute
 
 *"Get stick!"*
@@ -238,7 +256,7 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 *Transmutation Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 30 Feet<br>
-**Components:** V, S, M *(The stem of a plant with thorns.)*<br>
+**Components:** M, S, V *(The stem of a plant with thorns.)*<br>
 **Duration:** Instantaneous
 
 *You create a long, vine-like whip covered in thorns that lashes out at your command.*

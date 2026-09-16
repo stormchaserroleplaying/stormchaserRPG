@@ -17,7 +17,6 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 | Action Surge | 5 | 2 Fighter Talents |
 | Cunning Strategist | 5 | 4 Fighter Talents |
 | Indomitable | 20 | 6 Fighter Talents |
-| Greater Extra Attack | 35 | 8 Fighter Talents |
 | Indomitable II | 30 | Indomitable and 8 Other Fighter Talents |
 | Action Surge II | 20 | Action Surge and 10 Other Fighter Talents |
 | Indomitable III | 20 | Indomitable II and 10 Other Fighter Talents |
@@ -76,13 +75,6 @@ Choose two from the following. You can perform each of the chosen options once a
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 6 Fighter Talents
 You can reroll a failed defence check. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
-
-### Greater Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 8 Fighter Talents
-You can now [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) with all three of your actions on your turn without suffering the multiattack penalty.
 
 ### Indomitable II
 

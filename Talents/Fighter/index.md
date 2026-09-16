@@ -61,7 +61,7 @@ On your turn, you can take two additional actions. Once you use this feature, yo
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 4 Fighter Talents
-Choose two from the following. You can perform each of the chosen options once as a free action:
+One time per turn you can perform the one of the following as a free action:
 - [Aid](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Aid/)
 - [Guard](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Guard/)
 - [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/)

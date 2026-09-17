@@ -7,9 +7,6 @@ grand_parent: Talents
 # Champion
 The champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Although often simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some champions combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 
-## Branch Features
-You gain the following features when you take your first talent in this branch.
-
 ## Talents
 
 | Talent | CP | Prerequisites |
@@ -36,19 +33,19 @@ Whenever you hit with a weapon that you're proficient with and deal damage, add 
 #### **Cost:** 5 Character Points
 Your weapon attacks score a critical hit on a roll of 19 or 20.
 
-### Brutish Durability
+### Resolute Durability
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 10 Character Points<br>**Prerequisite:** Brute Force and 4 other Fighter Talents
-Whenever you make a defence check or death saving throw, you benefit from +1d.
+Whenever you make a defence check or death saving throw, you gain +1d to the roll.
 
 ### Remarkable Athlete
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Improved Critical and 4 other Fighter Talents
-You may reroll any Strength, Dexterity, or Constitution check that you make that does not benefit from proficiency, but you must take the result.
+You may reroll any Strength, Dexterity, or Constitution check that you make that does not benefit from proficiency, but you must take the new result.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
 
@@ -57,7 +54,7 @@ In addition, when you make a running long jump, the distance you can cover incre
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Brutish Durability, or Remarkable Athlete, and 6 other Fighter Talents
-You can add 1 to the armour’s maximum Dexterity bonus to Dexterity defence. Additionally, you ignore the bulky property of armour that you are wearing.
+You can add 1 to the armour’s maximum Dexterity bonus to Dexterity defence. Additionally, you ignore the bulky property from 1 piece of armour that you are wearing.
 
 ### Devastating Critical
 
@@ -80,4 +77,4 @@ Your weapon attacks also score a critical hit on a roll of 18-20.
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Devastating Critical, or Superior Critical, and 12 other Fighter Talents
 *You attain the pinnacle of resilience in battle.*
 
-At the start of each of your turns in combat, you regain hit points equal to 5 + your Constitution modifier (minimum of 1 hit point). You don't gain this benefit if you have 0 hit points or if you have more than half of your hit points left.
+At the start of each of your turns in combat, you regain stamina equal to 1dR + CON. You don't gain this benefit if you have 0 stamina or if you have more than half of your maximum stamina left.

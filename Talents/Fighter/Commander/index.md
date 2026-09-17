@@ -13,7 +13,7 @@ Commanders inspire greatness in others by committing brave deeds in battle. The 
 |:------:|:--:|:-------------:|
 | Rallying Cry      | 5  | - |
 | Inspiring Surge   | 15 | Rallying Cry and 4 other Fighter Talents |
-| Tireless Elegance | 25 | Inspiring Surge and 6 other Fighter Talents |
+| Tireless Elegance | 25 | Inspiring Surge, Indomitable and 5 other Fighter Talents |
 | Bulwark           | 65 | Tireless Elegance and 9 other Fighter Talents |
 | Press the Attack  | 80 | Bulwark and 11 other Fighter Talents |
 
@@ -43,7 +43,7 @@ Additionally, you can choose one creature affected by your Rallying Cry or Secon
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Inspiring Surge and 6 other Fighter Talents
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Inspiring Surge, Indomitable and 5 other Fighter Talents
 When you roll initiative and have no uses of Indomitable remaining, you regain one use. 
 
 ### Bulwark

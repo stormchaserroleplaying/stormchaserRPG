@@ -53,7 +53,7 @@ Additionally, the temporary stamina granted by your Fighting Spirit increases to
 #### **Cost:** 65 Character Points<br>**Prerequisite:** Tireless Spirit, and 9 other Fighter Talents
 *You learn to trade accuracy for swift strikes.*
 
-Once per turn, when you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) and are rolling 2d20 or more on an attack roll against one of the targets, you can take -1d for that roll to make an additional weapon attack against that target using the same size dice pool, as part of the same action. This extra attack counts for calculating multiple attack penalty.
+Once per turn, when you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) with a weapon you are proficient with, you can take -1d for that roll to make an additional [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) against that target using the same size dice pool, as part of the same action. This extra attack counts for calculating multiple attack penalty.
 
 Additionally, the temporary stamina granted by your Fighting Spirit increases to 3dR.
 

@@ -32,7 +32,7 @@ You also gain proficiency in the [Arcana](https://stormchaserroleplaying.com/sto
 
 This energy is represented by your Psionic Energy dice, which are equal to your martial feat die. You have a number of these dice equal to twice your Intelligence modifier and they fuel various psionic powers that you have, which are detailed below.
 
-Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. 
+Some of your powers expend the Psionic Energy die when they are used, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. 
 
 You regain all your expended Psionic Energy dice when you finish a long rest. In addition, using 1 action, you can regain two expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
@@ -62,10 +62,10 @@ Once you take this action, you can't do so again until you finish a short or lon
 
 #### Psi-Powered Leap
 ##### **Actions:** 1
-You can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
+You can propel your body with your mind. You can [Fly](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Fly/) with speed equal to twice your walking speed until the end of the current turn. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 
 #### Telekinetic Thrust
-When you deal damage to a target with your Psionic Strike, Make a spell attack vs the Strength defence of that creature. On a hit, you can knock the target prone or move it up to 10 feet in any direction horizontally.
+When you deal damage to a target with your Psionic Strike, you can also make a [Shove](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Melee/Shove/) check against that creature. On a hit, the distance moved increases to 10 feet and the target is knocked [Prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone).
 
 ### Guarded Mind
 
@@ -74,7 +74,7 @@ When you deal damage to a target with your Psionic Strike, Make a spell attack v
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Telekietic Adept and 6 Other Fighter Talents
 *The psionic energy flowing through you has bolstered your mind.*
 
-You have resistance to psychic damage. Moreover, if you start your turn charmed or frightened, you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
+You have resistance to psychic damage. Moreover, if you start your turn [Charmed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Charmed) or [Frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened), you can expend a Psionic Energy die and end every effect on yourself subjecting you to those conditions.
 
 ### Bulwark of Force
 
@@ -83,7 +83,7 @@ You have resistance to psychic damage. Moreover, if you start your turn charmed 
 #### **Cost:** 65 Character Points<br>**Prerequisite:** Guarded Mind and 9 Other Fighter Talents<br>**Actions:** 1
 *You can shield yourself and others with telekinetic force.*
 
-You can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
+You can choose a number of creatures, including yourself, up to your Intelligence modifier (minimum of one creature) that you can see within 30 feet of you. Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.
 
 Once you take this action, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again.
 
@@ -94,6 +94,6 @@ Once you take this action, you can't do so again until you finish a long rest, u
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Unbreakable and 11 Other Fighter Talents
 *Your ability to move creatures and objects with your mind is matched by few.*
 
-You can cast the *Telekinesis* spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a free action.
+You can cast the [*Telekinesis*](https://stormchaserroleplaying.com/stormchaserRPG/Spells/5/Transmutation/#Telekinesis) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. When you initially cast the spell and spend an action to [Sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#Sustaining-Spells) it afterwards, you can [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) once with a weapon as a free action.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.

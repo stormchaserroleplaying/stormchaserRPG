@@ -77,7 +77,7 @@ Your Unarmed [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/A
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Haymaker and 6 other Fighter Talents
-When you use your Bloodied But Unbowed talent, you can choose to add your martial feat die to your damage with unarmed attacks and improvised weapons for the next minute. 
+When you use your Bloodied But Unbowed talent, you can choose to add 1dM to your damage with unarmed attacks and improvised weapons for the next minute. 
 
 You can use this feature again after you complete a long rest.
 

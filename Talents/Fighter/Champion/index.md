@@ -13,12 +13,12 @@ The champion focuses on the development of raw physical power honed to deadly pe
 |:------:|:--:|:-------------:|
 | Brute Force I            | 5  | - |
 | Weapon Mastery I         | 5  | - |
-| Brutish Durability       | 10 | Brute Force |
-| Remarkable Athlete       | 5  | Improved Critical |
+| Brutish Durability       | 10 | Brute Force I |
+| Remarkable Athlete       | 5  | Weapon Mastery I |
 | Untouchable Paragon      | 25 | Brutish Durability or Remarkable Athlete |
-| Brute Force II           | 65 | Advanced Armour Training |
-| Weapon Mastery II        | 65 | Advanced Armour Training |
-| Survivor                 | 80 | Devastating Critical or Superior Critical |
+| Brute Force II           | 65 | Untouchable Paragon |
+| Weapon Mastery II        | 65 | Untouchable Paragon |
+| Survivor                 | 80 | Brute Force II or Weapon Mastery II |
 
 ### Brute Force
 #### *Cost:* 5 Character Points
@@ -37,14 +37,14 @@ Your maximized damage dice on a [Natural 20](https://stormchaserroleplaying.com/
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Brute Force
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Brute Force I
 When you fail a defence check or death saving throw, you can reroll and take the better result. You can use this talent a number of times per long rest equal to your Constitution Modifier.
 
 ### Remarkable Athlete
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Improved Critical
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Weapon Mastery I
 You may reroll any Strength, Dexterity, or Constitution check that you make that does not benefit from proficiency, but you must take the new result.
 
 In addition, when you make a running [long jump](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump/#Long-Jump), the distance you can cover increases by a number of feet equal to your Strength modifier.
@@ -76,7 +76,7 @@ Maximized damage from a [Natural 20](https://stormchaserroleplaying.com/stormcha
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Devastating Critical or Superior Critical
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Brute Force II or Weapon Mastery II
 *You attain the pinnacle of resilience in battle.*
 
 At the start of each of your turns in combat, you regain stamina equal to 1dR + CON. You don't gain this benefit if you have 0 stamina or if you have more than half of your maximum stamina left.

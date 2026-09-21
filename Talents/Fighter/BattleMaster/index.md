@@ -7,9 +7,6 @@ grand_parent: Talents
 # Battle Master
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
 
-## Branch Features
-You gain the following features when taking your first Talent in this Branch.
-
 ## Talents
 
 | Talent | CP | Prerequisites |
@@ -47,7 +44,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Know Your Enemy and 6 other Fighter Talents
-Once per turn, if you would roll a [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) die as part of a manuever, you may gain roll it twice and take the higher result.
+Once per turn, if you would roll a [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may gain roll it twice and take the higher result.
 
 ### Maneuver Versatility II
 
@@ -61,4 +58,4 @@ You can now use three maneuvers per round. You can still use only one maneuver p
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Maneuver Versatility II and 11 other Fighter Talents
-Once per round, if you would roll a [martial feat](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) die as part of a manuever, you can instead take the maximum.
+Once per round, if you would roll a [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial)  as part of a manuever, you can instead take the maximum.

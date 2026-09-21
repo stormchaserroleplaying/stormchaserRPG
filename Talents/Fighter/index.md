@@ -17,7 +17,6 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 | Action Surge | 5 | 2 Fighter Talents |
 | Cunning Strategist | 5 | 4 Fighter Talents |
 | Indomitable | 20 | 6 Fighter Talents |
-| Greater Extra Attack | 35 | 8 Fighter Talents |
 | Indomitable II | 30 | Indomitable and 8 Other Fighter Talents |
 | Action Surge II | 20 | Action Surge and 10 Other Fighter Talents |
 | Indomitable III | 20 | Indomitable II and 10 Other Fighter Talents |
@@ -30,16 +29,14 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 *You have a limited well of stamina that you can draw on to protect yourself from harm.*
 
-On your turn, you can regain stamina equal to two of your recovery die + your Constitution modifier.
-
-Once you use this feature, you must finish a short or long rest before you can use it again.
+On your turn, you can regain 2dR+CON stamina. Once you use this talent, you must finish a short or long rest before you can use it again.
 
 ### Bravery
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
-You gain +1d on defence checks against effects that would cause you to be frightened.
+You gain +1d on defence checks against effects that would cause you to be [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/).
 
 ### Combat Superiority
 
@@ -57,22 +54,20 @@ You may take this talent multiple times.
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Fighter Talents
 *You can push yourself beyond your normal limits for a moment.*
 
-On your turn, you can take two additional actions.
-
-Once you use this feature, you must finish a short or long rest before you can use it again. 
+On your turn, you can take two additional actions. Once you use this feature, you must finish a short or long rest before you can use it again. 
 
 ### Cunning Strategist
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** 4 Fighter Talents
-Choose two from the following. You can perform each of the chosen options once as a free action:
-- Aid
-- Guard
-- Overrun
-- Seek
-- Tumble
-- While mounted on a controlled beast, having your beast make a single melee attack against a creature within its reach
+One time per turn you can perform the one of the following as a free action:
+- [Aid](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Aid/)
+- [Guard](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Guard/)
+- [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/)
+- [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/)
+- Make a [Tumble](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Tumble/) check
+- Make a [Command an Animal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/Command/) check for your mount to use the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action
 
 ### Indomitable
 
@@ -81,19 +76,12 @@ Choose two from the following. You can perform each of the chosen options once a
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 6 Fighter Talents
 You can reroll a failed defence check. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 
-### Greater Extra Attack
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 8 Fighter Talents
-You can now Strike with all three of your actions on your turn without suffering the multiattack penalty.
-
 ### Indomitable II
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** Indomitable and 8 Other Fighter Talents
-You can now use your Indomitable talent twice before a long rest,
+You can now use your Indomitable talent twice before a long rest.
 
 ### Action Surge II
 
@@ -119,3 +107,13 @@ You can now use your Indomitable talent three times before a long rest,
 Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
 
 ## Fighter Talent Tree Branches
+[Battle Master](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/BattleMaster/)
+[Brawler](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Brawler/)
+[Cavalier](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Cavalier/)
+[Champion](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Champion/)
+[Commander](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Commander/)
+[Mirror Knight](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/MirrorKnight/)
+[Noble](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Noble/)
+[Psionic Warrior](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/PsionicWarrior/)
+[Runic Warrior](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/RunicWarrior/)
+[Spellblade](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/Spellblade/)

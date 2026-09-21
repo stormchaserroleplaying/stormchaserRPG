@@ -36,7 +36,7 @@ You can have up to two bonded weapons and can summon both at the same time using
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 15 Character Points<br>**Prerequisite:** Weapon Bond and 4 other Fighter Talents
-Once per turn, when you cast a cantrip that costs 2 or more actions, you can make one Strike as a free action.
+Once per turn, when you cast a cantrip that costs 2 or more actions, you can make one [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) as a free action.
 
 ### Eldritch Strike
 

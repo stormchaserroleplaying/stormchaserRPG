@@ -24,13 +24,13 @@ You possess a preternatural blessing from a fey ally or a place of fey power. Ch
 | Talent | CP | Prerequisites |
 |:------:|:--:|:-------------:|
 | Otherworldly Glamour | 5  | - |
-| Fey Magic            | 5  | 1st Level Spells |
-| Fey Magic II         | 5  | 2nd Level Spells, Fey Magic and Character Value 160 Points |
-| Fey Magic III        | 5  | 3rd Level Spells, Fey Magic II and 170 Character Points |
-| Fey Magic IV         | 5  | 4th Level Spells, Fey Magic III and Character Value 190 Points |
-| Beguiling Twist      | 10 | Otherworldly Glamour, Proficient in Charms and Character Value 195 Points |
-| Fey Magic V          | 5  | 5th Level Spells, Fey Magic IV and Character Value 220 Points |
-| Fey Reinforcements   | 35 | Beguiling Twist and Character Value 300 Points |
+| Fey Magic            | 5  | 1st Level Spellcasting |
+| Fey Magic II         | 5  | 2nd Level Spellcasting, Fey Magic |
+| Fey Magic III        | 10  | 3rd Level Spellcasting, Fey Magic II |
+| Fey Magic IV         | 10  | 4th Level Spellcasting, Fey Magic III |
+| Beguiling Twist      | 10 | Otherworldly Glamour, Trained in [Spellcasting (Charms)](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival) |
+| Fey Magic V          | 15  | 5th Level Spellcasting, Fey Magic IV |
+| Fey Reinforcements   | 35 | Beguiling Twist |
 | Misty Wanderer       | 65 | Fey Magic IV, Fey Reinforcements and Character Value 500 Points |
 
 ### Otherworldly Glamour
@@ -46,7 +46,7 @@ You can also augment your weapon strikes with mind-scarring magic, drawn from th
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spells
+#### **Cost:** 5 Character Points<br>**Prerequisite:** 1st Level Spellcasting
 You learn the [Charm Person](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#charm-person) spell. This spell is always prepared and does not count toward you number of spells known or prepared.
 
 ### Fey Magic II

@@ -10,6 +10,7 @@ grand_parent: Spells
 * [Alter Sex](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#alter-sex) (Transmutation)
 * [Control Flames](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#control-flames) (Transmutation)
 * [Create Bonfire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#create-bonfire) (Conjuration)
+* [Daze](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#daze) (Charms)
 * [Dommaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#dommaturgy) (Transmutation)
 * [Druidcraft](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#druidcraft) (Transmutation)
 * [Frostbite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#frostbite) (Evocation)
@@ -37,6 +38,7 @@ grand_parent: Spells
 * [Thorn Whip](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#thorn-whip) (Transmutation)
 * [Thunderclap](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#thunderclap) (Evocation)
 * [Toll the Dead](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#toll-the-dead) (Necromancy)
+* [Virulent Pests](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#virulent-pests) (Conjuration)
 * [Word of Radiance](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#word-of-radiance) (Evocation)
 * [Yank](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#yank) (Conjuration)
 

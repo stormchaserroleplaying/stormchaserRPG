@@ -6,6 +6,15 @@ grand_parent: Spells
 
 # Charms
 
+## Daze
+*Charms Cantrip*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 Feet<br>
+**Components:** S, V<br>
+**Duration:** 1 Round
+
+You lodge a disruptive reverberation into a creature's mind. Make a spell attack against the target's Wisdom defense. On a hit, the target is [Dazed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Dazed/) until the end of its next turn.
+
 ## Encode Thoughts
 *Charms Cantrip*<br>
 **Casting Time:** 2 Actions<br>

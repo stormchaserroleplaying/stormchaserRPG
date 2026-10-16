@@ -9,15 +9,17 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 
 ## Core Talents
 
-| Talent             | CP  | Prerequisites |
-|:-------------------|:---:|:--------------|
-| Combat Superiority | 5   | - |
-| Cunning Strategist | 5   | Combat Superiority |
-| Action Surge       | 10  | Cunning Strategist |
-| Indomitable I      | 30  | Action Surge |
-| Indomitable II     | 50  | Indomitable |
-| Indomitable III    | 80  | Indomitable II |
-| Master of Combat   | 100 | Indomitable III |
+| Talent               | CP  | Prerequisites |
+|:---------------------|:---:|:--------------|
+| Combat Superiority   | 5   | - |
+| Cunning Strategist   | 5   | Combat Superiority |
+| Action Surge         | 10  | Cunning Strategist |
+| Maneuver Versatility | 15  | Combat Superiority |
+| Know Your Enemy      | 25  | Cunning Strategist |
+| Indomitable I        | 30  | Know Your Enemy |
+| Indomitable II       | 50  | Indomitable |
+| Indomitable III      | 60  | Indomitable II |
+| Master of Combat     | 100 | Indomitable III |
 
 ### Combat Superiority
 
@@ -52,11 +54,33 @@ On your turn, you can take an additional action. Once you use this feature, you 
 
 You can take this talent up to four times, allowing you to use it multiple times before a rest, but no more than twice on the same turn.
 
+### Maneuver Versatility
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Combat Superiority
+You can use multiple maneuvers per round. You can still use only one maneuver per attack and you may only use each maneuver once per round.
+
+### Know Your Enemy
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Cunning Strategist
+If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regards to two of the following characteristics of your choice:
+- Strength score
+- Dexterity score
+- Constitution score
+- Strength or Dexterity Defence
+- Damage Reduction
+- Current Stamina
+- Total talents (if any)
+- Total Warrior talents (if any)
+
 ### Indomitable I
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Action Surge
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Know Your Enemy
 The first attack to hit you after each long rest must be rerolled and use the lower result.
 
 ### Indomitable II
@@ -70,7 +94,7 @@ The first attack to hit you after each short rest must be rerolled and use the l
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Indomatable II
+#### **Cost:** 60 Character Points<br>**Prerequisite:** Indomatable II
 The first attack to hit you after each breather must be rerolled and use the lower result.
 
 ### Master of Combat

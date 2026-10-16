@@ -47,7 +47,7 @@ You have +1d on initiative.
 #### **Cost:** 5 Character Points
 While wielding a double-bladed weapon with two hands, the weapon has the finesse trait for your attacks with it.
 
-### Second Wind
+## Second Wind
 
 <div style="margin-top:-10px;"></div>
 

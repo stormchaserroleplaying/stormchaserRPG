@@ -44,7 +44,7 @@ If you spend at least 1 minute observing or interacting with another creature ou
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 25 Character Points<br>**Prerequisite:** Know Your Enemy and 6 other Fighter Talents
-Once per turn, if you would roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, then you may gain roll it twice and take the higher result.
+When you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may roll it twice and take the higher result.
 
 ### Maneuver Versatility II
 
@@ -58,4 +58,4 @@ You can now use three maneuvers per round. You can still use only one maneuver p
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 80 Character Points<br>**Prerequisite:** Maneuver Versatility II and 11 other Fighter Talents
-Once per round, if you would roll a [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial)  as part of a manuever, you can instead take the maximum.
+When you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may take the maximum possible result.

@@ -24,7 +24,7 @@ You have undergone extensive physical training to gain the following benefits:
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
-### Bravery
+## Bravery
 
 <div style="margin-top:-10px;"></div>
 

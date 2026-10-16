@@ -24,6 +24,13 @@ You have undergone extensive physical training to gain the following benefits:
 * Climbing doesn’t cost you extra movement.
 * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
+### Bravery
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points
+You gain +1d on defence checks against effects that would cause you to be [frightened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Frightened/).
+
 ## Cryptographer
 
 <div style="margin-top:-10px;"></div>

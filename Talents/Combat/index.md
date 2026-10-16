@@ -54,7 +54,7 @@ While wielding a double-bladed weapon with two hands, the weapon has the finesse
 #### **Cost:** 5 Character Points<br>**Actions:** 1
 *You have a limited well of stamina that you can draw on to protect yourself from harm.*
 
-On your turn, you can regain 2dR+CON stamina. Once you use this talent, you must finish a short or long rest before you can use it again.
+On your turn, you can regain stamina equal to 1dR + your constitution modifier. Once you use this talent, you must finish a short or long rest before you can use it again.
 
 ## Titan's Power
 

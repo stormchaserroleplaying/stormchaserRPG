@@ -9,33 +9,32 @@ Those who emulate the archetypal Battle Master employ martial techniques passed 
 
 ## Talents
 
-| Talent | CP | Prerequisites |
-|:------:|:--:|:-------------:|
-| Maneuver Versatility I  | 5  | - |
-| Know Your Enemy         | 15 | Maneuver Versatility I and 4 other Fighter Talents |
-| Maneuver Adept          | 25 | Know Your Enemy and 6 other Fighter Talents |
-| Maneuver Versatility II | 65 | Maneuver Adept and 9 other Fighter Talents |
-| Master of Battle        | 80 | Maneuver Versatility II and 12 other Fighter Talents |
+| Talent                  | CP | Prerequisites |
+|:-----------------------:|:--:|:-------------:|
+| Maneuver Versatility | 15  | [Combat Superiority](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/#combat-superiority) |
+| Know Your Enemy      | 25 | Maneuver Versatility |
+| Maneuver Adept       | 30 | Know Your Enemy |
+| Master of Battle     | 65 | Maneuver Adept |
 
-### Maneuver Versatility I
+### Maneuver Versatility
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-You can now use two maneuvers per round. You can use only one maneuver per attack, and you may only use each maneuver once per round.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Maneuver Versatility
+You can use multiple maneuvers per round. You can still use only one maneuver per attack and you may only use each maneuver once per round.
 
 ### Know Your Enemy
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 15 Character Points<br>**Prerequisite:** Maneuver Versatility I and 4 other Fighter Talents
-If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Maneuver Versatility
+If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regards to two of the following characteristics of your choice:
 - Strength score
 - Dexterity score
 - Constitution score
 - Strength or Dexterity Defence
 - Damage Reduction
-- Current hit points
+- Current Stamina
 - Total talents (if any)
 - Total Warrior talents (if any)
 
@@ -43,19 +42,12 @@ If you spend at least 1 minute observing or interacting with another creature ou
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Know Your Enemy and 6 other Fighter Talents
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Know Your Enemy
 When you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may roll it twice and take the higher result.
-
-### Maneuver Versatility II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 65 Character Points<br>**Prerequisite:** Maneuver Adept and 9 other Fighter Talents
-You can now use three maneuvers per round. You can still use only one maneuver per attack, however you may use each maneuver more than once per round.
 
 ### Master of Battle
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Maneuver Versatility II and 11 other Fighter Talents
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Maneuver Adept
 When you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may take the maximum possible result.

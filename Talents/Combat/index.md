@@ -47,6 +47,15 @@ You have +1d on initiative.
 #### **Cost:** 5 Character Points
 While wielding a double-bladed weapon with two hands, the weapon has the finesse trait for your attacks with it.
 
+### Second Wind
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+*You have a limited well of stamina that you can draw on to protect yourself from harm.*
+
+On your turn, you can regain 2dR+CON stamina. Once you use this talent, you must finish a short or long rest before you can use it again.
+
 ## Titan's Power
 
 <div style="margin-top:-10px;"></div>

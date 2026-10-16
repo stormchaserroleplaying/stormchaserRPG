@@ -106,4 +106,6 @@ The first attack to hit you after each breather must be rerolled and use the low
 
 Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
 
+Additionally, when you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may take the maximum possible result.
+
 ## Fighter Talent Tree Branches

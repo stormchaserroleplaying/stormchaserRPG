@@ -50,6 +50,15 @@ You become stronger and count as if you were one size larger for the purpose of 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Trained in [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/)
 You've master the art of charming those around you. If you spend 1 minute talking to someone who can understand what you say, you can make a [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/) check vs the creature’s passive [Insight](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Insight/). If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.
 
+## Elegant Courtier
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Trained in [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion/)
+*Your discipline and attention to detail allow you to excel in social situations.*
+
+You can use Wisdom instead of Charisma whenever you make a [Persuasion](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Persuasion) check.
+
 ## Empathic
 
 <div style="margin-top:-10px;"></div>

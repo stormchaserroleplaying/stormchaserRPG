@@ -27,6 +27,15 @@ You master the techniques needed to train and handle animals. You can use an act
 #### **Cost:** 5 Character Points<br>**Prerequisite:** Trained in [Arcana](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Arcana/)
 You master the theory and practice of magic. You can cast the [Detect Magic](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#detect-magic) spell as a ritual.
 
+## Born to the Saddle
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Trained in [Animal Handling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/)
+Your mastery as a rider becomes apparent. You have +1d on [Stay in Saddle](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/#stay-in-saddle) checks. If you fall off your mount and descend no more than 10 feet, then you can land on your feet, if you're not incapacitated.
+
+Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
+
 ## Brawny
 
 <div style="margin-top:-10px;"></div>

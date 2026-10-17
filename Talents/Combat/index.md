@@ -40,6 +40,15 @@ Every blow that hits your enemies make you feel closer to victory, making you sh
 #### **Cost:** 5 Character Points
 You have +1d on initiative.
 
+### Rapid Strike
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 65 Character Points
+*You learn to trade accuracy for swift strikes.*
+
+Once per turn, when you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) with a weapon that you are proficient with, you can take -1d on the attack roll to make an additional [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) against the same target using the same size dice pool, as part of the same action. This extra attack counts for the purposes of calculating your multiple attack penalty for subsequent attacks that round.
+
 ## Revenant Blade
 
 <div style="margin-top:-10px;"></div>

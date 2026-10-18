@@ -5,41 +5,21 @@ has_children: true
 ---
 
 # Fighter Talent Tree
-Some take up arms for glory, wealth, or revenge. Others do battle to prove themselves, to protect others, or because they know nothing else. Still others learn the ways of weaponcraft to hone their bodies in battle and prove their mettle in the forge of war. Lords of the battlefield, fighters are a disparate lot, training with many weapons or just one, perfecting the uses of armour, learning the fighting techniques of exotic masters, and studying the art of combat, all to shape themselves into living weapons. Far more than mere thugs, these skilled warriors reveal the true deadliness of their weapons, turning hunks of metal into arms capable of taming kingdoms, slaughtering monsters, and rousing the hearts of armies. Soldiers, knights, hunters, and artists of war, fighters are unparalleled champions, and woe to those who dare stand against them.
+Some take up arms for glory, wealth, or revenge. Others do battle to prove themselves, to protect others, or because they know nothing else. There are those who learn the ways of weaponcraft to hone their bodies in battle and prove their mettle in the forge of war. Lords of the battlefield, fighters are a disparate lot. Whether they train with many weapons, or just one, perfect the uses of armour, learn the fighting techniques of exotic masters, or study the art of combat, all to shape themselves into living weapons. Far more than mere thugs, these skilled warriors reveal the true deadliness of their weapons, turning hunks of metal into arms capable of taming kingdoms, slaughtering monsters and rousing the hearts of armies. Soldiers, knights, hunters and artists of war, fighters are unparalleled champions. Woe to those who dare to stand against them.
 
 ## Core Talents
 
-| Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
-| Second Wind | 5 | - |
-| Bravery | 5 | - |
-| Combat Superiority | 5 | - |
-| Action Surge | 5 | 2 Fighter Talents |
-| Cunning Strategist | 5 | 4 Fighter Talents |
-| Indomitable | 20 | 6 Fighter Talents |
-| Greater Extra Attack | 35 | 8 Fighter Talents |
-| Indomitable II | 30 | Indomitable and 8 Other Fighter Talents |
-| Action Surge II | 20 | Action Surge and 10 Other Fighter Talents |
-| Indomitable III | 20 | Indomitable II and 10 Other Fighter Talents |
-| Master of Combat | 100 | 14 Fighter Talents |
-
-### Second Wind
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Actions:** 1
-*You have a limited well of stamina that you can draw on to protect yourself from harm.*
-
-On your turn, you can regain stamina equal to two of your recovery die + your Constitution modifier.
-
-Once you use this feature, you must finish a short or long rest before you can use it again.
-
-### Bravery
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points
-You gain +1d on defence checks against effects that would cause you to be frightened.
+| Talent               | CP  | Prerequisites |
+|:---------------------|:---:|:--------------|
+| Combat Superiority   | 5   | - |
+| Cunning Strategist   | 5   | Combat Superiority |
+| Action Surge         | 10  | Cunning Strategist |
+| Maneuver Versatility | 15  | Combat Superiority |
+| Know Your Enemy      | 25  | Cunning Strategist |
+| Indomitable I        | 30  | Know Your Enemy |
+| Indomitable II       | 50  | Indomitable |
+| Indomitable III      | 60  | Indomitable II |
+| Master of Combat     | 100 | Indomitable III |
 
 ### Combat Superiority
 
@@ -50,72 +30,82 @@ You learn one [maneuver](https://stormchaserroleplaying.com/stormchaserRPG/Talen
 
 You may take this talent multiple times.
 
-### Action Surge 
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 2 Fighter Talents
-*You can push yourself beyond your normal limits for a moment.*
-
-On your turn, you can take two additional actions.
-
-Once you use this feature, you must finish a short or long rest before you can use it again. 
-
 ### Cunning Strategist
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** 4 Fighter Talents
-Choose two from the following. You can perform each of the chosen options once as a free action:
-- Aid
-- Guard
-- Overrun
-- Seek
-- Tumble
-- While mounted on a controlled beast, having your beast make a single melee attack against a creature within its reach
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Combat Superiority
+One time per turn you can perform the one of the following as a free action:
+- [Aid](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Aid/)
+- [Guard](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Guard/)
+- [Overrun](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Overrun/)
+- [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/)
+- Make a [Tumble](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Tumble/) check
+- Make a [Command an Animal](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/Command/) check for your mount to use the [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/) action
 
-### Indomitable
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 20 Character Points<br>**Prerequisite:** 6 Fighter Talents
-You can reroll a failed defence check. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
-
-### Greater Extra Attack
+### Action Surge 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 35 Character Points<br>**Prerequisite:** 8 Fighter Talents
-You can now Strike with all three of your actions on your turn without suffering the multiattack penalty.
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Cunning Strategist
+*You can push yourself beyond your normal limits for a moment.*
+
+On your turn, you can take an additional action. Once you use this feature, you must finish a short or long rest before you can use it again. 
+
+You can take this talent up to four times, allowing you to use it multiple times before a rest, but no more than twice on the same turn.
+
+### Maneuver Versatility
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 15 Character Points<br>**Prerequisite:** Combat Superiority
+You can use multiple maneuvers per round. You can still use only one maneuver per attack and you may only use each maneuver once per round.
+
+### Know Your Enemy
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Cunning Strategist
+If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regards to two of the following characteristics of your choice:
+- Strength score
+- Dexterity score
+- Constitution score
+- Strength or Dexterity Defence
+- Damage Reduction
+- Current Stamina
+- Total talents (if any)
+- Total Warrior talents (if any)
+
+### Indomitable I
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Know Your Enemy
+The first attack to hit you after each long rest must be rerolled and use the lower result.
 
 ### Indomitable II
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 30 Character Points<br>**Prerequisite:** Indomitable and 8 Other Fighter Talents
-You can now use your Indomitable talent twice before a long rest,
-
-### Action Surge II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Action Surge and 10 Other Fighter Talents
-You can now use your Action Surge talent twice before a rest, but only once on the same turn.
+#### **Cost:** 50 Character Points<br>**Prerequisite:** Indomitable I
+The first attack to hit you after each short rest must be rerolled and use the lower result.
 
 ### Indomitable III
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** Indomatable II and 10 Other Fighter Talents
-You can now use your Indomitable talent three times before a long rest,
+#### **Cost:** 60 Character Points<br>**Prerequisite:** Indomatable II
+The first attack to hit you after each breather must be rerolled and use the lower result.
 
 ### Master of Combat
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 100 Character Points<br>**Prerequisite:** 14 Fighter Talents
+#### **Cost:** 100 Character Points<br>**Prerequisite:** Indomitable III
 *You are the master of combat.*
 
 Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores also increases by 2.
+
+Additionally, when you roll your [martial die](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Martial) as part of a manuever, you may take the maximum possible result.
 
 ## Fighter Talent Tree Branches

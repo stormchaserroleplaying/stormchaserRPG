@@ -51,6 +51,18 @@ To be eligible, a spell must be incapable of targeting more than one creature at
 #### **Cost:** 100 Character Points<br>**Prerequisite:** 10th Level Spells (Arcane or Divine)
 Your maximum mana increases to 42 and you can cast 7th level spells repeatedly without taking decay damage for overcasting.
 
+
+## Warding Shield
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 25 Character Points<br>**Prerequisite:** [Warding](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Schools/) [Proficiency](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Magic/Proficiency/#spell-school-training)
+*You learn to invoke your magic to protect your allies.*
+
+Once per round, the first time that an allied creature that you can see within 60 feet of you is hit by an attack roll, you impart -1d. On your turn you can designate which creatures are can be targeted by this effect.
+
+You can use this feature a number of times equal to your spellcasting attribute modifier and you regain all expended uses when you finish a long rest.
+
 ## War Caster
 
 <div style="margin-top:-10px;"></div>

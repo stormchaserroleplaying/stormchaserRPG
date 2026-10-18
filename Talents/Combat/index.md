@@ -40,12 +40,30 @@ Every blow that hits your enemies make you feel closer to victory, making you sh
 #### **Cost:** 5 Character Points
 You have +1d on initiative.
 
+### Rapid Strike
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 65 Character Points
+*You learn to trade accuracy for swift strikes.*
+
+Once per turn, when you [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) with a weapon that you are proficient with, you can take -1d on the attack roll to make an additional [Strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike) against the same target using the same size dice pool, as part of the same action. This extra attack counts for the purposes of calculating your multiple attack penalty for subsequent attacks that round.
+
 ## Revenant Blade
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points
 While wielding a double-bladed weapon with two hands, the weapon has the finesse trait for your attacks with it.
+
+## Second Wind
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Actions:** 1
+*You have a limited well of stamina that you can draw on to protect yourself from harm.*
+
+On your turn, you can regain stamina equal to 1dR + your constitution modifier. Once you use this talent, you must finish a short or long rest before you can use it again.
 
 ## Titan's Power
 

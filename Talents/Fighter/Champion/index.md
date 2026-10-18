@@ -5,78 +5,55 @@ grand_parent: Talents
 ---
 
 # Champion
-The champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Although often simple warriors who rely on mighty attacks and their own durability to overcome their enemies. Some champions combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
+The champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows. Although often simple warriors who rely on mighty attacks and their own durability to overcome their enemies, some champions combine this physical might with tactical cunning. Others just hit things until those things stop hitting back.
 
 ## Talents
 
-| Talent | CP | Prerequisites |
-|:------:|:--:|:-------------:|
-| Brute Force I            | 5  | - |
-| Weapon Mastery I         | 5  | - |
-| Brutish Durability       | 10 | Brute Force I |
-| Remarkable Athlete       | 5  | Weapon Mastery I |
-| Untouchable Paragon      | 25 | Brutish Durability or Remarkable Athlete |
-| Brute Force II           | 65 | Untouchable Paragon |
-| Weapon Mastery II        | 65 | Untouchable Paragon |
-| Survivor                 | 80 | Brute Force II or Weapon Mastery II |
+| Talent             | CP | Prerequisites |
+|:------------------:|:--:|:-------------:|
+| Improved Critical  | 15 | [Combat Superiority](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/#combat-superiority) |
+| Remarkable Athlete | 25 | Improved Critical |
+| Brutish Durability | 30 | Remarkable Athlete |
+| Superior Critical  | 65 | Brutish Durability |
+| Survivor           | 80 | Superior Critical |
 
-### Brute Force
-#### *Cost:* 5 Character Points
-*You're able to strike with your weapons with especially brutal force.*
-
-When you score a [Critical Hit](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Critical-Hits), add 1dM to the damage rolled.
-
-### Weapon Mastery I
+### Improved Critical
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
-Your maximized damage dice on a [Natural 20](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Natural-20) can occur on a 19 or 20 when you attack with a weapon you are proficient with.
-
-### Resolute Durability
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Brute Force I
-When you fail a defence check or death saving throw, you can reroll and take the better result. You can use this talent a number of times per long rest equal to your Constitution Modifier.
+#### **Cost:** 15 Character Points<br>**Prerequisite:** [Combat Superiority](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Fighter/#combat-superiority)
+Your attacks with weapons that you are proficient with [deal maximum damage](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Natural-20) on roll of 19-20.
 
 ### Remarkable Athlete
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points<br>**Prerequisite:** Weapon Mastery I
+#### **Cost:** 25 Character Points<br>**Prerequisite:** Improved Critical
 You may reroll any Strength, Dexterity, or Constitution check that you make that does not benefit from proficiency, but you must take the new result.
 
 In addition, when you make a running [long jump](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Athletics/Jump/#Long-Jump), the distance you can cover increases by a number of feet equal to your Strength modifier.
 
-### Untouchable Paragon
+### Brutish Durability
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisite:** Brutish Durability or Remarkable Athlete
-Attacks targeting you that deal Slashing or Bludgeoning damage no longer gain +1d when targeting Strength or Dexterity defence.
+#### **Cost:** 30 Character Points<br>**Prerequisite:** Remarkable Athlete
+*Your toughness allows you to shrug off assaults that would devastate others.*
 
-Additionally, you ignore the bulky property from 1 piece of armour that you are wearing.
+Whenever you make a defence check or death saving throw, you benefit from +1d.
 
-### Brute Force II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 65 Character Points<br>**Prerequisite:** Untouchable Paragon
-The damage bonus when you score a [Critical Hit](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Critical-Hits) now becomes 3dM
-
-### Weapon Mastery II
+### Superior Critical
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 65 Character Points<br>**Prerequisite:** Untouchable Paragon
-Maximized damage from a [Natural 20](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Natural-20) can now occur on an 18-20.
+#### **Cost:** 65 Character Points<br>**Prerequisite:** Brutish Durability
+Your attacks with weapons that you are proficient with [deal maximum damage](https://stormchaserroleplaying.com/stormchaserRPG/General/Damage/Roll/#Natural-20) on roll of 18-20.
 
 ### Survivor
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Brute Force II or Weapon Mastery II
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Superior Critical
 *You attain the pinnacle of resilience in battle.*
 
-At the start of each of your turns in combat, you regain stamina equal to 1dR + CON. You don't gain this benefit if you have 0 stamina or if you have more than half of your maximum stamina left.
+At the start of each of your turns in combat, you regain stamina equal to 1dR + your Constitution modifier. You don't gain this benefit if you have 0 stamina, or if you have more than half of your maximum stamina remaining.

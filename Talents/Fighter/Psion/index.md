@@ -1,11 +1,11 @@
 ---
-title: Psionic Warrior
+title: Psion
 parent: Fighter Talents
 grand_parent: Talents
 ---
 
-# Psionic Warrior
-Awake to the psionic power within, a Psionic Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes and barriers of mental force.
+# Psion
+Awake to the psionic power within, a Psion is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes and barriers of mental force.
 
 ## Talents
 

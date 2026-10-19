@@ -1,13 +1,11 @@
 ---
-title: Giant
+title: Giant Talents
 parent: Species Talents
 grand_parent: Talents
 ---
 
-# Giant
-Some fighters enhance their martial prowess using supernatural power from an ancient practice that originated with giants. Whether you learned this from a sage, or met a giant in person, you likely learned your methods first or second hand from such a giant.
-
-## Talents
+# Giant Talents
+Some enhance their martial prowess using supernatural power from an ancient practice that originated with giants. Whether you learned this from a sage, or met a giant in person, you likely learned your methods first or second hand from such a giant.
 
 | Talent         | CP | Prerequisites |
 |:--------------:|:--:|:-------------:|
@@ -15,7 +13,7 @@ Some fighters enhance their martial prowess using supernatural power from an anc
 | Great Stature  | 25 | Giant's Might |
 | Towering Giant | 30 | Great Stature |
 
-### Giant's Might
+## Giant's Might
 
 <div style="margin-top:-10px;"></div>
 
@@ -29,18 +27,18 @@ You magically gain the following benefits, which last for 1 minute:
 
 Once you have used this feature, you cannot use it again until you complete a long rest.
 
-### Great Stature
+## Great Stature
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 20 Character Points<br>**Prerequisite:** GIant's Might
+#### **Cost:** 20 Character Points<br>**Prerequisite:** Giant's Might
 *The magic of the giants permanently alters you.*
 
 When you gain this feature, roll 3d4. You grow a number of inches in height equal to the roll. You also count as one size larger when determining the weight that you can push, pull, drag, or lift.
 
 The extra damage that you deal with your Giant's Might feature increases to 2dM and you can use your Giant's Might feature again after completing a short rest.
 
-### Towering Giant
+## Towering Giant
 
 <div style="margin-top:-10px;"></div>
 

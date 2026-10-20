@@ -5,58 +5,49 @@ has_children: true
 ---
 
 # Ranger Talent Tree
-For those who relish the thrill of the hunt, there are only predators and prey. Be they scouts, trackers, or bounty hunters, rangers share much in common: unique mastery of specialized weapons, skill at stalking even the most elusive game, and the expertise to defeat a wide range of quarries. Knowledgeable, patient, and skilled hunters, these rangers hound man, beast, and monster alike, gaining insight into the way of the predator, skill in varied environments, and ever more lethal martial prowess. While some track man-eating creatures to protect the frontier, others pursue more cunning game: even fugitives among their own people.
+For those who relish the thrill of the hunt, there are only predators and prey. Be they scouts, trackers, or bounty hunters, rangers share much in common: unique mastery of specialised weapons, skill at stalking even the most elusive game and the expertise to defeat a wide range of quarries. Knowledgeable, patient and skilled hunters, these rangers hound man, beast and monster alike, gaining insight into the way of the predator, skill in varied environments and ever more lethal martial prowess. While some track man-eating creatures to protect the frontier, others pursue more cunning game: even fugitives amongst their own people.
 
 ## Core Talents
 
-| Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
-| Favoured Enemy I    | 5   | - |
-| Hunter's Mark       | 5   | - |
-| Exploration Knacks  | 5   | - |
-| Primeval Awareness  | 5   | - |
-| Hunter's Intuition  | 10  | Primeval Awareness |
-| Fleet of Foot       | 10  | Hunter's Intuition |
-| Favoured Enemy II   | 15  | Favoured Enemy and 4 Other Ranger Talents |
-| Hide in Plain Sight | 25  | Favoured Enemy II and 6 Other Ranger Talents |
-| Vanish              | 50  | Hide in Plain Sight and 9 Other Ranger Talents |
-| Feral Senses        | 80  | Vanish and 12 Other Ranger Talents |
-| Foe Slayer          | 100 | Feral Senses |
+| Talent                 | CP  | Prerequisites |
+|:-----------------------|:---:|:--------------|
+| Favoured Enemy         | 5   | [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training) |
+| Exploration Knacks     | 5   | [Nature](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Nature) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training) |
+| Primeval Awareness     | 5   | [Animal Handling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training) |
+| Hunter's Mark          | 5   | Favoured Enemy |
+| Greater Favoured Enemy | 10  | Hunter's Mark |
+| Hunter's Intuition     | 10  | Primeval Awareness |
+| Fleet of Foot          | 10  | Hunter's Intuition |
+| Hide in Plain Sight    | 30  | Stealth Mastery |
+| Vanish                 | 50  | Hide in Plain Sight |
+| Feral Senses           | 80  | Greater Favoured Enemy, Hunter's Intuition |
+| Foe Slayer             | 100 | Feral Senses |
 
-### Favoured Enemy I
+### Favoured Enemy
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training)
 *You have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.*
 
 Choose a type of favoured enemy: beasts, fey, humanoids, monstrosities, or undead. You add 1dM to weapon damage rolls against creatures of the chosen type.
 
 You have +1d on [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival) checks to track your favoured enemies, as well as on checks to [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall) about them and a number of additional skills equal to your wisdom modifier, when interacting with your favoured enemy.
 
-### Hunter's Mark
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 5 Character Points<br>**Actions:** 1
-*You focus your senses on a specific enemy*
-
-Using 1 action and expending 1 mana, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain +1dM to damage rolls with weapon attacks against this creature. In addition, you have +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) and [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creature within 90 feet.
-
 ### Exploration Knacks
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Nature](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Nature) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training)
 *For rangers, exploration isn't just something that happens between destinations - it's a way of life. You learn various techniques to make travel safer for you and your companions.*
 
-Choose a [Ranger Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) of your choice. As you gain Character Points, you may purchase additional [Knacks](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/). If an [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) has prerequisites, then you must meet them to learn it. You can learn the [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) at the same time that you meet its prerequisites.
+Choose a [Ranger Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) of your choice. As you gain Character Points, you may purchase additional [Knacks](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/). If a [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) has prerequisites, then you must meet them to learn it. You can learn the [Knack](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Ranger/Knacks/) at the same time that you meet its prerequisites.
 
 ### Primeval Awareness
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 5 Character Points
+#### **Cost:** 5 Character Points<br>**Prerequisites:** [Animal Handling](https://stormchaserroleplaying.com/stormchaserRPG/Skills/AnimalHandling/) [Training](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-training)
 *You can establish a powerful link to beasts and the land around you.*
 
 You have an innate ability to communicate with beasts and they recognise you as a kindred spirit. Using 2 actions, you can communicate simple ideas to a beast through sounds and gestures and can read its basic mood and intent. You learn its emotional state, whether it is affected by magic of any sort, its short term needs (such as food or safety) and actions that you can take (if any) to [Persuade](https://stormchaserroleplaying.com/stormchaserRPG/General/Persuasion/) it to not attack. You cannot use this ability against a creature that you have attacked in the past 10 minutes.
@@ -65,12 +56,32 @@ Additionally, you can attune your senses to determine if any of your favoured en
 
 You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a short or long rest.
 
+### Hunter's Mark
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisites:** Favoured Enemy<br>**Actions:** 1
+*You focus your senses on a specific enemy.*
+
+Using 1 action and expending 1 mana, you choose a creature that you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain +1dM to damage rolls with weapon attacks against this creature. In addition, you have +1d on [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Perception/) and [Survival](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Survival/) checks you make to find and track it. If the creature drops to 0 Stamina before the hour ends, you can use 1 action to mark a new creature within 90 feet.
+
+### Greater Favoured Enemy
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisites:** Hunter's Mark
+*You are ready to hunt even deadlier game.*
+
+Choose a type of favoured enemy from Favoured Enemy I, or from the following list: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favoured enemy, including an additional language.
+
+Additionally, you have +1d on defence checks against the spells and abilities used by all of your favoured enemies.
+
 ### Hunter's Intuition
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<
-*You are always alert and react with swift and decisive action when attacked.
+#### **Cost:** 10 Character Points<br>**Prerequisites:** Primeval Awareness
+*You are always alert and react with swift and decisive action when attacked.*
 
 You have +1d to initiative and, on your first turn during combat, +1d on attack rolls against creatures that have not yet acted.
 
@@ -78,29 +89,18 @@ You have +1d to initiative and, on your first turn during combat, +1d on attack 
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 10 Character Points<br>**Actions:** 1
+#### **Cost:** 10 Character Points<br>**Prerequisites:** Hunter's Intuition<br>**Actions:** 1
 *You move with greater agility as you dance among your foes.*
 
 Using an action, for 1 minute your movement does not provoke [attack of opportunity](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Movement/Triggers/#attack-of-opportunity/). You can choose to end this effect early to either double your movement speed once when you take the [Stride](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Stride/) or gain +1d on a weapon attack.
 
 You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a short or long rest.
 
-### Favoured Enemy II
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 15 Character Points<br>**Prerequisites:** Favoured Enemy and 4 Other Ranger Talents
-*You are ready to hunt even deadlier game.*
-
-Choose a type of favoured enemy from Favoured Enemy I, or from the following list: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favoured enemy, including an additional language.
-
-Additionally, you have +1d on defence checks against the spells and abilities used by all of your favoured enemies.
-
 ### Hide in Plain Sight
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 25 Character Points<br>**Prerequisites:** Favoured Enemy II and 6 Other Ranger Talents
+#### **Cost:** 25 Character Points<br>**Prerequisites:** [Stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) [Mastery](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Skill/Proficiency/#skill-mastery)
 *You can remain perfectly still for long periods of time to set up ambushes.*
 
 When you attempt to [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/) on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take -2d to their [Perception](https://stormchaserroleplaying.com/stormchaserRPG/General/Specific/Perception/) checks until the start of your next turn. You lose this benefit if you move or fall [prone](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Prone), either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.
@@ -111,7 +111,7 @@ If you are still hidden on your next turn, you can continue to remain motionless
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 50 Character Points<br>**Prerequisites:** Hide in Plain Sight and 9 Other Ranger Talents
+#### **Cost:** 50 Character Points<br>**Prerequisites:** Hide in Plain Sight
 *You can quickly hide from your enemies.*
 
 When you [Take Cover](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Moves/Cover/), you can also attempt to [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/) as part of the same action. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.
@@ -122,10 +122,10 @@ If you have the [Natural Explorer](https://stormchaserroleplaying.com/stormchase
 
 <div style="margin-top:-10px;"></div>
 
-#### **Cost:** 80 Character Points<br>**Prerequisite:** Vanish and 12 Other Ranger Talents
-*You gain preternatural senses that help you fight creatures you can’t see.*
+#### **Cost:** 80 Character Points<br>**Prerequisite:** Greater Favoured Enemy and Hunter's Intuition
+*You gain preternatural senses that help you to fight creatures that you can’t see.*
 
-When you attack a creature you can’t see, your inability to see it doesn't impose -1d on your attack rolls against it.
+When you attack a creature that you can’t see, your inability to see it doesn't impose -1d on your attack rolls against it.
 
 You are also aware of the location of any [invisible](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Invisible) creature within 30 feet of you, provided that the creature isn’t hidden from you and you aren't [Blinded](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Blinded/) or [Deafened](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Deafened/).
 
@@ -138,6 +138,6 @@ You are also aware of the location of any [invisible](https://stormchaserrolepla
 
 Your Strength or Dexterity score increases by 2, and your Wisdom score increases by 2. Your maximum for those scores also increases by 2.
 
-Additionally, once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+Additionally, once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack that you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
 ## Ranger Talent Tree Branches

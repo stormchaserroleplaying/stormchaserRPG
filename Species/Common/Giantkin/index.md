@@ -87,7 +87,7 @@ You can see twice as far as humans in conditions of dim light.
 You have +1d on [Stealth](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/) checks made to [Hide](https://stormchaserroleplaying.com/stormchaserRPG/Skills/Stealth/Hide/) in rocky terrain.
 
 #### Stone’s Endurance
-You can focus yourself to occasionally shrug off injury. On your turn, if you took damage in the last round, you can roll a d12 as a free action. Add your Constitution modifier to the number rolled and recover an amount of stamina equal to that total. If damage reduces you to 0 stamina, then this ability is automatically used, even if it isn't your turn.
+You can focus yourself to occasionally shrug off injury. On your turn, if you took damage in the last round, you can roll 1dR as a free action. Add your Constitution modifier to the number rolled and recover an amount of stamina equal to that total. If damage reduces you to 0 stamina, then this ability is automatically used, even if it isn't your turn.
 
 You can use this feature a number of times equal to your Constitution modifier and you regain all expended uses when you finish a long rest.
 

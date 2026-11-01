@@ -17,6 +17,7 @@ Your phenotype ability improves:
 * **Protector:** When you use your Radiant Soul to fly, you do not provoke Attacks of Opportunity when you move. Additionally, your flying speed increases to double your movement speed.
 * **Scourge:** When you use your Radiant Consumption to deal extra sacred damage to a target, you can make a trained Charisma attack vs the target's Constitution defence. On a hit, the creature is stunned until the end of your next turn. You can use this ability a number of times per long rest equal to your Charisma modifier.
 * **Fallen:** When you use your Necrotic Shroud to frighten creatures within 10 feet of you, they instead become panicked.
+* **Anima:** When you heal a creature while Radiant Abundance is active, you also alleviate one condition [Excluding Prone, Supine, Flat-Footed, Grappled, Restrained], or disease.
 * **Herald:** When you use your Radiant Mobility to enhance your speed, you do not provoke Attacls of Opportunity when you move and you can walk on liquids and vertical surfaces.
 
 ## Necrotic Shroud
@@ -65,6 +66,17 @@ Your transformation lasts for 1 minute or until you end it as an action. During 
 
 Once you use this trait, you can't use it again until you finish a long rest.
 
+## Radiant Abundance
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Anima Celestial Lineage Phenotype<br>**Actions:** 1
+*You unleash the divine energy within yourself, causing your eyes to glimmer and your major arteries to glow with golden light beneath your skin.*
+
+Your transformation lasts for 1 minute, or until you end it as an action. Whenever you roll dice to heal while it is active, add your Charisma modifier to the total amount. Once on each of your turns, you can deal extra sacred damage to one target when you deal damage to it with an attack or a spell. The extra sacred damage equals your Charisma modifier. 
+
+Once you use this trait, you can’t use it again until you finish a long rest.
+
 ## Anointed Metabolism
 
 <div style="margin-top:-10px;"></div>
@@ -75,6 +87,15 @@ Once you use this trait, you can't use it again until you finish a long rest.
 For the duration, you gain +1d to your Constitution Defense to resist poison and diseases for 1 hour.  
 
 Once you use this trait, you can't use it again until you finish a long rest.
+
+## Auric Healing
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Anima Celestial Lineage Phenotype and Radiant Abundance<br>**Actions:** 1
+*Such is the strength of your divine healing that it soothes those around the target.*
+
+When you heal yourself or another creature while your transformation is active, a single friendly creature within five feet of your target may roll a recovery die.  
 
 ## Desecrated Wings
 
@@ -105,6 +126,15 @@ You emit bright light in a 15 foot radius around you and dim light for another 1
 
 You must spend 1 action on subsequent turns to maintain this light, as though you were sustaining a spell. 
 
+## Refulgent Aid
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Prerequisite:** Anima Celestial Lineage Phenotype and Radiant Abundance
+*Your magic not only restores the body, but invigorates the spirit.*
+
+When you heal a creature while your transformation is active, roll a percentage die. If the number is equal to or below 10 + your Charisma modifier, the target gains 1 inspiration die.
+
 ## Angelic Intonation
 
 <div style="margin-top:-10px;"></div>
@@ -116,17 +146,6 @@ You can intone (singing, speaking, etc.) while your divine transformation is act
 
 You must spend 1 action on subsequent turns to continue your vocalizations and maintain this effect.
 
-## Quickstep Barrage
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 10 Character Points<br>**Prerequisite:** Herald Celestial Lineage Phenotype and Radiant Mobility<br>**Actions:** 3
-*You utilize your great speed to buffet an enemy with a rapid series of attacks.*
-
-While within melee range, you strike your target three times, moving quickly enough to attack them from a different direction each time. Each movement during this action incurs an Attack of Opportunity from your target, while each strike after the first benefits from Flanking. You cannot make these attacks with weapons that have the Heavy or Unwieldy properties.
-
-You may use this trait a number of times equal to your Dexterity modifier.
-
 ## Luminous Shield
 
 <div style="margin-top:-10px;"></div>
@@ -135,6 +154,26 @@ You may use this trait a number of times equal to your Dexterity modifier.
 *The field of sacred energy exuded by your transformation is powerful enough to disrupt the trajectory of projectiles upon reaching it.*
 
 While your divine transformation is active, you gain +1d to your defenses against ranged attacks and the area in a 10 foot radius around you is considered Difficult Terrain.
+
+## Numinous Fortitude
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Amina Celestial Lineage Phenotype, Radiant Abundance and Celestial Legacy Improvement
+*You briefly channel the divine stream of life in its entirety, which maintains and bolsters your form.*
+
+While your transformation is active, you regain Stamina equal to your Charisma Modifier at the start of each of your turns.
+
+## Quickstep Barrage
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 10 Character Points<br>**Prerequisite:** Herald Celestial Lineage Phenotype and Radiant Mobility<br>**Actions:** 3
+*You utilize your great speed to buffet an enemy with a rapid series of attacks.*
+
+During your transformation, you may make 3 melee strikes against a target within range, moving quickly enough to attack them from a different direction each time. Each movement during this action incurs an Attack of Opportunity from your target, while each strike after the first benefits from Flanking. You cannot make these attacks with weapons that have the Heavy or Unwieldy properties, and these attacks do not incur multiple attack penalty.
+
+You may use this trait a number of times equal to your Dexterity modifier.
 
 ## Woeful Hunger
 

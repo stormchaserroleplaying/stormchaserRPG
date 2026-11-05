@@ -14,6 +14,7 @@ grand_parent: Talents
 | Iron Fist         | 10 |
 | Patient Defense   |  1 |
 | Quickened Healing |  2 |
+| Endorphin Button  |  5 |
 | Step of the Wind  |  1 |
 | Stunning Strike   | 10 |
 
@@ -64,6 +65,15 @@ You can spend 1 mana to [Dodge](https://stormchaserroleplaying.com/stormchaserRP
 You learn the [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) spell. You always have this spell prepared and it does not count against your number of spells prepared. If you do not already have a spellcasting talent, then wisdom is considered to be your spellcasting attribute for the purposes of casting this spell.
 
 You cannot take this talent if you already know this spell (e.g. from [Celestial Legacy](https://stormchaserroleplaying.com/stormchaserRPG/Species/Lineages/Celestial/#celestial-legacy), or being a [Divine Soul](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Sorcerer/Divine/#good)).
+
+## Endorphin Button
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 5 Character Points<br>**Mana Cost:** 1
+You heighten the body’s senses and healing processes for a short time. 
+
+You can spend 1 mana to make a non-damaging Chi attack against a friendly target. On successfully hitting the target’s Constitution defense, the target receives resistance to the next instance of physical damage it encounters as endorphins flood the body. Additionally, the next time that they receive healing, they gain 1 additional die.
 
 ## Step of the Wind
 

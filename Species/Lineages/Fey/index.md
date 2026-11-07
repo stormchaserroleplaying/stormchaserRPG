@@ -15,7 +15,7 @@ A fey mystique surrounds you, thanks to the boon of an archfey, the shining frui
 Your character has the following features.
 
 ### Dreadful Strikes
-You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1dM mental damage to the target, which can only take this extra damage once per turn.
+You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1dP mental damage to the target, which can only take this extra damage once per turn.
 
 ### Otherworldly Glamour
 Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma-based check, you can instead use your Wisdom modifier.

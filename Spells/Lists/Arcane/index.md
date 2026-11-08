@@ -22,7 +22,7 @@ grand_parent: Spells
 * [Frostbite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#frostbite) (Evocation)
 * [Green-Flame Blade](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#green-flame-blade) (Evocation)
 * [Gust](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#gust) (Transmutation)
-*  [Imaginary Weapon](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#imaginary-weapon) (Conjuration)
+* [Imaginary Weapon](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#imaginary-weapon) (Conjuration)
 * [Infestation](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#infestation) (Conjuration)
 * [Kinkcraft](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#kinkcraft) (Conjuration)
 * [Lich Slap](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#lich-slap) (Necromancy)

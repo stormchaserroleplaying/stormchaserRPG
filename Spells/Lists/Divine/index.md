@@ -8,6 +8,7 @@ grand_parent: Spells
 
 ## Cantrips
 * [Alter Sex](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#alter-sex) (Transmutation)
+* [Ancient Dust](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#ancient-dust) (Necromancy)
 * [Control Flames](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#control-flames) (Transmutation)
 * [Create Bonfire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#create-bonfire) (Conjuration)
 * [Dommaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#dommaturgy) (Transmutation)
@@ -38,6 +39,7 @@ grand_parent: Spells
 * [Thunderclap](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#thunderclap) (Evocation)
 * [Toll the Dead](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#toll-the-dead) (Necromancy)
 * [Word of Radiance](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#word-of-radiance) (Evocation)
+* [Void Warp](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#void-warp) (Necromancy)
 * [Yank](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#yank) (Conjuration)
 
 ## Level 1

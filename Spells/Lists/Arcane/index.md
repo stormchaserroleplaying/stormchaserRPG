@@ -9,11 +9,13 @@ grand_parent: Spells
 ## Cantrips
 * [Acid Splash](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#acid-splash) (Conjuration)
 * [Alter Sex](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#alter-sex) (Transmutation)
+* [Ancient Dust](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#ancient-dust) (Necromancy)
 * [Blade Ward](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Warding/#blade-ward) (Warding)
 * [Booming Blade](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#booming-blade) (Evocation)
 * [Control Flames](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#control-flames) (Transmutation)
 * [Create Bonfire](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#create-bonfire) (Conjuration)
 * [Dancing Lights](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#dancing-lights) (Evocation)
+* [Distortion Lens](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#distortion-lens) (Illusion)
 * [Dommaturgy](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#dommaturgy) (Transmutation)
 * [Encode Thoughts](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Charms/#encode-thoughts) (Charms)
 * [Firebolt](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#fire-boltd) (Evocation)
@@ -21,7 +23,9 @@ grand_parent: Spells
 * [Frostbite](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#frostbite) (Evocation)
 * [Green-Flame Blade](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#green-flame-blade) (Evocation)
 * [Gust](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Transmutation/#gust) (Transmutation)
+* [Illusory Toils](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Illusion/#illusory-toils) (Illusion)
 * [Infestation](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#infestation) (Conjuration)
+* [Inside Ropes](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#inside-ropes) (Necromancy)
 * [Kinkcraft](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#kinkcraft) (Conjuration)
 * [Lich Slap](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#lich-slap) (Necromancy)
 * [Light](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#light) (Evocation)
@@ -47,6 +51,7 @@ grand_parent: Spells
 * [Toll the Dead](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#toll-the-dead) (Necromancy)
 * [Touch of Combustion](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Evocation/#touch-of-combustion) (Evocation)
 * [True Strike](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Divination/#true-strike) (Divination)
+* [Void Warp](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Necromancy/#void-warp) (Necromancy)
 * [Yank](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Conjuration/#yank) (Conjuration)
 
 ## Level 1

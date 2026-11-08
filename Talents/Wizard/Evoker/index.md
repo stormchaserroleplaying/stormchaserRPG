@@ -4,7 +4,7 @@ parent: Wizard Talents
 grand_parent: Talents
 ---
 
-# Evoker ([Wizard](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard))
+# Evoker
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
 
 ## Branch Features
@@ -17,17 +17,17 @@ Once you can cast spells of a given level, select two spells of that spell level
 
 | Spell Level | Spells |
 |:-----------:|:------:|
-| 1st | Any two 1st level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
-| 2nd | Any two 2nd level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations | 
-| 3rd | Any two 3rd level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
-| 4th | Any two 4th level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations | 
-| 5th | Any two 5th level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
+| 1st         | Any two 1st level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
+| 2nd         | Any two 2nd level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations | 
+| 3rd         | Any two 3rd level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
+| 4th         | Any two 4th level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations | 
+| 5th         | Any two 5th level [arcane](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Lists/Arcane/) evocations |
 
 ## Talents
 
-| Talent | CP | Prerequisites |
-|:-------|:--:|:--------------|
-| Sculpt Spells       | 5 | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
+| Talent              | CP | Prerequisites |
+|:--------------------|:--:|:--------------|
+| Sculpt Spells       |  5 | [Spellbook](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook) |
 | Potent Cantrip      | 20 | 3rd Level Spells and Sculpt Spells |
 | Explosive Evocation | 30 | 5th Level Spells and Potent Cantrip |
 | Overchannel         | 50 | 7th Level Spells and Explosive Evocation |
@@ -37,21 +37,21 @@ Once you can cast spells of a given level, select two spells of that spell level
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 5 Character Points<br>**Prerequisite:** [Spellbook Talent](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Wizard/#spellbook)
-You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the amount of mana expended. Your evocation attacks automatically miss the chosen creatures and they take no damage, if they would normally take half damage on a miss.
+You can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the amount of mana expended. Your evocation attacks against the chosen creatures' defence automatically miss, and they take no damage if they would normally take half damage on a miss.
 
 ### Potent Cantrip
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 20 Character Points<br>**Prerequisite:** 3rd Level Spells and Sculpt Spells  
-Whenever you make an attack with a damaging cantrip and all of the dice in your dice pool miss, you still deal damage equal to half of the normal damage to the target, as though one die had hit. The target is not affected by any other additional effects of that cantrip.   
+Whenever you target a creature with a damaging cantrip and you miss, you still deal damage equal to half the normal damage to the target. The target is not affected by any other additional effects of that cantrip.
 
 ### Explosive Evocation  
 
 <div style="margin-top:-10px;"></div>
 
 #### **Cost:** 30 Character Points<br>**Prerequisite:** 5th Level Spells and Potent Cantrip
-When you cast an evocation spell, if you roll the maximum value on any damage die, you may roll that die again and add the result to the total damage. If the additional roll is also the maximum value, you may repeat this process. This process continues until the maximum value is not rolled.
+When you cast an evocation spell, if you roll the maximum value on any damage die, you may roll that die again and add the result to the total damage. If the additional roll is also the maximum value, you may repeat this process.
 
 This feature applies only to damage dice that are actually rolled. It cannot be used in conjunction with any feature or effect that maximises a spell’s damage or sets a die to its maximum value without rolling.
 

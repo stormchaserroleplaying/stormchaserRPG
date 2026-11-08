@@ -41,6 +41,17 @@ Make a transmutation attack vs a creature's Wisdom defence. On a hit, the creatu
 
 **At Higher Levels.** If you cast this spell using 3 or more mana, then the spell's duration increases by 2 days for each additional mana.
 
+## Disrobe
+*2nd level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 30 Feet<br>
+**Components:** V, S*<br>
+**Duration:** Instantaneous
+
+The creature's clothing, including undergarments, belts, and footwear, loosen and fall off its body, leaving it naked. Nonmagical jewelry, including rings, earrings, and necklaces also fall, sliding off as if covered in grease. Objects that are held remain in the creature's grasp, as well as magic items that are worn. 
+
+If a target wears nonmagical armour, make a transmutation attack vs its Dexterity defense. On a hit, the creature becomes [flat-footed](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Flatfooted/) and [staggered](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Staggered/) due to the clumsy way which their armour dangles off its body. These conditions persist until the armour is either donned properly or completely removed. It takes half the time as normal to perform either the [donning or removal](https://stormchaserroleplaying.com/stormchaserRPG/Equipment/Armour/Wearing/#donning-and-doffing-armour-suits). It requires a full-round action to don regular clothes. 
+
 ## Dusk that Settles On Mud
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
@@ -53,7 +64,7 @@ Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any 
 ## Earthen Grasp
 *2nd level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet (5-foot cube)<br>
+**Range:** 30 Feet (5-foot cube)<br>
 **Components:** V, S, M *(A miniature hand sculpted in clay.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -63,7 +74,7 @@ Using 2 actions you can cause the hand to crush the [restrained](https://stormch
 
 To break out, the [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) target can use 2 actions to make a Strength defence check vs your transmutation skill. On a success, the target escapes and is no longer [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) by the hand.
 
-As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) target if you do either.
+On each of your turns after you cast this spell, as part of the action to [sustain](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Casting/Duration/#sustaining-spells) the spell,, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) target if you do either.
 
 ## Enhance Ability
 *2nd level Transmutation*<br>
@@ -91,7 +102,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 ## Enlarge/Reduce
 *2nd level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 ft<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A pinch of powdered iron.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -104,7 +115,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 ## Haste
 *2nd Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A shaving of licorice root.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -130,14 +141,14 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A sheet of paper.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
-You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
+You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or sacred damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
 
 ## Slow
 *2nd Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 120 feet (40-foot cube)<br>
+**Range:** 120 Feet (40-foot cube)<br>
 **Components:** V, S, M *(A drop of molasses.)*<br>
 **Duration:** Sustained, up to 1 minute
 
@@ -152,7 +163,7 @@ A creature affected by this spell makes a Strength defence check vs your transmu
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A drop of bitumen and a spider's leg.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 *Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface.*
 
@@ -160,22 +171,36 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ## Spike Growth
 **Casting Time:** 2 Actions<br>
-**Range:** 150 feet (20-foot radius sphere)<br>
+**Range:** 150 Feet (20-foot radius sphere)<br>
 **Components:** V, S, M *(Seven sharp thorns.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained
 
 Any ground-covering vegetation in a 20-foot radius centered on a point within range becomes very hard and sharply pointed without changing its appearance. In areas of bare earth, roots and rootlets act in the same way. Typically, spike growth can be cast in any outdoor setting except open water, ice, heavy snow, sandy desert, or bare stone.
 
 The area becomes difficult terrain for the duration and any creature moving on foot into or through the spell's area takes 1d4 points of piercing damage for each 5 feet of movement through the spiked area.
 
-When a creature that takes damage from this spell must also succeed at a Dexterity defence check vs your transmutation DC or suffer injuries to its feet and legs that slow its speed by half. This speed penalty lasts for 24 hours or until the injured creature receives a [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) spell (which also restores lost Stamina). Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding on a Medicine check vs. your transmutation save DC.
+When a creature that takes damage from this spell must also succeed at a Dexterity defence check vs your transmutation skill or suffer injuries to its feet and legs that slow its speed by half. This speed penalty lasts for 24 hours or until the injured creature receives a [Heal](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Restoration/#heal) spell (which also restores lost Stamina). Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding on a Medicine check vs. your transmutation skill.
 
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Perception check vs your transmutation skill to recognize the terrain as hazardous before entering it.
+The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Awareness check vs your transmutation skill to recognize the terrain as hazardous before entering it.
+
+## Thaumic Sigil: Ocular Sensitivity 
+*2nd Level Transmutation (Ritual)*<br>
+**Casting Time:** 1 Minute<br>
+**Range:** 5 Feet<br>
+**Components:** V, S, M *(A glass eye; precious gems worth at least 100 gp, which the spell consumes.)*<br>
+**Duration:** Until Dispelled
+
+As part of casting this spell, a sigil is imprinted onto the skin of the target. This sigil can neither be removed nor will an illusion mask its presence. When this spell ends the sigil fades. A creature may only be marked with only one Thaumic Sigil at a time and any subsequent Thaumic Sigil marking causes the previous sigil to vanish. This effect may only be ended by the spells Greater Restoration or Wish.
+
+When you cast this spell a sigil is imprinted on a creature and they become acutely aware of those around them that are assessing their potential to provide carnal pleasure to them. The target gains a latent psychic ability to know when another creature is looking at them lasciviously and what the gazer is imagining doing with them. While imprinted with this sigil the target has the following effects:
+
+* They have advantage on Charisma skill checks related to seducing someone that is lasciviously assessing them.
+* If they are looked upon in such a manner by more than 2 creatures, they gain 1 Temporary Stamina for each minute those creatures spend fixated upon them, to a maximum of 20.
 
 ## Water Breathing
 *2nd Level Transmutation (Ritual)*<br>
 **Casting Time:** 2 Actions<br>
-**Range:** 30 feet<br>
+**Range:** 30 Feet<br>
 **Components:** V, S, M *(A short reed or piece of straw)*<br>
 **Duration:** 1 Hour
 

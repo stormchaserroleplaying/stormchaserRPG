@@ -84,7 +84,11 @@ grand_parent: Spells
 * [Fog Cloud](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#fog-cloud) (Conjuration)
 * [Frost Fingers](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Evocation/#frost-fingers) (Evocation)
 * [Gift them Their Misfortune](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Necromancy/#gift-them-their-misfortune) (Necromancy)
+<<<<<<< Kais-spells-and-cleanup
+* [Healing Elixir](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Conjuration/#healing-elixir) (Conjuration)
+=======
 * [Heel](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#heel) (Charms)
+>>>>>>> main
 * [Hidden Item](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Illusion/#hidden-item) (Illusion)
 * [Hideous Laughter](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Charms/#hideous-laughter) (Charms)
 * [Identify](https://stormchaserroleplaying.com/stormchaserRPG/Spells/1/Divination/#identify) (Divination)

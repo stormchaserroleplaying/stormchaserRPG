@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
@@ -26,9 +26,18 @@ You assume a different form. When you cast the spell, choose one of the followin
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A handful of oak bark.)*<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance and they gain DR 8 and coverage 1-2, 8-16. The effects of this spell do not stack with worn armour.
+
+## Darkvision
+*2nd level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Touch<br>
+**Components:** V, S, M *(A drided carrot.)*<br>
+**Duration:** 8 hours
+
+For the duration, a willing creature you touch has [darkvison](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/Special/#darkvision) to a range of 150 feet.
 
 ## Disfiguring Touch
 *2nd level Transmutation*<br>
@@ -55,7 +64,7 @@ Sprinkle the dust of a black ore onto clay, mud, soil, brick, limestone, or any 
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet (5-foot cube)<br>
 **Components:** V, S, M *(A miniature hand sculpted in clay.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature that you can see within 5 feet of it. Make a transmutation attack vs the Strength defence of the creature. On hit, the target takes 2d6 bludgeoning damage and is [restrained](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Restrained/) for the spell’s duration.
 
@@ -70,7 +79,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(Fur or a feather from a beast.)*<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained,1 hour
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
@@ -93,7 +102,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 **Casting Time:** 2 Actions<br>
 **Range:** 30 ft<br>
 **Components:** V, S, M *(A pinch of powdered iron.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, make a transmutation attack vs the Constitution defence of the target. On a miss, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
@@ -106,7 +115,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 **Casting Time:** 2 Actions<br>
 **Range:** 30 feet<br>
 **Components:** V, S, M *(A shaving of licorice root.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 Choose a willing creature that you can see within range. Magic empowers the target to act faster. Until the spell ends, the target's speed is doubled and it gains +1d to Dexterity defence.
 
@@ -114,12 +123,23 @@ When the spell ends, the target can't move and suffers -1d to Dexterity defence 
 
 **At Higher Levels.** If you cast this spell using 3 mana or more, then the target also gains +1d to melee and ranged attacks. If you cast this spell using 4 mana or more, then the target gains an additional action on each of its turns.
 
+## Levitate
+*2nd Level Transmutation*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** 60 feet<br>
+**Components:** V, S, M *(A metal spring.)* <br>
+**Duration:** Sustained, 10 minutes
+
+One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution defence check is unaffected.
+
+**At Higher Levels.** When you cast this spell using 3 or mana, you can choose to add an additional 20 feet or lift an additional 500 pounds for each additional mana used.
+
 ## Magic Weapon
 *2nd Level Transmutation*<br>
 **Casting Time:** 1 Action<br>
 **Range:** Touch<br>
 **Components:** V, S<br>
-**Duration:** Sustained, up to 1 hour
+**Duration:** Sustained, 1 hour
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
@@ -130,16 +150,25 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A sheet of paper.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained, 10 minutes
 
 You touch a willing creature while begging them to fly halfway around the world. The target gains a flying speed of 30 feet for the duration. This spell ends early if the target takes fire or radiant damage. When the spell ends, the target comes spiraling down, landing in a random location within a horizontal radius equal to their altitude when the spell ended.
+
+## Skywrite
+*2nd Level Transmutation (Ritual)*<br>
+**Casting Time:** 2 Actions<br>
+**Range:** Sight<br>
+**Components:** V, S*<br>
+**Duration:** Sustained, 1 hour
+
+You cause up to ten words to form in a part of the sky you can see. The words appear to be made of clouds and remain in place for the spell’s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
 
 ## Slow
 *2nd Level Transmutation*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 120 feet (40-foot cube)<br>
 **Components:** V, S, M *(A drop of molasses.)*<br>
-**Duration:** Sustained, up to 1 minute
+**Duration:** Sustained, 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Make a transmutation attack vs the Strength defence of each target. On a hit, an affected target's speed is halved, it takes −1d to Dexterity defence.
 
@@ -152,7 +181,7 @@ A creature affected by this spell makes a Strength defence check vs your transmu
 **Casting Time:** 2 Actions<br>
 **Range:** Touch<br>
 **Components:** V, S, M *(A drop of bitumen and a spider's leg.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained, 10 minutes
 
 *Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface.*
 
@@ -162,7 +191,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 **Casting Time:** 2 Actions<br>
 **Range:** 150 feet (20-foot radius sphere)<br>
 **Components:** V, S, M *(Seven sharp thorns.)*<br>
-**Duration:** Sustained, up to 10 minutes
+**Duration:** Sustained, 10 minutes
 
 Any ground-covering vegetation in a 20-foot radius centered on a point within range becomes very hard and sharply pointed without changing its appearance. In areas of bare earth, roots and rootlets act in the same way. Typically, spike growth can be cast in any outdoor setting except open water, ice, heavy snow, sandy desert, or bare stone.
 

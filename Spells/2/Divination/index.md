@@ -11,7 +11,7 @@ grand_parent: Spells
 **Casting Time:** 2 Actions<br>
 **Range:** Self<br>
 **Components:** V, S, M *(A copper coin.)*<br>
-**Duration:** Sustained
+**Duration:** Sustained, 1 minute
 
 For the duration, you can read the thoughts of certain creatures. When you cast the spell and as an action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 

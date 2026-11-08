@@ -43,14 +43,14 @@ Make a conjuration attack roll vs the Constitution defence of one creature that 
 
 ## Imaginary Weapon
 **Conjuration Cantrip**<br>
-**Casting Time:** 2 Actions<br>
+**Casting Time:** 1 Action<br>
 **Range:** Special<br>
-**Components:** M, S, V *(A small bit of metal or wood)*<br>
+**Components:** V, S, M *(A small bit of metal or wood)*<br>
 **Duration:** Instantaneous
 
-You summon a weapon of any type you choose and make a spell attack roll against the target's DEX defense. On a hit, the target takes 1d4 plus your spellcasting modifier force damage.
+You summon a weapon of your choice, which can be used to [strike](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Strike/). On a hit, the target suffers the weapon's damage die + your spellcasting attribute modifier in energy damage.
 
-You can choose to summon a ranged weapon with this spell. If you do, the range is the same as a regular weapon.
+You can choose to summon a ranged weapon with this spell. If you do so, then the range is the same as a regular weapon.
 
 ## Kinkcraft
 **Conjuration Cantrip**<br>
@@ -117,10 +117,10 @@ Make conjuration attack rolls vs the Dexterity defence of all other creatures wi
 *Conjuration Cantrip*<br>
 **Casting Time:** 2 Actions<br>
 **Range:** 60 Feet<br>
-**Components:** M, S, V<br>
+**Components:** V, S, M *(A dead bug.)*<br>
 **Duration:** Instantaneous
 
-Insects begin crawling over the skin of the target, delivering a dozen small bites to cripple their fortitude. Make a spell attack against the target's CON defense. On a hit, the target becomes [Nauseated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Nauseated/) for a number of rounds equal to your spellcasting modifier.
+Insects begin crawling over the skin of the target, delivering a dozen small bites to cripple their fortitude. Make a conjuration attack against the target's constitution defense. On a hit, the target becomes [Nauseated](https://stormchaserroleplaying.com/stormchaserRPG/Conditions/Nauseated/) for a number of rounds equal to your spellcasting modifier.
 
 ## Yank
 *Conjuration Cantrip*<br>

@@ -8,15 +8,14 @@ grand_parent: Spells
 
 ## Discern Secrets
 *Divination Cantrip*<br>
-**Casting Time:** 2 Actions<br>
+**Casting Time:** 1 Action<br>
 **Range:** 30 Feet<br>
-**Components:** S, V<br>
+**Components:** S<br>
 **Duration:** Sustained
-**Prerequisite**: [Discern Secrets](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/#discern-secrets)
 
-Your patron whispers bits of knowledge into the mind of a willing target. For the spell duration, the target can use the [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), or [Sense Motive](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Sense/) action once per round as a free action. If you [Sustain the spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Duration/#sustaining-spells/) the spell, they receive +1d after the first round.
+Your patron deigns to whisper a few secrets. For the spell's duration, the target can use the [Recall Knowledge](https://stormchaserroleplaying.com/stormchaserRPG/Skills/General/Recall/), [Seek](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Seek/), or [Sense Motive](https://stormchaserroleplaying.com/stormchaserRPG/Combat/Actions/Sense/) action once per round as a free action. The target gains +1d to the statistic used for the roll (a [skill](https://stormchaserroleplaying.com/stormchaserRPG/Skills/) or [Awareness](https://stormchaserroleplaying.com/stormchaserRPG/General/Awareness/)). This bonus applies to the initial roll and persists for as long as you [sustain the spell](https://stormchaserroleplaying.com/stormchaserRPG/Spellcasting/Duration/#sustaining-spells/).
 
-When the spell ends, the target cannot be affected by this spell for 1 hour after the spell ends.
+Once the spell ends, the target cannot be affected by this spell again until 1 hour has passed since the spell ended.
 
 ## Enlightened Tally
 *Divination Cantrip*<br>

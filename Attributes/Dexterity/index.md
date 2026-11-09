@@ -23,5 +23,3 @@ The GM might call for a Dexterity check when you try to accomplish tasks like th
 ## Attack Rolls and Damage
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-## Initiative
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in [Initiative](http://stormchaserroleplaying.com/stormchaserRPG/Combat/TheOrderofCombat/Initiative/).

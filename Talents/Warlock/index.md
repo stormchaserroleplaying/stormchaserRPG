@@ -8,7 +8,7 @@ has_children: true
 
 ## Core Talents
 
-| Talent | CP | Prerequisites |
+| Talent               | CP  | Prerequisites |
 |:---------------------|:---:|:-------------------------------------------------|
 | Eldritch Invocations | 5   | 1 Warlock Branch Talent                          |
 | Discern Secrets      | 3   | 1 Warlock Branch Talent                          |

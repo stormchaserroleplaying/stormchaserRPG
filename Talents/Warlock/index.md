@@ -24,14 +24,7 @@ has_children: true
 
 You gain an [Eldritch Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) of your choice. As you gain Character Points, you may purchase additional [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/). If an [Eldritch Invocation]((https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/)) has prerequisites, then you must meet them to learn it. You can learn the [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) at the same time that you meet its prerequisites.
 
-Additionally, when you gain a new talent in this class or a spellcasting talent, you can choose one of the [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you know and replace it with another [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you could learn, provided that they share the same Character Point cost. 
-
-### Discern Secrets
-
-<div style="margin-top:-10px;"></div>
-
-#### **Cost:** 3 Character Points<br>**Prerequisite:** 1 Warlock Branch Talent
-You learn the [Discern Secrets](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Divination/#discern-secrets) cantrip. This spell does not count towards your limit of cantrips known.
+Additionally, when you gain a new talent in this class or a spellcasting talent, you can choose one of the [Invocations](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you know and replace it with another [Invocation](https://stormchaserroleplaying.com/stormchaserRPG/Talents/Warlock/Invocations/) that you could learn, provided that they share the same Character Point cost.
 
 ### Pact Boon
 

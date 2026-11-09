@@ -6,9 +6,10 @@ grand_parent: Talents
 
 ## Eldritch Invocations 
 
-| Invocation | CP | Prerequisites |
-|:-----------|:--:|:--------------|
-| Armour of Shadows               | 5  | - | 
+| Invocation                     | CP | Prerequisites |
+|:-------------------------------|:--:|:--------------|
+| Discern Secrets                | 3  | - |
+| Armour of Shadows              | 5  | - | 
 | Aspect of the Moon             | 5  | Spellbook | 
 | Beast Speech                   | 5  | - |
 | Devil's Sight                  | 5  | - |
@@ -63,6 +64,13 @@ grand_parent: Talents
 | Witch Sight                    | 65 | 8th Level Spells |
 
 ## Eldritch Invocations Desriptions 
+
+### Discern Secrets
+
+<div style="margin-top:-10px;"></div>
+
+#### **Cost:** 3 Character Points
+You learn the [Discern Secrets](https://stormchaserroleplaying.com/stormchaserRPG/Spells/Cantrips/Divination/#discern-secrets) cantrip. This spell does not count towards your limit of cantrips known.
 
 ### Armour of Shadows
 

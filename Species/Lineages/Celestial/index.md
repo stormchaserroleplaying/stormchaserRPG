@@ -43,3 +43,6 @@ Protectors are charged by the powers of good to guard the weak, to strike at evi
 
 ### Scourge
 The scourge are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil; a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourges wear masks to block out the world and focus on containing this power, unmasking themselves only in battle.
+
+### Anima
+Anima are intrinsically attuned to the energies of life and creation, nurturing and inspiring all beings to thrive wherever they go. Anima have natural aptitudes for healing and utilize their divine gifts in service of the well-being of all.

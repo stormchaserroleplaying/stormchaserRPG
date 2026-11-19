@@ -27,7 +27,7 @@ Damage reduction is applied *before* damage *resistance*.
 ## Properties
 
 ### Bashing
-A shield with the bashing property can be used as a weapon, rolling the damage die shown in parenthesis.
+A shield with the bashing property can be used as a weapon, rolling the damage die shown in parenthesis. Attack rolls use the Simple weapon proficiency.
 
 ### Bulky
 Bulky armour cannot be hidden from plain sight and may provoke use of the *heat metal* spell from hostile spellcasters. You cannot benefit from the concealed armour property while wearing bulky armour. Furthermore, if you are wearing a bulky shield you cannot make use of a weapon's parry property.

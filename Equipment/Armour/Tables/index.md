@@ -62,4 +62,4 @@ The armour tables show the cost, weight and other properties of the common types
 | Armour spikes | +1&nbsp;<img src="https://img.icons8.com/ios-filled/12/FFFFFF/archer.png"> damage for unarmed strikes, worn | +10 lbs. | +50 gp |
 | Gauntlet, locked | Disadvantage to disarm locked weapon, action to remove | +5 lbs. | +8 gp |
 | Shield spikes | Increase damage die size by one step, remove non-lethal | +5 lbs. | +10 gp |
-| Shield, throwing | Thrown&nbsp;(1d6&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, 20/60) | — | +50 gp |
+| Shield, throwing | Thrown&nbsp;(1d6&nbsp;<img src="https://img.icons8.com/ios-glyphs/12/FFFFFF/thor-hammer.png">, Simple, 20/60) | — | +50 gp |
